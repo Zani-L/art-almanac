@@ -36,6 +36,8 @@
         <p id="puzzle-byline" class="byline"></p>
       </header>
 
+      <p id="puzzle-progress" class="puzzle-progress" role="status" aria-live="polite">Loading the puzzle...</p>
+
       <section class="controls puzzle-controls" aria-label="Puzzle options">
         <div class="picker">
           <label class="picker-label" for="piece-count">Pieces:</label>
@@ -51,12 +53,11 @@
       </section>
     </div>
 
-    <p id="puzzle-progress" class="puzzle-progress" role="status" aria-live="polite">Loading the puzzle...</p>
-    <p class="puzzle-help">Drag each square to where it belongs. Pieces that fit together stick to each other, and a piece that reaches its spot on the board snaps in and stays. Keyboard: Tab to a piece, then use the arrow keys.</p>
-
     <div id="stage" class="stage">
       <div id="board" class="board" aria-hidden="true"></div>
     </div>
+
+    <p class="puzzle-help">Drag each square to where it belongs. Pieces that fit together stick to each other, and a piece that reaches its spot on the board snaps in and stays. Keyboard: Tab to a piece, then use the arrow keys.</p>
 
     <div id="done" class="done" hidden>
       <h2>You rebuilt it!</h2>

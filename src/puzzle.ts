@@ -127,9 +127,9 @@ function loadImage(url: string): Promise<HTMLImageElement> {
 function layoutBoard(): void {
   const sw = stage.clientWidth;
   const sh = stage.clientHeight;
-  // The board takes about 58% of the width and 70% of the height so there is room around it for loose pieces.
-  const maxW = sw * 0.58;
-  const maxH = sh * 0.7;
+  // The picture area takes as much of the stage as it can; loose pieces sit in the margins around it.
+  const maxW = sw * 0.68;
+  const maxH = sh * 0.9;
   const scale = Math.min(maxW / naturalW, maxH / naturalH);
   cellW = Math.max(18, Math.floor((naturalW * scale) / cols));
   cellH = Math.max(18, Math.floor((naturalH * scale) / rows));
@@ -492,8 +492,9 @@ async function init(): Promise<void> {
   guideBox.addEventListener("change", () => layoutBoard());
   $("shuffle").addEventListener("click", build);
   $("again").addEventListener("click", build);
+  // Re-fit whenever the stage changes size (window resize, or the "done" banner appearing below it).
   let timer = 0;
-  window.addEventListener("resize", () => { window.clearTimeout(timer); timer = window.setTimeout(relayout, 80); });
+  new ResizeObserver(() => { window.clearTimeout(timer); timer = window.setTimeout(relayout, 60); }).observe(stage);
 }
 
 void init();
