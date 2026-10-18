@@ -1,0 +1,159 @@
+{
+  "id": "met-240372",
+  "day": "02-07",
+  "title": "Terracotta bird-shaped vase",
+  "artist": "Artist unknown",
+  "date": "ca. 850–750 BCE",
+  "medium": "Terracotta",
+  "movement": "Cypro-Geometric",
+  "region": "Cyprus",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-35260-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP-35260-001.jpg",
+    "credit": "The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874–76",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small clay vase shaped like a duck, with a rounded body and a bird's head. Its surface is the warm brown-orange color of baked clay.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/240372",
+    "objectId": "240372",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, object name (Vase in the form of a duck), date, medium, culture (Cypriot), period (Cypro-Geometric III), height, tags (Ducks), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A terracotta vase in the form of a duck, made on Cyprus about 850–750 BCE, in the period archaeologists call Cypro-Geometric III. It is about 13 centimeters tall and came to the Met in the 1870s as part of the Cesnola Collection.",
+  "descriptions": {
+    "k": "This pot looks like a duck! It was made on the island of Cyprus very long ago. It has a round body and a small head. It is a vessel, so it could hold something. What sound would this duck make?",
+    "g12": "Long ago, a potter on the island of Cyprus shaped clay into a duck. It is a vase, so it was made to hold something. The potter gave it a round body and a bird's head. The baked clay is called terracotta. What parts of the duck can you find?",
+    "g35": "This vase from Cyprus is shaped like a duck and is about 13 centimeters tall. It was made between about 850 and 750 BCE, in a time archaeologists call Cypro-Geometric III, a name that points to the patterns on pottery of that era. The material is terracotta, a kind of baked clay. Look at how the potter turned a useful container into an animal. What details help you recognize a duck, and what might the potter have simplified?",
+    "g68": "Potters on Cyprus in the early first millennium BCE made vessels in animal shapes, and this duck is one example. It is terracotta, formed from clay and fired, and its period name, Cypro-Geometric III, refers to the geometric style of decoration on pottery then. The potter had two jobs at once: build a sturdy container and suggest a living bird. How does the shape simplify a duck? Consider why a household might prefer an animal-shaped vessel to a plain jar.",
+    "g910": "This duck-shaped vase, made on Cyprus around 850–750 BCE, belongs to the Cypro-Geometric III period, a term drawn from the geometric designs typical of the island's pottery then. It came to the Met through the Cesnola Collection, assembled by Luigi Palma di Cesnola in the 19th century. Form and function overlap here: the vase is a container, yet it presents itself as a bird. How much does the animal shape contribute to its meaning, and what stays uncertain when we do not know exactly where and how it was used?",
+    "g1112": "Animal-shaped vessels from the Cypriot Iron Age present a puzzle: the duck is both container and small sculpture. Dated to about 850–750 BCE, this vase belongs to a tradition in which shape, not only painted decoration, carried visual interest. Because the Cesnola Collection was assembled in the 19th century, the original findspots of many of its objects are poorly recorded, which limits claims about ritual or everyday use. Some scholars might see such vessels as playful household pieces, others as offerings. How should viewers interpret an object whose context is uncertain?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If this clay duck could quack, what would it say? Make the sound.",
+      "emotion": "Does this clay duck look funny, calm, or proud to you? What shows it?",
+      "observation": "Find the duck's body and its head. Which part is bigger?",
+      "analysis": "What tells you right away that this pot is a bird and not a person or a cat?",
+      "line": "Trace the curve from the duck's head down to its back in the air. Does your line go up, down, or both?",
+      "shape": "Which round shapes do you see in the duck? Where is the roundest part?",
+      "color": "Terracotta is clay that turns orange or brown when baked. What colors do you see on this duck?",
+      "texture": "Baked clay can feel dry and a little bumpy. How do you think this duck would feel if you touched it?",
+      "space": "This pot was made to hold something inside. Where on the duck do you think the empty space is?",
+      "light": "Where does the light make the duck's round body look bright? Where does it look darker?",
+      "meaning": "Why might someone make a pouring pot in the shape of a duck? Share your idea.",
+      "culture": "How might ducks and water have been part of life on an island long ago?",
+      "technique": "A potter shaped this duck from soft clay. How would you shape a round body and a small head?",
+      "personal": "What animal would you turn into a pot? Tell about it.",
+      "critical": "A pot is for using, but this one is also an animal. Why do you think the potter made it both?"
+    },
+    "g12": {
+      "daily": "Which parts of this vase tell you it is a duck? Show the details that helped you decide.",
+      "emotion": "How does a pot shaped like a duck make you feel? Which parts help you feel that way?",
+      "observation": "Look from the duck's head to the other end. Describe three things you notice.",
+      "analysis": "How did the potter turn a container into an animal? What did the potter keep simple?",
+      "line": "Follow the outline of the duck with your eyes. Where does the line curve the most?",
+      "shape": "Find the biggest shape and a smaller shape on the duck. How do they fit together?",
+      "color": "Which colors can you find on the duck? How do they make the clay look warm or plain?",
+      "texture": "The vase is baked clay. Does it look smooth or rough? What do you see that gives you a clue?",
+      "space": "Imagine looking at the duck from the side, then from above. What would change?",
+      "light": "Where would light touch the duck first? Where might shadows form under its body?",
+      "meaning": "A duck lives near water, and this vase may have held liquid. Why might those two ideas go together?",
+      "culture": "People on Cyprus made pottery like this about 2,800 years ago. What does a duck-shaped pot tell you about them?",
+      "technique": "Terracotta means baked earth. Why must clay be heated in a fire to make a vase that lasts?",
+      "personal": "Think of something in your home that is shaped like an animal. How is it like this duck?",
+      "critical": "Is this vase more like a tool or more like a sculpture? Use details to explain."
+    },
+    "g35": {
+      "daily": "How does the potter make a useful container look like a living duck? Point to the details that matter most.",
+      "emotion": "What personality does this duck vase seem to have? Which features create that feeling?",
+      "observation": "Look slowly from one end of the vase to the other. What small details do you notice that you missed at first?",
+      "analysis": "Which parts of the duck did the potter show clearly, and which parts were left out? Why might that be?",
+      "line": "How do curved lines in the duck's body compare with any straighter lines at its head or base?",
+      "shape": "How does the potter use large and small rounded forms to build a duck that can also hold liquid?",
+      "color": "How do the colors of the baked clay affect the way the duck looks? What would change if it were painted brightly?",
+      "texture": "Terracotta is fired clay. What clues in the picture tell you how the surface might feel?",
+      "space": "A vase has an outside shape and an empty inside. How does that make this object different from a duck statue?",
+      "light": "How does light help you see the duck's rounded form? Where would the strongest shadow fall?",
+      "meaning": "A duck is a water bird. Why might a vessel for liquid take that shape?",
+      "culture": "The name Cypro-Geometric points to the geometric patterns on Cypriot pottery. What does a naturalistic bird add to that picture of the time?",
+      "technique": "Potters shape clay, let it dry, then fire it. Why would an animal shape be harder to make than a plain jar?",
+      "personal": "What everyday object would you choose to turn into an animal shape, and why?",
+      "critical": "We do not know exactly how this vase was used. What clues help, and what remains a guess?"
+    },
+    "g68": {
+      "daily": "What does the potter keep and what does the potter simplify to make a vessel read as a duck?",
+      "emotion": "Does the vase feel playful, solemn, or both? Use visual evidence to support your answer.",
+      "observation": "Describe the vase from one end to the other, listing the forms that suggest a bird. Which one is most convincing?",
+      "analysis": "How does the overall composition balance the duck's head against the mass of its body?",
+      "line": "How do outline and any painted or incised marks help define the bird? Where is detail strongest?",
+      "shape": "How does the potter reduce the duck to a few large forms? What does this simplification emphasize?",
+      "color": "How does the natural color of terracotta shape the vase's character compared with a glazed or painted vessel?",
+      "texture": "What does the surface suggest about how the vase was finished, smoothed, or decorated before firing?",
+      "space": "A vase must hold empty space inside. How does the outer shape of the duck hide or hint at that function?",
+      "light": "How do the rounded surfaces of the duck catch light? Where would the form look flattest?",
+      "meaning": "What might a bird-shaped vessel have meant to the people who used it? Which ideas are supported by evidence and which are guesses?",
+      "culture": "How might trade and contact across the Mediterranean have influenced pottery made on an island like Cyprus?",
+      "technique": "How did the potter combine building a vessel with modeling an animal? What problems might come up in firing?",
+      "personal": "Which objects in your daily life blend usefulness and play, as this vase does?",
+      "critical": "Does the lack of a known findspot limit how we read this vase? What can still be learned from the object itself?"
+    },
+    "g910": {
+      "daily": "How does the potter blend sculpture and vessel so that neither role overpowers the other?",
+      "emotion": "What attitude toward everyday objects does the duck's form suggest, playful, reverent, or practical?",
+      "observation": "Describe the vase's visual hierarchy. Which area draws your eye first, and which devices direct you there?",
+      "analysis": "Analyze how the proportions of head, body, and base give the duck stability and character.",
+      "line": "How do contour and surface markings, where present, reinforce the bird's anatomy without realistic detail?",
+      "shape": "How does the potter use curved volumes to suggest feathers, breast, and neck? What abstraction is at work?",
+      "color": "How does the unglazed clay surface contribute to the vase's sense of age and material honesty?",
+      "texture": "How might firing and surface finishing affect the way the vase reads as an animal body?",
+      "space": "How does the vessel's enclosed interior create a hidden dimension that a solid sculpture lacks?",
+      "light": "How does light on the vase's rounded surface contribute to the sense of a living creature?",
+      "meaning": "Why might a duck, an animal linked with water, have been chosen for a liquid container, and where does that reading become speculative?",
+      "culture": "How does this vase fit within Iron Age Cypriot pottery, where geometric decoration was a major mode of expression?",
+      "technique": "What does the animal form reveal about how Cypriot potters balanced practical needs and imaginative design?",
+      "personal": "What does your own relationship with household objects tell you about why people might want them shaped like animals?",
+      "critical": "How does the 19th-century collecting of objects like this one shape what we know and do not know about them?"
+    },
+    "g1112": {
+      "daily": "What can this duck vase tell us, and what questions must we leave open because of its uncertain context?",
+      "emotion": "How does a viewer's affection for a charming animal shape risk reading too much sentiment into an ancient object?",
+      "observation": "Describe the vase's form with precision. Which observations support claims about function, and which merely describe?",
+      "analysis": "Analyze the vase as both container and sculpture. How does each role constrain the other?",
+      "line": "How does the vessel's contour achieve the sense of a bird while remaining a practical container?",
+      "shape": "How does simplification of the bird's form reflect stylistic conventions of its time, and what might remain individual to the potter?",
+      "color": "How does unpainted clay, or its limited decoration, shape the vase's reception in a museum compared with its original setting?",
+      "texture": "What can surface condition tell us about the object's life after the potter finished it, including burial and restoration?",
+      "space": "How does the hidden interior volume complicate the description of the vase as sculpture?",
+      "light": "How does museum lighting affect the way a three-dimensional terracotta form is read, compared with firelight or daylight in its original setting?",
+      "meaning": "Evaluate readings of the duck vase as a household object, a votive offering, or a ritual vessel. What evidence would you need?",
+      "culture": "How does the broader Cypriot Iron Age context, with its contacts across the eastern Mediterranean, complicate the label Cypriot as a single style?",
+      "technique": "What does an animal-form vessel imply about workshop skill and the demand for novelty among potters and their patrons?",
+      "personal": "How does your own taste for whimsical design shape how you interpret ancient objects that seem playful to you?",
+      "critical": "What responsibilities do museums have when objects in their collections were acquired in the 19th century with limited documentation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, object name, classification (Vases), culture, period and tags (Ducks) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A duck-shaped terracotta vase from Cyprus, made about 850–750 BCE. It joined the Met in 1874–76 as part of the Cesnola Collection, so its original findspot is not well documented.",
+    "vocabulary": [
+      "terracotta",
+      "vessel",
+      "Cyprus",
+      "Cypro-Geometric",
+      "form and function",
+      "firing"
+    ],
+    "directions": [
+      "Have students sketch a household container as an animal, keeping a place for something to go in and come out.",
+      "Compare the duck with another animal-shaped vessel from the archive and discuss what each potter kept or simplified.",
+      "Invite students to discuss what we can and cannot know about an object when its findspot was not recorded."
+    ]
+  }
+}

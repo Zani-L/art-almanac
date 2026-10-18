@@ -1,0 +1,158 @@
+{
+  "id": "met-85576",
+  "day": "01-15",
+  "title": "Kente Prestige Cloth",
+  "artist": "Artist unknown (Asante peoples)",
+  "date": "19th century",
+  "medium": "Cotton, silk",
+  "region": "Asante peoples, Kumasi, Ghana",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1972.56.1.JPG",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1972.56.1.JPG",
+    "credit": "The Metropolitan Museum of Art, Purchase, Irene Lewisohn Bequest, 1972",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large woven cloth made of many narrow strips sewn together side by side. The strips are patterned with bands of geometric designs in several colors.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/85576",
+    "objectId": "85576",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, city, classification, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A kente cloth from the Asante peoples of Ghana, made in the 19th century from cotton and silk. Kente is woven on narrow looms in long strips that are sewn edge to edge. Historically, fine kente was worn by royalty and other people of high standing, and kente is still worn on important occasions today.",
+  "descriptions": {
+    "k": "This is a cloth made of many long, thin strips. Weavers in Ghana made it by hand. The strips are sewn together side by side. Can you find stripes and boxes? Which pattern do you like best?",
+    "g12": "Weavers in Ghana made this cloth long ago. They wove thin strips on a loom, then sewed the strips together side by side. Look at the stripes, boxes, and patterns. Some parts repeat and some parts change. Can you find a pattern that repeats?",
+    "g35": "This is kente, a cloth woven by the Asante people of Ghana in the 1800s. Weavers made long, narrow strips on a loom and sewed them together into one big cloth. Kente was worn by leaders and for special occasions. Look for patterns that repeat and ones that change from strip to strip. How do the strips work together to make one design?",
+    "g68": "Kente is woven in narrow strips, often only a few inches wide, which are cut and sewn edge to edge into a cloth large enough to wrap around the body. Look at how bands of pattern repeat, shift, and sometimes interrupt each other across the strips. Kente patterns often have names, and cloths were made for people of high standing. Silk used in the weaving may have been unraveled from imported cloth and woven again. What decisions did the weaver make about rhythm and contrast?",
+    "g910": "This 19th-century Asante cloth shows how kente turns a limited technique, narrow-strip weaving, into complex design. Each strip carries its own bands of pattern, and the weaver and the person assembling the cloth decide how strips align, offset, or contrast. Kente was closely tied to rank, and Asante rulers commissioned cloths for particular uses. Many designs have names, yet their meanings can differ between weavers, owners, and regions. How does the design balance repetition with variation, and what might that suggest about status and individual choice?",
+    "g1112": "Kente is often discussed as a symbol of Ghana or of Africa, but this 19th-century cloth belongs to a specific history of Asante court weaving, where fine cloths marked rank and were also used in diplomacy and gift exchange. Its structure, narrow woven strips joined into a larger field, creates a grid in which pattern, color, and alignment become deliberate choices. Names and meanings attached to designs are real but not fixed; they vary with weaver, wearer, and period. How should we weigh the object's material evidence against the popular stories told about kente?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which strip of the cloth is your favorite? What do you see in it?",
+      "emotion": "Does this cloth feel calm, busy, or something else? What makes you say that?",
+      "observation": "What can you find in the cloth? Point to stripes, boxes, or lines.",
+      "analysis": "Where do your eyes go first on the cloth? Where do they go next?",
+      "line": "Can you find a straight line that goes up and down? Trace it in the air.",
+      "shape": "What shapes do you see in the patterns? Look for squares, bars, and zigzags.",
+      "color": "Which colors do you see? Which one do you see the most?",
+      "texture": "The cloth is made of threads woven over and under. How do you think it feels to touch?",
+      "space": "The strips sit side by side. What is next to your favorite strip?",
+      "light": "Which parts of the cloth look bright and which look darker?",
+      "meaning": "A leader might have worn a cloth like this. How might it make a person feel to wear it?",
+      "culture": "Weavers in Ghana made this cloth. What special clothes do people wear on important days where you live?",
+      "technique": "This cloth was made on a loom by weaving threads over and under. Can you show with your hands how weaving goes?",
+      "personal": "If you could design a cloth, what pattern would you put on it?",
+      "critical": "Many strips make one big cloth. How can you tell where one strip stops and the next begins?"
+    },
+    "g12": {
+      "daily": "What patterns do you notice in this cloth? Which one would you tell a friend to look at first?",
+      "emotion": "What feeling do the colors and patterns give you? Point to the part that makes you feel that way.",
+      "observation": "Describe three different patterns you can find. Where are they in the cloth?",
+      "analysis": "Which patterns repeat and which ones change? How can you tell?",
+      "line": "Find straight lines in the cloth. Are they going up and down, across, or on a slant?",
+      "shape": "What shapes repeat in the cloth? Show how one shape appears again in another place.",
+      "color": "Which colors sit next to each other in the cloth? Which pairs stand out the most?",
+      "texture": "Threads cross over and under each other in weaving. What might the cloth feel like, smooth or bumpy?",
+      "space": "The cloth is made of long strips side by side. How does that help the patterns line up or not line up?",
+      "light": "Some colors look light and some look dark. How does that help you see the patterns?",
+      "meaning": "Kente was worn by leaders and on special days. Why might a special cloth be important to a family or town?",
+      "culture": "Asante weavers in Ghana made this cloth. What do you think a weaver needs to know to make it?",
+      "technique": "The weaver made thin strips and then sewed them together. Why might that be easier than weaving one huge cloth?",
+      "personal": "What do you wear for a special day? How is it like or different from this cloth?",
+      "critical": "Weavers could choose which strips to put next to each other. What would change if two strips were swapped?"
+    },
+    "g35": {
+      "daily": "How do the narrow strips work together to make one big design? Use details from the cloth to explain.",
+      "emotion": "What mood does the cloth's color and pattern create? Which details lead you to that mood?",
+      "observation": "Take one quiet minute. What small details do you notice in one strip that you missed at first?",
+      "analysis": "Where does the cloth show repetition and where does it show change? How does each affect your eye?",
+      "line": "How do the vertical lines of the strips compare with the horizontal bands inside them?",
+      "shape": "Find a repeated shape in the cloth. How does repeating it make a rhythm, like in music?",
+      "color": "How do the weaver's color choices make some parts stand out and others fade back?",
+      "texture": "This cloth is made of cotton and silk threads. How might each thread feel different, and how can you see that difference?",
+      "space": "The cloth is made of many narrow pieces joined edge to edge. How does that shape how patterns line up?",
+      "light": "Silk often reflects light more than cotton. How might that change how the cloth looks as it moves?",
+      "meaning": "Kente designs often have names. What name would you give one of the patterns, and why?",
+      "culture": "Kente was worn by people of high standing in Asante society. What can a piece of clothing tell us about a person?",
+      "technique": "Weavers made narrow strips on a loom, then sewed them together. What are the advantages of this method?",
+      "personal": "Think of something you made with many small pieces. How is making it like making this cloth?",
+      "critical": "Kente is famous today, but this cloth is from the 1800s. What can we learn from a cloth that old that a new one might not show?"
+    },
+    "g68": {
+      "daily": "How does the weaver balance repeating pattern with surprise across the strips?",
+      "emotion": "What energy does the cloth have, and which visual choices create it?",
+      "observation": "Describe the structure of the cloth before you interpret it. How many different kinds of pattern bands can you identify?",
+      "analysis": "How does the grid of strips organize the whole cloth? Where does the weaver break the grid, and with what effect?",
+      "line": "How do the edges of the strips and the lines within the patterns create rhythm across the cloth?",
+      "shape": "Which shapes repeat, and how are they changed from strip to strip? What does variation add?",
+      "color": "How do contrasts of light and dark and warm and cool colors direct your attention across the cloth?",
+      "texture": "How do woven threads create a surface that is flat but still has structure? What can you tell about the thread from the picture?",
+      "space": "A woven cloth has no depth in the way a painting does. How does the weaver still create a sense of layers or movement?",
+      "light": "Without shading or shadows, how does the design create areas that seem bright or dim?",
+      "meaning": "Patterns in kente often carry names, but meanings can vary. How should we treat a name we are told but cannot see in the cloth?",
+      "culture": "Why might a society use clothing to show rank, and what kinds of skill and cost does fine kente involve?",
+      "technique": "How does weaving narrow strips shape the cloth's design? What would be different if it were woven as one wide piece?",
+      "personal": "When you choose what to wear, what are you telling others? How is that like or unlike what this cloth did?",
+      "critical": "Kente is now seen around the world. What might be gained or lost when a particular object becomes a general symbol?"
+    },
+    "g910": {
+      "daily": "How do repetition, offset, and contrast across the strips make this cloth read as a single composition?",
+      "emotion": "How do rhythm and color contrasts create a sense of energy in a cloth with no figures or scenes?",
+      "observation": "Describe the cloth's visual hierarchy. What draws your eye first, and which devices, such as color or pattern scale, create that order?",
+      "analysis": "Analyze how the strip structure limits and enables design. What choices remain open to the weaver?",
+      "line": "How do the strip edges function like drawn lines, and how do inner pattern lines either support or interrupt them?",
+      "shape": "How do geometric shapes, repeated and varied, produce a sense of rhythm comparable to music?",
+      "color": "How might the weaver's use of color blocks and contrast signal skill and status, even without knowing any pattern names?",
+      "texture": "How do cotton and silk differ in surface and sheen, and how might the weaver have used that difference?",
+      "space": "How does the cloth create the illusion of movement or layering within a flat, woven field?",
+      "light": "How might the cloth's appearance change as it is worn, folded, and seen in different light?",
+      "meaning": "Patterns and colors in kente are often given names and meanings. What kinds of evidence would you want before claiming what a specific design means?",
+      "culture": "How did kente function within Asante society as a marker of rank, and why might court weaving have been closely controlled?",
+      "technique": "How does narrow-strip weaving affect efficiency, portability, and creativity, and what does it ask of the person assembling the cloth?",
+      "personal": "How do you use clothing or color to show belonging or individuality, and how does this cloth help you think about that?",
+      "critical": "What risks come with reading a cloth like this mainly through popular symbolism rather than through its specific history?"
+    },
+    "g1112": {
+      "daily": "What can the material evidence of this cloth tell us that popular accounts of kente cannot?",
+      "emotion": "How does a purely abstract, patterned field produce emotional and social effect, and how would you argue for or against that claim?",
+      "observation": "Describe the cloth with precision before naming meanings. Which observations resist easy interpretation?",
+      "analysis": "Analyze the relation between the modular structure of narrow strips and the cloth's overall design. Where does the weaver improvise within the system?",
+      "line": "How do orthogonal lines and offset patterns create tension between order and surprise?",
+      "shape": "How does the cloth's geometry compare with ideas of abstraction in modern Western art, and where does that comparison fall short?",
+      "color": "How might color, dye, and the reuse of imported silk have shaped the cloth's economic and aesthetic value?",
+      "texture": "How does the combination of cotton and silk contribute to the cloth's tactile and visual presence, and what does this suggest about cost and status?",
+      "space": "How does a woven, strip-built surface define space differently from a painted or printed one?",
+      "light": "How might the movement of a worn cloth change the way pattern and sheen are experienced, compared with seeing it flat in a museum?",
+      "meaning": "How do named patterns, which have documented use but varying interpretations, complicate the idea that a design has one correct reading?",
+      "culture": "How did kente operate in the political economy of the Asante kingdom, as regalia, gift, and trade good?",
+      "technique": "How might narrow-loom weaving and the sewing of strips be understood as a collaborative process rather than a single artist's act?",
+      "personal": "How does your relation to this cloth, as museum object or as part of a living tradition, shape what you notice?",
+      "critical": "What are the ethical and scholarly challenges in displaying historic cloth when its modern descendants remain in active use and carry current meanings?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Kente Prestige Cloth), classification (Textiles), object name (Textile), medium (cotton, silk), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Kente is woven in narrow strips by Asante and Ewe weavers in Ghana and neighboring regions. This 19th-century Asante cloth is made of cotton and silk. Kente is still woven and worn today, so avoid describing it only as a thing of the past.",
+    "vocabulary": [
+      "kente",
+      "loom",
+      "weaving",
+      "strip",
+      "pattern",
+      "repetition"
+    ],
+    "directions": [
+      "Have students weave paper strips over and under to feel how a woven structure holds together, then design a repeating pattern strip.",
+      "Ask students to design a cloth from four strips and explain how the strips relate (repeat, contrast, offset).",
+      "Discuss the difference between patterns that look symmetrical and patterns that deliberately shift, and why a weaver might choose each."
+    ]
+  }
+}

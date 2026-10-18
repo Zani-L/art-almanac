@@ -1,0 +1,158 @@
+{
+  "id": "met-855671",
+  "day": "07-03",
+  "title": "Quilt, pieced",
+  "artist": "Artist unknown",
+  "date": "ca. 1850",
+  "medium": "Cotton",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-42138-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP-42138-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Karen B. Cohen, in honor of Rochelle C. Rosenberg, 2022",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A cotton bed quilt whose surface is made of many pieces of fabric sewn together into a repeating pattern.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/855671",
+    "objectId": "855671",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A pieced cotton quilt made in the United States around 1850. In a pieced quilt, many smaller pieces of fabric are sewn together to form the top. The Met's record does not name the maker or describe the pattern.",
+  "descriptions": {
+    "k": "This is a quilt. It is made from many little pieces of cloth sewn together. Someone in America made it about 175 years ago. Can you find pieces that match? What shapes are they?",
+    "g12": "A quilt is a cover made of layers of cloth. This one is pieced, which means many small bits of cotton were sewn together to make the pattern. It was made in America around 1850. Look for pieces that repeat. How many different ones can you find?",
+    "g35": "This quilt was made in the United States around 1850. It is pieced, so the maker cut many small cotton shapes and sewed them together into a pattern. We do not know the maker's name. Look for shapes that repeat and shapes that change. What do you think the maker planned before cutting the first piece?",
+    "g68": "Made around 1850 in the United States, this pieced cotton quilt builds its design by joining many cut shapes of fabric. The Met does not name the maker, so we learn from the object itself: how shapes repeat, how colors and prints are placed, and how small pieces become one surface. Think about the planning needed to cut and match pieces accurately. How might a quilt maker balance order and variety in a design?",
+    "g910": "This pieced cotton quilt of about 1850 turns fabric scraps and cut shapes into a unified design, a process that required planning, geometry, and patient handwork. The maker is unrecorded, which is common for domestic textiles, yet the choices of shape, color, and repetition reveal an individual sense of design. Quilts like this sit between utility and art, made to be used on beds but carefully composed. Consider how the pattern organizes the surface and what it might say about its maker's skill.",
+    "g1112": "A pieced cotton quilt made in the United States about 1850, this object exemplifies a form that historians treat as both domestic practice and visual art. Piecing converts geometry into pattern, and its repetitions and variations invite formal analysis even when the maker, region, and function are undocumented, as here. Because the record is brief, claims about the quilt's patterns or meanings should remain tentative. It prompts questions about how we assign authorship and artistic value to anonymous, women-associated crafts."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which little piece of cloth is your favorite in this quilt? What shape and color is it?",
+      "emotion": "Would you feel cozy under this quilt? What makes you say so?",
+      "observation": "Find two pieces of cloth that look the same. Where are they?",
+      "analysis": "Where do your eyes begin on this quilt, and where do they go next?",
+      "line": "Quilt pieces meet at seams. Can you find a seam line that is straight? Trace it in the air.",
+      "shape": "What shapes did the quilt maker cut? Look for squares, triangles, or other shapes.",
+      "color": "Which colors do you see on the quilt? Which one is the biggest?",
+      "texture": "The quilt is made of cotton. How do you think it feels to touch?",
+      "space": "Is the quilt full of tiny pieces or a few big ones? Point to what you see.",
+      "light": "Which parts of the quilt look light and which look dark?",
+      "meaning": "If this quilt could tell a story about the person who made it, what might it say?",
+      "culture": "People in America made quilts for beds long ago. What do you sleep under at home?",
+      "technique": "Someone cut small pieces and sewed them together. What do you think was the hardest part?",
+      "personal": "If you made a quilt, what shapes and colors would you choose?",
+      "critical": "Many small pieces make one quilt. What clue shows you the pieces were planned, not tossed together?"
+    },
+    "g12": {
+      "daily": "How did the maker join small pieces of cotton to make one big pattern? Point to one place where pieces meet.",
+      "emotion": "Does this quilt feel calm, busy, or cheerful? Which parts make you feel that?",
+      "observation": "Describe three pieces of fabric you see: their shapes and colors.",
+      "analysis": "How does the quilt maker repeat shapes so the quilt looks organized?",
+      "line": "Seams make lines between pieces. Are the lines mostly straight or curved on this quilt?",
+      "shape": "Which shape appears most often in the quilt? How does it fit with the shapes beside it?",
+      "color": "Choose two fabrics with different colors or prints that sit next to each other. How do they look together?",
+      "texture": "Quilts are soft and have stitched lines. How do you think this one would feel under your hand?",
+      "space": "Are the pieces big or small compared with the whole quilt? How does that change how it looks?",
+      "light": "Which fabrics look lightest and darkest? How do they help the pattern show?",
+      "meaning": "Why do you think someone would spend so long making a quilt?",
+      "culture": "Quilts around 1850 were often made at home. What things do families make together today?",
+      "technique": "The Met says this quilt is pieced. What does it mean to piece a quilt?",
+      "personal": "What pattern would you want on a quilt you could keep forever?",
+      "critical": "Is a quilt a blanket, a work of art, or both? Give a reason from what you see."
+    },
+    "g35": {
+      "daily": "How does the quilt maker use many small pieces to make one design? Point to details that show planning.",
+      "emotion": "What mood does the arrangement of fabric pieces create? Which colors or shapes add to it?",
+      "observation": "Look closely at one section of the quilt. What small details about the fabric pieces do you notice?",
+      "analysis": "How does the maker balance repeating shapes with changes so the quilt does not feel boring?",
+      "line": "How do the seams form lines that divide the quilt into parts? Where do those lines lead your eye?",
+      "shape": "Which basic shapes, such as squares or triangles, build the pattern? How do they fit together?",
+      "color": "How do light and dark fabrics help the pattern stand out?",
+      "texture": "Quilts have layers and stitching. How might that texture differ from a woven coverlet?",
+      "space": "How does the design fill the quilt from edge to edge, and what does that do to the pattern?",
+      "light": "Compare the lightest and darkest pieces. How does the contrast help your eye move across the quilt?",
+      "meaning": "Quilts were often kept for years. What might a quilt mean to the family that used it?",
+      "culture": "Cotton quilts were made in many American homes around 1850. Why might people have made them by hand?",
+      "technique": "Piecing means joining small shapes of fabric with careful stitches. Why must each piece be cut accurately?",
+      "personal": "Think of something you made from small parts, like a puzzle or model. How is that like piecing a quilt?",
+      "critical": "We do not know who made this quilt. What can we still learn from looking closely?"
+    },
+    "g68": {
+      "daily": "How does the arrangement of small pieces create a larger design? What evidence supports your idea?",
+      "emotion": "How does the rhythm of repeated shapes influence the mood of the quilt?",
+      "observation": "List the shapes, colors, and prints you see. Which details are easiest to miss?",
+      "analysis": "How does the maker organize the surface with repetition and contrast? Where does the pattern change?",
+      "line": "How do seams act like drawn lines? Where do they create direction or movement?",
+      "shape": "How does geometry, such as squares, triangles, or other cut shapes, build the pattern?",
+      "color": "How do contrasts of color or print make certain shapes advance or recede?",
+      "texture": "How do cotton fabric and stitching make a quilt feel different from a painting of the same pattern?",
+      "space": "How does a quilt's pattern ignore pictorial depth, and how does it still produce a sense of structure?",
+      "light": "Which fabric choices set up strong light and dark contrasts, and what effect do they have?",
+      "meaning": "Quilt patterns have names and stories in some traditions. Why should we be cautious about naming this one without more evidence?",
+      "culture": "How might quilting around 1850 have combined thrift, family tradition, and creativity?",
+      "technique": "How is a pieced quilt top planned and sewn before it becomes a layered quilt?",
+      "personal": "What do you save or reuse in your own life, and how could it be turned into something beautiful?",
+      "critical": "Why have quilts often been seen as craft rather than art, and does that distinction hold up when you look at this one?"
+    },
+    "g910": {
+      "daily": "How does the quilt maker reconcile geometry, repetition, and personal choice in this pieced design?",
+      "emotion": "How do rhythm, contrast, and the tactile idea of a quilt shape the emotional tone of the work?",
+      "observation": "Describe the quilt's visual hierarchy. What draws attention first, and which devices create that emphasis?",
+      "analysis": "Analyze how the composition uses repeating units and variation to unify a large surface.",
+      "line": "How do seams create an underlying grid or network, and how does that structure affect the viewer's reading?",
+      "shape": "How do cut geometric shapes combine to produce larger forms that are not visible in any single piece?",
+      "color": "How do the colors and prints of the cotton fabrics create balance, contrast, or movement?",
+      "texture": "How does the layered structure of a quilt make it both an image and a physical object?",
+      "space": "How does the quilt's flat pattern relate to modern ideas about abstraction, and where does that comparison fail?",
+      "light": "How does value contrast, light against dark, define the pattern more than outlines do?",
+      "meaning": "What might a quilt communicate about domestic life around 1850, and which claims go beyond the evidence?",
+      "culture": "How have quilts been tied to women's labor and community, and what does anonymity do to that history?",
+      "technique": "How does piecing require planning, measuring, and patience, and where does improvisation enter?",
+      "personal": "How do you see patterns of repetition and variation in your own routines or surroundings?",
+      "critical": "How might calling a quilt abstract art reveal or hide the context in which it was made?"
+    },
+    "g1112": {
+      "daily": "What can be argued about this quilt from its visible structure alone, and what requires documentation about its maker?",
+      "emotion": "How can geometric pattern evoke emotion without narrative? What are the limits of reading feeling into a pieced textile?",
+      "observation": "Describe the quilt's pieces and arrangement precisely. Where do you rely on assumptions about what a quilt should look like?",
+      "analysis": "Analyze the dialogue between unit and whole in pieced construction. How does a part-to-whole system generate meaning?",
+      "line": "How do seams define line in a way that differs from drawing or painting, and why does that matter?",
+      "shape": "How does the vocabulary of cut geometric shapes connect quilt-making to broader traditions of ornament?",
+      "color": "How might fading and fabric aging change the quilt's color relationships since 1850?",
+      "texture": "How does the materiality of cotton and stitching complicate the quilt's display as a flat image on a museum wall?",
+      "space": "How does the quilt's organization of surface compare with later developments in abstract painting, and what does the comparison obscure?",
+      "light": "How should conservation needs, such as low light, shape how museums present quilts?",
+      "meaning": "Evaluate competing views of quilts as utilitarian objects, art, and personal or communal records. Which does this example support?",
+      "culture": "How has the historical emphasis on named male artists affected how anonymous quilt makers are valued?",
+      "technique": "What does piecing reveal about labor, time, and access to cloth in the mid-19th century?",
+      "personal": "How does your relationship to handmade household objects shape how you read this quilt?",
+      "critical": "What alternatives to 'artist unknown' might museums use to acknowledge the creative agency of anonymous makers?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, and culture checked against the museum record; the record lists no tags or classification. A pieced cotton household textile with no figures flagged. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A pieced cotton quilt made in the United States around 1850. The Met's record is brief, so students should confirm pattern and color details from the image rather than assume a named quilt pattern.",
+    "vocabulary": [
+      "quilt",
+      "piecing",
+      "seam",
+      "repetition",
+      "pattern",
+      "geometry"
+    ],
+    "directions": [
+      "Give students paper squares and triangles to arrange into a repeating design, then discuss how small changes alter the whole.",
+      "Ask students what their family saves and reuses, and how the same idea appears in quilting.",
+      "Discuss how anonymous makers can be honored in museums."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-436545",
+  "day": "02-20",
+  "title": "Manuel Osorio Manrique de Zuñiga (1784–1792)",
+  "artist": "Goya (Francisco de Goya y Lucientes)",
+  "date": "1787–88",
+  "medium": "Oil on canvas",
+  "region": "Spain",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP287624.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP287624.jpg",
+    "credit": "The Metropolitan Museum of Art, The Jules Bache Collection, 1949",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small boy in a bright red suit with a white sash stands holding a string tied to a pet magpie. Three cats crouch in the shadows behind him, watching the bird, and a cage of small birds sits to one side.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436545",
+    "objectId": "436545",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Birds, Boys, Portraits, Cats) and image URLs read from the record"
+  },
+  "context": "A portrait of a young Spanish boy painted by Francisco de Goya in 1787–88, when Goya was a successful portrait painter in Madrid. The boy is shown with a pet bird on a string, cats, and a birdcage, which makes the picture more of a story than a simple likeness.",
+  "descriptions": {
+    "k": "A little boy wears a bright red suit. He holds a string. The string is tied to a bird! Three cats hide in the dark and stare at it. What do you think the cats want to do?",
+    "g12": "Goya painted this small boy in Spain long ago. He wears a red suit and holds a string tied to a pet bird. Behind him, three cats stare at the bird. A cage of little birds sits nearby. The boy looks calm, but the cats look ready to jump. What do you think happens next?",
+    "g35": "Francisco de Goya was a Spanish painter who made portraits of important families. Here a young boy in a red suit holds a string tied to a pet magpie, while three cats watch from the shadows. The boy stands out against the dim background. Why do you think Goya added the cats and the cage to a portrait of a child?",
+    "g68": "Goya painted this portrait in 1787–88 in Spain. The boy glows in his red suit against a pale, shadowy background, while the magpie, the cage, and the staring cats add a small drama. Some viewers see the cats as a hint that childhood is innocent but surrounded by risks; others see only a charming collection of pets. What evidence in the picture can support each reading?",
+    "g910": "Goya's portrait of a young boy turns a likeness into a small narrative. The red suit anchors the center, while the dim, spare background sets off the figure. The pet magpie on a string, the cage of birds, and the three watching cats introduce tension that a conventional portrait would avoid. Scholars and viewers interpret these details in different ways, from playful to cautionary. How does the contrast between the calm boy and the alert cats shape your reading?",
+    "g1112": "In this portrait, Goya balances the conventions of aristocratic children's portraiture with an unsettling counterpoint: the cats fix their gaze on the bird the boy holds. Interpretations range from a playful allegory of innocence and appetite to a hint of the fragility of childhood, and some stress that no single meaning is documented. The saturated red, the pale ground, and the spare space let the figure and the animals carry the picture. The work invites evidence-based reading that remains open to ambiguity."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the three cats want to do when they look at the bird?",
+      "emotion": "How does the boy look, happy or worried? How do the cats look to you?",
+      "observation": "Find the boy, the bird on the string, and the cats. How many cats can you count?",
+      "analysis": "Why do you think the boy is in the middle and the cats are in the dark?",
+      "line": "Follow the string from the boy's hand to the bird. Trace it with your finger.",
+      "shape": "The boy's suit has a big shape. What other shapes do you find in the cage and the cats?",
+      "color": "What is the brightest color in this picture? Where else do you see it?",
+      "texture": "How would the cats' fur feel? How would the boy's shiny suit feel?",
+      "space": "Who stands in front and who hides behind? How can you tell?",
+      "light": "Where is the picture bright, and where is it dark? Where do the cats hide?",
+      "meaning": "The boy has pets. What might the painter want us to notice about him?",
+      "culture": "This boy lived in Spain long ago. What clothes does he wear that look different from yours?",
+      "technique": "The painter used paint to make a red suit glow. How did he make the background look softer?",
+      "personal": "Do you have a pet, or would you like one? Tell about it.",
+      "critical": "Why would a painter put cats in a picture of a child? Give one idea."
+    },
+    "g12": {
+      "daily": "What do you think the cats are thinking about the bird? What clues show it?",
+      "emotion": "How does the boy's calm face feel next to the cats' sharp stares? Describe the mood.",
+      "observation": "List five things you see, from the boy's shoes to the cage.",
+      "analysis": "How does the painter use the plain background to make the boy and the animals stand out?",
+      "line": "The string is a thin line between the boy and the bird. What does that line connect?",
+      "shape": "How does the boy's red suit make one big shape in the center? What shapes are in the dark area?",
+      "color": "Red is very bright here. How does it help the boy stand out from the gray background?",
+      "texture": "Which things look soft, like fur, and which look smooth or shiny, like the suit and ribbon?",
+      "space": "How can you tell the cats are behind the boy and the cage is off to the side?",
+      "light": "Where does the light fall strongest on the boy? What is hidden in the shadows?",
+      "meaning": "The bird is held by a string and the cats are watching. What story could this tell?",
+      "culture": "Rich families in Spain had their children painted in nice clothes. What does this boy's outfit say about his family?",
+      "technique": "Goya painted soft furry cats and a shiny suit with oil paint. Where do you see the difference?",
+      "personal": "What would you do if you were the boy and saw the cats staring? Explain.",
+      "critical": "Is this painting happy, scary, or both? Use the picture to explain."
+    },
+    "g35": {
+      "daily": "What do you think is about to happen in this painting, and what details make you say so?",
+      "emotion": "The boy looks calm but the cats look alert. How does that mix of moods affect you?",
+      "observation": "Look silently for one minute. What do you see in the corners and shadows that you missed at first?",
+      "analysis": "How does Goya use the red suit, the pale ground, and the dark corners to organize the picture?",
+      "line": "How does the string link the boy, the bird, and the cats' gaze together?",
+      "shape": "How does the boy's compact shape compare with the shapes of the cats and the cage?",
+      "color": "Why might Goya have chosen a bold red for the boy and quiet gray-greens for the background?",
+      "texture": "How does Goya show the difference between fur, feathers, and silky cloth?",
+      "space": "How does the empty background around the boy make him feel close to us?",
+      "light": "The boy is brightly lit while the cats are in shadow. What difference does that make?",
+      "meaning": "A pet bird, three cats, and a cage are all in a child's portrait. What could each one suggest?",
+      "culture": "Goya painted this portrait of a child from an important Spanish family. Why might a family want a portrait with pets and a story?",
+      "technique": "Goya used oil paint to build soft edges and glowing color. Where do the edges look softest?",
+      "personal": "Think of a time you were calm while something exciting was happening near you. How is that like the boy?",
+      "critical": "Some people see this painting as sweet, others as a little tense. Which seems right to you and why?"
+    },
+    "g68": {
+      "daily": "How does Goya use animals to add a story to a portrait of one child?",
+      "emotion": "How does the contrast between the boy's calm and the cats' stares create tension?",
+      "observation": "Describe the picture from the boy outward to the edges. Which details seem most deliberately placed?",
+      "analysis": "How does the composition place the viewer's eye on the boy first and the cats second?",
+      "line": "How does the thin string work as a line that links separate parts of the composition?",
+      "shape": "How does the triangle-like form of the boy's figure give stability against the cluster of cats?",
+      "color": "How does the strong red against muted background colors direct attention and affect the mood?",
+      "texture": "How does Goya paint fur, feathers, and satin differently? Which looks most convincing?",
+      "space": "How does the shallow, shadowy space around the boy affect how close we feel to him?",
+      "light": "How does the selective lighting of the boy and the hidden cats add suspense?",
+      "meaning": "Some viewers read the cats as a warning about the dangers around childhood. What evidence supports that, and what complicates it?",
+      "culture": "What does the formal clothing in a portrait of a young child suggest about the social position of the family?",
+      "technique": "Goya was a court painter in Madrid. How might his skill in capturing quick impressions show in this work?",
+      "personal": "Does this picture make you think of childhood as safe, risky, or both? Why?",
+      "critical": "How should we decide among interpretations when the artist left no clear explanation of the cats?"
+    },
+    "g910": {
+      "daily": "How do the animals change the meaning of what would otherwise be a conventional portrait of a child?",
+      "emotion": "How does Goya create unease within an outwardly charming picture?",
+      "observation": "Describe the visual hierarchy: what draws the eye first, and what rewards slower looking?",
+      "analysis": "Analyze how the central placement of the boy and the peripheral cats create a push and pull in the composition.",
+      "line": "How does the taut string between boy and bird act as a compositional and narrative link?",
+      "shape": "How does the boy's upright, compact silhouette contrast with the crouching, clustered forms of the cats?",
+      "color": "How does the saturated red against a restrained ground establish emphasis and mood?",
+      "texture": "How does Goya distinguish fur, feather, and fabric through brushwork rather than outline?",
+      "space": "How does the shallow, spare setting isolate the figure and heighten the animals' presence?",
+      "light": "How does the contrast between the lit figure and the dim cats build suspense?",
+      "meaning": "How might the cats and the magpie be read symbolically, and where does that reading become speculative?",
+      "culture": "How do the clothing and pose reflect conventions of aristocratic children's portraiture in late eighteenth-century Spain?",
+      "technique": "What does Goya's loose, fluid handling suggest about how he approached portraits compared with more polished contemporaries?",
+      "personal": "How does your own sense of childhood innocence and risk shape the way you read the cats?",
+      "critical": "What assumptions do viewers bring to a portrait of a child, and how does Goya's inclusion of the cats test them?"
+    },
+    "g1112": {
+      "daily": "What does the evidence in the painting support about its tone, and where does interpretation outrun the evidence?",
+      "emotion": "How does the painting sustain both tenderness and menace without resolving into either?",
+      "observation": "Describe the painting's construction with precision. Where does description begin to carry interpretation?",
+      "analysis": "How does Goya's use of a single bright mass against a spare ground produce both clarity and ambiguity?",
+      "line": "How does the minimal linear element of the string organize the relationship among the boy, the bird, and the cats?",
+      "shape": "In what ways does the contrast between the upright figure and the crouched forms structure the picture's unease?",
+      "color": "How does the interplay of saturated red and silvery grays function emotionally as well as descriptively?",
+      "texture": "How does Goya's handling of varied surfaces test the limits of portraiture as a record of appearance?",
+      "space": "How does the compression of space and the dimness around the figure shape the viewer's relation to the child?",
+      "light": "How does the selective light create a hierarchy of attention that mirrors the painting's narrative tension?",
+      "meaning": "Compare readings of the cats as allegory, as pets, or as a sign of the fragility of childhood. Which is best supported, and which is speculative?",
+      "culture": "How does this work sit between the conventions of Spanish court portraiture and the more critical, ambiguous Goya later associated with the Enlightenment?",
+      "technique": "What might the economy of Goya's brushwork suggest about the demands of portrait commissions and his own priorities?",
+      "personal": "How might your own cultural expectations about childhood affect whether the painting reads as warm or unsettling?",
+      "critical": "Given the lack of documented intention, what standards of evidence should govern claims about what the cats mean?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Birds, Boys, Portraits, Cats) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Goya painted this portrait of a young boy from a noble Madrid family in 1787–88. The pet bird, the cats, and the cage give the portrait a story, and historians do not agree on what, if anything, they are meant to symbolize.",
+    "vocabulary": [
+      "portrait",
+      "oil paint",
+      "focal point",
+      "contrast",
+      "interpretation",
+      "Enlightenment"
+    ],
+    "directions": [
+      "Ask students to write one sentence caption for the picture, then compare how the captions change the mood.",
+      "Have small groups list evidence for a playful reading and for a tense reading before a class vote.",
+      "Compare how this child portrait uses pets with how another portrait in the archive shows a sitter's world."
+    ]
+  }
+}

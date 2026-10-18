@@ -1,0 +1,159 @@
+{
+  "id": "met-8151",
+  "day": "08-21",
+  "title": "Tall clock",
+  "artist": "James Dinsmore",
+  "date": "1803–9",
+  "medium": "Cherry, mahogany with maple, white pine, yellow poplar",
+  "movement": "Federal period",
+  "region": "United States, New England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/131116.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/131116.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1943",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A very tall wooden clock case that stands on the floor, with a clock face near the top, a long narrow middle section, and a wider base.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/8151",
+    "objectId": "8151",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, region, dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A floor-standing tall clock attributed in the Met record to James Dinsmore and dated 1803–9, made in New England. The Met lists cherry and mahogany with maple, white pine, and yellow poplar. It stands about 91 inches (232 cm) tall. Clocks like this were expensive household furnishings of the early United States.",
+  "descriptions": {
+    "k": "This clock is taller than most grown-ups. It stands on the floor. It has a clock face near the top and a long wooden body below. Do you know how a clock tells time?",
+    "g12": "This tall clock stands on the floor and is taller than a door. A clock face sits at the top, with a long wooden case below. It was made in New England more than two hundred years ago. Look for the face, the long middle, and the base. What parts do you see?",
+    "g35": "This tall clock was made in New England between 1803 and 1809. It stands on the floor and is more than seven feet tall. The wooden case has a top where the clock face sits, a long narrow middle, and a wider base. The Met lists several kinds of wood, including cherry and mahogany. Why do you think someone built a clock so large and so carefully?",
+    "g68": "In the early 1800s, a tall clock was both a useful machine and a prized piece of furniture. This one, made in New England between 1803 and 1809 and credited to James Dinsmore, stands about 91 inches tall. The wooden case frames the clock face and hides the moving parts. Mixed woods, including cherry and mahogany, show choices of material and cost. How does a clock's case turn timekeeping into a display of status and craftsmanship?",
+    "g910": "This tall clock from New England, dated 1803–9, shows how a timekeeping mechanism was housed in architecture-like furniture. The case is divided into hood, trunk, and base, and the Met lists a mix of woods, including cherry and mahogany, with maple, white pine, and yellow poplar. The vertical emphasis draws the eye up to the face, the focal point. Consider how cabinetmaker and clockmaker roles combined to make an object valued for both use and display.",
+    "g1112": "A tall clock such as this New England example of 1803–9 is a collaborative object in which the visible case and the hidden movement represent different trades and skills. The vertical, architectural form signals status in an era when accurate time was becoming a feature of private life. The wood mix recorded by the Met reflects cost, availability, and structure, with showy woods placed where they would be seen. Ask how such furniture reflects shifting ideas of time, wealth, and work in the early republic."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the clock face. What shapes and marks can you find on it?",
+      "emotion": "Does this big clock feel friendly, serious, or grand? Why?",
+      "observation": "Find the top, the long middle, and the bottom of this clock. Point to each part.",
+      "analysis": "Why do you think the clock face is placed near the top?",
+      "line": "Follow the long straight lines that go up the clock.",
+      "shape": "What shapes do you see in the clock face and the long wooden case?",
+      "color": "What colors are in the wood? Are they light, dark, or both?",
+      "texture": "Wood has lines called grain. Can you imagine the grain on this clock?",
+      "space": "How tall is this clock compared to you? Stand up and show how high it reaches.",
+      "light": "Which part of the clock looks brightest? Which part looks darker?",
+      "meaning": "Why might a family want a very tall clock in their home?",
+      "culture": "This clock was made in New England a long time ago. How do you tell time at home today?",
+      "technique": "The case is made of many pieces of wood joined together. What tools do you think a woodworker used?",
+      "personal": "What time of day is your favorite? Tell about what you do then.",
+      "critical": "If you could change one part of this clock, what would it be and why?"
+    },
+    "g12": {
+      "daily": "What parts of this tall clock do you notice first, and why?",
+      "emotion": "What feeling do you get from standing in front of a very tall clock?",
+      "observation": "Name the parts you can see: the face, the long middle, and the base. What else do you notice?",
+      "analysis": "How does the long, tall shape help the clock stand steady on the floor?",
+      "line": "The clock is full of tall, straight lines. How do they make it look?",
+      "shape": "Find the shape of the clock face and the shape of the long case. How do they differ?",
+      "color": "The wood has warm tones. Where do you see the darkest wood and the lightest wood?",
+      "texture": "Wood has grain you can see and feel. Where do you think the wood looks smoothest?",
+      "space": "This clock is taller than a person. How does that affect the way a room looks?",
+      "light": "Where does light fall on the clock, and where do shadows gather?",
+      "meaning": "People once used clocks like this to show they were successful. What do we use to show success today?",
+      "culture": "In the early 1800s, many homes did not have clocks. Why might a clock have been special?",
+      "technique": "The clock is made of cherry, mahogany, and other woods. Why might a maker choose different woods for different parts?",
+      "personal": "What object in your home do you check every day? Why?",
+      "critical": "Is a clock a machine, a piece of furniture, or art? Share your thoughts."
+    },
+    "g35": {
+      "daily": "What details of this clock's tall wooden case show how much care went into it?",
+      "emotion": "What mood does the tall, upright shape give this clock?",
+      "observation": "Look at the clock for one minute. What details about the face and the case do you notice?",
+      "analysis": "How do the hood, trunk, and base divide the clock into parts, and how do they fit together?",
+      "line": "How do the vertical lines of the case lead your eye up to the clock face?",
+      "shape": "How does the narrow trunk compare with the wider base and top, and what does that do for the clock?",
+      "color": "How do the different woods and their colors create variety in the case?",
+      "texture": "How do you think a polished wooden surface would feel compared with a rough one?",
+      "space": "How does the clock's height change how it fills a room?",
+      "light": "How might light and shadow show the shapes in the wooden case during the day?",
+      "meaning": "Why might a clock be placed where visitors would see it when they enter a home?",
+      "culture": "Clocks like this were made in New England in the early 1800s. What does that tell us about how people valued time then?",
+      "technique": "A tall clock needs a woodworker for the case and a clockmaker for the works inside. Why might both be needed?",
+      "personal": "How is the way you keep track of time different from how a family did in 1805?",
+      "critical": "Is a clock still a work of art when it is no longer used to tell time? Use details to explain."
+    },
+    "g68": {
+      "daily": "How does the case turn a machine for measuring time into a statement of status?",
+      "emotion": "How does the clock's height and vertical emphasis shape its presence in a room?",
+      "observation": "Scan the clock from top to bottom. Which details seem meant for use and which for display?",
+      "analysis": "How does the division of the case into parts create balance between the face, the trunk, and the base?",
+      "line": "How do strong vertical lines create a feeling of order and grandeur?",
+      "shape": "How do the proportions of hood, trunk, and base relate to architecture?",
+      "color": "How do the contrasting woods and finishes direct attention to the most important parts?",
+      "texture": "How does a polished wood surface suggest quality, and how might wear show over time?",
+      "space": "How does the clock's footprint compare to its height, and what does this say about its design?",
+      "light": "How might the case be positioned to catch light in a home?",
+      "meaning": "What might a tall clock say about its owner's values, such as order, punctuality, and wealth?",
+      "culture": "How did clock ownership reflect the rise of a prosperous middle and upper class in the early republic?",
+      "technique": "Why might a maker use costly woods only where they would be seen and cheaper woods inside?",
+      "personal": "How does a clock shape your daily schedule? Where do you notice time most?",
+      "critical": "Should we credit a cabinetmaker as much as the clockmaker when we study a clock like this? Why?"
+    },
+    "g910": {
+      "daily": "How does the clock's architectural case turn timekeeping into a display of order and prosperity?",
+      "emotion": "How does vertical emphasis contribute to the clock's formal, authoritative presence?",
+      "observation": "Describe the visual hierarchy of face, hood, trunk, and base. What guides the eye?",
+      "analysis": "Analyze how proportion and the division of the case echo architectural ideas.",
+      "line": "How does the strong verticality direct the viewer's eye toward the face?",
+      "shape": "How do the clock's geometric sections combine to create a stately silhouette?",
+      "color": "How do the different woods listed in the record create contrasts of tone and prestige?",
+      "texture": "How do polished surfaces and grain contribute to the case's visual richness?",
+      "space": "How does the tall form of the clock affect its relationship to the room and the viewer?",
+      "light": "How might surface finish and form produce highlights that draw the eye to key features?",
+      "meaning": "How might time itself become a symbol of order, discipline, and wealth in a household clock?",
+      "culture": "How does the tall clock reflect changing ideas about time and domestic display in early nineteenth-century New England?",
+      "technique": "How does the collaboration between case maker and clockmaker appear in the object's design?",
+      "personal": "How does your relationship to time, schedules, and clocks compare with that of a household in 1805?",
+      "critical": "How should museums present a clock whose moving parts and use are mostly out of view?"
+    },
+    "g1112": {
+      "daily": "What does a tall case clock suggest about how time, craft, and status were bound together in the early republic?",
+      "emotion": "How might the clock's formal upright presence project authority, and how does that read in a museum setting?",
+      "observation": "Describe the clock's structure with precision. Which descriptions already imply a judgment of quality?",
+      "analysis": "Analyze how the clock's architectural proportions order its parts and direct attention to the face.",
+      "line": "How does the clock's vertical emphasis connect to neoclassical ideas of order?",
+      "shape": "How might the segmented case be read as a miniature building?",
+      "color": "How might the choice and placement of woods communicate cost and skill, and how might aging change what we see?",
+      "texture": "How do surface finish and wood grain shape the clock's claims to refinement?",
+      "space": "How does the clock occupy the domestic interior, and how might it have organized the space around it?",
+      "light": "How might light play on the case's surfaces differently in a candlelit and a daylit room?",
+      "meaning": "How do clocks participate in the cultural construction of time as something to be measured, owned, and displayed?",
+      "culture": "How do regional workshops and trade networks in New England appear in the materials and structure of this object?",
+      "technique": "What does the division between case and movement suggest about the organization of trades and credit for authorship?",
+      "personal": "How do your own habits of timekeeping shape how you imagine this clock in its original home?",
+      "critical": "What evidence would be needed to understand how this clock was made, who made which parts, and how it was used?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, maker, medium, department and dimensions read from the Met record; the record lists no subject tags. A wooden floor clock, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Tall case clocks combined a clockmaker's mechanism with a cabinetmaker's case and were status objects in early American homes. The Met record dates this one to 1803–9 and credits James Dinsmore.",
+    "vocabulary": [
+      "tall clock",
+      "case",
+      "hood",
+      "trunk",
+      "Federal period",
+      "cabinetmaker"
+    ],
+    "directions": [
+      "Have students measure their height against 91 inches and discuss how the clock's scale would feel in a room.",
+      "Ask students to draw the three sections of the case and label how each helps the clock work or look good.",
+      "Compare how time was kept in 1805 and today, and discuss what has changed in daily life."
+    ]
+  }
+}

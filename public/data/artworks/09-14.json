@@ -1,0 +1,158 @@
+{
+  "id": "met-201426",
+  "day": "09-14",
+  "title": "Vase (one of a pair)",
+  "artist": "Meissen Manufactory",
+  "date": "ca. 1730",
+  "medium": "Hard-paste porcelain",
+  "region": "Germany",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/DP328717.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/DP328717.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1952",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall porcelain vase decorated with birds and butterflies. It is one of a matching pair and stands about half a meter high.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/201426",
+    "objectId": "201426",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, tags (Birds, Butterflies), height, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tall porcelain vase made at the Meissen factory near Dresden, Germany, around 1730. The Met catalogs it as one of a pair, and its subject tags are Birds and Butterflies. It is about 49 cm (19 7/16 inches) tall.",
+  "descriptions": {
+    "k": "This tall vase is made of shiny porcelain. Birds and butterflies decorate it. It is one of two that match. It is about as tall as a big dog. Can you find a bird? Can you find a butterfly?",
+    "g12": "This vase was made in Germany about three hundred years ago. It is made of hard, shiny porcelain. Birds and butterflies decorate it. It is half a meter tall, and there is a matching vase just like it. Look for the animals. What might they be doing?",
+    "g35": "This tall porcelain vase was made around 1730 at Meissen in Germany, where Europeans first learned to make hard-paste porcelain. It is one of a pair, which means a matching vase once stood with it. The Met says its decoration includes birds and butterflies. Find them. Why might a maker choose animals that fly to decorate something that stands so tall?",
+    "g68": "Around 1730, Meissen was still a young factory proud of making hard-paste porcelain, a material Europeans had once imported from Asia. This vase stands nearly half a meter tall and was made as one of a pair, a common way to decorate a room symmetrically. Birds and butterflies decorate it. How might a pair of tall vases shape the feeling of a room? What can painted animals add to a vessel that may never hold flowers?",
+    "g910": "This Meissen vase of about 1730 belongs to a pair, a format that creates symmetry and display value beyond any practical use. Its large scale and the Met's subject tags, birds and butterflies, show how porcelain painters used animals to animate the surface of a glossy vessel. Consider how pairing, height, and subject matter all signal wealth and refinement, and how a once-secret technique became a basis for prestige and competition among European courts.",
+    "g1112": "Meissen's vases of around 1730 belong to a moment when European porcelain was both a technical achievement and a vehicle for court display. This vase, one of a pair, uses scale and symmetry to claim space in an interior, while its birds and butterflies attach it to a long tradition of decorative nature imagery. The object raises questions about borrowing from Asian porcelain, the role of painters and modelers, and the shifting meanings of a pair when separated into museum collections."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find a bird and a butterfly on this vase? Point to them.",
+      "emotion": "Does this tall vase look fancy, funny, or calm? Why?",
+      "observation": "What parts of the vase can you name? Look at the top, middle, and bottom.",
+      "analysis": "This vase has a twin that matches it. Why might someone want two that are alike?",
+      "line": "Trace the outline of the vase in the air from the bottom to the top.",
+      "shape": "What shapes do you see on the vase? Are the wings round, pointy, or both?",
+      "color": "What colors do you see on the animals? Which color is your favorite?",
+      "texture": "Porcelain is smooth and hard. How would this tall vase feel if you touched it gently?",
+      "space": "This vase is as tall as a big dog. Where in a room would you put it?",
+      "light": "Where does the vase look shiniest where the light hits it?",
+      "meaning": "Why do you think the painter chose animals that fly?",
+      "culture": "This vase was made in Germany a long time ago. What fancy things do people put in their homes today?",
+      "technique": "A painter used tiny brushes to make the birds and butterflies. What would be tricky about painting on a tall round vase?",
+      "personal": "If you had a pair of matching vases, what animals would you paint on them?",
+      "critical": "Is it okay for a vase to be only for looking at? What do you think?"
+    },
+    "g12": {
+      "daily": "What do you notice first about this tall porcelain vase?",
+      "emotion": "What feeling do the birds and butterflies give you? Show which details cause it.",
+      "observation": "Describe the vase from bottom to top. What animals and shapes do you see?",
+      "analysis": "How do the birds and butterflies fit on the shape of the vase?",
+      "line": "Find a curved line on the vase and a straight one. How do they feel different?",
+      "shape": "What shape is the whole vase? How do the wings of the birds and butterflies add shapes to it?",
+      "color": "Which colors stand out against the shiny porcelain? How do they work together?",
+      "texture": "Porcelain is hard and glossy. Which parts of the vase look the smoothest?",
+      "space": "How big is the vase compared to you? How does the size change the way it feels?",
+      "light": "Where do you think the light would bounce off the glossy porcelain the most?",
+      "meaning": "Birds and butterflies are light and free. What does that make you think of when you look at a heavy vase?",
+      "culture": "Rich families in Germany wanted porcelain like the kind from Asia. Why might people want a beautiful vase just to look at?",
+      "technique": "This vase belongs to a pair, so the maker had to make two that match. What would be hard about that?",
+      "personal": "What place in your home would look nice with a tall vase? Why?",
+      "critical": "Does a pair of vases feel more special than just one? Give a reason."
+    },
+    "g35": {
+      "daily": "What details make this tall vase worth a long look?",
+      "emotion": "What mood do the birds and butterflies add to this tall, fancy vase?",
+      "observation": "Look at the vase for one minute. Which birds and butterflies can you find, and what else is there?",
+      "analysis": "How do the animals and the shape of the vase work together to make one balanced design?",
+      "line": "How do curving lines in the vase and animals make the surface feel lively?",
+      "shape": "How do the shapes of wings and bodies contrast with the larger shape of the vase?",
+      "color": "How do the colors of the animals stand out against the glossy porcelain?",
+      "texture": "How does the glossy surface differ from a painted canvas or a wooden table?",
+      "space": "How does the vase's height make it stand out in a room, and how would a pair change that?",
+      "light": "How does the glossy glaze reflect light, and how does that change how the animals look?",
+      "meaning": "Birds and butterflies often stand for beauty and nature. Why might a maker add them to a vase?",
+      "culture": "Meissen was the first European factory to make hard-paste porcelain. Why might that be important to a ruler?",
+      "technique": "The Met says this vase was made as one of a pair. What skills would a maker need to produce a matching set?",
+      "personal": "Is there a pair of matching things in your home or school? Why do you think they come in twos?",
+      "critical": "Do you think vases like this were meant to be used, or just to be admired? Use details to explain."
+    },
+    "g68": {
+      "daily": "How does a pair of tall vases decorated with birds and butterflies change the feeling of a room?",
+      "emotion": "How do the delicate animals contrast with the vase's size and formality?",
+      "observation": "Scan the vase from base to top. Which details seem most carefully placed?",
+      "analysis": "How do symmetry and a matching pair create order in an interior?",
+      "line": "How does the outline of the vase create rhythm, and how do the animals break or echo it?",
+      "shape": "How does the large vase form relate to the small, detailed shapes of the birds and butterflies?",
+      "color": "How does color pull attention to the animals against the pale ground?",
+      "texture": "How does the hard, glossy surface of porcelain suggest wealth and delicacy?",
+      "space": "How does the vase's scale give it the presence of furniture or architecture?",
+      "light": "How might candlelight or window light have made the glaze sparkle in an 1730s palace?",
+      "meaning": "What might birds and butterflies suggest about nature, change, or luxury?",
+      "culture": "How did European rulers use porcelain to show their power and taste in the early 1700s?",
+      "technique": "Why might making a large vase from hard-paste porcelain be difficult for a factory in 1730?",
+      "personal": "How do you feel about objects made only for show? Where have you seen them?",
+      "critical": "Does the separation of a pair into a museum collection change how we understand the object?"
+    },
+    "g910": {
+      "daily": "How do scale, symmetry, and animal imagery combine to make this vase a statement of status?",
+      "emotion": "How does the contrast between the light creatures and the weighty vase form shape the mood?",
+      "observation": "Describe the visual hierarchy of the vase's form and its decoration. What draws the eye first?",
+      "analysis": "Analyze how decoration is arranged to support the vase's structure and the pairing with its twin.",
+      "line": "How does the interplay of contour and painted line produce rhythm over the tall form?",
+      "shape": "How does the contrast between the vase's volume and the small forms of wings and bodies create tension?",
+      "color": "How does color work against the glossy ground to direct attention across the surface?",
+      "texture": "How does the sheen of porcelain support the sense of luxury and fragility?",
+      "space": "How does the tall form interact with the space around it, and how does the existence of a pair extend that effect?",
+      "light": "How does glaze turn the surrounding room into part of the vase's appearance?",
+      "meaning": "How might birds and butterflies communicate ideas about nature, delicacy, or impermanence?",
+      "culture": "How does a factory's success in making hard-paste porcelain relate to the competition among European courts?",
+      "technique": "What do large, matching porcelain pieces reveal about technical control in the factory's early decades?",
+      "personal": "How does the idea of a matching pair affect your sense of the object's value?",
+      "critical": "How should we think about works designed to be displayed in groups when museums show them singly?"
+    },
+    "g1112": {
+      "daily": "What does a tall pair of vases suggest about how porcelain served the staging of courtly taste?",
+      "emotion": "How might the combination of monumentality and delicate subject matter produce a particular emotional register?",
+      "observation": "Describe the vase's form and decoration with precision. Where does description begin to involve judgment of taste?",
+      "analysis": "Analyze how a decorative scheme of birds and butterflies engages the vessel's form and its pairing.",
+      "line": "How do line and contour on a curved body complicate the idea of a flat picture plane?",
+      "shape": "How might the vase's silhouette be read as architecture in miniature?",
+      "color": "How does the interplay of painted color and glossy ground reflect eighteenth-century preferences for brilliance?",
+      "texture": "How does the material character of porcelain, hard and glossy, shape the way decoration is read?",
+      "space": "How might a pair of tall vases have organized the space of a room, and how does a single vase in a case change that?",
+      "light": "How might the vase's appearance have varied in its original interior, and how does museum lighting alter it?",
+      "meaning": "How do motifs of birds and butterflies negotiate between naturalism, ornament, and symbolism?",
+      "culture": "How does Meissen's early history, including its relationship to Asian porcelain, complicate the story of European innovation?",
+      "technique": "How do the logistics of producing large, matched porcelain objects reflect the economy and labor of a manufactory?",
+      "personal": "How do your own habits of display, in a home or room, shape how you imagine this vase in use?",
+      "critical": "What do we lose when a pair of objects intended to be seen together is divided in museum records and displays?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, maker, medium, department and tags (Birds, Butterflies) read from the Met record. A porcelain vase decorated with birds and butterflies, so no sensitive content is expected.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Meissen, near Dresden, was the first European factory to make hard-paste porcelain. The Met catalogs this vase as one of a pair made around 1730 and tags it Birds and Butterflies.",
+    "vocabulary": [
+      "hard-paste porcelain",
+      "manufactory",
+      "pair",
+      "symmetry",
+      "glaze",
+      "motif"
+    ],
+    "directions": [
+      "Have students design a matching pair of vases with a common theme and discuss how symmetry affects the effect.",
+      "Ask students to compare the scale of the vase to classroom objects and discuss how scale changes meaning.",
+      "Discuss why decorative objects were once made in pairs for display."
+    ]
+  }
+}

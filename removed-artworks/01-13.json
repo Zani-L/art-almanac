@@ -1,0 +1,158 @@
+{
+  "id": "met-253600",
+  "day": "01-13",
+  "title": "Gold fibula (safety pin) with sphinx",
+  "artist": "Artist unknown",
+  "date": "early 5th century BCE",
+  "medium": "Gold",
+  "region": "Etruscan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-41111-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP-41111-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1940",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small gold fibula, an ancient pin used to fasten clothing, decorated with a sphinx. A sphinx is a mythical creature usually shown with a human head, a lion's body, and wings.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/253600",
+    "objectId": "253600",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A gold fibula, or ancient safety pin, made by Etruscan craftspeople in Italy in the early 5th century BCE. Fibulae fastened cloth, and this one is decorated with a sphinx, a mythical creature found in both Etruscan and Greek art.",
+  "descriptions": {
+    "k": "This is a gold pin from long ago. People used it to hold their clothes together. A sphinx sits on it. A sphinx is a make-believe animal with a person's head and a lion's body. Can you imagine wearing it?",
+    "g12": "Etruscan artists in Italy made this gold pin more than 2,400 years ago. It is called a fibula, and it worked like a safety pin to hold cloth in place. A sphinx decorates it. A sphinx is a make-believe creature, often shown with a lion's body and a person's head. Why decorate something so small?",
+    "g35": "The Etruscans lived in what is now central Italy and were skilled goldsmiths. This fibula was an ancient safety pin that fastened a cloak or dress, yet it is also a tiny sculpture. A sphinx, a make-believe creature that mixes animal and human parts, decorates it. Look closely at how small the details are. How might a goldsmith work so carefully on such a small object?",
+    "g68": "This gold fibula was made by Etruscan craftspeople in the early 5th century BCE. It had a practical job, fastening clothing, but the maker also turned it into a miniature work of art. The sphinx was a popular creature in the Mediterranean world, and Etruscan artists borrowed and adapted it from Greek art. Compare what this pin says about wealth, taste, and skill with how we decorate everyday objects today.",
+    "g910": "A fibula is a functional object, yet this one is transformed by a sphinx and by gold, a material that signaled wealth and status. Etruscan goldsmiths are famous for fine decoration, and the sphinx shows how Etruscan culture adopted and reshaped imagery from the Greek world and beyond. Consider how a small scale demands precision: every curve and detail must work at a size meant to be worn. What does choosing a mythical guardian-like creature for a clothing pin suggest about how people wanted to present themselves?",
+    "g1112": "This Etruscan fibula joins utility, display, and iconography in a single small object. The sphinx belonged to a visual vocabulary shared across the ancient Mediterranean, so scholars often discuss how Etruscan artists adapted Greek and Eastern models rather than simply copying them. Why the sphinx appears on jewelry, whether as decoration, protection, or a marker of status, cannot be settled from the object alone. Consider what gold, scale, and function reveal about the people who wore it, and how little we know about the individual maker."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this gold pin was used for?",
+      "emotion": "How would you feel wearing something shiny and gold? Why?",
+      "observation": "What can you find on this pin? Point to three parts.",
+      "analysis": "Where do your eyes go first on this pin? What makes them go there?",
+      "line": "Can you find a curved line or a straight line? Trace one in the air.",
+      "shape": "What shapes do you see in the pin and the sphinx?",
+      "color": "Gold is a shiny yellow color. What other things do you know that are gold?",
+      "texture": "How do you think this gold would feel if you touched it? Smooth, bumpy, or cold?",
+      "space": "This pin is very small. Could you hold it in one hand? What would it look like next to your finger?",
+      "light": "Look at where the gold shines. Which spots catch the light?",
+      "meaning": "A sphinx is make-believe. What do you think this creature would do if it came alive?",
+      "culture": "People in Italy made this pin a very long time ago. What do you use to keep your clothes closed?",
+      "technique": "A goldsmith made this by hand. What tools or skills do you think a goldsmith needs?",
+      "personal": "If you had a small gold pin, what animal would you put on it?",
+      "critical": "Why would someone take so much care to decorate a tiny pin?"
+    },
+    "g12": {
+      "daily": "How do you think people used this pin? What clues in its shape help you decide?",
+      "emotion": "What feeling does a shiny gold object give you? Why do you think people loved gold?",
+      "observation": "Describe the pin and the sphinx. What parts can you name?",
+      "analysis": "How does the sphinx make you look at the pin more closely?",
+      "line": "Find a curved line and a straight line on the pin. How do they work together?",
+      "shape": "What shapes can you find in the pin? Which shape is the biggest?",
+      "color": "Why might people long ago have chosen gold for something they wore?",
+      "texture": "Gold can be smooth or bumpy. Which parts of this pin might feel different?",
+      "space": "How can you tell this object is small? What would you compare it to?",
+      "light": "Where does the light make the gold look brightest? Why?",
+      "meaning": "A sphinx has a person's head and a lion's body. Why might someone like a creature like that?",
+      "culture": "The Etruscans lived in Italy long ago. What does this pin tell you about how they dressed?",
+      "technique": "How might a goldsmith have shaped such tiny parts? Make a guess.",
+      "personal": "If you made a pin for a friend, what picture would you put on it?",
+      "critical": "A pin that holds clothes could be plain. Why might someone want it to look like a sculpture?"
+    },
+    "g35": {
+      "daily": "What details on this fibula make it more than just a safety pin?",
+      "emotion": "How might it feel to wear something this special? Use details to explain your thinking.",
+      "observation": "Take a minute of quiet looking. What small details do you find on the sphinx and the pin?",
+      "analysis": "How does the artist fit a creature onto an object that also has to work as a pin?",
+      "line": "How do the curves of the sphinx compare with the straight parts needed to fasten cloth?",
+      "shape": "How do the sphinx's shape and the shape of the pin work together as one design?",
+      "color": "Gold keeps its shine for thousands of years. How might that affect how we see this object today?",
+      "texture": "How might a goldsmith have given parts of this small object different surface textures?",
+      "space": "How does the small size of the fibula change the way you look at it compared with a statue?",
+      "light": "Gold reflects light strongly. How does that make a small object stand out on cloth?",
+      "meaning": "A sphinx combines parts of different animals and a human. What might that mixture have meant to the people who wore it?",
+      "culture": "The Etruscans lived in central Italy and traded with Greece. How might trade have brought ideas like the sphinx to them?",
+      "technique": "Goldsmiths had to shape metal without modern machines. What problems might they have had to solve?",
+      "personal": "What object that you carry every day could be decorated to look special? What would you add?",
+      "critical": "Why do you think someone chose to put a mythical creature on a pin? What other reasons are possible?"
+    },
+    "g68": {
+      "daily": "How does the maker turn a plain fastening tool into something worth looking at closely?",
+      "emotion": "What mood does gold with a mythical creature create, and which details support your idea?",
+      "observation": "List what you notice from the whole object down to its smallest part. What was easy to miss?",
+      "analysis": "How might the shape of the pin shape the design of the sphinx? What limits does a fibula place on a designer?",
+      "line": "Where do the lines of the sphinx follow the form of the pin, and where do they break away from it?",
+      "shape": "How are the shapes of the sphinx and the fibula arranged so that they look balanced?",
+      "color": "Gold has a warm, steady color. How might that color have affected how the wearer was seen by others?",
+      "texture": "How might texture, such as polished and decorated areas, make a small gold object more interesting?",
+      "space": "A fibula is worn on the body. How does that change how its size and shape need to be designed?",
+      "light": "How would moving light, such as firelight or sunlight, change the way this gold object looked on a wearer?",
+      "meaning": "Why might a sphinx, a creature of mixed parts, be chosen for jewelry? Offer more than one possible reason.",
+      "culture": "How might jewelry such as this show the wealth, trade contacts, or tastes of Etruscan society?",
+      "technique": "How could a goldsmith join a decoration to a working pin? What skills would that require?",
+      "personal": "What small objects do you wear that show who you are? How are they like this fibula?",
+      "critical": "What can we say with confidence about this fibula, and what questions about its use or meaning remain open?"
+    },
+    "g910": {
+      "daily": "How does the sphinx change a utilitarian fibula into a statement about taste and status?",
+      "emotion": "What emotional or social effect might gold ornament have had on the person who wore it and the people who saw it?",
+      "observation": "Describe the visual hierarchy of the object: what draws attention first, and which design choices create that order?",
+      "analysis": "Analyze how the maker integrates ornament and function so that the sphinx does not interfere with the pin's work.",
+      "line": "How do contour and edge define the sphinx on such a small scale, and why do clear outlines matter in miniature?",
+      "shape": "How might the sphinx's compact, balanced form have been adapted to fit the fibula's structure?",
+      "color": "How does the choice of gold, rather than bronze or iron, shape the meaning of the object?",
+      "texture": "How does surface treatment, such as polish or fine decoration, affect how a small metal object reads from a distance and up close?",
+      "space": "How does small scale create a different kind of intimacy than monumental sculpture?",
+      "light": "Gold behaves differently from stone or clay in light. How might that matter for jewelry worn in motion?",
+      "meaning": "Why might Etruscan wearers choose a creature with human and animal features? Consider decoration, protection, and status as possibilities.",
+      "culture": "How does this object show Etruscan engagement with Greek and wider Mediterranean imagery without simply copying it?",
+      "technique": "What do you think are the main technical challenges of making a detailed object in gold at this scale?",
+      "personal": "How do the things we wear, such as pins, badges, or jewelry, communicate identity today? Compare with this fibula.",
+      "critical": "What kinds of evidence would help scholars decide whether the sphinx here was mainly decorative or carried symbolic meaning?"
+    },
+    "g1112": {
+      "daily": "What arguments can be made about this object's meaning from its form alone, and what remains uncertain?",
+      "emotion": "How might a piece of jewelry shape emotion or social identity for both wearer and viewer, and how can we reason about this for a distant culture?",
+      "observation": "Describe the fibula's formal construction precisely. Where does careful description already become interpretation?",
+      "analysis": "Analyze how the object resolves the tension between structural function and sculptural ornament.",
+      "line": "How does economy of line serve the sphinx at miniature scale, and what might be lost or gained compared with a larger sculpture?",
+      "shape": "How does the object's compact silhouette negotiate between a wearable form and a figural image?",
+      "color": "What does the use of gold imply about access to resources, trade, and craft specialization in Etruscan society?",
+      "texture": "How might surface handling distinguish a high-status object from an ordinary fastener, and how can we tell from a museum photograph alone?",
+      "space": "How does the object's scale and position on the body shape the way viewers encountered its imagery?",
+      "light": "How might the behavior of gold in changing light have contributed to the object's social effect, and how does museum lighting alter our experience of it?",
+      "meaning": "Evaluate possible readings of the sphinx here: protective emblem, decorative motif, or marker of connection to wider Mediterranean culture. What would count as evidence for each?",
+      "culture": "How does the Etruscan use of the sphinx complicate any simple division between Greek and non-Greek art in the ancient Mediterranean?",
+      "technique": "What do the technical demands of making such an object suggest about workshops, training, and the transmission of skill?",
+      "personal": "What assumptions do you bring to a small gold object in a museum, and how might they differ from those of its original owner?",
+      "critical": "Given that the maker is unknown and little may be recorded about its original wearer, how should we weigh claims about its purpose and meaning?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a piece of gold jewelry decorated with a sphinx, a mythical creature. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An Etruscan gold fibula of the early 5th century BCE. Fibulae were practical fasteners, but gold examples like this one also displayed wealth and craftsmanship.",
+    "vocabulary": [
+      "fibula",
+      "Etruscan",
+      "sphinx",
+      "goldsmith",
+      "ornament",
+      "miniature"
+    ],
+    "directions": [
+      "Ask students to draw a fastener or badge they use today and redesign it with a creature or symbol.",
+      "Compare this object with a modern safety pin: what stays the same and what changes?",
+      "Locate Etruria and Greece on a map and discuss how ideas and objects traveled between them."
+    ]
+  }
+}

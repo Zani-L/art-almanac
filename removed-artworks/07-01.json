@@ -1,0 +1,154 @@
+{
+  "id": "met-314789",
+  "day": "07-01",
+  "title": "Umutsha (belt)",
+  "artist": "Zulu or Sotho artist",
+  "date": "19th–20th century",
+  "medium": "Leather, glass beads, cloth, fiber",
+  "region": "Zulu or Sotho peoples, South Africa",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A long, narrow band of beadwork, about 72 centimeters long and under 4 centimeters wide, made of small glass beads. It is a belt meant to be worn around the waist.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/314789",
+    "objectId": "314789",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, classification, tags (none), public-domain flag (false), and empty image fields read from the record"
+  },
+  "context": "A beaded belt called an umutsha, made by a Zulu or Sotho artist in South Africa. The record dates it to the 19th or 20th century and lists leather, glass beads, cloth, and fiber. It is about 72 centimeters long and under 4 centimeters wide. Glass beads in southern Africa were largely imported, and beadwork was made into many kinds of clothing and jewelry.",
+  "descriptions": {
+    "k": "This is a long, thin belt made of tiny beads. It was made in South Africa. Someone sewed many, many beads, one by one. Can you find a pattern in the beads? What colors do you see?",
+    "g12": "This long, thin belt is made of tiny glass beads. An artist in South Africa made it by sewing the beads, one at a time. The beads make patterns. Look for lines, zigzags, and shapes. Which pattern do you notice first?",
+    "g35": "This belt is called an umutsha. A Zulu or Sotho artist in South Africa sewed tiny glass beads onto it in patterns. It is a very long, narrow band, about 72 centimeters long, so a close look will show many small shapes. Beadwork takes patience, because each bead is placed by hand. How do the patterns work together along the whole belt?",
+    "g68": "Beadwork in southern Africa developed using glass beads brought by trade, and artists used them to make belts, necklaces, and other adornments in many styles. This umutsha is long and narrow, so its patterns have to work as a band that repeats and changes along its length. The record lists glass beads with leather, cloth, and fiber. Some writers describe bead colors and patterns as carrying messages, but scholars caution that meanings varied by place, maker, and time. How do you read patterns without assuming a code?",
+    "g910": "This umutsha shows how beadwork turns a long, narrow band into a field for design. Glass beads were imported into southern Africa, and artists used them to create distinctive local styles, which vary by region and community. The attribution here is to a Zulu or Sotho artist, which reflects uncertainty about the maker's community. Popular accounts claim that colors and patterns spell out messages, yet researchers warn that this can oversimplify, because meanings depend on context. How does the form of the band shape the way patterns are arranged?",
+    "g1112": "A beaded belt like this invites two kinds of attention: close attention to the work of arranging thousands of small beads into pattern, and caution about claims regarding what the pattern means. Southern African beadwork became a visible art form with imported glass beads, and styles differ by region, community, and period; the museum attributes this one only to a Zulu or Sotho artist. Popular claims that bead colors form a fixed code have been challenged because meaning is local and changes. How can a viewer appreciate design while respecting the limits of what the object reveals?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What patterns can you find in this belt? Point to your favorite.",
+      "emotion": "Do the beads look calm, busy, or happy? What do you see that makes you say so?",
+      "observation": "What can you find on the belt? Point to three things.",
+      "analysis": "Where do your eyes go first on the belt? Where do they go next?",
+      "line": "Can you find a line that goes up and down, or across? Trace it in the air.",
+      "shape": "What shapes do you see in the patterns? Look for triangles, squares, and zigzags.",
+      "color": "Which colors do you see in the beads? Which color do you see the most?",
+      "texture": "The belt is made of tiny beads. How do you think it would feel to touch?",
+      "space": "The belt is long and thin. Show with your hands how long you think it is.",
+      "light": "Glass beads can sparkle. Which parts look bright?",
+      "meaning": "Who do you think might wear a belt like this? Tell a little story.",
+      "culture": "This belt was made in South Africa. What special things do people wear where you live?",
+      "technique": "Someone sewed on each bead by hand. How do you think they kept the pattern right?",
+      "personal": "If you made a belt, what pattern would you put on it?",
+      "critical": "How can you tell this belt took a long time to make?"
+    },
+    "g12": {
+      "daily": "What patterns do you notice in the belt, and how do they repeat? Point to the details.",
+      "emotion": "What feeling do the colors and patterns give you? Show what makes you feel that way.",
+      "observation": "Describe three different patterns or shapes you can find in the beads.",
+      "analysis": "Which parts of the belt repeat, and which parts change? How can you tell?",
+      "line": "Find lines made by rows of beads. Which ones are straight and which ones are zigzag?",
+      "shape": "What shapes are made by the beads? Show a shape that appears again in another place.",
+      "color": "Which colors sit next to each other? Which pairs stand out the most?",
+      "texture": "A belt of beads is bumpy but also smooth. How might it feel when you run your finger across it?",
+      "space": "The belt is long and narrow. How is that different from a square picture?",
+      "light": "Glass beads catch light. Where might the belt sparkle?",
+      "meaning": "People wear belts and necklaces to show who they are. What do you show with what you wear?",
+      "culture": "Artists in South Africa made beadwork for many kinds of clothing. Why might people take such care with it?",
+      "technique": "Each bead was sewn on by hand. Why do you think artists need patience for this?",
+      "personal": "What would you like to make out of tiny beads?",
+      "critical": "A belt has to fit around someone. How might that change how the artist plans the pattern?"
+    },
+    "g35": {
+      "daily": "How does the artist arrange the beads so the patterns work along the whole belt? Use details to explain.",
+      "emotion": "What feeling do the bead colors and patterns create, and which details help create it?",
+      "observation": "Look carefully for one quiet minute. What small details do you notice that you missed at first?",
+      "analysis": "Where does the pattern repeat along the belt, and where does it change? How does that affect your eye?",
+      "line": "How do rows of beads form lines, and how do the lines change direction?",
+      "shape": "Find a shape that repeats. How does repetition create a rhythm?",
+      "color": "How do the artist's color choices make some parts stand out and others fade back?",
+      "texture": "The belt is made of leather, cloth, fiber, and glass beads. How might each material feel different?",
+      "space": "This belt is long and narrow. How does that shape affect how the artist plans the design?",
+      "light": "Glass beads reflect light. How might the belt look different in sunlight and indoors?",
+      "meaning": "Some people say bead colors have fixed meanings, but scholars say meanings vary. Why is it important to be careful with such claims?",
+      "culture": "Glass beads came to southern Africa through trade, and artists made them their own. What does this show about how art and trade connect?",
+      "technique": "Each bead is sewn by hand onto a backing. What do you think the artist has to plan before starting?",
+      "personal": "Think of a time you made something with many tiny parts. What did you learn about patience?",
+      "critical": "If you could ask the maker one question about this belt, what would it be?"
+    },
+    "g68": {
+      "daily": "How does the artist use pattern, color, and the belt's long shape to create a unified design?",
+      "emotion": "What energy do the colors and patterns create, and which choices produce it?",
+      "observation": "Describe the belt's patterns from one end to the other. What changes and what stays the same?",
+      "analysis": "How does the long, narrow format affect the way the design is arranged?",
+      "line": "How do rows of beads create lines, and how do changes in direction create rhythm?",
+      "shape": "Which geometric shapes appear, and how are they combined or varied across the band?",
+      "color": "How do contrasts between colors create emphasis, and where do harmonies create calm?",
+      "texture": "How do the small glass beads create a surface that is both flat and slightly bumpy?",
+      "space": "How does a design intended to wrap around a body differ from a design in a frame?",
+      "light": "How might the shine of glass beads change the pattern as a person moves?",
+      "meaning": "Why should we be careful about claims that bead colors have fixed meanings?",
+      "culture": "How did imported glass beads become part of local art traditions in southern Africa?",
+      "technique": "What planning and skill does it take to sew thousands of beads into a controlled pattern?",
+      "personal": "What symbols or patterns do you use to show belonging or identity, and how are they similar to or different from beadwork?",
+      "critical": "The record says 'Zulu or Sotho artist.' What does that uncertainty teach us about museum information?"
+    },
+    "g910": {
+      "daily": "How does the artist convert a narrow band into a field for visual rhythm?",
+      "emotion": "How do color contrasts and patterns generate a sense of energy or celebration without any figures or scenes?",
+      "observation": "Describe the belt's visual hierarchy. Which patterns or colors dominate, and what devices produce that effect?",
+      "analysis": "Analyze how repetition, variation, and symmetry organize the belt's design along its length.",
+      "line": "How do rows of beads function as lines, and how do they define the geometry of the design?",
+      "shape": "How does geometric patterning create both unity and variety?",
+      "color": "How might the artist's color choices function aesthetically, regardless of any specific cultural meaning?",
+      "texture": "How do glass beads and the supporting materials create a textured surface that responds to the body and to light?",
+      "space": "How does the belt's function as a wrapping, wearable object affect its design logic?",
+      "light": "How does the reflective quality of glass change the experience of the patterns in motion?",
+      "meaning": "What kinds of evidence would you want before claiming what a specific bead color or pattern means?",
+      "culture": "How did southern African artists adapt imported glass beads into regional styles, and what does that show about creativity under trade?",
+      "technique": "How does beadwork differ from painting or weaving in how pattern is built, and what constraints does it impose?",
+      "personal": "How do you or people you know use clothing and accessories to communicate identity, and how reliable are those messages to outsiders?",
+      "critical": "What are the risks of using popular 'color codes' to explain beadwork, and how might researchers correct them?"
+    },
+    "g1112": {
+      "daily": "What can we say with confidence about this belt's design, and what claims about its meaning should be left open?",
+      "emotion": "How does abstraction in beadwork produce emotional or social effect without representation?",
+      "observation": "Describe the belt precisely. Where does description depend on information that the record does not supply?",
+      "analysis": "Analyze how pattern organization, color, and format work together to create a unified composition.",
+      "line": "How do rows and edges of beads construct a rhythmic linear system comparable to musical structure?",
+      "shape": "How does the geometry of beadwork relate to its technique, and how should we think about abstraction in non-Western contexts?",
+      "color": "How does the availability of imported beads in particular colors shape the palette of the work?",
+      "texture": "How does the combination of glass, leather, cloth, and fiber create tactile qualities that photographs cannot capture?",
+      "space": "How does the belt's wearability challenge the idea of a work of art as a static object meant for display?",
+      "light": "How does the reflective surface of glass create a different visual effect from dyed or painted color?",
+      "meaning": "How have popular claims about bead 'codes' simplified a more complex reality, and what does that teach us about cross-cultural interpretation?",
+      "culture": "How do imported materials and local aesthetics interact in southern African beadwork, and what does the term 'tradition' hide in this case?",
+      "technique": "What does the technical demand of beadwork suggest about the labor, time, and expertise it represents?",
+      "personal": "How does the experience of seeing a wearable object in a case change your sense of its original life?",
+      "critical": "How might museums present beadwork so that visitors learn about specific makers and communities rather than a generalized 'African' art?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Umutsha (belt)), classification (Textiles-Beadwork), object name (Belt), medium (leather, glass beads, cloth, fiber), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A beaded belt (umutsha) attributed to a Zulu or Sotho artist, South Africa, 19th to 20th century. Avoid claiming that bead colors have a single fixed meaning; scholars note that meanings vary by place, maker, and time.",
+    "vocabulary": [
+      "beadwork",
+      "umutsha",
+      "pattern",
+      "repetition",
+      "adornment",
+      "trade"
+    ],
+    "directions": [
+      "Have students design a bead pattern on grid paper for a long, narrow band, using repetition and one deliberate change.",
+      "Discuss the idea of patterns that mean something to a community, and how outsiders should approach them respectfully.",
+      "Trace the path of glass beads in trade using a world map, and discuss how objects and ideas travel."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-19018",
+  "day": "06-09",
+  "title": "Sampler made at the Westtown Quaker School",
+  "artist": "Rebecca Marsh",
+  "date": "1802",
+  "medium": "Silk embroidery on linen",
+  "region": "United States (Mid-Atlantic)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP168676.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP168676.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Virginia F. Thors, 2005",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A needlework sampler stitched in colored silk thread on linen. Its stitched designs include birds, garlands, and plants.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/19018",
+    "objectId": "19018",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, region, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A sampler stitched in silk on linen by Rebecca Marsh in 1802, made at the Westtown Quaker School, a boarding school in Pennsylvania. The Met's record lists birds, garlands, and plants among its imagery.",
+  "descriptions": {
+    "k": "Rebecca Marsh sewed this at her school long ago. She used silk thread on linen cloth. Look for birds and leaves. Can you find a bird? What color is it?",
+    "g12": "Rebecca Marsh stitched this sampler in 1802 at her school, the Westtown Quaker School. She used silk thread on linen. Birds, garlands, and plants are part of the design. Find a bird and a plant. How did she use thread to make each one?",
+    "g35": "Rebecca Marsh made this sampler at the Westtown Quaker School in 1802. A sampler shows needlework skill, and she used colored silk thread on linen to stitch birds, garlands, and plants. Think about how long careful stitching takes. Look at the birds and the plants. Which one do you think was hardest to stitch, and why?",
+    "g68": "This sampler was stitched by Rebecca Marsh in 1802 at the Westtown Quaker School, a boarding school in Pennsylvania. Needlework was part of many girls' schooling in the early United States, and samplers displayed learned skills. Birds, garlands, and plants fill the design with silk on linen. Notice how the repeating plant forms and the placement of birds organize the cloth. What does a sampler show about both education and artistry?",
+    "g910": "Rebecca Marsh's 1802 sampler from the Westtown Quaker School in Pennsylvania documents schooling as well as design. Silk thread on linen creates birds, garlands, and plants whose placement shows careful planning on the grid of the cloth. Needlework was widely taught to girls at the time, and school samplers often show shared teaching traditions alongside individual choices. Ask what the arrangement of natural forms suggests about taste and training, and what we cannot know about Marsh's own intentions.",
+    "g1112": "Made in 1802 at the Westtown Quaker School by Rebecca Marsh, this sampler belongs to a body of American school needlework that historians use to study girls' education, regional style, and the transmission of design. Silk on linen, with birds, garlands, and plants, it shows technical control and decorative planning. Because the record does not describe every inscription or motif, claims about its meaning should rest on what we can see and on cautious reading of its school context rather than on assumptions about the maker."
+  },
+  "questions": {
+    "k": {
+      "daily": "Rebecca Marsh stitched birds on her sampler. Point to one bird. What do you think it might say?",
+      "emotion": "How do you think Rebecca felt when she finished sewing at school? Why?",
+      "observation": "Find a garland, which is like a long chain of leaves or flowers. Where is it?",
+      "analysis": "Which part of the sampler do your eyes find first? Why do you think so?",
+      "line": "Find a curvy stitched line near a plant. Trace it in the air.",
+      "shape": "What shapes do the leaves make? Are they round, pointy, or long?",
+      "color": "Which silk thread colors can you find? Which is your favorite?",
+      "texture": "How would the silk stitches feel on your fingertip? Smooth or bumpy?",
+      "space": "Are the birds near the plants or far away? Point to the closest ones.",
+      "light": "Silk thread shines a little. Which stitched bird or leaf looks shiniest to you?",
+      "meaning": "Why might a girl sew birds and plants on a school project?",
+      "culture": "Rebecca learned sewing at a school. What things do you learn at your school with your hands?",
+      "technique": "Rebecca used a needle again and again on linen. How many stitches do you think a bird needs?",
+      "personal": "If you stitched a picture of your favorite animal, which would you choose?",
+      "critical": "Rebecca made her sampler at school. What clue in the stitches shows she was practising?"
+    },
+    "g12": {
+      "daily": "Find a bird and a plant on Rebecca Marsh's sampler. How are their stitches alike and different?",
+      "emotion": "Does this sampler feel playful or serious to you? Which parts make you feel that?",
+      "observation": "Describe three things you can find stitched on the cloth, from the birds to the plants.",
+      "analysis": "How do the garlands help hold the sampler together as one picture?",
+      "line": "Look at a garland. How do its curving lines help it look like it is hanging or winding?",
+      "shape": "Compare the shape of a bird with the shape of a leaf. How are they different?",
+      "color": "Choose two colors of thread that sit near each other. How do they help the bird or plant stand out?",
+      "texture": "The thread is silk and the cloth is linen. How do you think the stitched parts feel compared with the plain cloth?",
+      "space": "Where did the stitcher leave empty linen? Why might that help the birds and plants show?",
+      "light": "Where do the stitches seem to glimmer a little? Why might silk thread do that?",
+      "meaning": "Birds and plants are things we see in nature. Why might a school lesson include them?",
+      "culture": "Rebecca made this at the Westtown Quaker School in 1802. What do you think a school day was like then?",
+      "technique": "Embroidery means adding stitches to cloth. What would you need to practise to stitch a bird neatly?",
+      "personal": "What would you want to show off if you made a sampler at school?",
+      "critical": "A sampler shows skill at sewing and also looks like a picture. Which part matters more to you, and why?"
+    },
+    "g35": {
+      "daily": "How do the birds, garlands, and plants show that Rebecca Marsh was learning and showing skill? Use details to explain.",
+      "emotion": "What mood does a sampler full of birds and plants create? Which details help set it?",
+      "observation": "Look slowly across the sampler. What small details in the stitching did you notice after the first look?",
+      "analysis": "How are the birds, garlands, and plants arranged to make the sampler feel organized?",
+      "line": "How do the stitched lines in the garlands compare with the lines that make the birds?",
+      "shape": "Which shapes repeat in the plants and garlands? How does repeating them help the design?",
+      "color": "How do the silk colors look against the linen? Which parts stand out, and why?",
+      "texture": "Stitches sit on top of the cloth. How might this sampler feel different from a drawing of birds?",
+      "space": "How does the stitcher fill the linen? What does the space between designs do?",
+      "light": "Silk thread catches light in a soft way. How might the sampler look different in a bright room?",
+      "meaning": "Many samplers show things from nature. What do birds and garlands suggest about what people liked to look at?",
+      "culture": "Rebecca stitched this at a Quaker school in 1802. How does a school sampler show what children were taught then?",
+      "technique": "Stitching on linen follows the threads of the cloth. Why might this help a student make neat shapes?",
+      "personal": "Think of a project you worked hard on at school. How is it like this sampler?",
+      "critical": "Why might a sampler be saved for over 200 years when other school work is thrown away?"
+    },
+    "g68": {
+      "daily": "How does Marsh combine birds, garlands, and plants into one planned design on linen?",
+      "emotion": "How do the natural motifs affect the overall mood of the sampler? Support with specifics.",
+      "observation": "List the kinds of motifs you find and where they sit. Which are easy to overlook?",
+      "analysis": "How does the arrangement of motifs create balance across the sampler?",
+      "line": "How do curved garland lines contrast with straighter lines elsewhere in the design?",
+      "shape": "How are birds and plants simplified into stitchable shapes? What details were kept or dropped?",
+      "color": "How does the choice of thread colors separate the motifs from the linen ground and from each other?",
+      "texture": "How do dense stitched areas differ from open areas of bare linen in surface and weight?",
+      "space": "How does the sampler organize flat space without perspective? Compare it to a painted landscape.",
+      "light": "How might the sheen of silk affect how the colors of the birds and plants appear?",
+      "meaning": "What might birds and garlands have meant to a student and her teachers, and what can we not say for sure?",
+      "culture": "How does a sampler made at a Quaker boarding school reflect educational values of the time?",
+      "technique": "How does stitching on counted linen threads shape the limits and possibilities of the design?",
+      "personal": "What skills have you practised at school that might someday be saved or displayed?",
+      "critical": "What can a sampler teach us about girls' lives in 1802, and what questions does it leave open?"
+    },
+    "g910": {
+      "daily": "How does Marsh's selection and placement of birds, garlands, and plants communicate skill and learned convention?",
+      "emotion": "How do the repeated natural motifs and delicate thread shape the sampler's tone?",
+      "observation": "Describe the hierarchy of motifs on the sampler. What dominates, and what devices produce that effect?",
+      "analysis": "Analyze the sampler's composition: balance, repetition, and the relationship of motif to ground.",
+      "line": "How does the garland function as both a decorative line and a structuring device?",
+      "shape": "How do organic forms of birds and plants interact with the underlying grid of the linen?",
+      "color": "How does the color range of silk thread articulate separate motifs while keeping the whole cohesive?",
+      "texture": "How does the sampler combine the texture of embroidery with the plainness of linen to create contrast?",
+      "space": "How is blank linen activated as negative space around the stitched motifs?",
+      "light": "How does silk's reflective surface distinguish stitched forms from the ground?",
+      "meaning": "How might natural imagery in a school sampler relate to the ideals of education and character in the early republic, and where does this remain uncertain?",
+      "culture": "How do school samplers show shared teaching traditions as well as individual choices?",
+      "technique": "What planning would Marsh have needed before stitching, and how is this visible in the result?",
+      "personal": "How do you balance following a model with expressing yourself when you learn a new skill?",
+      "critical": "How does the survival of a school sampler shape the story that history tells about girls' education?"
+    },
+    "g1112": {
+      "daily": "What claims about Marsh and her education does this sampler support, and which ones exceed the evidence?",
+      "emotion": "How can orderly, repeated natural imagery communicate feeling without direct expression, and what are the risks of projecting emotion?",
+      "observation": "Describe the sampler's surface and motifs precisely. At what point does description depend on assumptions about school conventions?",
+      "analysis": "Analyze how birds, garlands, and plants are organized into a system, and what that system tells us about training.",
+      "line": "How does the stitch produce line, and how does the garland complicate the line between pattern and image?",
+      "shape": "How do stylized natural forms reflect both observation and inherited pattern in school needlework?",
+      "color": "How might age, light, and dye instability have altered the sampler's colors, and how should that affect interpretation?",
+      "texture": "In what ways does the material contrast of silk and linen carry meaning about cost, taste, and skill?",
+      "space": "How does the sampler's flat, ordered field relate to the pictorial conventions of its time?",
+      "light": "How does display lighting affect conservation and perception of silk thread, and what trade-offs follow?",
+      "meaning": "Compare readings of sampler imagery as moral instruction, decoration, and display of accomplishment. What evidence favors each?",
+      "culture": "How do school samplers complicate the opposition between domestic craft and formal education?",
+      "technique": "How does the technique reveal the relationship between instruction, imitation, and individual skill?",
+      "personal": "How does your own schooling shape what you value in an object made as part of someone's education?",
+      "critical": "How should historians weigh objects such as samplers when the voices of the girls who made them are rarely recorded in words?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium, culture, and tags (Birds, Garlands, Plants) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Stitched in 1802 by Rebecca Marsh at the Westtown Quaker School in Pennsylvania. The Met's record lists birds, garlands, and plants; check the image for any inscription before teaching.",
+    "vocabulary": [
+      "sampler",
+      "embroidery",
+      "garland",
+      "motif",
+      "silk",
+      "linen"
+    ],
+    "directions": [
+      "Have students plan a border or garland on graph paper, as a stitcher might plan on counted threads.",
+      "Discuss what skills schools value and teach today compared with 1802.",
+      "Compare this sampler with a quilt or coverlet in the archive to discuss different forms of household art."
+    ]
+  }
+}

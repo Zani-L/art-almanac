@@ -1,0 +1,159 @@
+{
+  "id": "met-825606",
+  "day": "04-15",
+  "title": "Young Elephant Eating",
+  "artist": "Artist unknown",
+  "date": "ca. 1650",
+  "medium": "Opaque color and gold on paper",
+  "movement": "Mughal painting",
+  "region": "India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-32115-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-32115-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Howard Hodgkin Collection, Purchase, Florence and Herbert Irving Acquisitions, Harris Brisbane Dick, and 2020 Benefit Funds; Howard S. and Nancy Marks, Lila Acheson Wallace, and Friends of Islamic Art Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and funds from various donors, 2022",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A painting of a young elephant standing and eating, with leaves and a stalk of cane held in its curled trunk. A small cloth rests on its back and a chain loops around its front feet.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/825606",
+    "objectId": "825606",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, tags (Elephants) and image URLs read from the record; museum page text read for the animal, its chain, cloth, and the period"
+  },
+  "context": "A close study of a young elephant painted in India around 1650, during the Shah Jahan period of the Mughal era. The Met describes the elephant holding leaves and cane in its trunk, with a chain linking its forefeet and a small cloth on its back.",
+  "descriptions": {
+    "k": "A young elephant is eating a snack! It holds leaves and a stalk in its trunk. A little cloth sits on its back. There is a chain near its front feet. How do you think this elephant is feeling?",
+    "g12": "An artist in India painted this young elephant a long time ago. It holds leaves and cane in its curled trunk and is about to eat. A small cloth rests on its back. Can you tell it is young? Look at how big its body is. What do you think it is thinking?",
+    "g35": "Artists at the Mughal court in India painted animals very carefully, and this elephant was made around 1650. The Met says the elephant is young because of its proportions. It holds leaves and cane in its trunk, wears a small cloth on its back, and has a chain linking its front feet. What details help the painter show this elephant's personality?",
+    "g68": "Painted around 1650 during the Shah Jahan period, this study shows how Mughal artists observed animals closely and gave them individual character. The Met points out the young elephant's proportions, the leaves and cane in its trunk, and a chain linking its forefeet that may suggest it has not yet been tamed. Notice how a single animal fills the picture. What does the artist's attention to small details tell you about how elephants were valued?",
+    "g910": "This study of a young elephant, made around 1650, belongs to a Mughal tradition of close animal observation that reached a high point in the Shah Jahan period. The museum highlights the animal's personality and character, shown through proportions, the leaves and cane held in the trunk, a small back cloth, and a chain that may indicate it is not yet tamed. Consider how the artist balances naturalistic observation with the decorative richness of opaque color and gold on paper.",
+    "g1112": "Mughal court painting prized sharp observation, and this ca. 1650 study of a young elephant illustrates that ideal. The Met stresses the elephant's personality and notes proportions that mark it as young, as well as a chain linking the forefeet, which may suggest it is not yet tamed. Elephants carried associations of royal power and wealth at the Mughal court, yet this image focuses on a quiet moment of eating. That tension between symbol and individual invites debate about whether the painting records, celebrates, or humanizes its subject."
+  },
+  "questions": {
+    "k": {
+      "daily": "What is the young elephant doing with its trunk? Show me how it would hold a snack.",
+      "emotion": "Does this elephant look happy, sleepy, or grumpy? What do you see that tells you?",
+      "observation": "What is the elephant holding? Point to the leaves and the long stalk.",
+      "analysis": "The elephant is the biggest thing in the picture. Why do you think the artist made it so big?",
+      "line": "Trace the curve of the elephant's trunk in the air. Which way does it bend?",
+      "shape": "An elephant has round shapes and long shapes. Which round shapes can you find?",
+      "color": "What colors do you see on the elephant and around it? Which one is your favorite?",
+      "texture": "An elephant's skin is wrinkly. Which parts of the painting look wrinkly to you?",
+      "space": "Is the elephant close to you or far away in this picture? How can you tell?",
+      "light": "Look for lighter and darker parts on the elephant's body. Where is it lighter?",
+      "meaning": "What do you think the elephant did before it started eating? Tell a short story.",
+      "culture": "People in India lived near elephants a long time ago. How do you think they took care of them?",
+      "technique": "The artist painted every wrinkle by hand. Which part would be the hardest to paint?",
+      "personal": "What is your favorite thing to eat for a snack? How do you eat it?",
+      "critical": "How can you tell this elephant is young and not full grown?"
+    },
+    "g12": {
+      "daily": "This young elephant is eating leaves and cane. What clues show you it is young?",
+      "emotion": "How does the elephant seem to feel while it eats? Which details help you decide?",
+      "observation": "Describe everything you see on the elephant, from its trunk to its feet.",
+      "analysis": "The elephant fills most of the picture. How does that help you notice it?",
+      "line": "The trunk curls in a long line. How does that curving line help you follow the elephant's action?",
+      "shape": "Look at the elephant's body, legs, and head. Which shapes are round and which are straight?",
+      "color": "Which colors does the artist use for the elephant? Do they look real or special?",
+      "texture": "How does the artist show the elephant's thick, wrinkled skin?",
+      "space": "How does the artist show that the elephant is standing on the ground and not floating?",
+      "light": "Where does the painting look lighter or darker on the elephant's body? Why might that be?",
+      "meaning": "The elephant wears a small cloth and has a chain on its feet. What might that tell us about where it lives?",
+      "culture": "Elephants were important in India long ago. How does this painting show people noticing them closely?",
+      "technique": "This painting uses opaque paint and gold on paper. What do you think opaque paint means?",
+      "personal": "Have you watched an animal eat? What did you notice about how it moved?",
+      "critical": "This is a painting of one real elephant, not a made-up one. How can you tell it was painted from close looking?"
+    },
+    "g35": {
+      "daily": "The Met says the artist captured this elephant's personality. What details in the painting create that sense?",
+      "emotion": "What mood does the painting create as the elephant eats? Use details to support your idea.",
+      "observation": "Look closely at the elephant's trunk, feet, and back. What small details do you notice?",
+      "analysis": "Why might the artist have made one large elephant the main subject of the whole picture?",
+      "line": "How do the lines of the trunk and legs show the elephant's weight and movement?",
+      "shape": "How do the elephant's large rounded body and thin ropes or chains contrast in the painting?",
+      "color": "How does the artist use color to show the elephant's skin and set it apart from what is around it?",
+      "texture": "How does the painter suggest the rough, wrinkled skin of an elephant using only paint?",
+      "space": "How does the artist make the elephant feel solid and real on a flat piece of paper?",
+      "light": "Does the elephant look flat like a cutout, or rounded like a real animal? Point to what makes you think so.",
+      "meaning": "The elephant has a chain linking its forefeet. What might that detail tell us about its situation?",
+      "culture": "Elephants were important to Mughal rulers. What do you think made a painting of one elephant worth creating?",
+      "technique": "Opaque color and gold on paper was a common choice at the Mughal court. How might gold add to the painting?",
+      "personal": "Think of an animal you have watched closely. What would you want to paint to show its personality?",
+      "critical": "This painting seems to show a real elephant. What clues could help us decide that, rather than an imagined elephant?"
+    },
+    "g68": {
+      "daily": "How does the painter turn an ordinary moment, an elephant eating, into something that holds your attention?",
+      "emotion": "What feeling does the quiet focus on eating create? How might it differ from a picture of a royal procession?",
+      "observation": "List the details of the elephant: trunk, cloth, chain, leaves. Which show the artist's closest looking?",
+      "analysis": "How does the artist's choice to focus on a single animal change what we notice compared with a crowded scene?",
+      "line": "How do outline and fine line work give the elephant's body weight and individuality?",
+      "shape": "How do the heavy, rounded forms of the elephant contrast with the thin leaves and cane it holds?",
+      "color": "How does the choice of colors help distinguish the elephant from the leaves, cloth, and chain?",
+      "texture": "How do small repeated marks or soft color shifts suggest the elephant's skin? Where do you see this?",
+      "space": "How does the placement of the elephant on the page help you imagine it standing in a real place?",
+      "light": "Does the elephant look more flat or more three-dimensional to you? Which areas of lighter and darker color support your view?",
+      "meaning": "The elephant is young and linked by a chain. How might the picture invite sympathy or curiosity?",
+      "culture": "Why might Mughal painters in the Shah Jahan period have valued accurate animal studies?",
+      "technique": "How might the artist have used gold in a painting like this, and why is it important to see it in person?",
+      "personal": "How can careful observation, like the artist's, help you understand an animal or a person better?",
+      "critical": "The Met suggests the chain means the elephant may not yet be tamed. How certain is this interpretation, and what else could the chain mean?"
+    },
+    "g910": {
+      "daily": "How does this study balance accurate observation with a sense of the animal's character?",
+      "emotion": "How does the painting evoke empathy for an animal in a moment of everyday behavior?",
+      "observation": "Describe the visual hierarchy: what draws your eye first, and how does the artist direct attention?",
+      "analysis": "Analyze how the composition isolates the elephant to turn it into the sole subject of the painting.",
+      "line": "How do contour and internal line work convey the elephant's bulk, age, and movement?",
+      "shape": "How does the artist manage the contrast between massive volumes and delicate details like the trunk and leaves?",
+      "color": "How does the palette support naturalism while also showcasing the richness of opaque pigment and gold?",
+      "texture": "How does painted detail imply the tactile qualities of skin, cloth, leaves, and metal chain?",
+      "space": "How does the artist construct a believable presence for the elephant without elaborate perspective?",
+      "light": "To what degree does the painter suggest volume in the elephant's body, and how does that relate to the flatness of the page?",
+      "meaning": "How might a viewer read the chain and small cloth as signs of the elephant's relationship to people, and where does speculation begin?",
+      "culture": "How does a close animal study reflect Mughal interests in observation, nature, and the royal household?",
+      "technique": "How do the demands of opaque paint and gold on paper shape the way this painter modeled form and surface?",
+      "personal": "How does attending closely to an individual animal change the way you think about the creature?",
+      "critical": "What assumptions do we bring to an image of a chained animal, and how does historical context change them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the painting itself about how its maker regarded this elephant, and what remains uncertain?",
+      "emotion": "How does the painting generate sympathy or detachment, and how much of that comes from our own context rather than the image?",
+      "observation": "Describe the painting with precision, then examine which parts of your account already assume something about the elephant's situation.",
+      "analysis": "Evaluate how the study's isolating focus works against the usual court associations of elephants with power.",
+      "line": "How does the treatment of contour and detail reflect a tradition of observation prized at the Mughal court?",
+      "shape": "Discuss how the juxtaposition of enormous volume and fine detail contributes to the sense of a living individual.",
+      "color": "How might the painting's palette have balanced fidelity to nature with the luxury of the medium, and how might the paper's age affect what we see?",
+      "texture": "How does the painter evoke touch, skin, cloth, plant, and chain, in a flat, opaque medium?",
+      "space": "What is gained or lost by an image that gives a single animal most of the page?",
+      "light": "How far does the painting rely on modeled form, and how far on the flat, jewel-like color often associated with Mughal painting?",
+      "meaning": "Is this image a portrait, a scientific study, an emblem of power, or something else? What evidence supports each view?",
+      "culture": "How does a Shah Jahan period study of an elephant fit within Mughal attitudes toward animals, collecting, and naturalism?",
+      "technique": "What does the use of opaque color and gold suggest about the intended audience and setting for this painting?",
+      "personal": "How do your own views about animals in human care shape your reading of this image, and how might they differ from those of its first viewers?",
+      "critical": "How should we treat the museum's reading of the chain as a sign the elephant is not yet tamed: as fact, inference, or hypothesis?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices), department (Islamic Art) and tag (Elephants) checked against the museum record, and the museum page text read: the subject is a single young elephant eating leaves and cane.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A close study of a young elephant made in India around 1650, in the Shah Jahan period. The Met notes its personality and character, shown through proportions and small details.",
+    "vocabulary": [
+      "Mughal",
+      "opaque watercolor",
+      "study",
+      "proportion",
+      "observation",
+      "court painting"
+    ],
+    "directions": [
+      "Have students make a quiet observational drawing of an animal or toy, focusing on individual personality rather than action.",
+      "Discuss how people can both value and care for animals, and how attitudes have changed over time.",
+      "Compare the focus on a single animal here with an artwork in the archive that shows a crowded scene."
+    ]
+  }
+}

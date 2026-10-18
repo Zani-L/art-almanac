@@ -1,0 +1,159 @@
+{
+  "id": "met-435883",
+  "day": "01-28",
+  "title": "Still Life with Apples and Pears",
+  "artist": "Paul Cézanne",
+  "date": "ca. 1891–92",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-049.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-049.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Stephen C. Clark, 1960",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "Apples and pears sit together on a table in a close-up still life. The fruit is painted in blocky patches of red, yellow, and green, with visible brushstrokes and slightly tilted shapes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435883",
+    "objectId": "435883",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Apples, Pears, Still Life), credit line, and image URLs read from the record"
+  },
+  "context": "A still life by the French painter Paul Cézanne, made around 1891 to 1892. Cézanne painted fruit repeatedly, using it to explore how color and form can build a solid-looking object out of patches of paint.",
+  "descriptions": {
+    "k": "Look at the apples and pears. They sit close together. Some are red. Some are yellow and green. They look round and heavy. Which one would you pick up first?",
+    "g12": "Paul Cézanne painted fruit that holds very still. Apples and pears sit together, painted with patches of red, yellow, and green. The shapes look round and strong. Look closely at the brush marks. Can you see how he built each fruit from many little pieces of color?",
+    "g35": "Paul Cézanne, a French painter, spent hours arranging and studying fruit. In this still life, apples and pears are made from patches of warm and cool color, not smooth blending. The shapes feel solid, but some edges and angles look slightly off. Why do you think he painted them this way? Find a spot where one color changes into another.",
+    "g68": "Around 1891 to 1892, Cézanne painted apples and pears again and again, treating them as a way to study form and color rather than to tell a story. He built volume with adjacent patches of warm and cool color instead of smooth shading. Some outlines and surfaces do not match strict perspective. How might these choices make the fruit feel more solid, or more like a painting than a photograph?",
+    "g910": "Cézanne used still life to investigate how a flat canvas can convey solid form. Here, apples and pears are constructed from distinct, directional patches of color rather than gradual blending, and the viewpoint seems to shift subtly across the arrangement. This approach later influenced Cubism and modern art. Consider the balance between volume and flatness: does the fruit seem sculpted, or does the surface of paint keep asserting itself?",
+    "g1112": "In this still life, Cézanne treats humble fruit as a field for sustained formal inquiry. Form is built through modulated patches of color rather than modeling in light and shadow, and the slightly shifting viewpoints challenge single-point perspective. Later artists, including Picasso and Braque, drew on these ideas, though critics debate how directly. Does the painting's deliberate, slow construction make it a record of perception, an analysis of it, or an invitation to see painting itself differently?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which apple or pear would you pick up first? Tell us what you notice about it.",
+      "emotion": "Does this fruit look calm and quiet, or busy and noisy? What makes you say that?",
+      "observation": "How many pieces of fruit can you count? Find one that is red and one that is yellow or green.",
+      "analysis": "Which piece of fruit is the biggest? Which is the smallest? How can you tell?",
+      "line": "Run your finger around the edge of one apple. Is the line smooth, bumpy, or wobbly?",
+      "shape": "Apples and pears are different shapes. Which is rounder? Which is longer?",
+      "color": "Find three colors on one apple. Why do you think the painter used more than one color?",
+      "texture": "Do these fruits look smooth, bumpy, or rough? Pretend to feel them with your hands.",
+      "space": "Which fruit is closest to you? Does any fruit hide behind another one?",
+      "light": "Where are the brightest spots on the fruit? Where are the darker spots?",
+      "meaning": "If these apples and pears could talk to each other, what would they say?",
+      "culture": "People have grown apples and pears for a very long time. Where do you see fruit in your life?",
+      "technique": "Look for small blocks of color. How do you think the painter made each one with his brush?",
+      "personal": "What is your favorite fruit to eat? Does this picture make you want a snack?",
+      "critical": "The painter made the fruit look a little tilted. Do you like that or not? Why?"
+    },
+    "g12": {
+      "daily": "How did Cézanne make plain fruit interesting enough to look at for a long time?",
+      "emotion": "This fruit sits very still. What feeling does that stillness give you?",
+      "observation": "Describe the fruit as if you were telling a friend who cannot see it. What colors and shapes would you mention?",
+      "analysis": "How are the apples and pears grouped together? Which ones seem to belong close to each other?",
+      "line": "Look at the outlines of the fruit. Are they sharp and thin, or soft and thick? How do they change?",
+      "shape": "Find the roundest shape in the painting. How does the artist show it is round and not flat?",
+      "color": "Choose one apple. How many different colors can you find inside it?",
+      "texture": "Show with your hands how the paint marks look on the fruit. Are they dabs, strokes, or something else?",
+      "space": "Which fruit seems to come forward and which seems to sit back? How can you tell?",
+      "light": "Which side of the fruit is lit up? Which side is dark? How does this make it look heavy?",
+      "meaning": "Why might an artist choose a simple bowl of fruit instead of a person or a landscape?",
+      "culture": "Still life paintings were made by many artists in France. What does a table of fruit show about everyday life?",
+      "technique": "Cézanne used patches of color instead of smooth blending. Where do you see this most clearly?",
+      "personal": "If you arranged fruit to paint, how would you place it? Would you copy this arrangement or change it?",
+      "critical": "Some parts of the table and fruit look a little tilted. Why might the artist have done that on purpose?"
+    },
+    "g35": {
+      "daily": "What do you see when you slow down and look at these apples and pears for a full minute that you missed at first?",
+      "emotion": "How would you describe the mood of this still life? Use two visual choices to explain your answer.",
+      "observation": "Describe the exact colors you can find in a single pear. How many different colors are mixed in it?",
+      "analysis": "How has Cézanne arranged the fruit to guide your eye? Where does your gaze travel after the first spot?",
+      "line": "How do the dark lines around some of the fruit make it stand out, and where does the outline almost disappear?",
+      "shape": "Cézanne believed objects could be simplified into basic forms like spheres. Where do you see spheres and cones here?",
+      "color": "Where does the painter place warm reds next to cool greens, and what effect does that have?",
+      "texture": "The brushstrokes make the fruit look more like sculpted blocks than soft skin. Which parts show that best?",
+      "space": "How does the angle of the table and fruit make you feel like you are looking down at them?",
+      "light": "Instead of strong shadows, Cézanne uses color changes to show curves. Find one place where he does this.",
+      "meaning": "Fruit is a simple subject, yet this painting is famous. Why might ordinary things be worth painting?",
+      "culture": "Still life paintings were popular in France in the late 1800s. What can a painting of fruit tell us about the time it was made?",
+      "technique": "Cézanne often worked slowly and built forms with patches of paint. How might that slow method change the picture?",
+      "personal": "Choose an everyday object near you. How would you make it look important in a painting?",
+      "critical": "Does the painting look realistic to you? What parts follow reality and what parts break away from it?"
+    },
+    "g68": {
+      "daily": "Why does a simple pile of apples and pears hold your attention? What choices make it more than a record of fruit?",
+      "emotion": "What emotional tone does Cézanne create through slow, deliberate patches of color? Does it feel calm, tense, or something else?",
+      "observation": "List the colors, shapes, and brush marks you notice, then tell which detail surprised you most.",
+      "analysis": "How does the arrangement of fruit create balance? Where is the visual weight heaviest?",
+      "line": "How does Cézanne use overlapping edges and darker contours to separate the fruit while avoiding hard outlines?",
+      "shape": "How does the artist simplify apples and pears into basic volumes, and how does that make them feel solid?",
+      "color": "How does he build roundness through warm and cool color shifts rather than blending light into dark?",
+      "texture": "How do the visible strokes contribute to the sense of surface, both on the fruit and on the paint itself?",
+      "space": "Where does the perspective seem accurate, and where does it seem to tilt or shift? What effect does that have?",
+      "light": "How does Cézanne suggest light without relying on strong cast shadows?",
+      "meaning": "Cézanne said little about the meanings of his still lifes. What readings are possible, and how would you test them against the evidence?",
+      "culture": "Why might still life painting appeal to an artist who wanted to study form and color rather than tell a story?",
+      "technique": "Why might Cézanne have chosen fruit that does not move or change quickly, and how does that suit his working method?",
+      "personal": "Which object from your daily life would you choose for a long, slow study? Why?",
+      "critical": "Is a painting that deliberately breaks perspective less true or more true to how we see? Argue with evidence from the fruit."
+    },
+    "g910": {
+      "daily": "What makes this unassuming arrangement of fruit radical for its time? Point to specific choices in the picture.",
+      "emotion": "How does restraint, with no people and no dramatic action, shape the emotional tone of the painting?",
+      "observation": "Describe how the painting is physically built from patches of color. Which areas show this most clearly?",
+      "analysis": "How does Cézanne organize the arrangement so that fruit, table, and background form a stable structure?",
+      "line": "How do broken and shifting contours affect the way the eye reads the edges of the fruit?",
+      "shape": "In what ways do the fruit's forms approach geometric solids, and where does the painting resist simplification?",
+      "color": "How does modulated color, rather than tonal shading, build the sense of volume?",
+      "texture": "How does the visible touch of the brush call attention to the painting as a made object?",
+      "space": "How does the combination of tilted surfaces and multiple viewpoints complicate a single, stable sense of space?",
+      "light": "How does Cézanne suggest the effects of light through color relationships instead of conventional shadow?",
+      "meaning": "Does this painting need a symbolic meaning to be significant? Consider what is gained or lost by reading it formally.",
+      "culture": "How does the shift from storytelling subjects to formal investigation in late 19th-century French painting appear in this still life?",
+      "technique": "What does the slow, constructive method suggest about the difference between recording a scene and analyzing perception?",
+      "personal": "How does slow looking change what you notice in a familiar object, and how does this painting model that process?",
+      "critical": "Cézanne is sometimes called a bridge to modern art. What evidence in this painting supports that claim, and what might complicate it?"
+    },
+    "g1112": {
+      "daily": "What is at stake in treating apples and pears as a subject for sustained thought, and how does the painting make that case?",
+      "emotion": "How does the painting's affective restraint shape the viewer's attention, and does it ask for emotional response at all?",
+      "observation": "Describe the picture's construction closely, then consider which of your descriptive choices already contain interpretive assumptions.",
+      "analysis": "How does the painting reconcile the stability of volumes with the instability of shifting viewpoints and tilted planes?",
+      "line": "How does the contour in this work behave as a provisional, searching mark rather than a fixed boundary?",
+      "shape": "How does Cézanne's pursuit of underlying structure complicate the distinction between observed form and abstracted form?",
+      "color": "How does the painting's treatment of color as structure anticipate later modernist approaches, and how far can that claim be pressed?",
+      "texture": "How does the painting hold together illusion of substance and acknowledgment of its own paint surface?",
+      "space": "In what ways does the painting's space challenge Renaissance perspective, and what alternative model of seeing does it propose?",
+      "light": "How can light be conveyed through color and temperature relationships alone, and what does the painting gain from that choice?",
+      "meaning": "Evaluate the claim that the meaning of a Cézanne still life lies in its method rather than its subject. What does that claim include and exclude?",
+      "culture": "How does the status of still life as a humble genre shape the radical aspects of Cézanne's experiment?",
+      "technique": "How might the painting record the duration of looking, and what can a viewer legitimately infer about the artist's process from the surface?",
+      "personal": "How do your habits of looking at images, especially photographs, affect your response to a painting that does not offer a single clear viewpoint?",
+      "critical": "How should we weigh the later influence of Cézanne on Cubism against the risk of reading his work only as a step toward something else?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Apples, Pears, Still Life), classification (Paintings), and medium checked against the museum record. The subject is fruit with no figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Cézanne painted in southern and northern France and is often called a bridge between Impressionism and 20th-century art. This still life is typical of his habit of studying everyday objects slowly.",
+    "vocabulary": [
+      "still life",
+      "Post-Impressionism",
+      "volume",
+      "perspective",
+      "warm and cool colors",
+      "composition"
+    ],
+    "directions": [
+      "Set up a small arrangement of fruit and have students draw it twice: once with smooth shading, once with patches of color.",
+      "Ask students to point out where the perspective seems to tilt and debate whether it is a mistake or a choice.",
+      "Pair this painting with a smooth realistic still life from another day and compare how each makes objects look solid."
+    ]
+  }
+}

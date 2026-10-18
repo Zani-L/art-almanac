@@ -1,0 +1,159 @@
+{
+  "id": "met-39102",
+  "day": "05-10",
+  "title": "Walking Buddha",
+  "artist": "Artist unknown (Thailand)",
+  "date": "first half of the 13th century",
+  "medium": "Bronze",
+  "movement": "Buddhist sculpture of Thailand",
+  "region": "Thailand",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/264782.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/264782.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Barbara C. Freedman, 1984",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small bronze sculpture of the Buddha shown in a walking pose, wearing a robe. The slender figure is about as tall as a school ruler and has a dark metal surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/39102",
+    "objectId": "39102",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, classification, tags, public-domain flag, image URLs, credit line) and the Met catalog page (dimensions)"
+  },
+  "context": "A bronze sculpture of the Buddha in a walking pose, made in Thailand in the first half of the 13th century. It is slender, about 29 cm tall and under 9 cm wide. The Met record gives no label text, so details of its original setting are not known from the record.",
+  "descriptions": {
+    "k": "This little bronze statue shows the Buddha walking. He takes a slow, calm step. He is wearing a long robe. The statue is as tall as a ruler. How would it feel to walk very slowly and quietly?",
+    "g12": "People in Thailand made this bronze statue about 800 years ago. It shows the Buddha in a walking pose. His robe hangs in simple folds. The figure is tall and slim. It looks calm and peaceful. Try standing the way he does. How does your body feel when you walk slowly?",
+    "g35": "This slender bronze from Thailand, made in the early 1200s, shows the Buddha walking. Most Buddhas in sculpture are seated or standing, so a walking pose is special. The figure wears a robe and looks calm and balanced. It is about 29 centimeters tall. What does the pose tell you about the way the Buddha moves through the world?",
+    "g68": "Most Buddha images sit or stand, so a walking Buddha stands out. This bronze from 13th-century Thailand is tall, slim, and only about 29 cm high, yet the pose gives it a gentle sense of motion. The robe, the balance of the body, and the calm bearing suggest peace rather than haste. How can a still object in metal show movement? What mood does that movement create?",
+    "g910": "This bronze figure, made in Thailand in the first half of the 13th century, depicts the Buddha in a walking pose, a subject less common than seated or standing images. Slender proportions, a flowing robe, and a poised stance turn motion into serenity. Because the record offers little context, we infer from form rather than documentation. How do silhouette and pose communicate spiritual ideals, and what can sculpture suggest about movement that painting cannot?",
+    "g1112": "A walking Buddha poses an interesting formal challenge: how to suggest motion in a cast metal figure while preserving the calm associated with Buddhist imagery. This 13th-century Thai bronze handles that tension through slender proportions, balance, and a draped robe. The museum record gives no label text, so claims about its setting, function, or stylistic lineage remain provisional. Consider how restraint, rhythm, and scale produce a contemplative effect, and what evidence would be needed to place the work in a particular regional tradition."
+  },
+  "questions": {
+    "k": {
+      "daily": "The Buddha is taking a slow, calm step. Can you walk like him, very slowly and quietly?",
+      "emotion": "Does this statue look peaceful or grumpy? What shows you that?",
+      "observation": "Find the Buddha's head, his robe, and his feet. Point to each one.",
+      "analysis": "Where do your eyes start on this tall statue, and where do they end?",
+      "line": "Trace the long up-and-down line of the statue in the air. Is it straight or curvy?",
+      "shape": "This statue is tall and thin. What other tall, thin things do you know?",
+      "color": "The statue is made of dark bronze. What colors do you see on its surface?",
+      "texture": "The robe looks folded. How do you think the folds would feel if you touched them?",
+      "space": "The Buddha is stepping forward. Which foot do you think moves first?",
+      "light": "Where does the metal look shiny, and where does it look dark?",
+      "meaning": "Walking slowly can help people feel calm. When do you feel calm?",
+      "culture": "Long ago in Thailand, people made statues like this for Buddhist places. Where do you think a small statue like this might be kept?",
+      "technique": "A maker used melted metal to cast this statue. Why might metal be a good choice for something so tall and thin?",
+      "personal": "Where would you like to take a slow, quiet walk?",
+      "critical": "This statue is not sitting, but walking. Why might an artist choose a walking pose?"
+    },
+    "g12": {
+      "daily": "This Buddha is walking instead of sitting. What do you think he is doing, and where is he going?",
+      "emotion": "How does the statue's slow, balanced walk make you feel? Which parts help you feel it?",
+      "observation": "List four things you see on the statue, from the top of its head to the bottom.",
+      "analysis": "How does the artist guide your eyes from the head down along the robe to the feet?",
+      "line": "Find the long lines in the robe. How do they make the statue look tall and calm?",
+      "shape": "The statue is slim and tall. How does that shape make it feel graceful?",
+      "color": "Bronze is a dark, warm metal. How does the color change how serious or gentle the statue looks?",
+      "texture": "Which parts of the statue look smooth, and which look folded or bumpy?",
+      "space": "The statue is only about 29 centimeters tall, about as tall as a ruler. How might its small size change how people see it?",
+      "light": "Bronze catches light on its high parts and goes dark in the low parts. Where would that happen on this statue?",
+      "meaning": "Buddhists often value calm and peace. How does this walking pose show those ideas?",
+      "culture": "This statue was made in Thailand about 800 years ago. What can an old statue teach us about the people who made it?",
+      "technique": "The statue was cast in metal. How is that different from carving a statue out of stone?",
+      "personal": "What helps you feel calm, such as walking, drawing, or listening? How is it like the statue?",
+      "critical": "Some statues of the Buddha sit and some walk. Why do you think artists show him in different poses?"
+    },
+    "g35": {
+      "daily": "The Buddha is shown mid-step, but his body looks calm and balanced. How does the artist combine movement and stillness?",
+      "emotion": "What feeling do you get from the figure's posture and robe, and what details create that feeling?",
+      "observation": "Look closely for a full minute. What small details of the robe, face, or base did you notice last?",
+      "analysis": "How does the sculptor use the tall, slim proportions of the figure to guide your attention from top to bottom?",
+      "line": "How do the lines of the robe suggest the way the body moves under it?",
+      "shape": "How do the long, vertical shapes in the sculpture make it look tall and graceful?",
+      "color": "Bronze can look dark and glowing at the same time. How does the metal color affect the statue's serious, peaceful mood?",
+      "texture": "How do you think the contrast between smooth metal and the folds of the robe would feel if you could touch them?",
+      "space": "The figure is thin from front to back. How does that shape change how you walk around it?",
+      "light": "How might light and shadow change the way the folds of the robe look across the day?",
+      "meaning": "In many Buddhist traditions, walking can be part of calm, focused practice. How might this statue remind someone of that idea?",
+      "culture": "The statue was made in Thailand in the early 13th century. What does the care in its making tell you about the value of Buddhist images?",
+      "technique": "How would a sculptor cast a tall, thin figure in bronze, and what problems might the pose cause?",
+      "personal": "Think about a time you moved slowly on purpose. What did you notice that you usually miss?",
+      "critical": "The museum record does not say how this statue was used. What might we guess from its small size, and what should we leave uncertain?"
+    },
+    "g68": {
+      "daily": "How does the sculptor suggest a gentle, forward stride while keeping the figure serene?",
+      "emotion": "What kind of calm does this sculpture project, and how does the walking pose change it from a seated Buddha's calm?",
+      "observation": "Describe the figure from head to base. Which area of the statue shows the most careful craftsmanship?",
+      "analysis": "How do posture, proportion, and robe work together to hold the viewer's attention on a slim, small object?",
+      "line": "How do vertical lines in the robe and body create elegance, and where do curved lines suggest motion?",
+      "shape": "Why might the long, narrow silhouette make the walking pose seem light and graceful?",
+      "color": "How does bronze's dark tone shift attention from color to form and silhouette?",
+      "texture": "How do folds and smooth areas create a rhythm across the surface of the robe?",
+      "space": "As a sculpture in the round, how does the walking pose change as you view it from the front and from the side?",
+      "light": "How does reflective metal use light and shadow to model the robe's folds?",
+      "meaning": "A walking pose is less common than sitting or standing. What different idea about the Buddha might it express?",
+      "culture": "Buddhism spread widely across Southeast Asia. What can a bronze like this suggest about how religious images were shared and adapted?",
+      "technique": "Why might casting bronze allow a maker to produce a slender figure that would be fragile in stone?",
+      "personal": "How does moving slowly change how you notice the world? Where might you see this idea in art?",
+      "critical": "Looking only at the figure, what can we confidently say about it, and what do we need the museum or historians to tell us?"
+    },
+    "g910": {
+      "daily": "How does the walking pose reconcile motion with the serenity expected of Buddhist imagery?",
+      "emotion": "How do proportion, posture, and drapery create an atmosphere of quiet calm without facial drama?",
+      "observation": "Describe the figure's formal organization from base to head, and identify where the sculptor concentrates detail.",
+      "analysis": "How does the elongated vertical form shape the sculpture's presence and the way a viewer approaches it?",
+      "line": "How does the rhythm of vertical and curving lines in the robe imply movement beneath the garment?",
+      "shape": "How does the slender silhouette communicate grace, and how might a heavier figure change the work's meaning?",
+      "color": "How does the metal's dark surface emphasize contour and shadow over hue, and how might age have changed it?",
+      "texture": "How does contrast between smooth and folded surfaces model the body and its clothing?",
+      "space": "How does the thin, upright form affect the viewing of the sculpture in the round, compared with a thicker seated figure?",
+      "light": "How does reflective bronze turn light into a modeling tool for the folds of the robe?",
+      "meaning": "How might the walking pose convey Buddhist ideas of mindfulness or journey, and where does that interpretation outrun the available evidence?",
+      "culture": "How does this 13th-century Thai bronze fit into the wider spread of Buddhist art across Southeast Asia, and what regional specificity can we claim?",
+      "technique": "What does bronze casting allow in terms of slenderness and detail, and what might it demand of the workshop?",
+      "personal": "How do images of calm and restraint affect you compared with images of action and drama?",
+      "critical": "With little contextual information in the record, how should an interpreter treat claims about a sculpture's function or style group?"
+    },
+    "g1112": {
+      "daily": "What can the form alone support about this walking Buddha's meaning, and which claims depend on outside context?",
+      "emotion": "How does restrained movement produce a contemplative affect, and how does that differ from more dynamic religious imagery?",
+      "observation": "Describe the figure's construction with precision. Where does description already assume iconographic conventions?",
+      "analysis": "Analyze how elongation, balance, and drapery produce an image that is simultaneously active and still.",
+      "line": "How does the sculpture's contour balance vertical severity with the suggestion of a gentle advance?",
+      "shape": "How might the figure's slender geometry express an ideal of bodily refinement, and how are such ideals culturally constructed?",
+      "color": "How does the dark metal affect our perception of the figure's solemnity, and how might original surface treatment have differed?",
+      "texture": "How might casting traces, wear, and handling over centuries shape the object's present surface, and how do we separate them from design?",
+      "space": "How does the figure's thinness orient the viewer, and what does it imply about where and how such images were displayed?",
+      "light": "How does a metal figure's response to light affect its role in a devotional setting versus a gallery?",
+      "meaning": "Evaluate possible meanings of the walking pose, including mindfulness, journey, or narrative moment. Which are supported by this object alone?",
+      "culture": "How does the sculpture speak to the movement of Buddhist iconography across regions, and how careful must we be about assigning it to a specific local tradition?",
+      "technique": "What does the successful casting of a slender figure imply about metalworking expertise in 13th-century Thailand?",
+      "personal": "How does your relationship to stillness and motion color the way you read a figure caught between them?",
+      "critical": "How should museum display, scale, and lack of documentation shape what we claim to know about a devotional object?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Sculpture), medium (Bronze), culture, and tags (Buddhism, Buddha) checked against the museum record. The catalog page gives no label text, so descriptions are limited to the title, dimensions, and general Buddhist iconography, and a robed figure is assumed from convention.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A slender bronze Buddha in a walking pose from Thailand, first half of the 13th century, about 29 cm tall. Treat it as a devotional image and speak respectfully about Buddhism.",
+    "vocabulary": [
+      "Buddha",
+      "bronze casting",
+      "silhouette",
+      "drapery",
+      "in the round",
+      "mindfulness"
+    ],
+    "directions": [
+      "Invite students to try slow, mindful walking for one minute and then describe how the statue's pose relates to it.",
+      "Have students draw the statue's silhouette from the front and predict how it looks from the side.",
+      "Compare this figure with a seated or standing Buddha from another day in the archive."
+    ]
+  }
+}

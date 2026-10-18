@@ -1,0 +1,159 @@
+{
+  "id": "met-487944",
+  "day": "06-01",
+  "title": "Vase",
+  "artist": "Emile Gallé",
+  "date": "ca. 1890–1900",
+  "medium": "Glass",
+  "movement": "Art Nouveau",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ma/web-large/sf40.139.1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ma/original/sf40.139.1.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of John C. Moore, 1940",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small art-glass vase by Emile Gallé with a bird as part of its decoration. The glass has a smooth, polished look.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/487944",
+    "objectId": "487944",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, classification (Glass), tags (Birds), height, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A glass vase by Emile Gallé, the French designer from Nancy who became a leading figure of Art Nouveau glassmaking. The Met dates it to about 1890–1900 and tags it Birds. The vase is about 18.7 cm (7 3/8 inches) tall.",
+  "descriptions": {
+    "k": "This is a small glass vase. A bird is part of its picture. It was made in France a long time ago by an artist named Gallé. Can you find the bird? What do you think it is doing?",
+    "g12": "Emile Gallé made this glass vase in France about one hundred and thirty years ago. A bird is part of the design. Glass can be smooth, shiny, and full of color. Look for the bird and for the shape of the vase. What would you put in it?",
+    "g35": "Emile Gallé was a French artist who turned glass into art. He lived in the city of Nancy and loved plants, flowers, and animals. This vase, made around 1890 to 1900, has a bird in its design. Look for the bird and for the curves of the vase. How did the artist use glass instead of paint to make a picture?",
+    "g68": "Emile Gallé, working in Nancy, France, helped define the Art Nouveau style, which found beauty in plants, animals, and flowing curves. This vase of about 1890–1900 features a bird in its decoration, a subject Gallé's studio used often. Rather than painting a picture on a surface, a glassmaker builds color and detail into the material. How might a bird seem different when it is made of glass? What feelings does the vase give?",
+    "g910": "Gallé's vase of about 1890–1900 represents Art Nouveau's drive to bring nature into everyday design. The bird motif, noted in the Met record, connects the object to the movement's interest in animals and plants as sources of line, color, and mood. Because decoration is created in glass itself, the vase works as sculpture, picture, and container at once. Consider how scale, surface, and subject make an object that feels intimate, delicate, and carefully crafted.",
+    "g1112": "Emile Gallé's glass belongs to a late-nineteenth-century effort to treat decorative objects as serious art. This vase of about 1890–1900, tagged with a bird motif, reflects Art Nouveau's fascination with nature, but it also reflects the commercial ambitions of a studio producing work for collectors. The material both reveals and hides: light passes through it, yet colors and images are fixed inside. Ask how such works negotiate between individual artistry, studio production, and the market for luxury."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the bird on this glass vase? Tell us what you see.",
+      "emotion": "Does this little vase feel quiet, bright, or something else?",
+      "observation": "What parts of the vase can you name? Look at the top, the middle, and the bottom.",
+      "analysis": "What do you notice first about the vase? Why does it grab your eye?",
+      "line": "Trace the outline of the vase in the air with your finger.",
+      "shape": "What shape is the vase? Is it round, tall, or narrow in some places?",
+      "color": "What colors do you see in the glass? Which one do you like best?",
+      "texture": "Glass can feel cool and smooth. How do you think this vase would feel in your hands?",
+      "space": "Where would you put flowers in this vase, and how tall would they stand?",
+      "light": "Where does the glass look brightest? What happens to the light there?",
+      "meaning": "Why do you think the artist chose a bird for this vase?",
+      "culture": "This vase was made in France. What do you know about France that this vase might remind you of?",
+      "technique": "Glass starts out very hot and soft. What do you think the artist did to shape it?",
+      "personal": "What animal would you put on a vase of your own?",
+      "critical": "Is this vase made to hold flowers or to look at? Explain your idea."
+    },
+    "g12": {
+      "daily": "What is the bird doing, and how does it fit the shape of the vase?",
+      "emotion": "What feeling do you get from a bird on a glass vase? Show the clue that makes you feel that way.",
+      "observation": "Describe the bird and the shape of the vase. What details do you notice?",
+      "analysis": "How do the bird and the shape of the vase fit together into one design?",
+      "line": "Find the curving lines of the vase and the bird. How do they flow?",
+      "shape": "Look at the outline of the vase. How does the shape change from the bottom to the top?",
+      "color": "Which colors in the glass stand out most? How do they work together?",
+      "texture": "Which parts of the vase look smooth and which might be more detailed?",
+      "space": "How does the empty space inside the vase make you think about what could go in it?",
+      "light": "Glass lets some light pass through. Where does the vase look light and where does it look dark?",
+      "meaning": "Birds can remind people of freedom, songs, or nature. What does this bird mean to you?",
+      "culture": "Emile Gallé lived in Nancy, France. Why might an artist from there be inspired by birds and plants?",
+      "technique": "Gallé made decorations inside and on the glass. How is that different from painting on paper?",
+      "personal": "What small object do you keep that reminds you of nature?",
+      "critical": "Can a vase be art even if it also holds flowers? What do you think?"
+    },
+    "g35": {
+      "daily": "What details make the bird on this vase worth a closer look?",
+      "emotion": "What mood does this small glass vase give you, and which choices by the artist create it?",
+      "observation": "Look at the vase for one minute. What new details about the bird or the glass do you notice?",
+      "analysis": "How does the artist fit the bird and the shape of the vase together?",
+      "line": "How do the curving lines of the vase and the shape of the bird guide your eye?",
+      "shape": "How do the shapes of the vase and the bird relate to each other?",
+      "color": "How does the color in the glass set the mood of the vase?",
+      "texture": "How is the surface of glass different from the surface of a painting or a clay pot?",
+      "space": "How does the bird sit on the curved surface of the vase? Does the vase feel flat or round?",
+      "light": "How does light pass through or bounce off the glass, and how does that change the colors?",
+      "meaning": "Why might Art Nouveau artists like Gallé be drawn to birds and plants?",
+      "culture": "Gallé worked in Nancy, France, in the late 1800s. How might his ideas about nature have shaped this vase?",
+      "technique": "Gallé's glass is made with color inside the material. How is that different from adding decoration on top?",
+      "personal": "What parts of nature do you most want to see in everyday objects?",
+      "critical": "Should a delicate vase like this be used or only displayed? Use details to explain."
+    },
+    "g68": {
+      "daily": "How does a bird in glass feel different from a bird in a painting?",
+      "emotion": "How do the delicate size and natural subject shape the emotional tone of the vase?",
+      "observation": "Describe the vase from top to bottom. Which details seem carefully placed?",
+      "analysis": "How do the bird and the form of the vase work together as one composition?",
+      "line": "How do curving lines suggest growth, movement, or flight in this vase?",
+      "shape": "How does the vase's shape echo forms found in nature?",
+      "color": "How does color in the glass add depth or mood, and how might it change with light?",
+      "texture": "How does the glassy surface differ from the look of paint or enamel?",
+      "space": "How does the curved body of the vase affect how we see the bird, and what must the artist consider?",
+      "light": "How does light interact with the glass to bring out the details of the bird?",
+      "meaning": "What might a bird symbolize in Art Nouveau design? What other meanings could you suggest?",
+      "culture": "How did late-nineteenth-century interest in nature and craft appear in French design?",
+      "technique": "What challenges might Gallé's studio have faced in making a decorated glass vase that matches the artist's design?",
+      "personal": "How does a natural subject such as a bird affect the way you experience an everyday object?",
+      "critical": "Should the work of a studio be credited to one famous name, like Gallé? Why or why not?"
+    },
+    "g910": {
+      "daily": "How does this vase make nature a design principle rather than only a subject?",
+      "emotion": "How do delicacy and natural imagery create the vase's quiet, intimate mood?",
+      "observation": "Describe the visual hierarchy of the vase's shape, bird, and surface. What draws the eye first?",
+      "analysis": "Analyze how the bird motif relates to the vase's overall silhouette.",
+      "line": "How does the vase use flowing, organic line in a manner typical of Art Nouveau?",
+      "shape": "How does the shape of the vase suggest growth, tension, or movement?",
+      "color": "How does color in the glass shape the relationship between the bird and its background?",
+      "texture": "How does the glass surface convey both delicacy and permanence?",
+      "space": "How does the bird relate to the curved space of the vase, and what is gained by designing for a three-dimensional form?",
+      "light": "How does the translucency of glass make light a component of the design?",
+      "meaning": "How might a bird symbolize freedom, song, or fragility in a work like this, and where is that reading speculative?",
+      "culture": "How did Gallé's workshop reflect the relationship between nature, craft, and commerce in fin-de-siècle France?",
+      "technique": "How does working with decoration built into glass differ from painting on a finished surface?",
+      "personal": "How does your response change if you see the vase as a design for daily life rather than a museum piece?",
+      "critical": "What are the benefits and risks of treating a decorative vase as fine art?"
+    },
+    "g1112": {
+      "daily": "What does a bird on a glass vase reveal about how Art Nouveau fused nature, craft, and commerce?",
+      "emotion": "How might the object's fragility and refinement shape a viewer's emotional response, and how does the museum context alter it?",
+      "observation": "Describe the vase's form, motif, and surface precisely. Where does description begin to imply a judgment of taste?",
+      "analysis": "Analyze how the integration of motif and form reflects Art Nouveau's rejection of historicist ornament.",
+      "line": "How does the vase's organic line position it within Art Nouveau's visual vocabulary?",
+      "shape": "How might the vase's contour be read as an abstraction of a natural form?",
+      "color": "How might color in glass, as part of the material, redefine the relationship between surface and depth?",
+      "texture": "How does the tactile quality of glass contribute to the sense of luxury and fragility?",
+      "space": "How does a decorated three-dimensional vessel complicate the idea of a single viewpoint?",
+      "light": "How does transmitted and reflected light make the vase different in each setting, and what does that imply for museum display?",
+      "meaning": "How do symbolic readings of birds in fin-de-siècle design compete with more formal or commercial readings?",
+      "culture": "How does a studio's production for collectors complicate the picture of the solitary artist-craftsman?",
+      "technique": "What does the question of studio production suggest about authorship in the decorative arts?",
+      "personal": "How do your own preferences for natural or geometric ornament affect your response to the vase?",
+      "critical": "How does the Met's classification of this piece, within a department of modern art, influence how we value decorative art?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, maker, medium, classification and tags (Birds) read from the Met record. A glass vase with a bird motif, so no sensitive content is expected.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Emile Gallé (1846–1904) of Nancy, France, was a leader of Art Nouveau glass and furniture. The Met record dates this vase to about 1890–1900 and tags it Birds.",
+    "vocabulary": [
+      "Art Nouveau",
+      "motif",
+      "art glass",
+      "translucent",
+      "organic form",
+      "studio"
+    ],
+    "directions": [
+      "Have students sketch a vase that includes an animal and explain how the animal follows the vase's shape.",
+      "Ask students to compare painting on a surface with building color into a material like glass.",
+      "Discuss how a studio might share work among many hands while using one famous name."
+    ]
+  }
+}

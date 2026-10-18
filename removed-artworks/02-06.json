@@ -1,0 +1,158 @@
+{
+  "id": "met-254356",
+  "day": "02-06",
+  "title": "Terracotta askos in the form of a duck",
+  "artist": "Artist unknown",
+  "date": "late 5th century BCE",
+  "medium": "Terracotta",
+  "region": "Greek, Attic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP145549.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP145549.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1941",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A clay vessel shaped like a duck, with a rounded body and the bird's head and neck. It is an askos, a small container made to hold liquid.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/254356",
+    "objectId": "254356",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (Ducks), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A terracotta vessel from Attica, the region around Athens, made in the late 5th century BCE. An askos is a small container for liquid, and this one is shaped like a duck.",
+  "descriptions": {
+    "k": "This pot is shaped like a duck! It was made out of clay long ago in Greece. It could hold a liquid, like oil. Look at the round body and the bird's neck. What sound would this duck make?",
+    "g12": "Over 2,400 years ago, a potter in Greece shaped a jar like a duck. It is called an askos. People used small jars like this to hold liquids. The body is round and smooth, like a real bird's body. Why would a potter make a jar look like an animal? What would you pour from it?",
+    "g35": "A potter near Athens made this askos, a small clay container for liquid, in the shape of a duck. Instead of a plain jar, the potter turned the vessel into a bird, with a rounded body and a neck and head. Ducks lived in the ponds and rivers of Greece. Look for the places where the duck's shape and the jar's job meet. How would you hold it and pour from it?",
+    "g68": "This askos was made in Attica in the late 5th century BCE, the same era as the building of the Parthenon in Athens. Greek potters often made practical vessels in the shape of animals, which turned everyday storage into something playful. Study how the potter keeps the form of a duck while still giving the vessel an opening and a way to hold it. What does this blend of useful and charming suggest about how ancient Greeks lived with their things?",
+    "g910": "An askos in the form of a duck joins function and sculpture. The rounded body suits a container, while the neck and head give the vessel personality and a clear identity. Potters in classical Athens supplied a large market, and animal-shaped vessels show that ordinary pottery could also entertain. Consider how the shift from a standard askos shape to a recognizable animal changes our response: the object seems alive rather than merely useful. What might a household gain from living with objects like this?",
+    "g1112": "This duck-shaped askos belongs to the large class of Athenian clay vessels that served daily needs while also showing a playful, observant eye. The overlap of container and creature invites questions about use, since scholars generally associate askoi with liquids such as oil but cannot always fix the exact contents or setting for a given piece. The form also reflects a ceramic industry able to make novelty shapes alongside standard ones. Consider how a humble object of everyday life can reveal as much about ancient culture as monumental art."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this duck pot was used for?",
+      "emotion": "Does this duck pot make you feel silly, calm, or something else? Why?",
+      "observation": "What parts of a duck can you find in this pot?",
+      "analysis": "Where do your eyes look first on this duck? What do you see next?",
+      "line": "Can you find a curvy line along the duck's neck? Trace it in the air.",
+      "shape": "What shapes make up the duck's body and neck?",
+      "color": "What colors do you see on the pot? Is it dark, light, or both?",
+      "texture": "Clay can be smooth or rough. How do you think this duck would feel to touch?",
+      "space": "Look at the duck from the front. What part is closest to you?",
+      "light": "Where does the light touch the duck's round body? Where is it darker?",
+      "meaning": "If this duck could talk, what would it say about its long journey to a museum?",
+      "culture": "People in Greece made this pot long ago. What kinds of things do you hold liquids in today?",
+      "technique": "The potter made this from clay. What steps do you think are needed to make a pot like this?",
+      "personal": "If you made a pot in the shape of an animal, what animal would it be?",
+      "critical": "Why might the potter make a pot look like a duck instead of a plain jar?"
+    },
+    "g12": {
+      "daily": "What is this pot made to do? What clues in its shape help you decide?",
+      "emotion": "What feeling does a duck-shaped pot give you? Which part makes you feel that way?",
+      "observation": "Describe the duck pot to a friend who cannot see it. Name four parts.",
+      "analysis": "How does the potter show you where the duck's body ends and its neck begins?",
+      "line": "Look at the line from the duck's head down its back. What does it feel like to follow?",
+      "shape": "Find round shapes and long shapes in the duck. Where do they join?",
+      "color": "Look at the colors of the clay and any dark or light areas. How do they help you see a duck?",
+      "texture": "How can you tell this pot was made from clay and not metal or wood?",
+      "space": "How big do you think this duck is? What clue helps you guess?",
+      "light": "Where do you see lighter spots and darker spots? What makes them?",
+      "meaning": "Why might a duck have been a good animal for a potter to choose?",
+      "culture": "Ducks lived near water in Greece. What other animals might a Greek potter have liked to copy?",
+      "technique": "The potter shaped and then baked the clay. Why does baking matter?",
+      "personal": "Which animal would you shape from clay to hold something for your family?",
+      "critical": "Which is more important in this pot, the way it looks or the way it works? Explain."
+    },
+    "g35": {
+      "daily": "What details tell you this vessel is an askos shaped like a duck? What helps it work as a container?",
+      "emotion": "What mood does this object have, serious or playful? Which details support your answer?",
+      "observation": "Look closely for one minute. What small features of the duck do you notice?",
+      "analysis": "How does the potter make the vessel into a duck while keeping it useful?",
+      "line": "How do the curves of the neck compare with the curves of the body?",
+      "shape": "How does the rounded body shape help the pot work as a container?",
+      "color": "The Met record lists only terracotta for the medium. What does the color of the clay or surface tell you about how it was made?",
+      "texture": "How might the surface of this vessel look and feel different from a plain jar?",
+      "space": "The duck is a three-dimensional object. How does the view change when you walk around it?",
+      "light": "How does light on the round body help you see its three-dimensional form?",
+      "meaning": "Why might a duck be a good choice for a household vessel? Think about water and where ducks live.",
+      "culture": "This askos was made near Athens in the late 5th century BCE. What does it suggest about daily life there?",
+      "technique": "Potters used clay, shaping, and firing. How might the potter have formed a body, neck, and head?",
+      "personal": "What ordinary object in your home could be shaped like an animal? Describe your design.",
+      "critical": "Why might the Greeks have put effort into the look of everyday containers? List more than one reason."
+    },
+    "g68": {
+      "daily": "How does the potter turn an everyday container into a living-looking creature?",
+      "emotion": "How would you describe the personality of this duck, and which features create it?",
+      "observation": "List the features you can observe from top to bottom. Which seem most carefully handled?",
+      "analysis": "How does the potter combine the needs of a container with the form of an animal? What compromises can you see?",
+      "line": "How do the flowing lines of the neck and head contrast with the body's volume?",
+      "shape": "How does the rounded, compact form suit both a duck and a vessel for liquid?",
+      "color": "How does the surface color of the clay or finish help the viewer read the object as a bird?",
+      "texture": "How might surface treatment, such as smooth finish or painted details, bring a clay duck to life?",
+      "space": "How does a sculptural vessel use three-dimensional space differently from a painting of a duck?",
+      "light": "How might light and shadow help to define the duck's form when the vessel is turned in the hand?",
+      "meaning": "What might a duck-shaped vessel have meant to the people who used it? Offer more than one possibility.",
+      "culture": "What does this askos suggest about Athenian craft workshops and everyday tastes in the late 5th century BCE?",
+      "technique": "How could a potter make a hollow animal form that can also be filled and poured? Describe the problems to solve.",
+      "personal": "How do the everyday objects you use show humor or personality? Compare them with this askos.",
+      "critical": "What can we say confidently about this vessel, and what questions about its original use remain open?"
+    },
+    "g910": {
+      "daily": "How does the duck form change the way a viewer experiences an ordinary container?",
+      "emotion": "How does the object balance humor and craftsmanship, and what visual choices create that balance?",
+      "observation": "Describe the visual hierarchy of the form: what reads first, and which shapes carry the duck's identity?",
+      "analysis": "Analyze how the potter integrates the opening, handle or spout, and animal anatomy into a single design.",
+      "line": "How do contour and silhouette define the duck when seen from the side?",
+      "shape": "How does the simplification of the bird into smooth masses affect its charm and recognizability?",
+      "color": "How might the surface color, whether natural clay or applied finish, shape our reading of the bird?",
+      "texture": "How does the object's finish convey care, and how might it differ from a mass-produced vessel?",
+      "space": "How does a sculptural vessel invite the viewer to move around it, unlike a flat painting?",
+      "light": "How might lamplight or sunlight in a Greek household have affected how this vessel looked?",
+      "meaning": "What can an animal-shaped container reveal about the relationship between art, nature, and daily life?",
+      "culture": "How does an object like this challenge the idea that only temples and statues reveal ancient Greek culture?",
+      "technique": "How does the shift from wheel-thrown pottery to modeled animal form change the technical demands on the potter?",
+      "personal": "Choose an everyday object from your life that is also designed to be charming. How do its function and appearance interact?",
+      "critical": "What evidence would help determine whether this askos was mainly practical, mainly decorative, or both?"
+    },
+    "g1112": {
+      "daily": "What can this vessel show about how ancient Greek households blended utility with delight, and what claims go beyond the evidence?",
+      "emotion": "How might a modest, playful object create an emotional response different from monumental art, and why does that matter for historians?",
+      "observation": "Describe the object's form precisely before interpreting. Where does description begin to carry assumptions about use?",
+      "analysis": "Analyze how the vessel resolves the demands of container design and zoomorphic form.",
+      "line": "How does silhouette communicate species identity with minimal detail, and how does that relate to broader Greek habits of observation?",
+      "shape": "How does the object's rounded geometry mediate between abstraction and naturalism?",
+      "color": "How do surface and finish contribute to the illusion of a living creature, and how might aging have altered what we see today?",
+      "texture": "How does the tactile nature of handling a vessel shape its meaning in ways a museum display cannot capture?",
+      "space": "How does the object's three-dimensionality complicate the single photographic view we usually see in collections?",
+      "light": "How might ancient lighting conditions have changed the experience of this vessel compared with museum lighting?",
+      "meaning": "To what extent can animal-shaped vessels be read as symbolic, and what would distinguish a symbolic reading from decorative whimsy?",
+      "culture": "How does the existence of novelty shapes in Attic workshops inform our picture of ancient markets and consumer taste?",
+      "technique": "What does the form suggest about the division of labor and the technical sophistication of Athenian ceramic production?",
+      "personal": "How do contemporary assumptions about what counts as fine art shape the status of a vessel like this in a museum?",
+      "critical": "How should scholars weigh the lack of a named maker when interpreting the object's cultural value?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (Ducks) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a pottery vessel shaped like a duck. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An Attic terracotta askos in the form of a duck, late 5th century BCE. An askos is a small flask for liquid, and animal shapes were part of the ancient potter's repertoire.",
+    "vocabulary": [
+      "askos",
+      "terracotta",
+      "Attic",
+      "vessel",
+      "three-dimensional",
+      "potter"
+    ],
+    "directions": [
+      "Have students sketch a vessel in the shape of an animal while keeping a place to fill and pour.",
+      "Ask pairs to compare this duck with a modern animal-shaped container, such as a teapot or toy.",
+      "Discuss why museums display ordinary objects like this alongside famous artworks."
+    ]
+  }
+}

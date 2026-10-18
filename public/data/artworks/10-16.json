@@ -1,0 +1,160 @@
+{
+  "id": "met-45434",
+  "day": "10-16",
+  "title": "Under the Wave off Kanagawa (The Great Wave)",
+  "recordTitle": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+  "artist": "Katsushika Hokusai",
+  "date": "ca. 1830–32",
+  "medium": "Woodblock print; ink and color on paper",
+  "movement": "Ukiyo-e",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A huge dark-blue wave curls high over three small boats, its white foam reaching out like claws. In the distance, a small snow-capped Mount Fuji sits under a pale sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/45434",
+    "objectId": "45434",
+    "verifiedOn": "2026-10-16",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A woodblock print from Hokusai's series Thirty-six Views of Mount Fuji, made in Japan around 1830–32. It shows boats caught beneath a towering wave, with Mount Fuji small in the distance. Many impressions were printed from the same blocks.",
+  "descriptions": {
+    "k": "This is a giant wave. It rises over little boats. Far away, a small mountain sits in the back. The white foam looks like curly fingers. An artist in Japan made this picture long ago.",
+    "g12": "A huge blue wave curls high above some small boats. Far away, a tiny snowy mountain waits quietly. The foam at the top of the wave looks like claws or fingers. Hokusai made this print in Japan almost 200 years ago. Where does the wave seem to be going?",
+    "g35": "Hokusai made this woodblock print in Japan around 1830. It shows a huge wave about to crash over boats, while Mount Fuji, Japan's tallest mountain, sits small and still in the distance. Artists, carvers, and printers worked together to make many copies from carved wooden blocks. Look at how the white foam reaches out like claws. Why might Hokusai have made the wave so large and the mountain so small?",
+    "g68": "Hokusai was about 70 years old when he made this print for his series Thirty-six Views of Mount Fuji. The composition is built on a strong curve: the wave arches over the scene while Mount Fuji appears small in the distance and the boats are caught in the trough. Hokusai used Prussian blue, a pigment newly available in Japan, and ideas about perspective influenced by European prints to create depth. Because a team produced it as a woodblock print, many copies were sold at prices ordinary people could afford.",
+    "g910": "Under the Wave off Kanagawa is the best-known image from Hokusai's Thirty-six Views of Mount Fuji, a series that helped make landscape a major subject in ukiyo-e, the tradition of \"pictures of the floating world.\" The composition sets nature's scale against human fragility: a towering wave dwarfs the boats and even Mount Fuji, yet the mountain remains the still center around which the curve turns. Hokusai combined Japanese line and flat color with imported Prussian blue and perspective ideas learned partly from European prints. Its popularity in 19th-century Europe helped shape Japonisme and, through it, modern painting.",
+    "g1112": "Published around 1830–32, this print is often read as a meditation on scale and impermanence, but its meaning is not fixed. Some viewers stress the contrast between the wave's violent energy and Mount Fuji's stillness; others note that the rowers are working at sea, skilled and absorbed in their task, rather than simply helpless. Formally, Hokusai merges Japanese traditions of flat color and bold outline with Western-influenced perspective and imported Prussian blue. Because the print survives in many impressions, differences in color and wear matter to scholars, and the image has taken on symbolic meanings its first audience could not have imagined."
+  },
+  "questions": {
+    "k": {
+      "daily": "The wave is so big! What do you think the people in the boats feel?",
+      "emotion": "Does this picture feel calm or full of energy? What do you see that makes you say so?",
+      "observation": "What can you find in this picture? Point to three things.",
+      "analysis": "Where do your eyes look first? Where do they go next?",
+      "line": "Can you find curvy lines in the wave? Trace one with your finger in the air.",
+      "shape": "What shapes can you find in the wave and the mountain?",
+      "color": "Which colors do you see? Which color shows up the most?",
+      "texture": "If you could touch the foam, how would it feel? Soft, spiky, or something else?",
+      "space": "What is close to you in this picture? What is far away? How can you tell?",
+      "light": "Which parts of the picture look light? Which parts look dark?",
+      "meaning": "What do you think will happen to the little boats? Tell your story.",
+      "culture": "Hokusai lived in Japan. Where have you seen the ocean or a very tall mountain?",
+      "technique": "This picture was printed from a carved block of wood. What do you think the artist needed to make it?",
+      "personal": "When have you seen big waves, or felt very small? Tell about it.",
+      "critical": "How can you tell the wave is very big? What do you see that shows it?"
+    },
+    "g12": {
+      "daily": "How does the artist make the wave feel powerful? Show a detail that helps you decide.",
+      "emotion": "What feeling do you get from this picture? Which part makes you feel that way?",
+      "observation": "Describe three things you notice, from the front of the picture to the back.",
+      "analysis": "How does the curve of the wave guide your eyes across the picture?",
+      "line": "Find thick lines and thin lines. How do the lines show water moving?",
+      "shape": "The wave and the mountain have different shapes. How are they alike and different?",
+      "color": "Look at the blues and the pale sky. How do the colors help the wave stand out?",
+      "texture": "How does the artist make the foam look rough or spiky? What do you see that helps?",
+      "space": "Why does the mountain look so small? What helps you see what is near and what is far?",
+      "light": "Where do you see the lightest parts? How do they make the dark waves look stronger?",
+      "meaning": "What story could this picture tell? What might happen next?",
+      "culture": "Hokusai made this in Japan long ago. What clues in the picture show that people lived near the sea?",
+      "technique": "Hokusai's picture was printed with carved wood blocks, so many copies could be made. Why might an artist want many copies?",
+      "personal": "If you were in one of the boats, what would you do? Why?",
+      "critical": "Some people see danger here and some see beauty. What do you see, and what shows it?"
+    },
+    "g35": {
+      "daily": "Why do you think Hokusai made the wave so large and Mount Fuji so small?",
+      "emotion": "What mood does the picture create? Which details make you feel that way?",
+      "observation": "Look from the foreground to the background. What details do you notice at each level?",
+      "analysis": "How does Hokusai arrange the wave, boats, and mountain to lead your eye through the picture?",
+      "line": "How do the flowing lines in the wave create a feeling of movement? Compare them to the lines in the boats.",
+      "shape": "How do the curved shape of the wave and the cone shape of the mountain work together?",
+      "color": "Hokusai uses a limited set of colors. How does that choice affect the mood of the picture?",
+      "texture": "The print is flat, but the water looks rough and spiky. How does Hokusai suggest texture with lines and foam?",
+      "space": "How does the artist show that the mountain is far away and the wave is close?",
+      "light": "The sky is pale and the water is dark. How does this contrast change the way you feel about the scene?",
+      "meaning": "What story do you think this picture tells about people and nature?",
+      "culture": "Mount Fuji has long been important in Japanese culture. Why might an artist make a whole series of pictures about it?",
+      "technique": "Each color in a woodblock print needs its own carved block. Why might the artist keep the colors simple?",
+      "personal": "Have you ever felt small next to something huge, like the ocean or a mountain? How is that like this picture?",
+      "critical": "What clues in the picture help you decide whether the boats are in danger? What else could be happening?"
+    },
+    "g68": {
+      "daily": "How does Hokusai use scale to make the wave and the mountain compete for your attention?",
+      "emotion": "Is the overall mood fear, awe, or something else? Support your answer with specific visual evidence.",
+      "observation": "Without interpreting yet, list what you see from foreground to background. Which details were easy to miss?",
+      "analysis": "How does the composition use the curve of the wave to frame Mount Fuji? What would change if the mountain were placed elsewhere?",
+      "line": "Compare the lines used for the wave, the foam, and the boats. How does the variety of line create energy?",
+      "shape": "A small wave in the foreground echoes the shape of Mount Fuji. How does this repeated shape unify the picture?",
+      "color": "How does the deep blue against the pale background create contrast? What effect might more colors have?",
+      "texture": "Which parts feel rough, and which feel smooth? How does Hokusai suggest texture on a flat printed surface?",
+      "space": "Hokusai combines flat color with depth cues like overlapping and size. Which cues create space here?",
+      "light": "There is no single light source, yet there are light and dark areas. How does the artist still create drama?",
+      "meaning": "Do you read the wave as a threat, a force of nature, or something else? What evidence supports your reading?",
+      "culture": "Why might landscape prints like this have been popular with ordinary people in 19th-century Japan?",
+      "technique": "A team made each print: an artist, a carver, and a printer. How might this process shape the way the image looks?",
+      "personal": "Think of a time when something much bigger than you changed your plans. How does this image connect to that experience?",
+      "critical": "Many people know this image but rarely look closely at the boats. What changes in your reading when you focus on them?"
+    },
+    "g910": {
+      "daily": "How does Hokusai balance the wave's dramatic energy with Mount Fuji's stillness, and what might that balance suggest?",
+      "emotion": "How does the interplay of tension and calm shape the emotional impact? Which formal choices create each?",
+      "observation": "Describe the print's visual hierarchy. What do you see first, second, and third, and what guides that order?",
+      "analysis": "Analyze how the composition frames Fuji. How do scale, curve, and placement direct attention?",
+      "line": "How does Hokusai's use of contour line differ from the way line works in much Western painting of the same era?",
+      "shape": "How do the wave's claw-like forms contrast with the geometric stability of the mountain? What does the contrast emphasize?",
+      "color": "How does the limited palette, dominated by Prussian blue, unify the image? Consider what a wider palette might change.",
+      "texture": "How does the printmaker translate the texture of foam and water into carved lines and flat color?",
+      "space": "How does the print merge flat, decorative space with a sense of depth? Which devices produce each?",
+      "light": "The print has no cast shadows or single light source. How does it convey atmosphere through tone instead?",
+      "meaning": "How might this image be read as about human vulnerability, skill, or nature's power? Which reading is best supported by the details?",
+      "culture": "How did the market for travel and landscape images in Edo-period Japan shape images like this one?",
+      "technique": "How does collaboration among artist, carver, and printer affect ideas of authorship and originality?",
+      "personal": "Where do you feel the tension between human effort and forces beyond control in your own life, and how might this print help you express it?",
+      "critical": "This image has become a global icon. How might that fame shape what viewers see, or fail to see, in the original?"
+    },
+    "g1112": {
+      "daily": "What evidence in the print supports reading it as about nature's power, and what evidence complicates that reading?",
+      "emotion": "How do the visual tensions in the image produce emotion without a single clear narrative? What interpretive risks arise when we name that emotion?",
+      "observation": "Describe the image's formal structure precisely before interpreting. Which observations were hardest to separate from interpretation?",
+      "analysis": "Analyze how the print uses repetition and echo, such as wave against mountain, to create unity and tension at once.",
+      "line": "How do the outlines and the pattern of the foam balance decoration and description, and how does that balance sit within the ukiyo-e tradition?",
+      "shape": "How does the relation between the wave's organic forms and the mountain's near-geometric profile structure the image conceptually?",
+      "color": "Consider the role of a recently imported synthetic pigment in the image's identity. How do material, color, and meaning intertwine?",
+      "texture": "Where does the image rely on implied texture, and where does it deliberately remain flat? What does that choice say about the print medium?",
+      "space": "How does the print negotiate Japanese conventions of flattened space with Western-influenced perspective, and what does this hybridity suggest?",
+      "light": "How does the print create drama through tonal contrast rather than naturalistic illumination, and what does this say about its priorities?",
+      "meaning": "How might different audiences, then and now, read this image differently? What should we hold open rather than decide?",
+      "culture": "How does the print's circulation in 19th-century Europe complicate its meaning as a \"Japanese\" image?",
+      "technique": "How do the economic and technical conditions of commercial woodblock printing shape what this image can and cannot do?",
+      "personal": "How does your own relation to scale and risk shape your reading of this image? Where might that bias you?",
+      "critical": "How does this image's status as a global icon affect the way we weigh its details? What questions would you ask to read it afresh?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Waves, Boats) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Part of Hokusai's series Thirty-six Views of Mount Fuji, published in Japan around 1830–32. Many impressions were printed from the same blocks, so color and condition vary between copies in different museums.",
+    "vocabulary": [
+      "woodblock print",
+      "ukiyo-e",
+      "impression",
+      "composition",
+      "Prussian blue",
+      "foreground and background"
+    ],
+    "directions": [
+      "Cover Mount Fuji with a finger, then uncover it. How does the picture change?",
+      "Compare the print with a photograph of a real wave. What did Hokusai exaggerate?",
+      "Connect to science: how do waves form and travel?"
+    ]
+  }
+}

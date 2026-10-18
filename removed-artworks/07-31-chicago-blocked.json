@@ -1,0 +1,158 @@
+{
+  "id": "artic-16633",
+  "day": "07-31",
+  "title": "The Seine at Port-Marly, Piles of Sand",
+  "artist": "Alfred Sisley",
+  "date": "1875",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/c4425cb6-d8b5-6390-603d-7f802406d05d/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A river landscape under a wide, cloudy sky. Boats and workers on the Seine handle heaps of sand along the bank, with trees, buildings and a road in the background.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16633",
+    "objectId": "16633",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (British, active in France, 1839-1899), date, place of origin (France), medium, dimensions (54.5 x 73.7 cm), credit line, style (Impressionism), subject terms (landscape, boats, boatman, river, labor, building, trees, sky, road, paths, clouds, transportation, water), short description, description, is_public_domain true and image_id read from the record"
+  },
+  "context": "Alfred Sisley painted this in 1875 while living at Marly-le-Roi, outside Paris. The Art Institute says that while Impressionists usually showed the Seine as a place for weekend leisure, Sisley here depicted the working week and the men who depended on the river for their livelihood, dredging sand for barge traffic. The museum calls it perhaps the most original of his Marly landscapes.",
+  "descriptions": {
+    "k": "This is a river with workers. They pile up sand near boats. Clouds fill the big sky. Trees and houses stand along the bank. What are the workers doing? Can you find the boats? What colors are in the sky?",
+    "g12": "Alfred Sisley painted men working beside the Seine river in France. They move sand from boats and pile it up. A wide, cloudy sky stretches above. Many painters showed people relaxing by the river, but Sisley showed work. What jobs can you find?",
+    "g35": "In 1875 Alfred Sisley painted workers dredging sand from the Seine River. Many painters of his time showed the river as a place for weekend fun, but Sisley showed people at work. Look for the boats, the piles of sand, and the big cloudy sky. Why might an artist want to paint workers instead of picnics? What jobs on a river can you imagine?",
+    "g68": "Sisley painted The Seine at Port-Marly in 1875 while living at Marly-le-Roi. The museum says this scene of men dredging sand for barge traffic may be his most original, because Impressionists usually painted the Seine as weekend leisure while Sisley showed the working week. How do the sky, river, and piles of sand organize the picture? What might this choice say about whose lives deserve to be painted?",
+    "g910": "Where many Impressionists painted the Seine as a site of leisure, Sisley's 1875 canvas shows the labor of dredging sand for barges, a subject the Art Institute calls perhaps his most original from Marly. Broad sky, rivers, boats, and workers are linked by soft, flickering brushwork. Consider how choosing labor over leisure changes the meaning of an Impressionist landscape, and how the open sky balances the working scene.",
+    "g1112": "Sisley's 1875 landscape pointedly shifts the Impressionist Seine from weekend leisure to the working week: workers dredge sand to supply barge traffic, as the Art Institute notes. The wide sky and brushed river unify labor and nature without overt commentary. Does the painting document modern industry, romanticize labor, or simply treat a working subject in the Impressionist language of light? What visual evidence would you use to argue your position?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the boats, the workers, and the piles of sand. Where are they?",
+      "emotion": "Is this a busy or a peaceful day on the river? What do you see that tells you?",
+      "observation": "Point to the sky, the water, and the sand. Which colors are in each?",
+      "analysis": "Which is bigger in the picture, the sky or the river?",
+      "line": "Find a line that goes along the riverbank. Where does it go?",
+      "shape": "Look at the mounds of sand. What shapes do they make?",
+      "color": "Which color covers the most space in the sky and river scene?",
+      "texture": "How would the sand, the water, and the clouds feel if you could touch them?",
+      "space": "What is near you and what is far away along the river?",
+      "light": "Where do the clouds let the light shine through?",
+      "meaning": "What jobs do you think the workers have today?",
+      "culture": "Boats carry sand and other things on rivers. How do things get carried to your town?",
+      "technique": "The painter used soft, short strokes. Make little strokes in the air like clouds.",
+      "personal": "If you worked on this river, what would you like to do?",
+      "critical": "What would you ask the workers?"
+    },
+    "g12": {
+      "daily": "Look closely at the workers and boats. What do you notice they are doing?",
+      "emotion": "What feeling does this cloudy day by the river give you? Point to what causes it.",
+      "observation": "List what you see: boats, sand, trees, buildings, and the sky.",
+      "analysis": "How does the painter place the boats and workers so your eyes travel along the river?",
+      "line": "Find the lines of the riverbank and the road. How do they lead your eyes?",
+      "shape": "How do the piles of sand look different from the round clouds?",
+      "color": "What colors does the painter use for the sky and water? How do they feel together?",
+      "texture": "Which parts look soft and which look rough, like sand?",
+      "space": "How can you tell some boats are close and some are far away?",
+      "light": "Where do you see sunlight on the water, and where are clouds blocking it?",
+      "meaning": "Why do you think the painter picked workers instead of people on a picnic?",
+      "culture": "This river brought building supplies to a growing area near Paris. What brings supplies to your town?",
+      "technique": "The painter used quick little brushstrokes. How do they make the sky look like it is moving?",
+      "personal": "Would you rather be a boat worker or a painter on this river? Tell why.",
+      "critical": "Why might an artist paint ordinary work as something worth looking at?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this river scene, and what choices by Sisley guide them?",
+      "emotion": "What mood do the sky and the river create? Use colors and brushwork as evidence.",
+      "observation": "Look slowly. What small details about the workers, boats, or buildings did you notice late?",
+      "analysis": "How does Sisley arrange the boats, piles of sand, and buildings so that the picture feels balanced?",
+      "line": "How do the lines of the riverbank, boats, and road lead your eyes through the scene?",
+      "shape": "How do the shapes of piles of sand and boats compare with the shapes of clouds?",
+      "color": "How does Sisley use grays, blues, and warm browns to show the weather and the work?",
+      "texture": "How do the brushstrokes help you tell sky, water, sand, and trees apart?",
+      "space": "How does the large sky make the river and the workers seem smaller or bigger?",
+      "light": "How does light from a cloudy sky show up on the water and the sand?",
+      "meaning": "The museum says most painters showed the Seine as a place for fun. What does Sisley's choice tell you about what he wanted to show?",
+      "culture": "Sisley lived near the Seine for several years. How might living near a place change how you paint it?",
+      "technique": "Impressionists painted quickly to catch changing light. What challenges would that bring on a cloudy day?",
+      "personal": "Think of a place where people work near where you live. How would you paint it?",
+      "critical": "Some people think work is a boring subject for art. What details in this painting argue against that?"
+    },
+    "g68": {
+      "daily": "How does Sisley's choice to show laborers rather than leisure shape how you see the river?",
+      "emotion": "How do soft grays and blues in the sky create a feeling of calm effort?",
+      "observation": "What can you see clearly, and what do you assume about the workers' lives? Separate evidence from guess.",
+      "analysis": "How does the horizontal river and the large sky organize the composition?",
+      "line": "How do directional brushstrokes make the water and clouds seem to move?",
+      "shape": "How do the mounded piles of sand and the boats create focal points in the middle ground?",
+      "color": "How does a limited palette of cool and earthy colors set the mood?",
+      "texture": "How does visible brushwork make surfaces such as sky, water, and sand look different?",
+      "space": "How does Sisley use the road, bank, and buildings to build depth?",
+      "light": "How does the soft light from an overcast sky affect shadows and colors?",
+      "meaning": "The museum says Impressionists usually painted leisure. What might Sisley be telling us by painting work?",
+      "culture": "How does this scene reflect the way rivers supported growth around Paris in the 1870s?",
+      "technique": "Why might Sisley have wanted to paint something different from other Impressionists?",
+      "personal": "How does your own experience of work and rest shape your reaction to this subject?",
+      "critical": "How would you decide whether the painting honors the workers or just uses them as part of a landscape?"
+    },
+    "g910": {
+      "daily": "How do Sisley's choices of subject, scale of sky, and brushwork shape your first interpretation of the scene?",
+      "emotion": "How does the overcast light and muted palette create an atmosphere of steady, quiet industry?",
+      "observation": "Analyze the visual hierarchy: how do the workers, boats, sky, and buildings compete or cooperate?",
+      "analysis": "How do horizontals of river and bank interact with the diagonals of boats and piles?",
+      "line": "How does Sisley define forms through patches of color rather than contour?",
+      "shape": "How do the repeated mound shapes and boat shapes create pattern and rhythm?",
+      "color": "Evaluate how the restrained palette expresses weather and work without drama.",
+      "texture": "In what ways does the variation in brushwork create texture for sky, water, and sand?",
+      "space": "How does Sisley use the expansive sky to frame the human activity below?",
+      "light": "How does diffuse light affect the unity of the scene?",
+      "meaning": "What does the museum's contrast between leisure and labor suggest about the choices open to Impressionist painters?",
+      "culture": "How does the painting reflect the economic and social role of the river in the 1870s?",
+      "technique": "How does the scene complicate the idea that Impressionism was only about leisure and pleasure?",
+      "personal": "How does your own sense of the dignity of work compare with the way this painting treats it?",
+      "critical": "To what extent can a painting show labor without commenting on it, and what evidence supports your view?"
+    },
+    "g1112": {
+      "daily": "What argument about modernity, labor, and nature can you make from the formal evidence of this painting?",
+      "emotion": "How does the quiet handling of a working scene complicate any single reading as celebratory or critical?",
+      "observation": "Describe the painting precisely, then identify which claims depend on the museum's art-historical framing.",
+      "analysis": "Analyze how the composition balances the horizontal river and sky with the clusters of working activity.",
+      "line": "How does brushwork serve as the principal means of articulating form and space?",
+      "shape": "Consider how the small, anonymous figures relate to the large, atmospheric sky as a formal and conceptual pairing.",
+      "color": "How does the tonal and chromatic restraint align with the subject of ordinary labor?",
+      "texture": "How does the variety of touch distinguish elements while maintaining overall unity?",
+      "space": "How does the modest scale of the figures relative to the sky shape the viewer's sense of place and proportion?",
+      "light": "Discuss how filtered light under a cloudy sky unifies the scene while avoiding picturesque drama.",
+      "meaning": "Evaluate readings of the painting as documentation, as quiet social observation, or as pure landscape, weighing the evidence.",
+      "culture": "How does Sisley's focus on the working week challenge the dominant narrative of Impressionism as an art of leisure?",
+      "technique": "How does the museum's description of this work as particularly original affect how we think about Sisley's place in the group?",
+      "personal": "How do your own assumptions about industry and landscape shape your response to a river scene with labor?",
+      "critical": "What additional evidence would help you determine how contemporaries viewed such subjects?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (landscape, boats, boatman, river, labor, building, buildings, trees, sky, road, paths, nature, France, clouds, transportation, landscapes, water), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1875 at Marly-le-Roi near Paris by Alfred Sisley, a British artist active in France. The Art Institute says it shows the working week on the Seine, with workers dredging sand for barge traffic, in contrast to the leisure subjects usually painted by Impressionists.",
+    "vocabulary": [
+      "Impressionism",
+      "labor",
+      "barge",
+      "dredging",
+      "overcast",
+      "brushwork"
+    ],
+    "directions": [
+      "Have students list jobs that happen near a river or road in their community, then sketch one as a landscape.",
+      "Ask students to compare this painting with an Impressionist scene of leisure and describe what changes in mood.",
+      "Discuss why artists choose to show work and who gets shown in paintings."
+    ]
+  }
+}

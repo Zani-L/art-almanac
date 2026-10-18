@@ -1,0 +1,159 @@
+{
+  "id": "met-677436",
+  "day": "04-20",
+  "title": "Human Figure",
+  "artist": "Artist unknown",
+  "date": "100 BCE–200 CE",
+  "medium": "Clay",
+  "movement": "Maya",
+  "region": "Mexico, Mesoamerica",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-300_5434.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/LC-300_5434.jpg",
+    "credit": "The Metropolitan Museum of Art, Museum Purchase, 1900",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small hand-modeled clay figure of a person from ancient Mesoamerica, standing or seated, with a rounded, sculpted form and a plain earthen surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/677436",
+    "objectId": "677436",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, classification (Ceramics-Sculpture), culture (Maya), country (Mexico), region (Mesoamerica), public-domain flag, credit line and image URLs read from the record; the museum page lists dimensions of 7 1/2 in. high. The record lists no tags"
+  },
+  "context": "A small clay sculpture of a person from ancient Mesoamerica, dated 100 BCE to 200 CE. The Met's record lists the culture as Maya and the country as Mexico. It entered the museum's collection in 1900, which makes it one of the Met's early acquisitions of ancient American art.",
+  "descriptions": {
+    "k": "This is a little person made of clay. It is from Mexico and is very, very old. An artist shaped it by hand. Look at the head and the body. What do you think this person is doing?",
+    "g12": "Long ago in ancient Mexico, someone shaped this small clay person. It is about as tall as a grown-up's hand. There is no label saying who it shows. Look at the head, the body, and the way it holds itself. What do you think the person is like?",
+    "g35": "This clay figure is more than 1,800 years old. The Met says it comes from the Maya culture in Mexico. Ancient artists in Mesoamerica made many small figures of people from clay, and each one can tell us something about how people looked and lived. Look closely at the head, the body, and the surface. What do you notice, and what do you wonder?",
+    "g68": "Dated between 100 BCE and 200 CE, this clay sculpture shows a human figure made in ancient Mesoamerica. The Met records it as Maya and from Mexico, and it was acquired in 1900. Small clay figures could have served many purposes, and scholars are careful about guessing at a single meaning. Look at the pose, the proportions, and the surface. What can the figure tell us, and what remains unanswered?",
+    "g910": "This small clay Human Figure, dated 100 BCE to 200 CE and attributed to the Maya, belongs to a long Mesoamerican tradition of modeled ceramic sculpture. Without an inscription, its identity and purpose are uncertain, so close looking at posture, proportion, and surface becomes the main evidence. Consider how a sculptor translates a living person into clay, which features are emphasized, and how a modern museum label shapes our expectations of an object made long ago.",
+    "g1112": "Dated 100 BCE to 200 CE and labeled Maya by the Met, this clay Human Figure raises the questions that face scholars of early Mesoamerican ceramics: what such figures depicted, how they were used, and how cultural attributions are made when texts are scarce or absent. The sculpture rewards formal analysis of posture, proportion, and modeling, but its interpretation depends on archaeological context that the 1900 museum acquisition record may not preserve. The work thus invites reflection on how museums fill gaps and how much a single small object can safely be made to say."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this little clay person is doing? Show it with your own body.",
+      "emotion": "How do you think this person feels? What do you see that makes you say so?",
+      "observation": "What parts of the person can you name? Point to the head and the body.",
+      "analysis": "Where do your eyes go first on this figure? Where do they go next?",
+      "line": "Trace the outline of the figure in the air. Where does it curve?",
+      "shape": "What shapes did the artist use for the head and the body? Are they round or long?",
+      "color": "What colors do you see on the clay? How would you describe them?",
+      "texture": "How do you think the clay would feel if you touched it gently?",
+      "space": "If you walked around this figure, what do you think you would see on its back?",
+      "light": "Where does the light touch the figure? Where do you see shadow?",
+      "meaning": "If this figure could tell a story, what would it say?",
+      "culture": "This figure is from ancient Mexico. What would you like to know about the people who made it?",
+      "technique": "The artist made this figure from clay with their hands. How do you think they shaped it?",
+      "personal": "If you made a clay figure, who would it be?",
+      "critical": "This figure is very old. What do you think helped it last for so many years?"
+    },
+    "g12": {
+      "daily": "Look at the figure's pose. What might the person be doing or feeling?",
+      "emotion": "What feeling does this small figure give you? Which part of it helps you feel that way?",
+      "observation": "Look slowly all around the figure. Name four things you notice.",
+      "analysis": "How does the artist help your eyes move from the head to the rest of the body?",
+      "line": "Find a curved line and a straight line on the figure. How are they different?",
+      "shape": "Which shapes make up the body? How do they fit together?",
+      "color": "The clay has earthy colors. How do the colors make the figure feel old or warm?",
+      "texture": "Which parts look smooth and which look rough? How can you tell?",
+      "space": "The figure is a small sculpture you could walk around. What might the sides and back look like?",
+      "light": "Where is the figure lightest and where is it darkest? What does this tell you about its shape?",
+      "meaning": "Nobody wrote down who this figure shows. Who do you think it could be?",
+      "culture": "The Maya lived in parts of Mexico and Central America. How can a small clay figure help us learn about people long ago?",
+      "technique": "Clay can be pressed, pinched, and smoothed. Which of these do you think the artist used?",
+      "personal": "What would you like a future person to know about you from a small sculpture?",
+      "critical": "Is it fair to guess what a very old figure means? Give one reason for and one reason against."
+    },
+    "g35": {
+      "daily": "What can you learn about this person just from the pose, the proportions, and the surface of the clay?",
+      "emotion": "What mood or personality does the figure suggest to you, and which details lead you to that idea?",
+      "observation": "Take one minute to look carefully. What small details of the head, body, or surface do you notice?",
+      "analysis": "How did the artist organize the figure so that its parts look balanced?",
+      "line": "How do curved and straight lines in the outline give the figure its character?",
+      "shape": "The artist simplified a person into a few main shapes. Which shapes can you identify?",
+      "color": "The color of baked clay is natural to the material. How does that color affect how the figure looks?",
+      "texture": "How do you think the surface of the clay was smoothed or marked to show the figure's features?",
+      "space": "This sculpture exists in three dimensions. How does that make it different from a drawing of a person?",
+      "light": "How do light and shadow help you see the shape of the head and body?",
+      "meaning": "The Met does not say who this figure represents. What are some possible reasons people made small clay figures?",
+      "culture": "The Met labels this figure Maya. What can objects like this teach us about people when they did not leave writing we can read?",
+      "technique": "Ancient artists modeled clay by hand and baked it. What problems might come up when you shape and fire a small figure?",
+      "personal": "How is making a figure of a person from clay different from drawing one? Which would you prefer?",
+      "critical": "Why might it be important for museums to say clearly what they know and do not know about an object like this?"
+    },
+    "g68": {
+      "daily": "How does the sculptor suggest a living person using only clay and a small number of forms?",
+      "emotion": "What attitude does the figure project: calm, alert, humble, or proud? Which features create that impression?",
+      "observation": "Describe the figure from head to base. Which area shows the most careful modeling?",
+      "analysis": "How do proportions, such as the size of the head compared to the body, shape the figure's character?",
+      "line": "How do contours and any incised or modeled lines help define the figure's features?",
+      "shape": "How does the sculptor turn complex human anatomy into simple, solid forms?",
+      "color": "How does the natural color of the clay or any surface coating affect your sense of the figure's age and material?",
+      "texture": "What surface treatments can you see, such as smoothing or marking, and what do they suggest about the maker's process?",
+      "space": "How does a small sculpture occupy space differently from a monument? Think about scale and how you would view it.",
+      "light": "How does raking light from one side change what we notice about the figure's form?",
+      "meaning": "Scholars are careful about explaining small figures without context. Why might that be, and what would help them?",
+      "culture": "How does a culture label like Maya help and limit our understanding of an object found far from where it is now displayed?",
+      "technique": "Clay figures are often hollow or solid and are baked in a fire. What decisions would a maker have to make before firing?",
+      "personal": "What would a figure of you need to include for someone in the future to recognize your character?",
+      "critical": "The figure was bought by the museum in 1900. What might we want to know about how it was found and acquired?"
+    },
+    "g910": {
+      "daily": "How does the figure use posture, proportion, and modeled form to convey a human presence without text to explain it?",
+      "emotion": "How does the figure's stillness create a mood, and which formal choices make it feel formal or intimate?",
+      "observation": "Describe the visual hierarchy. Where does the eye first land, and how does the sculpture direct attention?",
+      "analysis": "Analyze how the sculptor balances simplification and specificity in representing the human body.",
+      "line": "How does the figure's silhouette communicate pose and personality?",
+      "shape": "How do solid geometric volumes combine to produce a human form that feels both abstract and alive?",
+      "color": "How does the material color of fired clay shape the figure's visual identity compared to painted or carved works?",
+      "texture": "What can the treatment of the surface reveal about the sculptor's technique and the figure's intended finish?",
+      "space": "How does a sculpture meant to be handled or viewed in the round change how we read pose and proportion?",
+      "light": "How does side light reveal the modeling of the figure, and what might be lost in a frontal photograph?",
+      "meaning": "What are reasonable interpretations of a small ancient figure whose identity is unknown, and what claims would be too speculative?",
+      "culture": "How does the Met's attribution to the Maya, with a date range of three centuries, show the challenge of classifying early Mesoamerican objects?",
+      "technique": "What does the use of clay suggest about accessibility, repeated production, and the role of figures in daily or ritual life?",
+      "personal": "What does it mean to you that a person, perhaps nameless, made something that still survives after nearly two thousand years?",
+      "critical": "What ethical questions arise when ancient figures enter museum collections with limited information about their original find context?"
+    },
+    "g1112": {
+      "daily": "What can be claimed responsibly from the form of this figure about Maya culture, and what requires evidence beyond the sculpture itself?",
+      "emotion": "How does the figure's abstraction and anonymity shape the emotional response it invites compared with a portrait?",
+      "observation": "Describe the figure's structure with precision. At what point does your description begin to assume identity or function?",
+      "analysis": "Analyze how the sculptor reconciles a generalized body with specific gestures or features to achieve individuality.",
+      "line": "How does contour operate in a sculpture that is read from many sides rather than a single viewpoint?",
+      "shape": "How does the simplification of anatomy relate to conventions of ancient Mesoamerican figural representation?",
+      "color": "How might surface color, whether original or altered by burial, change the figure's meaning or function, and how can we tell?",
+      "texture": "What does the physical evidence of modeling and finishing suggest about workshop practice and the maker's choices?",
+      "space": "How does the figure's scale, small enough to hold, establish a relationship between viewer and subject that differs from monumental sculpture?",
+      "light": "How does the museum's photographic lighting construct a particular reading of the figure, and what alternatives exist?",
+      "meaning": "Evaluate possible functions, such as portrait, offering, toy, or ritual object, and assess the limits of the available evidence.",
+      "culture": "How do cultural labels like Maya, assigned in museum catalogs, simplify a complex and regionally varied ancient world?",
+      "technique": "What can small ceramic sculpture reveal about firing technology, the availability of materials, and the organization of production?",
+      "personal": "How does your own sense of what an ancient sculpture should look like shape your response to a modest, small-scale figure?",
+      "critical": "How should museums present and research objects acquired in 1900, when standards of documentation and provenance were very different from today's?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ceramics-Sculpture), culture and region read from the Met record; the record lists no tags. The object is a small clay human figure.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Met record dates this clay figure to 100 BCE to 200 CE, labels it Maya, and gives Mexico and Mesoamerica as its place. It was acquired in 1900. Confirm the figure's pose and appearance from the museum image before class, since the record gives no description.",
+    "vocabulary": [
+      "Mesoamerica",
+      "Maya",
+      "ceramic sculpture",
+      "modeling",
+      "proportion",
+      "attribution"
+    ],
+    "directions": [
+      "Have students model a small clay or dough figure and notice which choices they made about pose and proportion.",
+      "Discuss what we can and cannot know about an object that has no label or writing from its makers.",
+      "Compare with another figure in the archive and discuss how scale changes a sculpture's effect."
+    ]
+  }
+}

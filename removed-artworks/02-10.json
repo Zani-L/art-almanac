@@ -1,0 +1,158 @@
+{
+  "id": "met-452828",
+  "day": "02-10",
+  "title": "Carpet",
+  "artist": "Artist unknown",
+  "date": "18th century",
+  "medium": "Cotton (warp and weft), wool (pile); symmetrically knotted pile",
+  "region": "Northwestern Iran or Caucasus",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP344684.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP344684.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Arthur M. and Edna R. Brilant, 1976",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large woven wool carpet covered in a dense, repeating pattern. Animal figures are part of its design, set among decorative shapes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/452828",
+    "objectId": "452828",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country/region, classification, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A knotted-pile carpet made in the 18th century in northwestern Iran or the Caucasus; the Met's record is not certain of the exact place. It has a cotton foundation and a wool pile, and the record lists animals among its imagery.",
+  "descriptions": {
+    "k": "This is a carpet made of wool. Tiny knots make the soft top. Look for the animals hidden in the pattern. Can you find one? What color is it?",
+    "g12": "This carpet was made more than 200 years ago in northwestern Iran or the Caucasus. Weavers tied thousands of tiny wool knots to make the pattern. Animals are part of the design. Find one animal. What shapes and colors did the weavers use to make it?",
+    "g35": "This carpet from the 1700s was woven in northwestern Iran or the Caucasus. Its strong cotton threads hold thousands of knots of wool, which form the soft surface called the pile. Animals appear among the patterns. Find one and look at its outline. Why might weavers fill a carpet with so many repeating shapes instead of leaving empty space?",
+    "g68": "The Met dates this carpet to the 18th century and places it in northwestern Iran or the Caucasus, a sign that experts cannot yet say exactly where. It is a knotted-pile carpet: wool knots are tied around cotton warp threads, row after row. Notice how animals share the surface with other patterns, and how the design is built from simplified, angular or curving shapes. How does knotting, rather than drawing, shape the way an animal can look?",
+    "g910": "This 18th-century carpet, attributed to northwestern Iran or the Caucasus, shows how a knotted-pile technique shapes imagery. Symmetrical knots tied in wool on a cotton foundation form a grid, so animals and ornament are translated into stepped or stylized forms. The surface is dense, and the eye moves across repeating elements rather than into pictorial depth. Regional carpet traditions often overlap, which is one reason the Met gives two possible origins. Consider what the animals contribute to the pattern.",
+    "g1112": "An 18th-century carpet assigned to northwestern Iran or the Caucasus, this object illustrates both the technical logic of symmetrically knotted pile and the difficulty of regional attribution in carpet studies, where workshops, villages, and trade routes overlapped. Animal imagery sits within an all-over design, inviting questions about whether such motifs are decorative, symbolic, or both; scholars often hedge because weavers rarely recorded intentions. Looking carefully at knot density, color, and drawing can support cautious arguments, while remaining open about what the evidence cannot settle."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find an animal in this carpet. What do you think it is, and what is it doing?",
+      "emotion": "Would this carpet feel cozy or exciting to sit on? What do you see that makes you say so?",
+      "observation": "Point to three different shapes in the carpet pattern. What colors are they?",
+      "analysis": "Where do your eyes stop first on this carpet? What made them stop there?",
+      "line": "Trace a line in the carpet pattern with your finger. Does it zigzag, curve, or go straight?",
+      "shape": "The weavers made animals out of little blocks of knots. Which animal shape can you find?",
+      "color": "Which wool colors do you see most on this carpet? Which one would you pick for your own rug?",
+      "texture": "The top of this carpet is made of wool knots. How do you think it feels under your hand?",
+      "space": "Is there empty space in this carpet, or is every part filled? Show where you looked.",
+      "light": "Which colors on the carpet look light, and which look dark? Point to each.",
+      "meaning": "Why do you think the weavers put animals in a carpet?",
+      "culture": "This carpet came from Iran or the Caucasus long ago. What do you have at home that is made by hand?",
+      "technique": "The weavers tied tiny knots one by one. How long do you think it took to finish?",
+      "personal": "If you could add one animal of your own to this carpet, which would you choose?",
+      "critical": "The animals in this carpet are made of knots. How can you tell they are woven in and not drawn on top?"
+    },
+    "g12": {
+      "daily": "Which animal in the carpet is easiest to spot? What helps it stand out from the pattern around it?",
+      "emotion": "Does the busy pattern make you feel calm or excited? Which parts of the carpet cause that feeling?",
+      "observation": "Describe the animal shapes you find and the shapes around them. What do you notice about their edges?",
+      "analysis": "How do the repeating shapes help your eyes travel across this carpet?",
+      "line": "Compare straight, stepped, and curved lines in the pattern. Which kind of line makes the animals?",
+      "shape": "Knots make blocky shapes, like tiny squares. How do the weavers still make animals look like animals?",
+      "color": "Pick two wool colors that sit next to each other. How does one help the other stand out?",
+      "texture": "The pile is cut wool, close and thick. How can you tell the carpet would be soft but strong?",
+      "space": "Weavers filled most of the carpet with pattern. How does this change how it feels compared with a picture with lots of empty space?",
+      "light": "Wool soaks up light and glows softly. Which colors on this carpet look brightest to you?",
+      "meaning": "People are not sure why weavers chose certain animals. What story could you make up about the animals in this carpet?",
+      "culture": "Carpets were used as floor coverings and in homes in many places. How do you think a family used a carpet like this?",
+      "technique": "Wool knots are tied to cotton threads, row by row. Why do you think it takes so many knots to make one picture?",
+      "personal": "Think of a pattern from your clothes or home. How is it like or unlike the pattern in this carpet?",
+      "critical": "The Met says this carpet came from northwestern Iran or the Caucasus. Why might experts not be sure which?"
+    },
+    "g35": {
+      "daily": "How do the animals fit into the larger pattern of this carpet? Explain what you see and what it makes you think.",
+      "emotion": "What mood does the dense pattern create? Which colors or shapes add to it?",
+      "observation": "Spend one minute scanning the carpet from one side to the other. What repeated shapes do you start to notice?",
+      "analysis": "How do the weavers arrange animals and ornament so no single part takes over? Use examples.",
+      "line": "A knotted carpet builds lines from tiny squares of color. How do outlines on the animals look different from lines in a drawing?",
+      "shape": "Which shapes repeat in the carpet design, and how do they hold the pattern together?",
+      "color": "Dyed wool gives the carpet its color. How do light and dark colors help the animals show up?",
+      "texture": "The wool pile rises above the cotton base. How might that feel different from a flat printed pattern?",
+      "space": "This carpet has little feeling of depth. How do the weavers organize a flat surface so it still seems full of life?",
+      "light": "Where on the carpet do you see the strongest contrast between light and dark? What does that contrast do?",
+      "meaning": "What ideas could animals stand for in a carpet, and why should we be careful about being sure?",
+      "culture": "Carpets were made in many homes and workshops across Iran and the Caucasus. What does that say about their importance?",
+      "technique": "Symmetrical knots are tied around two warp threads. Why would a weaver need a plan before starting?",
+      "personal": "What object in your life is covered in patterns? How does that pattern make you feel?",
+      "critical": "Why might a museum list two possible places of origin for one carpet? What does this tell you about how experts work?"
+    },
+    "g68": {
+      "daily": "What role do the animals play in this carpet's design, and how does the weaving technique shape their appearance?",
+      "emotion": "How does the density of pattern influence the carpet's overall mood? Support your answer with specific areas.",
+      "observation": "List the types of motifs you find, from animals to ornament. Which ones were hardest to notice at first?",
+      "analysis": "How does repetition organize the carpet's surface? Where do variations interrupt the rhythm?",
+      "line": "How do knot-based outlines differ from brush or pencil lines? Where do you see this on the animals?",
+      "shape": "How might the grid of knots simplify the shape of an animal? Compare it to how you would draw one.",
+      "color": "How do color contrasts separate animals from background shapes, and what could the colors have meant to the makers?",
+      "texture": "How does the wool pile give the carpet a physical presence that a painting of the same design might lack?",
+      "space": "The carpet is made to be seen from above and lying flat. How might that shape its design choices?",
+      "light": "Because wool absorbs and scatters light, how might the carpet's colors look in a dim room compared with a bright one?",
+      "meaning": "Scholars are cautious about the meanings of carpet animals. What kinds of evidence would help decide?",
+      "culture": "How does a carpet that may come from the Caucasus or northwestern Iran show the overlap of regional traditions?",
+      "technique": "Compare weaving and painting as ways to make an image. What can a knotted carpet do easily, and what is hard?",
+      "personal": "What patterns do you notice in your own surroundings, and how does this carpet make you think about them?",
+      "critical": "How do we judge a carpet when its weavers are anonymous and its origin uncertain?"
+    },
+    "g910": {
+      "daily": "How do animal motifs and ornament interact in this carpet, and what does that interaction suggest about its design logic?",
+      "emotion": "How does the carpet's dense all-over design produce visual energy without a single focal scene?",
+      "observation": "Describe the carpet's visual hierarchy. Which motifs dominate, which recede, and what makes the difference?",
+      "analysis": "Analyze how repetition and variation create rhythm in the surface pattern.",
+      "line": "How does the knot grid translate curves into stepped or stylized contours, and where does the design push against that limit?",
+      "shape": "How do the stylized animal forms relate to the surrounding geometric or floral shapes?",
+      "color": "How does the limited range of dyed wool colors build contrast and unity at the same time?",
+      "texture": "How does the cut-pile surface make the carpet function as both an image and an object for the body?",
+      "space": "In what ways does an all-over carpet design differ from the illusionistic space of European painting?",
+      "light": "How does wool's matte surface affect how color reads compared with shiny silk or glossy paint?",
+      "meaning": "To what degree can animal imagery be read symbolically here, and where does that reading become speculation?",
+      "culture": "What can an anonymous carpet from the 1700s tell us about village or workshop traditions, and what can it not?",
+      "technique": "How does symmetrically knotted pile work, and how does its structure influence the carpet's imagery?",
+      "personal": "How does your own sense of pattern and decoration shape what you notice in this carpet?",
+      "critical": "Why have carpets often been treated as decorative arts, and does that label help or limit our understanding of this one?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the carpet's imagery and structure alone, and what requires outside evidence?",
+      "emotion": "How does a pattern-based object communicate affect without narrative? What are the limits of reading emotion into a carpet?",
+      "observation": "Describe the carpet's surface with precision. How does careful description already involve interpretive choices?",
+      "analysis": "Analyze how the carpet's all-over structure creates both unity and local surprise, especially around the animals.",
+      "line": "How does the grid-based nature of knotting condition the vocabulary of line, and how does it compare with drawing traditions?",
+      "shape": "How does stylization of animal forms mediate between observation, tradition, and the constraints of the technique?",
+      "color": "How might natural fading and age have changed the carpet's palette, and how should that affect interpretation?",
+      "texture": "In what ways does tactility, though inaccessible to museum viewers, remain central to understanding this object?",
+      "space": "How does the carpet's flat, continuous field challenge Western assumptions about pictorial space?",
+      "light": "How does the matte, fibrous surface complicate photographic reproduction, and what is lost when we look at a carpet only as an image?",
+      "meaning": "Compare decorative, symbolic, and protective readings of animal motifs on carpets. What evidence supports or limits each?",
+      "culture": "How do the Met's two possible origins reflect the problems of assigning carpets to a single nation or ethnic group?",
+      "technique": "What does the technical structure suggest about labor, planning, and the division of work behind a carpet?",
+      "personal": "How does your own relationship to domestic textiles shape the value you give this carpet?",
+      "critical": "What are the consequences of labeling anonymous makers by region, and what alternatives might museums use?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Rugs), medium, country, and tags (Animals) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An 18th-century knotted-pile carpet that the Met places in northwestern Iran or the Caucasus. Its exact origin is uncertain, which is a good chance to discuss how museums attribute objects.",
+    "vocabulary": [
+      "knotted pile",
+      "warp and weft",
+      "motif",
+      "wool",
+      "attribution",
+      "symmetrical knot"
+    ],
+    "directions": [
+      "Have students count rows or repeated motifs in a small area and estimate how many knots a whole carpet would need.",
+      "Ask students to design a pattern on graph paper in which an animal is built from squares.",
+      "Discuss why a museum might say 'or' about where an object was made."
+    ]
+  }
+}

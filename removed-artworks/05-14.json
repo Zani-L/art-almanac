@@ -1,0 +1,154 @@
+{
+  "id": "met-310732",
+  "day": "05-14",
+  "title": "Heddle pulley with elephant head",
+  "artist": "Baule artist",
+  "date": "19th–mid-20th century",
+  "medium": "Wood, pigment, metal",
+  "region": "Baule peoples, Côte d'Ivoire",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A small carved wooden tool topped with the head of an elephant. It is a part from a weaving loom, and the museum notes it also includes metal and pigment.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/310732",
+    "objectId": "310732",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, classification, tags (Elephants), public-domain flag (false), and empty image fields read from the record"
+  },
+  "context": "A heddle pulley by a Baule artist from Côte d'Ivoire, made of wood, pigment, and metal between the 19th and mid-20th century. A heddle pulley is a part of a loom, hung from the loom frame so that cords can run over it as the weaver works. This one is about 15 centimeters tall and is carved as an elephant head.",
+  "descriptions": {
+    "k": "This is a small tool for weaving. It was made in Côte d'Ivoire in West Africa. The top is carved like an elephant's head. Can you find the elephant's face? Why would someone carve a tool to look like an animal?",
+    "g12": "Weavers use a loom to make cloth. This small wooden part hung on a loom in Côte d'Ivoire. A Baule artist carved the top to look like an elephant's head. Even a tool can be art! What parts of the elephant can you find?",
+    "g35": "A heddle pulley is a small part that hangs from a loom, the frame weavers use to make cloth. A Baule artist in Côte d'Ivoire carved this one with an elephant's head on top. The tool still had to do its job, but the artist also made it beautiful. Look at the elephant's face. How does the carver turn a working tool into a small sculpture?",
+    "g68": "Weavers in Côte d'Ivoire make cloth on narrow looms, and a heddle pulley is the small part from which cords pass as the weaver works. Baule artists often carved these pulleys with animal or human heads, turning a working part into sculpture. Here the animal is an elephant. The museum record lists wood, pigment, and metal but does not tell us what the elephant meant to the carver, so we should treat any meaning as a question. Why might a maker decorate something that spends its time in motion at a loom?",
+    "g910": "This Baule heddle pulley shows how functional objects in many African societies were also sites for sculpture. The pulley had to hang from a loom and move cords, yet the carver gave it an elephant head, balancing practical demands with sculptural form. Records do not explain why this animal was chosen, so we can discuss associations such as size and strength as possibilities, not facts. The scale is small, about 15 centimeters, so every detail has to be carved with care. How does small scale intensify attention to craft?",
+    "g1112": "A heddle pulley is a minor loom part, which makes its sculptural treatment significant. Baule carvers elaborated these pulleys with heads, so that the labor of weaving was accompanied by small works of art, though the museum record offers no direct evidence about the meaning of this elephant. The pulley invites reflection on categories: it is a tool, a sculpture, and, in a museum, an art object, and each category sets different expectations. How does the effort to separate 'art' from 'craft' fail when we consider an object like this, and what is the cost of ignoring its working life?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the elephant on this tool? Point to its face.",
+      "emotion": "Does the elephant look friendly, strong, or something else? What shows you?",
+      "observation": "What can you find on this carved piece? Point to three parts.",
+      "analysis": "What do you look at first on this little carving? What do you look at next?",
+      "line": "Can you find a curved line on the elephant? Trace it in the air.",
+      "shape": "What shapes can you find in the elephant's head? Look for round and long shapes.",
+      "color": "What colors do you see on this tool? Which one do you see the most?",
+      "texture": "This tool is wood. How do you think it would feel in your hand?",
+      "space": "This is a very small tool. Can you show its size with your hands?",
+      "light": "Which parts of the carving look bright and which look dark?",
+      "meaning": "Why do you think the artist chose an elephant? Tell your idea.",
+      "culture": "A Baule artist in Côte d'Ivoire made this. What animals live near you, and which would you carve?",
+      "technique": "A carver used tools to shape this elephant from wood. What do you think was the hardest part?",
+      "personal": "What is your favorite animal? How would you carve it on a tool?",
+      "critical": "This tool was used for weaving. How can you tell it was also made to look nice?"
+    },
+    "g12": {
+      "daily": "What makes this weaving tool different from a plain one? Point to details.",
+      "emotion": "What feeling does the elephant carving give you? Show what makes you feel that way.",
+      "observation": "Describe three details you can find on the elephant head.",
+      "analysis": "How does the artist make the elephant part and the tool part fit together?",
+      "line": "Look for curved lines and straight lines. Where do you find each?",
+      "shape": "What simple shapes make up the elephant's head? How do they fit together?",
+      "color": "The tool has wood, color, and metal. How do they work together?",
+      "texture": "Which parts look smooth and which look carved? How might each feel?",
+      "space": "The tool is small, about as tall as a hand. Why might small details matter?",
+      "light": "Where would light touch the elephant's head first? Where might there be shadows?",
+      "meaning": "Why might a weaver like having a carved animal on a loom?",
+      "culture": "Baule artists in Côte d'Ivoire made beautiful tools. Why might people decorate everyday tools?",
+      "technique": "The carver shaped wood and added color and metal. Why might an artist use more than one material?",
+      "personal": "What tool or object at home looks special to you? What makes it special?",
+      "critical": "Is this tool art, a tool, or both? Give a reason."
+    },
+    "g35": {
+      "daily": "How does the carver turn a working tool into a small sculpture? Use details to explain.",
+      "emotion": "What mood does the elephant carving have? Which details create that mood?",
+      "observation": "Look for one quiet minute. Which small details of the carving did you miss at first?",
+      "analysis": "How does the carver combine the elephant head with the part that hangs from the loom?",
+      "line": "How do curved and straight lines shape the elephant's face and the tool?",
+      "shape": "Which parts of the elephant are rounded and which are narrow or pointed? How do they work together?",
+      "color": "The record lists wood, pigment, and metal. How might each material add to the look of the tool?",
+      "texture": "How might the surface of the wood change after years of use? What clues might you look for?",
+      "space": "This tool is only about 15 centimeters tall. How does small size change the way a carver works?",
+      "light": "How might light and shadow help show the shape of the carved head?",
+      "meaning": "The record does not say why an elephant was chosen. What ideas could you suggest, and why must we be careful?",
+      "culture": "Weaving is an important craft in Côte d'Ivoire. What does a decorated tool show about how people valued that craft?",
+      "technique": "A heddle pulley hangs from a loom so cords can run over it. Why might a carver want the part to be both sturdy and beautiful?",
+      "personal": "Think of a tool you use often. How would you decorate it?",
+      "critical": "This pulley is now in a museum, not on a loom. What can we still learn from it?"
+    },
+    "g68": {
+      "daily": "How does the elephant head change the way you see an ordinary loom part?",
+      "emotion": "What qualities, such as strength, calm, or humor, does the carved elephant express, and what evidence supports your answer?",
+      "observation": "Describe the form of the carving from top to bottom. What details are easy to overlook?",
+      "analysis": "How does the carver balance the needs of a working part with the expressive elephant head?",
+      "line": "How do lines and contours define the elephant, and which features are exaggerated or simplified?",
+      "shape": "How does the carver simplify the elephant's head into basic shapes, and what effect does that have?",
+      "color": "How do the pigment and metal add to the wood, and how do they change the way the elephant looks?",
+      "texture": "What do you think signs of wear on a working tool can tell us about how it was used?",
+      "space": "The carving is small, but it is a three-dimensional object. How would your view change if you could turn it in your hands?",
+      "light": "How would light from different directions reveal different features of the carving?",
+      "meaning": "How can we talk about the meaning of an animal image without making unsupported claims?",
+      "culture": "Why might communities invest artistry in tools used for weaving, and what does that suggest about the status of weavers?",
+      "technique": "How might a carver plan a small object that has to work as part of a loom?",
+      "personal": "How do you decorate or personalize things you use every day?",
+      "critical": "How does calling this object 'art' or 'tool' change the way we look at it?"
+    },
+    "g910": {
+      "daily": "How does the carved elephant head resolve the tension between practical function and sculptural expression?",
+      "emotion": "How does a small carved head create presence despite its size?",
+      "observation": "Describe the carving's hierarchy of forms. What does the carver emphasize, and how can you tell?",
+      "analysis": "Analyze how the head is integrated with the pulley's structure. Does the form feel attached or part of the whole?",
+      "line": "How do contours and incised details define the elephant, and how do they relate to the tool's overall outline?",
+      "shape": "How does the carver abstract or simplify the elephant's features, and what is gained by doing so?",
+      "color": "How do pigment and metal accents contrast with the wood, and how might they change over time?",
+      "texture": "How might handling and use alter the wood's surface, and how should that affect our reading of the carving?",
+      "space": "How does the small scale of this sculpture change the viewer's relation to it, compared with a large figure?",
+      "light": "How would raking light reveal details in the carving that frontal light might hide?",
+      "meaning": "What kinds of evidence would you need to say what the elephant meant to the carver or weaver?",
+      "culture": "How do carved loom parts reflect the relationship between craft and artistic expression in Baule society?",
+      "technique": "How does carving a small, functional object require both precision and an understanding of how the tool will be used?",
+      "personal": "Which objects in your own life are both functional and beautifully made, and how do they shape your sense of value?",
+      "critical": "How might the museum setting change our attention from the pulley's use to its sculptural form?"
+    },
+    "g1112": {
+      "daily": "What is lost when we view a heddle pulley only as sculpture, and what is gained?",
+      "emotion": "How does the carved head's small scale shape the intimacy of its emotional effect?",
+      "observation": "Describe the carving with precision. Where do you need information the museum record does not provide?",
+      "analysis": "Analyze the relation between the pulley's engineering requirements and its sculptural form.",
+      "line": "How does the carver's use of contour create character in so small a space?",
+      "shape": "How does the abstraction of the elephant's features connect to broader traditions of stylization in West African sculpture?",
+      "color": "How do the pigment and metal reflect the ways makers combined materials, and what might they tell us about access to resources?",
+      "texture": "How can wear and patina be read as evidence of use, and how does that complicate ideas about originality or pristine condition?",
+      "space": "How does a museum case, which fixes the viewer's distance, change how we encounter an object made to be handled and hung?",
+      "light": "How does lighting a small object in a museum case shape which aspects of the carving we notice?",
+      "meaning": "How should scholars handle animal imagery whose meaning for a specific maker is not recorded, without either dismissing or inventing it?",
+      "culture": "How does the elaboration of loom parts suggest relationships between technology, status, and aesthetics in textile production?",
+      "technique": "What does the integration of function and form suggest about the carver's knowledge of weaving and of sculpture?",
+      "personal": "How does your own experience of crafts or tools shape the way you value an object like this?",
+      "critical": "What does the category 'art' leave out when it is applied to objects that were made for work?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Heddle pulley with elephant head), classification (Wood-Implements), object name (Heddle pulley), medium (wood, pigment, metal), and tag (Elephants) checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Baule heddle pulley from Côte d'Ivoire, carved as an elephant head. Heddle pulleys hang from looms and guide the cords used in weaving. The record does not explain the elephant's meaning, so present any interpretation as a possibility.",
+    "vocabulary": [
+      "loom",
+      "heddle pulley",
+      "Baule",
+      "carving",
+      "function",
+      "sculpture"
+    ],
+    "directions": [
+      "Show a diagram or video of a narrow strip loom and ask students to find where a pulley might hang.",
+      "Ask students to design a decorated handle or tool part inspired by an animal, and explain how it must still work.",
+      "Discuss whether decorated tools should be called art, craft, or both, and who gets to decide."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-503385",
+  "day": "03-31",
+  "title": "Guitar",
+  "artist": "Matteo Sellas",
+  "date": "ca. 1630–50",
+  "medium": "Spruce, bone, parchment, snakewood, ivory",
+  "region": "Italy",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302553.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP302553.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Clara Mertens Bequest, in memory of André Mertens, 1990",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An old guitar with a small, rounded body and a long neck, shown upright. The body and neck carry fine decoration, and the sound hole appears to be filled with a pierced design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503385",
+    "objectId": "503385",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, culture, classification, dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "This guitar was made in Italy by Matteo Sellas around 1630–50, in the era of the Baroque guitar, which is smaller than a modern guitar. The Met lists spruce, bone, parchment, snakewood and ivory among its materials, and gives its height as about 96 cm (37 7/8 in.). Matteo Sellas is generally associated with Venice, though the record gives only Italy.",
+  "descriptions": {
+    "k": "This is an old guitar from Italy. It has a small round body and a long neck. Look for the fancy decoration! Bone and wood were used to make it. It is about as tall as a big dog. Can you spot the round hole in the middle?",
+    "g12": "This guitar is almost 400 years old. It was made in Italy. It is smaller than many guitars today, with a long neck and a rounded body. Tiny pieces of bone and other materials decorate it. Where do you see the fanciest parts?",
+    "g35": "Matteo Sellas made this guitar in Italy around 1630 to 1650. It is called a Baroque guitar, and it is smaller than a modern one. The Met lists spruce for the front, plus bone, parchment, snakewood and ivory. Look at the decoration around the sound hole and along the neck. Which details seem to be for playing, and which seem to be for beauty?",
+    "g68": "This guitar by Matteo Sellas, made in Italy around 1630–50, belongs to the early Baroque period, when guitars were smaller and had fewer strings than modern ones. Sellas is generally associated with Venice, though the Met's record names only Italy. The materials show a mix of practical wood and decorative inlays: spruce, snakewood, bone, parchment and ivory. How does the maker balance function and display in the way the body, neck and sound hole are treated?",
+    "g910": "Sellas's guitar of about 1630–50 shows how the Baroque guitar was both musical instrument and decorative object. Its form is smaller and slimmer than today's guitars, and the Met lists spruce, snakewood, bone, parchment and ivory, a combination that suggests inlaid ornament and a pierced sound hole decoration known as a rose. The precise design should be confirmed in the image. Think about how fine decoration signals the skill of a maker and the status of a player.",
+    "g1112": "Attributed to Matteo Sellas and dated ca. 1630–50, this Baroque guitar sits at the meeting point of musical function, craft and luxury. The record lists spruce, snakewood, bone, parchment and ivory, and its slim proportions differ from the modern guitar. Guitars like this one belonged to a culture in which instruments could signal taste and wealth, but how this specific guitar was used is not documented in the record. The object also raises questions about the use of ivory and other animal materials, and about how museums discuss them today."
+  },
+  "questions": {
+    "k": {
+      "daily": "This guitar is very old and has tiny decorations. Which part of it do you like best?",
+      "emotion": "Does this guitar look plain or fancy? What do you see that makes you say so?",
+      "observation": "Find the round body, the long neck and the round hole. Can you point to each one?",
+      "analysis": "Where do your eyes look first on the guitar? Where do they go next?",
+      "line": "Can you find a long line going up the neck? Trace it in the air.",
+      "shape": "What shapes do you see in the body and the round hole?",
+      "color": "What colors do you see in the wood and the decoration?",
+      "texture": "If you could touch the guitar, which parts would feel smooth? Which parts might feel bumpy?",
+      "space": "There is a hole in the front of the guitar. What do you think is inside?",
+      "light": "Where does the guitar look light, and where does it look dark?",
+      "meaning": "Who do you think played this guitar long ago? Tell a little story.",
+      "culture": "This guitar comes from Italy. What other things do you know from Italy?",
+      "technique": "A maker built this guitar from wood and bone by hand. Which part do you think took the longest?",
+      "personal": "If you could play a song on this old guitar, what song would you pick?",
+      "critical": "This guitar is old and fancy. Do you think it was for playing, for looking at, or both? Why?"
+    },
+    "g12": {
+      "daily": "Look for tiny decorations on this guitar. Where did the maker spend the most time making patterns?",
+      "emotion": "What feeling does this old guitar give you, quiet, fancy, or something else? Point to what makes you feel that way.",
+      "observation": "Describe the body, the neck and the round hole. What do you notice about the details on each?",
+      "analysis": "How do the neck and body fit together to make one shape?",
+      "line": "Find thin lines and thick lines on the guitar. Where are they, and what do they do?",
+      "shape": "The guitar has a small body and a long neck. How is that different from a modern guitar you know?",
+      "color": "The record lists many materials. Which ones can you tell apart by color?",
+      "texture": "Some parts look smooth and some look decorated. Where do you notice the difference?",
+      "space": "The body is hollow and the hole lets sound out. Why do you think an instrument is hollow?",
+      "light": "Look for shiny and dull spots. Which part of the guitar seems to glow?",
+      "meaning": "Why might someone want a guitar with beautiful decoration and not a plain one?",
+      "culture": "This guitar was made in Italy almost 400 years ago. What can the decoration tell you about the people who liked it?",
+      "technique": "The maker used wood, bone and other materials. Why might a maker use more than one kind of material?",
+      "personal": "If you had a special instrument, how would you decorate it?",
+      "critical": "Which is more important in a guitar, the way it looks or the way it plays? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "Look closely at the decoration around the sound hole and neck. How does it show that this guitar was made with great care?",
+      "emotion": "What mood does this delicate old instrument give you, and which details cause it?",
+      "observation": "Describe the guitar from the top of the neck down to the bottom of the body. What details do you find at each part?",
+      "analysis": "How do the neck, body and sound hole create balance in the design?",
+      "line": "The decorated lines look fine and detailed. How do they contrast with the long, simple line of the neck?",
+      "shape": "This Baroque guitar is smaller and narrower than modern ones. How does its shape feel different?",
+      "color": "The materials include dark snakewood and lighter bone and spruce. How do light and dark parts work together?",
+      "texture": "The record lists parchment, bone, wood and ivory. Which of these might create a fine, detailed texture?",
+      "space": "The sound hole opens the guitar's hollow inside. How does it make you think about the space within?",
+      "light": "How does light help you see the fine decorated parts of the guitar?",
+      "meaning": "Why might a wealthy person in the 1600s have wanted a guitar that was also a work of art?",
+      "culture": "Guitars like this one were popular in Europe in the 1600s. What does this one tell you about the importance of music then?",
+      "technique": "A maker had to cut tiny pieces of bone and wood to fit exactly. What skills might that require?",
+      "personal": "Do you have something you care for because it is both useful and beautiful? Describe it.",
+      "critical": "The record lists ivory among the materials. How might people today think about that material differently from people in the 1600s?"
+    },
+    "g68": {
+      "daily": "How does Sellas balance practical design and decoration in this guitar? Find two details that show each.",
+      "emotion": "What tone does the combination of fine decoration and slim shape create? Support your answer with evidence.",
+      "observation": "List the parts of the guitar from top to bottom before you interpret any of them. Which details are easiest to miss?",
+      "analysis": "How does the decoration lead your eye along the guitar, and where does it concentrate it?",
+      "line": "Compare fine decorative lines with the strong straight line of the neck. How do they create rhythm?",
+      "shape": "The body is small and the neck is long. How does that proportion affect the guitar's overall silhouette?",
+      "color": "The materials vary in color and tone. How does contrast between them make details stand out?",
+      "texture": "Wood, bone and parchment each have a different surface. How might they give the guitar depth and richness?",
+      "space": "The sound hole is a visible opening into hidden space. Why might that opening be a focus of decoration?",
+      "light": "How does lighting on a decorated instrument change what you notice first?",
+      "meaning": "What might this guitar have signaled about its owner in the 1600s? Why should we be careful about stating one answer?",
+      "culture": "How does a smaller Baroque guitar show that musical taste and instrument design change across time?",
+      "technique": "Compare making plain wood parts with making inlaid decoration. What additional skills does decoration require?",
+      "personal": "Think about an object you value for its looks. How do you decide when decoration matters?",
+      "critical": "How do you think a museum should discuss animal materials, such as ivory, used in historical objects?"
+    },
+    "g910": {
+      "daily": "How do the ornamental details of this guitar suggest that it was meant to be seen as well as heard?",
+      "emotion": "What atmosphere do the delicacy and detail create, and how does the instrument's age shape your response?",
+      "observation": "Identify the visual hierarchy of the guitar: which details dominate and which recede?",
+      "analysis": "How does the layout of the body, sound hole and neck structure the viewer's path through the object?",
+      "line": "How does the interplay of precise fine lines and the long clear neck create visual order?",
+      "shape": "How do the proportions of a Baroque guitar differ from your expectations of a guitar, and what do they suggest about its use?",
+      "color": "How does the contrast of dark and light materials add emphasis and richness to the instrument?",
+      "texture": "How might the mixture of wood, bone, parchment and other materials produce a layered surface?",
+      "space": "How does the sound hole function as both acoustic opening and visual focal point?",
+      "light": "How might reflected light on polished or inlaid surfaces change the way this guitar appears in a gallery?",
+      "meaning": "What can a decorated instrument communicate about taste, status and identity, and where do the limits of that interpretation lie?",
+      "culture": "How did Italian makers contribute to Baroque instrument making, and why is the guitar a good example of cross-cultural exchange in Europe?",
+      "technique": "How might inlay and pierced decoration challenge a maker whose instrument must also resonate?",
+      "personal": "When have you chosen something for how it looks even though plainer versions would work just as well?",
+      "critical": "How do the materials listed in the record, including ivory and snakewood, shape our ethical and historical reading of this object?"
+    },
+    "g1112": {
+      "daily": "How does the construction and ornament of this Baroque guitar complicate the boundary between musical instrument and luxury object?",
+      "emotion": "How does the guitar's fine detail invite intimacy, and what do we risk assuming about the experience of its early players?",
+      "observation": "Separate what the image shows from what the record states. Which details of the guitar require outside confirmation?",
+      "analysis": "How do structure, ornament and materials interrelate to give this guitar a unified design?",
+      "line": "How do fine surface patterns and the structural lines of the neck and body express different priorities?",
+      "shape": "How do the proportions of the instrument reflect the musical practices for which it was made, and what remains uncertain?",
+      "color": "How does contrast among materials communicate craft skill and perhaps status, and what other readings are possible?",
+      "texture": "How does the combination of natural and worked materials complicate the idea of a single surface quality?",
+      "space": "How does the relation between the visible rose-like opening and the hidden interior reflect the paradox of displaying a sounding object?",
+      "light": "How does photographic lighting shape our impression of an instrument's condition and age?",
+      "meaning": "How does the instrument's context in the 1600s, including audience and patron, shape how we interpret its decoration?",
+      "culture": "What does the guitar reveal about Italian craftsmanship and the broader European circulation of musical taste?",
+      "technique": "What technical trade-offs exist between decoration and acoustics in instruments of this kind?",
+      "personal": "How does your own relation to music and objects influence how you value a historical instrument?",
+      "critical": "How should museums address the use of ivory in historical instruments while still explaining their significance?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Lute-plucked-fretted), medium (includes ivory, noted neutrally), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Baroque guitar by Matteo Sellas, made in Italy around 1630–50. The record lists ivory among its materials, which can open a discussion of historical materials and how museums address them. Details of its decoration should be described only from what students can see in the image.",
+    "vocabulary": ["Baroque guitar", "inlay", "sound hole", "parchment", "fretted instrument", "maker"],
+    "directions": [
+      "Compare this guitar with a modern one: what proportions and parts are the same or different?",
+      "Sketch the decoration around the sound hole and discuss how it could have been made.",
+      "Discuss how people's attitudes toward materials like ivory have changed."
+    ]
+  }
+}

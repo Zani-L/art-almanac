@@ -1,0 +1,159 @@
+{
+  "id": "met-436658",
+  "day": "06-27",
+  "title": "Hermann von Wedigh III (died 1560)",
+  "artist": "Hans Holbein the Younger",
+  "date": "1532",
+  "medium": "Oil and gold on oak",
+  "movement": "Northern Renaissance",
+  "region": "England (artist born in Germany)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164836.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP164836.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Edward S. Harkness, 1940",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A young man stands behind a table covered in green cloth, resting his arm on it. A book with a slip of paper tucked inside lies before him, and gold lettering appears in the background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436658",
+    "objectId": "436658",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page description"
+  },
+  "context": "An oil portrait by Hans Holbein the Younger, dated 1532, painted when the German-born artist was working in England. The sitter is thought to be Hermann von Wedigh III, a merchant from a prominent Cologne family. The Met notes that the attribution to Holbein has never been questioned.",
+  "descriptions": {
+    "k": "A young man stands at a table. A book lies in front of him with a paper tucked inside. Gold letters shine in the background. What do you think he is like?",
+    "g12": "Hans Holbein painted this young man in 1532. He rests his arm on a table with a book and a paper slipped inside it. There is gold writing behind him. The writing is in Latin, an old language. What can you tell about him from the things around him?",
+    "g35": "Hans Holbein the Younger painted this portrait in 1532. The young man is thought to be Hermann von Wedigh, a merchant from Cologne in Germany who worked in London. A book, a slip of paper, and gold lettering give clues about him. The paper quotes an ancient Roman writer on how truth can win hate. What objects would you put in your own portrait to show who you are?",
+    "g68": "Holbein, born in Germany, painted this portrait in 1532 while working in England. The sitter, probably the merchant Hermann von Wedigh III, rests his arm on a green-covered table with a book, a paper, and a ring bearing his family arms. The paper quotes the Roman playwright Terence: flattery produces friends, truth hatred. Gold lettering appears in the background, and the initials on the book name the artist. How do the objects and words build a portrait of his identity?",
+    "g910": "Holbein's portrait of 1532 is full of text as well as image: a quotation from Terence on the paper, a gold inscription, an illusionistic name on the book, and the initials H.H. identifying the painter. The sitter, probably the Cologne merchant Hermann von Wedigh III, stands behind a green-covered table with a humanist book and a signet ring bearing a family coat of arms. The Met calls the portrait formal, yet it hints at introspection. Consider how words, objects, and gaze together construct a sense of identity and character.",
+    "g1112": "Holbein's Hermann von Wedigh III combines precise likeness with an unusual density of inscriptions. The paper in the book quotes Terence on flattery and truth, which scholars connect, in one reading offered by the Met, to the dangers of speaking truth at the Tudor court. A signet ring with the family arms, the book, and gold lettering position the sitter within a world of trade, learning, and status. The identification of the sitter, based on the date and his stated age, is probable but not certain, and how much the Terence quotation reveals about his own views is open to debate."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this young man is like? What do you see that tells you?",
+      "emotion": "Does he look friendly, serious, or something else? Why do you think so?",
+      "observation": "Find the man, the book, and the gold writing. Point to each one.",
+      "analysis": "Look at his face, then the book. Which one do you want to look at longer?",
+      "line": "Can you find straight lines in the table and the book? Trace one in the air.",
+      "shape": "What shapes do you see? Look at the table, the book, and the paper.",
+      "color": "What color is the table cloth? How does it look next to the man?",
+      "texture": "How would the green cloth feel to touch? How would the book feel?",
+      "space": "What is closer to you, the table or the man? How can you tell?",
+      "light": "Is his face bright or in shadow? Point to the lightest part.",
+      "meaning": "The paper in the book has words on it. What words would you put on a paper in your portrait?",
+      "culture": "This man lived long ago and far away. What things in the picture are like things we use today?",
+      "technique": "The painter used gold paint for the letters. What else in a picture could you make with gold?",
+      "personal": "What things would you put in a picture to show who you are?",
+      "critical": "Why might a person pay a painter to make a picture of him?"
+    },
+    "g12": {
+      "daily": "What do the objects in this picture tell you about the man? Point to them.",
+      "emotion": "What feeling do you get from his face and the way he stands? What parts help you feel that?",
+      "observation": "Describe five things you see on and around the table.",
+      "analysis": "How does the painter make you look at the man's face first?",
+      "line": "Find straight lines and curved lines. How do they make the picture feel steady?",
+      "shape": "Look at the shapes of the table, book, and paper. How do they fit together?",
+      "color": "The table is green. How does the green help you notice the man?",
+      "texture": "Which things look soft and which look hard? How can you tell?",
+      "space": "How does the table help us feel that he is standing right in front of us?",
+      "light": "Where does the light seem to come from? What does it show best?",
+      "meaning": "There is a paper tucked in the book with words from a Roman writer. Why might he want to show that?",
+      "culture": "The man was a merchant from Germany who lived in London. Why might a traveler want a portrait?",
+      "technique": "Holbein painted tiny details like letters and a ring. How do you think he made them so small?",
+      "personal": "If you could put one favorite book in your portrait, which would it be?",
+      "critical": "Is the man more interesting for his face or his things? What do you think?"
+    },
+    "g35": {
+      "daily": "What do the book, the paper, the ring, and the gold writing tell us about this man?",
+      "emotion": "What mood does the portrait create? Which details, like his pose or expression, add to it?",
+      "observation": "Take one minute of silent looking. What tiny details do you notice in the book, ring, and writing?",
+      "analysis": "How does Holbein arrange the man, the table, and the background to make him look important?",
+      "line": "How do the straight edges of the table and book compare with the soft lines of his face?",
+      "shape": "How do the shapes of the table and book frame the man's body and arm?",
+      "color": "How does the green cloth contrast with the man and the background? What does it help you notice?",
+      "texture": "How does Holbein show the difference between skin, cloth, paper, and gold?",
+      "space": "How does the table in front make the space feel close and private?",
+      "light": "How does light help make the face and hand look rounded and real?",
+      "meaning": "The paper quotes a Roman writer about truth and flattery. What might this tell us about what the man valued?",
+      "culture": "Merchants like Hermann von Wedigh worked far from home and traded goods. Why might they want portraits that show their family and learning?",
+      "technique": "Holbein used oil paint on oak and added gold. How might gold make the lettering stand out?",
+      "personal": "Which words or objects would you choose to show what matters to you in a portrait?",
+      "critical": "Can an object in a portrait lie? How would you decide whether it really shows who the man was?"
+    },
+    "g68": {
+      "daily": "How do the book, paper, ring, and inscriptions work together to tell us who this man was and how he wanted to be seen?",
+      "emotion": "Is the man's expression proud, thoughtful, or guarded? Support your view with visual evidence.",
+      "observation": "Catalog the objects and the text in the portrait. Which seem most carefully placed?",
+      "analysis": "How does the composition place the sitter's face, hand, and table to create a stable, formal portrait?",
+      "line": "How do the strong horizontal of the table and vertical of the figure create stability?",
+      "shape": "How do the rectangles of the book and table frame the rounder shapes of the face and hand?",
+      "color": "How does the green table cloth contrast with the other colors and focus attention?",
+      "texture": "How does Holbein distinguish skin, fabric, and a ring using small changes in highlight and tone?",
+      "space": "How does the shallow space between the sitter and viewer create both distance and presence?",
+      "light": "How does the light shape the sitter's face and give him a sense of weight and reality?",
+      "meaning": "Terence wrote that flattery makes friends and truth makes hatred. Why might a sitter choose to display that line?",
+      "culture": "What can the signet ring and the book tell us about the sitter's place in a trading and learned world?",
+      "technique": "Holbein included the sitter's name and the artist's initials as painted letters. Why might a painter add such details?",
+      "personal": "How do you decide what to show or hide when someone takes your picture?",
+      "critical": "How reliable is a portrait that the sitter paid for? What might he have wanted us to see?"
+    },
+    "g910": {
+      "daily": "How do image and inscription together construct the sitter's identity in this portrait?",
+      "emotion": "How does Holbein combine formality with a sense of inwardness in the sitter's expression?",
+      "observation": "Describe the visual hierarchy. What do you notice first, second, and third, and how does the painter produce that order?",
+      "analysis": "Analyze how the arrangement of figure, table, book, and background creates balance and focus.",
+      "line": "How does the precise contour of face, hand, and book reflect Holbein's reputation for exactness?",
+      "shape": "How do the geometric forms of the table and book frame the human forms?",
+      "color": "How does the strong green of the table cloth anchor the palette and affect the sitter's visibility?",
+      "texture": "How does Holbein's handling of oil let him distinguish materials from gold to skin to paper?",
+      "space": "How does the shallow arrangement make the portrait feel both formal and intimate?",
+      "light": "How does consistent light maintain clarity of detail across the picture?",
+      "meaning": "The Met notes a link between the Terence quotation and the dangers of the Tudor court. How persuasive is that reading, and what would challenge it?",
+      "culture": "How does the portrait reflect the identities of German merchants in London in the 1530s?",
+      "technique": "What does the combination of oil, gold, and illusionistic lettering say about the painter's technical ambition?",
+      "personal": "How do the choices you make about what to show online resemble the sitter's choices in this portrait?",
+      "critical": "Given that the sitter's identification rests on date and age, how confident should we be that he is Hermann von Wedigh III?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the portrait about how the sitter wished to be seen, and what remains uncertain?",
+      "emotion": "How does the portrait balance public display and private reflection? What risks arise in reading the sitter's inner life from a painted face?",
+      "observation": "Describe the portrait's construction precisely before interpreting. Where does description already become interpretation?",
+      "analysis": "Analyze how Holbein integrates text and image so that words function as part of the composition.",
+      "line": "How does Holbein's linear precision relate to the portrait's claim to truthfulness?",
+      "shape": "How do the rectilinear forms of table and book structure the painting and set off the sitter's presence?",
+      "color": "How might the age and condition of the painting affect our reading of its color relationships?",
+      "texture": "How does the rendering of diverse materials contribute to the portrait's air of authority?",
+      "space": "How does the shallow, enclosed space position the viewer in relation to the sitter?",
+      "light": "How does evenly distributed light serve the portrait's descriptive and documentary aims?",
+      "meaning": "Evaluate the idea that the Terence quotation expresses the sitter's values, the painter's, or a general humanist motto. What evidence would help?",
+      "culture": "How does the portrait show the circulation of humanist learning and mercantile networks across northern Europe?",
+      "technique": "What does the use of illusionistic inscriptions suggest about the relationship between portraiture and authorship?",
+      "personal": "How do your own assumptions about honesty and flattery shape your reading of the quotation?",
+      "critical": "How do we weigh a portrait as evidence of a person's character when the sitter paid for and approved it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Men, Portraits, Latin) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Dated 1532, when Holbein was working in England. The Met describes the sitter as probably Hermann von Wedigh III, a Cologne merchant working in London, and notes the Terence quotation on the paper in the book.",
+    "vocabulary": [
+      "portrait",
+      "inscription",
+      "humanist",
+      "signet ring",
+      "coat of arms",
+      "oil and gold"
+    ],
+    "directions": [
+      "Have students list the objects in the portrait and say what each might reveal about the sitter.",
+      "Ask students to design a portrait of themselves using three objects and one short quotation.",
+      "Discuss how a portrait made for the sitter might differ from a candid photograph."
+    ]
+  }
+}

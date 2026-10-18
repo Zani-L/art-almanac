@@ -1,0 +1,157 @@
+{
+  "id": "artic-94240",
+  "day": "12-19",
+  "title": "Flowers: Poppies and Daisies",
+  "artist": "Odilon Redon",
+  "date": "c. 1867",
+  "medium": "Oil on cardboard",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/d424c734-f5c1-5f89-3bb8-d83e4e0287e3/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Bequest of Mrs. Clive Runnells",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small still life of poppies and daisies, painted in strong reds, yellows, whites and blacks against a dark background.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/94240",
+    "objectId": "94240",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1840-1916), date (c. 1867), place of origin (France), medium (oil on cardboard), dimensions (19 x 23.5 cm), credit line, subject terms (still life, plants, flowers, poppies, daisies, red, black, white, yellow), exhibition history (shown under the title Coquelicots & Marguerites), is_public_domain true and image_id read from the record. The record has no description text."
+  },
+  "context": "A small oil painting on cardboard made around 1867 by the French artist Odilon Redon. The Art Institute's record lists poppies and daisies, with red, black, white and yellow, as subjects, and its exhibition history shows the work was once shown under the French title Coquelicots & Marguerites. The record gives no further description.",
+  "descriptions": {
+    "k": "Look at the flowers! There are red poppies and white daisies. A little yellow shines too. The paint is thick and bright. The picture is small. Can you find a poppy? Can you find a daisy?",
+    "g12": "Odilon Redon painted a small bouquet of poppies and daisies. The poppies are bright red and the daisies are white with yellow centers. The background is dark so the flowers glow. Which flower do you see first? How does the paint make them look soft?",
+    "g35": "Odilon Redon painted this small bouquet around 1867 on cardboard, a surface that is only about 7 by 9 inches. The museum lists poppies, daisies, and the colors red, black, white, and yellow. Redon later became famous for dreamy, mysterious art. Look at how the bright flowers glow. Why might a dark background make colors seem stronger?",
+    "g68": "Redon painted this still life of poppies and daisies around 1867, on a small piece of cardboard about 7 by 9 inches. The Art Institute lists red, black, white, and yellow among its subjects and notes that it was once exhibited as Coquelicots & Marguerites. Redon would later be known for imaginative, dreamlike works. How do bold color and loose handling make simple flowers feel alive? What does a small format change about how you look?",
+    "g910": "This small oil on cardboard (c. 1867) shows poppies and daisies in strong red, yellow, white, and black. Though Redon later became known for visionary, dreamlike imagery, here he studies flowers with direct color and paint. The museum record offers no description, only subjects and exhibition history, including the French title Coquelicots & Marguerites. How does contrast between vivid blossoms and dark ground create impact, and what can a modest study reveal about an artist's range?",
+    "g1112": "Redon's c. 1867 flower study on cardboard predates the symbolist imagery for which he is best known. The Art Institute lists poppies, daisies, and red, black, white and yellow, and records exhibitions under the title Coquelicots & Marguerites. The record offers no interpretation. Does this intimate, small-scale still life anticipate Redon's later preoccupation with color and mystery, or should it be understood on its own terms? What visual evidence supports each reading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a red poppy and a white daisy. Where are they?",
+      "emotion": "Do the flowers feel happy, calm, or strong? What colors tell you?",
+      "observation": "Point to red, yellow, white, and black. Which is the brightest?",
+      "analysis": "Which flower is biggest? Which is smallest?",
+      "line": "Find a stem. Does it go straight or curve?",
+      "shape": "Look at the flower shapes. Which are round and which have little petals?",
+      "color": "Which color pops out the most against the dark background?",
+      "texture": "The paint looks thick and soft. How would a petal feel?",
+      "space": "Which flowers are in front and which are behind?",
+      "light": "Where does the light touch the flowers?",
+      "meaning": "If these flowers were in a garden, what might visit them?",
+      "culture": "Poppies and daisies grow in fields. Where have you seen wildflowers?",
+      "technique": "This painting is small, like a card. How would you paint a tiny bouquet?",
+      "personal": "Which flower would you pick for a friend?",
+      "critical": "The painting was once called Coquelicots et Marguerites. What name would you give it?"
+    },
+    "g12": {
+      "daily": "Look closely at one poppy and one daisy. What do you notice about their shapes and colors?",
+      "emotion": "How do the bright flowers against the dark background make you feel?",
+      "observation": "List the colors you see and which flowers they belong to.",
+      "analysis": "How does the painter arrange the flowers so they look like a bouquet?",
+      "line": "Find curved lines in the stems and petals. How do they move?",
+      "shape": "How are the shapes of a poppy and a daisy different?",
+      "color": "The red poppies and white daisies stand next to each other. What happens to each color?",
+      "texture": "The paint looks thick in places. How does that change how the petals look?",
+      "space": "How can you tell some flowers are closer to you?",
+      "light": "Where do the flowers seem to glow, and where is it dark?",
+      "meaning": "Why do you think the painter chose poppies and daisies?",
+      "culture": "The painter was from France. What flowers grow in your area?",
+      "technique": "The painting is on cardboard instead of canvas. How might that feel different?",
+      "personal": "If you could paint a bouquet, which flowers would you choose?",
+      "critical": "Why might a painter paint a small picture of flowers?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this bouquet, and what choices by Redon guide them?",
+      "emotion": "What mood do the bright flowers and dark background create? Use details as evidence.",
+      "observation": "Look slowly. What small touches of color did you notice late?",
+      "analysis": "How does Redon arrange the flowers so some stand out and others support them?",
+      "line": "How do the curves of stems and petals create movement in the picture?",
+      "shape": "How do the shapes of poppy petals differ from the daisy petals?",
+      "color": "Red, yellow, white, and black are the main colors. How does each one affect the mood?",
+      "texture": "How does the thickness of the paint make the petals look soft or fluffy?",
+      "space": "How does the painter show which flowers are closer and which are farther back?",
+      "light": "How does a dark background make the light colors seem brighter?",
+      "meaning": "Redon later painted dreamy, mysterious pictures. What looks a little dreamy or mysterious about these flowers?",
+      "culture": "The painting was shown in Paris under a French title. Why might titles change in different languages?",
+      "technique": "Redon painted on cardboard. What might be good or difficult about that surface?",
+      "personal": "Think of a flower you love. How would you paint it so it glows?",
+      "critical": "The museum gives no explanation. What can you learn only by looking?"
+    },
+    "g68": {
+      "daily": "How does the strong contrast between vivid flowers and dark ground shape your impression of the bouquet?",
+      "emotion": "How do saturated reds and yellows create a mood of energy or warmth?",
+      "observation": "What can you identify as poppies and daisies, and what is only suggested? Separate evidence from guess.",
+      "analysis": "How does Redon organize the bouquet so the eye moves from one bloom to another?",
+      "line": "How do the curves of stems and petals lead the eye?",
+      "shape": "How does Redon simplify the forms of the flowers while keeping them recognizable?",
+      "color": "How does limiting the palette to red, yellow, white, and black affect the painting?",
+      "texture": "How does thick or thin paint make the flowers feel different from the background?",
+      "space": "How does the dark background make the space feel close and shallow?",
+      "light": "How does the painting create glow without strong shadows?",
+      "meaning": "The museum lists only subjects and colors. What might a still life of simple flowers mean, and what must remain uncertain?",
+      "culture": "How does a small, early work like this connect to the imaginative art Redon later became known for?",
+      "technique": "Why might an artist paint small studies such as this one?",
+      "personal": "How does your own response to flowers influence how you read the picture?",
+      "critical": "How would you decide if a painting of flowers is just a picture of flowers or something more?"
+    },
+    "g910": {
+      "daily": "How do Redon's choices of color, contrast, and scale shape your first interpretation of this bouquet?",
+      "emotion": "How does the intensity of reds and yellows against deep darkness create an emotional atmosphere?",
+      "observation": "Describe the bouquet using only what you can see, then note what the museum record adds.",
+      "analysis": "Analyze the visual hierarchy: which blooms or colors lead the eye, and how is the arrangement balanced?",
+      "line": "How do curving stems and petals create rhythm across the small surface?",
+      "shape": "How does Redon use simplified shapes to convey flower forms?",
+      "color": "How does the palette of red, black, white, and yellow generate vibrancy and depth?",
+      "texture": "In what ways does the application of paint on cardboard affect texture and absorption?",
+      "space": "How does the dark ground flatten space and isolate the flowers?",
+      "light": "How does light seem to emerge from color rather than from a clear source?",
+      "meaning": "What does the museum's silence on meaning allow you to argue, and what claims would be too speculative?",
+      "culture": "How does this early work relate to the visionary tendencies of Redon's later art?",
+      "technique": "How does the exhibition under the French title Coquelicots & Marguerites inform your sense of how the work was first understood?",
+      "personal": "How does your reaction to a small, intimate painting compare with large dramatic works?",
+      "critical": "To what extent can a still life of flowers express personality or imagination?"
+    },
+    "g1112": {
+      "daily": "What argument about color, perception, or the still-life tradition can you make from the formal evidence of this small painting?",
+      "emotion": "How does the density of color against darkness complicate any single emotional reading?",
+      "observation": "Describe the painting precisely, then identify which statements rely on Redon's later reputation rather than the image.",
+      "analysis": "Analyze how a compact arrangement of blooms generates tension between order and spontaneity.",
+      "line": "How does contour yield to patches of color in defining petals and stems?",
+      "shape": "Consider how the reduction of forms functions between description and abstraction.",
+      "color": "How does the high-key palette against dark ground create an almost theatrical illumination?",
+      "texture": "How does the material of cardboard, paint thickness, and visible handling contribute to the painting's intimacy?",
+      "space": "How does the shallow, dark space isolate the bouquet and heighten its presence?",
+      "light": "Discuss how glow is produced by contrast and hue rather than by modeled light.",
+      "meaning": "Evaluate whether this work should be read as an early step toward Redon's imaginative art or as an independent study, weighing evidence.",
+      "culture": "How does the persistence of floral subjects in Redon's career affect how we read this early example?",
+      "technique": "How does the work's modest scale challenge assumptions about ambition and importance?",
+      "personal": "How do your own associations with poppies and daisies shape your interpretation?",
+      "critical": "What additional sources would help you judge the intent behind this small painting?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (still life, plants, flowers, poppies, daisies, red, black, white, yellow), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small oil on cardboard from around 1867 by Odilon Redon. The Art Institute lists poppies, daisies, and the colors red, black, white and yellow, and records exhibitions under the title Coquelicots & Marguerites. The record has no description.",
+    "vocabulary": [
+      "still life",
+      "contrast",
+      "palette",
+      "oil on cardboard",
+      "bouquet",
+      "high-key color"
+    ],
+    "directions": [
+      "Have students paint a small bouquet on dark paper and compare how colors glow against it versus against white.",
+      "Ask students to give the painting a title in another language they know or look up, and discuss what stays the same.",
+      "Discuss how a small painting can feel as important as a large one."
+    ]
+  }
+}

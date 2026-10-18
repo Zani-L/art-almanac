@@ -1,0 +1,159 @@
+{
+  "id": "met-49143",
+  "day": "11-09",
+  "title": "Birds in a lotus pond",
+  "artist": "Bada Shanren (Zhu Da)",
+  "date": "ca. 1690",
+  "medium": "Handscroll; ink on satin",
+  "movement": "Qing dynasty painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP205836_CRD.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP205836_CRD.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of John M. Crawford Jr., 1988",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long Chinese handscroll painted in black ink on satin. It shows birds in a pond with lotus plants, drawn with fluid, expressive brushstrokes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/49143",
+    "objectId": "49143",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, classification (Paintings), culture (China), tag (Birds), and image URLs read from the record"
+  },
+  "context": "A handscroll in ink on satin by Bada Shanren, also known as Zhu Da, made around 1690. He is remembered as one of the most original painters of early Qing China, known for birds, fish, and flowers drawn with very few, expressive brushstrokes.",
+  "descriptions": {
+    "k": "This long painting shows birds near a pond with lotus plants. It is made only with black ink. The brush strokes are loose and quick. Can you find a bird? What do you think it is looking at?",
+    "g12": "Bada Shanren painted this long scroll in China about 330 years ago. Birds sit near a pond with lotus plants. He used only black ink, but the strokes can look dark, soft, or wet. Where do you see thick lines and thin lines? How do the birds seem to feel?",
+    "g35": "Bada Shanren, also called Zhu Da, painted this handscroll around 1690 using only ink on satin. Birds and lotus plants share the scroll, drawn with bold, simple brush strokes. A handscroll is unrolled slowly, so you see only part at a time. Look at how thick and thin ink lines make birds and leaves. How can black ink alone create so much life?",
+    "g68": "Bada Shanren was a painter of early Qing China whose birds and plants are known for a bold, personal style. In this handscroll of about 1690, ink on satin creates shapes with a few confident strokes, and empty space matters as much as painted areas. Scholars often note that his birds have a distinctive, sometimes guarded look. How do ink tones, simple shapes, and space combine to give the birds character?",
+    "g910": "In Birds in a lotus pond, Bada Shanren uses spare, expressive ink on satin to turn a familiar subject into a distinctive personal statement. The handscroll's format encourages gradual viewing, while contrasts of wet and dry ink, bold and fine line, and filled and empty space create rhythm. His life story, as a former member of the fallen Ming royal family who became a monk and painter, has often shaped readings, but the painting should be weighed on its own visible evidence.",
+    "g1112": "Bada Shanren's handscroll of about 1690 exemplifies a calligraphic approach to painting, in which brush economy and ink tonality carry expression. Interpretations of his birds and plants have often drawn on his biography as a Ming descendant who lived through dynastic change, yet such readings are debated and can risk reducing the work to autobiography. The satin support and ink-only palette add material specificity. What can the visible brushwork, composition, and use of space support, and where does speculation begin?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find a bird? What do you think it is looking at?",
+      "emotion": "Do the birds look sleepy, grumpy, or curious? Show with your face.",
+      "observation": "Find the lotus plants and the birds. Where is each one?",
+      "analysis": "What do your eyes see first on the scroll? Why?",
+      "line": "Find a thick black line and a thin line. Can you draw each one in the air?",
+      "shape": "Lotus leaves are big and round. Where do you find round shapes on the scroll?",
+      "color": "This painting uses black ink. Where does the ink look dark? Where does it look gray?",
+      "texture": "The ink was put on smooth satin. How do you think the brush felt as it moved?",
+      "space": "Is there a lot of empty space on the scroll? How does it make you feel?",
+      "light": "Which parts of the painting look lighter and which look darker?",
+      "meaning": "Make up a story about the birds by the pond.",
+      "culture": "Lotus plants grow in ponds in China. What plants grow near water where you live?",
+      "technique": "The artist painted with just a brush and black ink. What can one color do?",
+      "personal": "Where do you like to sit quietly and watch birds or animals?",
+      "critical": "The scroll is very long. Why might the artist choose a long shape?"
+    },
+    "g12": {
+      "daily": "How does the artist make birds feel alive with only black ink?",
+      "emotion": "What feeling do the birds and the quiet pond give you?",
+      "observation": "Describe two birds and one lotus plant using words about line and shape.",
+      "analysis": "How do the ink shapes lead your eyes along the scroll?",
+      "line": "Where do you see strong, thick strokes and where do you see light, thin ones?",
+      "shape": "Which shapes are simple and round? Which are long and curved?",
+      "color": "There is only black ink. How does the artist make some places darker than others?",
+      "texture": "Where does the ink look wet and soft? Where does it look dry and rough?",
+      "space": "How does empty space on the scroll help you look at the birds?",
+      "light": "Which parts of the scroll seem to glow because they are left light?",
+      "meaning": "Why might an artist paint birds that look a little serious or shy?",
+      "culture": "A handscroll is unrolled slowly. How is that different from looking at a poster?",
+      "technique": "The artist painted with ink on satin. Why might smooth satin change how the brush moves?",
+      "personal": "If you painted only with black ink, what animal would you paint?",
+      "critical": "Does the picture look like real birds or a special style? Give a reason."
+    },
+    "g35": {
+      "daily": "How does Bada Shanren use just ink to give the birds personality?",
+      "emotion": "What mood do you sense: peaceful, lonely, or something else? What details support it?",
+      "observation": "Take a quiet minute to follow the strokes. What details did you notice that you missed at first?",
+      "analysis": "How does the artist arrange birds, lotus, and empty space along the scroll?",
+      "line": "How do the thick and thin brush lines show the shapes of birds and leaves?",
+      "shape": "How do the big lotus leaf shapes contrast with the smaller bird shapes?",
+      "color": "With only black ink, how does the artist show light, medium, and dark?",
+      "texture": "How do wet and dry brush strokes help show feathers and leaves?",
+      "space": "How does empty space on the scroll make the birds seem important?",
+      "light": "How do the lightest areas help the dark ink shapes stand out?",
+      "meaning": "Lotus plants grow out of muddy ponds yet bloom cleanly. How might people find meaning in that?",
+      "culture": "Bada Shanren is known as one of the most original painters in early Qing China. Why might a bold style stand out?",
+      "technique": "The painting is ink on satin and in a handscroll format. How might that shape how it was made and viewed?",
+      "personal": "What simple drawing of yours says a lot with only a few lines?",
+      "critical": "Does knowing about an artist's life help you understand a painting, or can it limit what you see?"
+    },
+    "g68": {
+      "daily": "How does Bada Shanren create a strong sense of character with very few brushstrokes?",
+      "emotion": "What emotional tone arises from the birds' poses and the sparse composition?",
+      "observation": "Describe the scroll from one end to the other. Which brushstrokes seem most confident?",
+      "analysis": "How does the painter balance filled areas and empty paper to create rhythm?",
+      "line": "How does variation in pressure and speed make lines look sharp, soft, or bold?",
+      "shape": "How do simple, rounded forms in the birds and leaves create a unified look?",
+      "color": "How does ink tone, from pale gray to deep black, replace color in the painting?",
+      "texture": "How does the ink create a feeling of wet leaves, dry stems, and soft feathers?",
+      "space": "How does open space function as part of the scene, such as water or air?",
+      "light": "Without color, how does contrast between dark and pale areas create atmosphere?",
+      "meaning": "Some viewers connect his work to his life story. What other ways could someone read the birds?",
+      "culture": "How might a handscroll have been viewed by one person or a small group, unrolled section by section?",
+      "technique": "How is painting with ink on satin different from painting on paper?",
+      "personal": "What does it feel like to say something with very few words or marks?",
+      "critical": "Why should we be careful about reading an artist's life into a painting?"
+    },
+    "g910": {
+      "daily": "What formal strategies give this scroll its distinctive personality despite its limited means?",
+      "emotion": "How does the economy of the brushwork create a mood that is both quiet and tense?",
+      "observation": "Describe the visual hierarchy. What draws the eye first, and which devices produce that effect?",
+      "analysis": "How does the horizontal format structure the pacing of the viewer's experience?",
+      "line": "How does the expressive variety of line link painting to calligraphy?",
+      "shape": "How do bold, simplified shapes build a sense of character in the birds?",
+      "color": "How does the range of ink tones act as a substitute for color?",
+      "texture": "How do contrasts of wet and dry ink evoke different natural surfaces?",
+      "space": "How does empty satin work as active space within the composition?",
+      "light": "How does tonal contrast produce an atmosphere without a light source?",
+      "meaning": "How might the lotus pond and birds carry symbolic meaning in Chinese art, and where does interpretation become uncertain?",
+      "culture": "How does Bada Shanren's position as a former Ming royal who became a monk and artist complicate cultural readings of the work?",
+      "technique": "How does the satin support affect the absorption and behavior of ink compared with paper?",
+      "personal": "How does a style that is both simple and strong affect how you notice details?",
+      "critical": "How can we use biographical context without letting it replace close looking?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the brushwork and composition about how Bada Shanren balances expression and restraint, and what remains uncertain?",
+      "emotion": "How does the painting's austerity complicate any single emotional reading, and what does that open for the viewer?",
+      "observation": "Describe the handscroll's formal construction with precision. When does description begin to imply interpretation?",
+      "analysis": "Analyze how interval, repetition, and asymmetry produce rhythm along the horizontal format.",
+      "line": "How does the calligraphic character of the line link painting and writing in the Chinese tradition?",
+      "shape": "How does the reduction of forms toward essentials produce both naturalism and abstraction?",
+      "color": "How does the tonal range of monochrome ink function as an expressive vocabulary, and how might the age of satin and ink affect what we see?",
+      "texture": "How does the interplay of ink and satin generate effects that differ from ink on paper?",
+      "space": "How does the treatment of emptiness contribute to ambiguity, and how might viewers of the period have read it?",
+      "light": "How does the painting evoke atmosphere through tone rather than illumination?",
+      "meaning": "Evaluate biographical readings, such as loss or defiance, against readings of the work as observed nature. What evidence is needed for each?",
+      "culture": "How might the work be situated within early Qing painting and the culture of scholar-artists, and how do scholars qualify these connections?",
+      "technique": "What does the combination of satin and ink suggest about the work's making, format, and handling?",
+      "personal": "How does your own taste for bold simplicity shape what you notice here, and where might it narrow your reading?",
+      "critical": "Given the strong legend around Bada Shanren, what standards of evidence should govern interpretation of this particular scroll?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Paintings), culture (China), and tag (Birds) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A handscroll of about 1690 by Bada Shanren (Zhu Da), a leading individualist painter of early Qing China. It is painted in ink on satin.",
+    "vocabulary": [
+      "handscroll",
+      "ink tone",
+      "calligraphic line",
+      "negative space",
+      "Qing dynasty",
+      "lotus"
+    ],
+    "directions": [
+      "Have students paint a bird using only three or four brush strokes and compare how little is needed to suggest a character.",
+      "Discuss how an artist's biography can help or limit interpretation of an artwork.",
+      "Compare how the empty space is used here and in another East Asian artwork in the archive."
+    ]
+  }
+}

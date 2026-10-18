@@ -1,0 +1,159 @@
+{
+  "id": "met-435922",
+  "day": "04-12",
+  "title": "Salisbury Cathedral from the Bishop's Grounds",
+  "artist": "John Constable",
+  "date": "ca. 1825",
+  "medium": "Oil on canvas",
+  "movement": "Romanticism",
+  "region": "England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164837.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP164837.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mary Stillman Harkness, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall stone cathedral spire rises above a framing arch of dark trees, with cows resting or grazing on the grass below. Heavy clouds fill the sky above the church.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435922",
+    "objectId": "435922",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Cathedrals, Cows, Trees), credit line, and image URLs read from the record"
+  },
+  "context": "The English painter John Constable made several versions of this view of Salisbury Cathedral, seen through trees in the grounds of the bishop's residence, in the 1820s. The Met's version is dated to about 1825. Constable was known for painting the English countryside with close attention to skies and weather.",
+  "descriptions": {
+    "k": "A very tall church spire points to the sky. Big dark trees make a frame around it. Cows rest on the grass. Gray clouds roll above. What do you think the weather will do next?",
+    "g12": "John Constable painted a huge church in England. Its tall spire reaches up high. Dark trees make an arch around it, like a frame. Cows rest on the grass below, and big clouds fill the sky. Where do your eyes go first? Why?",
+    "g35": "John Constable, an English painter, loved the countryside and its weather. Here, the tall spire of Salisbury Cathedral rises behind dark trees, while cows rest on the grass nearby. The sky is full of heavy clouds. Notice how the trees make a frame. Why might Constable show a grand church together with quiet cows and a moody sky?",
+    "g68": "Constable painted several versions of this view in the 1820s, and the Met's dates to about 1825. The dark trees form a natural arch that directs your eye to the pale spire, while the cows add a calm, everyday note. The cloudy sky, painted with energy, adds drama. How does Constable balance the grandeur of the cathedral with the humble pastoral setting, and how does the sky change the mood?",
+    "g910": "This view of Salisbury Cathedral, one of several versions Constable painted, joins architecture, nature, and weather. The dark canopy of trees frames the lighter spire, creating a strong sense of depth and focus, while cows ground the scene in rural life. The expressive sky, handled with lively brushwork, charges the image with feeling. Consider how Constable balances faithful observation of nature with Romantic emotion.",
+    "g1112": "Constable's Salisbury Cathedral from the Bishop's Grounds exemplifies his effort to combine close observation with expressive feeling, a hallmark of English Romanticism. The framing trees, the piercing spire, and the unsettled sky create a composition both ordered and charged with atmosphere. Scholars have discussed how the cathedral view may reflect Constable's friendship with the bishop and his thoughts about permanence and change, but such readings remain interpretive. How might we weigh the picture's visible evidence against biographical explanation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the weather will do next? Show us the clue in the sky.",
+      "emotion": "Does the sky make you feel calm, nervous, or something else? Why?",
+      "observation": "Find the church spire, the cows, and the trees. Which do you notice first?",
+      "analysis": "What do the dark trees do around the church? How do they help you look?",
+      "line": "Follow the spire with your finger from bottom to top. Where does it end?",
+      "shape": "The spire is like a long needle. What shapes do you see in the trees and the clouds?",
+      "color": "Find the dark greens and the light gray. Where do they sit next to each other?",
+      "texture": "How would the cows and the grass feel? Which parts look soft or rough?",
+      "space": "Which is closer to you, the cows or the church? How can you tell?",
+      "light": "Where is the sky brightest? Where is it darker?",
+      "meaning": "Why do you think the painter put cows in front of a big church?",
+      "culture": "This church is in England and is very old. What old buildings do you know near you?",
+      "technique": "The painter made the clouds with big, quick strokes. How do you think he moved his brush?",
+      "personal": "Have you ever watched clouds change? Tell about the shapes you saw.",
+      "critical": "Would this picture feel the same without the dark trees? What would change?"
+    },
+    "g12": {
+      "daily": "What do you think the weather will be in the next hour? Use clues from the clouds and light.",
+      "emotion": "How does the mix of a calm field and a heavy sky make you feel?",
+      "observation": "Describe five things you see, from the cows to the top of the spire.",
+      "analysis": "How do the trees help your eyes find the cathedral?",
+      "line": "The spire is tall and straight, and the clouds are loose and curvy. How do they feel different?",
+      "shape": "How does the arch of the trees make a frame for the church?",
+      "color": "The trees are dark and the spire is pale. How does that help the church stand out?",
+      "texture": "Which parts look stony and which look leafy or fluffy?",
+      "space": "How does the painter make the church look far away and the trees look close?",
+      "light": "Where does light break through the clouds? How does it change the cathedral?",
+      "meaning": "A big church and some cows are in one picture. What might the painter want us to think about?",
+      "culture": "A cathedral like this took many years to build. What does it tell you about the town?",
+      "technique": "Constable painted outdoors to study clouds. Where does the sky look most alive?",
+      "personal": "What kind of weather do you like to watch? Describe how it looks.",
+      "critical": "Is the picture more about the church, the trees, or the sky? Give a reason."
+    },
+    "g35": {
+      "daily": "What story could you tell about this place on a cloudy afternoon, using at least three details from the painting?",
+      "emotion": "How would you describe the mood created by the heavy clouds and the dark trees? Use evidence.",
+      "observation": "After one minute of silent looking, what small details in the grass or trees did you not notice at first?",
+      "analysis": "How does Constable arrange the trees, cows, and spire so that your eyes move through the picture?",
+      "line": "How does the strong vertical line of the spire compare to the curved lines of the tree branches?",
+      "shape": "How do the large dark shapes of the trees contrast with the narrow, pale shape of the spire?",
+      "color": "How do the dark foreground colors and the lighter background colors create contrast?",
+      "texture": "How does Constable make stone, leaves, grass, and clouds look different from each other?",
+      "space": "What clues, such as overlapping and size, help you read the space from the cows to the church?",
+      "light": "How does the light in the sky shape the mood of the entire scene?",
+      "meaning": "Constable included cows in a grand view of a cathedral. What might that say about people and nature?",
+      "culture": "Constable painted England's countryside during the early 1800s. Why might people have valued such pictures?",
+      "technique": "Constable made sketches of clouds and trees outdoors. How might that practice improve a studio painting?",
+      "personal": "Think about a place that feels both grand and ordinary to you. How would you paint it?",
+      "critical": "Does the grand cathedral or the quiet field matter more to this picture? Defend your view."
+    },
+    "g68": {
+      "daily": "How does Constable combine a famous monument with a humble pasture in one scene?",
+      "emotion": "How does the sky transform the emotional tone of an otherwise peaceful scene?",
+      "observation": "Describe the picture in layers, from foreground to sky. What details signal different kinds of space?",
+      "analysis": "How does the natural arch of trees serve as both a frame and a source of contrast?",
+      "line": "How do vertical and curving lines compete or cooperate in the composition?",
+      "shape": "How does the contrast between the spire's sharp point and the soft masses of trees create tension?",
+      "color": "How do dark greens and earth tones set off the pale stone and the shifting colors of the sky?",
+      "texture": "How do varied brushstrokes imitate the surfaces of foliage, stone, and clouds?",
+      "space": "What techniques create depth from the grass in front to the cathedral behind?",
+      "light": "How does Constable use bright and dark areas to direct attention to the spire?",
+      "meaning": "Some viewers connect the cathedral and the changing sky to ideas of permanence and change. What in the painting supports or challenges that reading?",
+      "culture": "How might English Romantic painters have used landscapes to express national feeling?",
+      "technique": "Constable made several versions of this view. What might he have changed or explored from one version to the next?",
+      "personal": "What place in your community feels permanent while the weather around it always changes?",
+      "critical": "Is a landscape painted with emotion less truthful than one painted objectively? Argue from this picture."
+    },
+    "g910": {
+      "daily": "What is the painting's central tension, and how do its formal choices shape it?",
+      "emotion": "How does Constable build atmosphere from sky and framing rather than from human action?",
+      "observation": "Analyze the visual hierarchy: how do contrast and placement establish the spire as the key element?",
+      "analysis": "How does the framing device of the trees organize the viewer's experience of the cathedral?",
+      "line": "How does the sharp upward thrust of the spire interact with the horizontals of the field and clouds?",
+      "shape": "How do the heavy masses of foliage balance the slender architectural form?",
+      "color": "How does a palette of deep greens and variable grays support a mood of unsettled calm?",
+      "texture": "How does the loose handling of foliage and sky differ from the more controlled rendering of architecture?",
+      "space": "How does the composition create a sense of looking through an opening toward a distant monument?",
+      "light": "How does the contrast between darkened foreground and bright sky heighten the drama?",
+      "meaning": "How can the juxtaposition of grazing cattle and an ancient church be read, and where does interpretation become speculation?",
+      "culture": "How does this painting connect to early 19th-century English ideas about nature, religion, and national identity?",
+      "technique": "How does Constable's practice of outdoor studies inform the convincing sense of weather in this finished painting?",
+      "personal": "How does the painting's balance of the grand and the ordinary connect to your experience of familiar landscapes?",
+      "critical": "Constable's work was initially more admired in France than in England. How does context affect how we value artists?"
+    },
+    "g1112": {
+      "daily": "How does the painting stage a dialogue between permanence and flux, and by what visual means?",
+      "emotion": "How does the sky complicate the apparent serenity of the pastoral foreground?",
+      "observation": "Describe the formal construction of the scene precisely, then identify where description already implies interpretation.",
+      "analysis": "How does the framing arch of trees function compositionally and conceptually in a view of an ecclesiastical monument?",
+      "line": "How does the painting reconcile architectural geometry with organic irregularity?",
+      "shape": "How do the spire and the trees operate as opposing yet complementary forms?",
+      "color": "How does the painting's tonal range align with Romantic concern for atmosphere and feeling over idealization?",
+      "texture": "How does varied facture articulate distinctions between built and natural matter?",
+      "space": "How does the painting position the viewer in the bishop's grounds, and what social relationship does that imply?",
+      "light": "How might the painting's weather be read as both observed fact and emotional metaphor?",
+      "meaning": "Evaluate competing readings of the cathedral view as religious statement, personal homage, or meteorological study. What evidence supports each?",
+      "culture": "How do depictions of English cathedral and countryside participate in debates about tradition and change in the 1820s?",
+      "technique": "What does the existence of multiple versions reveal about Constable's balance of direct study and studio composition?",
+      "personal": "How do your own associations with churches, countryside, or weather inflect your reading of the painting?",
+      "critical": "How should we weigh an artist's documented friendships and beliefs against the evidence visible in a single painting?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Cathedrals, Cows, Trees), classification (Paintings), and medium checked against the museum record. The subject is a landscape with a cathedral and grazing cattle.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Constable painted Salisbury Cathedral in several versions in the 1820s. He is known for studying skies and weather directly outdoors.",
+    "vocabulary": [
+      "Romanticism",
+      "cathedral",
+      "spire",
+      "framing",
+      "pastoral",
+      "atmosphere"
+    ],
+    "directions": [
+      "Have students cover the sky and then reveal it to discuss how the mood changes.",
+      "Ask students to sketch the framing arch of trees and explain how it directs attention.",
+      "Compare a calm sky from another day's artwork with this stormy one and discuss the effect on feeling."
+    ]
+  }
+}

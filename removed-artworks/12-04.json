@@ -1,0 +1,158 @@
+{
+  "id": "met-36028",
+  "day": "12-04",
+  "title": "Children Playing",
+  "artist": "Unidentified",
+  "date": "16th–17th century",
+  "medium": "Hanging scroll; ink and color on silk",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/14_76_4-003.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/14_76_4-003.jpg",
+    "credit": "The Metropolitan Museum of Art, Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall Chinese hanging scroll painted on silk in ink and color, showing children at play.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/36028",
+    "objectId": "36028",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist field (Unidentified), date, medium, culture (China), period (Ming dynasty), public-domain flag, credit line, classification (Paintings) and image URLs read from the record; the record lists no tags, so alt text and questions stay general"
+  },
+  "context": "A hanging scroll in ink and color on silk, dated 16th to 17th century and assigned by the Met to the Ming dynasty. The artist is unidentified, and the title says children are at play.",
+  "descriptions": {
+    "k": "This tall painting hangs on a wall like a banner. It shows children playing. Can you find the children? What are they doing? What would you play with them?",
+    "g12": "This is a hanging scroll from China, painted on silk a long time ago. It shows children at play. A hanging scroll is a tall painting you hang on a wall. Find the children. What game do you think they are playing? How do they look?",
+    "g35": "This hanging scroll was painted in China during the Ming dynasty, around the 1500s or 1600s, by an artist whose name we do not know. It is ink and color on silk. The title tells us children are playing. Look closely at how many children there are, what they hold and how they move. Why might artists enjoy painting children at play?",
+    "g68": "A hanging scroll in ink and color on silk, this Ming-period painting shows children playing, a subject with a long history in Chinese art. The artist is unidentified. In scenes like this, children's play could carry wishes for family happiness, though the picture itself does not tell us. Notice how the tall format arranges figures and setting. What might a viewer have hoped to see in such an image?",
+    "g910": "Children Playing belongs to a Chinese tradition of paintings of children at play, popular in the Ming period and often linked by scholars to hopes for family prosperity. The tall hanging-scroll format and silk surface shape how the figures and setting are arranged. The unidentified artist and the record's limited detail invite caution. How does the format shape the way we read play, and what claims about meaning can the picture itself support?",
+    "g1112": "Within the long Chinese tradition of paintings of children at play, this Ming hanging scroll can be read as a record of games and toys, a charming domestic image or a visual wish for family continuity. The record names no artist and gives no tags, so interpretations should stay tied to what we can see. How do format, silk and subject frame these readings, and what additional evidence would help you choose among them?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which child would you like to play with? What game would you play?",
+      "emotion": "Do the children look happy, sleepy, or silly? What shows you?",
+      "observation": "How many children can you find? Point to each one.",
+      "analysis": "Where do your eyes go first in this tall painting? Why?",
+      "line": "Can you trace the line of a child's arm or clothing with your finger?",
+      "shape": "What shapes do the children's bodies make? Are they round, tall, or curved?",
+      "color": "Which colors do you see most? Which one do you like best?",
+      "texture": "How would the silk feel? How would the children's clothes feel?",
+      "space": "Which children are at the top and which are at the bottom? What do you notice?",
+      "light": "Is the painting bright or soft? How can you tell?",
+      "meaning": "Why do you think someone hung a picture of children playing on a wall?",
+      "culture": "Children in China played long ago, just as you do. What games do you play with friends?",
+      "technique": "This painting is on silk, not paper. How do you think the painter used a brush on silk?",
+      "personal": "What is your favorite game to play outside or inside?",
+      "critical": "What would you add to the painting to show more fun?"
+    },
+    "g12": {
+      "daily": "Which child seems to be having the most fun? Use clues from the painting to explain.",
+      "emotion": "What feeling do you get from the children's play? Point to a clue.",
+      "observation": "Describe two children: what they are doing and what they are wearing.",
+      "analysis": "How does the painter group the children so they feel like a team?",
+      "line": "Find the soft curved lines in the clothes. How do they show movement?",
+      "shape": "Look at the children and the things around them. Which shapes repeat?",
+      "color": "Which colors are strongest? How do they make the painting feel lively?",
+      "texture": "How does the painter show soft cloth and smooth silk?",
+      "space": "How does the tall shape of the scroll change how you look from top to bottom?",
+      "light": "The children have no strong shadows. How does the scroll still feel sunny and open?",
+      "meaning": "Why might a painter show children playing instead of grown-ups working?",
+      "culture": "Paintings of children playing were popular in China long ago. Why do you think families liked them?",
+      "technique": "Ink and color on silk gives soft lines. Where can you find the thinnest lines?",
+      "personal": "Tell about a game that makes you laugh.",
+      "critical": "The painter's name is not known. What would you like to ask them?"
+    },
+    "g35": {
+      "daily": "What story could you tell about these children's game, using details from the scroll?",
+      "emotion": "How do the poses and grouping of the children create a lively mood?",
+      "observation": "Pick one child and look only at that child for a minute. What detail of clothing or gesture did you find last?",
+      "analysis": "How does the artist arrange the children so your eye moves through the tall painting?",
+      "line": "How do outlines of the children and their clothing help you see each figure?",
+      "shape": "How do the children's shapes work together to make a group?",
+      "color": "How does the painter use color to separate one child from another?",
+      "texture": "How does the painter suggest cloth and other surfaces using brush and color?",
+      "space": "How does a tall hanging scroll show space differently from a wide picture?",
+      "light": "How does the painter keep the scene bright and open for the children without cast shadows?",
+      "meaning": "What might a picture of children playing mean to the family who hung it?",
+      "culture": "Ming-period households hung paintings in their homes. What does that tell us about how people used art?",
+      "technique": "Why might an artist choose silk and a hanging scroll for a painting like this?",
+      "personal": "Think of a game you have played with others. How would you show it in a painting?",
+      "critical": "Is the painting showing real play or an ideal of happy childhood? What makes you think so?"
+    },
+    "g68": {
+      "daily": "How does this scroll turn children's play into a picture worth looking at closely?",
+      "emotion": "How do poses and grouping create a mood of liveliness?",
+      "observation": "List the figures and details you can find. Which seem most carefully placed?",
+      "analysis": "How does the tall format shape the arrangement of the figures?",
+      "line": "How does controlled brush line describe form and movement?",
+      "shape": "How do repeated shapes of figures and clothing create rhythm?",
+      "color": "How does the palette on silk affect the mood of the painting?",
+      "texture": "How are different materials suggested with brush and color?",
+      "space": "How does the painter build space within a tall format without strong perspective?",
+      "light": "Why might a painter skip cast shadows in a scene of play?",
+      "meaning": "How might a picture of children at play carry hopes for family happiness?",
+      "culture": "Why might Ming-period families have valued paintings of children?",
+      "technique": "How do ink and color on silk affect the look and feel of the lines?",
+      "personal": "How would you paint a game from your own childhood so others could understand it?",
+      "critical": "What can we responsibly say about a painting when the artist is unknown?"
+    },
+    "g910": {
+      "daily": "How does the painting present children's play as a subject worthy of careful depiction?",
+      "emotion": "How does the work create liveliness through grouping and gesture rather than strong expression?",
+      "observation": "Which child in the scroll draws your eye first, and how do pose, color and position make that happen?",
+      "analysis": "Analyze how the tall format organizes figures and setting.",
+      "line": "How does brush line define form and suggest movement within a refined style?",
+      "shape": "How do the silhouettes of the figures create rhythm and unity?",
+      "color": "How does color on silk contribute to the work's lively but controlled mood?",
+      "texture": "How does the painter differentiate surfaces with controlled line and color?",
+      "space": "How does the work build a believable space within the conventions of Chinese painting?",
+      "light": "What does the absence of cast shadow suggest about the painting's priorities?",
+      "meaning": "How might the subject be read as a wish for prosperity and as simple delight in play?",
+      "culture": "How does the tradition of children-at-play paintings reflect family ideals in Ming-period society?",
+      "technique": "What does the use of silk and the hanging scroll format suggest about how the work was displayed?",
+      "personal": "How do your own memories of play shape how you read this scene?",
+      "critical": "What are the limits of reading a painting of play as evidence of children's real lives?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about how the painting represents childhood, and what remains uncertain?",
+      "emotion": "How does the painting's composure complicate any attempt to assign it a single emotion?",
+      "observation": "Describe how the children are placed along the tall silk surface. Where does that description begin to interpret?",
+      "analysis": "Analyze how the vertical format and arrangement of figures shape the work's reading.",
+      "line": "How does the reliance on brush line and color, rather than modeling, define the work's approach to form?",
+      "shape": "How do the figures' silhouettes and grouping produce unity and variety?",
+      "color": "How might the age of silk and pigments affect what we see today, and how should that temper interpretation?",
+      "texture": "How do brush line and color on silk suggest the clothes and surroundings of the children, and what does that show about the painter's conventions?",
+      "space": "How does the space differ from single-viewpoint perspective, and what role does it assign to the viewer?",
+      "light": "How does the painting suggest brightness without cast shadow, and what traditions does that reflect?",
+      "meaning": "Evaluate competing readings of the scroll as record of games, domestic image or wish for family continuity. Which is best supported?",
+      "culture": "How does the genre of children-at-play paintings relate to family ideals in the Ming period, and what evidence would test that link?",
+      "technique": "What might a silk hanging scroll by an unidentified artist tell us about who made and viewed paintings of children, and where does the evidence stop?",
+      "personal": "How does your own cultural background shape what you expect from an image of childhood play?",
+      "critical": "Given an unidentified artist and no recorded tags, what standards of evidence should govern claims about this scroll?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Children Playing), medium and classification (Paintings) read from the Met record; the record lists no tags. No nudity, violence or frightening terms in the metadata. The image file itself was not visually inspected, so a person should confirm the figures and clothing in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Ming-dynasty hanging scroll showing children at play. Paintings of children at play were a popular subject in Chinese art, and the artist here is unidentified.",
+    "vocabulary": [
+      "hanging scroll",
+      "Ming dynasty",
+      "silk",
+      "brush line",
+      "composition",
+      "genre"
+    ],
+    "directions": [
+      "Have students describe the scroll aloud from top to bottom and compare how they moved their eyes.",
+      "Ask students to act out one pose from the painting and describe what the child might be doing.",
+      "Compare with the other children-at-play scroll in the archive and discuss differences."
+    ]
+  }
+}

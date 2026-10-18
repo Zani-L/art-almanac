@@ -1,0 +1,158 @@
+{
+  "id": "artic-80553",
+  "day": "12-02",
+  "title": "Nicolas Rubens, the Artist's Son",
+  "artist": "Attributed to Peter Paul Rubens",
+  "date": "c. 1635",
+  "medium": "Oil on panel",
+  "movement": "Baroque",
+  "region": "Flanders",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/0a991ed0-5816-1fbe-33d2-a12c384334ab/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Max and Leola Epstein collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A portrait of a young man in a hat, painted in oil on a wooden panel. He is shown close up, looking out toward the viewer.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/80553",
+    "objectId": "80553",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (portraits, portraits: male subject, man, hat), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on panel dated about 1635, attributed to the Flemish artist Peter Paul Rubens. The title names the sitter as Nicolas Rubens, the artist's son. The Art Institute's subject terms list a male portrait, a man and a hat.",
+  "descriptions": {
+    "k": "A young man looks out at you. He wears a hat. He is painted close up. What do you think he is thinking? How do you think he feels about being painted?",
+    "g12": "This is a painting of a young man in a hat. The title says he is the painter's son. The painter was Peter Paul Rubens, from Flanders, which is part of Belgium today. Look at his face. What do you think he is like?",
+    "g35": "This portrait from about 1635 is attributed to Peter Paul Rubens, a famous painter from Flanders. The title says the young man is Nicolas Rubens, the artist's son. Notice his hat and the way he looks at you. Painted on a wooden panel, the portrait shows a person up close. What can you learn about him just from his face and posture?",
+    "g68": "This portrait of a young man in a hat is attributed to Peter Paul Rubens and dated about 1635. The title names the sitter as Nicolas Rubens, the artist's son. Oil on wooden panel allows soft blending of skin tones. The word attributed means experts think Rubens painted it but are not completely certain. What can the pose, hat, and gaze tell you about the sitter?",
+    "g910": "Nicolas Rubens, the Artist's Son (c. 1635) is attributed to Peter Paul Rubens, a leading Flemish Baroque painter, and shows a young man in a hat in a close-cropped portrait. Attribution matters in art history: it signals scholarly judgment about who painted a work. How might a family portrait differ from a commissioned portrait of a stranger, and what do pose, gaze, and costume reveal?",
+    "g1112": "This c. 1635 portrait of Nicolas Rubens, attributed to Peter Paul Rubens, raises questions of attribution, intimacy, and Baroque portraiture. A family portrait may be less formal than a commission, yet conventions of pose and costume still apply. How should viewers weigh the uncertainty of attribution when interpreting the painting, and what visual evidence supports a reading of the sitter as both individual and type?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the young man. What is he looking at?",
+      "emotion": "Does he look friendly, serious, or shy? What shows you?",
+      "observation": "Find his hat and his face. Which one do you see first?",
+      "analysis": "How close are we to him in the painting?",
+      "line": "Find a curved line in the hat. Trace it in the air.",
+      "shape": "The hat makes a big shape. What shape is it?",
+      "color": "What colors are in his clothes and the background?",
+      "texture": "Does the skin look smooth or rough? Tell us what you see.",
+      "space": "What do you see behind him? Is it a room or just color?",
+      "light": "Where does the light shine on his face?",
+      "meaning": "He is the painter's son. How might a father see his child?",
+      "culture": "Long ago, people had paintings made instead of photos. Why?",
+      "technique": "The painter used oil paint on wood. How might that feel?",
+      "personal": "Who in your family would you paint, and how?",
+      "critical": "If you could ask him a question, what would it be?"
+    },
+    "g12": {
+      "daily": "Look at his eyes and mouth. What is he feeling?",
+      "emotion": "Is the painting quiet or lively? Show us what tells you.",
+      "observation": "List five things you see: hat, face, clothes, and more.",
+      "analysis": "How does the painter make his face the most important part?",
+      "line": "Which curves do you see in the hat and shoulders?",
+      "shape": "How do the shapes of the hat and the head fit together?",
+      "color": "Which colors help his face glow?",
+      "texture": "How can you tell skin from cloth by the paint?",
+      "space": "How does having so little behind him change the picture?",
+      "light": "How does light on his face make him look real?",
+      "meaning": "The painter was his father. How might that change how he painted?",
+      "culture": "People from Flanders long ago had portraits made. Why might they want one?",
+      "technique": "Rubens painted on wood. How is that different from painting on paper?",
+      "personal": "How would you pose for a portrait that shows your personality?",
+      "critical": "Can a portrait show who someone really is? Explain."
+    },
+    "g35": {
+      "daily": "What does the young man's posture and gaze tell you about him? What can't you tell?",
+      "emotion": "What feeling does the portrait give you, and which colors and shapes create it?",
+      "observation": "Look slowly at his hat and clothes. What small details did you notice last?",
+      "analysis": "How does the painter place him so the face is the main focus?",
+      "line": "How does the hat brim shape the way your eye moves?",
+      "shape": "How does the head, the hat, and the shoulders form a stable shape?",
+      "color": "How do warm skin tones stand out from darker colors?",
+      "texture": "How does the painter make skin look soft?",
+      "space": "How does the lack of a detailed setting keep attention on him?",
+      "light": "How does the light model his face?",
+      "meaning": "The painting is attributed to Rubens. What do you think that word means?",
+      "culture": "What does a father's portrait of his son suggest about family and art in Flanders in the 1600s?",
+      "technique": "Why might an artist paint on a wood panel?",
+      "personal": "What would you want a portrait of you to show?",
+      "critical": "Does knowing who painted something change how you look at it? Explain."
+    },
+    "g68": {
+      "daily": "What clues in the pose and expression tell you about the young man, and what do you not know?",
+      "emotion": "What mood do the warm skin tones and dark clothes create?",
+      "observation": "Describe the face, hat, and clothing. Which detail did you see differently the second time?",
+      "analysis": "How does the composition use closeness to make the viewer feel near the sitter?",
+      "line": "How do soft contours around the face give it presence?",
+      "shape": "How do the rounded forms of hat and head create balance?",
+      "color": "How does Rubens's palette in this portrait emphasize skin against dark clothing?",
+      "texture": "How does paint on a wood panel create a smooth surface?",
+      "space": "What does a plain background do for a portrait?",
+      "light": "How does the light create volume in the face?",
+      "meaning": "What does attributed to mean, and why do museums use such words?",
+      "culture": "How might a family portrait differ from a formal commission in Baroque Flanders?",
+      "technique": "How did oil painting allow artists to blend skin tones softly?",
+      "personal": "How would you present yourself in a portrait made by a family member?",
+      "critical": "How do you weigh the uncertainty of who painted something when judging its value?"
+    },
+    "g910": {
+      "daily": "How do gaze, posture, and costume balance individuality and convention in this portrait?",
+      "emotion": "How do warm flesh tones against darker areas create intimacy?",
+      "observation": "Examine the hat and the face. How does the painter prioritize what the viewer sees first?",
+      "analysis": "Analyze how the close-cropped format intensifies presence.",
+      "line": "How do contours shape the head and shoulders without hard outlines?",
+      "shape": "How do large rounded masses create a stable composition?",
+      "color": "Evaluate how limited color range contributes to the portrait's naturalism.",
+      "texture": "What does the smooth blending on panel suggest about the artist's technique?",
+      "space": "How does the plain setting function in Baroque portraiture?",
+      "light": "How does directional light model form and suggest character?",
+      "meaning": "What is the importance of attribution to a work's meaning and value?",
+      "culture": "How does the sitter's relation to the artist affect your reading of the portrait?",
+      "technique": "How does this portrait compare to grand Baroque paintings by Rubens in mood and scale?",
+      "personal": "How does your response change when you know the sitter is family?",
+      "critical": "How might uncertainty about authorship be considered part of the work's history?"
+    },
+    "g1112": {
+      "daily": "How does the portrait negotiate intimacy and convention, and how does attribution affect that negotiation?",
+      "emotion": "To what degree does the warm modeling produce psychological presence, and what remains opaque?",
+      "observation": "Analyze how scale and cropping shape the viewer's relation to the sitter.",
+      "analysis": "How does the use of tonal contrast establish hierarchy within the head-and-shoulders format?",
+      "line": "How do contour and soft modeling relate to Rubens's broader Baroque aesthetic?",
+      "shape": "How does the massing of hat and shoulders support the face as focal point?",
+      "color": "Assess how a restrained palette serves naturalism and the Baroque interest in flesh tones.",
+      "texture": "What do the support (panel) and handling suggest about workshop practice and authorship?",
+      "space": "How does the lack of a detailed setting alter the portrait's mode from social to psychological?",
+      "light": "How does directed light articulate form and suggest interiority?",
+      "meaning": "How do scholars establish and revise attributions, and what are the stakes for interpretation?",
+      "culture": "How might a family portrait participate in dynastic and personal memory in seventeenth-century Flanders?",
+      "technique": "How does the painting's modest scale compare with Rubens's large public commissions, and what does that imply about its function?",
+      "personal": "How should museums communicate uncertainty about attribution to visitors?",
+      "critical": "What does the painting reveal about how artists represent their own family compared with patrons?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (portraits, portraits: male subject, man, hat) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A portrait of about 1635, attributed to Peter Paul Rubens, in oil on panel; the museum title names the sitter as the artist's son. The record gives only brief subject terms (portraits, man, hat), and the attribution is qualified, so this entry avoids stating details not confirmed by the record. Image not visually reviewed.",
+    "vocabulary": [
+      "Baroque",
+      "attribution",
+      "portrait",
+      "oil on panel",
+      "Flanders",
+      "modeling"
+    ],
+    "directions": [
+      "Have students sketch a family member or friend from the shoulders up and focus on how light hits the face.",
+      "Ask students to write a museum label that includes the word attributed and explain why it matters.",
+      "Discuss how portraits made by relatives might differ from portraits made by commission."
+    ]
+  }
+}

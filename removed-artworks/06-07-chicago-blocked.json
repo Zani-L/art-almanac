@@ -1,0 +1,158 @@
+{
+  "id": "artic-153798",
+  "day": "06-07",
+  "title": "Woman in a Garden",
+  "artist": "Berthe Morisot",
+  "date": "1882–83",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/5edb357d-2e8f-8673-d9e8-4b1150af3895/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, A Millennium Gift of Sara Lee Corporation",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A woman in a hat is shown in a garden among bushes, foliage and flowers, painted with light, feathery strokes of green and blue. The leafy garden surrounds her and almost melts into the figure.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/153798",
+    "objectId": "153798",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (leisure, hat, garden, foliage, flowers, fences, bushes, women, portraits, green, blue), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the French artist Berthe Morisot, dated 1882–83. The Art Institute's subject terms list a woman in a hat, a garden, foliage, flowers, a fence and bushes. Morisot was a founding member of the Impressionist group and showed in most of their exhibitions.",
+  "descriptions": {
+    "k": "A woman sits in a garden. She wears a hat. Green leaves and flowers are all around her. The paint looks light and quick. Can you find her? What do you think she is doing in the garden?",
+    "g12": "Berthe Morisot painted a woman in a hat in a garden full of leaves and flowers. Her brushstrokes are quick and light, like feathers. The green and blue almost blend the woman into the garden. Can you find where she ends and the garden begins?",
+    "g35": "Berthe Morisot was a French painter and one of the Impressionists. In Woman in a Garden, from 1882–83, a woman in a hat is surrounded by bushes, flowers, and leaves. Morisot used quick brushstrokes to catch the feeling of a sunny moment. How does the paint make the woman and the garden feel connected?",
+    "g68": "Berthe Morisot, a founding Impressionist, painted Woman in a Garden in 1882–83. The museum lists a woman with a hat, bushes, foliage, flowers, and a fence. Her light, loose brushwork lets figure and garden blend. How do the brushstrokes and the greens and blues express a moment of leisure, and what might the painter care about more than a detailed portrait?",
+    "g910": "In Woman in a Garden (1882–83), Morisot applies the broken, feathery brushwork of Impressionism so that figure and foliage nearly merge. The garden setting and the woman's hat suggest leisure, yet the painting withholds a detailed portrait. As one of the few women in the Impressionist circle, Morisot often painted spaces open to her. How does the handling of paint shape the relationship between person and place?",
+    "g1112": "Woman in a Garden (1882–83) shows Morisot's mature Impressionism, in which diaphanous brushwork unites figure and setting, privileging sensation over description. The subject, a woman in a garden, falls within the domestic and leisure spaces that were accessible to women of her class, a context scholars connect to Morisot's choices. How might one balance formal reading with attention to gender, and what does the lack of fixed detail imply about her aims?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the woman. What do you think she is doing in the garden?",
+      "emotion": "Does this garden feel calm or busy? What do you see that tells you?",
+      "observation": "Find the hat, the leaves, and the flowers. Which one is easiest to find?",
+      "analysis": "Which part of the garden is closest to you? Which part is far away?",
+      "line": "Quick brushstrokes look like tiny feathers. Where do you see them?",
+      "shape": "Can you find a round shape in the leaves? Where is it?",
+      "color": "Which greens and blues can you find? Which one do you like best?",
+      "texture": "Does the paint look soft and light, or thick and heavy? Tell us what you see.",
+      "space": "How can you tell the woman is outside, not inside?",
+      "light": "Where does the sun seem to shine through the leaves?",
+      "meaning": "What do you think the woman is thinking about?",
+      "culture": "Morisot painted in France long ago. What do you like to do in a garden today?",
+      "technique": "Morisot painted fast so she could catch the sunshine. Why might that be hard to do?",
+      "personal": "If you painted a garden, what flowers would you put in it?",
+      "critical": "What would you say if you walked into this garden?"
+    },
+    "g12": {
+      "daily": "Look at how the woman sits or stands. How do you think she feels?",
+      "emotion": "Is this a loud picture or a quiet one? Show us which parts make you say so.",
+      "observation": "List five things you see: colors, plants, and anything else.",
+      "analysis": "How does Morisot make the woman part of the garden instead of separate from it?",
+      "line": "Which brushstrokes look short and quick? Which look longer?",
+      "shape": "How do the shapes of the bushes and the shape of the woman fit together?",
+      "color": "Which blues and greens make the garden feel cool and fresh?",
+      "texture": "How can you tell the leaves are soft but the fence is hard?",
+      "space": "Where does the garden seem to go back into the distance?",
+      "light": "How does light change the colors of the leaves?",
+      "meaning": "Why would a painter choose a garden as her subject?",
+      "culture": "Morisot was one of the few women Impressionists. What might she have noticed in a garden?",
+      "technique": "How does painting quickly help show moving leaves and light?",
+      "personal": "Describe a place outside where you feel calm. How would you paint it?",
+      "critical": "Do you need to see a face clearly to understand a person in a picture? Explain."
+    },
+    "g35": {
+      "daily": "What details of pose and clothing tell you about the woman? What is hard to know?",
+      "emotion": "What feeling does the sunny garden give you, and which colors and strokes cause it?",
+      "observation": "Look slowly across the canvas. What small details did you spot only after a while?",
+      "analysis": "How does Morisot arrange the woman, the bushes, and the fence to lead your eye?",
+      "line": "How do light, feathery lines make the leaves look like they are moving?",
+      "shape": "How do the soft shapes of leaves and the shape of the hat repeat?",
+      "color": "How do the many greens and touches of blue work together in the garden?",
+      "texture": "How do the visible brushstrokes make the garden feel sunny and airy?",
+      "space": "How does the fence or bushes help show how deep the garden goes?",
+      "light": "Where does the picture feel bright and where does it feel shaded?",
+      "meaning": "Morisot showed paintings with Monet and Renoir. How is a garden scene like theirs?",
+      "culture": "What does the painting show about how women spent time in France in the 1880s?",
+      "technique": "Why might quick, loose strokes be a good way to capture a moment outdoors?",
+      "personal": "What favorite outdoor spot could you paint so that others feel what you feel?",
+      "critical": "Is a painting of a pleasant moment less serious than a painting of an important event? Explain."
+    },
+    "g68": {
+      "daily": "How do pose, hat, and garden together suggest the woman's mood, and what do you still not know?",
+      "emotion": "What mood do the cool greens and blues create, and how would warmer colors change it?",
+      "observation": "Describe the woman, the plants, and the fence in order. Which detail changes how you see the others?",
+      "analysis": "How does Morisot link the figure to the leaves so that your eye moves between them?",
+      "line": "How do the loose, directional strokes create a sense of breeze or movement?",
+      "shape": "How do repeating curved shapes unify the woman and the garden?",
+      "color": "How does placing blue against green help parts of the garden come forward or recede?",
+      "texture": "How does the feathery paint surface differ from a smooth, finished painting?",
+      "space": "How does the garden create layers of space without strong perspective lines?",
+      "light": "How does dappled light shape the feeling of a particular time of day?",
+      "meaning": "Why might Morisot have chosen to paint a woman in a garden rather than a large event?",
+      "culture": "How might Morisot's position as a woman painter in 1880s France have shaped her subjects?",
+      "technique": "How does the Impressionist method of painting what is seen at one moment show here?",
+      "personal": "What moment in your own day would you want to capture quickly in paint?",
+      "critical": "How would you decide if the woman or the garden is the real subject?"
+    },
+    "g910": {
+      "daily": "How do the pose and hat position the woman as a participant in the garden rather than a subject set apart?",
+      "emotion": "How do cool greens and blues and soft handling create a mood of repose, and could that also read as reserved?",
+      "observation": "Examine the transitions between figure and foliage. What do they reveal about Morisot's priorities?",
+      "analysis": "Analyze how she balances the dense foliage against the figure to create visual unity.",
+      "line": "How does the broken, feathery brushwork convey movement and light?",
+      "shape": "How do repeated curving forms integrate the figure with the setting?",
+      "color": "Evaluate how adjacent blues and greens create atmosphere without strong value contrast.",
+      "texture": "How does the unfinished look of some passages relate to Impressionist ideas of finish?",
+      "space": "How does the shallow, layered space of the garden avoid conventional perspective?",
+      "light": "How is light suggested through color temperature rather than cast shadow?",
+      "meaning": "How might Morisot's gender and class shape the spaces she depicts, and how should we avoid overreading?",
+      "culture": "How did showing with the Impressionists shape the reception of a painter like Morisot?",
+      "technique": "How does her handling compare with the work of male Impressionists you know?",
+      "personal": "How does your assumption about what a woman's painting should show affect what you notice?",
+      "critical": "What is lost or gained when a portrait refuses fine detail?"
+    },
+    "g1112": {
+      "daily": "How does the fusion of figure and foliage complicate the genre of portrait, and what does it propose in its place?",
+      "emotion": "To what extent does fugitive handling convey calm, and what might it also suggest about transience?",
+      "observation": "Analyze how the passage from resolved to sketched areas structures the viewer's attention.",
+      "analysis": "How does the all-over distribution of strokes establish a unified field with a subtle hierarchy?",
+      "line": "How does the diaphanous brushwork function as both description of atmosphere and record of process?",
+      "shape": "How do recurring curved motifs bind figure and ground, and what does this imply about subject and setting?",
+      "color": "Assess how color relationships, not tonal modeling, generate luminosity in Morisot's late style.",
+      "texture": "What does the visible facture suggest about the dialogue between observation and improvisation?",
+      "space": "How does the ambiguous, shallow depth challenge the illusionism of academic painting?",
+      "light": "How does light appear as color and touch rather than as modeled illumination?",
+      "meaning": "How have feminist art-historical approaches reshaped the reading of Morisot's garden and domestic scenes?",
+      "culture": "How does the critical history of the Impressionists change when Morisot is placed at its center?",
+      "technique": "How might the gendered limits on public space have influenced her choice to emphasize garden and domestic settings, and why is that not a limitation of ambition?",
+      "personal": "How do your assumptions about spontaneity and femininity shape your response to feathery handling?",
+      "critical": "What would it mean to read Woman in a Garden as a statement about painting itself rather than about a person?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (leisure, hat, garden, foliage, flowers, fences, bushes, women, portraits, green, blue) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1882–83 by Berthe Morisot in oil on canvas. The museum record lists a woman in a hat, a garden, foliage, flowers, a fence and bushes; it does not identify the sitter, so none is named here. Image not visually reviewed.",
+    "vocabulary": [
+      "Impressionism",
+      "brushwork",
+      "foliage",
+      "portrait",
+      "atmosphere",
+      "plein-air"
+    ],
+    "directions": [
+      "Have students paint a quick garden or schoolyard study in ten minutes using short strokes, then compare with a careful drawing.",
+      "Ask students to find where the figure and the background blend and explain how the painter does it.",
+      "Discuss why some Impressionists painted people in gardens and homes rather than in grand public scenes."
+    ]
+  }
+}

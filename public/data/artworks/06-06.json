@@ -1,0 +1,159 @@
+{
+  "id": "met-240414",
+  "day": "06-06",
+  "title": "Terracotta vase in the form of a bull",
+  "artist": "Artist unknown",
+  "date": "ca. 1450–1200 BCE",
+  "medium": "Terracotta",
+  "movement": "Late Cypriot II",
+  "region": "Cyprus",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121197.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP121197.jpg",
+    "credit": "The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874–76",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small clay vessel shaped like a bull, with a sturdy body, four short legs and a head with horns.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/240414",
+    "objectId": "240414",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, object name (Vase in the form of a bull), date, medium, culture (Cypriot), period (Late Cypriot II), dimensions, tags (Bulls), classification (Vases), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A terracotta vase in the form of a bull, made on Cyprus about 1450–1200 BCE, in the period called Late Cypriot II. It measures about 12 by 17 centimeters and came to the Met as part of the Cesnola Collection, purchased in 1874–76.",
+  "descriptions": {
+    "k": "This clay pot is shaped like a bull. It is strong and sturdy. It was made on the island of Cyprus more than 3,000 years ago. A bull has horns. Can you find them? What sound would this bull make?",
+    "g12": "A potter on the island of Cyprus made this clay vase over 3,000 years ago. It is shaped like a bull, with a strong body and short legs. The clay is called terracotta. A vase holds something inside. Where might the bull hold its liquid? What parts of the bull can you find?",
+    "g35": "This vase from Cyprus is shaped like a bull and is about 12 centimeters tall and 17 centimeters long. It was made between about 1450 and 1200 BCE, in what archaeologists call the Late Cypriot II period. The material is terracotta, baked clay. Several bull-shaped vases from Cyprus are in the Met's collection. Look at the body, legs, and head. Why might a potter have chosen a bull for a vase?",
+    "g68": "Made on Cyprus in the Late Bronze Age, about 1450–1200 BCE, this terracotta vase takes the form of a bull. The Met holds several such bull vases, which suggests the form was well known on the island. The potter had to combine the practical needs of a container with the sturdy look of an animal, simplifying anatomy into broad, rounded forms. Bulls were important animals in many ancient Mediterranean cultures. How does the vase's shape express strength, and what might its users have valued in the animal?",
+    "g910": "This bull-shaped vase, about 1450–1200 BCE, comes from Late Bronze Age Cyprus, an island that took part in wide trade networks across the eastern Mediterranean. Its form joins sculpture and vessel: the potter models a compact, powerful animal while leaving room for a container. Bull vases appear in several examples at the Met, which points to a recognized type, though their exact use is debated and may have included ritual or everyday roles. Since the vase came through the 19th-century Cesnola Collection, its original context is often unclear. What can the object tell us by itself?",
+    "g1112": "Zoomorphic vessels such as this bull from Late Cypriot II (about 1450–1200 BCE) raise questions of function, symbolism, and context. Cyprus in the Late Bronze Age was connected by trade to Egypt, the Levant, and the Aegean, yet this vessel's form shows a distinctively local treatment of the animal. Scholars may link bull imagery to strength, fertility, or ritual practice, but without secure find contexts such claims stay tentative. Because the Cesnola Collection was assembled in the 19th century, many objects lack records of where they were found. How should we read an object whose meaning depends on information we do not have?"
+  },
+  "questions": {
+    "k": {
+      "daily": "This pot is a bull! Can you stand like a strong bull? Show how you would do it.",
+      "emotion": "Does this clay bull look strong, gentle, or grumpy? What shows it?",
+      "observation": "Find the bull's head, body, and legs. Which part is biggest?",
+      "analysis": "What tells you that this pot is a bull and not a horse or a dog?",
+      "line": "Trace the line along the bull's back in the air. Is it straight, curved, or bumpy?",
+      "shape": "The bull's body is made of big, round shapes. Where do you see the biggest round shape?",
+      "color": "Terracotta is baked clay. What colors do you see on this bull?",
+      "texture": "Do you think this clay bull is smooth or rough? How could you find out?",
+      "space": "Walk around the bull in your mind. What would you see from the side and from above?",
+      "light": "Where does the light shine on the bull? Which parts hide in shadow?",
+      "meaning": "Why might someone make a pot in the shape of a strong animal like a bull?",
+      "culture": "This bull comes from the island of Cyprus, more than 3,000 years ago. What animals live on farms near you?",
+      "technique": "A potter shaped four legs and a body from soft clay. Why do you think the legs are short and thick?",
+      "personal": "What is the strongest animal you know? Tell about it.",
+      "critical": "A pot can hold things inside, but it looks like an animal outside. How do those two jobs fit together?"
+    },
+    "g12": {
+      "daily": "Which parts of this vase tell you it is a bull? Show the details that helped you decide.",
+      "emotion": "What feeling does the bull's strong body give you? Which parts make you feel it?",
+      "observation": "Describe the bull from head to legs. What three things do you notice?",
+      "analysis": "How did the potter make a sturdy animal and a container at the same time?",
+      "line": "Follow the outline of the bull with your eyes. Where do you see the strongest curves?",
+      "shape": "Find big shapes and small shapes on the bull. How do they work together?",
+      "color": "Look at the color of the clay. What does it remind you of?",
+      "texture": "The vase is baked clay. Which parts look smooth and which look rough?",
+      "space": "The bull has four legs that hold it up. How do they make the vase look steady?",
+      "light": "Where would light hit the bull first? Where might shadows fall under its body?",
+      "meaning": "Bulls were important to people on farms and in ceremonies. Why might a bull be a good shape for a vase?",
+      "culture": "People on Cyprus made pottery like this over 3,000 years ago. What does this vase tell you about them?",
+      "technique": "Clay must be baked in a very hot fire. Why does baking make a vase last longer?",
+      "personal": "If you could have a pot shaped like any animal, which animal would you choose?",
+      "critical": "Is this vase more like a toy, a tool, or a sculpture? Use details to explain."
+    },
+    "g35": {
+      "daily": "How does the potter give a clay container the feeling of a powerful animal? Point to specific features.",
+      "emotion": "What personality does this bull seem to have, calm, stubborn, or strong? Which features create that feeling?",
+      "observation": "Look at the bull from head to tail. Which small details do you notice about its horns, legs, or body?",
+      "analysis": "Which features did the potter show clearly, and which did the potter leave out? Why might that be?",
+      "line": "How does the line of the bull's back and horns compare with the lines of the legs?",
+      "shape": "How does the potter use large rounded forms and small shapes to build a bull that is also a vessel?",
+      "color": "How does the natural color of terracotta shape the look of the bull? What might change if it were painted?",
+      "texture": "What clues tell you how the surface of the baked clay might feel?",
+      "space": "A vessel has empty space inside. How does the shape of the bull hide or reveal that?",
+      "light": "How does light show the rounded shape of the bull's body? Where would the darkest shadow be?",
+      "meaning": "Bulls were valued in many ancient cultures. What might a bull vase say about what people in Cyprus valued?",
+      "culture": "The Met has several bull vases from Cyprus. What does that suggest about how common the idea was?",
+      "technique": "Potters shape clay, dry it, and fire it. Why might a four-legged animal be harder to make than a plain jar?",
+      "personal": "What object at home or school would you turn into an animal shape, and why?",
+      "critical": "We do not know how this vase was used. What could be reasons for a bull-shaped container, and which are guesses?"
+    },
+    "g68": {
+      "daily": "How does the potter simplify a bull into broad forms that still look powerful?",
+      "emotion": "Does the bull feel gentle, fierce, or solemn? Support your idea with visual details.",
+      "observation": "List the features that suggest a bull, such as horns, back, and legs. Which feature is most convincing?",
+      "analysis": "How does the composition balance the heavy body, the head, and the legs?",
+      "line": "How do contour lines of the back and horns help express strength?",
+      "shape": "How do simplified, rounded volumes help the bull read clearly from a distance?",
+      "color": "How does the natural color of fired clay affect how we perceive age and material?",
+      "texture": "What does the surface suggest about how the potter finished the vase?",
+      "space": "How does a hollow vessel in animal form differ from a solid animal statue?",
+      "light": "How do rounded forms catch light, and how does that help the animal feel solid?",
+      "meaning": "What might bulls have symbolized, such as strength or fertility? Which ideas have evidence and which are guesses?",
+      "culture": "How might Cyprus's trade links across the Mediterranean have shaped its pottery?",
+      "technique": "What challenges come with firing an animal-shaped vessel with legs, horns, and an enclosed interior?",
+      "personal": "Which objects in your daily life take animal forms, and what do those forms express?",
+      "critical": "Does the lack of a known findspot limit how we interpret this vase? What can we still learn?"
+    },
+    "g910": {
+      "daily": "How does the potter merge sculptural form and vessel function in a way that makes the bull memorable?",
+      "emotion": "What attitude toward the animal does the vase express, reverence, practicality, or both?",
+      "observation": "Describe the vase's visual hierarchy. What draws attention first, and how is that achieved?",
+      "analysis": "Analyze how mass, proportion, and silhouette give the bull stability and presence.",
+      "line": "How does contour define the bull's anatomy while remaining simple enough for a pottery form?",
+      "shape": "How does abstraction of the animal's body into rounded masses serve both function and expression?",
+      "color": "How does unpainted terracotta contribute to the vase's sense of material honesty and age?",
+      "texture": "How might firing and finishing affect the surface's resemblance to a living animal?",
+      "space": "How does the enclosed interior create a hidden dimension that solid sculpture lacks?",
+      "light": "How do light and shadow reveal the volume of the horns, back, and legs?",
+      "meaning": "Where does a symbolic reading of bull imagery end and speculation begin?",
+      "culture": "How does Late Bronze Age Cyprus's role in Mediterranean trade complicate an idea of isolated local pottery?",
+      "technique": "What does a recognized bull-vase type imply about workshop practice and repetition?",
+      "personal": "How does your own experience of animals influence how you read an ancient animal vessel?",
+      "critical": "How does 19th-century collecting limit what we can say about this vase's original role?"
+    },
+    "g1112": {
+      "daily": "What can this bull vase tell us on its own, and which claims require evidence we do not have?",
+      "emotion": "How might a modern viewer's feelings about bulls differ from those of a Late Bronze Age user, and how can we handle that gap?",
+      "observation": "Describe the vessel's form with precision. Which observations support claims about function?",
+      "analysis": "Analyze the vase as both sculpture and container and discuss how each role constrains the other.",
+      "line": "How does the vessel's profile balance naturalistic suggestion and the economy of a mass-produced pottery form?",
+      "shape": "How might stylization reflect local conventions rather than limited skill?",
+      "color": "How does the vase's current color relate to its original appearance, including firing and burial effects?",
+      "texture": "What can surface condition tell us about handling, burial, and restoration over three millennia?",
+      "space": "How does an animal-shaped enclosed volume complicate the categories of sculpture and vessel?",
+      "light": "How do museum display conditions change the way a zoomorphic vessel is perceived compared with its original setting?",
+      "meaning": "Evaluate readings of bull vases as ritual objects, household vessels, or both. What evidence would help?",
+      "culture": "How does the vase's local style sit within Late Bronze Age exchange networks?",
+      "technique": "What does the recurrence of bull vases imply about workshop traditions and demand?",
+      "personal": "How do your assumptions about ritual and everyday life shape what you expect from an ancient animal vessel?",
+      "critical": "What responsibilities do museums have when presenting objects acquired in the 19th century with limited documentation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, object name, classification (Vases), culture, period and tags (Bulls) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A terracotta bull-shaped vase from Late Bronze Age Cyprus, about 1450–1200 BCE. It entered the Met in 1874–76 with the Cesnola Collection, so its find context is poorly documented.",
+    "vocabulary": [
+      "terracotta",
+      "vessel",
+      "Late Bronze Age",
+      "Cyprus",
+      "zoomorphic",
+      "firing"
+    ],
+    "directions": [
+      "Have students model a small animal-shaped container from clay or dough, with a clear place for something to go inside.",
+      "Compare this bull with the duck-shaped vase in the archive and discuss how each potter simplified the animal.",
+      "Discuss why museums say 'we do not know' about an object's use and what evidence could change that."
+    ]
+  }
+}

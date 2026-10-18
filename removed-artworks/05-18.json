@@ -1,0 +1,151 @@
+{
+  "id": "met-501177",
+  "day": "05-18",
+  "title": "Kelyaut (frame drum)",
+  "artist": "Artist unknown (Inuit, Iñupiaq probably)",
+  "date": "19th century",
+  "medium": "Willow wood, various materials",
+  "region": "United States (Northern Alaska)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.561.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.561.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round hand-held frame drum with a stretched skin across one side and a wooden rim and handle. It looks simple and practical, made of natural materials.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501177",
+    "objectId": "501177",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Native American, Inuit, Iñupiaq probably), country, classification (single-headed frame drum), public-domain flag, creditLine, and image URLs read from the record; the record's artist field uses an older group name and a family name, which are not repeated here"
+  },
+  "context": "A kelyaut is a single-headed frame drum, with a skin stretched over one side of a wooden frame. The Met dates this one to the 19th century, describes the culture as Inuit and probably Iñupiaq, and places it in northern Alaska. Frame drums of this type are widely documented as being struck on the rim with a stick and used for song and dance, though the record does not describe how this specific drum was used.",
+  "descriptions": {
+    "k": "This is a drum from Alaska. It is round, with a skin stretched tight across one side. A wooden frame holds the skin. It has a handle to hold. How do you think a person might make it sound?",
+    "g12": "This round drum comes from northern Alaska. It was made by Inuit people long ago. A skin is stretched over a wooden frame, and a handle lets someone hold it up. Many drums like this are played by tapping the frame with a stick. What do you notice about its shape?",
+    "g35": "This frame drum is a kelyaut, made in the 19th century by Inuit people in northern Alaska, probably Iñupiaq. A thin skin is stretched over one side of a round wooden frame. The Met lists willow wood and other materials. Drums like this were played for song and dance, often by striking the rim. What do you notice about how it is built, and how might a person hold it?",
+    "g68": "This kelyaut, a single-headed frame drum from northern Alaska, dates to the 19th century and is attributed to the Iñupiaq, probably. Its design is simple and direct: a wooden frame, a stretched skin and a handle. Drums of this kind are widely documented as being struck on the rim with a stick and used in song and dance, which are important to Iñupiaq community life. Consider how an instrument made from local materials expresses a culture's relationship to its environment.",
+    "g910": "A kelyaut such as this one, made in northern Alaska in the 19th century and attributed to the Iñupiaq, shows how form follows function. A single skin stretched over a circular wooden frame with a handle makes a lightweight drum that a player can hold and move with. Instruments of this kind are widely recorded as part of song and dance, which carry community history and identity. The Met's record is brief, so its specific use, owner and maker are unknown. How does a plain object carry cultural significance?",
+    "g1112": "This 19th-century kelyaut, a single-headed frame drum from northern Alaska, is catalogued as Inuit, probably Iñupiaq. Frame drums of this type are widely documented as accompanying song and dance, but the record gives no information about this drum's maker, owner or use. It entered the Crosby Brown collection in 1889, a context of collecting that often separated Indigenous instruments from their communities. Reading the object responsibly means acknowledging both its design logic and the limits of what a museum record can say about living traditions."
+  },
+  "questions": {
+    "k": {
+      "daily": "This drum is round with a handle. How do you think someone holds it and makes it sound?",
+      "emotion": "Does this drum look gentle or strong to you? What do you see that makes you say so?",
+      "observation": "Find the round frame, the skin and the handle. Can you point to each one?",
+      "analysis": "Is your eye pulled to the stretched skin, the round rim or the handle? Which comes second?",
+      "line": "Trace the round line of the frame with your finger in the air. Where does it end?",
+      "shape": "This drum is a big circle. What other round things can you think of?",
+      "color": "What colors do you see on the skin and on the wood?",
+      "texture": "If you touched the drum skin and the wooden frame, how would they feel different?",
+      "space": "The drum is flat and round. What do you think is behind the skin?",
+      "light": "Where does the drum look light, and where does it look dark?",
+      "meaning": "Why do you think people make drums? What do you do when you hear a drum?",
+      "culture": "This drum comes from Alaska, where it gets very cold. Why might people there make drums from natural things?",
+      "technique": "A skin is stretched tight over the frame. Why do you think it has to be tight?",
+      "personal": "What rhythm could you tap on this drum? Show it with your hands.",
+      "critical": "This drum looks simple. Do you think a simple drum can still be important? Why?"
+    },
+    "g12": {
+      "daily": "The skin is stretched over one side of a round wooden frame. How does that design help make a sound?",
+      "emotion": "What feeling does this simple, natural drum give you? Point to a detail.",
+      "observation": "Describe the frame, the skin and the handle. What do you notice about each?",
+      "analysis": "How do the frame and handle work together so a player can hold the drum?",
+      "line": "Find the curved line of the frame. Is there a straight line anywhere?",
+      "shape": "A circle is the main shape of this drum. How does that shape help you hold and play it?",
+      "color": "The colors come from natural materials. How do they make the drum look warm or cool?",
+      "texture": "The skin looks different from the wood. Where do you see each texture?",
+      "space": "The drum has a skin on one side and is open on the other. Why might that matter for the sound?",
+      "light": "Look at light and shadow on the drum. How do they show the round shape?",
+      "meaning": "Drums can help people dance and sing together. How might a drum bring people close?",
+      "culture": "This drum was made by Inuit people in Alaska. What do you wonder about their songs and dances?",
+      "technique": "The drum is made of willow wood and other materials. Why might a maker choose wood that can bend?",
+      "personal": "When have you clapped or tapped along to music? How would a drum change that?",
+      "critical": "A museum has this drum, but it was made to be played. What do you think is lost when it sits quietly?"
+    },
+    "g35": {
+      "daily": "A frame drum has a skin on only one side. How can you tell from the picture how a player would hold and strike it?",
+      "emotion": "What mood does this simple drum create, and which details cause it?",
+      "observation": "Describe the drum from the rim to the handle. What details did you find at each place?",
+      "analysis": "How do the circle of the frame, the stretched skin and the handle organize the design?",
+      "line": "How does the circular line of the frame contrast with the line of the handle?",
+      "shape": "The round shape of the drum is very important. How does it change the way you see the skin?",
+      "color": "The record lists willow and other natural materials. How do natural colors affect the mood of the drum?",
+      "texture": "Wood and skin have different textures. How can you tell the difference in the picture?",
+      "space": "The drum is shallow, with the skin on one side. How does that shape use space?",
+      "light": "How does light help you see the stretched skin and the curved rim?",
+      "meaning": "The kelyaut is used with song and dance. Why might a drum be so important in gatherings?",
+      "culture": "Inuit communities in Alaska have lived in a challenging environment for a very long time. How might that shape the materials used for instruments?",
+      "technique": "To make a frame drum, a maker bends a frame, stretches a skin and attaches a handle. Which step needs the most care, and why?",
+      "personal": "What is a rhythm or tradition in your own family or community? How is it like a drum?",
+      "critical": "The museum record says little about who made this drum. What would you want to know, and who might know it?"
+    },
+    "g68": {
+      "daily": "How does the simple structure of this kelyaut show careful design for a performer who holds and moves with it?",
+      "emotion": "What tone does the modest, natural look of the drum set? Support your answer with evidence.",
+      "observation": "List every part you can see before deciding how it works. Which details were easiest to overlook?",
+      "analysis": "How does the circular frame organize the object and direct your eyes to the skin?",
+      "line": "How do curved and straight lines in the frame and handle make the drum balanced?",
+      "shape": "Why might a circle be a useful form for a hand-held drum?",
+      "color": "How do the tones of skin and wood relate, and what do they say about the materials used?",
+      "texture": "Compare the textures of the stretched skin and the frame. How does each serve the drum's purpose?",
+      "space": "A frame drum has a stretched surface and a hollow back. How does this structure create space for sound?",
+      "light": "How does lighting change how you see the tension of the skin?",
+      "meaning": "How might a drum represent more than a musical tool for the community that uses it?",
+      "culture": "Why is it important to say that this is probably Iñupiaq, and to remember that this tradition continues today?",
+      "technique": "What does the use of willow and skin suggest about knowing and using local materials?",
+      "personal": "Think of an object in your life that is simple but meaningful. How does it compare to this drum?",
+      "critical": "How do the limits of the museum record affect how confidently we can talk about this drum's use?"
+    },
+    "g910": {
+      "daily": "How does this drum's economy of form express the relationship between materials, function and performance?",
+      "emotion": "What emotional register does the drum's simplicity convey, and how might a performance change it?",
+      "observation": "Describe the hierarchy of the drum's components. What do you notice first, and what supports it?",
+      "analysis": "How does the unity of frame, skin and handle suggest the principle that form follows function?",
+      "line": "How does the continuous circular contour define the drum as a whole?",
+      "shape": "Why is the circular form so effective for a drum that is held, struck and moved during performance?",
+      "color": "How do the earth tones of the materials contribute to the object's visual coherence?",
+      "texture": "How does the contrast between a tightly stretched skin and a wooden frame communicate the drum's function?",
+      "space": "How does the shallow frame create a resonating space while remaining light enough to carry?",
+      "light": "How does the sheen or translucence of a stretched skin respond to light?",
+      "meaning": "How might song and dance give a frame drum meaning beyond its construction?",
+      "culture": "How does the object's attribution to the Iñupiaq, probably, connect to broader questions about the representation of Indigenous cultures in museums?",
+      "technique": "What knowledge of materials is needed to build a drum that stays tight and light?",
+      "personal": "What object in your life gains meaning mostly from how and with whom it is used?",
+      "critical": "How should viewers balance appreciation for an object's design with respect for the community that created it?"
+    },
+    "g1112": {
+      "daily": "What can this drum reveal about design, material knowledge and performance, and what cannot be understood without Iñupiaq voices?",
+      "emotion": "How does the object's modest appearance shape your response, and how might that differ from the response of someone who knows its use?",
+      "observation": "Differentiate between what you can see and what you are inferring from outside sources about how this drum was played.",
+      "analysis": "How do frame, skin and handle together create a unified, functional design?",
+      "line": "How does the uninterrupted circle assert both visual order and structural necessity?",
+      "shape": "What does the choice of a hand-held circular form say about the relation between instrument and body?",
+      "color": "How do natural tones signal materials and, for the viewer, perhaps a sense of authenticity, and why should we examine that assumption?",
+      "texture": "How do the properties of a stretched membrane and a wooden frame determine both appearance and function?",
+      "space": "How does the shallow body shape the drum's relationship to the performer's body and to the surrounding space?",
+      "light": "How might the display of a translucent or reflective skin in a gallery alter how it is perceived?",
+      "meaning": "How can a drum function as both a musical tool and a carrier of community memory, and how can museums avoid reducing it to one of these roles?",
+      "culture": "How does the 1889 collecting context shape the information available about this drum, and how might contemporary communities contribute to its interpretation?",
+      "technique": "How does the interplay of bent wood, tension and membrane reveal an engineering logic worth studying alongside its artistry?",
+      "personal": "How does your own relationship to music-making inform how you imagine this drum in use?",
+      "critical": "How should museums collaborate with Indigenous communities when interpreting instruments collected in the 19th century?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Membranophone-single-headed / frame drum), medium (willow wood, various materials), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release, including that no decoration is inappropriate.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 19th-century single-headed frame drum from northern Alaska, catalogued as Inuit and probably Iñupiaq. The record does not describe its use, so the broader statement about song and dance comes from general documentation of the tradition. Where possible, point students to resources by Iñupiaq communities.",
+    "vocabulary": ["frame drum", "membrane", "Iñupiaq", "Inuit", "rim", "tradition"],
+    "directions": [
+      "Compare a frame drum with a snare or bass drum: how do the shapes differ?",
+      "Explore how materials from the local environment shape what people make.",
+      "Discuss why Indigenous voices matter when museums describe community instruments."
+    ]
+  }
+}

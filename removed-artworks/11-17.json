@@ -1,0 +1,158 @@
+{
+  "id": "met-45480",
+  "day": "11-17",
+  "title": "Writing Box with Design of Flowering Bush Clover and Sun",
+  "artist": "Artist unknown",
+  "date": "first half of the 19th century",
+  "medium": "Gold, silver togidashimaki-e, hiramaki-e, takamaki-e, cut-out gold foil application",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/14_40_863a-e_O1_sf.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/14_40_863a-e_O1_sf.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Benjamin Altman, 1913",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A lacquer box with a gold and silver design of a flowering bush clover plant and a sun, the shining metal standing out against the lacquer ground.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/45480",
+    "objectId": "45480",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A writing box made in Japan in the first half of the 19th century, during the Edo period. It is decorated in lacquer with gold and silver maki-e techniques and cut-out gold foil, with a design of flowering bush clover and the sun. Bush clover is an autumn plant often celebrated in Japanese poetry.",
+  "descriptions": {
+    "k": "This fancy box has a plant and a sun on it. The plant has tiny flowers. The picture shines in gold and silver. People used this box to hold writing tools. What would you keep in a box this pretty?",
+    "g12": "This writing box from Japan has a design of bush clover, a plant with small flowers, and a round sun. The pictures are made with gold and silver. Bush clover blooms in autumn. How does the sun make the plant feel? What season do you think it is?",
+    "g35": "This writing box from Japan was made to hold an inkstone, ink stick, and brushes. Its lid shows flowering bush clover and the sun, made with gold and silver in different lacquer techniques. Some parts are raised and some are flat and polished. Bush clover is an autumn plant. Why might a designer choose a plant and a sun for a writing box?",
+    "g68": "This 19th century writing box uses several lacquer techniques at once: togidashi maki-e, in which gold or silver powder is polished until it is level with the surface, hiramaki-e, in which the design is slightly raised, takamaki-e, in which it is built up higher, and cut gold foil. Together they give the design different textures and shine. Bush clover signals autumn. How does the sun change the meaning of the plant, and what might it add to the mood?",
+    "g910": "The box shows how lacquer artists could vary surface within a single design. Different maki-e methods produce flat, slightly raised, and heavily raised effects, while cut gold foil adds crisp accents. Bush clover is a classic autumn motif in Japanese poetry, and pairing it with the sun creates a simple, striking composition. Consider how the maker uses contrast of shine and depth, rather than color, to give the plant life and the sun presence.",
+    "g1112": "This box demonstrates the technical range of Edo-period lacquer: polished togidashi, raised hiramaki-e and takamaki-e, and cut gold foil, all in one design. Bush clover is strongly associated with autumn in poetry, and the sun's inclusion creates a spare composition with possible seasonal or symbolic resonance, though specific intent is not documented in the record. The object also reminds us that function mattered: it housed writing tools. How do technique, motif, and use together shape meaning?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the sun is doing for the plant?",
+      "emotion": "Does this box feel quiet, fancy, or cheerful to you? What do you see that tells you?",
+      "observation": "What can you find on the lid? Point to the sun and the plant.",
+      "analysis": "Where do your eyes go first, the sun or the plant? Why?",
+      "line": "Can you find bendy stems and tiny flowers? Trace one in the air.",
+      "shape": "What shape is the sun? What shapes are the leaves and flowers?",
+      "color": "What colors do you see? Which ones shine?",
+      "texture": "Which parts do you think would feel smooth, and which might feel raised?",
+      "space": "How much empty space is around the plant? What does it feel like?",
+      "light": "The sun is in the picture. How does the shiny gold look like light?",
+      "meaning": "Plants and the sun can mean many things. What do they make you think of?",
+      "culture": "People in Japan loved to notice the seasons. What season is shown here?",
+      "technique": "Someone painted with lacquer and sprinkled gold on it. Why do you think this took a long time?",
+      "personal": "What do you like to look at outside when you have a quiet minute?",
+      "critical": "This box is for writing things. Why might someone make it so pretty?"
+    },
+    "g12": {
+      "daily": "What season and time of day do you think this design shows? Use clues you see.",
+      "emotion": "What feeling does this peaceful design give you? Which parts help?",
+      "observation": "Describe five things you see on the lid, from the sun to the flowers.",
+      "analysis": "How does the artist place the plant and the sun to lead your eyes around the lid?",
+      "line": "Find thin, bendy lines in the plant. How do they give it movement?",
+      "shape": "What shapes are the sun, flowers, and leaves? How are they different?",
+      "color": "Gold and silver shine. How do they stand out from the lacquer behind them?",
+      "texture": "Which parts look flat and which look raised? Show where you see it.",
+      "space": "How does the empty space on the lid make the plant stand out?",
+      "light": "How does shiny metal make the sun seem to glow?",
+      "meaning": "Why might the artist put a sun with a plant?",
+      "culture": "Bush clover is an autumn plant in Japan. Why would people want to see the seasons on their things?",
+      "technique": "Lacquer is a smooth, hard coating. Why would artists use it for decorating boxes?",
+      "personal": "If you could put one plant on a box, what would you choose?",
+      "critical": "The box is useful and beautiful. Which matters more to you, and why?"
+    },
+    "g35": {
+      "daily": "What season, mood, or idea does the design show, and what details support your idea?",
+      "emotion": "What mood does this design create? Which choices help create it?",
+      "observation": "Look for one minute at the sun and plant. What tiny details did you miss at first?",
+      "analysis": "How does the artist arrange the plant, sun, and empty space on the lid?",
+      "line": "How do thin curved lines of stems and branches give the plant movement?",
+      "shape": "How does the round shape of the sun contrast with the shapes of the plant?",
+      "color": "Gold and silver are shining metals. How do they create contrast without many colors?",
+      "texture": "How do raised and flat areas create different textures on the box?",
+      "space": "How does the artist use empty areas to make the design feel calm?",
+      "light": "How does shine suggest sunlight in a picture that is not painted in ordinary colors?",
+      "meaning": "Bush clover is an autumn flower often found in poetry. What might a poem about this plant and the sun feel like?",
+      "culture": "Why might people in Edo-period Japan have wanted luxury writing boxes with seasonal designs?",
+      "technique": "Lacquer artists used gold powder, silver, and gold foil. Why might they combine different techniques?",
+      "personal": "Think of an object you own that shows a season. How is it like this box?",
+      "critical": "A museum shows the lid but not how the box was used. What would you want to know?"
+    },
+    "g68": {
+      "daily": "How does the artist create a mood of autumn with only a plant and a sun?",
+      "emotion": "What atmosphere do the design and shining metals create, and how?",
+      "observation": "Describe the composition from edge to edge. Which parts are most carefully worked?",
+      "analysis": "How does the composition balance a delicate plant against the strong, simple shape of the sun?",
+      "line": "How do thin stems and branches create movement across the lid?",
+      "shape": "How do the simple round sun and the irregular plant forms work together?",
+      "color": "How does the use of gold and silver on lacquer create contrast and unity?",
+      "texture": "How do flat polished areas and raised areas of the design differ visually?",
+      "space": "How does the artist create a sense of space with a small number of elements?",
+      "light": "How does the metallic design change with viewing angle or light source?",
+      "meaning": "A sun and an autumn plant can suggest time passing. What other meanings might they have?",
+      "culture": "How might a writing box relate to poetry, letters, and learning in Edo-period life?",
+      "technique": "What does the range of maki-e techniques used here show about the maker's skill?",
+      "personal": "What simple scene would you choose to decorate something you care about?",
+      "critical": "How does knowing the box was meant to be opened and used change the way you look at the lid alone?"
+    },
+    "g910": {
+      "daily": "How do technique, motif, and spare composition combine to create mood?",
+      "emotion": "How does the contrast of shine and ground create atmosphere?",
+      "observation": "Describe the visual hierarchy. How does the artist direct the eye between sun and plant?",
+      "analysis": "Analyze how the artist uses asymmetry and open space in the composition.",
+      "line": "How does line quality differentiate delicate plant forms from the simple sun?",
+      "shape": "How does the geometry of the sun interact with the organic structure of the plant?",
+      "color": "How does a limited metallic palette produce visual interest?",
+      "texture": "How do polished and raised maki-e techniques create varying surface depth?",
+      "space": "How does the design suggest an open space without a horizon or background?",
+      "light": "How do reflective materials make light an active element of the design?",
+      "meaning": "What seasonal or poetic associations might bush clover and the sun carry, and which are documented?",
+      "culture": "How does the box reflect the culture of refined writing and seasonal sensibility in Edo society?",
+      "technique": "How do togidashi, hiramaki-e, and takamaki-e differ, and what do they allow the designer to do?",
+      "personal": "How does a minimal design make you slow down and look?",
+      "critical": "How does the museum presentation affect our understanding of an object meant for handling?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the box's design about the relationship between seasonal feeling and craft, and what remains uncertain?",
+      "emotion": "How does the spare composition create mood, and how does the material shine contribute?",
+      "observation": "Describe the bush clover and sun design precisely. Where does description begin to imply meaning?",
+      "analysis": "Analyze how asymmetry, open ground, and contrast of surface structure the composition.",
+      "line": "How does line in lacquer decoration compare with line in painting?",
+      "shape": "How does the opposition of geometric sun and organic plant generate tension and balance?",
+      "color": "How might aging of lacquer and metals have changed the original contrasts?",
+      "texture": "How do varied maki-e techniques complicate the distinction between painting and relief?",
+      "space": "How does the box suggest spaciousness without conventional landscape devices?",
+      "light": "How does display lighting change a work whose reflective surface was meant to shift with the viewer?",
+      "meaning": "Evaluate readings of the sun and bush clover as seasonal marker, poetic reference, or abstract design. What evidence would support each?",
+      "culture": "How does the box illustrate the intersection of craft, literacy, and taste among Edo-period elites?",
+      "technique": "What does the combination of several maki-e techniques imply about specialization and cost?",
+      "personal": "How does your own experience of seasons affect how you read this design?",
+      "critical": "What is lost when a handled object is displayed as a static image, and how might we compensate?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Lacquer), medium, and tags (Sun, Plants) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A writing box in lacquer with gold and silver maki-e and cut gold foil, first half of the 19th century, Edo period. The design of bush clover and the sun suggests autumn.",
+    "vocabulary": [
+      "lacquer",
+      "maki-e",
+      "togidashi",
+      "writing box",
+      "motif",
+      "Edo period"
+    ],
+    "directions": [
+      "Ask students to design a lid with one plant and one celestial object, using only metallic-looking colors.",
+      "Compare how this box and the deer box in the archive show autumn.",
+      "Discuss how an object's texture can be part of its design even when you cannot touch it."
+    ]
+  }
+}

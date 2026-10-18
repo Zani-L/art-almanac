@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "defaultGrade": "g35",
+  "defaultCategory": "daily",
+  "gradeBands": [
+    { "id": "k", "label": "Kindergarten", "short": "K", "cue": "Look closely. Point to what you see." },
+    { "id": "g12", "label": "Grades 1–2", "short": "1–2", "cue": "Look closely, then tell a partner what you notice." },
+    { "id": "g35", "label": "Grades 3–5", "short": "3–5", "cue": "Use details from the picture to support your idea." },
+    { "id": "g68", "label": "Grades 6–8", "short": "6–8", "cue": "Explain your reasoning with evidence you can see." },
+    { "id": "g910", "label": "Grades 9–10", "short": "9–10", "cue": "Ground your interpretation in specific visual evidence." },
+    { "id": "g1112", "label": "Grades 11–12", "short": "11–12", "cue": "Support your reading with evidence, and consider other readings." }
+  ],
+  "categories": [
+    { "id": "daily", "label": "Daily Question", "description": "A general prompt chosen for this artwork" },
+    { "id": "emotion", "label": "Emotion & Mood", "description": "Feelings, atmosphere, and emotional impact" },
+    { "id": "observation", "label": "Observation", "description": "Noticing and describing what is visible" },
+    { "id": "analysis", "label": "Analysis", "description": "Composition, balance, contrast, and artistic choices" },
+    { "id": "line", "label": "Line", "description": "Direction, quality, movement, and thickness of line" },
+    { "id": "shape", "label": "Shape & Form", "description": "Geometric and organic shapes, volume, and form" },
+    { "id": "color", "label": "Color", "description": "Color relationships, contrast, harmony, and mood" },
+    { "id": "texture", "label": "Texture", "description": "Actual or implied texture and surfaces" },
+    { "id": "space", "label": "Space & Perspective", "description": "Depth, overlap, scale, and viewpoint" },
+    { "id": "light", "label": "Light & Shadow", "description": "Highlights, shadows, and atmosphere" },
+    { "id": "meaning", "label": "Meaning & Story", "description": "Narrative, symbolism, and interpretation" },
+    { "id": "culture", "label": "Culture & History", "description": "The world in which the work was made" },
+    { "id": "technique", "label": "Technique & Materials", "description": "Medium, tools, and process" },
+    { "id": "personal", "label": "Personal Connection", "description": "Links to your own life and imagination" },
+    { "id": "critical", "label": "Critical Thinking", "description": "Evidence, alternative readings, and assumptions" }
+  ]
+}

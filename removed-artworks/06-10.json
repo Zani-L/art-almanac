@@ -1,0 +1,158 @@
+{
+  "id": "met-2728",
+  "day": "06-10",
+  "title": "Creampot",
+  "artist": "Paul Revere Jr.",
+  "date": "ca. 1795",
+  "medium": "Silver",
+  "region": "United States, New England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP105049.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP105049.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Alphonso T. Clearwater, 1933",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, polished silver pot for cream, with a pouring spout, a curved handle, and a small round foot at the base. Its smooth silver surface reflects light.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/2728",
+    "objectId": "2728",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, region, dimensions (including foot), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A silver cream pot made around 1795 by Paul Revere Jr., a Boston silversmith who is also remembered for his role in the American Revolution. The Met lists its height as 6 3/4 inches (17.1 cm) and its weight as just under 6 ounces. It was made for pouring cream at the table.",
+  "descriptions": {
+    "k": "This is a little silver pot for cream. It is shiny like a mirror. It has a handle and a pouring spout. A silversmith named Paul Revere made it by hand. What would you pour from it?",
+    "g12": "Paul Revere made this silver pot about two hundred and thirty years ago. It held cream for tea or coffee. Silver is smooth and shiny, so it shows light and reflections. Find the handle, the spout, and the round foot at the bottom. Why would the maker make it so smooth?",
+    "g35": "Paul Revere Jr. lived in Boston and worked as a silversmith, making cups, bowls, and pots from silver. He made this creampot around 1795 to hold cream at the table. Look for the spout for pouring, the handle for holding, and the small foot that lifts it. How do the shiny, smooth surfaces and simple shape make it look elegant?",
+    "g68": "Paul Revere Jr. is famous for his midnight ride in 1775, but he was also one of Boston's leading silversmiths. This creampot, from about 1795, is made of silver and shaped for pouring, holding, and standing steadily on its foot. Its smooth, polished surface shows reflections rather than decoration. How do simple curves create elegance? What can a small tableware object tell us about daily life and wealth in the early United States?",
+    "g910": "In this creampot of about 1795, Paul Revere Jr. makes polished silver do most of the expressive work. The form combines a foot, a body, a spout, and a handle into a compact, balanced profile, while the reflective surface turns the surroundings into part of the object. Consider how the clean lines reflect the taste of the early American republic, and how a craftsman known today for a famous ride is also an artist of tableware.",
+    "g1112": "Paul Revere Jr. is often remembered through a single historical episode, yet his silver shows how fully he participated in the artisanal and commercial life of post-Revolutionary Boston. This creampot of about 1795 uses a restrained, reflective surface and a compact, balanced profile to signal refinement for a new republic's households. Ask how historical fame shapes our reading of such an object, and how museums weigh craft, commerce, and national memory in presenting silver."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the shiny silver. What do you see reflected in it?",
+      "emotion": "Does this little pot look fancy, friendly, or plain? Why?",
+      "observation": "Find the spout, the handle, and the foot. Point to each one.",
+      "analysis": "How does the handle help someone pour the cream?",
+      "line": "Follow the curve of the handle with your finger? Where does it start and end.",
+      "shape": "What shapes do you see in the pot? Look at the body, the foot, and the handle.",
+      "color": "Silver can look like many colors when light hits it. What colors do you see?",
+      "texture": "Would this pot feel smooth and cool, or rough and warm? Why?",
+      "space": "Where is the empty space inside the pot? What would go there?",
+      "light": "Where does the pot look brightest? Where does it look darker?",
+      "meaning": "Why might a family want a silver pot instead of a plain one?",
+      "culture": "People in America used pots like this for cream long ago. What do you pour from at home?",
+      "technique": "A silversmith shaped this pot by hand with a hammer. What do you think that was like?",
+      "personal": "What shiny thing do you like to look at? What do you see in it?",
+      "critical": "Is this pot only for using, or also for showing off? What tells you?"
+    },
+    "g12": {
+      "daily": "What is the first thing you notice about this silver creampot, and why?",
+      "emotion": "What feeling does a shiny silver pot give you? Which parts make you feel that way?",
+      "observation": "Name the parts of the creampot, from the foot at the bottom to the handle.",
+      "analysis": "How do the spout, handle, and foot each help the pot do its job?",
+      "line": "Follow the curved line of the handle. How does it connect to the body of the pot?",
+      "shape": "What shape is the body of the pot? How does the foot add a different shape?",
+      "color": "Silver has a cool, bright color. How does that make the pot look different from a clay pot?",
+      "texture": "Polished silver is very smooth. What parts of the pot look smoothest?",
+      "space": "How does the small foot lift the pot? What does that do for how it looks?",
+      "light": "Where do you see bright shiny spots, and where do you see shadows?",
+      "meaning": "The pot is simple and has little decoration. What does that say about the person who made it?",
+      "culture": "Paul Revere lived in Boston. Why do you think tableware was important to families then?",
+      "technique": "Silver is shaped with hammers and tools. What would be hard about making a smooth, curved pot?",
+      "personal": "What object at home do you take special care of? How do you care for it?",
+      "critical": "Do you think a small pot can be a work of art? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What do the smooth silver surfaces and simple shape tell you about the person who made this pot?",
+      "emotion": "What mood does a shiny silver pot create, and which design choices help create it?",
+      "observation": "Look at the creampot for one minute. What small details about the handle, spout, or foot did you miss at first?",
+      "analysis": "How do the foot, body, spout, and handle fit together into one balanced design?",
+      "line": "How do the curve of the handle and the contour of the body compare?",
+      "shape": "How does the shape of the body make it easy to hold and pour?",
+      "color": "How does the silver color change as it reflects light and the things around it?",
+      "texture": "How does polished silver look different from a rough clay pot or a wooden bowl?",
+      "space": "How does the foot change the way the pot sits on a table and how it takes up space?",
+      "light": "How does the polished surface play with light, and where might it look brightest?",
+      "meaning": "Why might a family want to use silver tableware? What might it tell visitors?",
+      "culture": "Paul Revere Jr. worked in Boston in the 1790s, after the American Revolution. How might life then shape what people wanted on their tables?",
+      "technique": "A silversmith heats, hammers, and polishes silver. Why do you think a smooth surface took so much skill?",
+      "personal": "What would you choose to make from silver if you were a silversmith? Why?",
+      "critical": "Paul Revere is famous for his midnight ride. Does knowing that change how you look at this creampot? Why or why not?"
+    },
+    "g68": {
+      "daily": "How can a small silver pot reveal so much about taste and daily life in the early United States?",
+      "emotion": "How does the polished, reflective surface affect the mood of the creampot?",
+      "observation": "List the parts of the creampot. Which seem to be for function and which for appearance?",
+      "analysis": "How does the creampot's balance of curves and solid forms support its function and its elegance?",
+      "line": "How do the contours of the handle and spout echo or contrast with the line of the body?",
+      "shape": "How does the shape of the body relate to the foot, spout, and handle? What would change if one were removed?",
+      "color": "How does silver's reflective color draw in its surroundings, and what effect does this have?",
+      "texture": "How does the smooth, polished surface communicate quality without any added ornament?",
+      "space": "How does the creampot occupy space on a table, and what role does its foot play?",
+      "light": "How does a polished metal surface change as light moves around the room?",
+      "meaning": "What might a plain, well-made silver object communicate about its owner's values?",
+      "culture": "How might the new republic's households have used silver tableware to show success or refinement?",
+      "technique": "Why does creating a smooth silver surface require careful planning, hammering, and polishing?",
+      "personal": "What does it mean to you for a household object to be well made? Where have you seen that?",
+      "critical": "How does Paul Revere's fame as a patriot influence the way we see his craft work?"
+    },
+    "g910": {
+      "daily": "How does Revere's creampot use polish and proportion to turn function into elegance?",
+      "emotion": "How does the reflective surface create a sense of refinement and reserve?",
+      "observation": "Describe the visual hierarchy of body, handle, spout, and foot. What draws the eye first?",
+      "analysis": "Analyze how the creampot's profile balances container, pouring form, and support.",
+      "line": "How do the creampot's contours create flow from foot to rim, and how does the handle punctuate that line?",
+      "shape": "How do compact volumes and tapering or curving forms give the creampot a distinctive silhouette?",
+      "color": "How does the silver's reflective quality draw color from its surroundings, and what does that do for the object's presence?",
+      "texture": "How does a polished metallic surface create a quality of precision and luxury?",
+      "space": "How does the pot's relationship to its table setting, including foot and handle, shape its presence?",
+      "light": "How does reflection turn the surface into a shifting field of highlights and shadows?",
+      "meaning": "How might restraint in ornament be read as a social or political statement in the early republic?",
+      "culture": "How does a shift in taste after the Revolution appear in the choice of simple, refined tableware?",
+      "technique": "What does the smoothness of the surface suggest about the metalworking skills required to shape and finish silver?",
+      "personal": "How does your response change knowing that the same craftsman is famous for a historical event?",
+      "critical": "How do museums balance an object's craftsmanship against the historical fame of its maker?"
+    },
+    "g1112": {
+      "daily": "What can a silver creampot show about the ways national identity and personal taste intersect in the early republic?",
+      "emotion": "How might the object's restraint and reflectivity cultivate a particular emotional register of dignity, order, or aloofness?",
+      "observation": "Describe the creampot's form and surface with precision. Where does description begin to involve judgment?",
+      "analysis": "Analyze how the creampot's volumes, edges, and reflections form a composition despite its small scale.",
+      "line": "How do silhouette and contour carry the design when there is little applied ornament?",
+      "shape": "How might the creampot's balance of volume and support be read as an expression of neoclassical ideals of proportion?",
+      "color": "How does the silver's mirror-like quality blur the distinction between the object and its setting?",
+      "texture": "How does the finish embody ideas of craftsmanship, and what do we lose when a polished surface is seen only behind glass?",
+      "space": "How does the object's relationship to table and hand shape its meaning beyond its appearance?",
+      "light": "In what sense is reflected light part of the object's design, and how does display change it?",
+      "meaning": "How can a household object be read as both ordinary and symbolic of a larger social aspiration?",
+      "culture": "How do historical narratives about Paul Revere shape the way we value his workshop output, and what might they obscure?",
+      "technique": "What does the object suggest about the relationship between hand skill and commerce in a silversmith's shop?",
+      "personal": "How do your own expectations of heirlooms or family objects affect how you interpret a silver object like this?",
+      "critical": "What are the risks of letting a famous name dominate the way we interpret a piece of craft?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, maker, medium, department and dimensions read from the Met record; the record lists no subject tags. A plain silver cream pot, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Paul Revere Jr. (1735–1818) was a Boston silversmith as well as a figure in the American Revolution. The Met record dates this creampot to about 1795 and lists it as silver.",
+    "vocabulary": [
+      "silversmith",
+      "creampot",
+      "foot",
+      "spout",
+      "polish",
+      "reflection"
+    ],
+    "directions": [
+      "Have students sketch the creampot and label each part with its purpose (holding, pouring, standing).",
+      "Ask students to compare the work of a craftsperson with the work of a famous historical figure, and discuss both.",
+      "Discuss how reflective surfaces change the way an object looks in different rooms."
+    ]
+  }
+}

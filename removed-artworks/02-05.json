@@ -1,0 +1,151 @@
+{
+  "id": "met-547365",
+  "day": "02-05",
+  "title": "Palette shaped like a guinea fowl",
+  "artist": "Artist unknown",
+  "date": "ca. 3500–3300 BCE",
+  "medium": "Greywacke",
+  "region": "Egypt, Predynastic Period (Naqada II)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP244957.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP244957.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1907",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A flat gray-green stone cut into the outline of a plump bird with a small head, a rounded body and a short tail. The surface is smooth and the edges are neatly shaped.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/547365",
+    "objectId": "547365",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, tags (Birds), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A thin stone palette from Predynastic Egypt, made around 3500–3300 BCE, before the pharaohs ruled a united country. Such palettes are generally thought to have been used for grinding mineral pigments, but this one was cut in the outline of a bird.",
+  "descriptions": {
+    "k": "This is a bird made of stone. It is flat, like a cookie cutter shape. It has a round body and a little head. It is more than five thousand years old! Can you trace its shape with your finger?",
+    "g12": "Long ago in Egypt, a carver shaped a flat piece of gray-green stone into a bird. It has a round body, a small head, and a smooth edge. People think palettes like this were used to grind colors. This is over 5,000 years old. Why would someone make a tool look like a bird?",
+    "g35": "This palette was carved in Egypt over 5,000 years ago, before Egypt was ruled by pharaohs. The stone is greywacke, hard and gray-green, and it was cut into the outline of a guinea fowl, a plump bird. Palettes like this were probably used to grind minerals into paint or cosmetic powder. Trace the outline with your eyes. What did the carver decide to keep, and what to leave out?",
+    "g68": "Made around 3500–3300 BCE, this thin stone palette shows how early Egyptian artists reduced a living animal to a clear silhouette. The guinea fowl is recognizable from its rounded body and small head without any painted detail. Palettes were probably used to prepare mineral pigments, so the object joined everyday use and animal imagery. How can a simple outline still feel alive, and what might choosing a bird mean to its owner?",
+    "g910": "This Naqada II palette is minimal in form: a flat sheet of greywacke cut to the contour of a guinea fowl. Its power comes from silhouette, proportion, and a hard stone shaped with care. Palettes of this type are generally understood as tools for grinding pigment, and animal shapes may have carried symbolic or protective meaning, though scholars remain cautious. How does reducing the bird to a single profile affect what we notice and what we imagine?",
+    "g1112": "Predynastic palettes such as this guinea fowl occupy an interesting position between tool and sculpture. The object is nearly two-dimensional, yet its confident contour gives the bird presence and a sense of balance. Archaeologists generally associate these stones with grinding pigments, and animal-shaped examples may have had ritual or status functions, but the evidence is incomplete and interpretations differ. Consider how abstraction, material, and function together shape our reading of early Egyptian art, and how little we may truly know of the maker's intentions."
+  },
+  "questions": {
+    "k": {
+      "daily": "This stone is cut into the shape of a bird. What parts of the bird can you find?",
+      "emotion": "Does this stone bird look calm, busy, or sleepy to you? What shows that?",
+      "observation": "Find the bird's head and its round body. Which part is bigger?",
+      "analysis": "Where does your finger start when you trace the bird's edge, and where does it stop?",
+      "line": "Trace the edge of the bird in the air. Does the line go straight or curvy?",
+      "shape": "The bird is a flat shape, like a cut-out. What shapes make up its head and its body?",
+      "color": "The stone is gray with a little green. What other things have this color?",
+      "texture": "Do you think this stone feels smooth or rough? What tells you?",
+      "space": "This bird is very thin, like a cracker. How do you think it would sit on a table?",
+      "light": "Where does the light make the stone look pale, and where does it look darker?",
+      "meaning": "Why would someone want a bird shape for their paint tool?",
+      "culture": "People made this over five thousand years ago in Egypt. What do you think they used birds for, or loved about them?",
+      "technique": "This hard stone was cut and rubbed smooth without machines. How do you think the carver did it?",
+      "personal": "What animal would you choose to turn into a tool or toy? Why?",
+      "critical": "There are no eyes or feathers drawn on this bird. Can you still tell what it is? Why?"
+    },
+    "g12": {
+      "daily": "What makes this flat piece of stone look like a bird? Point to your clues.",
+      "emotion": "Does the shape of this bird feel gentle, proud, or sturdy? What helps you decide?",
+      "observation": "Describe the bird's outline from its head to its tail. What do you notice?",
+      "analysis": "Which parts of the bird shape are round and which are narrow? How do they fit together?",
+      "line": "Follow the bird's edge with your eyes. Where does the line curve most?",
+      "shape": "Is the bird made of mostly round shapes or sharp ones? How does that change how it feels?",
+      "color": "The stone is a quiet gray-green. How is it different from a bright, painted bird?",
+      "texture": "How do you think this smooth, hard stone would feel in your hand, compared with a real feathered bird?",
+      "space": "The artist made the bird flat, not round like a statue. What do you lose and what do you gain?",
+      "light": "Where would light slide across the smooth stone? Where might shadows sit?",
+      "meaning": "A guinea fowl is a plump bird that spends much of its time on the ground. Why might the artist have picked this bird?",
+      "culture": "Palettes like this were used to grind colors. Why would people in Egypt spend time making a tool beautiful?",
+      "technique": "The carver had to cut away stone to leave only the bird. What would be tricky about that?",
+      "personal": "Tell about a favorite tool or object you own that has a fun shape.",
+      "critical": "If this were just a flat rock, nobody would notice. What choices turned it into a bird?"
+    },
+    "g35": {
+      "daily": "What details in the outline help you recognize a guinea fowl, even though nothing is painted on it?",
+      "emotion": "How would you describe the mood of this bird? Which parts of its shape give you that feeling?",
+      "observation": "Look for one full minute. What small details of the edge or surface did you notice only after looking longer?",
+      "analysis": "How does the carver balance the large body with the small head? What would change if the head were bigger?",
+      "line": "How does the outline do the job of a drawing here? Which curves are most important?",
+      "shape": "The palette is flat, but the bird still seems to have a body. How do the shapes create that feeling?",
+      "color": "Greywacke is a gray-green stone. How does a limited color change the way you look at the shape?",
+      "texture": "What might the surface of this stone feel like? How could it be smooth and still be useful for grinding?",
+      "space": "The palette is very thin. How does the flat form compare with a bird sculpted in the round?",
+      "light": "If you moved a lamp around this stone, how would the shadows and highlights change?",
+      "meaning": "Why might an Egyptian artist choose an animal to shape a tool for making pigment?",
+      "culture": "This was made before the pharaohs ruled all Egypt. What can a small object like this tell us about daily life then?",
+      "technique": "Greywacke is a hard stone. What kind of effort and patience would shaping it with simple tools require?",
+      "personal": "Think of something you use every day that someone made beautiful. Why does the beauty matter?",
+      "critical": "Since we cannot ask the maker, what are the limits on what we can say about why this bird was made?"
+    },
+    "g68": {
+      "daily": "How does the palette turn a practical stone into something that feels alive? Identify the key design choices.",
+      "emotion": "What kind of presence does this bird silhouette have? Which parts of its contour create that impression?",
+      "observation": "Describe the bird's silhouette in detail, from head to tail. Which feature is the most distinctive?",
+      "analysis": "How does the artist simplify a real animal while keeping it recognizable? What is kept and what is left out?",
+      "line": "How does the single continuous contour create both the shape and the character of the bird?",
+      "shape": "How do round and tapering forms combine to describe a plump bird? What would a more angular version suggest?",
+      "color": "How does the limited gray-green of the stone affect the way you notice form rather than decoration?",
+      "texture": "How might the polished stone surface contrast with the idea of feathers? What does that gap suggest about the artist's priorities?",
+      "space": "The palette has almost no depth. How does a flat form behave differently from a statue, and what does the viewer imagine to fill the gap?",
+      "light": "How would raking light show the carved edge and thickness, even if the surface has little decoration?",
+      "meaning": "Why might early Egyptians associate animals with tools for pigment? What different ideas could explain this?",
+      "culture": "Palettes from this era come from a time before a single king ruled Egypt. How might they show early artistic traditions?",
+      "technique": "How would a carver use abrasion rather than chisels on hard stone? What are the risks of working a thin piece?",
+      "personal": "Which everyday objects in your life are shaped like animals or plants? What do those shapes add?",
+      "critical": "How do we separate what we know about palettes in general from what we can say about this one bird?"
+    },
+    "g910": {
+      "daily": "What does this palette show about the relationship between function and form in early Egyptian art?",
+      "emotion": "How does the economy of the silhouette create a feeling of calm or stillness? What would be lost with more detail?",
+      "observation": "Identify the features that make the shape legible as a guinea fowl, and note any that are exaggerated or omitted.",
+      "analysis": "How do the proportions of head, body, and tail create a stable, compact composition?",
+      "line": "How does the unbroken contour define the bird? Discuss the effect of curve versus straight edge.",
+      "shape": "How does the artist use a single flat shape to carry a three-dimensional idea?",
+      "color": "How does the restrained, natural color of greywacke focus attention on silhouette and material rather than surface decoration?",
+      "texture": "How does the density and polish of greywacke contribute to the object's sense of permanence?",
+      "space": "How does the palette's thinness make it half-sculpture and half-drawing? Where does it sit between the two?",
+      "light": "How might light on a flat, polished edge reveal form despite the lack of carved detail?",
+      "meaning": "Why might scholars be cautious about assigning symbolism to animal-shaped palettes, and what other interpretations are plausible?",
+      "culture": "How does a Predynastic object like this help trace the artistic habits that later pharaonic art inherited?",
+      "technique": "How might the shaping, smoothing, and polishing of a hard stone reflect specialized skill and available tools?",
+      "personal": "How does a practical object become art for you? What qualities cross that line in this palette?",
+      "critical": "What are the dangers of reading a very old object through modern ideas of art or design?"
+    },
+    "g1112": {
+      "daily": "What argument can you make about the palette's purpose from what you can see, and what part of it must remain conjecture?",
+      "emotion": "How does minimal form shape emotional response, and how might that response differ for a viewer from a different culture or era?",
+      "observation": "Describe the palette's form with precision. At what point does description of the contour become interpretation of species or character?",
+      "analysis": "Analyze how silhouette, proportion, and material work together as the sole carriers of meaning in this object.",
+      "line": "How does the sheer clarity of the outline function as the object's entire expressive system, and what traditions of drawing might it anticipate?",
+      "shape": "How does the guinea fowl's reduction to a flat, bounded shape complicate the line between representation and abstraction?",
+      "color": "In what ways does the natural color of greywacke become part of the object's meaning rather than only its material?",
+      "texture": "How might the physical qualities of a hard, polished stone shape its symbolic or status value for early elites?",
+      "space": "How does the near-absence of depth challenge our assumptions about sculpture, and how does it fit the palette's function?",
+      "light": "How might light and handling have shaped a user's experience of this object in daily or ritual use?",
+      "meaning": "Compare possible explanations for an animal-shaped palette, such as practical use, status, or protective symbolism. Which is best supported and which is speculative?",
+      "culture": "What can an object from the Naqada period contribute to debates about how Egyptian visual culture and state identity developed?",
+      "technique": "How do the demands of working hard stone, with its risks of breakage, inform your understanding of the maker's expertise?",
+      "personal": "How do you decide when an object is a tool, a symbol, or art, and how did this palette test that distinction?",
+      "critical": "What responsibilities do museums and viewers have when interpreting objects that came without writing or maker names?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Birds), medium (greywacke) and period checked against the museum record. Subject is a bird-shaped stone with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Predynastic Egyptian palette, probably a tool for grinding pigment, cut into a bird silhouette. It is a good example of how early objects blend practical use and imagery.",
+    "vocabulary": ["palette", "greywacke", "silhouette", "Predynastic", "pigment", "contour"],
+    "directions": [
+      "Have students cut a simple animal silhouette from paper and test which animals stay recognizable without details.",
+      "Discuss the difference between a tool and a work of art, using this object as evidence.",
+      "Ask students to list what we cannot know about the maker, and how historians handle gaps."
+    ]
+  }
+}

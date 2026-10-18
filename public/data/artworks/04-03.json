@@ -1,0 +1,158 @@
+{
+  "id": "met-452550",
+  "day": "04-03",
+  "title": "Helmet",
+  "artist": "Artist unknown",
+  "date": "early 17th century",
+  "medium": "Copper; embossed, engraved, stippled, and gilded",
+  "region": "Turkey",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP151802.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP151802.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Ruth Blumka, in memory of Leopold Blumka, 1974",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rounded helmet made of copper with a golden surface, shown against a plain background. Its surface is decorated with worked and patterned metal.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/452550",
+    "objectId": "452550",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, dimensions, credit line, classification, objectName, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A helmet made in Turkey in the early 17th century from copper that was embossed, engraved, stippled, and gilded. The Met's record lists it under Arms and Armor, and the elaborate working of the metal suggests it was valued as a fine object as well as protective gear.",
+  "descriptions": {
+    "k": "This is a helmet from Turkey. It is shaped like a smooth, round bowl for the head. The shiny metal is covered with gold and patterns. Run your eyes over the patterns. What do they remind you of?",
+    "g12": "Long ago in Turkey, a metalworker made this helmet from copper. It is covered in gold and decorated with patterns pressed and scratched into the metal. Look at the round shape and the shiny surface. Why do you think someone decorated a helmet so carefully?",
+    "g35": "This helmet was made in Turkey in the early 1600s. A metalworker started with copper and shaped it by hammering and pressing, which is called embossing. Next, lines were cut into it, called engraving, and tiny dots were added, called stippling. Finally it was covered with a thin layer of gold. Why might a helmet be decorated with so much skill?",
+    "g68": "This early 17th-century Turkish helmet shows several metalworking techniques in one object: embossing raises designs from the surface, engraving cuts lines, stippling adds fine dots, and gilding covers it with gold. The result is protective gear that is also a showpiece. Helmets like this may have been displayed on ceremonial occasions, though we should be careful about guessing its exact use. How do the techniques change the way the surface catches light?",
+    "g910": "Made in Turkey in the early 17th century, this helmet turns a defensive form into a surface for ornament. Embossing, engraving, stippling, and gilding give the copper a layered richness that can be read from a distance and up close. The Met's record does not tell us who wore it or when, so any claim about ceremony or rank should stay tentative. Consider how decoration changes our sense of an object's purpose.",
+    "g1112": "This copper helmet, worked with embossing, engraving, stippling, and gilding, asks us to think about the boundary between equipment and art. Its ornament suggests display value, but the record offers no owner, and ceremonial and practical uses can overlap. In early 17th-century Turkey, as elsewhere, skilled metalwork was tied to workshops, patronage, and trade. How should we weigh visible craft against missing documentation when we interpret such an object?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine this helmet sitting on a table. What would you want to touch first?",
+      "emotion": "Does this helmet feel strong, fancy, or shiny to you? Why?",
+      "observation": "Find the curve at the top and the patterns on the sides. What else do you see?",
+      "analysis": "Where do your eyes go first on this helmet? What pulls them there?",
+      "line": "Trace the patterns on the helmet in the air. Which ones swirl and which ones are short?",
+      "shape": "Is the helmet round like a ball, tall like a cone, or something else? Draw its shape in the air.",
+      "color": "The helmet looks gold and warm. What other things do you know that have the same color?",
+      "texture": "Some places are smooth and some have patterns. How would your finger feel on each one?",
+      "space": "If you put this helmet on, which part would cover your head and which part would be at the edge?",
+      "light": "Where does the helmet shine the most? Where does it look darker?",
+      "meaning": "Why would a maker spend so much time decorating something that sits on a head?",
+      "culture": "This helmet came from Turkey about 400 years ago. What do you wear on your head for special days?",
+      "technique": "The metal was hammered and pressed to make the patterns. What tools might you need for that?",
+      "personal": "If you could decorate a hat or helmet, what patterns would you add?",
+      "critical": "Should a helmet be plain or fancy? Tell why you think so."
+    },
+    "g12": {
+      "daily": "A craftsperson spent days working on this helmet. What details show how much care went into it?",
+      "emotion": "How does the shiny gold surface make the helmet feel important?",
+      "observation": "Look slowly across the helmet. List five things you see on its surface.",
+      "analysis": "How do the patterns help you follow the shape of the helmet from bottom to top?",
+      "line": "Find lines that were cut into the metal. Do they curve, zigzag, or both?",
+      "shape": "The helmet is rounded. What smaller shapes are inside the decoration?",
+      "color": "The helmet is made of copper and covered with gold. How does that warm color make it feel?",
+      "texture": "Where does the metal look smooth, and where does it look raised or bumpy?",
+      "space": "Which parts of the decoration rise up toward you, and which look pressed in?",
+      "light": "Imagine a lamp shining on the helmet. Where would the brightest spots appear?",
+      "meaning": "A helmet protects the head. Why might a maker also want it to look beautiful?",
+      "culture": "This helmet was made in Turkey in the early 1600s. What does decorated metalwork tell you about what people valued?",
+      "technique": "Embossing means pressing a shape out from the back. Why is it tricky to do that on a curved helmet?",
+      "personal": "What do you wear or carry that is useful but also decorated? Tell about it.",
+      "critical": "Does decoration make a helmet more special or less practical? Give a reason."
+    },
+    "g35": {
+      "daily": "If you could study this helmet through a magnifying glass, what would you look for first and why?",
+      "emotion": "What feelings do the shine and the careful patterns on this helmet give you?",
+      "observation": "Spend one minute scanning the surface. What small details of the pattern do you notice?",
+      "analysis": "How does the decoration help organize the round surface into parts?",
+      "line": "How do the lines cut into the copper compare with the smooth outline of the helmet?",
+      "shape": "The helmet is mostly a rounded dome. How do the decorated shapes follow that curve?",
+      "color": "Copper is reddish and gold is yellow. How do you think gilding changed how the helmet looks?",
+      "texture": "Embossing raises the metal and stippling adds tiny dots. How would those textures look different from each other?",
+      "space": "A helmet has an inside and an outside. What clues from the photograph tell you how large it is?",
+      "light": "How does curved, shiny metal reflect light differently from a flat surface?",
+      "meaning": "Why might someone choose to display a decorated helmet instead of using a plain one?",
+      "culture": "The Met says this helmet was made in Turkey in the early 17th century. What can the object teach us about the skills of metalworkers there?",
+      "technique": "Embossed, engraved, stippled, and gilded are four different steps. Which one do you think made the biggest difference to the look? Why?",
+      "personal": "Think of something you wear that shows who you are. How is it like this helmet?",
+      "critical": "How can we tell if a helmet like this was used for protection, display, or both? What other information would help?"
+    },
+    "g68": {
+      "daily": "What makes this helmet seem more like a work of art than a simple piece of equipment?",
+      "emotion": "How does the golden surface create a feeling of grandeur?",
+      "observation": "Describe the helmet from the top to the bottom edge. Which details seem the most carefully crafted?",
+      "analysis": "How does the decoration relate to the curve of the helmet's form?",
+      "line": "How do engraved lines contrast with the raised areas made by embossing?",
+      "shape": "How does a rounded, domed form change the way a decorative pattern must be designed?",
+      "color": "How does gilding change the color and mood of a copper surface?",
+      "texture": "How do embossing, engraving, and stippling add different kinds of texture to one surface?",
+      "space": "A helmet must fit around a head. How does that need shape the proportions and design?",
+      "light": "Why might a maker choose gilded copper for an object that will move and catch changing light?",
+      "meaning": "What messages might elaborate decoration send about the person who owns or displays a helmet?",
+      "culture": "The helmet comes from early 17th-century Turkey. Why is it important not to guess too much about who used it?",
+      "technique": "Embossing requires working metal from the back while the front takes shape. What challenges does this create on a curved object?",
+      "personal": "What object do you decorate or customize to make it feel like yours? Why?",
+      "critical": "Is a helmet in a museum still a helmet? How does display change how we see its purpose?"
+    },
+    "g910": {
+      "daily": "How does the helmet transform a protective form into a field for ornament, and which choices show it?",
+      "emotion": "How does the interplay of gleam and pattern make the helmet feel ceremonial or valuable?",
+      "observation": "Describe the decoration's hierarchy: what is most visible first, and which devices create that effect?",
+      "analysis": "How does the surface ornament reinforce, rather than fight, the helmet's rounded structure?",
+      "line": "How do engraved lines and the edges of raised areas guide the eye over the dome?",
+      "shape": "How does the dome's curvature constrain and shape the logic of the decoration?",
+      "color": "How does gilded copper communicate richness, and how might the warm tones interact with candlelight or sun?",
+      "texture": "How do raised, incised, and dotted textures work together to give the surface depth?",
+      "space": "How does the helmet's hollow interior shape its exterior silhouette, and why does that matter for display?",
+      "light": "How does the combination of polished and textured gilded surfaces create variable highlights as the object moves?",
+      "meaning": "What might lavish ornament on protective gear suggest about display, status, or ceremony, and why is that uncertain here?",
+      "culture": "How does this helmet fit the broader picture of skilled metalworking and artistic exchange in early 17th-century Turkey, and what does the record leave out?",
+      "technique": "What does the use of four techniques on one copper object suggest about the maker's planning and control?",
+      "personal": "How does your reaction change when a familiar protective object, like a helmet, is made as a luxury item?",
+      "critical": "Where is the line between armor and art, and does this object cross it?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the surface alone about this helmet's use, and what requires information we lack?",
+      "emotion": "How does the aesthetic of splendor on protective gear complicate expectations about function?",
+      "observation": "Describe the helmet's surface treatment precisely. At what point do you begin to interpret rather than describe?",
+      "analysis": "Analyze how structure and ornament interact in the helmet's design and how this affects its status as art.",
+      "line": "How do incised line and relief function together to produce a layered decorative rhythm on a curved volume?",
+      "shape": "How does the domed volume influence the geometry of ornament and the viewer's movement around the object?",
+      "color": "How does gilding shape the perception of value, and what does its survival, partial or complete, tell us about care over time?",
+      "texture": "How do contrasts between smooth and worked areas direct attention and signal skill?",
+      "space": "How does display in a museum alter our understanding of an object made to be worn and seen in motion?",
+      "light": "How might the object have appeared in different lighting conditions, and how do those differences shape claims about display?",
+      "meaning": "How do we separate ceremonial, practical, and prestige functions for a decorated helmet when documentation is absent?",
+      "culture": "How does early 17th-century Turkish metalwork connect to wider networks of workshop practice, patronage, and exchange, and how can we avoid overgeneralizing?",
+      "technique": "What questions about workshop practice and division of labor arise from an object finished with embossing, engraving, stippling, and gilding?",
+      "personal": "How might your own assumptions about armor and display shape your reading of this helmet?",
+      "critical": "What standards of evidence should govern claims about use and meaning for an object with no recorded owner?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Arms and Armor), objectName (Helmet), medium (copper; embossed, engraved, stippled, gilded), and tags (Helmets) checked against the museum record: no flagged terms. The object is a helmet shown as a craft object, with no weapon in use.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A copper helmet from Turkey, made in the early 17th century and decorated with four metalworking techniques. The discussion should focus on craft and design, not warfare.",
+    "vocabulary": [
+      "embossing",
+      "engraving",
+      "stippling",
+      "gilding",
+      "copper",
+      "dome"
+    ],
+    "directions": [
+      "Ask students to make a foil embossing: press a pattern from behind with a pencil and compare it with an engraved line.",
+      "Discuss the difference between objects made to be used and objects made to be admired.",
+      "Have students design a ceremonial hat or helmet using patterns from nature or their own culture."
+    ]
+  }
+}

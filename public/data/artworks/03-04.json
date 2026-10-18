@@ -1,0 +1,158 @@
+{
+  "id": "met-312554",
+  "day": "03-04",
+  "title": "Frog Vessel",
+  "artist": "Artist unknown (Colima)",
+  "date": "2nd century BCE–3rd century CE",
+  "medium": "Ceramic, pigment (?)",
+  "region": "Colima culture, Mexico (Mesoamerica)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.332.JPG",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.332.JPG",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A ceramic vessel shaped like a frog, with a rounded body and the animal's head and limbs formed in clay. It is small enough to hold, about the length of a hand.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312554",
+    "objectId": "312554",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, region, credit line, classification, objectName (Vessel), tag (Frogs), dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A ceramic vessel in the form of a frog, made by the Colima culture of western Mexico between the 2nd century BCE and the 3rd century CE. It is about 13 by 12 by 17 centimeters. Colima potters are especially known for animal-shaped vessels.",
+  "descriptions": {
+    "k": "This clay pot is shaped like a frog. It is hollow, so it can hold things. Can you find the frog's head and legs? Artists in Mexico made it a very long time ago.",
+    "g12": "A potter in the Colima culture of Mexico made this vessel in the shape of a frog. It is made of clay and is about as long as a hand. A vessel is a container for holding things. How does the artist make a pot look like an animal?",
+    "g35": "Artists of the Colima culture in western Mexico made this frog-shaped vessel about 2,000 years ago. A vessel is a container, and this one is also a sculpture of an animal. Look at how the potter shaped the frog's body, head, and legs from clay. Why do you think someone made a useful pot look like a frog?",
+    "g68": "Colima potters of western Mexico are widely known for vessels shaped like animals, and this frog is a small, rounded example from between the 2nd century BCE and the 3rd century CE. It works both as a container and as a sculpture, so the maker had to balance an animal's recognizable features with a hollow, practical form. Scholars suggest many Colima vessels were placed in tombs, but this record does not tell us how this one was used.",
+    "g910": "This frog vessel shows how Colima potters merged sculpture and container. The body swells into a compact, rounded mass while the head and limbs are simplified, giving the animal a quiet, solid presence. Many Colima ceramics were found in shaft tombs of western Mexico, but without a documented findspot for this object, any claim about its purpose should be cautious. Look at how volume and silhouette, rather than fine surface detail, carry the character of the frog.",
+    "g1112": "Dating from roughly the 2nd century BCE to the 3rd century CE, this frog vessel belongs to the Colima tradition of animal effigy ceramics, which the Met places within Mesoamerica. Its power lies in massing and silhouette: a hollow body and a few modeled features suggest a living creature. The record notes pigment with a question mark, a reminder that surface and color are uncertain. Interpretations of Colima animal vessels range from everyday use to funerary offerings, and the object alone cannot settle which applies. What does form alone allow us to claim?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the frog's head, body, and legs on this clay pot? Point to each one.",
+      "emotion": "Does this frog look sleepy, calm, or ready to jump? What do you see that tells you?",
+      "observation": "What parts of the frog did the artist show? Name three.",
+      "analysis": "Which part of the frog do your eyes see first? Why do you think so?",
+      "line": "Where do you see curved lines on the frog's back or legs? Trace one in the air.",
+      "shape": "The frog's body is round and fat. What other round things does it remind you of?",
+      "color": "What colors do you see on the frog? Do they look like a real frog?",
+      "texture": "How do you think the frog would feel if you touched it? Smooth, bumpy, or cool?",
+      "space": "Is the frog sitting low or tall? Show with your arms how big you think it is.",
+      "light": "Where does light shine on the frog? Where is it shadowy?",
+      "meaning": "Why do you think someone made a pot shaped like a frog?",
+      "culture": "Colima artists in Mexico made this long ago. Where have you seen frogs near water?",
+      "technique": "This pot is made of clay. How do you think someone made the frog's round body?",
+      "personal": "If you could make a pot shaped like an animal, which animal would you choose?",
+      "critical": "How can you tell this is a frog and not a toad or a turtle?"
+    },
+    "g12": {
+      "daily": "What makes this clay pot look like a living frog? Show the details that help you decide.",
+      "emotion": "What feeling does this frog give you: calm, funny, or surprised? Point to what makes you feel that way.",
+      "observation": "Describe the frog from head to toe. What parts did the potter show?",
+      "analysis": "How did the potter turn a container into an animal? Look at the shape of the body.",
+      "line": "Find curved lines and straight lines on the frog. Which ones show the legs?",
+      "shape": "Which part of the frog is the biggest shape? Which parts are small shapes?",
+      "color": "The record says the surface may have pigment. What colors do you see, and where?",
+      "texture": "Which parts of the frog look smooth and which look rough? How can you tell?",
+      "space": "The frog is hollow inside. How is a hollow pot different from a solid statue?",
+      "light": "Imagine a flashlight shining from the side. Which parts of the frog would have shadows?",
+      "meaning": "Frogs live near water and can jump. Why might that make them a good animal for an artist to choose?",
+      "culture": "The Colima people lived in western Mexico long ago. What does this frog suggest about animals they noticed?",
+      "technique": "Clay is soft before it is fired. How might a potter shape a frog's legs without breaking them?",
+      "personal": "What animal reminds you of home? How would you shape it in clay?",
+      "critical": "We do not know exactly how this pot was used. What clues in its shape could help us guess?"
+    },
+    "g35": {
+      "daily": "How does the potter combine a useful container and a frog sculpture in one object? Give evidence from the shape.",
+      "emotion": "What personality does this frog seem to have? Which details create that feeling?",
+      "observation": "Study the frog for one minute. Which small details, such as eyes or toes, did you notice only after looking longer?",
+      "analysis": "How does the potter simplify the frog's body into a few strong shapes?",
+      "line": "How do the outlines of the legs and head help you read the animal's pose?",
+      "shape": "The frog is made of rounded forms. How do they make it look solid and heavy?",
+      "color": "The record lists pigment with a question mark. How do colors on a vessel change how you see its form?",
+      "texture": "How would the surface of a fired clay frog feel different from a real frog's skin?",
+      "space": "This vessel is a 3D object. How does the view change when you imagine walking around it?",
+      "light": "How might light and shadow show the roundness of the frog's body?",
+      "meaning": "Why might Colima artists have shaped vessels as animals? Offer one idea and the evidence you would look for.",
+      "culture": "Colima is in western Mexico. How can an object like this frog help us learn about people who lived there?",
+      "technique": "Colima potters shaped clay by hand. How might a hollow animal form be built so it does not collapse?",
+      "personal": "Think of an animal you find interesting. How would you simplify it into a few shapes?",
+      "critical": "How is it possible to know a lot from the look of an object but still not know how it was used?"
+    },
+    "g68": {
+      "daily": "How does the frog balance realism and simplification, and what does that tell you about the potter's choices?",
+      "emotion": "How does the compact, rounded form create a feeling of calm or readiness? Use evidence.",
+      "observation": "Without interpreting, list the features of the frog in order from the head to the back legs.",
+      "analysis": "How does the vessel's silhouette communicate that it is a frog, even if you cannot see details?",
+      "line": "How does the potter use contour to separate the limbs from the body?",
+      "shape": "How does the contrast between a large, round body and smaller limbs build the character of the frog?",
+      "color": "How might the surface color, or the uncertainty about it, affect our understanding of how the vessel looked originally?",
+      "texture": "How might a polished or smooth finish change how a viewer experiences a clay animal?",
+      "space": "A vessel has an inside as well as an outside. How does that make it different from a solid sculpture?",
+      "light": "How does the curved body make shadows and highlights shift as light moves around it?",
+      "meaning": "What are two explanations for why a frog might be chosen for a vessel, and how could you test them?",
+      "culture": "How can animal-shaped pottery reflect the environment and daily world of western Mexico?",
+      "technique": "What problems would a potter solve to make a hollow animal form that holds together when fired?",
+      "personal": "How does picking an animal to represent an idea, such as water or patience, work in your own life?",
+      "critical": "Why should we be careful about saying a Colima vessel was meant for a tomb unless a record says so?"
+    },
+    "g910": {
+      "daily": "How does the frog's mass and silhouette establish presence without elaborate surface decoration?",
+      "emotion": "How does the sculpture suggest a living animal's stillness, and what emotions might that evoke?",
+      "observation": "Describe the vessel's visual hierarchy: which features read first, and how does the form guide your eye?",
+      "analysis": "How does the vessel integrate its function as a container with its identity as an animal sculpture?",
+      "line": "How does the potter use contour rather than interior line to define the frog's anatomy?",
+      "shape": "How do volumes of different sizes create balance and movement in a compact sculptural form?",
+      "color": "What can we infer, and what must we leave open, about color given the record's uncertain note on pigment?",
+      "texture": "How would different surface finishes shape the way we perceive volume in this ceramic?",
+      "space": "How does the hollow interior affect the relationship between sculpture, container, and viewer?",
+      "light": "How does form alone, without painted detail, generate shadow and emphasis?",
+      "meaning": "What is the difference between observing that the vessel shows a frog and claiming what a frog meant to its makers?",
+      "culture": "How do animal effigy vessels from western Mexico challenge the idea that Mesoamerican art is only about rulers and gods?",
+      "technique": "How might pit or open firing, rather than a kiln, affect the choices and risks of a potter?",
+      "personal": "How does a small object that can be held compare with a monument in the way it invites attention?",
+      "critical": "How does being displayed in a museum, away from its original setting, alter our reading of this vessel?"
+    },
+    "g1112": {
+      "daily": "What claims about this vessel can be defended from its form alone, and which require evidence the object does not provide?",
+      "emotion": "How does an animal rendered in a few rounded masses produce a distinct emotional presence, and how culturally specific is our response?",
+      "observation": "Describe the object precisely before interpreting it. Where does your description start assuming function or meaning?",
+      "analysis": "Analyze how the relationship between mass and appendage structures the form, and what this suggests about conventions in Colima animal sculpture.",
+      "line": "How does the transition between body and limb articulate anatomy, and how does this compare with naturalistic representation?",
+      "shape": "How does the work's reliance on simplified volume relate to broader questions about abstraction in ancient art?",
+      "color": "How should a viewer treat the record's question mark after pigment, and what does it teach about the limits of museum certainty?",
+      "texture": "How does the tactile quality of fired clay affect the status of this object as both utilitarian and aesthetic?",
+      "space": "How does the hollow body complicate distinctions between container, sculpture, and effigy?",
+      "light": "How might the intended contexts of use, from household to burial, have conditioned how such objects were seen?",
+      "meaning": "Evaluate competing explanations for Colima animal vessels, such as daily use, funerary offering, or symbolic reference. What would count as evidence?",
+      "culture": "How does the label Mesoamerica group together traditions as varied as those of western Mexico, and what does it obscure?",
+      "technique": "What does the technical accomplishment of a hollow, stable animal form suggest about specialization and transmitted knowledge?",
+      "personal": "How do modern attitudes toward frogs, whether affection or disgust, shape what you expect this vessel to mean?",
+      "critical": "What ethical questions arise when ancient funerary or ritual-related objects are collected and displayed, and how might museums address them?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Ceramics-Containers), objectName (Vessel), medium, and tag (Frogs) read from the museum record; no sacred or restricted flag, human remains, nudity, or weapons indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Colima culture of western Mexico is known for ceramic animal effigy vessels. The record does not state how this vessel was used, and the medium line includes pigment with a question mark.",
+    "vocabulary": [
+      "Colima",
+      "Mesoamerica",
+      "effigy",
+      "vessel",
+      "ceramic",
+      "silhouette"
+    ],
+    "directions": [
+      "Have students sketch the vessel in silhouette and see if classmates can still tell it is a frog.",
+      "Ask students to discuss the difference between a container, a sculpture, and both at once.",
+      "Connect to science: where do frogs live and how do their bodies suit those places?"
+    ]
+  }
+}

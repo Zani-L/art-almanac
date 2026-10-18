@@ -1,0 +1,158 @@
+{
+  "id": "met-52283",
+  "day": "04-12",
+  "title": "Dish with Camellia Branch",
+  "artist": "Artist unknown",
+  "date": "late 17th–early 18th century",
+  "medium": "Porcelain with cobalt blue under transparent glaze and polychrome enamels over the glaze (Hizen ware, Nabeshima type)",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/1975_268_560_o1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/1975_268_560_o1.jpg",
+    "credit": "The Metropolitan Museum of Art, The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round porcelain dish painted with a camellia branch, showing flowers and leaves in blue and colored enamels on a white ground.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/52283",
+    "objectId": "52283",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A porcelain dish from Japan of the Nabeshima type, made in the late 17th or early 18th century. It is decorated with a camellia branch, using cobalt blue under the glaze and colored enamels over it. Nabeshima ware is associated with kilns in Hizen supported by the Nabeshima domain and is often said to have been made for gifts and special use.",
+  "descriptions": {
+    "k": "This is a plate from Japan. It is made of white porcelain. A branch with flowers and leaves is painted on it. The colors are neat and bright. What flower would you pick from this branch?",
+    "g12": "This dish is made of shiny white porcelain from Japan. An artist painted a camellia branch on it, with flowers and leaves. Some of the color is blue and some is other bright colors. The plate was made to be used and looked at. How does the branch fit inside the round dish?",
+    "g35": "This porcelain dish from Japan shows a branch of camellia, a flower that blooms in the cool months. Nabeshima ware was made in the Hizen region and is known for careful, polished design. The artist used blue paint under the glaze and colored enamels on top, which meant the dish was fired more than once. Look at how the branch is placed on the round dish. Why might a maker choose a flower for a plate?",
+    "g68": "Nabeshima ware is associated with kilns in Hizen supported by the Nabeshima domain, and such porcelain is often described as being made for gifts and high-level use. This late 17th or early 18th century dish uses cobalt blue under the glaze and enamels over it, requiring more than one firing and careful planning. The camellia branch is arranged to suit a round form. Look at the balance of leaves, flowers, and empty space. What does restraint add to a design?",
+    "g910": "This Nabeshima-type dish shows how Japanese porcelain of the Edo period could combine technical precision and design sophistication. Underglaze cobalt blue and overglaze enamels required different firings, so the decorator had to plan the composition with the final palette in mind. The camellia branch is a seasonal motif, and the design uses the dish's circular field with care. Consider how the interplay of painted areas and untouched white porcelain creates clarity and elegance.",
+    "g1112": "Nabeshima porcelain is frequently discussed in terms of exclusivity, since it is associated with kilns supported by the Nabeshima domain and with gift-giving in elite circles. This dish of the late 17th or early 18th century combines underglaze blue with overglaze enamels, a sequence that demanded both technical control and compositional foresight. The camellia motif connects to seasonal sensibility in Japanese design. Because patronage histories are partly reconstructed, any claim about who used such dishes, or why, should be tentative. How do design, technique, and social context interact?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What would you put on this pretty plate?",
+      "emotion": "Does this plate feel fancy, plain, or cheerful to you? What do you see that tells you?",
+      "observation": "What can you find on the plate? Point to a flower and a leaf.",
+      "analysis": "Where do your eyes go first on this plate? Why?",
+      "line": "Can you find a curving line, like a branch? Trace it in the air.",
+      "shape": "What shapes do you see? Look at the flowers, the leaves, and the plate.",
+      "color": "What colors does the artist use for the camellia branch? Which is your favorite?",
+      "texture": "How do you think the shiny plate would feel to touch?",
+      "space": "The plate is round. Where did the artist put the branch?",
+      "light": "Does the plate look shiny? Where does it look the brightest?",
+      "meaning": "A flower on a plate can make someone smile. Who might get a plate like this?",
+      "culture": "This plate is from Japan. What do you eat from at home, and how is it like this plate?",
+      "technique": "The artist painted by hand on the plate and baked it in a very hot oven called a kiln. Why do you think a plate needs to be baked?",
+      "personal": "If you painted a plate, what flower or picture would you add?",
+      "critical": "Which part of the plate is empty, and why might the artist leave it empty?"
+    },
+    "g12": {
+      "daily": "What is the artist showing on this dish? Use clues to explain.",
+      "emotion": "What feeling do you get from this tidy dish with a branch? Why?",
+      "observation": "Describe five things you see on the dish, from the flower to the edge.",
+      "analysis": "How does the branch lead your eyes around the dish?",
+      "line": "Follow the branch with your eyes. Where does it curve, and where is it straight?",
+      "shape": "How do the shapes of the flowers and leaves fit inside the round dish?",
+      "color": "Which colors are cool and which are warm? How do they work together on white?",
+      "texture": "The dish is smooth and shiny. How does the painting look different from the plain white parts?",
+      "space": "The artist left some white space. Why might that make the flowers stand out?",
+      "light": "Where does the dish look brightest? How does the white help the colors glow?",
+      "meaning": "Why do you think the artist chose a flower branch for a dish?",
+      "culture": "People in Japan often notice the seasons. What season might this flower make you think of?",
+      "technique": "Colors were painted, then the dish was baked in a kiln, sometimes more than once. Why might the colors look so smooth and shiny?",
+      "personal": "What flower do you like best? How would you put it on a plate?",
+      "critical": "The dish is useful, but it is also decorated. Do you think it was made for eating or for showing? Why?"
+    },
+    "g35": {
+      "daily": "What do you think the artist wanted people to notice about this dish, and how do the details show it?",
+      "emotion": "What mood does the camellia branch give this dish? Which parts of the design create it?",
+      "observation": "Look for one minute. What small details in the leaves, flowers, or edges did you miss at first?",
+      "analysis": "How does the artist arrange the branch, flowers, and empty space on the round dish?",
+      "line": "How do curved lines in the branch and leaves give the design movement?",
+      "shape": "Which shapes repeat, and how do they help the design feel balanced?",
+      "color": "How do the blue and the other colors stand out from the white porcelain?",
+      "texture": "What textures can you imagine, such as shiny glaze, smooth porcelain, and soft petals?",
+      "space": "Why might the artist leave part of the dish blank instead of filling it all?",
+      "light": "How does the glossy surface affect the way the colors look in light?",
+      "meaning": "Camellias bloom in cool months. Why might a seasonal flower be a good choice for a dish?",
+      "culture": "Nabeshima ware is known as fine porcelain from Japan. What can a special dish tell us about the people who made or used it?",
+      "technique": "Blue paint went under the glaze and colored enamels went on top. Why might that need extra planning?",
+      "personal": "Think of a plate or cup you like. What makes it special to you?",
+      "critical": "This dish is displayed in a museum, not used for dinner. How does that change how you look at it?"
+    },
+    "g68": {
+      "daily": "How does the artist make a simple branch feel carefully designed on a round dish?",
+      "emotion": "What atmosphere does the design create, and which choices of color and spacing produce it?",
+      "observation": "List what you see across the dish. Which areas are painted and which are left plain?",
+      "analysis": "How does the composition balance branch, leaves, flowers, and open space within a circle?",
+      "line": "How do the lines of the stem and edges of leaves create a sense of growth or movement?",
+      "shape": "How do the shapes of petals and leaves contrast with the circular dish?",
+      "color": "How do cool blue and enamel colors work against white porcelain? Which stands out most?",
+      "texture": "How does the glaze affect the dish's surface, and how might it change how we see the painting?",
+      "space": "What does the empty white space do for the picture? What if it were filled?",
+      "light": "How does the shine of the glaze affect your view from different angles?",
+      "meaning": "What might a seasonal flower suggest on a dish used for gifts or special meals? Offer more than one idea.",
+      "culture": "Why might elite households in Edo-period Japan value dishes with refined, seasonal designs?",
+      "technique": "How is painting on porcelain and firing it more than once different from painting on paper?",
+      "personal": "What everyday object in your life do you wish were better designed, and how?",
+      "critical": "Some objects once used daily are now museum treasures. What is gained and lost by that change?"
+    },
+    "g910": {
+      "daily": "How does the dish's design use restraint, motif, and technique to create elegance?",
+      "emotion": "How does the design produce refinement and calm without narrative content?",
+      "observation": "Describe the visual hierarchy of the design. What draws attention first, and how does the rest support it?",
+      "analysis": "Analyze how the artist adapts a natural motif to a circular field.",
+      "line": "How do contour lines and brush-like strokes define the branch and give it vitality?",
+      "shape": "How does the organic branch interact with the geometric form of the dish?",
+      "color": "How does the contrast between cobalt blue, enamel colors, and white porcelain direct attention?",
+      "texture": "How do glaze and enamel create different surface qualities, and how does that affect the design?",
+      "space": "How does negative space function as an active element?",
+      "light": "How does a glazed surface alter the viewing experience from different angles?",
+      "meaning": "What cultural associations might camellia have carried, and which are well documented?",
+      "culture": "How does the dish reflect the role of ceramics in status, gift-giving, and aesthetics during the Edo period?",
+      "technique": "How do multiple firings and different decorating materials demand planning, and what does that say about workshop skill?",
+      "personal": "How does your relationship to everyday objects, like cups or plates, influence how you see this dish?",
+      "critical": "How does the line between craft and art shift when a utilitarian object is displayed in a museum?"
+    },
+    "g1112": {
+      "daily": "What can we infer from this dish about the relationship between technical mastery and refined taste, and what remains uncertain?",
+      "emotion": "How does the dish's restrained design shape feeling, and what does this suggest about the role of subtlety in Japanese aesthetics?",
+      "observation": "Describe the dish's decoration precisely. At what point does description become interpretation?",
+      "analysis": "Analyze how the artist reconciles organic motif and geometric ground.",
+      "line": "How does the quality of line suggest living growth within a controlled composition?",
+      "shape": "How does the motif's asymmetry interact with the dish's symmetrical form?",
+      "color": "How do underglaze blue and overglaze enamels differ in effect, and how might changes over time have altered the palette we see?",
+      "texture": "How does the glossy surface complicate our reading of the painted decoration?",
+      "space": "How does the dish's use of unpainted space compare with conventions in painting from the same period?",
+      "light": "How does museum display change the experience of an object designed to be handled and used?",
+      "meaning": "Evaluate possible meanings of the camellia motif: seasonal reference, gift symbolism, or pure decoration. What evidence would settle the question?",
+      "culture": "How should we situate Nabeshima ware within debates about patronage, exclusivity, and the global porcelain trade?",
+      "technique": "What does the combination of underglaze and overglaze techniques imply about kiln organization and skill?",
+      "personal": "How does your own sense of elegance shape your reading of a simple design?",
+      "critical": "How reliable are our assumptions about the original use of elite ceramics when written records are incomplete?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Ceramics), medium, and tags (Flowers, Leaves) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Nabeshima-type porcelain dish from the Hizen region of Japan, late 17th to early 18th century. It combines cobalt blue under the glaze with colored enamels over it.",
+    "vocabulary": [
+      "porcelain",
+      "glaze",
+      "underglaze",
+      "overglaze enamel",
+      "kiln",
+      "motif"
+    ],
+    "directions": [
+      "Have students sketch a plant branch to fit inside a circle and talk about empty space.",
+      "Discuss why objects used for food can also be treated as art.",
+      "Compare with another ceramic in the archive and consider what each shows about its culture."
+    ]
+  }
+}

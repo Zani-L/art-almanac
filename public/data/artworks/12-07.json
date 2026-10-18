@@ -1,0 +1,158 @@
+{
+  "id": "met-437481",
+  "day": "12-07",
+  "title": "Wandering Minstrels",
+  "artist": "Hubert Robert",
+  "date": "1777–79",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP264499.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP264499.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A scene with traveling musicians performing near a fountain, with an obelisk in the setting.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437481",
+    "objectId": "437481",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Fountains, Obelisks, Musicians) and image URLs read from the record"
+  },
+  "context": "An oil painting by the French artist Hubert Robert, made in 1777–79. Robert is known for imaginary and real views of architecture, ruins, and gardens, often with small figures. Here the record lists a fountain, an obelisk, and musicians.",
+  "descriptions": {
+    "k": "Musicians travel from place to place. They stop to play near a fountain. There is also a tall stone pillar called an obelisk. What music do you hear? Who stops to listen?",
+    "g12": "Hubert Robert painted traveling musicians, called minstrels, in France long ago. They play near a fountain, and a tall stone pillar called an obelisk stands in the scene. The people look small next to the big stone buildings. Why do you think the artist made the people so small?",
+    "g35": "Hubert Robert often painted old stone architecture with small people in it. In Wandering Minstrels, traveling musicians perform near a fountain and an obelisk, a tall four-sided stone monument. The musicians look tiny beside the big stone shapes. What mood does that contrast create? Why might Robert place everyday people in such a grand place?",
+    "g68": "Painted in 1777–79, Wandering Minstrels places traveling musicians in a stately setting with a fountain and an obelisk. Hubert Robert liked to set small human figures against large architecture, which makes the scene feel both grand and lively. Notice how the stone and water share the space with ordinary people. Does the painting feel like a real place, an invented one, or something in between?",
+    "g910": "Robert, known for architectural views, often mixes real and imagined structures. In Wandering Minstrels, small musicians perform beside a fountain and an obelisk, and the contrast between modest human activity and monumental stone sets up a gentle tension between permanence and passing life. Light, space, and scale organize the scene. What might it say that music, which fades as soon as it is played, is performed in front of lasting monuments?",
+    "g1112": "Hubert Robert's architectural scenes of the 1770s frequently pair monuments with fleeting human activity. In Wandering Minstrels, the fountain and obelisk offer enduring forms while the musicians suggest time-bound, transient art. Interpretations differ: some read such juxtapositions as reflections on time and ruin, others as a picturesque taste for variety. The painting invites questions about how real or imagined architecture serves a mood, and about how small figures animate a monumental setting."
+  },
+  "questions": {
+    "k": {
+      "daily": "What song do you think the wandering musicians are playing by the fountain?",
+      "emotion": "Is this place grand and quiet or small and cozy? What makes you think so?",
+      "observation": "Find the fountain, the tall stone pillar, and the musicians. Which did you find first?",
+      "analysis": "Which is bigger in the picture, the musicians or the stone things? How does that make you feel?",
+      "line": "Trace the tall straight lines of the stone pillar. Where does it point?",
+      "shape": "The obelisk has a pointed top. What other shapes can you find in the stone?",
+      "color": "What colors do you see in the stone and the sky? Which one is your favorite?",
+      "texture": "How would the old stone feel to touch? How would the water feel?",
+      "space": "Which things are close to you? Which are far away?",
+      "light": "Where does the light fall on the stone and the people?",
+      "meaning": "Why do you think musicians stop at a fountain?",
+      "culture": "Musicians traveled and played for people in France long ago. Where do you hear musicians today?",
+      "technique": "The painter used tiny figures and big buildings. How do the tiny figures look to you?",
+      "personal": "If you could play one instrument for a crowd, what would it be?",
+      "critical": "Do you think this is a real place or a made-up place? What clues can you find?"
+    },
+    "g12": {
+      "daily": "Who might stop to listen to the minstrels, and what in the picture makes you say so?",
+      "emotion": "What feeling do the big stone shapes and little musicians give you?",
+      "observation": "List five things you see, from the fountain to the musicians and the stone monument.",
+      "analysis": "How does the painter use the tall obelisk and fountain to frame the small musicians?",
+      "line": "Find tall, straight lines and curved lines in the stone and water. How are they different?",
+      "shape": "Compare the tall pointed obelisk with the round or square shapes near it.",
+      "color": "Which colors are warm and which are cool in the stone, sky, and clothes?",
+      "texture": "Where does the stone look rough and where does the water look smooth or sparkly?",
+      "space": "How does the painter show the space is large and deep?",
+      "light": "Where does the light seem strongest, and what does it make bright?",
+      "meaning": "Why might an artist put little musicians next to giant stone things?",
+      "culture": "Fountains were places where people gathered in many cities. Where do people gather in your town?",
+      "technique": "Robert painted tiny people with quick touches. Where do you see them clearly?",
+      "personal": "What music would you like to hear in a big, old place like this?",
+      "critical": "How can you tell which parts of the painting might be invented?"
+    },
+    "g35": {
+      "daily": "Imagine standing in this place as the minstrels play. What do you see and hear, and which details helped you?",
+      "emotion": "What is the mood of the scene, and which details like scale and light create it?",
+      "observation": "Look silently for one minute. What small figures or details near the fountain did you find?",
+      "analysis": "How does Robert arrange the fountain, obelisk, and musicians so that your eyes move around the painting?",
+      "line": "How do the strong vertical lines of the obelisk contrast with the softer curves of the fountain and people?",
+      "shape": "How do big geometric shapes of stone compare with the small shapes of the people?",
+      "color": "How does Robert use stone colors, water, and sky together?",
+      "texture": "How does the painter show stone, water, and clothing in different ways?",
+      "space": "How do overlapping forms and different sizes help you see depth?",
+      "light": "How does the light shape the mood and show the surfaces of the stone?",
+      "meaning": "What contrast do you see between lasting stone monuments and the music of passing musicians?",
+      "culture": "Robert painted many views of old architecture. Why might people in France in the 1700s be interested in monuments?",
+      "technique": "How might an artist paint tiny figures so they look alive with only quick strokes?",
+      "personal": "Think of a quiet place that suddenly fills with music. How would you paint that change?",
+      "critical": "A painter can combine real and imagined buildings. Why might he do that?"
+    },
+    "g68": {
+      "daily": "How does Robert make small, passing musicians the heart of a scene dominated by stone?",
+      "emotion": "How does the contrast between large monuments and small figures affect the mood?",
+      "observation": "Describe the scene from the stone structures to the figures. Which details seem most carefully placed?",
+      "analysis": "How do fountain, obelisk, and musicians form a composition that guides the eye?",
+      "line": "How do vertical and curved lines create a balance between strength and movement?",
+      "shape": "How does the geometry of the architecture frame the loose, irregular shapes of the people?",
+      "color": "How does the palette of stone, sky, and clothing create harmony?",
+      "texture": "Which surfaces, such as stone, water, or cloth, feel most convincing, and how are they painted?",
+      "space": "How do scale, overlap, and light give the picture depth and grandeur?",
+      "light": "How does the painter use light and shadow to model stone and animate the scene?",
+      "meaning": "What might the pairing of lasting monuments and the fleeting art of music suggest? What other readings fit?",
+      "culture": "How do obelisks and fountains in a painting connect to European fascination with ancient and classical forms?",
+      "technique": "How does the flickering handling of small figures differ from the treatment of architecture?",
+      "personal": "How do monuments and public spaces in your community affect how you feel in them?",
+      "critical": "How do we tell whether a painted view is a record of a real site or a composite? What would count as evidence?"
+    },
+    "g910": {
+      "daily": "How does Robert use scale to put human activity in conversation with monumental form?",
+      "emotion": "How does the contrast between monument and minstrel produce wonder, humor, or melancholy?",
+      "observation": "Describe the visual hierarchy: what attracts the eye first, and which devices cause that?",
+      "analysis": "Analyze how architectural verticals and the placement of the figures structure the composition.",
+      "line": "How does the strong vertical of the obelisk interact with the curves of the fountain and figures?",
+      "shape": "How does the massing of stone forms create a stage for the small figures?",
+      "color": "How does a restrained palette of stone tones unify the setting while allowing accents in the figures?",
+      "texture": "How does Robert differentiate weathered stone, water, and fabric through brushwork?",
+      "space": "How does the arrangement of structures create a theater-like depth?",
+      "light": "How does light create atmosphere and distribute emphasis across the scene?",
+      "meaning": "How might the juxtaposition of enduring monuments and transient music be read, and where does that reading become speculative?",
+      "culture": "How does Robert's interest in monuments connect to eighteenth-century taste for antiquity and the picturesque?",
+      "technique": "What does the contrast of rapid figure painting and more controlled architecture suggest about Robert's working methods?",
+      "personal": "How does your own experience of public spaces shape how you read the relation between people and monuments?",
+      "critical": "What are the risks of assuming that an architectural view depicts an actual place?"
+    },
+    "g1112": {
+      "daily": "What reading of the monuments and minstrels can you support with visual evidence, and what stays speculative?",
+      "emotion": "How does the painting hold exuberance and a sense of time's passing at once?",
+      "observation": "Describe the painting's spatial organization with precision. Where does description already imply interpretation?",
+      "analysis": "Analyze how the interplay of architectural permanence and human transience structures the picture.",
+      "line": "How do vertical and curving lines convey stability and motion in the same composition?",
+      "shape": "How does the contrast between monumental geometry and loose figural forms produce meaning?",
+      "color": "How might aging of pigments and varnish alter the balance between stone and figures that Robert intended?",
+      "texture": "How does the variety of handling register differences in material and in time?",
+      "space": "How does the construction of space position the viewer in relation to monument and music?",
+      "light": "In what ways does light give the scene its mood and its temporal character?",
+      "meaning": "Compare readings of the painting as meditation on time, picturesque variety, or decorative scheme. What evidence would differentiate them?",
+      "culture": "How does a painter of ruins and gardens negotiate classical heritage and contemporary life in the late 1700s?",
+      "technique": "What might the economy of figure painting suggest about the painting's intended function and viewing distance?",
+      "personal": "How might your own sense of history and monuments affect whether the scene seems playful or elegiac?",
+      "critical": "Given the lack of documented intention, what standards should govern symbolic readings of the monuments here?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Fountains, Obelisks, Musicians) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Hubert Robert was a French painter famous for views of architecture, ruins, and gardens populated by small figures. This painting of 1777–79 sets traveling musicians near a fountain and an obelisk.",
+    "vocabulary": [
+      "obelisk",
+      "minstrel",
+      "scale",
+      "monument",
+      "composition",
+      "foreground"
+    ],
+    "directions": [
+      "Ask students to draw the painting's main shapes and mark which are big and which are small.",
+      "Have students write a short scene describing what the minstrels play and who stops to listen.",
+      "Discuss why artists place small figures next to large monuments."
+    ]
+  }
+}

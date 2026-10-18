@@ -1,0 +1,159 @@
+{
+  "id": "met-436064",
+  "day": "05-01",
+  "title": "Young Herdsmen with Cows",
+  "artist": "Aelbert Cuyp",
+  "date": "ca. 1655–60",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146445.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP146445.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Benjamin Altman, 1913",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A countryside scene with cows and young herdsmen in the foreground, set in a landscape bathed in soft light under a wide sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436064",
+    "objectId": "436064",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Aelbert Cuyp was a Dutch painter from Dordrecht, known for pastoral landscapes filled with warm, glowing light. Cattle and herders were a favorite subject in Dutch art, and dairy farming was an important part of Dutch life in the 1600s.",
+  "descriptions": {
+    "k": "Cows rest in a green field. Young herders look after them. The sky is big, and the light is warm and gold. Can you find the cows? What would they say if they could talk?",
+    "g12": "Young herders and their cows are outdoors in a big, open country. The light is warm and soft, like a calm afternoon. Cuyp painted this in the Netherlands long ago. What sounds and smells would you notice if you stood in this field?",
+    "g35": "Aelbert Cuyp painted cows and young herders in a landscape around 1655 to 1660. Cuyp is famous for his glowing, golden light, which makes even an ordinary field look special. Cows and cheese were important in the Dutch economy. Look at where the light falls on the animals and people. What time of day do you think Cuyp wanted to show, and how can you tell?",
+    "g68": "Cuyp, who worked in Dordrecht, specialized in pastoral scenes in which herders and cattle stand in warm, hazy light. In Young Herdsmen with Cows (about 1655 to 1660), the large animals and figures are set against a wide landscape and sky. Dairy farming mattered to Dutch life, and landscape paintings let buyers enjoy the countryside from the city. How does the light shape the mood, and how realistic or idealized does this countryside feel?",
+    "g910": "Cuyp transformed the everyday subject of cattle and herders into a glowing pastoral through his treatment of golden light. The cows are painted with convincing weight, while atmosphere softens the distance, giving the scene a calm monumentality. Dutch buyers prized images of a prosperous, orderly countryside, and cattle may also have suggested the country's prosperity. Is the scene a record of rural labor, an idealized fantasy, or both? What in the painting supports your view?",
+    "g1112": "In Young Herdsmen with Cows, Cuyp combines observed animals and figures with an atmosphere of warm, diffused light often associated with his mature work. Such pastoral scenes appealed to Dutch urban buyers, and later collectors, especially in Britain, prized Cuyp's luminous effects. Scholars note that idealized countrysides may omit the hard work of farming. How does the painting's treatment of light, scale and subject construct its vision of rural life, and what might it leave out?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the young herders are doing with the cows? Tell your story.",
+      "emotion": "Does this place feel sleepy, busy or something else? What shows you?",
+      "observation": "Can you find the cows? Count them and point to each one.",
+      "analysis": "Which is bigger in the picture, the cows or the people? Why do you think so?",
+      "line": "Trace the line of a cow's back with your finger. Is it straight or curvy?",
+      "shape": "What shapes do the cows' bodies make? Are they round or square?",
+      "color": "Which warm colors do you see? Where do you see them?",
+      "texture": "How would a cow feel if you petted it? What about the grass?",
+      "space": "What is close in this picture and what is far away? Show me.",
+      "light": "Where is the sunlight shining the most? What does it make glow?",
+      "meaning": "What do you think the herders will do when it gets dark?",
+      "culture": "People in the Netherlands made milk and cheese from cows. What foods do you eat that come from animals?",
+      "technique": "The painter used oil paint to make gold light. What colors would you mix to make golden light?",
+      "personal": "Have you ever seen a cow or a farm animal? What was it like?",
+      "critical": "Why do you think the painter made the cows so big in the picture?"
+    },
+    "g12": {
+      "daily": "How does the warm light make the cows and herders feel important? Point to a place where it glows.",
+      "emotion": "What feeling do you get from the soft, golden light? Which part helps you feel it?",
+      "observation": "Describe the cows, the people and the land behind them. What do you notice first?",
+      "analysis": "How does the painter group the cows and herders to make a strong center for the picture?",
+      "line": "Find a curved line on an animal and a straight line in the land. How do they feel different?",
+      "shape": "The cows have big, rounded shapes. How does that make them seem strong and calm?",
+      "color": "Where does the painter use warm colors, and where does he use cooler colors? How do they work together?",
+      "texture": "How does the painter show the cows' coats and the grass without touching them?",
+      "space": "How do you know the land goes far into the distance? Look for clues like size and color.",
+      "light": "Which side of the cows is bright and which side is in shade? What does that tell you about the sun?",
+      "meaning": "What do you think the young herders are thinking or saying to each other?",
+      "culture": "Why might people living in a city have liked a painting of the countryside?",
+      "technique": "Cuyp painted soft, hazy light in the distance. What might he do with his brush to make things look hazy?",
+      "personal": "If you could join the herders for an afternoon, what would you want to do?",
+      "critical": "Does this farm look easy or hard to work on? What evidence do you have?"
+    },
+    "g35": {
+      "daily": "Cuyp made even a field of cows glow with golden light. Which details of the light make you think of a certain time of day?",
+      "emotion": "What mood do the warm light and the resting animals create? Name two details that set it.",
+      "observation": "Look slowly across the painting. What details do you find in the cows, the herders and the land?",
+      "analysis": "How does the artist arrange the cows and people in the foreground so your eyes settle on them first?",
+      "line": "How do the curves of the cows' bodies and the line of the horizon create a calm feeling?",
+      "shape": "Compare the big, round shapes of the cows with the shapes in the distant landscape. What do you notice?",
+      "color": "How do golden and brown colors make the scene feel warm and peaceful?",
+      "texture": "How does Cuyp suggest the cows' hides and the soft ground using paint?",
+      "space": "How does Cuyp use size, color and haze to separate the foreground from the faraway land?",
+      "light": "Where is the light brightest? How does it change the color of the animals, people and land?",
+      "meaning": "What might this painting say about how the Dutch saw their countryside and their farms?",
+      "culture": "Dairy products were an important part of the Dutch economy in the 1600s. How can a painting of cows show what people valued?",
+      "technique": "Oil paint dries slowly, so a painter can blend soft edges. Where do you think Cuyp blended colors to make haze?",
+      "personal": "What outdoor place makes you feel calm? How does this painting show a similar feeling?",
+      "critical": "Is this a record of real farm work or an idealized view? What clues support your answer?"
+    },
+    "g68": {
+      "daily": "How does Cuyp use golden light to elevate a simple scene of herders and cows? Identify specific effects.",
+      "emotion": "What emotional tone does the soft, warm light create, and how would the mood shift with cooler, harsher light?",
+      "observation": "List the animals, figures and landscape elements you can find. Which seem to receive the most attention from the painter?",
+      "analysis": "How does the composition place the cows and herders in relation to the horizon and sky, and with what effect?",
+      "line": "How do the sweeping contour lines of animals and land create a sense of calm?",
+      "shape": "How do the large, rounded masses of the cows contrast with the lighter shapes of the distant landscape?",
+      "color": "How does the palette of gold, brown and soft blue support the painting's mood?",
+      "texture": "How does Cuyp differentiate hide, foliage and hazy distance using brushwork?",
+      "space": "How does the placement of large figures close to the viewer, with a hazy landscape behind, shape the sense of depth?",
+      "light": "How does atmospheric light unify the figures, animals and landscape?",
+      "meaning": "Do you read this scene as honest country life or as an idealized dream? Use visual evidence.",
+      "culture": "How might an urban buyer in the Dutch Republic have used a painting like this?",
+      "technique": "What painting techniques could produce a sense of warm atmosphere, and where do you see them?",
+      "personal": "How do the light and setting of this painting resemble or differ from a place you know?",
+      "critical": "What aspects of farm life might an idealized painting leave out, and why might the painter have left them out?"
+    },
+    "g910": {
+      "daily": "How does the monumental scale of the cows and the warmth of the light transform an ordinary subject?",
+      "emotion": "How does the interaction of figures at rest, soft light and open space create an emotional tone of calm?",
+      "observation": "Describe the painting's visual hierarchy. What do you see first, and how does the painter manage the viewer's path?",
+      "analysis": "Analyze the relationship between foreground figures and distant landscape. How does it organize the picture?",
+      "line": "How do the horizontal lines of the land and the curves of the animals work together or counter one another?",
+      "shape": "How does the massing of bodies against open sky produce a sense of monumentality?",
+      "color": "How does a warm, tonal palette unify the painting and shape its atmosphere?",
+      "texture": "How does the painter vary surface effects to distinguish animal, human and landscape elements?",
+      "space": "How does Cuyp use atmospheric perspective to separate the near from the far?",
+      "light": "How does the treatment of light carry both descriptive and emotional functions?",
+      "meaning": "What might cattle and herders have symbolized to Dutch viewers, and which meanings does the painting actually support?",
+      "culture": "How do pastoral paintings reflect an urban nostalgia for rural life in the Dutch Republic?",
+      "technique": "How does glazing or layered paint produce luminous effects, and where might Cuyp have used them?",
+      "personal": "How does your own experience of rural or open places shape your reading of the painting?",
+      "critical": "To what extent can an idealized image of farm life distort our understanding of historical rural labor?"
+    },
+    "g1112": {
+      "daily": "What does the painting's luminous calm ask of its viewer, and what might its poise conceal about rural life?",
+      "emotion": "How does the painting's atmospheric treatment shape emotion, and how stable is that emotional reading across viewers?",
+      "observation": "Describe the arrangement of animals, figures and landscape as precisely as possible before interpreting. Where did you notice yourself shifting into interpretation?",
+      "analysis": "How does Cuyp's composition create unity between foreground and distance, and what is the effect on the painting's meaning?",
+      "line": "How does the interplay of long horizontal lines and rounded animal contours produce a sense of order?",
+      "shape": "How do mass and silhouette give the cattle a monumental presence, and what values might that scale express?",
+      "color": "How does color temperature function to produce both naturalistic light and idealized warmth?",
+      "texture": "How does the painter's handling of paint vary across the surface to create believable substances and atmosphere?",
+      "space": "How does the painting position the viewer relative to figures and animals, and how does that affect empathy or distance?",
+      "light": "In what ways is Cuyp's light both observed and invented, and how does that duality shape the painting's reputation?",
+      "meaning": "How do pastoral conventions shape the way viewers interpret a scene like this, and when might they distort it?",
+      "culture": "What does the later popularity of Cuyp's work among collectors suggest about how taste constructs the idea of a landscape?",
+      "technique": "How do the demands of painting living animals in naturalistic light test a painter's methods, and what does this canvas reveal about his solutions?",
+      "personal": "What assumptions about rural life do you bring to this picture, and where do they come from?",
+      "critical": "Whose experience of the countryside is represented here, and whose is absent?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Men, Cows, Landscapes) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A pastoral landscape by Aelbert Cuyp of Dordrecht, made around 1655 to 1660. Cuyp is especially known for warm, hazy light, and his work was later popular with collectors, especially in Britain.",
+    "vocabulary": [
+      "pastoral",
+      "herdsman",
+      "atmosphere",
+      "foreground",
+      "horizon",
+      "idealized"
+    ],
+    "directions": [
+      "Ask students to photograph or sketch a place at morning, noon and evening and compare the light.",
+      "Discuss what a painting can show about farm work and what it can leave out.",
+      "Connect to the history of dairy farming in the Netherlands."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-358715",
+  "day": "02-15",
+  "title": "Wooded Landscape at L'Hermitage, Pontoise",
+  "artist": "Camille Pissarro",
+  "date": "1879",
+  "medium": "Soft ground, aquatint, spit bite, etching, and drypoint on Japanese paper; sixth state of six (per Shapiro)",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108213.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP108213.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1921",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A print of a wooded landscape, with trees and soft, grainy patches of gray and black tone made by layered printmaking techniques.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/358715",
+    "objectId": "358715",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Landscapes, Trees), public-domain flag, and image URLs read from the record. Region is a well-established label for the artist and place, not a record field."
+  },
+  "context": "A print by the French artist Camille Pissarro, dated 1879, showing a wooded landscape at L'Hermitage, a part of the town of Pontoise near Paris where he lived and worked. It combines several printmaking techniques on Japanese paper.",
+  "descriptions": {
+    "k": "This picture shows trees in a forest. The artist used many tricks to make the gray, soft spots and the scratchy lines. Can you find the tallest tree? What would you hear if you walked here?",
+    "g12": "Camille Pissarro made this print of woods near a town in France. He used scratchy lines and soft gray patches to show trees and shade. The paper is thin and Japanese. Look for the dark shadows and the light spots. How would it feel to walk here?",
+    "g35": "Camille Pissarro lived in a town called Pontoise in France, and he often drew and painted the trees and fields nearby. In this print, he used several printmaking tricks to make soft gray tones as well as thin lines. Look at the dark and light patches among the trees. How do they make you feel as though you are standing in the woods?",
+    "g68": "Pissarro made this print in 1879, when he was experimenting with printmaking alongside other artists. He combined soft ground, aquatint, spit bite, etching, and drypoint, each of which makes a different kind of mark: soft textures, grainy tones, or crisp lines. The Met record notes this is the sixth state of six, so he reworked the plate many times. Look for how the layers of tone create light and shade among the trees. Why might an artist keep changing a print?",
+    "g910": "Wooded Landscape at L'Hermitage, Pontoise shows Pissarro's willingness to experiment with printmaking in 1879. By layering soft ground, aquatint, spit bite, etching, and drypoint, he built tones and textures closer to a painter's atmosphere than to a typical line etching. The record lists this as the sixth of six states, evidence of repeated reworking. Consider how variations of mark, from grainy tone to sharp line, build light, depth, and the feeling of a woodland place.",
+    "g1112": "Pissarro's 1879 print reveals the experimental spirit of Impressionist printmaking. Combining soft ground, aquatint, spit bite, etching, and drypoint, he exploited effects of tone and texture that rival painting. The sixth of six states documents a long process of revision, which asks us to treat the print as the result of exploration rather than a single moment. Because the Met cites Shapiro for the state, the numbering reflects a scholar's catalog. How does such a layered process alter our notion of what a landscape print is, and of what counts as finished?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you walked into this woods, what would you hear and smell?",
+      "emotion": "Do the trees feel peaceful or spooky? What do you see that makes you say so?",
+      "observation": "What can you find in this picture? Point to trees, light spots, and dark spots.",
+      "analysis": "Where do your eyes go first in the woods? Where do they go next?",
+      "line": "Find thin, scratchy lines in the print. Do they go up, down, or across?",
+      "shape": "Which shapes do the trees and the leaves make? Look for tall shapes and round shapes.",
+      "color": "This print is gray, black, and the color of the paper. How does that change how the woods feel?",
+      "texture": "Some parts look grainy, like sand. Some parts look scratchy. Which do you like best?",
+      "space": "Which trees seem close to you and which seem far away?",
+      "light": "Where does the light shine through the trees? Where is it shady?",
+      "meaning": "Why do you think an artist wanted to make a picture of a quiet forest?",
+      "culture": "Pissarro made this near the town where he lived in France. What nature spots are close to where you live?",
+      "technique": "The artist made soft gray spots and thin lines in the same picture. How do you think he did both?",
+      "personal": "Do you have a favorite tree or woods? Tell about it.",
+      "critical": "A drawing of a forest can look real or dreamy. Which does this one look like to you?"
+    },
+    "g12": {
+      "daily": "What does it feel like to stand in this woods? Use details to tell.",
+      "emotion": "What mood do the shadows and light spots give this landscape?",
+      "observation": "Describe four things you see among the trees.",
+      "analysis": "How does Pissarro lead your eyes through the woods?",
+      "line": "Find lines that are thin and lines that are heavy. Which ones show trunks and branches?",
+      "shape": "Look at the shapes made by the trees and the open spaces between them. How are they different?",
+      "color": "The print uses grays and black on pale paper. How can that still look like a leafy place?",
+      "texture": "Some areas look grainy and soft, others look scratchy. Where do you see each kind?",
+      "space": "How can you tell which trees are nearer and which are farther away?",
+      "light": "Where is the print lightest? How does it make the shady parts look darker?",
+      "meaning": "What might make a quiet woods special to an artist who lived nearby?",
+      "culture": "Pissarro lived in Pontoise, a town near Paris. Why might an artist from a big city enjoy the woods outside it?",
+      "technique": "Pissarro used several printmaking methods in one picture. Why might he want to mix them?",
+      "personal": "What sounds or smells do you notice when you walk under trees?",
+      "critical": "Is it easy to tell what every mark in this print is? Why might an artist not make everything clear?"
+    },
+    "g35": {
+      "daily": "How does Pissarro use light and dark to turn a plain stretch of woods into a mood?",
+      "emotion": "What feeling do the soft tones and the scratchy lines make together?",
+      "observation": "Take one minute to scan the print. What small details appear that you missed at first?",
+      "analysis": "How does Pissarro arrange trees, open spaces, and shadows to lead your eyes into the picture?",
+      "line": "How do the thin lines contrast with the broad, soft areas of gray?",
+      "shape": "How do upright tree trunks and rounded masses of leaves work together?",
+      "color": "The print is gray, black, and paper color. How does Pissarro make tones that feel like sunlight and shade?",
+      "texture": "Aquatint makes grainy tones and drypoint makes soft, velvety lines. Where do you see rough or soft areas?",
+      "space": "How does the print show the difference between the trees nearest to you and the ones farther back?",
+      "light": "Where does light seem to fall among the trees, and how can you tell without color?",
+      "meaning": "Why might Pissarro have chosen to show woods without a person as the main subject?",
+      "culture": "Pissarro and other artists in France were trying new ways to show nature. Why might they experiment with printmaking too?",
+      "technique": "The Met lists six states. Why might an artist change a plate so many times before he is satisfied?",
+      "personal": "Think of a place in nature you like to return to. What would you want a print of it to show?",
+      "critical": "Does a more complicated process always make a better picture? Use this print to explain."
+    },
+    "g68": {
+      "daily": "How do Pissarro's layered techniques create a woodland atmosphere that a simple outline could not?",
+      "emotion": "How does the balance of soft tones and sharp lines affect the mood of the scene?",
+      "observation": "Describe what you see from the foreground through the middle to the background. Which marks look the most different from each other?",
+      "analysis": "How does the composition use patches of dark and light to organize the woods?",
+      "line": "How do the crisp lines of etching and drypoint contrast with the tonal passages from aquatint and soft ground?",
+      "shape": "How do vertical trunks and irregular masses of foliage create rhythm in the composition?",
+      "color": "Without color, how does Pissarro make tonal differences stand for sunlight, shade, and distance?",
+      "texture": "Which techniques create the grainy and soft textures? How do they differ from the line work?",
+      "space": "How do changes in tone and detail create depth in a densely wooded view?",
+      "light": "How does reserved light among the dark masses suggest sun filtering through trees?",
+      "meaning": "What might the absence of a prominent figure suggest about how Pissarro saw the landscape?",
+      "culture": "How did Pissarro's life in Pontoise connect his art to the Impressionist interest in everyday landscapes?",
+      "technique": "Why might an artist combine five techniques in one plate? What does each add?",
+      "personal": "How do you decide when a piece you are making is finished?",
+      "critical": "If a print goes through six states, which version is 'the' artwork? Defend your view."
+    },
+    "g910": {
+      "daily": "How does Pissarro's combination of techniques build atmosphere in a wooded landscape?",
+      "emotion": "How do the subtle gradations of tone create a mood of enclosure or calm?",
+      "observation": "Describe the print's visual hierarchy: where is the eye drawn first, and how do tone and line sustain interest?",
+      "analysis": "Analyze how Pissarro structures the woodland space with masses of tone and linear detail.",
+      "line": "How does the interplay of delicate line and broad tonal areas redefine what 'drawing' means in a print?",
+      "shape": "How does the pattern of trunks and foliage forms create rhythm across the sheet?",
+      "color": "How does the tonal range of the print substitute for color, and what does it emphasize?",
+      "texture": "How do aquatint grain and soft ground texture differ from the smoother effect of line etching?",
+      "space": "How does the print build recession without a clear horizon or large open area?",
+      "light": "How do reserved areas of paper and dark tones simulate dappled light?",
+      "meaning": "What does the choice of an unspectacular woodland suggest about Impressionist attitudes toward subject matter?",
+      "culture": "How did the 1870s printmaking collaborations among avant-garde artists shape work like this?",
+      "technique": "How does the number of states reveal the process, and what does it suggest about the role of experiment?",
+      "personal": "How does your own experience of woodland light affect the way you read the print's tones?",
+      "critical": "How might the technical complexity of this print complicate a simple label like 'landscape'?"
+    },
+    "g1112": {
+      "daily": "What claims can be made about Pissarro's aims from the print's materials and states, and what must remain inference?",
+      "emotion": "How does atmospheric tone produce feeling in a work without a narrative or a figure?",
+      "observation": "Describe the print's surface and structure in precise terms. Which observations about technique can you not verify without knowledge of the process?",
+      "analysis": "Analyze how the print integrates linear and tonal systems into a single pictorial structure.",
+      "line": "How does the coexistence of etched line and tonal passages complicate the boundary between drawing and painting?",
+      "shape": "How does the dispersal of forms across the sheet reflect Impressionist concerns with fragmentation and unity?",
+      "color": "How does tonal modulation function as a counterpart to color in Impressionist practice?",
+      "texture": "How do the material effects of different processes become part of the meaning of the print?",
+      "space": "How does the print conjure space through tonal gradation, and how does it resist conventional perspective?",
+      "light": "How does the print render light as an effect of dark and reserved areas rather than a source?",
+      "meaning": "How might this print be read in relation to Impressionism's emphasis on the transient and the ordinary?",
+      "culture": "How do the Met's citation of a scholarly catalog and the sixth-state numbering show how print history is constructed?",
+      "technique": "What does an extended sequence of states reveal about the relationship between process and finished work in Impressionist printmaking?",
+      "personal": "How do your expectations of what a print should look like shape your response to such an experimental one?",
+      "critical": "What do we gain and lose by treating the final state as the definitive version of the print?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Landscapes, Trees) read from the museum record; a landscape with no figures indicated, no nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Camille Pissarro lived and worked in Pontoise, France, and experimented with printmaking in 1879. The Met record lists the techniques and calls this the sixth state of six (per Shapiro).",
+    "vocabulary": [
+      "soft ground",
+      "aquatint",
+      "drypoint",
+      "etching",
+      "state",
+      "Impressionism"
+    ],
+    "directions": [
+      "Have students create a tonal landscape using only pencil pressure: light, medium, and dark.",
+      "Ask students to compare how line and tone each suggest the woods.",
+      "Discuss why an artist might revise a work many times."
+    ]
+  }
+}

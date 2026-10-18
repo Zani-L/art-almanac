@@ -1,0 +1,159 @@
+{
+  "id": "met-40086",
+  "day": "02-01",
+  "title": "Scholar viewing a waterfall",
+  "artist": "Ma Yuan",
+  "date": "early 13th century",
+  "medium": "Album leaf; ink and color on silk",
+  "movement": "Southern Song dynasty painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP154090.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP154090.jpg",
+    "credit": "The Metropolitan Museum of Art, Ex coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small square painting on silk of a scholar in a landscape, looking toward a waterfall that falls among rocks and trees. Soft ink and light color suggest mist, and much of the picture is left open and quiet.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/40086",
+    "objectId": "40086",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Southern Song dynasty), tags (Men, Waterfalls, Trees), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "An album leaf by Ma Yuan, a painter of the Southern Song dynasty who is generally known to have worked at the court in Hangzhou. The Met titles it Scholar viewing a waterfall and dates it to the early 13th century. Small paintings like this were meant to be held and enjoyed up close.",
+  "descriptions": {
+    "k": "A man stands and looks at a waterfall. There are trees and rocks. The air looks soft, like mist. The painting is small and quiet. What sound do you think the water makes?",
+    "g12": "Ma Yuan painted this small picture long ago in China. A scholar looks at a waterfall, with rocks and trees close by. Ink and soft color on silk make the air feel misty and calm. Much of the picture is open and empty. What might the man be thinking as he watches the water?",
+    "g35": "Ma Yuan painted for the Song dynasty court, and this small album leaf shows a scholar pausing to watch a waterfall. Notice how the trees and rocks sit to one side while the rest is soft and open. The silk surface and light ink give the scene a misty feeling. Why might an artist make a person small and nature large? What do you think the scholar feels?",
+    "g68": "Ma Yuan is known for compositions that place the main subjects in one part of the picture and let the rest dissolve into mist, which is why he is sometimes linked with the idea of one-corner design. Here a scholar is paired with a waterfall, trees, and rocks. The person looks small in a vast setting, which may suggest how Song-era viewers thought about nature and quiet reflection. What choices direct your eye toward the water?",
+    "g910": "Created in the early 13th century, this album leaf shows how Southern Song court painting combined careful brushwork with poetic restraint. A scholar contemplating a waterfall is a theme linked to ideas of retreat and reflection in nature. Ma Yuan balances detailed rocks and trees against open, atmospheric space. Consider how the scale of the figure, the direction of the water, and the empty silk work together to guide viewers toward a moment of stillness.",
+    "g1112": "Ma Yuan's leaf pairs a small human figure with a waterfall, a subject often read in Chinese painting as an invitation to contemplate nature's scale and a scholar's cultivated leisure. Interpretations differ: some emphasize Daoist or Chan-inflected ideas of harmony with nature, others the courtly taste for refined poetic scenes. The asymmetrical composition and generous open space are typical of what is associated with Ma Yuan, but the work is best approached through close looking before general labels."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the man and the waterfall. What do you think he hears, and what does he feel?",
+      "emotion": "Does this little painting feel noisy or peaceful? Point to what helps you feel that.",
+      "observation": "Find the man, the waterfall, and a tree. Which one did you spot first?",
+      "analysis": "The man is small and the land is big. How does that change how you feel when you look?",
+      "line": "Follow the waterfall with your finger from the top down. Which way do the lines go?",
+      "shape": "Look at the rocks near the waterfall. What shapes do they make?",
+      "color": "The painting uses soft, quiet colors. Which ones can you find?",
+      "texture": "The rocks are hard and the mist is soft. Can you see where each one is?",
+      "space": "Where is the painting full and where is it empty? Which part do you like more?",
+      "light": "Does the air in this painting look bright or hazy? What makes you think so?",
+      "meaning": "Why do you think the man stopped here? Make up a reason.",
+      "culture": "This painting is on silk, a smooth cloth from China. Why might someone paint on cloth instead of paper?",
+      "technique": "The painter used a thin brush and ink. Where do you think he used the thinnest lines?",
+      "personal": "Have you ever stood still to watch water? What did you notice?",
+      "critical": "If the painter left out the man, what would change about the picture?"
+    },
+    "g12": {
+      "daily": "What is the scholar doing, and how can you tell? Use the waterfall and the trees in your answer.",
+      "emotion": "How does this picture make you feel, loud and busy or soft and calm? What details help?",
+      "observation": "List everything you can find in this small painting, from the scholar to the trees and rocks.",
+      "analysis": "How does the painter help your eyes travel from the scholar to the waterfall?",
+      "line": "Look at the lines of the tree branches and the falling water. Which are thicker and which are finer?",
+      "shape": "Find the big shapes in the rocks and cliffs. How do they frame the waterfall?",
+      "color": "The artist used ink and a little color. Which parts stand out, and which parts fade away?",
+      "texture": "Which parts of the painting look rough, like rock, and which look soft, like mist? How did the painter show the difference?",
+      "space": "Why do you think Ma Yuan left so much of the silk open and quiet?",
+      "light": "The scene looks hazy and gentle. What did the painter do to make the air look misty?",
+      "meaning": "What do you think a person feels when he looks at a big waterfall? How might this scholar feel?",
+      "culture": "In China long ago, scholars loved to visit mountains and rivers for peace. How does this painting show that idea?",
+      "technique": "Ma Yuan painted a very small picture with great care. What details look tiny but clear?",
+      "personal": "Where is your favorite quiet place in nature? How is it like or unlike this one?",
+      "critical": "The scholar is small compared to the waterfall. Why might the painter have chosen that?"
+    },
+    "g35": {
+      "daily": "What do you think is happening in this moment? Find three details that support your idea.",
+      "emotion": "How would you describe the mood of the scholar's moment by the waterfall? Which choices by Ma Yuan create that mood?",
+      "observation": "Look for one minute without speaking. What small details about the rocks, branches, or water did you notice last?",
+      "analysis": "How does Ma Yuan balance the heavy rocks and trees on one side with the open space on the other?",
+      "line": "How do the strong lines of the cliffs and branches compare with the soft lines of the water?",
+      "shape": "Notice the jagged shapes of rocks and the thin shapes of falling water. How do they contrast?",
+      "color": "How does the soft color on the silk help create a quiet, misty feeling instead of a bright, cheerful one?",
+      "texture": "How does the painter show hard rock, flowing water, and soft mist using only brush and ink?",
+      "space": "Look at the empty silk. How does it make the scene feel deeper, and what might it stand for?",
+      "light": "There is no bright sun in this scene. How does the painter suggest daylight and weather through ink and color?",
+      "meaning": "Why might a scholar leave a busy life to watch a waterfall? What ideas about nature does this suggest?",
+      "culture": "Ma Yuan painted for a court in the Song dynasty. What can an album leaf like this tell us about what people there enjoyed?",
+      "technique": "This leaf was painted on silk, which takes ink differently from paper. How might the silk help produce such fine details?",
+      "personal": "Imagine standing where the scholar stands. What would you hear, smell, and feel?",
+      "critical": "Is the scholar the most important part of this painting, or is the waterfall? Use evidence to defend your view."
+    },
+    "g68": {
+      "daily": "How does Ma Yuan turn a simple moment of looking into something that holds our attention?",
+      "emotion": "How does the relationship between the tiny scholar and the large natural setting create a feeling of calm or awe?",
+      "observation": "Describe the picture from the scholar to the waterfall to the edges. What do you notice about where details are concentrated?",
+      "analysis": "How does the placement of the waterfall, rocks, and scholar create a path for the eye through an uneven composition?",
+      "line": "How do the angular lines of the rocks and the flowing lines of the water produce different feelings within the same scene?",
+      "shape": "How does the pattern of large cliff shapes and small figure create contrast of scale?",
+      "color": "Why might a painter choose very restrained color for a contemplative subject?",
+      "texture": "Where do you see the strongest contrast between rough brushwork and smoother areas? What does each suggest about the material shown?",
+      "space": "Empty areas in Chinese painting are not blank leftovers. What might the open silk represent here, such as mist, distance, or silence?",
+      "light": "How does the painter create an atmosphere of damp, filtered light without using obvious shadows?",
+      "meaning": "What might it mean that the scholar is shown observing nature rather than doing anything active? Offer more than one reading.",
+      "culture": "The scholar was an admired figure in Song dynasty culture. How could a viewer connect this image to ideals of learning and retreat?",
+      "technique": "Ma Yuan used angular strokes to draw rocks and trees. How can you see this in the way the forms are made?",
+      "personal": "When have you taken a moment to observe nature without any goal? How might you show that in a picture?",
+      "critical": "How would the painting change if the scholar were larger or the waterfall were left out? What does that show about the artist's choices?"
+    },
+    "g910": {
+      "daily": "Which compositional choices make this small leaf feel monumental or intimate, and how do they work together?",
+      "emotion": "How does Ma Yuan create contemplative feeling through scale, restraint, and atmosphere rather than through narrative?",
+      "observation": "Describe the hierarchy of attention. What draws you first, and which devices, such as detail, contrast, or placement, are responsible?",
+      "analysis": "Analyze the asymmetry of the composition. How do dense passages and empty silk balance each other?",
+      "line": "How does the contrast between sharp, angular contour lines and the soft verticals of falling water structure the scene?",
+      "shape": "How do the masses of cliff and tree frame the smaller shape of the scholar and direct attention to the falls?",
+      "color": "How does limited, muted color contribute to a poetic tone and reinforce the sense of mist and distance?",
+      "texture": "How does the painter differentiate rock, bark, foliage, and water through brush technique alone?",
+      "space": "How does the interplay of sharply drawn foreground and misty open space produce depth without strict perspective?",
+      "light": "How does atmospheric haze substitute for strong light and shadow in conveying time of day and weather?",
+      "meaning": "A scholar viewing a waterfall can be read as a theme of retreat, learning, or harmony with nature. Which reading seems best supported here, and why?",
+      "culture": "How might the audience of Southern Song court painting have responded to scenes of scholarly leisure, and what values might it express?",
+      "technique": "How do the demands of working on silk, where strokes are hard to alter, shape the clarity and economy of the painting?",
+      "personal": "How does viewing a very small painting differ from viewing a large one? What does intimacy add to your experience?",
+      "critical": "How should we weigh the label Ma Yuan style against evidence visible in this one leaf? What can we say with confidence?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this leaf about Southern Song ideas of nature, selfhood, and refinement, and what remains uncertain?",
+      "emotion": "How does the painting's emotional restraint make room for the viewer's projection? What do you bring to the scholar's moment?",
+      "observation": "Describe the leaf as precisely as possible, noting where the artist concentrates detail. When does description begin to interpret?",
+      "analysis": "Analyze how Ma Yuan's asymmetrical design and use of void both unify the picture and prompt a slow, reflective viewing.",
+      "line": "How do angular brush contours and vertical water forms create tension between solidity and flow?",
+      "shape": "How does the small figure's scale relative to the cliffs and falls construct a particular view of the human place in nature?",
+      "color": "How might the aging of silk and pigment affect our experience of the color, and what does restraint do for the mood?",
+      "texture": "How does the painter's handling of dry and wet ink produce a convincing material world in so small a space?",
+      "space": "How does the open silk function simultaneously as depth, atmosphere, and symbolic silence? Which reading is most persuasive?",
+      "light": "How does the painting evoke weather and time with minimal tonal means, and how does this differ from European approaches to light?",
+      "meaning": "How do competing readings, such as Daoist harmony, Chan-inflected stillness, or courtly poetic taste, shape the meaning of a scholar at a waterfall?",
+      "culture": "How does the court context of Ma Yuan's career complicate the idea that such paintings simply express a hermit's withdrawal from society?",
+      "technique": "What does the album-leaf format suggest about how the work was used, and how does it shape the painter's technical choices?",
+      "personal": "How might your own experience of silence or of nature shape the way you read the scholar's pause?",
+      "critical": "Given that attributions and later labels shape reputations, how would you evaluate claims about this work's relationship to the Ma Yuan style?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tags (Men, Waterfalls, Trees) in the Met record were checked; the subject is a scholar in a landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Ma Yuan was active around 1190 to 1225 and is a key figure of Southern Song court painting. The details of this leaf's composition should be confirmed by looking together; the guiding question is how a small figure and a waterfall share the space.",
+    "vocabulary": [
+      "album leaf",
+      "silk",
+      "Southern Song dynasty",
+      "scholar",
+      "composition",
+      "negative space"
+    ],
+    "directions": [
+      "Have students cover half of the image to see how much the empty space contributes to the mood.",
+      "Ask students to write a short poem of two or three lines that the scholar might have thought of at this spot.",
+      "Compare with a Western landscape painting that fills the whole canvas, and discuss what each choice emphasizes."
+    ]
+  }
+}

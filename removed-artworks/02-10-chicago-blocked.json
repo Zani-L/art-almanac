@@ -1,0 +1,158 @@
+{
+  "id": "artic-129849",
+  "day": "02-10",
+  "title": "Houses at Murnau",
+  "artist": "Vasily Kandinsky",
+  "date": "1909",
+  "medium": "Oil on cardboard",
+  "movement": "Expressionism",
+  "region": "Germany",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Bequest of Katharine Kuh",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small painting of houses in the village of Murnau, Germany, in bold, bright color with simplified shapes. The colors are strong and not meant to match what a camera would see.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/129849",
+    "objectId": "129849",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Vasily Kandinsky, born Moscow, died Neuilly-sur-Seine 1944), date, medium, place of origin, credit line, image id and public-domain flag (true) read from the record. The record has no description or subject terms."
+  },
+  "context": "Painted in 1909 by Vasily Kandinsky, who was born in Moscow and worked in Germany. Murnau is a town in Bavaria, southern Germany, where Kandinsky painted in these years. The museum record lists oil on cardboard and gives no description.",
+  "descriptions": {
+    "k": "These are houses in a village. The colors are bold and bright, not like a photograph. The painter used simple shapes. Which house would you like to visit? What color would you paint your door?",
+    "g12": "Vasily Kandinsky painted houses in a village called Murnau, in Germany. He used bold colors and simple shapes, not tiny details. The painting is small and made on cardboard. Which colors look the happiest? Which house stands out?",
+    "g35": "Vasily Kandinsky, born in Moscow, painted Houses at Murnau in 1909. Murnau is a town in Germany where he painted. He used strong colors and simple shapes instead of copying what he saw exactly, and he worked on cardboard. How do the colors make the houses feel alive? What do you think he wanted to show?",
+    "g68": "Kandinsky painted Houses at Murnau in 1909 on oil and cardboard, using bold color and simplified shapes to show a Bavarian village. The museum gives no description, so look at the evidence: how color, not detail, builds the scene. How do the strong colors express mood, and why might an artist who later painted abstractly begin by simplifying a real place?",
+    "g910": "Houses at Murnau (1909) belongs to the years when Kandinsky, working in Germany, used saturated color and simplified forms to move away from naturalistic description. The museum offers no commentary, so interpretation rests on what is visible. Consider how color acts as feeling rather than record, and how a village scene may mark a step toward the abstraction for which Kandinsky is known.",
+    "g1112": "Houses at Murnau (1909) captures Kandinsky at a turning point, using heightened color and simplified form on a small cardboard support to treat a German village as a field of chromatic relationships. The museum record gives only date, medium and title. How does the painting hold representation and abstraction in tension, and what should we claim about its role in his path to abstraction without overreading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which house would you visit? Point to it.",
+      "emotion": "Do the colors feel happy, calm, or wild? Show us a spot.",
+      "observation": "Find a house, a path, or a tree. Where are they?",
+      "analysis": "Which house or roof does your eye find first?",
+      "line": "Find a straight line on a house. Where is it?",
+      "shape": "Look for squares and triangles. Where are they?",
+      "color": "Which colors are your favorites?",
+      "texture": "The paint looks thick and brushy. How might it feel?",
+      "space": "Which houses are close and which are far?",
+      "light": "Where does the painting look brightest?",
+      "meaning": "Why might someone paint a village?",
+      "culture": "What does your neighborhood look like?",
+      "technique": "How would you paint a house with bold colors?",
+      "personal": "Which color would you pick for your own house?",
+      "critical": "Why might an artist use colors that are not real?"
+    },
+    "g12": {
+      "daily": "What story could happen in this village? Use clues from the houses.",
+      "emotion": "What feeling do the bold colors give you?",
+      "observation": "Name the colors and shapes of the houses and paths. What did you spot last?",
+      "analysis": "How do the houses lead your eyes through the painting?",
+      "line": "Which lines make the roofs and walls?",
+      "shape": "Which shapes repeat in the houses?",
+      "color": "How do bright colors make the village stand out?",
+      "texture": "How can you tell the paint was put on with a brush?",
+      "space": "How can you tell some houses are farther away?",
+      "light": "Where do you see light and shadow?",
+      "meaning": "Kandinsky used colors that are not real. What does that do to the feeling of the picture?",
+      "culture": "Murnau is a town in Germany. What would a small town there be like?",
+      "technique": "Kandinsky simplified the houses into shapes. How is that different from a photograph?",
+      "personal": "What place near you would you paint in bold colors?",
+      "critical": "Does a painting need real colors to show a place? Explain."
+    },
+    "g35": {
+      "daily": "What clues tell you this is a village, and what is left to imagine?",
+      "emotion": "What mood does the painting have, and what colors create it?",
+      "observation": "Look slowly. What small shape did you notice late?",
+      "analysis": "How does Kandinsky arrange houses so the picture feels balanced?",
+      "line": "How do edges and outlines make shapes clear?",
+      "shape": "How do simple shapes help the houses look strong?",
+      "color": "How do contrasting colors give energy to the scene?",
+      "texture": "What does the paint on cardboard tell you about how he worked?",
+      "space": "How does he show distance with only color and shape?",
+      "light": "How does color make the scene feel sunny or glowing?",
+      "meaning": "Kandinsky later made fully abstract paintings. What hints of that do you see?",
+      "culture": "Why might an artist leave Moscow and paint in Germany?",
+      "technique": "Why might an artist use bright colors on a small piece of cardboard?",
+      "personal": "What town or neighborhood would you paint, and which colors?",
+      "critical": "How is this painting different from a photograph of Murnau?"
+    },
+    "g68": {
+      "daily": "How does color, not detail, build the sense of place?",
+      "emotion": "How do saturated hues create the mood?",
+      "observation": "What is certain about the scene, and what is simplified or invented?",
+      "analysis": "How does the composition organize houses and landscape?",
+      "line": "How do edges and outlines affect clarity?",
+      "shape": "How do simplified forms prepare for abstraction?",
+      "color": "How do contrasting colors add excitement?",
+      "texture": "How does the paint surface show speed or care?",
+      "space": "How does he suggest depth without traditional perspective?",
+      "light": "How does color imply light?",
+      "meaning": "The museum gives no description. What questions would you ask?",
+      "culture": "How might living in Germany have affected a Russian-born artist?",
+      "technique": "Why might Kandinsky begin with real places before abstraction?",
+      "personal": "How would you simplify your street into shapes and colors?",
+      "critical": "What makes color expressive instead of descriptive?"
+    },
+    "g910": {
+      "daily": "How does Kandinsky use color to translate a place into feeling?",
+      "emotion": "How does the saturated palette define the painting's emotional tone?",
+      "observation": "Analyze how houses and landscape are organized in the composition.",
+      "analysis": "How do contours and edges contribute to the painting's structure?",
+      "line": "How does simplification show Kandinsky moving away from description?",
+      "shape": "How does color function structurally here?",
+      "color": "How does the handling of paint on cardboard signal immediacy?",
+      "texture": "How does the painting create depth without conventional modeling?",
+      "space": "How does light appear as color relationships?",
+      "light": "With little museum commentary, how can interpretation remain responsible?",
+      "meaning": "How does the village subject relate to Kandinsky's later abstraction?",
+      "culture": "How does the work reflect Expressionist interest in feeling over appearance?",
+      "technique": "What does a small, sketch-like support suggest about the work?",
+      "personal": "How does your response change if you know it is a real place?",
+      "critical": "How should we weigh later developments when interpreting an early work?"
+    },
+    "g1112": {
+      "daily": "How does the painting negotiate between depicting a village and exploring color for its own sake?",
+      "emotion": "How does saturated color complicate any single emotional reading?",
+      "observation": "Distinguish what is visible from the narrative of Kandinsky's path to abstraction.",
+      "analysis": "How does the composition organize chromatic masses rather than objects?",
+      "line": "How does contour operate in a painting dominated by color?",
+      "shape": "How does simplification of form anticipate abstraction without yet abandoning subject?",
+      "color": "How do chromatic contrasts build space and rhythm?",
+      "texture": "How does the facture suggest intuition?",
+      "space": "How does the painting complicate depth?",
+      "light": "How does color stand in for light?",
+      "meaning": "With a sparse museum record, what are the limits of interpretation?",
+      "culture": "How might Kandinsky's position as a Russian émigré in Germany inform the work?",
+      "technique": "How does the title anchor a painting that exceeds description?",
+      "personal": "How do your expectations of landscape shape what you see?",
+      "critical": "What is gained and lost in reading early works as steps toward later achievements?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, artist and medium checked against the Art Institute of Chicago record; a village scene by title with no concerning terms. The record has no description, so student text relies on the title and well-established facts about Kandinsky and Murnau; a person must confirm the image before release. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1909 oil painting on cardboard by Vasily Kandinsky in the Art Institute of Chicago, titled for the town of Murnau in Germany. The museum record gives no description, so a person must review the image.",
+    "vocabulary": [
+      "Expressionism",
+      "saturated color",
+      "simplification",
+      "abstraction",
+      "composition",
+      "landscape"
+    ],
+    "directions": [
+      "Have students paint their street in unrealistic but expressive colors.",
+      "Compare a photograph of a village with this painting and list what Kandinsky changed.",
+      "Discuss how an artist can show feeling through color rather than detail."
+    ]
+  }
+}

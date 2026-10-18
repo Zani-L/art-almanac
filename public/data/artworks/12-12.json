@@ -1,0 +1,159 @@
+{
+  "id": "met-36186",
+  "day": "12-12",
+  "title": "Landscape",
+  "artist": "Song Nian",
+  "date": "dated 1898",
+  "medium": "Handscroll in six sections; ink and color on paper",
+  "movement": "Late Qing dynasty landscape painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP204808_CRD.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP204808_CRD.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A section of a handscroll showing a mountain landscape painted in ink and soft color on paper, with rocky peaks and scenery arranged across a wide horizontal view.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/36186",
+    "objectId": "36186",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium (handscroll in six sections), period (Qing dynasty), tags (Mountains, Landscapes), public-domain flag, credit line and image URLs read from the record. The record gives no further description of the scenery."
+  },
+  "context": "A handscroll in six sections, dated 1898, by Song Nian, painted in ink and color on paper in the late Qing dynasty. The record lists mountains and landscape as its subject. It was made only a little more than a decade before the end of imperial rule in China in 1912.",
+  "descriptions": {
+    "k": "This long painting shows mountains. It is painted with ink and soft color. It is made in six parts that you look at one by one. Which mountain do you like most? Where would you walk first?",
+    "g12": "Song Nian painted this mountain scroll in 1898 in China. It has six sections, like six chapters of a story. He used ink and soft color on paper. As you look from one end to the other, the view changes. Which section would you want to visit?",
+    "g35": "Song Nian dated this landscape 1898, near the end of the Qing dynasty, the last imperial dynasty of China. It is a handscroll in six sections, painted with ink and color on paper. As the scroll unrolls, the mountains and scenery change from place to place. How might a painter connect six sections so that they feel like one journey?",
+    "g68": "Painted in 1898, this handscroll belongs to the last years of the Qing dynasty, when landscape painting still drew on centuries of tradition. The record describes it as having six sections, which suggests a landscape designed to unfold over time. Ink and color on paper build mountains and scenery. How do changes from section to section keep a long landscape from feeling repetitive?",
+    "g910": "Dated 1898, Song Nian's handscroll is a late Qing landscape in the long tradition of mountains and waters painting. The six sections are experienced sequentially, so composition becomes a matter of pacing, transitions, and variation of density. Ink and color on paper allow both structure and atmosphere. Consider how the artist might balance tradition and personal choice at a time when imperial China was nearing the end of its long history.",
+    "g1112": "A late Qing handscroll like this one raises questions about how artists inherited a deep landscape tradition during a period of rapid historical change. The scroll, dated 1898, is recorded in six sections, which stresses sequential viewing and the idea of landscape as journey. Because the record offers little description, readings must come from visual evidence in each section. How does a long format shape meaning, and what is the relationship between tradition and its moment?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the tallest mountain in this section. What do you think is behind it?",
+      "emotion": "Does this landscape feel gentle or grand? What shows you?",
+      "observation": "Find a mountain, a bit of color, and some empty space. Point to each.",
+      "analysis": "Where do your eyes start in this long picture? Where do they go next?",
+      "line": "Trace the top edge of the mountains. Does it go up and down like a wave?",
+      "shape": "Look at the big mountain shapes. Which one looks the most pointy?",
+      "color": "What soft colors do you see mixed with the black ink?",
+      "texture": "Where do the mountains look rough? Where do they look smooth?",
+      "space": "What seems close to you, and what seems far away?",
+      "light": "Does the scene look sunny, cloudy, or misty? What makes you think so?",
+      "meaning": "If you walked along this scroll, what would you hope to see in the next part?",
+      "culture": "This scroll was painted in 1898. It is made of six parts. Why might a painter divide a long picture into parts?",
+      "technique": "The painter used ink and a bit of color. Which do you see more of, the ink or the color?",
+      "personal": "Have you been on a long trip? What did the view look like along the way?",
+      "critical": "Which part of the scroll would you keep if you could keep only one? Why?"
+    },
+    "g12": {
+      "daily": "Imagine the six sections as six stops on a trip. What might each stop be like?",
+      "emotion": "What mood do the mountains give you, peaceful, proud, or lonely? Point to the cause.",
+      "observation": "Describe five things you can find in this section of the scroll.",
+      "analysis": "How does the painter make the mountains look layered, with some in front of others?",
+      "line": "Compare the lines of the mountain outlines with the finer marks inside them.",
+      "shape": "How do tall mountain shapes and low shapes make the scene interesting?",
+      "color": "How does the soft color help some places stand out from the ink lines?",
+      "texture": "Which marks make the mountains look rocky? Show where you see them.",
+      "space": "How does the painter show faraway mountains compared with close ones?",
+      "light": "Where does the painting look brightest, and where does it look shadowed?",
+      "meaning": "Why might someone like to look at mountains in a painting instead of in real life?",
+      "culture": "The Qing dynasty was the last in China. What might it feel like to paint in a very old style at the end of a long era?",
+      "technique": "This scroll is long and has six sections. How might the painter keep it looking connected?",
+      "personal": "What place would you paint on a long scroll, and why?",
+      "critical": "Does the painting show a real place or a dream place? Use clues."
+    },
+    "g35": {
+      "daily": "How does Song Nian make a long mountain landscape feel like a journey?",
+      "emotion": "What mood does this section create? Which choices of color, shape, or space help?",
+      "observation": "Scan the section slowly for one minute. What details did you not see at first?",
+      "analysis": "How does the painter organize mountains and scenery so your eyes keep moving?",
+      "line": "How do firm outlines and softer texture marks work together to build mountains?",
+      "shape": "How do repeated mountain shapes make a rhythm along the scroll?",
+      "color": "How does the soft color keep the scene gentle while the ink gives structure?",
+      "texture": "How does the painter use small marks to show different surfaces of rock and ground?",
+      "space": "How does the artist suggest distance on a flat horizontal scroll?",
+      "light": "Without strong shadows, how does the painter show time of day and weather?",
+      "meaning": "Why might mountains be a lasting subject for painters in China?",
+      "culture": "In 1898, painters still used traditions from hundreds of years earlier. What does that say about how art can connect past and present?",
+      "technique": "A scroll in six sections needs planning. What problems might a painter face in making sections match?",
+      "personal": "What would be hard about painting a long landscape? What would be fun?",
+      "critical": "The record only calls it Landscape. What would you add to the title to make it more specific?"
+    },
+    "g68": {
+      "daily": "How do the shapes and spaces in this section prepare the viewer for what comes next in the scroll?",
+      "emotion": "How does the balance of crowded mountain areas and open spaces shape the feeling of the scene?",
+      "observation": "Describe how your attention moves across the visible section. What slows you down, and what moves you on?",
+      "analysis": "How does the horizontal format organize the mountains into a sequence?",
+      "line": "How do the painter's outlines and texture strokes show differences in distance and weight?",
+      "shape": "How do clusters of mountains work like musical phrases that repeat and change?",
+      "color": "How does limited color unify the scene across a long format?",
+      "texture": "Which brush techniques stand out to you for rock and ground? What effect do they have?",
+      "space": "How does the painting build depth without a single viewpoint?",
+      "light": "How does the contrast of pale and dark areas imply atmosphere?",
+      "meaning": "How might a landscape be both a view of nature and a mental journey?",
+      "culture": "How might late Qing painters have used older styles to express respect for tradition during times of change?",
+      "technique": "Ink and color on paper is hard to alter. What planning might be needed for a six-part scroll?",
+      "personal": "When you look at a long picture, do you prefer to scan it quickly or move slowly? Why?",
+      "critical": "Is a painting in an old style old-fashioned or timeless? Argue for your view."
+    },
+    "g910": {
+      "daily": "Which formal choices in this section best show a landscape conceived for sequential viewing?",
+      "emotion": "How do changes in the density of form produce an emotional rhythm along the scroll?",
+      "observation": "Describe the visual hierarchy of the section. What draws attention first and why?",
+      "analysis": "Analyze how mountains, open space, and transitions govern pacing in a horizontal composition.",
+      "line": "How does the balance between structural contour and texture strokes create solidity and movement?",
+      "shape": "How do variations in the size and spacing of mountain forms produce a sense of scale?",
+      "color": "How does the restrained use of color support atmosphere and unify the sections?",
+      "texture": "How does accumulated brushwork give weight and surface to rock?",
+      "space": "How does the scroll create deep space through overlap, tone, and placement?",
+      "light": "How is atmospheric light suggested through tonal contrasts rather than cast shadows?",
+      "meaning": "How might a landscape painted in 1898 serve as an expression of continuity, nostalgia, or personal retreat? What supports each reading?",
+      "culture": "How does a late Qing artist's engagement with a centuries-old genre reflect the pressures and possibilities of the period?",
+      "technique": "How do the six sections test the painter's ability to maintain coherence over a long format?",
+      "personal": "How does a long, slow image shape your attention differently from a single striking image?",
+      "critical": "How limited is our interpretation when the record offers only a generic title and a few tags? How would you proceed?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visible section about Song Nian's relation to the landscape tradition, and what requires the whole scroll?",
+      "emotion": "How does a long sequential format complicate the attribution of a single mood to the work?",
+      "observation": "Describe the section with precise language for composition and brushwork. When does description turn to interpretation?",
+      "analysis": "Analyze how a six-part format structures time, pacing, and unity in a landscape composition.",
+      "line": "How do conventions of contour and texture stroke inherit older styles, and where might an individual hand emerge?",
+      "shape": "How do mountain masses articulate rhythm across a horizontal format, and what does that imply about viewing order?",
+      "color": "How does modest color relate to ink structure, and how might age have altered its appearance?",
+      "texture": "How do accumulated marks both describe and abstract the substance of rock?",
+      "space": "How does shifting perspective in a handscroll offer an alternative to a single vanishing point?",
+      "light": "How does the painting evoke atmosphere through tonal modulation, and how does it differ from other traditions?",
+      "meaning": "How do readings of landscape as place, journey, or inherited convention differ for a work made in 1898, and what are their limits?",
+      "culture": "How does historical context at the end of imperial China shape the way we read the persistence of traditional forms?",
+      "technique": "What does the scroll's division into sections imply about how it was planned, mounted, and viewed?",
+      "personal": "How does your own relationship to tradition shape your response to a work that deliberately continues an old genre?",
+      "critical": "How should we weigh the late date of the scroll against the earlier styles it may recall when assessing its significance?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tags (Mountains, Landscapes) in the Met record were checked; the subject is a mountain landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Dated 1898, this handscroll in six sections is by Song Nian, in the final years of the Qing dynasty. The record gives no scene description, so base discussion on what students see.",
+    "vocabulary": [
+      "handscroll",
+      "section",
+      "landscape",
+      "late Qing dynasty",
+      "texture stroke",
+      "composition"
+    ],
+    "directions": [
+      "Have students plan a six-part scroll as a storyboard of a journey, with one sketch per section.",
+      "Discuss how an artist can honor a tradition and still make something personal.",
+      "Compare this scroll's mood with the Ming handscroll from another day in the series."
+    ]
+  }
+}

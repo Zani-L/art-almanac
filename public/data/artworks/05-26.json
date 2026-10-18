@@ -1,0 +1,158 @@
+{
+  "id": "met-436217",
+  "day": "05-26",
+  "title": "Boy with a Black Spaniel",
+  "artist": "François Hubert Drouais",
+  "date": "ca. 1767",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP324600.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP324600.jpg",
+    "credit": "The Metropolitan Museum of Art, The Jules Bache Collection, 1949",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A portrait of a young boy shown together with a black spaniel dog, painted in soft, smooth oil colors.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436217",
+    "objectId": "436217",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Boys, Portraits, Dogs) and image URLs read from the record"
+  },
+  "context": "An oil portrait by the French painter François Hubert Drouais, made around 1767. Drouais was a fashionable portraitist in Paris, and portraits of children with pets were popular in France at the time. The Met's title does not name the boy.",
+  "descriptions": {
+    "k": "A boy sits with his black dog. The dog is a spaniel. Look at the boy's face. Look at the dog's fur. Do they look like friends? What would you say to them?",
+    "g12": "François Hubert Drouais painted this boy and his black spaniel in France long ago. The boy and the dog look out or toward each other like close friends. Notice the dog's dark, soft fur and how the boy is painted. What do you think they like to do together?",
+    "g35": "François Hubert Drouais was a French painter of portraits. Here a boy shares the picture with his black spaniel, a kind of dog with long, soft ears. Pets often appeared in portraits to show a person's world. Look for how the artist paints the boy's face and clothes differently from the dog's fur. What does the dog tell you about the boy?",
+    "g68": "Drouais painted this portrait around 1767, when he was a popular portraitist in Paris. Portraits of children with pets were fashionable, and the dog adds liveliness and warmth. Notice how the painter handles the contrast between smooth skin, fine cloth, and glossy dark fur. The dog may also hint at loyalty or affection, though artists did not always mean pets symbolically. What do the boy's pose and expression suggest about how he wanted, or his family wanted, him to be seen?",
+    "g910": "Drouais, a successful Parisian portraitist, paints a child with a pet in a manner designed to be charming and polished. The black spaniel offers a strong dark mass that contrasts with the lighter tones of the boy, and the smooth finish suits the taste of his patrons. Dogs in portraits could suggest loyalty, play, or a sitter's private world, but the meaning depends on context. How does the pairing of boy and dog shape our sense of the sitter's character?",
+    "g1112": "Drouais produced portraits that matched the tastes of a Parisian clientele that valued elegance, charm, and a polished finish. In Boy with a Black Spaniel, the pet extends the conventional child portrait into something more intimate and affectionate. Whether the dog is a symbol of loyalty, an emblem of play, or simply a companion is open to debate, and the portrait also raises questions about how childhood was imagined and staged in the eighteenth century."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the boy and the black dog like to do together?",
+      "emotion": "How do you think the boy feels about his dog? Show it with your face.",
+      "observation": "Find the boy's face and the dog's face. What is the same about them and what is different?",
+      "analysis": "Who do your eyes look at first, the boy or the dog? Why?",
+      "line": "Trace the shape of the dog's long ears or back with your finger. What kind of line is it?",
+      "shape": "Look at the dog's body and the boy's body. Which shapes do they share?",
+      "color": "The dog is black. What colors are near the dog that make it stand out?",
+      "texture": "How would the dog's fur feel if you stroked it? How would the boy's clothes feel?",
+      "space": "Who is closer to you, the boy or the dog? What shows you?",
+      "light": "Where does the light shine on the boy? Where does the dog look darkest?",
+      "meaning": "Why do you think this boy wanted his dog in the picture?",
+      "culture": "This boy lived in France long ago. What looks the same as boys today and what looks different?",
+      "technique": "The painter used oil paint to make soft fur and smooth skin. How does the paint look different for each?",
+      "personal": "Do you have a favorite pet or toy? Tell about it.",
+      "critical": "If the dog could talk, what would it say about the boy?"
+    },
+    "g12": {
+      "daily": "What do the boy and the spaniel tell you about each other from the way they sit or look?",
+      "emotion": "What feeling do you get from the boy and his dog together? Name the clues you see.",
+      "observation": "List five things you see, from the boy's clothes to the dog's ears.",
+      "analysis": "How does the painter use the dark dog and the lighter boy to make you look at both?",
+      "line": "Follow the curves of the dog's ears and body. How do they make the picture feel soft?",
+      "shape": "What round and curved shapes do you see in the boy and the dog?",
+      "color": "How does the dark black of the dog stand out from the other colors?",
+      "texture": "Where do you see smooth cloth and skin, and where do you see soft, furry spots?",
+      "space": "How does the painter place the boy and dog so they feel close together?",
+      "light": "Where is the light brightest on the boy, and how does the dog's dark fur still show shine?",
+      "meaning": "Why might a family want a portrait with a pet in it?",
+      "culture": "Wealthy families in France paid painters for portraits like this. What does the fine painting show about them?",
+      "technique": "Drouais painted very smoothly. Where do you see no rough brush marks at all?",
+      "personal": "Who or what keeps you company? How would you show them in a portrait?",
+      "critical": "Do you think the boy sat still for this picture? How did the painter make it look easy?"
+    },
+    "g35": {
+      "daily": "What story do the boy and the black spaniel tell together, and which details in the portrait help you tell it?",
+      "emotion": "What mood does this portrait have? Which choices, like pose, color, or light, create it?",
+      "observation": "Look silently for one minute at the dog. What details of its fur, ears, or eyes do you see?",
+      "analysis": "How does Drouais arrange the boy and the dog so they feel like a pair?",
+      "line": "How do soft, curving lines in the dog and the boy's clothing make the picture feel gentle?",
+      "shape": "How does the shape of the dog balance the shape of the boy?",
+      "color": "Why is a black dog an interesting choice for a portrait? How does it work with the boy's colors?",
+      "texture": "How does the painter show the difference between cloth, skin, and fur?",
+      "space": "How close does the picture make you feel to the boy and his dog?",
+      "light": "How does the light make the boy seem warm and the dog seem deep and dark?",
+      "meaning": "Dogs in portraits are sometimes linked with loyalty. What clues might suggest that idea here?",
+      "culture": "Portraits of children with pets were popular in eighteenth-century France. Why might families have liked them?",
+      "technique": "How might smooth, careful oil painting make a portrait seem elegant?",
+      "personal": "Think about a friend or pet who is always by your side. How would you want a painter to show them?",
+      "critical": "A portrait shows how someone wanted to be seen. What might this portrait leave out about the boy's real life?"
+    },
+    "g68": {
+      "daily": "How does adding a dog change what you think about the boy in this portrait?",
+      "emotion": "How do the warmth of the pairing and the polished finish shape the feeling of the portrait?",
+      "observation": "Describe the picture from the boy to the dog to the background. Which details seem most carefully painted?",
+      "analysis": "How does the contrast between the light boy and the dark dog affect the balance of the composition?",
+      "line": "How do the flowing lines of fur and fabric lead your eye between the boy and the dog?",
+      "shape": "How do the different forms of boy and dog fit together into one grouped shape?",
+      "color": "How does the black of the dog act as an anchor for the lighter colors?",
+      "texture": "Which surface looks most convincing, the fur, the cloth, or the skin? Explain what makes it so.",
+      "space": "How does the painter bring the boy and the dog close to the viewer?",
+      "light": "How does the light create a sense of softness and form in both figures?",
+      "meaning": "What might a pet add to a child portrait beyond decoration? Cite details that support your idea.",
+      "culture": "What can a portrait like this suggest about how wealthy families in Paris wanted children to be seen?",
+      "technique": "What skills does a painter need to paint dark fur and light skin in the same picture?",
+      "personal": "How would you stage a portrait of yourself with something you love? What would it say?",
+      "critical": "How can a polished portrait both show a real child and present an ideal image? Where do you see each?"
+    },
+    "g910": {
+      "daily": "How does the pairing of boy and dog shape our impression of the sitter's character and circumstances?",
+      "emotion": "How does Drouais evoke warmth and ease through the relationship between child and animal?",
+      "observation": "Describe the visual hierarchy: what draws attention first, and which pictorial devices cause that?",
+      "analysis": "Analyze how the contrast between the dark mass of the dog and the lighter tones of the boy structures the composition.",
+      "line": "How does a flowing contour link the figures and create a sense of continuous movement?",
+      "shape": "How do the grouped shapes of boy and dog form a single, stable composition?",
+      "color": "How does the near-black of the spaniel enrich the overall tonal range of the portrait?",
+      "texture": "How does Drouais use smooth blending and fine detail to differentiate skin, fabric, and fur?",
+      "space": "How does the closeness of the figures to the picture plane produce intimacy?",
+      "light": "How does soft, even light reinforce the portrait's polished and agreeable character?",
+      "meaning": "In what ways could the dog be read as a symbol or as a simple companion, and which reading does the evidence favor?",
+      "culture": "How does this portrait reflect eighteenth-century French ideas about childhood and elite portraiture?",
+      "technique": "What does the smooth finish suggest about the expectations of Drouais's clientele?",
+      "personal": "How do portraits you see today, such as family photographs, stage children with pets or toys, and how does this compare?",
+      "critical": "What assumptions about class and childhood does the portrait invite us to accept without noticing?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visible evidence about how the portrait constructs childhood, and what remains uncertain?",
+      "emotion": "How does the portrait's polished charm shape and perhaps limit the emotion it expresses?",
+      "observation": "Describe the portrait's formal construction with care. Where does description become interpretation?",
+      "analysis": "Analyze how Drouais balances the demands of a likeness with the pleasure of a decorative composition.",
+      "line": "How does the pattern of curves in figure and dog contribute to the portrait's rhythm and elegance?",
+      "shape": "How does the grouping of forms stage the child's relationship to the pet as the picture's real subject?",
+      "color": "How might the aging of the paint and varnish alter the balance between the dark dog and the lighter boy?",
+      "texture": "How does the variety of rendered surfaces display the painter's virtuosity and meet the patron's expectations?",
+      "space": "How does the shallow space and the proximity of the figures shape our relationship to the sitter?",
+      "light": "How does the soft modulation of light work as a stylistic signature of French Rococo-era portraiture?",
+      "meaning": "Weigh readings of the dog as emblem of loyalty, marker of leisure, or private affection. How much can the painting itself support?",
+      "culture": "How do portraits of children in Enlightenment France relate to changing ideas of childhood?",
+      "technique": "What does the portrait's finish suggest about the studio practices and market position of a fashionable Parisian portraitist?",
+      "personal": "How might your own experience of pets and childhood influence how persuasive you find the painting's warmth?",
+      "critical": "Given that the Met's title does not name the boy, what do we gain and lose by reading the portrait as a type rather than an individual?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Boys, Portraits, Dogs) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "François Hubert Drouais was a fashionable portraitist in Paris who painted royalty and families of means. Pets and children appear together in many French portraits of this period.",
+    "vocabulary": [
+      "portrait",
+      "spaniel",
+      "contrast",
+      "oil paint",
+      "Rococo",
+      "likeness"
+    ],
+    "directions": [
+      "Have students describe the dog and the boy in turn, then discuss how the artist keeps both in balance.",
+      "Ask students to design a portrait of themselves with an object or pet and explain what it says about them.",
+      "Discuss the idea that a portrait can be both a likeness and a staged image."
+    ]
+  }
+}

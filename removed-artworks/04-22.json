@@ -1,0 +1,158 @@
+{
+  "id": "met-70398",
+  "day": "04-22",
+  "title": "Panel",
+  "artist": "Artist unknown",
+  "date": "18th century",
+  "medium": "Silk tabby, silk and gold-wrapped thread, paper",
+  "region": "Korea",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/TP513.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/TP513.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Beatrice Cluett Black, 1965",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Korean silk panel decorated with embroidered flowers and leaves, worked in colored silk and gold-wrapped thread on a plain-woven silk ground.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/70398",
+    "objectId": "70398",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, classification, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "An embroidered panel made in Korea in the 18th century, during the Joseon period. It is made of plain-woven silk with silk and gold-wrapped thread, and the Met's record lists flowers and leaves among its imagery. The record does not say how the panel was used.",
+  "descriptions": {
+    "k": "This is a piece of silk from Korea. It has flowers and leaves stitched on it. Some thread has gold in it. Gold can sparkle. Where do you think it sparkles most?",
+    "g12": "People in Korea stitched this silk panel about 300 years ago. Flowers and leaves bloom across it. Some of the thread is wrapped with gold, so it can glint. Look for one leaf and one flower. How are their shapes different?",
+    "g35": "This panel was made in Korea in the 1700s. A skilled embroiderer stitched flowers and leaves on smooth silk, using silk thread and gold-wrapped thread that can shine. Flowers and leaves were popular designs in many Korean textiles. Look closely at how the stitches make petals and stems. Why might the maker have added gold thread?",
+    "g68": "This 18th-century Korean panel was made during the Joseon period. It is silk, with a plain, tabby-weave ground, decorated with embroidery in silk thread and gold-wrapped thread. Flowers and leaves fill the design. The Met does not say what the panel was for, so we must look carefully rather than guess. How do the choices of metallic thread and colored silk help the flowers stand out from the ground?",
+    "g910": "Embroidered in 18th-century Korea, this panel shows the refined textile arts of the Joseon period. The ground is plain-woven silk, and the decoration combines colored silk with gold-wrapped thread, which adds a metallic glint among the flowers and leaves. Floral imagery was widely used in Korean decorative arts, but the Met does not record this panel's use or meaning. Consider how scale, spacing, and the contrast of matte silk and metallic thread shape the way the design reads.",
+    "g1112": "This 18th-century Korean panel, a silk tabby ground embroidered with silk and gold-wrapped thread, belongs to a Joseon-era tradition in which floral motifs could carry associations of beauty, season, and good fortune, although this particular object comes without documented function or maker. Interpreting it responsibly means separating what the record supports (materials, date, flowers and leaves) from what is inferred. Its interplay of silk sheen, metallic glint, and delicate stitching invites close formal analysis."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a flower and a leaf on the silk. What colors are they?",
+      "emotion": "Does this panel feel gentle or loud? What do you see that tells you?",
+      "observation": "Count the flowers you can find in one part of the panel.",
+      "analysis": "What do you see first on the silk panel? What do you see next?",
+      "line": "Find a thin stitched line, like a stem. Trace its path in the air.",
+      "shape": "Which shape is a petal? Which shape is a leaf? Draw them in the air.",
+      "color": "Name the colors of thread you see. Which one is your favorite?",
+      "texture": "Silk is smooth and gold thread is shiny. How do you think each would feel?",
+      "space": "Where is there more silk showing and fewer stitches? Point to that part.",
+      "light": "Gold thread can sparkle in light. Where might it sparkle on this panel?",
+      "meaning": "If these flowers could grow in a garden, what garden would it be?",
+      "culture": "This panel was made in Korea long ago. What do you wear or use that has flowers on it?",
+      "technique": "A needle pulls thread through silk. What do you think the stitcher needed to make flowers neat?",
+      "personal": "What is a flower you would stitch for someone you love?",
+      "critical": "Some thread on this panel has gold wrapped around it. How can you tell which stitches might be the gold ones?"
+    },
+    "g12": {
+      "daily": "How did the maker use thread to make flowers and leaves look alive? Point to one detail.",
+      "emotion": "What feeling does this gentle panel give you? Which parts help you feel that way?",
+      "observation": "Describe one flower and one leaf. Look at their colors and edges.",
+      "analysis": "How do the stems and leaves guide your eyes from one flower to the next?",
+      "line": "Compare thin stitched lines and wide filled-in areas. Which does the maker use for leaves?",
+      "shape": "Find curved shapes in the flowers and leaves. How do they make the panel feel soft?",
+      "color": "Which colors seem warm and which seem cool? How do they sit together?",
+      "texture": "How are shiny gold thread and soft silk thread different to look at?",
+      "space": "How much of the silk ground do you see between the flowers? What does it do for the design?",
+      "light": "Where does gold-wrapped thread seem to glow? What makes it different from colored silk?",
+      "meaning": "Flowers can remind us of seasons. What season does this panel make you think of?",
+      "culture": "Korea has a long history of fine silk work. Why might silk and gold thread have been special materials?",
+      "technique": "The Met says this panel is silk with gold-wrapped thread. What do you think wrapping gold around thread means?",
+      "personal": "If you could pick a flower or leaf to stitch on cloth, what would it be, and why?",
+      "critical": "We do not know what this panel was used for. What could the design suggest?"
+    },
+    "g35": {
+      "daily": "What details in the flowers and leaves make this embroidered silk panel feel carefully made?",
+      "emotion": "What mood does the delicate stitching create? Which colors or shapes add to it?",
+      "observation": "Take a minute to study one corner. What stitches, colors, or shapes do you notice that you missed at first?",
+      "analysis": "How do the stitched flowers and leaves fill the panel in a balanced way?",
+      "line": "Embroidered lines can be thin or thick. How do they show the stems, leaf veins, or edges?",
+      "shape": "How do round flower shapes and pointed leaf shapes work together in the design?",
+      "color": "How do the colors of silk thread look against the silk ground? Which ones stand out most?",
+      "texture": "How does embroidery make the surface of the panel different from plain silk?",
+      "space": "How does the maker use open space around the flowers? What would change if every inch were stitched?",
+      "light": "How might the gold-wrapped thread change when light moves across the panel?",
+      "meaning": "Flowers have been used in art to suggest beauty or seasons. What ideas might this panel express?",
+      "culture": "Korean textile makers in the 1700s used silk for fine objects. What does this panel suggest about how they valued craftsmanship?",
+      "technique": "Gold-wrapped thread is made by winding a thin gold layer around a core. Why might this be harder to stitch than silk thread alone?",
+      "personal": "Think of a time you took extra care with something you made. How is it like this panel?",
+      "critical": "The artist of this panel is unknown. How could we honor skilled makers whose names are lost?"
+    },
+    "g68": {
+      "daily": "How do the embroidery techniques and materials on this panel help flowers and leaves feel luxurious?",
+      "emotion": "How does the restraint of the design shape its emotional effect? Which features create that effect?",
+      "observation": "Describe the range of floral and leaf forms you can find, from largest to smallest. Which are easy to miss?",
+      "analysis": "How does the composition distribute flowers across the ground, and where does your eye rest?",
+      "line": "How do outlines and filled areas combine in the embroidery? Where does the line become a shape?",
+      "shape": "How does the artist simplify natural shapes into stitched forms? Compare with a real flower.",
+      "color": "How do contrasts between hue and brightness create focus, and where does gold thread fit in?",
+      "texture": "How do the silk ground, silk thread, and gold-wrapped thread each contribute a different surface?",
+      "space": "How does the empty silk ground shape the way the flowers read as a design?",
+      "light": "How might the reflective gold thread draw attention as the viewer moves?",
+      "meaning": "In many cultures flowers carry symbolic meaning. What caution is needed when we apply that to an undocumented panel?",
+      "culture": "How does a panel from Joseon-era Korea connect craft skill with courtly or household life, and what does the record not tell us?",
+      "technique": "How does embroidering on a plain-woven silk ground differ from weaving a pattern into the cloth?",
+      "personal": "What details in your own life are small but carefully made, and why do they matter to you?",
+      "critical": "Why is it important for museums to separate documented facts from guesses about an object's use?"
+    },
+    "g910": {
+      "daily": "How do materials, scale, and floral motifs combine to give this panel its refined character?",
+      "emotion": "How do softness, restraint, and metallic glint establish an atmosphere without any narrative?",
+      "observation": "Describe the panel's visual hierarchy. What draws attention first, and which devices create that emphasis?",
+      "analysis": "Analyze how the composition balances density and open ground.",
+      "line": "How does the embroiderer use stitched line to articulate stems, edges, and movement?",
+      "shape": "How do curving floral and leaf shapes create rhythm across the silk?",
+      "color": "How does the choice and distribution of colors, along with gold, unify the design?",
+      "texture": "How does the contrast of matte silk and metallic thread produce layers of surface?",
+      "space": "How does the plain-woven ground operate as active space rather than a neutral backdrop?",
+      "light": "How does gold-wrapped thread respond to light, and why might makers have valued that quality?",
+      "meaning": "To what extent can floral imagery on a Joseon-era textile be tied to specific symbolism, and what limits our confidence?",
+      "culture": "How does this panel reflect the importance of silk and metallic embroidery in Korean material culture?",
+      "technique": "How do tabby-weave silk and gold-wrapped embroidery thread each affect what the maker can achieve?",
+      "personal": "How does close attention to a small decorative object change how you think about everyday beauty?",
+      "critical": "How should viewers weigh an object's beauty against the fact that its makers and uses are unrecorded?"
+    },
+    "g1112": {
+      "daily": "What can be argued confidently about this panel from the record and image, and what depends on assumptions?",
+      "emotion": "How does a nonnarrative floral surface create affect, and how might that response vary across cultures?",
+      "observation": "Describe the panel with precision. At which points does vocabulary from outside Korean textile traditions risk distorting what you see?",
+      "analysis": "Analyze how the panel uses repetition, spacing, and variation to organize a decorative field.",
+      "line": "How does stitched line function as drawing, outline, and filling, and how does it differ from brush line in Korean painting?",
+      "shape": "How do floral shapes mediate between observation of nature and conventions of ornament?",
+      "color": "How might aging and fading of silk dyes alter our perception, and how should that shape interpretation?",
+      "texture": "In what ways does the combination of silk and gold-wrapped thread signal value, and how is that value communicated visually?",
+      "space": "How does the panel's treatment of its ground compare with the spatial conventions of painting from the same period?",
+      "light": "How does the metallic thread make the work's appearance contingent on conditions of display?",
+      "meaning": "Evaluate competing readings of floral imagery here (decorative, seasonal, auspicious). What evidence would favor one?",
+      "culture": "How do museum categories like 'panel' reflect gaps in knowledge about an object's original function?",
+      "technique": "What does the technique suggest about workshop organization, training, and access to costly materials in 18th-century Korea?",
+      "personal": "How does your own cultural position influence how you read ornamental imagery from another society?",
+      "critical": "How might museums present anonymous textiles so that skill and uncertainty are both made visible?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Embroidered), medium, culture, and tags (Flowers, Leaves) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An 18th-century Korean embroidered panel in silk tabby with silk and gold-wrapped thread. The Met record gives no use or maker, so students should practise separating evidence from guesses.",
+    "vocabulary": [
+      "embroidery",
+      "tabby weave",
+      "gold-wrapped thread",
+      "motif",
+      "Joseon",
+      "ground"
+    ],
+    "directions": [
+      "Ask students to list three things the panel's materials tell us and three things we cannot know.",
+      "Have students sketch a favorite plant and then simplify it into stitch-like marks.",
+      "Compare with another floral textile in the archive to explore how different cultures use flowers in design."
+    ]
+  }
+}

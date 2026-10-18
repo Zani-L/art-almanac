@@ -1,0 +1,157 @@
+{
+  "id": "met-459183",
+  "day": "10-31",
+  "title": "Warwick Castle: The East Front",
+  "artist": "Canaletto (Giovanni Antonio Canal)",
+  "date": "1752",
+  "medium": "Pen and brown ink, gray wash",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/rl/web-large/DP358985.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP358985.jpg",
+    "credit": "The Metropolitan Museum of Art, Robert Lehman Collection, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A pen-and-ink drawing of a large castle seen from its east side, with its walls and towers drawn in fine brown lines and shaded with soft gray wash.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/459183",
+    "objectId": "459183",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Castles), classification, and image URLs read from the record"
+  },
+  "context": "A drawing of Warwick Castle in England by Canaletto, the Venetian view painter (1697–1768), dated 1752 in the Met's record. Canaletto spent several years working in England in the mid-1700s. The medium is pen and brown ink with gray wash.",
+  "descriptions": {
+    "k": "A big castle drawn with a pen. The lines are thin and brown. Gray paint makes shadows. Can you find the castle's walls? How many parts of the castle can you point to? Would you like to visit?",
+    "g12": "Canaletto drew this castle in England. He is famous for views of Venice, in Italy. Here he used a pen with brown ink and gray paint. Look at the thin lines and the soft shadows. How do they make the castle look strong and solid?",
+    "g35": "Canaletto was an Italian artist from Venice, known for pictures of cities and buildings. In 1752 he drew Warwick Castle in England using pen, brown ink, and gray wash, which is thin gray paint. Look at how the lines show stone walls and how the wash makes shadow. How does the artist make a drawing look like a real, solid building?",
+    "g68": "Canaletto came from Venice but worked in England in the 1740s and 1750s, where he painted and drew landmarks for English patrons. This 1752 drawing shows Warwick Castle's east front in brown ink and gray wash. Notice how thin lines describe architecture and wash adds shade and depth. Why might a visitor from another country be drawn to an English castle, and how do line and shadow make a building look solid?",
+    "g910": "In this 1752 view, Canaletto uses pen and brown ink for architectural description and gray wash for shade, producing a precise yet atmospheric image of Warwick Castle. As a Venetian who built his career on views, he approached an English castle with trained attention to structure and perspective. Consider how line carries information while wash provides depth and mood, and how a foreign artist's eye may shape the way an English landmark is presented.",
+    "g1112": "Canaletto's drawing of Warwick Castle's east front shows how a view painter adapted his methods to a new country and a new kind of subject. Pen and brown ink define structure with great economy, while gray wash organizes light and shadow. Works like this circulated in a world of English patrons interested in landmarks and estates, though the record gives only date, medium, and title. Consider the tension between topographical accuracy and artistic interpretation, and the role of a foreign eye in constructing a national landmark."
+  },
+  "questions": {
+    "k": {
+      "daily": "Pretend you are standing outside this castle. What would you do or say?",
+      "emotion": "Does this castle feel strong, scary, or friendly? Why?",
+      "observation": "Find three parts of the castle. What shapes do they have?",
+      "analysis": "What part of the drawing do your eyes see first? Why?",
+      "line": "The artist used thin pen lines. Can you find a line that goes up and one that goes across?",
+      "shape": "What shapes do you see in the walls and towers? Boxes, rounds, or triangles?",
+      "color": "The picture is brown lines and gray paint. Where is the gray darkest?",
+      "texture": "How would the stone wall feel to touch? Smooth or bumpy?",
+      "space": "Does the castle look close to you or far away? What makes you think so?",
+      "light": "Where does the gray paint show shadow? What does that tell you about the sun?",
+      "meaning": "Who do you think might live or work in this castle?",
+      "culture": "Castles in England are very old. Are there old buildings near where you live? What are they?",
+      "technique": "The artist used a pen with brown ink and then gray paint. Which do you think he used first?",
+      "personal": "If you could draw a building you love, which would you pick?",
+      "critical": "This picture has no bright colors. Is it still interesting? What do you notice?"
+    },
+    "g12": {
+      "daily": "How does Canaletto make the castle look strong and heavy, using only pen lines and gray?",
+      "emotion": "What feeling does this big castle give you? Point to a part that helps.",
+      "observation": "Describe the castle's walls, towers, or windows you can see. What shapes are they?",
+      "analysis": "How does the artist guide your eyes across the front of the castle?",
+      "line": "Where are the lines thin and where are they thick or dark? What does that do?",
+      "shape": "Find rectangles and other shapes in the castle. How do they fit together?",
+      "color": "The picture uses brown and gray. How do these two colors work together?",
+      "texture": "Which marks make the walls look like stone?",
+      "space": "How can you tell which parts of the castle are nearer to us?",
+      "light": "Where does the gray wash show shade? Which side of the building is lit?",
+      "meaning": "Why might someone want a drawing of a castle?",
+      "culture": "Canaletto was from Venice, Italy, but drew a castle in England. Why might he want to draw places far from home?",
+      "technique": "Wash is thin paint spread with a brush. How is it different from a pen line?",
+      "personal": "What building near you would you like to draw? Why?",
+      "critical": "Is a drawing like this more useful than a photograph or less? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which details in this drawing help you believe this is a real, solid castle?",
+      "emotion": "How would you describe the mood of this drawing, and what choices by Canaletto help create it?",
+      "observation": "After a quiet minute, what small details in the walls, windows, or ground did you notice that you missed at first?",
+      "analysis": "How does Canaletto arrange the parts of the castle to make a clear and balanced view?",
+      "line": "How do the pen lines show the structure of the building? Compare straight lines and shorter marks.",
+      "shape": "Which large shapes make up the castle, and how do smaller shapes add detail?",
+      "color": "The drawing uses only brown ink and gray wash. How do these limited colors still show form?",
+      "texture": "How does the artist show the roughness of stone and the smoothness of other surfaces?",
+      "space": "How does Canaletto use perspective, lines that seem to meet in the distance, to show the castle's depth?",
+      "light": "How does the gray wash help show the direction of light and make parts of the castle look round or deep?",
+      "meaning": "A castle can stand for power, safety, or history. What does this drawing suggest to you?",
+      "culture": "Canaletto came from Venice and worked in England. What might a visitor notice about a landmark that locals take for granted?",
+      "technique": "Why might an artist first draw with a pen and then add wash?",
+      "personal": "Think of a building that is special to you. How would you draw it to show why?",
+      "critical": "Is this drawing mostly a record of what a castle looked like, or also the artist's own view? Explain."
+    },
+    "g68": {
+      "daily": "How does Canaletto use line and wash to create a castle that feels both accurate and atmospheric?",
+      "emotion": "What impression of strength or calm does the castle convey, and how do the drawing's marks produce it?",
+      "observation": "Describe the castle from left to right. Which parts are drawn with the most detail?",
+      "analysis": "How does the composition balance large masses of wall with smaller details?",
+      "line": "How does the variety of pen marks, from crisp edges to quick strokes, describe different parts of the building?",
+      "shape": "How do repeated shapes in windows and walls create rhythm along the front of the castle?",
+      "color": "With only brown and gray, how does Canaletto make the drawing feel rich?",
+      "texture": "How do hatching, dots, or short strokes, if you can find them, suggest stone and weathering?",
+      "space": "How does perspective help the building feel three-dimensional on a flat sheet?",
+      "light": "How does gray wash indicate time of day and the direction of light?",
+      "meaning": "Why might an English patron want a drawing of a castle by a famous Venetian?",
+      "culture": "How might Canaletto's training in Venice shape the way he draws an English castle?",
+      "technique": "How do pen and wash work together, and what is the advantage of using brown ink instead of black?",
+      "personal": "What would it take for you to draw a building so that someone could recognize it?",
+      "critical": "Where do you think the drawing is most accurate, and where might the artist have simplified or changed things?"
+    },
+    "g910": {
+      "daily": "How does the drawing combine architectural precision with atmosphere, and what marks achieve each?",
+      "emotion": "How does the restrained, nearly monochrome treatment affect the sense of dignity or calm in the castle?",
+      "observation": "Describe the visual hierarchy: how does Canaletto direct attention to the main parts of the castle?",
+      "analysis": "Analyze how the structure of walls and towers is organized to create a stable, balanced composition.",
+      "line": "How does the contrast between precise contour and quick shading communicate varied surfaces and conditions?",
+      "shape": "How do geometric forms of the architecture combine with natural forms around it to set the composition?",
+      "color": "How does tonal range, rather than hue, give the image depth and focus?",
+      "texture": "How do hatching and wash, if visible, convey material qualities of stone and weathered surfaces?",
+      "space": "How do perspective and overlapping establish depth, and where does the sheet flatten into pattern?",
+      "light": "How does the wash model light and cast shadow to give the architecture volume?",
+      "meaning": "How might a view of an English castle serve patrons' ideas of history, property, and national identity?",
+      "culture": "How did Canaletto's reputation as a Venetian view painter shape what English patrons expected from his images of their country?",
+      "technique": "How does Canaletto's habit of working from a drawing toward a finished image, as seen in his practice, relate to this sheet?",
+      "personal": "How does drawing a building differ from photographing it in what you learn about it?",
+      "critical": "What assumptions about authenticity do we make when a foreign artist depicts a national landmark?"
+    },
+    "g1112": {
+      "daily": "How does this sheet negotiate between documentary description and pictorial effect, and what in the drawing supports your view?",
+      "emotion": "How does the sheet's measured handling produce affect, and is that feeling attributable to the building, the artist, or the viewer?",
+      "observation": "Describe the sheet's visible facts and materials before interpreting. Where does careful description already imply value judgments?",
+      "analysis": "How do structure, perspective, and tonal grouping organize the drawing into a persuasive view?",
+      "line": "How does the combination of rigorous contour and looser marks reflect the aims of a view painter?",
+      "shape": "How do geometry and irregularity in the architecture shape the viewer's reading of age and permanence?",
+      "color": "What is the role of tone and the warm brown of the ink in setting the sheet's mood and its relation to the drawing tradition?",
+      "texture": "How does the sheet establish material presence using purely graphic means?",
+      "space": "How does the sheet use perspective as both a tool of accuracy and a rhetorical device?",
+      "light": "How might the treatment of light reflect conventions Canaletto developed for views of Venice, and how is it adapted to an English subject?",
+      "meaning": "How might the depiction of a castle participate in the social and political meanings of estates in eighteenth-century England, and how far can one sheet support such claims?",
+      "culture": "What does Canaletto's English period suggest about the international market for views in the mid-eighteenth century?",
+      "technique": "What can the combination of pen and wash tell us about whether this sheet was a preparatory study, a finished work, or both, and what remains uncertain?",
+      "personal": "How do contemporary images of landmarks, such as photographs and screenshots, shape your expectations of what a view should show?",
+      "critical": "How should we weigh topographical accuracy against artistic interpretation when evaluating a view of a real place?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Castles), medium, and classification (Drawings) checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Canaletto (1697–1768) was a Venetian artist known for views of cities. He worked in England for several years in the mid-1700s, and this drawing of Warwick Castle is dated 1752 in the Met's record.",
+    "vocabulary": [
+      "view painting",
+      "perspective",
+      "pen and ink",
+      "wash",
+      "hatching",
+      "landmark"
+    ],
+    "directions": [
+      "Have students draw a school building from outside using a pen first and then add shade with a thin gray wash.",
+      "Ask students to talk about how perspective makes a flat page feel deep.",
+      "Discuss how visitors and locals may see the same landmark differently."
+    ]
+  }
+}

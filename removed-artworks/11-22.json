@@ -1,0 +1,151 @@
+{
+  "id": "met-544113",
+  "day": "11-22",
+  "title": "Vessel lid in the form of a turtle",
+  "artist": "Artist unknown",
+  "date": "ca. 3500–2650 BCE",
+  "medium": "Travertine (Egyptian alabaster), paste",
+  "region": "Egypt, Predynastic Period (Naqada II)–Early Dynastic Period",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/1980.310_top.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/1980.310_top.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Nina Walker Wainwright and Beatrice Appel Gifts, 1980",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, pale stone lid carved in the shape of a turtle, seen from above, with a rounded shell and a head and legs at the edges. The stone is smooth and cream-colored.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/544113",
+    "objectId": "544113",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Turtles), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small lid for a vessel, carved in the shape of a turtle from travertine (Egyptian alabaster) with a second material, listed as paste. It dates to roughly 3500–2650 BCE, over 4,600 years ago, making it one of the oldest objects in this collection. It is about 6.7 cm long and only 2.1 cm high.",
+  "descriptions": {
+    "k": "This is a lid shaped like a turtle! It is made of smooth, pale stone. It is more than four thousand years old. Look at its round shell. What do you think was kept inside the jar?",
+    "g12": "More than 4,600 years ago, a carver in Egypt shaped this stone lid like a turtle. Look at the round shell on top. It once covered a small jar or vessel. The stone is smooth and pale. What do you think a jar with a turtle lid might have held?",
+    "g35": "This lid for a small vessel is carved in the form of a turtle. It was made in Egypt thousands of years ago, in the era when early kings were beginning to unite the land. The stone is travertine, which is smooth and cream-colored, and the record also lists paste, perhaps used for details. Look at the shape of the shell. How does the carver turn a practical lid into an animal?",
+    "g68": "Dated between about 3500 and 2650 BCE, this travertine lid belongs to the earliest chapters of Egyptian art. A turtle shape makes a practical cover into a small sculpture; the rounded shell is natural for a lid. The record lists paste as well as stone, which suggests added detail, though the object itself must be checked. How might an everyday container have carried meaning through its animal form?",
+    "g910": "This turtle lid sits at the threshold of Egyptian history, when stone vessels and animal forms were already important. The carver uses the turtle's domed shell as the lid's natural shape, uniting form and function. Travertine takes a high polish, and the added paste material suggests refinement, although specific use is not recorded. How does choosing a turtle, a creature of water and land, enrich a simple vessel lid?",
+    "g1112": "The turtle lid shows early Egyptian craftsmen merging utility with animal imagery. Travertine permits fine, smooth carving, and the turtle's dome fits the lid's function, while the paste component points to added or inlaid detail. The date range, about 3500–2650 BCE, spans the formative centuries before the Old Kingdom, a period known mostly through objects rather than texts. Interpretations of turtle imagery vary, and without inscription or context, any symbolic reading should be treated as provisional."
+  },
+  "questions": {
+    "k": {
+      "daily": "This lid is shaped like a turtle. What do you think was inside the jar it covered?",
+      "emotion": "Does this turtle look slow and sleepy, or ready to move? Why?",
+      "observation": "Find the turtle's shell. What else can you spot around its edges?",
+      "analysis": "Where do your eyes go first on the little turtle?",
+      "line": "Trace the curve of the shell with your finger. Is it smooth or bumpy?",
+      "shape": "A turtle's shell is like a dome or a bowl turned over. What shapes do you see?",
+      "color": "The stone is pale and creamy. What other things are this color?",
+      "texture": "Does the stone look smooth like a pebble in a river? What tells you?",
+      "space": "The lid is low and flat, not tall. How would it sit on top of a jar?",
+      "light": "Where does the light make the shell glow?",
+      "meaning": "Turtles live near water and carry their homes. Why might a turtle be a nice lid?",
+      "culture": "This lid is more than four thousand years old. What do you think life was like then?",
+      "technique": "How do you think someone carved a turtle from stone without machines?",
+      "personal": "If you could put an animal lid on a jar at home, which animal would you pick?",
+      "critical": "How can a lid for a jar also be a small sculpture?"
+    },
+    "g12": {
+      "daily": "What clues show you this lid is a turtle and not a plain round cover?",
+      "emotion": "Does this turtle feel peaceful, sturdy, or sleepy? Which part gives that feeling?",
+      "observation": "Describe the turtle's shell, head, and legs, as far as you can see them.",
+      "analysis": "How does the dome of the shell help the lid do its job?",
+      "line": "Follow the edge of the shell with your eyes. Where does the line turn?",
+      "shape": "What round and oval shapes do you see in the turtle?",
+      "color": "The stone is pale and quiet. How would a brightly painted turtle feel different?",
+      "texture": "The stone looks polished. How is that different from a real turtle's hard shell?",
+      "space": "The turtle is wide and low. How does that help it feel steady?",
+      "light": "How does light slide over the rounded shell?",
+      "meaning": "Why might someone make a lid in the shape of an animal rather than a plain disk?",
+      "culture": "Egyptians lived by a river with turtles. How might that influence the animals they carved?",
+      "technique": "Travertine is a stone that can be polished smooth. Why is that good for a lid?",
+      "personal": "What is the nicest container you have ever seen? What made it special?",
+      "critical": "The record says part of this lid is made from another material called paste. Why might the maker add something different?"
+    },
+    "g35": {
+      "daily": "How does the carver combine a practical lid with a turtle's shape? Point to the key details.",
+      "emotion": "What mood does this small, quiet turtle give you? Which choices by the carver create it?",
+      "observation": "Look carefully for a minute. What small details of the shell or edges did you notice last?",
+      "analysis": "How does the carver use the dome of the shell to make the lid both useful and recognizable?",
+      "line": "How do the curved outlines of the shell and the edge give the turtle its character?",
+      "shape": "How does the oval, domed shape suit both a turtle and a lid?",
+      "color": "Travertine is pale and warm. How does that natural color shape the way we see the turtle?",
+      "texture": "How might the polished stone feel in the hand? How is it different from rough stone?",
+      "space": "The lid is only about 2 centimeters high. How does a low profile affect how we see it?",
+      "light": "Travertine can let a little light pass through at the edges. How might that make it look soft?",
+      "meaning": "Turtles live on land and in water. What might that say about why the maker chose this animal?",
+      "culture": "This lid comes from a time before Egypt's famous pyramids. What does it tell us about early Egyptian art?",
+      "technique": "What steps might a carver follow to turn a stone block into a small, smooth turtle lid?",
+      "personal": "Think about an animal you find calm and protective. How could you show it in a small object?",
+      "critical": "This object is thousands of years old. How can we be sure what we say about it is accurate?"
+    },
+    "g68": {
+      "daily": "How does the turtle form turn a plain container cover into a miniature sculpture?",
+      "emotion": "How does the turtle's low, rounded form create a sense of calm or protection?",
+      "observation": "List each feature you can see on the turtle. Which seem natural and which seem simplified?",
+      "analysis": "How do the dome and the animal's outline work together to make a compact composition?",
+      "line": "How does the continuous outline unify the shell and body?",
+      "shape": "How does the rounded dome of the shell relate to the demands of a lid?",
+      "color": "How does a pale natural stone focus attention on form instead of decoration?",
+      "texture": "How would a smoothly polished surface suit an object that is handled often?",
+      "space": "The lid is small and low. How does that shape the way it fits on a vessel and in the hand?",
+      "light": "How does light on a curved, polished surface reveal the form of the shell?",
+      "meaning": "What are two possible reasons for choosing a turtle for a vessel lid?",
+      "culture": "What does an object from this early period suggest about how Egyptians connected art and daily life?",
+      "technique": "How does carving a vessel lid in travertine require planning to match it to the vessel?",
+      "personal": "How do the everyday things in your home reflect animals or nature? Compare them to this lid.",
+      "critical": "How should we describe a long date range like 3500–2650 BCE, and what does it tell us about certainty?"
+    },
+    "g910": {
+      "daily": "How does the turtle lid unify structural necessity with animal imagery?",
+      "emotion": "How does the compact, rounded form suggest security and containment?",
+      "observation": "Identify the elements that make this a turtle and note what is stylized.",
+      "analysis": "Analyze how form follows function in the shell-shaped dome.",
+      "line": "How does the continuous contour reduce the animal to its characteristic silhouette?",
+      "shape": "How does the domed oval balance naturalism and abstraction?",
+      "color": "How does the neutral color of travertine affect the object's presence as sculpture?",
+      "texture": "What does the high polish possible in travertine suggest about the value of the vessel and its contents?",
+      "space": "How does the object's small, low volume relate to its role as a cover and its status as a fine object?",
+      "light": "How might translucency and polish in travertine affect perceptions of depth and softness?",
+      "meaning": "What kinds of symbolism might scholars consider for turtles in early Egypt, and how limited is the evidence?",
+      "culture": "How does a stone vessel with an animal lid reflect early Egyptian skill and taste?",
+      "technique": "What does the use of a secondary material like paste imply about workshop techniques?",
+      "personal": "How does a functional object become sculpture for you? What qualities cross that line here?",
+      "critical": "How can a long date range shape the way we interpret an object's cultural setting?"
+    },
+    "g1112": {
+      "daily": "What does the lid's design suggest about early Egyptian attitudes toward animals and everyday objects, and how secure is that suggestion?",
+      "emotion": "How does the object's modest scale and quiet form affect our reading of its emotional or symbolic range?",
+      "observation": "Describe the lid with exactness. Where does your description depend on assumptions about its missing parts or lost details?",
+      "analysis": "Analyze how the object resolves the tension between a sculptural image and the constraints of a lid.",
+      "line": "How does the line of the shell and edge function as both outline and structure?",
+      "shape": "How does the domed form reflect shared design principles in early stone vessels?",
+      "color": "How might color in the original, such as inlay or paint, have altered the meaning of the turtle?",
+      "texture": "How might touch and handling have shaped the owner's relationship to the lid?",
+      "space": "How does the lid's scale suggest both private use and prestige?",
+      "light": "How does the stone's interaction with light compare with later Egyptian carving traditions?",
+      "meaning": "Evaluate possible readings of turtle imagery, including protective, aquatic, or purely decorative, and the evidence for each.",
+      "culture": "What can an object from the formative centuries before the Old Kingdom tell us, and what are the limits of that evidence?",
+      "technique": "What does the combination of stone and paste imply about technical experimentation in early Egypt?",
+      "personal": "How do you decide when an unlabeled ancient object is art, tool, or symbol?",
+      "critical": "How should scholars handle objects with wide date ranges when building narratives about early Egyptian culture?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Turtles), medium (travertine, paste) and period checked against the museum record. Subject is an animal-shaped vessel lid with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A very early Egyptian vessel lid in the shape of a turtle, made of travertine with an additional material listed as paste. Its wide date range shows how early periods are dated more broadly.",
+    "vocabulary": ["travertine", "vessel", "lid", "Predynastic", "Early Dynastic", "dome"],
+    "directions": [
+      "Have students design a lid for a container using an animal whose shape fits the lid's job.",
+      "Ask students to explore why a date range is given instead of one date.",
+      "Discuss how everyday objects can also be sculptures."
+    ]
+  }
+}

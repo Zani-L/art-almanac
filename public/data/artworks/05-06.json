@@ -1,0 +1,158 @@
+{
+  "id": "met-40012",
+  "day": "05-06",
+  "title": "Netsuke of Boat with the Seven Gods of Good Fortune",
+  "artist": "Masahiro",
+  "date": "late 18th century",
+  "medium": "Carved ivory",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/LC-10_211_819-03.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/LC-10_211_819-03.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Russell Sage, 1910",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small carved ivory sculpture of a boat carrying a crowd of tiny figures, with a bird among them. The pale ivory is carved in fine detail.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/40012",
+    "objectId": "40012",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A netsuke carved from ivory by an artist named Masahiro in Japan in the late 18th century. It shows a boat carrying the Seven Gods of Good Fortune, a popular group in Japanese folk belief. Netsuke were toggles used to hang pouches from the sash of a kimono.",
+  "descriptions": {
+    "k": "Here is a tiny boat carved from ivory. Little people ride inside. They are special gods who bring good luck! A bird is there too. How many small things can you find on this boat?",
+    "g12": "A little boat carries seven gods of good luck. They are carved from ivory, and the whole thing is small enough to hold in your hand. In Japan, this is called a netsuke, and it hung on a belt. Look for the tiny figures and the bird. Who do you think is having the most fun?",
+    "g35": "This netsuke shows the treasure ship of the Seven Gods of Good Fortune, a favorite subject in Japan, where the gods are thought to bring happiness. Netsuke were toggles that held a pouch to a kimono sash, so they had to be small and smooth. The carver, Masahiro, packed many figures into one tiny boat. Look at how they fit together. Why might someone want a lucky boat on their belt?",
+    "g68": "The Seven Gods of Good Fortune, shown aboard a treasure ship, are popular in Japanese folk belief and blend traditions from Japan, China, and India. This late 18th century netsuke by Masahiro puts several figures and a bird into a boat only a few centimeters wide. Because netsuke were handled constantly, the carver shaped forms to avoid sharp edges. How does the carver organize so many figures in a tiny space, and what might the gods mean to the person who wore them?",
+    "g910": "Masahiro's netsuke condenses a lively, crowded subject into an object that had to be worn and handled. The treasure ship carrying the Seven Gods of Good Fortune was a well-known motif associated with luck, especially around the new year. The challenge here is compositional: arranging multiple figures, a boat, and a bird into a compact, snag-free form. Consider how the carver balances detail and mass, and how a sacred or auspicious theme can still carry humor and charm.",
+    "g1112": "Masahiro's netsuke shows how an everyday fastener could carry layered cultural content. The Seven Gods of Good Fortune drew on Shinto, Buddhist, and Chinese traditions and were commonly invoked for luck, particularly at the new year. Compressing a boat and many figures into a single sculpture-in-the-round tests the carver's control of scale and composition. The material, ivory, adds a present-day ethical dimension. How do function, folk belief, and craftsmanship work together, and how does knowing the object's context change what looks charming?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think is the happiest on this tiny boat?",
+      "emotion": "Does this boat feel exciting, calm, or silly? What do you see that tells you?",
+      "observation": "What can you find on this boat? Point to a person and a bird.",
+      "analysis": "Where do your eyes go first on this tiny carving? Why?",
+      "line": "Can you find a curvy line on the boat? Trace it in the air.",
+      "shape": "What shapes make up the boat and the little people?",
+      "color": "What color is the ivory? What does that color remind you of?",
+      "texture": "What parts of this carving do you think are smooth? Which look bumpy?",
+      "space": "How do so many people fit into one small boat?",
+      "light": "Where does the light make the ivory look bright?",
+      "meaning": "The people are gods of good luck. What lucky things would you wish for?",
+      "culture": "Japanese people told stories about the Seven Gods of Good Fortune. What stories do you know about lucky things?",
+      "technique": "The carver cut away the ivory to make tiny people. Why would this take a long time?",
+      "personal": "If you had a tiny lucky boat to wear, who would you put inside?",
+      "critical": "This carving is very small. What do you see now that you did not see at first?"
+    },
+    "g12": {
+      "daily": "What are the little figures in the boat doing? Use clues you see.",
+      "emotion": "What feeling does this crowded boat give you? Which parts help you feel that way?",
+      "observation": "Describe five things you see on the boat, from big to small.",
+      "analysis": "How does the artist fit so many figures in one little shape?",
+      "line": "Find curved lines in the boat or figures. How do they make the sculpture feel?",
+      "shape": "What big shape does the whole boat make? What small shapes sit inside it?",
+      "color": "The carving is pale. How does that help you notice the tiny details?",
+      "texture": "Which parts look smooth and which look full of tiny lines? Show where you see it.",
+      "space": "How does the artist make a small boat feel full?",
+      "light": "Where do shadows fall between the figures? What do they show about the carving?",
+      "meaning": "The seven gods are said to bring good luck. Why might someone want to carry them around?",
+      "culture": "People in Japan wore netsuke to hang a pouch on a belt. Why might they want a toggle to be beautiful?",
+      "technique": "The artist carved this from a hard material called ivory. How is carving different from drawing?",
+      "personal": "What small lucky charm would you want to carry? Tell about it.",
+      "critical": "Would you wear this on a belt or keep it safe? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What scene do you think the carver wanted to show, and what details support your idea?",
+      "emotion": "What mood does this lucky boat have? Which carved details create it?",
+      "observation": "Look for one minute. What tiny details did you notice that you missed at first?",
+      "analysis": "How does the carver arrange the figures, boat, and bird so they work as one object?",
+      "line": "How do the curved lines of the boat and figures create movement?",
+      "shape": "Which shapes overlap, and how do they fit together in a small space?",
+      "color": "Ivory is nearly one color. How does the sculptor show different parts without paint?",
+      "texture": "How does the artist make cloth, wood, or faces look different from each other?",
+      "space": "A netsuke is held in the hand. How does the carving look interesting from every side?",
+      "light": "How do highlights and shadows on the rounded ivory help you see the figures?",
+      "meaning": "Why might the Seven Gods of Good Fortune on a boat be a popular subject?",
+      "culture": "Netsuke held pouches to kimono sashes. What does that tell you about how people dressed and carried things?",
+      "technique": "Netsuke had to be smooth and sturdy for daily wear. How might that change how a carver works?",
+      "personal": "Think of an object you carry for good luck or comfort. Why is it special?",
+      "critical": "Why might a useful object also be a tiny sculpture? What do we learn from that choice?"
+    },
+    "g68": {
+      "daily": "How does Masahiro turn a practical toggle into a story in miniature?",
+      "emotion": "What atmosphere does the crowded boat suggest, and which features create it?",
+      "observation": "Describe the sculpture from front to back. Which figures or details seem most carefully worked?",
+      "analysis": "How does the composition group many figures into a single compact mass?",
+      "line": "How do curved lines of the boat and bodies unify the crowd of figures?",
+      "shape": "How do rounded forms and small projections balance one another in this sculpture?",
+      "color": "With almost no color, how does the carver rely on form and surface to make details clear?",
+      "texture": "Why would smoothness matter for a handled object, and where might the carver add fine detail?",
+      "space": "How does the sculptor make a tiny boat seem filled with activity, and how does the sculpture work from every side?",
+      "light": "How do highlights on rounded ivory help describe the figures? How might the work look different in dim light?",
+      "meaning": "The Seven Gods of Good Fortune blend several traditions. How might that mix reflect Japanese culture?",
+      "culture": "How did clothing without pockets lead to a whole art form, and what does the subject suggest about people's hopes?",
+      "technique": "What does carving a crowded scene in a small hand-held form demand from the artist?",
+      "personal": "What symbols of luck or hope do you or your family keep close?",
+      "critical": "Some museums discuss ivory as a historic material with present-day concerns. How might that influence how we look at this work?"
+    },
+    "g910": {
+      "daily": "How do subject, scale, and function combine to give this object charm and meaning?",
+      "emotion": "How does the sculptor give a group of tiny figures liveliness without exaggeration?",
+      "observation": "Describe the visual hierarchy. What draws your eye first, and how does closer looking reward you?",
+      "analysis": "Analyze how the carver balances narrative detail with the need for a compact, durable form.",
+      "line": "How do contour and incised detail play different roles in the composition?",
+      "shape": "How does the grouping of rounded masses create unity while avoiding fragile projections?",
+      "color": "How does the pale material shift emphasis to modeling and surface treatment?",
+      "texture": "How does varying surface treatment express different materials such as cloth, wood, and skin?",
+      "space": "How does a design intended to be held change what we consider its front, back, and sides?",
+      "light": "How do light and shadow on carved ivory model forms differently than paint would?",
+      "meaning": "How might the treasure ship and its passengers have functioned as a wish for luck, and what evidence supports that reading?",
+      "culture": "How does the netsuke reflect the dress, belief, and social life of Edo-period Japan?",
+      "technique": "How do the demands of a toggle, such as smoothness, weight, and a cord path, shape carving choices?",
+      "personal": "How does handling an object differ from viewing it, and which would you prefer here?",
+      "critical": "How should we account for ivory, a now-regulated material, when evaluating and displaying such works?"
+    },
+    "g1112": {
+      "daily": "What does this small sculpture reveal about the relationship between devotion, play, and craftsmanship?",
+      "emotion": "How does the netsuke achieve warmth and humor within strict limits of scale and function?",
+      "observation": "Describe the sculpture's formal construction precisely. Where does description begin to interpret?",
+      "analysis": "Analyze how the carver reconciles narrative density with the practical need for a smooth, wearable form.",
+      "line": "How does continuity of contour across multiple figures produce a unified silhouette?",
+      "shape": "How do interlocking masses answer the requirement of a compact, snag-free shape?",
+      "color": "How does monochrome material shift the expressive burden onto modeling and finish?",
+      "texture": "How might the tactile quality of worn, handled ivory be part of the experience the object was made for?",
+      "space": "How does an object meant for the palm alter conventional ideas of viewpoint and display?",
+      "light": "How does museum lighting change our perception of an object designed to be touched and carried?",
+      "meaning": "Evaluate readings of the Seven Gods as religious symbol, folk charm, or playful subject. What does the object itself support?",
+      "culture": "How does the mixing of Shinto, Buddhist, and Chinese ideas in the Seven Gods illustrate cultural exchange in Japan?",
+      "technique": "What does the object suggest about the specialization of carvers and the market for refined small objects?",
+      "personal": "How does your own relationship to charms and keepsakes shape how you read this object?",
+      "critical": "How should museums balance appreciation of craftsmanship with the ethical questions raised by ivory?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Netsuke), medium, and tags (Human Figures, Birds, Boats) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An ivory netsuke by Masahiro, late 18th century, showing the treasure ship of the Seven Gods of Good Fortune. Netsuke were toggles for pouches hung from a kimono sash.",
+    "vocabulary": [
+      "netsuke",
+      "Seven Gods of Good Fortune",
+      "treasure ship",
+      "kimono",
+      "carving in the round",
+      "Edo period"
+    ],
+    "directions": [
+      "Ask students to research one of the Seven Gods and tell what luck that god is said to bring.",
+      "Have students design a good-luck charm for a belt and explain how its shape suits being handled.",
+      "Discuss historic ivory objects and why present-day laws restrict ivory trade."
+    ]
+  }
+}

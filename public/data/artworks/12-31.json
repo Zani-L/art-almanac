@@ -1,0 +1,158 @@
+{
+  "id": "met-438615",
+  "day": "12-31",
+  "title": "Olivier Journu (1724–1783)",
+  "artist": "Jean-Baptiste Perronneau",
+  "date": "1756",
+  "medium": "Pastel on blue-gray laid paper, laid down on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161654.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP161654.jpg",
+    "credit": "The Metropolitan Museum of Art, Wrightsman Fund, 2003",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A portrait of a man, made in soft pastel on blue-gray paper, with a powdery, delicate finish.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/438615",
+    "objectId": "438615",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Men, Portraits), classification (Pastels & Oil Sketches on Paper) and image URLs read from the record"
+  },
+  "context": "A pastel portrait made in 1756 by the French artist Jean-Baptiste Perronneau. The title gives the sitter's name and life dates. Pastel is made of powdered pigment pressed into sticks, and it was a popular medium for portraits in eighteenth-century France.",
+  "descriptions": {
+    "k": "This is a picture of a man. It is made with soft chalk called pastel. The paper is blue-gray. Look at his face. What do you think he is like? Would he be kind or serious?",
+    "g12": "Jean-Baptiste Perronneau made this portrait of Olivier Journu in France long ago. He used pastel, which is like soft, dusty colored chalk, on blue-gray paper. Look closely at the man's face. What does his look tell you about him?",
+    "g35": "Jean-Baptiste Perronneau was a French artist who made portraits in pastel, a soft chalk made from powdered color. Here he drew a man named Olivier Journu on blue-gray paper in 1756. Pastel can look soft and velvety. Look at the face, the eyes, and the clothes. What clues tell you about the man's personality?",
+    "g68": "In 1756, Perronneau made this pastel portrait of Olivier Journu on blue-gray paper. Pastel is powdered pigment pressed into sticks, and it can blend into soft skin tones and velvety surfaces, but it is fragile and must be protected. Perronneau was admired for portraits that looked lively and natural. Notice how the colors of the face and the blue-gray ground interact. What does the portrait suggest about the sitter?",
+    "g910": "Perronneau's pastel of Olivier Journu shows how the medium allowed fine blending and bright, powdery color. The blue-gray ground gives the portrait a cool base that sets off the warmer tones of the face. Pastel was prized in eighteenth-century France for its freshness, and Perronneau was known for sensitive, individual portraits. How do the medium's softness and the sitter's expression together shape our impression of him?",
+    "g1112": "Perronneau, a rival of the better-known pastelist Maurice Quentin de La Tour, worked in a medium that prized immediacy and surface bloom. In this 1756 portrait of Olivier Journu, the blue-gray ground, the soft modeling, and the sitter's presence create a sense of individuality without grandeur. Portraiture raises questions about the balance of likeness, flattery, and social role, while the fragility of pastel invites reflection on how and why such works survive."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think Olivier Journu is like? Look at his face for clues.",
+      "emotion": "Does the man look kind, serious, or sleepy? Show it with your face.",
+      "observation": "Find his eyes, his nose, and his mouth. What else can you find?",
+      "analysis": "Where do your eyes go first on this picture? Why?",
+      "line": "Trace the edge of his face with your finger. Is it curvy or straight?",
+      "shape": "What shapes make up his face and shoulders?",
+      "color": "The paper is blue-gray. What colors do you see in his face?",
+      "texture": "Pastel looks powdery. How would this picture feel if you touched it?",
+      "space": "Does the man look close to you or far away? What shows you?",
+      "light": "Where is his face bright? Where is it in shadow?",
+      "meaning": "Why would someone want a picture of a person's face?",
+      "culture": "This man lived in France long ago. What looks the same as people today and what looks different?",
+      "technique": "The artist used soft chalk called pastel. How does it look different from paint?",
+      "personal": "What would you want people to know about you if someone made your portrait?",
+      "critical": "Do you think the artist made him look exactly real or a little nicer? What do you think?"
+    },
+    "g12": {
+      "daily": "What does the man's look tell you about him, and which parts of his face help you decide?",
+      "emotion": "What feeling do you get from his eyes and mouth?",
+      "observation": "List five things you notice, from his hair to his clothes.",
+      "analysis": "How does the blue-gray paper help his face stand out?",
+      "line": "Look for soft lines and sharper lines. Where do you see each in the portrait?",
+      "shape": "What shape do his head and shoulders make together?",
+      "color": "Which warm colors are in his face, and how do they look next to the cool paper?",
+      "texture": "Pastel looks soft and powdery. Where does the skin look softest?",
+      "space": "How does the plain background make the man seem close to you?",
+      "light": "Where does the light seem to shine on his face?",
+      "meaning": "Why did people in the 1700s have portraits made before cameras were invented?",
+      "culture": "Pastel was a popular way to make portraits in France. Why might people like soft, bright color?",
+      "technique": "Pastel is pressed powder that can be blended with a finger. Where does it look smooth?",
+      "personal": "How would you pose for a portrait: serious, smiling, or silly? Why?",
+      "critical": "Can a portrait show what a person is really like? Why or why not?"
+    },
+    "g35": {
+      "daily": "What personality do you think Olivier Journu had, and what details in his face and expression support your idea?",
+      "emotion": "What mood does this portrait have, and how do color and expression create it?",
+      "observation": "Look silently for one minute at the face. What small details, like the eyes or soft shading, did you notice?",
+      "analysis": "How does the artist guide your eyes to the face?",
+      "line": "How do soft edges and a few firm lines work together in the portrait?",
+      "shape": "How do the shapes of the head and shoulders create a steady, balanced form?",
+      "color": "How does the cool blue-gray paper change how the warm skin tones look?",
+      "texture": "How does pastel give the skin and clothing a different feel than oil paint might?",
+      "space": "How does leaving the background simple affect how close you feel to the sitter?",
+      "light": "How does light and shadow give the face roundness?",
+      "meaning": "A portrait is meant to keep someone's image. What do you think the sitter wanted people to remember?",
+      "culture": "Why might a person in France in 1756 choose a pastel portrait instead of an oil painting?",
+      "technique": "Pastel is fragile and can smudge easily. How might that affect how it is kept and displayed?",
+      "personal": "Think of a photo that shows something true about you. What does it show?",
+      "critical": "How might a portrait be a mix of what the person really looked like and how they wanted to be seen?"
+    },
+    "g68": {
+      "daily": "How does Perronneau make a powdery, soft medium capture the individuality of one person?",
+      "emotion": "How do softness of surface and the sitter's expression shape the mood of the portrait?",
+      "observation": "Describe the face, the clothing, and the background. Where is the most careful detail?",
+      "analysis": "How does the composition focus the viewer's attention on the sitter's face?",
+      "line": "How do edges blur or sharpen in pastel, and where does that matter in this portrait?",
+      "shape": "How do the rounded shapes of the head and shoulders create a stable portrait?",
+      "color": "How does the blue-gray ground interact with the warmer colors of the sitter's face?",
+      "texture": "What visual qualities of pastel, such as softness and a slight powdery bloom, do you notice?",
+      "space": "How does the shallow space and lack of detail around the figure emphasize presence?",
+      "light": "How does subtle modeling of light make the face look three-dimensional?",
+      "meaning": "What might this portrait tell us about the sitter's identity and place in society, and what might it not tell us?",
+      "culture": "Why was pastel so fashionable for portraits in eighteenth-century France?",
+      "technique": "What are the challenges of working with pastel, which cannot be easily painted over like oil?",
+      "personal": "How do you decide what to show of yourself in a picture others will see?",
+      "critical": "How can a portrait suggest personality while leaving much unknown?"
+    },
+    "g910": {
+      "daily": "How does Perronneau combine medium, color, and expression to convey the sitter's presence?",
+      "emotion": "How does the portrait suggest feeling through restraint rather than drama?",
+      "observation": "Describe the visual hierarchy: what draws the eye first, and which devices cause that?",
+      "analysis": "Analyze how the toned ground and the placement of the figure produce focus and harmony.",
+      "line": "How does the softening of contour in pastel affect the sense of form and life?",
+      "shape": "How does the silhouette of the figure establish stability and character?",
+      "color": "How does the cool ground heighten the warmth and life of the flesh tones?",
+      "texture": "How does the powdery surface of pastel create a velvety effect that differs from oil painting?",
+      "space": "How does the minimal setting concentrate attention on the sitter?",
+      "light": "How does subtle gradation of tone build volume without hard outlines?",
+      "meaning": "What do portraits like this suggest about the sitter's wish to be seen and remembered?",
+      "culture": "How did the popularity of pastel reflect eighteenth-century French tastes for immediacy and delicacy?",
+      "technique": "How does the medium's fragility, with pigment held by little more than the paper's tooth, shape its conservation and display?",
+      "personal": "How does your own sense of how you appear compare with how others might see you?",
+      "critical": "What can the portrait reliably tell us about Journu, and what must we infer or leave unknown?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about the portrait's balance of likeness and idealization, and what remains uncertain?",
+      "emotion": "How does the portrait convey inner life through subtle means, and how reliable is that impression?",
+      "observation": "Describe the portrait's construction with precision. Where does description begin to imply judgment of character?",
+      "analysis": "Analyze how Perronneau's handling of the ground, color, and edge produces unity and presence.",
+      "line": "How does the minimizing of line in favor of tonal modeling define the character of pastel portraiture?",
+      "shape": "How does the figure's compact form contribute to the portrait's sense of poise?",
+      "color": "How might light exposure and the fragility of pastel affect what we see today compared with 1756?",
+      "texture": "In what ways does the powdery surface become part of the portrait's meaning as well as its technique?",
+      "space": "How does the lack of environmental detail affect the viewer's reading of social identity?",
+      "light": "How does the portrait use light as a means of individualizing the sitter?",
+      "meaning": "How do portraits of non-royal, non-aristocratic sitters in this period reflect changing ideas about identity and merit?",
+      "culture": "How does Perronneau's position relative to rival pastellists shed light on the competitive market for portraits in France?",
+      "technique": "What does the use of pastel on blue-gray paper laid down on canvas tell us about studio practice and the care of fragile works?",
+      "personal": "How might your own assumptions about faces and character influence your reading of this portrait?",
+      "critical": "What are the limits of reading personality from a portrait, and what standards of evidence should we apply?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Pastels & Oil Sketches on Paper) and tags (Men, Portraits) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Jean-Baptiste Perronneau was a French portraitist who worked in pastel and oil. Pastel is powdered pigment held in stick form, and it is delicate, so pastel portraits are shown and stored with care.",
+    "vocabulary": [
+      "pastel",
+      "portrait",
+      "toned paper",
+      "blending",
+      "likeness",
+      "ground"
+    ],
+    "directions": [
+      "Let students try soft pastels on blue-gray paper and blend with a finger to make a small face.",
+      "Ask students to list what a portrait can show about a person and what it cannot.",
+      "Discuss why fragile works like pastels are kept away from strong light."
+    ]
+  }
+}

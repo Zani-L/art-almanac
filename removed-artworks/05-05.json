@@ -1,0 +1,152 @@
+{
+  "id": "met-310704",
+  "day": "05-05",
+  "title": "Bridge and Spout Vessel with Duck Head",
+  "artist": "Artist unknown",
+  "date": "3rd–2nd century BCE",
+  "medium": "Ceramic, slip",
+  "movement": "Nasca",
+  "region": "Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.260_b.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1978.412.260_b.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Gift of Arthur M. Bullowa, 1974",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, rounded clay vessel from ancient Peru with a spout and a curved bridge on top, and a part shaped like the head of a duck. Its surface is smooth and coated with colored slip.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/310704",
+    "objectId": "310704",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Nasca), country (Peru), classification, tag (Ducks), public-domain flag, credit line and image URLs read from the record; the museum page lists dimensions of 5 3/4 in. high and wide"
+  },
+  "context": "A ceramic vessel made by the Nasca people of southern Peru about 2,200 years ago. Its title describes a spout joined to a bridge, with a duck head as part of the design. The Met's record lists no individual maker, which is common for ancient Andean ceramics.",
+  "descriptions": {
+    "k": "This pot is very old. It comes from Peru. It has a spout and a little bridge on top, and one part looks like a duck's head. A person shaped it from clay by hand. What do you see that looks like a duck?",
+    "g12": "Long ago, a Nasca potter in Peru made this clay vessel. It has a spout and a curved bridge on top, and part of it is shaped like a duck's head. It is about as tall as your hand is long. Why would someone make a pot that looks like an animal?",
+    "g35": "The Nasca people lived on the dry southern coast of Peru. A Nasca artist shaped this clay vessel more than 2,000 years ago and coated it with slip, a thin mix of clay and water that can give color. Look for the spout, the bridge joining it to the body, and the duck head. Why might a potter combine a useful shape with an animal?",
+    "g68": "This vessel is from the Nasca culture of Peru and dates to the 3rd to 2nd century BCE. Its form, a spout joined to a bridge on a rounded body, is a type often found in ancient Andean pottery, and the duck head turns an everyday container into a creature. Slip, a thin liquid clay, gives the surface its color. Because no writing from Nasca survives to explain the vessel, how can we learn about it by looking carefully?",
+    "g910": "Made in the Nasca region of Peru over two thousand years ago, this vessel unites function and imagery: the spout and bridge handle pouring and carrying, while the duck head adds a living presence. Slip gives the surface color and finish. Without written Nasca explanations, scholars infer meaning from the objects themselves and from where such vessels were found. Consider how a container can be both practical and symbolic, and how much we can safely say about its original purpose.",
+    "g1112": "This Nasca vessel of the 3rd to 2nd century BCE combines a bridge-and-spout form, long used in Andean ceramics, with the head of a duck. Interpretation is cautious: the Nasca left no deciphered texts, so scholars rely on imagery, archaeological context, and comparison with other vessels, and they debate whether such objects served daily, ceremonial, or funerary roles. Formally, the piece shows how sculpture and container merge. The Met's note of a museum acquisition through the Rockefeller Memorial Collection also invites questions about how ancient objects reached museums."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the part that looks like a duck? What shape is it?",
+      "emotion": "Does this old pot look friendly or serious to you? What makes you think so?",
+      "observation": "What parts can you find on this pot? Point to the spout and the bridge.",
+      "analysis": "What part of the pot do your eyes go to first? What do they look at next?",
+      "line": "Trace the curved bridge with your finger in the air. Where does it start and stop?",
+      "shape": "What shapes make up this pot? Think of the round body, the spout, and the duck head.",
+      "color": "What colors do you see on the pot? Which one would you point to first?",
+      "texture": "How do you think the smooth clay surface would feel under your hand?",
+      "space": "Where is the empty space in this pot? How could something be poured out?",
+      "light": "Where does the light make the pot look bright? Where does it look darker?",
+      "meaning": "Why might a person want a pot shaped like a duck?",
+      "culture": "This pot comes from Peru, from a people called the Nasca. What do you wonder about them?",
+      "technique": "The pot is made of clay. How do you think someone shaped a round pot with a bridge?",
+      "personal": "What animal would you like to see on a cup or bowl of your own?",
+      "critical": "This pot is more than 2,000 years old. What do you think helped it last so long?"
+    },
+    "g12": {
+      "daily": "Find the duck head, the spout, and the bridge. How do these parts fit together?",
+      "emotion": "What feeling do you get from this ancient pot? Which part of it gives you that feeling?",
+      "observation": "Look slowly at the whole pot. Name four things you notice about its parts and surface.",
+      "analysis": "How does the bridge help connect the other parts of the vessel?",
+      "line": "Find a curved line on the pot. What does it remind you of?",
+      "shape": "The body is round and the duck head is smaller. How do these shapes balance each other?",
+      "color": "Which colors can you spot on the clay? How do they make the duck part stand out?",
+      "texture": "The pot looks smooth. How can you tell from the picture that it was shaped and polished?",
+      "space": "This pot is hollow inside. How might liquid travel from the body to the spout?",
+      "light": "Which parts of the pot catch the most light? Why might that be?",
+      "meaning": "Why might a potter in Peru have chosen a duck for this pot?",
+      "culture": "The Nasca lived in a very dry part of Peru. Why might people there care about containers for water or other liquids?",
+      "technique": "A thin coat of colored clay called slip was used on this pot. What does it change about how the pot looks?",
+      "personal": "If you made a pot with an animal on it, which animal would you pick and why?",
+      "critical": "Is this pot mainly useful or mainly beautiful? Use something you see to explain."
+    },
+    "g35": {
+      "daily": "How does the potter turn a container into something that also looks like a living animal?",
+      "emotion": "What mood does the duck head give to this vessel, and how does the rest of the pot support it?",
+      "observation": "Take one minute to look for details. What do you notice about the bridge, the spout, and the duck that you missed at first?",
+      "analysis": "How do the spout, bridge, and body work together as a design, and which part do you think is the center?",
+      "line": "How does the curve of the bridge compare with the curves of the body? Describe how your eyes follow them.",
+      "shape": "A vessel like this combines a round body with smaller shapes added on top. How do those added shapes change the feeling of the whole object?",
+      "color": "Slip gives the surface its color. How do the colors help you read the different parts of the vessel?",
+      "texture": "How would you describe the surface of this vessel? What clues in the photo tell you it is smooth or polished?",
+      "space": "Because the vessel is hollow, it holds empty space inside. How do the spout and bridge make that space useful?",
+      "light": "How does light fall across the rounded body, and what does that tell you about its form?",
+      "meaning": "The Nasca left few written explanations. What might the duck head tell us about what the maker noticed in the world?",
+      "culture": "The Nasca lived on the southern coast of Peru. What can a pot like this teach us about a culture that left no written records we can read?",
+      "technique": "Potters in ancient Peru shaped clay without a wheel for many vessels. What challenges might come with building a round body and a bridge by hand?",
+      "personal": "Think of a favorite cup or bowl you use. How is it similar to or different from this vessel?",
+      "critical": "Should an ancient pot be called art even if it was made for use? Use details from the vessel to support your view."
+    },
+    "g68": {
+      "daily": "How does the duck head transform what might have been a plain container?",
+      "emotion": "What impression does the vessel give: lively, calm, or formal? Which features create that impression?",
+      "observation": "Describe the vessel from the body upward to the spout. Which part looks most carefully shaped?",
+      "analysis": "How do the bridge and spout create balance and strength on top of the rounded body?",
+      "line": "How do the curve of the bridge and the line of the duck's head create rhythm across the top of the vessel?",
+      "shape": "How do the geometric parts, the sphere-like body and the arch of the bridge, combine with the organic duck form?",
+      "color": "How does slip help separate or unify the different parts of the vessel's surface?",
+      "texture": "How might a smooth, slipped surface have been achieved, and how does it affect the look of the form?",
+      "space": "How does the bridge create an opening between the spout and the head? What does that space add to the design?",
+      "light": "How does light on a curved, shiny or smooth surface help you read the volume of the body?",
+      "meaning": "What might a duck have meant to the Nasca? Which ideas are reasonable, and which are only speculation?",
+      "culture": "No Nasca writing survives to explain this vessel. How do historians learn about such cultures, and what are the limits of their evidence?",
+      "technique": "What does the combination of a hollow body, a bridge, and a spout suggest about how the potter planned for both use and strength?",
+      "personal": "What object from your life would a future archaeologist learn the most from, and why?",
+      "critical": "The vessel entered a museum collection in the 20th century. What questions might we ask about how ancient objects travel to museums?"
+    },
+    "g910": {
+      "daily": "How does this vessel fuse sculpture and container, and what is gained by joining a duck's head to a bridge-and-spout form?",
+      "emotion": "How do the compact, rounded form and animal head create a mood that is both practical and expressive?",
+      "observation": "Describe the visual hierarchy. What leads the eye first, and which formal devices produce that effect?",
+      "analysis": "Analyze how the spout, bridge, and duck head divide the upper part of the vessel into a balanced, structural composition.",
+      "line": "How does the sweeping curve of the bridge create a unifying line that ties the parts of the vessel together?",
+      "shape": "How do simple geometric volumes, such as the rounded body and the arched bridge, interact with the more naturalistic head?",
+      "color": "How might slip function as both decoration and a means of articulating parts of the object?",
+      "texture": "How does a smooth, slipped surface influence the way light reveals the vessel's form?",
+      "space": "How does the object manage inside and outside space, and how does the bridge frame the empty space above the body?",
+      "light": "How does reflected light across the curved surface help produce a sense of volume and presence?",
+      "meaning": "What conclusions about Nasca beliefs can responsibly be drawn from a duck-headed vessel, and which would require more evidence?",
+      "culture": "How does the vessel illustrate the ways ancient Andean cultures expressed ideas through objects rather than through deciphered writing?",
+      "technique": "What does the bridge-and-spout structure suggest about the potter's attention to function, stability, and handling?",
+      "personal": "How does your sense of an object change when you imagine the person who made it, whose name we do not know?",
+      "critical": "How should museums balance admiration of ancient objects with questions about how they were acquired and what context was lost?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the vessel's form and imagery about its function and meaning, and what must remain uncertain without Nasca texts?",
+      "emotion": "How does the vessel's union of utility and animal imagery produce an affective response, and how much of that response is shaped by our distance in time?",
+      "observation": "Describe the vessel's construction with precision. At what point does description begin to assume a function or meaning?",
+      "analysis": "Analyze how the bridge-and-spout type organizes the form and how the duck head disrupts or enriches that organization.",
+      "line": "How does the single sweeping arc of the bridge operate as both structural support and visual signature?",
+      "shape": "How does the object negotiate between geometric abstraction in the body and naturalism in the head?",
+      "color": "In what ways does slip shape the perception of the vessel as an integrated image, and how might aging have altered that perception?",
+      "texture": "How does the evidence of surface treatment connect to ideas of craft knowledge transmitted without written instruction?",
+      "space": "How does the vessel's hollow interior, connected by bridge and spout, challenge the idea that sculpture is only external form?",
+      "light": "How might the vessel's rounded surfaces have performed differently in a museum case than in the settings where it was used or buried?",
+      "meaning": "Evaluate competing readings of animal imagery on Nasca vessels, from ritual significance to everyday observation, and weigh the evidence available for each.",
+      "culture": "How do scholars reconstruct Nasca practices from objects, and what are the risks of projecting later Andean traditions backward?",
+      "technique": "What does the form suggest about Nasca ceramic technology, including the use of slip, and about workshop knowledge?",
+      "personal": "How do your own assumptions about animals in art shape what you expect this duck to mean?",
+      "critical": "What responsibilities attach to displaying and interpreting an object that was removed from its original context and whose makers cannot speak for it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, classification (Ceramics-Containers) and tag (Ducks) read from the Met record; the object is an ancient ceramic vessel with a duck head. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Nasca culture flourished on the south coast of Peru and is also known for the large Nasca Lines. The Met record gives this vessel's title and dates it to the 3rd to 2nd century BCE; its colors and surface details should be confirmed from the museum image.",
+    "vocabulary": ["Nasca", "slip", "ceramic", "spout and bridge", "vessel", "archaeology"],
+    "directions": [
+      "Have students sketch a vessel of their own with a spout, a bridge, and an animal feature, then explain how it would be used.",
+      "Ask students what we can and cannot learn from an object when a culture left no writing we can read.",
+      "Compare with another container in the archive and discuss how shape shows purpose."
+    ]
+  }
+}

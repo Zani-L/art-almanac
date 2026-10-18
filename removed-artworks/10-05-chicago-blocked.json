@@ -1,0 +1,158 @@
+{
+  "id": "artic-28560",
+  "day": "10-05",
+  "title": "The Bedroom",
+  "artist": "Vincent van Gogh",
+  "date": "1889",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small bedroom with a bed, two chairs, a table with a pitcher and basin, a window and doors, pictures on the walls, painted in flat, bright colors with sloping walls and floor.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/28560",
+    "objectId": "28560",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (interiors, bedrooms, beds, chair, doors, mirror, pitcher, basin, table, window, blue, green, red), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Vincent van Gogh, dated 1889, painted while he was staying in Saint-Rémy-de-Provence in France. He painted three versions of his bedroom in the Yellow House in Arles, and this is one. The Art Institute's subject terms list a bed, chair, window, doors, mirror, pitcher and basin.",
+  "descriptions": {
+    "k": "This is a bedroom. There is a bed, two chairs, a window, and a table. The colors are bright and the walls tilt. Can you find the bed? Would you like to sleep here? What color is the floor?",
+    "g12": "Vincent van Gogh painted his own bedroom. You can see a bed, two chairs, a window, and a table with a pitcher. The colors are bright and the room looks a little tilted. What shapes seem to lean? Would this be a cozy room?",
+    "g35": "Vincent van Gogh painted his bedroom in the Yellow House in Arles, and he made three versions. This one is from 1889. A bed, two chairs, a window, and a table with a pitcher fill the small room. The floor and walls slope, and the colors are flat and bright. Why might he want a bedroom to feel restful, and how does the painting show that?",
+    "g68": "The Bedroom (1889) is one of three versions Van Gogh painted of his bedroom in the Yellow House in Arles. He chose flat, bold colors and let the walls and floor slope. In his letters he said he wanted the picture to suggest rest. How do the colors and simplified shapes create a feeling of rest or unease, and what do the objects in the room tell you about the person who lived there?",
+    "g910": "In The Bedroom (1889), Van Gogh simplifies a modest room into flat planes of saturated color, with unorthodox perspective that tilts floor and walls. He described wanting the picture to evoke rest through color. The sparse furniture and the paintings on the wall invite readings of the room as a private refuge. How do perspective, color, and objects shape your sense of the space as comfortable, strange, or both?",
+    "g1112": "Van Gogh's Bedroom (1889), the second of three versions, translates a personal interior into a study in color and perspective: flattened planes, contour, and unmodulated hues replace academic illusion. Van Gogh wrote of wanting the picture to convey rest. Viewers differ on whether the tilted space reads as serene, claustrophobic, or both. How does the painting negotiate between documentary intimacy and expressive design, and what role does biography play in your reading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the bed. What colors is it?",
+      "emotion": "Does this room feel cozy or strange? What do you see that tells you?",
+      "observation": "Find the bed, the chairs, and the window. Which one is easiest to see?",
+      "analysis": "Which parts of the room look like they lean or tilt?",
+      "line": "Find a straight line in the bed or the door. Trace it in the air.",
+      "shape": "Chairs are made of simple shapes. What shapes do you see?",
+      "color": "Which colors can you find? Which one is on the floor?",
+      "texture": "Does the paint look flat or fuzzy? Tell us what you notice.",
+      "space": "Does the room look big or small to you?",
+      "light": "Where does the light seem to come from?",
+      "meaning": "What do you think the person who sleeps here likes?",
+      "culture": "Van Gogh came from the Netherlands and lived in France. What is in your bedroom?",
+      "technique": "Van Gogh used flat patches of color. How might that be different from shading?",
+      "personal": "If you painted your bedroom, what colors would you use?",
+      "critical": "What would you ask the person who lives in this room?"
+    },
+    "g12": {
+      "daily": "Look at the room. What feeling does it give you?",
+      "emotion": "Is this a restful room or a busy one? Show us what tells you.",
+      "observation": "List five things you see in the room.",
+      "analysis": "How does Van Gogh help you see the bed as the main thing?",
+      "line": "Which lines are straight and which look a little crooked?",
+      "shape": "How do the shapes of the bed, the chairs, and the table fit together?",
+      "color": "Which two colors stand out the most when you see them side by side?",
+      "texture": "How can you tell the wood floor from the walls by how the paint looks?",
+      "space": "How do the tilted walls and floor change how big the room feels?",
+      "light": "Is the room bright or dim? How can you tell?",
+      "meaning": "Why would an artist paint his own bedroom?",
+      "culture": "Van Gogh wanted this room to feel restful. Which parts help it feel that way?",
+      "technique": "Why might Van Gogh use bold, flat colors in a small room?",
+      "personal": "What things in your room tell people who you are?",
+      "critical": "Does a room have to look real to feel real? Explain."
+    },
+    "g35": {
+      "daily": "What objects in the room tell you something about the person who lives here? What do they leave out?",
+      "emotion": "What feeling does the small room give you, and which colors and shapes cause it?",
+      "observation": "Look slowly around the walls. What small details, like pictures or a mirror, did you notice last?",
+      "analysis": "How does Van Gogh arrange the bed, chairs, and table to fill the small space?",
+      "line": "How do the thick outlines around the furniture affect the way it looks?",
+      "shape": "How do the boxy shapes of the bed and the table compare with the shapes of the chairs?",
+      "color": "How do the blue walls, red bed cover, and yellow furniture work together?",
+      "texture": "How does the flat paint make the room look different from a photograph?",
+      "space": "How does the tilted floor change your idea of where you stand in the room?",
+      "light": "How does the soft light make the room feel calm?",
+      "meaning": "Van Gogh said he wanted this painting to show rest. Which choices help show that?",
+      "culture": "What can this room tell you about how an artist lived in southern France in 1889?",
+      "technique": "Why might Van Gogh paint this room three times?",
+      "personal": "How would you paint a room so it looks calm?",
+      "critical": "Is a plain bedroom a good subject for a painting? Explain."
+    },
+    "g68": {
+      "daily": "How do the furniture and decorations suggest a person's life, and what is unknown?",
+      "emotion": "What mood do the cool walls and warm bed create, and how would different colors change it?",
+      "observation": "Describe the bed, chairs, and walls in order. Which detail makes the room feel unusual?",
+      "analysis": "How does the arrangement of furniture lead your eye from the door to the window?",
+      "line": "How do the dark outlines separate objects and flatten the picture?",
+      "shape": "How do the geometric shapes of furniture create a pattern across the room?",
+      "color": "How does Van Gogh use colors close to opposites, like red and green, for emphasis?",
+      "texture": "How does flat color and little shading change the room's realism?",
+      "space": "How does the tilted perspective make the room feel close and slightly unstable?",
+      "light": "How does light show up without strong shadows?",
+      "meaning": "Van Gogh wrote about wanting the painting to suggest rest. How might his words change how you look?",
+      "culture": "How does painting a personal room differ from painting a landscape?",
+      "technique": "How was Van Gogh's approach different from realistic paintings of rooms in his time?",
+      "personal": "What would you change to make the room feel less calm or more calm?",
+      "critical": "Is a room in a painting more like a portrait of a person or a picture of a place?"
+    },
+    "g910": {
+      "daily": "How do the everyday objects function as a self-portrait in absence of the artist?",
+      "emotion": "How do the colors and distorted perspective create a mood of simplicity, and could they also unsettle?",
+      "observation": "Examine the placement of furniture along the walls. What does the arrangement suggest about the room's use?",
+      "analysis": "Analyze how the diagonal of the bed and floor structure the composition.",
+      "line": "How do contour lines function in a painting that rejects shading?",
+      "shape": "How do simple, boxy forms create a sense of order and stability?",
+      "color": "Evaluate how complementary color pairings generate energy in a small room.",
+      "texture": "How does the flat application of paint reflect Van Gogh's interest in Japanese prints?",
+      "space": "How does the unconventional perspective shift the room from an illusion to a designed surface?",
+      "light": "How does the lack of cast shadow affect the mood?",
+      "meaning": "How might biography shape our reading of the room as a refuge, and why should we be careful?",
+      "culture": "How do the three versions change the way you think about this one?",
+      "technique": "How does the painting extend Impressionism while rejecting its emphasis on fleeting light?",
+      "personal": "How does the room look to you if you set aside what you know about Van Gogh's life?",
+      "critical": "What does the painting's fame add to or take away from fresh looking?"
+    },
+    "g1112": {
+      "daily": "How does the room function as a site of self-representation, and what does the absence of the figure imply?",
+      "emotion": "To what degree does the flat, saturated palette produce rest, and how might the same features produce unease?",
+      "observation": "Examine how the arrangement and tilted perspective construct the room as a designed picture rather than a measured space.",
+      "analysis": "Analyze how the diagonals of furniture and floor operate as an expressive armature.",
+      "line": "How does contour operate as a structural and decorative device in his Arles work?",
+      "shape": "How do the repeated rectangles of bed, doors, and pictures create a stable but unsettled order?",
+      "color": "Assess the role of simultaneous contrast in the painting's luminous and slightly artificial effect.",
+      "texture": "How does the use of Japanese print conventions inform the flattened planes and outlines?",
+      "space": "How does the perspective challenge Renaissance conventions and what does it propose instead?",
+      "light": "How is light implied through color, and what is lost or gained in the absence of cast shadow?",
+      "meaning": "How should critics weigh Van Gogh's letters against the visual evidence of the three versions?",
+      "culture": "How do variations among the versions alter what each can tell us about his intentions?",
+      "technique": "How does the painting stand relative to Post-Impressionist and later expressionist uses of color?",
+      "personal": "How does the cultural mythology around Van Gogh influence the way viewers read a simple room?",
+      "critical": "What would it mean to interpret the painting as a statement about painting rather than about the artist?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (interiors, bedrooms, beds, chair, doors, mirror, pitcher, basin, table, window, blue, green, red) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1889 by Vincent van Gogh, in oil on canvas. This is the second of three versions of his bedroom in the Yellow House in Arles, made while he was staying in Saint-Rémy. The record lists interiors, a bed, chair, window, doors, mirror, pitcher and basin. Avoid speculating about his mental health.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "perspective",
+      "contour",
+      "complementary colors",
+      "interior",
+      "version"
+    ],
+    "directions": [
+      "Have students draw their own room using flat color and no shading, and tilt the floor on purpose.",
+      "Ask students to compare the painting with a photograph of a bedroom and list what changes.",
+      "Discuss how an artist can make a room feel restful without people in it."
+    ]
+  }
+}

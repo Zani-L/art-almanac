@@ -1,0 +1,151 @@
+{
+  "id": "met-50234",
+  "day": "03-21",
+  "title": "Bowl",
+  "artist": "Artist unknown",
+  "date": "12th–13th century",
+  "medium": "Porcelaneous ware with relief decoration under celadon glaze (Longquan ware)",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/34_113_8_O.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/34_113_8_O.jpg",
+    "credit": "The Metropolitan Museum of Art, Fletcher Fund, 1934",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A shallow bowl covered in a soft, glassy gray-green glaze. Raised fish decoration in low relief shows through the glaze, which looks deeper in color where it gathers in the hollows.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/50234",
+    "objectId": "50234",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Southern Song dynasty, 1127–1279), creditLine, classification (Ceramics), tags (Fish), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This bowl was made in China during the Southern Song dynasty (1127-1279) and is classed as Longquan ware, a celadon (gray-green glazed) ceramic named for the Longquan area. The Met's record notes relief decoration under the glaze and tags the object Fish. Celadon glazes were admired for their color, which some compared to jade.",
+  "descriptions": {
+    "k": "This is a bowl with a soft green glaze. Under the glaze are fish shapes that rise up a little bit. Run your eyes over the smooth green. Can you find the fish?",
+    "g12": "This bowl was made in China over 800 years ago. Its glaze is a gentle gray-green, a color called celadon. Fish are shaped in the clay so they rise a little from the surface. The glaze is thicker in some places, so the color looks deeper. Can you find where?",
+    "g35": "This bowl is Longquan ware from the Southern Song dynasty in China. Its celadon glaze is a soft gray-green that some people compared to jade. The potter added fish shapes in relief, which means they are raised from the surface. The glaze gathers around the shapes and changes the color. How does the glaze help you see the fish? Why might people have liked fish as a design?",
+    "g68": "Longquan potters of the 12th and 13th centuries became famous for celadon wares with thick, glassy glazes in soft greens. This bowl has relief decoration, meaning the clay itself was shaped to form fish, which the glaze then covers and softens. The glaze pools in hollows and thins over raised edges, so color and form work together. Fish were popular in Chinese art, and some viewers connect them with abundance. How does the potter make a calm, simple design feel rich?",
+    "g910": "This Southern Song Longquan bowl shows how restraint can be a design strategy. Instead of painted color, the decoration is molded or carved in relief and then veiled by a translucent celadon glaze, so light and shadow reveal the fish. The glaze deepens in recessed areas and lightens on raised edges, giving subtle tonal variation. Fish appear often in Chinese art and are sometimes linked with abundance through wordplay, though readings depend on context. Consider how the object balances function, subtlety, and decoration.",
+    "g1112": "Longquan celadon of the Southern Song period is often discussed in terms of material refinement: a thick, translucent glaze that suggests depth without added pigment. In this bowl, the relief fish are perceptible mostly through the way the glaze gathers and thins, so the image emerges from light as much as from line. Fish motifs have been associated with prosperity through linguistic puns, but such meanings can shift across context and audience. How do surface, form, and potential symbolism interact in an object that seems intentionally understated?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the fish hiding under the green glaze of this bowl? Show me where they are.",
+      "emotion": "Does this bowl look calm or noisy? What in the picture makes you say that?",
+      "observation": "Look at the soft green bowl. What shapes can you find in the fish?",
+      "analysis": "Which part of the bowl do you look at first, the fish or the edge? Why?",
+      "line": "The fish shapes have curvy lines. Trace one in the air. Where does it turn?",
+      "shape": "Can you find a round shape in the bowl? What shapes do the fish make?",
+      "color": "The bowl is a soft green-gray. What does that color remind you of?",
+      "texture": "The fish are raised a little bit under the shiny glaze. How might they feel if you touched the bowl?",
+      "space": "The bowl is open like a little pond. What could you put in this bowl?",
+      "light": "Where is the glaze lighter, and where is it darker around the fish?",
+      "meaning": "Fish swim in water. What might the fish in this bowl be doing?",
+      "culture": "People in China long ago made green bowls like this to use. What do you use bowls for?",
+      "technique": "Before it was baked, a potter shaped the fish into the clay. Why might the fish look soft under the glaze?",
+      "personal": "If you could put a picture of any animal inside a bowl, which animal would you choose?",
+      "critical": "Why do you think the potter used only one soft color on this bowl?"
+    },
+    "g12": {
+      "daily": "How does the glaze help you see the fish in this bowl even though there is only one color?",
+      "emotion": "What feeling does the soft green of this bowl give you? Which part makes you feel that way?",
+      "observation": "Describe the fish and the bowl. What details can you find in the raised decoration?",
+      "analysis": "How are the fish placed in the bowl so they fit the round shape?",
+      "line": "Follow the outline of a fish with your eyes. Which lines are curved, and which are straight?",
+      "shape": "The bowl is round and the fish are curved. How do the shapes go together?",
+      "color": "The glaze is a pale gray-green called celadon. Where does the color look deeper or lighter?",
+      "texture": "The bowl looks smooth and glassy, but the fish are raised. How might your fingers feel the difference?",
+      "space": "The fish are on the inside of a bowl that curves. How does the curve change how we look at them?",
+      "light": "Light makes shadows around the raised fish. Where do you see shadows or soft glow?",
+      "meaning": "Fish often stand for good things like plenty. Why might someone like a fish on their bowl?",
+      "culture": "Longquan potters made celadon bowls in China more than 800 years ago. What does this bowl tell you about how they cared for beauty?",
+      "technique": "The potter made the fish raise up from the clay and then covered them with glaze. How does that make the fish look different from painted fish?",
+      "personal": "What is a favorite bowl or cup you use? What do you like about how it looks?",
+      "critical": "Is this bowl plain or fancy? Use what you see to explain your answer."
+    },
+    "g35": {
+      "daily": "How does the celadon glaze make the raised fish visible without any painted color? Explain what you see.",
+      "emotion": "What mood does the soft green glaze give this bowl, and how do the fish add to it?",
+      "observation": "Study the bowl for one minute. Which small changes in the glaze do you notice around the fish?",
+      "analysis": "How did the potter arrange the fish within the round shape of the bowl?",
+      "line": "How do the curving lines of the fish compare with the smooth curve of the bowl's rim?",
+      "shape": "How do the shapes of the fish fit into the rounded space of the bowl?",
+      "color": "Celadon is a gray-green glaze. How does it vary from place to place on the bowl, and what causes that change?",
+      "texture": "How might the smooth glaze and the raised fish create different feelings when touched? What clues do you see?",
+      "space": "The bowl is a hollow shape with fish inside it. How does that change the way the fish look?",
+      "light": "How does the glaze pool near the fish and affect light and shadow?",
+      "meaning": "Fish appear often in Chinese art and are sometimes linked with abundance. What other meanings might a fish have in a bowl?",
+      "culture": "What does a carefully made celadon bowl tell you about daily life and taste during the Southern Song dynasty?",
+      "technique": "Relief decoration means shaping the clay itself. How is that different from painting a design on a flat bowl?",
+      "personal": "What simple design would you choose to decorate something you use every day, and why?",
+      "critical": "Is a simple, one-color bowl less impressive than a very colorful one? Give evidence from this bowl."
+    },
+    "g68": {
+      "daily": "How does this Longquan bowl turn a single glaze color into a rich, layered surface?",
+      "emotion": "What atmosphere does the celadon glaze create, and how do the raised fish contribute to it?",
+      "observation": "Look closely at how the glaze behaves around the relief fish. What differences can you spot between raised and recessed areas?",
+      "analysis": "How does the arrangement of the fish help to unify the inside of the bowl as one composition?",
+      "line": "How do the flowing lines of the fish echo or contrast with the curved profile of the bowl?",
+      "shape": "How do the fish forms rely on the bowl's round shape to feel balanced?",
+      "color": "How does varying glaze thickness produce changes in the green, and why does this matter without painted color?",
+      "texture": "Relief fish lie under a smooth, glassy glaze. How does this combination affect how the bowl would feel and look?",
+      "space": "How does the bowl's hollow form create a sense of inside and outside, and how do the fish use that space?",
+      "light": "How does light travel through and over the translucent glaze, and how does it reveal the relief?",
+      "meaning": "Fish may suggest abundance through wordplay in Chinese. How might that idea apply here, and what other meanings could there be?",
+      "culture": "Why might Southern Song viewers have admired subtle, jade-like glazes more than strong painted decoration?",
+      "technique": "How does relief decoration under celadon glaze rely on the potter's control of both clay and firing?",
+      "personal": "Which everyday objects around you are beautiful because of quiet design? Why do they appeal to you?",
+      "critical": "Can an object be both useful and a work of art? Use the bowl to argue your point."
+    },
+    "g910": {
+      "daily": "How does the bowl achieve visual interest through tonal subtlety rather than color contrast?",
+      "emotion": "How does the restrained palette of the celadon glaze shape the emotional tone of the bowl?",
+      "observation": "Describe the hierarchy of visual attention in the bowl: how do relief, glaze, and shape compete or cooperate?",
+      "analysis": "Analyze how the relief fish are integrated with the curved geometry of the bowl.",
+      "line": "How do the linear qualities of the fish shapes, softened by glaze, differ from drawn or painted line?",
+      "shape": "How does the interplay of curved fish forms and circular vessel enhance the sense of harmony?",
+      "color": "How does the gradation of green across thin and thick areas of glaze create depth without additional colors?",
+      "texture": "How does the tension between the smooth glaze surface and the underlying relief structure the viewer's sense of touch?",
+      "space": "How does the concave form of the bowl shape our experience of the fish as if they were in a contained space?",
+      "light": "How does the translucency of the glaze make the relief decoration depend on light conditions?",
+      "meaning": "What are the possibilities and limits of reading the fish as symbols of abundance or other values?",
+      "culture": "How does the Longquan celadon aesthetic reflect Southern Song tastes for refinement and understatement?",
+      "technique": "What does the combination of relief decoration and thick glaze reveal about the technical control required in Longquan kilns?",
+      "personal": "How does your own preference for plain or decorated objects shape your appreciation of this bowl?",
+      "critical": "How might modern museum lighting alter our interpretation of a glaze designed for use in daily life?"
+    },
+    "g1112": {
+      "daily": "How does an object so reliant on subtle glaze effects challenge our habit of looking first for image or color?",
+      "emotion": "How does the quiet, jade-like surface of the celadon glaze evoke emotion without narrative or bright contrast?",
+      "observation": "Describe this bowl with precision. At what point do words like \"serene\" or \"refined\" become interpretation rather than description?",
+      "analysis": "Analyze how the relief fish, the glaze, and the bowl's shape interlock to produce a single aesthetic effect.",
+      "line": "How does the softening of crisp relief under glaze alter the conventional relationship between line and form?",
+      "shape": "How does the dialogue between figure (the fish) and vessel (the bowl) create unity, and how might that reflect broader design principles?",
+      "color": "How does celadon's variable depth complicate the idea of color as a fixed property, and how does this affect photographs of the bowl?",
+      "texture": "In what ways does the bowl invite imagined touch, and what do we lose when handling is not possible in a museum?",
+      "space": "How does the bowl's concavity position the viewer looking down into the fish, and how does that contrast with fish seen on a flat image?",
+      "light": "How does the glaze's translucence turn light into a medium of decoration, and what does that suggest about the maker's intentions?",
+      "meaning": "Fish may be linked with prosperity through homophones, but how might context such as a bowl for use rather than display shape that meaning?",
+      "culture": "How does Longquan celadon's later global reach affect the way we situate this bowl within Southern Song culture?",
+      "technique": "What does the interplay of relief molding and glaze flow suggest about workshop production versus individual skill?",
+      "personal": "How does your own relationship to everyday objects affect the way you value a bowl designed for use in the 12th or 13th century?",
+      "critical": "What are the dangers of describing historical ceramics as quiet or simple when we cannot know how their original users saw them?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Bowl), classification (Ceramics), medium (Longquan celadon with relief decoration), and tags (Fish) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Southern Song (1127-1279) Longquan celadon bowl with relief decoration; the Met's record tags it Fish. The exact placement and number of fish should be confirmed from the image.",
+    "vocabulary": ["celadon", "Longquan ware", "relief", "glaze", "Southern Song dynasty", "porcelaneous"],
+    "directions": [
+      "Have students press a coin or shape into modeling clay to create relief, then trace it with a pencil to see how shadow shows form.",
+      "Compare celadon with a painted blue-and-white piece from this archive and discuss which decoration draws them in more.",
+      "Discuss symbols: invite students to share animals that stand for good wishes in their own families or cultures."
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "met-200027",
+  "day": "05-21",
+  "title": "Chessmen (32)",
+  "artist": "Artist unknown",
+  "date": "19th century",
+  "medium": "Ivory",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36841-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/DP-36841-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Gustavus A. Pfeiffer, 1948",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A full set of carved ivory chess pieces arranged for display against a plain background, with taller pieces such as kings and smaller pawns.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/200027",
+    "objectId": "200027",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, dimensions, credit line, classification (Chess Sets), objectName, tags (Chess, Games), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A set of 32 carved ivory chess pieces from the 19th century. The Met's record gives the height of each king as 4 1/2 inches (11.4 cm) and each pawn as 2 1/8 inches (5.4 cm), but does not name the maker or place of origin.",
+  "descriptions": {
+    "k": "This is a whole chess set made of ivory. There are 32 little pieces, big and small. The tallest ones are the kings. The smallest are the pawns. Which piece do you like best? Why?",
+    "g12": "A chess set has 32 pieces, and this one was carved from ivory in the 1800s. The kings are the tallest, about 11 centimeters high. The pawns are about half as tall. Look at the different sizes. How can you tell which pieces are the most important?",
+    "g35": "This chess set was carved from ivory in the 19th century. It has 32 pieces, 16 for each player. The kings stand about 11.4 centimeters tall, while the pawns are only about 5.4 centimeters. Chess pieces are designed so players can tell them apart quickly. How did the carver make each kind of piece look different from the others?",
+    "g68": "Chess sets are a design challenge: the carver must make six kinds of piece clearly different, at a size that players can handle. In this ivory set, each king stands about 11.4 centimeters and each pawn about 5.4 centimeters, so height already signals rank. The Met does not name the maker or place, but the set shows careful, repeated craft. How does variety within a family of pieces help a game work?",
+    "g910": "This 19th-century ivory chess set combines function and sculpture. Players need pieces that are easy to read at a glance, so the design uses height, silhouette, and carved details to sort kings from pawns. The record notes the kings are 11.4 centimeters tall and the pawns 5.4 centimeters, a clear hierarchy. Consider how a set of 32 objects can feel unified yet varied, and what the lack of a recorded maker means for interpretation.",
+    "g1112": "A chess set is a family of forms designed to be identified, moved, and compared, so its sculptural logic is inseparable from its game logic. This ivory set, from the 19th century, uses scale to express hierarchy, but the Met's record names neither maker nor origin, so claims about style or tradition should be tentative. Ivory also raises historical and ethical questions about materials and trade. How do function, craftsmanship, and material history shape how we value such sets today?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Pretend the chess pieces come alive. Which piece would you be, and what would you do?",
+      "emotion": "Do the chess pieces look quiet, proud, or playful to you? Show us why.",
+      "observation": "Find the tallest pieces and the smallest pieces. How are they different?",
+      "analysis": "Which piece do your eyes go to first? What makes it stand out?",
+      "line": "Trace the shape of one tall piece in the air. Does it go up straight or does it curve?",
+      "shape": "Which pieces look like round balls on top, and which look like towers?",
+      "color": "Most of the pieces look pale and creamy. What other things are the same color?",
+      "texture": "The pieces are carved and smooth. What would it feel like to hold a pawn?",
+      "space": "If you lined up the pieces from tallest to smallest, who would be first and last?",
+      "light": "Where does the light make the pieces look bright, and where does it make soft shadows?",
+      "meaning": "Why do you think the game pieces have different sizes?",
+      "culture": "People play chess in many places. What games do you play with pieces or cards?",
+      "technique": "Someone carved all 32 pieces by hand from ivory. How long do you think that took?",
+      "personal": "Which game do you like to play with a friend or family member? Tell about it.",
+      "critical": "Does a game set need to be beautiful to be fun? Tell why or why not."
+    },
+    "g12": {
+      "daily": "Which one piece in this set would you pick up first, and what makes you choose it?",
+      "emotion": "How does a whole set of matching pieces make you feel, calm or excited?",
+      "observation": "Describe how the tall kings and the small pawns are different. Use size and shape.",
+      "analysis": "How does the carver help you tell one kind of piece from another at a glance?",
+      "line": "Look at the tops of the pieces. Which ones have pointed lines and which have rounded lines?",
+      "shape": "Find a piece with a wide base and a narrow top. Why might that help it stand?",
+      "color": "The ivory looks soft and pale. How does that make the set feel quiet or important?",
+      "texture": "Ivory can be carved smooth. Which parts look smooth and which look carved?",
+      "space": "The kings are about twice as tall as the pawns. What does the height tell you about each piece?",
+      "light": "Look at the shadows between the pieces. Where do they fall and why?",
+      "meaning": "A king is the most important chess piece. How do you know a piece is a king just by looking?",
+      "culture": "Chess has been played in many countries for a very long time. What might a beautiful set tell us about how much people loved the game?",
+      "technique": "Ivory pieces were carved from solid blocks, not poured or molded. Why is it hard to make 32 that match?",
+      "personal": "What game pieces or toys do you have that you keep safe? Tell about them.",
+      "critical": "Should the pieces in a game look alike, or should each one be very different? Give a reason."
+    },
+    "g35": {
+      "daily": "If you could examine this chess set for ten minutes, what details of the pieces would you study first and why?",
+      "emotion": "What feeling does a full chess set, ready for a game, create? Which parts of the picture add to that feeling?",
+      "observation": "Look carefully at the group. What differences can you find between pieces that are meant to be the same kind?",
+      "analysis": "How does the set use height to show which pieces are more important?",
+      "line": "How do the straight sides and curved tops of the pieces work together to make each shape?",
+      "shape": "Chess pieces are often a mix of towers, rounds, and points. Which shapes do you see repeating across the set?",
+      "color": "The pieces are one pale material. How does the carver separate different pieces without using color?",
+      "texture": "Ivory takes fine detail but can feel very smooth. What kind of detail do you see in the carving?",
+      "space": "The set is arranged for display. How does the way the pieces stand together change how we see each one?",
+      "light": "How does light help you see the carved shapes of the pieces?",
+      "meaning": "Why might chess pieces be designed to look like a king or a castle instead of simple blocks?",
+      "culture": "The Met does not say who made this set. Why might it still be valuable to study it?",
+      "technique": "The kings are 11.4 centimeters tall and the pawns 5.4 centimeters. Why would a maker need to plan these sizes in advance?",
+      "personal": "Think of a game you know well. What pieces or parts does it have, and how do you tell them apart?",
+      "critical": "Is a chess set better for playing or for display? What evidence from the picture supports your view?"
+    },
+    "g68": {
+      "daily": "How does this set turn a set of game pieces into a collection of small sculptures?",
+      "emotion": "How does the ordered group of pieces create a feeling of calm, discipline, or anticipation?",
+      "observation": "List the different types of pieces you can find. Which details help you tell them apart?",
+      "analysis": "How does the carver balance variety and sameness across 32 pieces?",
+      "line": "How do vertical lines and rounded tops give the pieces a sense of reaching upward?",
+      "shape": "How do bold silhouettes help players identify pieces quickly across a board?",
+      "color": "With one pale material, how does the designer separate the two sides, or does the picture show how?",
+      "texture": "How might the smoothness of carved ivory affect the way players handle the pieces?",
+      "space": "The pieces will sit on a board. How might their spacing and scale affect how a game looks during play?",
+      "light": "How does ivory's soft glow differ from the shine of metal pieces?",
+      "meaning": "What message does a taller king communicate about hierarchy in the game?",
+      "culture": "Chess is played worldwide, and different places have different piece styles. Why is it hard to say where this set is from without more information?",
+      "technique": "How could a craftsperson make so many matching pieces from a natural material with irregular shapes?",
+      "personal": "What does a beautiful object do to the way you treat it in play or daily use?",
+      "critical": "Ivory was widely used in the past but is a sensitive material today. How might museums discuss this history?"
+    },
+    "g910": {
+      "daily": "How does the design of this chess set communicate rules, rank, and beauty at the same time?",
+      "emotion": "How does the controlled uniformity of the set create tension before play?",
+      "observation": "Describe the set's hierarchy of height, mass, and silhouette. What does the eye read first?",
+      "analysis": "How does the set achieve both unity and differentiation across its 32 pieces?",
+      "line": "How do the pieces' vertical axes and crowning profiles create an ordered rhythm when grouped together?",
+      "shape": "How does the contrast between the broad bases and ornamented tops establish stability and identity?",
+      "color": "In a monochrome material like ivory, how does form take on the work that color does in other media?",
+      "texture": "How might the finish of the ivory balance tactile pleasure with the need for pieces to be handled?",
+      "space": "How does the display of the pieces in a group reveal relationships that individual pieces would not?",
+      "light": "How does the translucent quality of ivory affect how light plays on carved details?",
+      "meaning": "How might the figures in a chess set represent social order, and why should we avoid assuming a single meaning?",
+      "culture": "What can we responsibly say about this set's origin when the Met names no maker or place, and what might we ask next?",
+      "technique": "What does the consistent scale of the pieces suggest about design planning and the techniques used for carving?",
+      "personal": "How does the aesthetic of a game set influence how seriously you take the game?",
+      "critical": "What are the ethical considerations of displaying objects made from ivory, and how might a museum frame them?"
+    },
+    "g1112": {
+      "daily": "What claims about use, value, or meaning can the set itself support, and what remains uncertain because of missing records?",
+      "emotion": "How does the idea of a game as structured conflict shape the emotional tone of a set designed to be beautiful?",
+      "observation": "Describe the set with precision, noting where scale and silhouette create hierarchy. Where does description begin to interpret?",
+      "analysis": "Analyze how the set resolves competing demands of legibility, uniformity, and aesthetic appeal.",
+      "line": "How does the profile of each piece balance function with ornament, and how does that vary among types?",
+      "shape": "How does the silhouette of each piece form a visual vocabulary for the game, comparable to a typeface?",
+      "color": "How might the apparent chromatic restraint of the set affect how the two sides of the game are distinguished and perceived?",
+      "texture": "How do ivory's material qualities, such as density, grain, and polish, influence the carved forms and their tactile appeal?",
+      "space": "How does the set mediate between the abstract space of a board and the concrete presence of the pieces?",
+      "light": "How does an object designed to be handled and lit by lamp or window change in a gallery photograph?",
+      "meaning": "How do chess pieces embody social hierarchies, and to what extent are those meanings contingent on culture and period?",
+      "culture": "How does the global history of chess complicate attempts to attach a cultural label to this set?",
+      "technique": "What does the consistency of the set tell us about workshop practice, and what questions remain about the carver's identity?",
+      "personal": "How might your own experience of games affect your sense of whether this set is art, tool, or both?",
+      "critical": "How should institutions that hold ivory objects balance appreciation of craftsmanship with the material's history in trade and conservation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Chess Sets), objectName (Chessmen), medium (ivory), and tags (Chess, Games) checked against the museum record: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century ivory chess set of 32 pieces. The record gives heights for kings and pawns but names no maker or place. Ivory is a sensitive material today; teachers may wish to briefly discuss why it is no longer widely used.",
+    "vocabulary": [
+      "silhouette",
+      "hierarchy",
+      "ivory",
+      "carving",
+      "scale",
+      "set"
+    ],
+    "directions": [
+      "Ask students to sketch and design their own chess pieces so that each type is easy to identify from its outline.",
+      "Discuss how size and shape communicate rank without words.",
+      "Invite students to talk about games from their families or cultures and how the pieces are designed."
+    ]
+  }
+}

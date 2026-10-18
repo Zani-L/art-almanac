@@ -1,0 +1,158 @@
+{
+  "id": "met-670983",
+  "day": "08-10",
+  "title": "Amusements in Kyoto in the Four Seasons",
+  "artist": "Maruyama Ōkyo",
+  "date": "late 1770s–early 1780s",
+  "medium": "Handscroll; ink on paper",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/2015_300_199_D1_Burke.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/2015_300_199_D1_Burke.jpg",
+    "credit": "The Metropolitan Museum of Art, Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "Part of a long Japanese handscroll painted in ink on paper, showing a busy street scene with crowds of people and a bridge.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/670983",
+    "objectId": "670983",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A handscroll in ink on paper by Maruyama Ōkyo, made in Japan in the late 1770s to early 1780s. Its title says it shows amusements in Kyoto through the four seasons, and the museum's record tags it with a bridge, a crowd, and a street scene. Ōkyo is known for painting with close observation of the world.",
+  "descriptions": {
+    "k": "This is a very long picture that rolls up like a scroll. It shows lots of little people in a busy city. There is a bridge too. Where are people gathering? What do you think they are having fun doing?",
+    "g12": "Maruyama Ōkyo painted this long scroll in Japan. It shows people having fun in the city of Kyoto during different seasons. You look at a scroll a little bit at a time as you unroll it. Can you find a bridge and a crowd? What are the people in the crowd doing?",
+    "g35": "A handscroll is a long painting that is unrolled slowly, a little at a time, so each viewer sees only one section. Maruyama Ōkyo painted this one in Japan in the late 1700s, using ink on paper. Its title says it shows amusements in Kyoto in the four seasons, with crowds, a bridge, and street scenes. Look for small figures. What is happening in each part? How does a scroll tell a story over time?",
+    "g68": "Ōkyo, who worked in Kyoto, was known for careful observation of what he saw. This ink handscroll from the late 1770s or early 1780s shows people enjoying seasonal amusements in Kyoto, with crowds, a bridge, and street life. A handscroll is viewed section by section, so the story unfolds over time rather than all at once. How does the artist group the people to show movement or activity? What can the scene tell us about daily life in a city?",
+    "g910": "Ōkyo, a leading Kyoto artist of the 18th century, was admired for naturalistic observation, and this handscroll applies that approach to urban leisure. Painted in ink on paper, it moves through the seasons and shows crowds, a bridge, and street scenes in sequence. Its format shapes the experience: the viewer controls the pace, revealing a few arm-lengths at a time. Consider how the artist uses grouping, gesture, and empty space to hold a large cast of tiny figures together.",
+    "g1112": "Amusements in Kyoto in the Four Seasons combines Ōkyo's reputation for naturalistic observation with the handscroll's temporal logic, in which images unfold sequentially as the viewer unrolls them. Scenes of crowds, a bridge, and street life offer a view of leisure in 18th-century Kyoto, though like any depiction it is selective and shaped by artistic convention. Ink alone, without strong color, places weight on line, tone, and gesture. How should we balance the work as social record and as constructed image?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the people in this busy city are having fun doing?",
+      "emotion": "Does this city feel busy, quiet, or friendly to you? What do you see that tells you?",
+      "observation": "What can you find in this scroll? Point to a bridge and some people.",
+      "analysis": "Where do your eyes go first? What made you look there?",
+      "line": "Can you find a long line, like the bridge or a street? Trace it in the air.",
+      "shape": "What shapes do the buildings and people make?",
+      "color": "This picture is made with ink. What colors do you see, and what do they feel like?",
+      "texture": "How do you think the paper would feel if you rolled and unrolled it?",
+      "space": "Which people are close to you, and which seem far away?",
+      "light": "Does it look like day or night here? What tells you?",
+      "meaning": "Make up a story about one person you see in the crowd.",
+      "culture": "This city is Kyoto in Japan. What do you like to do in a busy place with other people?",
+      "technique": "This was painted with ink and a brush. Why might ink be good for drawing lots of little people?",
+      "personal": "If you could join this scene, where would you go first?",
+      "critical": "There are many tiny people. What new thing do you see when you look slowly?"
+    },
+    "g12": {
+      "daily": "What do you think is happening in this busy city scene? Use clues you see.",
+      "emotion": "What feeling do you get from this crowded picture? Which parts help?",
+      "observation": "Describe five things you see in the scroll, from people to places.",
+      "analysis": "How does the artist guide your eyes along the scroll?",
+      "line": "Find lines that make bridges or streets. How do they help you travel through the picture?",
+      "shape": "What shapes do the crowds make? Are people packed together or spread out?",
+      "color": "The scroll is mostly ink. How do light and dark parts help you see things?",
+      "texture": "How does the artist make some things look soft and some look sharp with only ink?",
+      "space": "How can you tell which people are near and which are far?",
+      "light": "Where do you see bright, empty paper and where do you see dark ink?",
+      "meaning": "What do you think the people are celebrating or enjoying?",
+      "culture": "People in Kyoto enjoyed events across the year. What events do you enjoy in each season?",
+      "technique": "A scroll is unrolled a little at a time. How is that different from looking at a picture on a wall?",
+      "personal": "What is your favorite place to be with a crowd? Tell about it.",
+      "critical": "If you could add one more thing to the scroll, what would it be and why?"
+    },
+    "g35": {
+      "daily": "What moment or activity do you think the artist wants you to notice, and what details support your idea?",
+      "emotion": "What mood does the busy city have? Which choices by the artist create it?",
+      "observation": "Look closely for one minute. What small actions or details did you find that you missed at first?",
+      "analysis": "How does the artist arrange groups of people so your eyes can travel along the scroll?",
+      "line": "How do brush lines show movement, clothing, or buildings? Which parts look quick and which look careful?",
+      "shape": "How do the shapes of groups of people compare with the shape of a bridge or building?",
+      "color": "With only ink, how does the artist show differences between light and dark areas?",
+      "texture": "How does the artist suggest different surfaces, like wood, cloth, or water, with ink?",
+      "space": "How does the artist show that the scene stretches back into the distance?",
+      "light": "How does the artist use empty paper and dark ink to suggest light and shadow?",
+      "meaning": "The scroll shows the four seasons. Why might an artist show a city changing through the year?",
+      "culture": "This scroll shows people enjoying their city in the 1700s. What can it tell us about what people valued?",
+      "technique": "A handscroll is unrolled slowly. How might that change how the artist plans the picture?",
+      "personal": "Think of an event in your town. How would you paint it so that people could see all the action?",
+      "critical": "Is this scene a fully true record or an artist's choice? What evidence helps you decide?"
+    },
+    "g68": {
+      "daily": "How does Ōkyo use the handscroll format to tell about city life over the seasons?",
+      "emotion": "What energy or mood does the crowd convey, and which compositional choices create it?",
+      "observation": "Describe the scene from one end to the other. Which details show the most careful observation?",
+      "analysis": "How does the composition use groupings, gaps, and the bridge to organize a large crowd?",
+      "line": "How does brush line differ between figures, buildings, and background elements?",
+      "shape": "How do repeated small figures create rhythm and variety along the scroll?",
+      "color": "With ink alone, how does the artist vary tone to separate foreground from background?",
+      "texture": "How does the artist describe different materials using only ink?",
+      "space": "How does the artist suggest a deep city street in a long, narrow format?",
+      "light": "How does the scroll suggest light or atmosphere without strong shadows?",
+      "meaning": "What might a scroll about amusements in four seasons suggest about how people thought about time and leisure?",
+      "culture": "What does a scene of crowds, a bridge, and street life suggest about Kyoto at the time?",
+      "technique": "Ōkyo was known for painting from close observation. How might that show in the way figures move and interact?",
+      "personal": "What do you notice about your own town's crowds that a painter might capture?",
+      "critical": "How might an artist's choices differ from an unplanned photograph of the same city?"
+    },
+    "g910": {
+      "daily": "How do format, observation, and sequence combine to create a portrait of city life?",
+      "emotion": "How does the artist convey communal enjoyment through gesture and grouping rather than individual expression?",
+      "observation": "Describe the visual hierarchy. How do you find focal points in a long, continuous image?",
+      "analysis": "Analyze how the artist creates unity and variety across an extended scene.",
+      "line": "How does variation in brush line create distinctions among figures, architecture, and setting?",
+      "shape": "How do figure groups and architectural forms such as a bridge structure the pacing of the scroll?",
+      "color": "How does tonal range in monochrome ink substitute for color to create depth and emphasis?",
+      "texture": "How does ink handling suggest diverse materials and surfaces?",
+      "space": "How does the artist manage perspective and depth in a scene that unrolls horizontally?",
+      "light": "How do areas of untouched paper and washes of ink imply light and atmosphere?",
+      "meaning": "What does the seasonal framing suggest about the relationship between city life and nature's cycle?",
+      "culture": "How does the scroll reflect Kyoto's urban culture, and how does it differ from images of Edo?",
+      "technique": "How does the handscroll's reading experience, with the viewer controlling pace, shape composition?",
+      "personal": "How does your own experience of crowds shape the way you read this scene?",
+      "critical": "To what degree can a painting like this stand as evidence of daily life, and where are its limits?"
+    },
+    "g1112": {
+      "daily": "What can we responsibly infer from this scroll about leisure and urban life in 18th-century Kyoto, and what limits our inferences?",
+      "emotion": "How does the work evoke collective experience through numerous small figures, and what does that do to individual identity?",
+      "observation": "Describe the scroll's visual organization with precision. Where does description begin to interpret?",
+      "analysis": "Analyze how the handscroll sustains compositional coherence across its length.",
+      "line": "How does Ōkyo's brushwork reflect an interest in observed reality, and where does convention still shape the line?",
+      "shape": "How do figure clusters and architectural forms create rhythm across a sequential composition?",
+      "color": "How does the restriction to ink shape our reading of the scene, and how might paper age have altered tonal relationships?",
+      "texture": "How does ink suggest tactile variety, and what does that say about the painter's skill?",
+      "space": "How does the scroll's spatial logic differ from linear perspective, and how does it shape the viewer's position?",
+      "light": "How does the use of paper as light compare with Western techniques of modeling?",
+      "meaning": "Evaluate competing readings of the scroll as social record, seasonal celebration, or constructed ideal of city life. Which best fits the evidence?",
+      "culture": "How does Ōkyo's naturalism fit into Kyoto's art world and the broader market for images of leisure?",
+      "technique": "What does the handscroll format imply about private viewing and the intimacy between viewer and image?",
+      "personal": "How does your own context shape your sense of what a crowd scene means?",
+      "critical": "How should we weigh a depiction's artistry against its value as evidence about the past?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Bridges, Crowd, Street Scene) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A handscroll in ink on paper by Maruyama Ōkyo, late 1770s to early 1780s, showing seasonal amusements in Kyoto. Handscrolls are unrolled and viewed section by section.",
+    "vocabulary": [
+      "handscroll",
+      "Edo period",
+      "ink wash",
+      "naturalism",
+      "composition",
+      "Kyoto"
+    ],
+    "directions": [
+      "Have students make a paper-strip scroll that shows a place over four seasons and practice unrolling it slowly.",
+      "Ask pairs to describe one small section in detail and then guess what could come next.",
+      "Compare how scrolls, prints, and photographs show crowds differently."
+    ]
+  }
+}

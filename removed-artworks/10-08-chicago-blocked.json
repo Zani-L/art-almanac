@@ -1,0 +1,158 @@
+{
+  "id": "artic-27984",
+  "day": "10-08",
+  "title": "Woman before an Aquarium",
+  "artist": "Henri Matisse",
+  "date": "1921–23",
+  "medium": "Oil on canvas",
+  "movement": "Modernism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/d0e36029-27fc-bf4e-357a-55cfbaf7bdfd/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A painting of a woman seated at a brown table, her arms crossed in front of her, gazing at goldfish in a round fishbowl. The room has furniture and a patterned textile screen in muted tones, and pine cones can be seen.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/27984",
+    "objectId": "27984",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1869-1954), date, place of origin (France), medium, dimensions (81.2 x 100.2 cm), credit line, subject terms (furniture, fishbowls, aquariums, fish, women, textile pattern, pine cones, goldfish), description, thumbnail alt text, is_public_domain true and image_id read from the record"
+  },
+  "context": "Henri Matisse painted this in 1921-23, during the years he worked in Nice. The Art Institute notes that Matisse had studied Islamic art and visited Algeria and Morocco in the early 1900s, collecting pottery, textiles and tiles, and that he later worked elements such as a patterned textile screen into his paintings. The museum observes that the subdued pattern supports the contemplative mood of the interior.",
+  "descriptions": {
+    "k": "A woman rests her arms on a table. She looks at goldfish swimming in a bowl. The room has pretty patterns. Can you find the goldfish? Can you find the pine cones? What is the woman thinking?",
+    "g12": "A woman sits at a table and watches goldfish in a round bowl. Her arms rest on the table. The room is quiet and full of soft patterns. Look for the fish, the pine cones, and the patterned cloth. What would you do if you watched fish for a long time?",
+    "g35": "Henri Matisse painted this quiet scene between 1921 and 1923. A woman rests her arms on a table and watches goldfish in a bowl. The room has patterned cloth and furniture. Matisse had traveled to Algeria and Morocco and loved the patterns of tiles and textiles there. How do the patterns help make the room calm? What do you think holds the woman's attention?",
+    "g68": "Matisse painted Woman before an Aquarium in 1921-23. The museum explains that after visiting Algeria and Morocco and collecting pottery, textiles, and tiles, he brought elements like patterned textile screens into the paintings he made in Nice. Here the subdued pattern supports a contemplative mood as a woman gazes at goldfish. How do pattern and stillness work together? Why might Matisse make watching fish a subject worth painting?",
+    "g910": "In Woman before an Aquarium (1921-23), Matisse sets a contemplative figure among patterned textiles, furniture, and a goldfish bowl. The Art Institute connects the patterns to his study of Islamic art and his travels to Algeria and Morocco, and notes the subdued pattern supports the mood. The scene is quiet and ambiguous: is the woman watching, daydreaming, or resting? How do pattern, color, and stillness invite open-ended interpretation?",
+    "g1112": "Matisse's Nice-period interiors fold decorative pattern, drawn from his study of Islamic art and North African travels as the Art Institute notes, into scenes of quiet contemplation. In Woman before an Aquarium, a woman gazes at goldfish while a muted textile screen supports a hushed atmosphere. Interpretations range from reverie to Orientalist stage-setting to a meditation on looking itself. How do you weigh these readings, and how does the pattern shape what the figure and viewer seem to share?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the goldfish, the woman, and the pine cones. Where are they?",
+      "emotion": "Does the room feel calm or noisy? What do you see that tells you?",
+      "observation": "Which colors are in the room? Point to one that is soft and one that is bright.",
+      "analysis": "Where is the woman's face? Where are her arms?",
+      "line": "Find a pretty pattern. What lines or shapes make it?",
+      "shape": "The fishbowl is round. What other round shapes can you find?",
+      "color": "Where does the orange of the goldfish appear? Does it match anything else?",
+      "texture": "Imagine touching the table and the cloth. How would they feel?",
+      "space": "What is close to you and what is behind the woman?",
+      "light": "Where do you see the lightest part of the picture?",
+      "meaning": "What do you think the woman is thinking about as she watches the fish?",
+      "culture": "Some people watch fish to relax. What do you do to relax?",
+      "technique": "The painter used oil paint on canvas. How would you paint a shiny fishbowl?",
+      "personal": "If you had a pet fish, what would you name it?",
+      "critical": "What would you say to the woman?"
+    },
+    "g12": {
+      "daily": "Look at the woman and the fish. What do you notice about how she sits and what she looks at?",
+      "emotion": "How does the quiet room make you feel? Point to the part that gives you that feeling.",
+      "observation": "List what you see: furniture, the table, the fish, the plants, and anything else.",
+      "analysis": "How does the painter place the woman and the fishbowl so your eyes go back and forth?",
+      "line": "Find lines in the patterned cloth. How do they make the room look busy or calm?",
+      "shape": "How are the shapes in the patterns like the shape of the bowl?",
+      "color": "The goldfish are orange. How does that color stand out in the room?",
+      "texture": "Which parts of the painting look like soft cloth and which look hard like wood?",
+      "space": "How can you tell the woman is in front of the screen with the pattern?",
+      "light": "Where does the light seem to come from in the room?",
+      "meaning": "Why do you think the woman watches the fish so closely?",
+      "culture": "The painter loved patterns from faraway places. What patterns do you see in your home?",
+      "technique": "The patterns are painted flat. How does that make the room feel?",
+      "personal": "What quiet thing do you like to watch?",
+      "critical": "Why might a painter choose a quiet moment like this to paint?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this painting, and what choices by Matisse guide them?",
+      "emotion": "What mood does the room create? Use color, pattern, and the woman's pose as evidence.",
+      "observation": "Look slowly. What small detail, like the pine cones or the fish, did you notice late?",
+      "analysis": "How does Matisse arrange the woman, table, fishbowl, and patterned screen so the room feels balanced?",
+      "line": "How do the lines of the table, the screen, and the woman's arms guide the eye?",
+      "shape": "How do round shapes like the bowl and curved patterns contrast with straight lines of the furniture?",
+      "color": "Matisse uses subdued colors in the room and a bright spot for the fish. How does this affect where you look?",
+      "texture": "How do patterned textile areas feel different from the smooth table in the painting?",
+      "space": "How does the room feel shallow or deep? What helps you decide?",
+      "light": "How does soft light help create a quiet, thoughtful mood?",
+      "meaning": "What might the woman be thinking as she watches the fish? Use clues from her pose.",
+      "culture": "The museum says Matisse collected textiles and tiles from North Africa. How do you see their influence?",
+      "technique": "Matisse used pattern to decorate a calm scene. Why might pattern be useful to a painter?",
+      "personal": "Think of a time you stared at something for a long time. How is it like or unlike this moment?",
+      "critical": "Many people might read the painting in different ways. What details support your reading?"
+    },
+    "g68": {
+      "daily": "How does the woman's close gaze at the fish shape the mood and invite you to look closely too?",
+      "emotion": "How do muted colors and a small spot of bright orange create a quiet but alert atmosphere?",
+      "observation": "What can you see clearly about the woman, the fish, and the room, and what is only suggested? Separate evidence from guess.",
+      "analysis": "How does the arrangement of table, figure, and patterned screen create a stable composition?",
+      "line": "How do pattern lines and the edges of furniture work together to lead the eye?",
+      "shape": "How do curved forms like the bowl and the woman's rounded shapes relate to the angular furniture?",
+      "color": "How does the color of the goldfish stand out within a mostly subdued palette?",
+      "texture": "How does the contrast between pattern and flat color shape the surface of the painting?",
+      "space": "How does Matisse treat space, flatten it with pattern, yet still suggest a room?",
+      "light": "How does subtle light create a sense of stillness in the interior?",
+      "meaning": "What might the act of watching fish suggest about attention, rest, or reverie?",
+      "culture": "The museum says Matisse brought patterns he collected from travels into his paintings. What does that tell you about how artists use experience?",
+      "technique": "Why might Matisse use decorative pattern to support a contemplative mood rather than a dramatic one?",
+      "personal": "How does your own experience of quiet attention affect how you read this scene?",
+      "critical": "How would you decide whether the painting is more about the woman, the fish, or the pattern?"
+    },
+    "g910": {
+      "daily": "How do Matisse's choices about pattern, pose, and color shape your first interpretation of the woman's state of mind?",
+      "emotion": "How does the contrast between a quiet room and a bright accent of orange create a subtle emotional tension?",
+      "observation": "Analyze the visual hierarchy: how do the woman, the fishbowl, and the patterned screen compete for attention?",
+      "analysis": "How do the horizontals of the table and the verticals of the screen structure the composition?",
+      "line": "How do flowing contours in the figure interact with the geometric patterns of textiles?",
+      "shape": "How does pattern flatten the pictorial space while maintaining an interior setting?",
+      "color": "How does Matisse use limited, harmonious hues with one vivid accent to guide the viewer?",
+      "texture": "In what ways do the different surfaces, textile, table, and glass, contribute to a rich yet quiet surface?",
+      "space": "How does the shallow, tilted space of the table relate to Matisse's interest in decorative design?",
+      "light": "How does indirect, interior light support the contemplative mood the museum describes?",
+      "meaning": "How does the museum's reference to Islamic art and North African travel invite questions about cultural borrowing?",
+      "culture": "How might the figure's gaze at the fish be read as a metaphor for looking itself?",
+      "technique": "How does the painting's Nice-period setting differ from the earlier, more strident color of Matisse's Fauvist work?",
+      "personal": "How does your own experience of stillness and attention compare with the mood here?",
+      "critical": "To what extent can decorative pattern be a vehicle for emotion rather than mere ornament?"
+    },
+    "g1112": {
+      "daily": "What argument about attention, leisure, and looking can you build from this painting's formal evidence?",
+      "emotion": "How do the hush of the interior and the vivid goldfish complicate a single emotional reading?",
+      "observation": "Describe the painting precisely, then separate observation from the contextual claims about Matisse's travels.",
+      "analysis": "Analyze how the composition integrates figure, still-life elements, and ornament into a single decorative field.",
+      "line": "How do arabesque contours in the figure and the repeated lines of the pattern converse?",
+      "shape": "Consider how pattern both flattens and animates the space of the room.",
+      "color": "How does the muted palette with a single saturated accent create hierarchy without strong contrast of light and dark?",
+      "texture": "How do shifts between flat color, pattern, and thin paint affect the painting's surface?",
+      "space": "How does Matisse's compressed space engage with the legacy of Cézanne and decorative traditions?",
+      "light": "Discuss how diffused interior light produces a sense of suspended time.",
+      "meaning": "Evaluate readings of the painting as reverie, as Orientalist staging, or as a meditation on the act of looking, using the evidence of the image and the museum's context.",
+      "culture": "How should we think about Matisse's collecting of Islamic and North African objects within the history of European modernism?",
+      "technique": "How does the quiet of Matisse's Nice interiors invite debate about modern art's relationship to comfort and escape?",
+      "personal": "How do your own assumptions about leisure and gender shape your reading of the woman?",
+      "critical": "What further sources would help you judge how Matisse intended the interplay between pattern and figure?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (furniture, fishbowls, aquariums, fish, women, textile pattern, pine cones, goldfish), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1921-23 in the period when Matisse worked in Nice. The Art Institute notes his study of Islamic art and travel to Algeria and Morocco, where he collected pottery, textiles, and tiles, and says the subdued pattern supports the contemplative mood.",
+    "vocabulary": [
+      "Modernism",
+      "pattern",
+      "contemplative",
+      "interior",
+      "accent color",
+      "arabesque"
+    ],
+    "directions": [
+      "Have students draw a quiet interior and fill one area with a pattern, then discuss how pattern changes the mood.",
+      "Ask students to find the one bright accent in the painting and explain how it affects where they look.",
+      "Discuss how traveling and collecting objects from other places can influence an artist's work, and the respect that requires."
+    ]
+  }
+}

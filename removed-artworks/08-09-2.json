@@ -1,0 +1,159 @@
+{
+  "id": "cma-145940",
+  "day": "08-09",
+  "title": "Tapa Cloth",
+  "artist": "Artist unknown",
+  "date": "Before 1971",
+  "medium": "mulberry bark (Broussonetia papyrifera)",
+  "movement": "Tapa (bark cloth) tradition",
+  "region": "Fiji Islands, Melanesia",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1971.148/1971.148_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/1971.148/1971.148_print.jpg",
+    "credit": "The Cleveland Museum of Art, Gift of Dr. and Mrs. Thomas Munro",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A flat piece of tapa, a cloth made from beaten mulberry bark, from the Fiji Islands.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1971.148",
+    "objectId": "145940",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, culture (Oceania, Melanesia, Fiji Islands), date (before 1971), technique (mulberry bark, Broussonetia papyrifera), type (Textile), department (Textiles), credit line, accession number 1971.148, CC0 license status and web/print image URLs read from the record; the record has no description or maker, so text stays general",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "A tapa cloth from the Fiji Islands in Melanesia, made from mulberry bark (Broussonetia papyrifera) and dated by the Cleveland Museum of Art as before 1971. The record names no maker and gives no further description. Tapa is a bark cloth made in many Pacific islands; the museum record does not say how this piece was used.",
+  "descriptions": {
+    "k": "This cloth is not made from thread. It is made from tree bark! People beat the bark until it got thin and flat. What do you think it feels like?",
+    "g12": "This is tapa cloth from the Fiji Islands. It is made from the bark of a mulberry tree, not from thread. Bark cloth is flat, thin, and tough. Can you find any lines or marks that show it was made by hand?",
+    "g35": "This tapa cloth is from the Fiji Islands in the Pacific. It is made from mulberry bark. The museum dates it before 1971 but does not name the maker or tell us how it was used. Bark cloth is not woven from thread. What clues in the surface suggest it was made by hand from a natural material?",
+    "g68": "This tapa, made from mulberry bark in the Fiji Islands, is a kind of cloth made without weaving. The museum does not record the maker or how it was used, so careful looking matters. What clues in its surface, edges, and design might help you imagine how it was made and what it might have been for?",
+    "g910": "This Fijian tapa, made from mulberry bark (Broussonetia papyrifera) and dated before 1971, comes with little documentation: no maker is named and no use is recorded. How can careful looking at surface, design, and material help us think about the work's making, and what are the limits of interpreting an object without its history?",
+    "g1112": "This piece of tapa from the Fiji Islands, made from mulberry bark and dated before 1971, arrives in the museum with minimal documentation: no named maker, no recorded use. How do the material and surface invite interpretation, and what responsibility do viewers have when an object's context, makers, and meanings are largely absent from the record?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you see on the cloth? Point to anything that repeats.",
+      "emotion": "Does this bark cloth feel calm or busy to you? What shows you?",
+      "observation": "Find the edges. Are they straight or uneven?",
+      "analysis": "What do you think people could have used this cloth for?",
+      "line": "Trace a line on the cloth in the air. Is it straight or wavy?",
+      "shape": "What shapes do you see on the cloth?",
+      "color": "What colors do you see? Are they bright or soft?",
+      "texture": "Does the cloth look soft, stiff, or papery? Tell us how you know.",
+      "space": "Does the cloth look flat, or do some parts look raised?",
+      "light": "Where does the cloth look lighter, and where does it look darker?",
+      "meaning": "Why might people make cloth from a tree?",
+      "culture": "People make cloth in many ways. What do you wear that is made from plants?",
+      "technique": "The bark was beaten flat. How do you think that sounded?",
+      "personal": "If you decorated a cloth, what would you put on it?",
+      "critical": "What would you change about this cloth?"
+    },
+    "g12": {
+      "daily": "Which part of the cloth looks most interesting?",
+      "emotion": "Does the cloth feel plain or decorated? Point to what makes you feel that.",
+      "observation": "List what you notice on the surface, from one edge to the other.",
+      "analysis": "Why does your eye move across the bark cloth?",
+      "line": "Follow a line on the cloth with your finger. Where does it go?",
+      "shape": "What shapes repeat across the cloth?",
+      "color": "What colors do you see, and how do they stand out from the background?",
+      "texture": "How can you tell this cloth is made from bark, not thread?",
+      "space": "Does the cloth look flat, or can you see layers?",
+      "light": "Where does the cloth look light, and where does it look dark?",
+      "meaning": "Why might people in Fiji make cloth from the bark of trees?",
+      "culture": "What can tapa cloth tell us about the plants people used long ago?",
+      "technique": "How do you think bark could be turned into cloth?",
+      "personal": "How would you decorate a bark cloth for a special day?",
+      "critical": "Is a cloth made from bark as special as one made from thread? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which part of the cloth do you find most interesting, and what makes you say so?",
+      "emotion": "What mood does the surface of the cloth give, and which details create it?",
+      "observation": "Look closely at the surface. What clues show it was made by hand?",
+      "analysis": "How does the arrangement of marks or patterns move your eye across the cloth?",
+      "line": "What lines do you notice on the cloth, and how do they guide your eye?",
+      "shape": "What shapes or repeated forms do you see, and how are they arranged?",
+      "color": "How do the colors or tones of the cloth work together?",
+      "texture": "How does the surface look different from woven fabric?",
+      "space": "How does a flat cloth hold a sense of depth, if at all?",
+      "light": "How do light and dark areas show differences across the cloth?",
+      "meaning": "The record does not name the maker or the use. What questions would you want to ask?",
+      "culture": "Tapa is made in many Pacific islands. What might that say about how people share ideas?",
+      "technique": "What skills do you think are needed to turn bark into a flat cloth?",
+      "personal": "What natural material would you use to make something useful and beautiful?",
+      "critical": "Some museum objects have little information. How should we talk about them?"
+    },
+    "g68": {
+      "daily": "What do you notice about the bark cloth's surface only after looking for a while?",
+      "emotion": "What mood does the cloth suggest, and which visual details create it?",
+      "observation": "Describe the layout of the cloth. Where does your eye go first?",
+      "analysis": "How do patterns or marks lead your eye across the cloth?",
+      "line": "What kinds of lines can you find, and how do they shape the design?",
+      "shape": "What shapes do you see, and how do they repeat or vary?",
+      "color": "How do color and tone create contrasts or unity?",
+      "texture": "How does bark cloth differ in surface from woven fabric?",
+      "space": "How does the cloth's flat surface still suggest layers or depth?",
+      "light": "How do light and dark areas help organize the design?",
+      "meaning": "Without a record of maker or use, what can the object itself tell you, and what can it not?",
+      "culture": "Tapa is made across the Pacific. What might its traditions say about connections between islands?",
+      "technique": "What do you think it takes to prepare bark and turn it into cloth?",
+      "personal": "What would you want to learn from the communities who make tapa today?",
+      "critical": "Can we fully understand an object without knowing its history? Argue one side."
+    },
+    "g910": {
+      "daily": "How does the unrecorded history of this cloth affect how you read its design?",
+      "emotion": "What mood does the surface create, and how do material and mark-making contribute?",
+      "observation": "Study the surface and edges. What do they suggest about how the cloth was made?",
+      "analysis": "Analyze how the arrangement of marks or patterns organizes the cloth's surface.",
+      "line": "What role do lines play in structuring the design?",
+      "shape": "What shapes recur on the cloth, and how do they create rhythm?",
+      "color": "How do tone and color relate to the natural material of the bark?",
+      "texture": "How does the cloth's texture differ from the smoothness of woven fabric?",
+      "space": "How does the flat cloth hold any sense of space or layering?",
+      "light": "How does variation in tone give the cloth visual interest?",
+      "meaning": "What interpretive limits does the missing record of maker and use place on you?",
+      "culture": "How does tapa illustrate the way natural materials shape the art of the Pacific?",
+      "technique": "What does the process of making bark into cloth suggest about knowledge passed through making?",
+      "personal": "What does this cloth make you question about how museums describe things with little documentation?",
+      "critical": "How should viewers respond to an object whose meanings are not explained in the record?"
+    },
+    "g1112": {
+      "daily": "How does the absence of a recorded maker complicate attributing meaning to this cloth?",
+      "emotion": "What mood might the material and surface convey, and how could viewers differ in their readings?",
+      "observation": "Examine the surface and edges. Do you read them as evidence of process, wear, or design?",
+      "analysis": "Analyze how the cloth's surface organization communicates structure even without documentation.",
+      "line": "How do linear elements establish rhythm and hierarchy on the cloth?",
+      "shape": "How does the recurrence of shape function as pattern, and what might it communicate to makers' communities?",
+      "color": "Evaluate how tone and color relate to the cloth's natural material.",
+      "texture": "What does the cloth's texture suggest about the relationship between plant, labor, and fabric?",
+      "space": "How might a flat textile carry a sense of layers or structure?",
+      "light": "How does tonal variation affect the cloth's presence on display?",
+      "meaning": "What responsibilities arise when interpreting an object whose context is largely missing from the museum record?",
+      "culture": "How does tapa's wide distribution across the Pacific complicate treating this piece as representative of a single culture?",
+      "technique": "How does the transformation of bark into cloth challenge hierarchies that separate craft from art?",
+      "personal": "How does this tapa challenge the idea that a museum label can fully explain a work?",
+      "critical": "What criteria would you use to speak about this cloth respectfully when so little is recorded?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, type and department checked against the Cleveland Museum of Art Open Access record; no concerning terms or imagery in the record fields read. The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tapa (bark cloth) from the Fiji Islands, made from mulberry bark and dated before 1971. The museum record names no maker and gives no further description, so discussion should stay close to what students can see and ask what is not known.",
+    "vocabulary": [
+      "tapa",
+      "bark cloth",
+      "pattern",
+      "texture",
+      "material",
+      "Pacific"
+    ],
+    "directions": [
+      "Let students feel a sheet of paper and a piece of fabric, then discuss how bark cloth differs from both.",
+      "Ask students to list what they can learn from the surface of the cloth and what they cannot know without more information.",
+      "Discuss how patterns and materials can carry meaning for the communities that make them."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-503614",
+  "day": "06-11",
+  "title": "Harpsichord",
+  "artist": "Jan Couchet the Elder",
+  "date": "ca. 1650",
+  "medium": "Wood and various materials",
+  "region": "Flemish (Antwerp tradition)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DT684a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DT684a.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, wing-shaped harpsichord standing on a wooden stand, with a keyboard at the front end and a lid that can be raised. The wooden case tapers toward the back.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503614",
+    "objectId": "503614",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, culture (Flemish), classification (Chordophone-Zither-plucked-harpsichord), dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A harpsichord is a keyboard instrument in which pressing a key causes a string to be plucked. The Met credits this one to Jan Couchet the Elder and dates it to about 1650, in the Flemish tradition. The instrument itself is about 232 cm (roughly 7 ft 7 in.) long, according to the record.",
+  "descriptions": {
+    "k": "This is a harpsichord. It is a very old keyboard. It is long and shaped a little like a wing. It stands on a wooden stand. Pressing a key makes a tiny pick pluck a string inside. Can you find the keys?",
+    "g12": "A harpsichord is a keyboard instrument. Inside, small picks pluck strings when a player presses the keys. This one was made in the Flemish region around 1650. It is long and narrow, over two meters. It stands on a stand. How is it like a piano, and how is it different?",
+    "g35": "Jan Couchet the Elder made this harpsichord around 1650 in the Flemish tradition. A harpsichord looks a bit like a piano, but its strings are plucked, not hit by hammers. The instrument is about 232 centimeters long, so it needs a large stand. Look at the long case, the keyboard and the lid. Why might a maker pay attention to decoration as well as sound?",
+    "g68": "This harpsichord by Jan Couchet the Elder, about 1650, belongs to the Flemish tradition of instrument making, famous in its day for fine harpsichords. Pressing a key makes a small plectrum pluck a string, which differs from a piano's hammers. At about 232 centimeters long, the instrument fills a room, and its stand and case are part of its design. How might the shape and the decoration of the case have shown the taste of its owner?",
+    "g910": "Couchet's harpsichord of about 1650 comes from the Flemish workshop tradition that produced some of Europe's most admired keyboards. Its long wing-like case houses strings that are plucked when keys are pressed. The record gives wood and various materials, so the specific decoration should be read from the image. Instruments like this one occupied homes as both musical tools and furniture. Consider how the exterior reflects the instrument's status while the real engineering is mostly hidden inside.",
+    "g1112": "Dated to about 1650 and credited to Jan Couchet the Elder, this harpsichord belongs to a Flemish tradition whose instruments were widely admired and later often altered, repaired or rebuilt. Its long, tapering case encloses a plucking mechanism that determines both its sound and its limits compared with the later piano. The record is brief about its decoration and history, so claims about earlier owners or alterations should be hedged. The object raises questions about authenticity: when an instrument has been used and changed for centuries, what exactly do we mean by the original?"
+  },
+  "questions": {
+    "k": {
+      "daily": "This harpsichord is very long. What does its long shape remind you of?",
+      "emotion": "Does this harpsichord look quiet and calm, or loud and bold? What do you see that tells you?",
+      "observation": "Find the keys, the lid and the stand. Can you point to each?",
+      "analysis": "Do your eyes start at the keys, the long case or the stand? Where do they go after that?",
+      "line": "Trace the long edge of the case with your finger in the air. Where does it get narrower?",
+      "shape": "The case gets narrower toward the back. What shape does that make?",
+      "color": "What colors do you see on the harpsichord?",
+      "texture": "If you touched the wooden case, would it feel smooth or rough? What makes you think so?",
+      "space": "The harpsichord is big. What kind of room do you think it would sit in?",
+      "light": "Where is the wood lighter, and where is it darker?",
+      "meaning": "Who do you think listened to this harpsichord long ago?",
+      "culture": "This harpsichord comes from the Flemish region, long ago. How are the instruments you know different from it?",
+      "technique": "The harpsichord is made of wood. What tools do you think a maker used?",
+      "personal": "What song would you like to hear played on a harpsichord?",
+      "critical": "A piano and a harpsichord both have keys. What differences can you see when you look at this one?"
+    },
+    "g12": {
+      "daily": "Look at the long, wing-like case. How does its shape help you guess where the strings are inside?",
+      "emotion": "What feeling does this big wooden instrument give you? Point to what makes you feel it.",
+      "observation": "Describe the keyboard, the case and the stand. What do you notice about each?",
+      "analysis": "How does the keyboard at the front lead your eyes into the long case behind?",
+      "line": "Find long, straight lines and curved lines. Where do you see each?",
+      "shape": "The case narrows toward the back. How is that different from a box?",
+      "color": "Look at the colors of the wood and the stand. Do they make the instrument feel old or new to you?",
+      "texture": "Wood can look smooth or show its grain. Which parts of this harpsichord look smooth to you?",
+      "space": "The harpsichord is over two meters long. How much space would you need for it?",
+      "light": "Look at the shiny and dull spots. What do they tell you about the wood?",
+      "meaning": "Why would someone want a large instrument like this in their home?",
+      "culture": "The harpsichord was made in the Flemish region around 1650. How can an instrument show the style of its time?",
+      "technique": "A maker had to build the case and the hidden strings. Why might that be hard?",
+      "personal": "If you could decorate a harpsichord, what would you add?",
+      "critical": "We cannot hear this harpsichord in a picture. What can we learn from looking at it?"
+    },
+    "g35": {
+      "daily": "A harpsichord plucks its strings, but we only see the outside. How does the case hint at what is happening inside?",
+      "emotion": "What mood does this large wooden instrument create, and which details cause it?",
+      "observation": "Describe the instrument from the keyboard to the far end of the case. What details do you find?",
+      "analysis": "How do the stand, case and lid make one design?",
+      "line": "How do the long lines of the case guide your eyes from the keys to the far end?",
+      "shape": "The long, tapering shape suits long strings of different lengths. How does the shape show this?",
+      "color": "The record lists wood and various materials. How do tone and color affect the instrument's feel?",
+      "texture": "Which surfaces look smooth, and which might show grain or decoration?",
+      "space": "At about 232 centimeters long, this harpsichord needs room. How does its size shape the way it sits in a space?",
+      "light": "How does light help show the curve and edges of the case?",
+      "meaning": "Why might a family have owned an instrument that was also a fine piece of furniture?",
+      "culture": "The Flemish region was known for harpsichord making in the 1600s. Why might skill in instrument making grow in a place like that?",
+      "technique": "Plucking a string is different from hitting it with a hammer. How might a maker design the inside to make this work?",
+      "personal": "What do you own that is both useful and part of how your home looks?",
+      "critical": "Couchet's harpsichord has probably changed since 1650. How could repairs change what we see?"
+    },
+    "g68": {
+      "daily": "How does the long form of Couchet's harpsichord reveal both musical function and furniture-like presence?",
+      "emotion": "What tone does the large wooden case set? Support your answer with details.",
+      "observation": "List what you see, from the keyboard to the stand, before interpreting.",
+      "analysis": "How does the composition of keyboard, case and stand organize the object visually?",
+      "line": "How do the long edges of the case and the repeated lines of the keys create rhythm?",
+      "shape": "The wing-like outline follows the lengths of the strings. How does engineering give the instrument its shape?",
+      "color": "How does the palette of the wood and other materials affect the instrument's presence?",
+      "texture": "What surface qualities do you notice, and how might they affect the way the instrument is seen in a room?",
+      "space": "The instrument is more than two meters long. How might its size shape the way people used a room?",
+      "light": "How might natural or candlelight have changed how this instrument looked in the 1600s?",
+      "meaning": "Why might a harpsichord be a symbol of education and taste in a household?",
+      "culture": "How does a workshop tradition, like the Flemish one, shape the look of many instruments?",
+      "technique": "What skills of woodworking, tuning and decoration would a maker need?",
+      "personal": "What big object in your home or school has a purpose and also affects the space around it?",
+      "critical": "If an instrument has been repaired and altered for centuries, can we still call it Couchet's? Explain your thinking."
+    },
+    "g910": {
+      "daily": "What does the harpsichord's exterior communicate about the status of its owner, and what does it conceal about its mechanism?",
+      "emotion": "How do scale and proportion create a sense of dignity or presence in this instrument?",
+      "observation": "Describe the hierarchy of the instrument's parts: keyboard, case, lid, stand. What leads the eye?",
+      "analysis": "How does the instrument's structure follow from the physics of strings of different lengths?",
+      "line": "How do the repeated vertical lines of the keys contrast with the long diagonals of the case?",
+      "shape": "How does the tapered form express function while also acting as a strong visual silhouette?",
+      "color": "How do the tonal qualities of the wood and other materials contribute to the instrument's visual identity?",
+      "texture": "How might surface finish distinguish the working parts of the instrument from the decorative parts?",
+      "space": "How does the instrument's size and the stand's height organize the space around the player?",
+      "light": "How might gallery lighting differ from the light of a 17th-century interior in shaping our impression?",
+      "meaning": "How can a keyboard instrument stand for ideas of learning, leisure and refinement?",
+      "culture": "How did the Flemish tradition of harpsichord making influence instruments elsewhere in Europe?",
+      "technique": "What does the harpsichord's plucking action suggest about the player's control compared with the piano's hammer action?",
+      "personal": "How do the instruments you know shape your sense of what music looks like?",
+      "critical": "How does the survival of altered instruments challenge the idea of a fixed original?"
+    },
+    "g1112": {
+      "daily": "What can this harpsichord support as evidence of Flemish workshop practice around 1650, and what must remain uncertain without further documentation?",
+      "emotion": "How does the instrument's scale and silence in a museum shape our emotional response, and how might that differ from a performance setting?",
+      "observation": "Distinguish between the visible structure and the inferred mechanism. Which of your observations rely on outside knowledge?",
+      "analysis": "How do the interdependent elements of case, stand, keyboard and lid reflect a balance of acoustic and aesthetic priorities?",
+      "line": "How do linear patterns of key, case and stand set up a dialogue between repetition and sweep?",
+      "shape": "How does the harpsichord's silhouette link acoustics, craftsmanship and the display of status?",
+      "color": "How might the color and finish of the wood, which may be changed over centuries, affect our reading of the instrument's original look?",
+      "texture": "How do conservation, wear and restoration complicate any judgment about the original surface?",
+      "space": "How do museums negotiate between displaying an instrument as sculpture and presenting it as a sounding object?",
+      "light": "How does the way the instrument is photographed shape its perceived age and monumentality?",
+      "meaning": "How can keyboards in the 17th century be read as markers of social aspiration, domestic music-making or professional performance?",
+      "culture": "How did networks of makers, merchants and musicians spread Flemish harpsichord models across Europe?",
+      "technique": "How does the technology of plucking constrain expression, and how might that have shaped composition and performance?",
+      "personal": "How does hearing music in modern contexts shape your imagination of how early keyboards were encountered?",
+      "critical": "How do ideas of authenticity in historical instruments change when an object has been modified for centuries?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Zither-plucked-harpsichord), medium, culture, and tags (none listed) checked against the museum record; the record does not describe painted scenes. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release, including any painted decoration on the lid or case.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A harpsichord credited to Jan Couchet the Elder, ca. 1650, in the Flemish tradition. Many historic harpsichords were altered over time, so avoid presenting every detail as original. The record gives few details about decoration.",
+    "vocabulary": ["harpsichord", "plucked string", "keyboard", "case", "workshop tradition", "Flemish"],
+    "directions": [
+      "Compare how a harpsichord and a piano make sound, using a diagram.",
+      "Discuss why instruments are repaired and altered over centuries.",
+      "Measure 232 cm on the floor to feel the instrument's size."
+    ]
+  }
+}

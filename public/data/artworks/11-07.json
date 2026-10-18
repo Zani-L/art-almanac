@@ -1,0 +1,157 @@
+{
+  "id": "met-727706",
+  "day": "11-07",
+  "title": "Cloud study",
+  "artist": "John Constable",
+  "date": "1830–35",
+  "medium": "Watercolor over graphite",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP865817.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP865817.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, 2015 Benefit Fund, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, and Connie Simmons and James D. Krugman Gift, 2016",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A watercolor study of clouds filling the sky, painted in soft washes of gray, blue, and white over faint pencil lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/727706",
+    "objectId": "727706",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Clouds), classification, and image URLs read from the record"
+  },
+  "context": "A watercolor study of clouds by John Constable (1776–1837), the English landscape painter, dated 1830–35 in the Met's record. Constable was famous for studying skies and weather closely. The record lists watercolor over graphite and the tag Clouds.",
+  "descriptions": {
+    "k": "Look up at the sky! This painting shows clouds. The paint is soft and wet. Some parts are light and some are dark. What shapes do you see in the clouds? Do they look like anything?",
+    "g12": "John Constable loved to study the sky. This painting is only clouds! He used watercolor, which flows and blends. See the light and dark parts. Some clouds look soft and fluffy, and some look heavy. What kind of weather could be coming?",
+    "g35": "John Constable was an English painter who studied skies and weather very carefully. This watercolor, made in the 1830s, is a cloud study, a picture made to practice and remember how clouds look. He used watercolor over faint pencil. Look at the light and dark areas. How can you tell what kind of weather these clouds might bring?",
+    "g68": "Constable made this cloud study between 1830 and 1835. For him, skies were not just background: he thought that the sky set the mood of a landscape. A study like this is a way of learning, recording how clouds look at a moment. Notice the soft edges and changes in tone. Why would an artist make a picture of only clouds, and what can it teach about how weather works in a painting?",
+    "g910": "In this cloud study, Constable uses watercolor over graphite to record the shape and tone of clouds, a subject he returned to throughout his career. Without land to anchor it, the sheet becomes a pure investigation of light, mass, and movement. Consider how a study differs from a finished exhibition piece, how washes can suggest soft edges and shifting forms, and how a painter's close observation of nature can also express a personal sense of weather and mood.",
+    "g1112": "Constable's cloud studies are celebrated as part of a larger effort to observe the sky with something like scientific attention while keeping a painter's eye for mood. This sheet, dated 1830–35, uses watercolor over graphite to capture tonal transitions without a horizon or landscape for context. Historians discuss how such studies relate to his finished paintings and to nineteenth-century interest in meteorology, though any link for this sheet should be stated cautiously. Consider how a study about observation and tone can also read as an independent work."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at these clouds. What do they remind you of?",
+      "emotion": "Do these clouds feel peaceful or stormy? Why?",
+      "observation": "Find the lightest cloud and the darkest cloud. Point to each one.",
+      "analysis": "Where do your eyes go first? Why do you think you looked there?",
+      "line": "Are there sharp lines in the clouds, or soft edges? Show with your hand.",
+      "shape": "Which cloud shapes are big and which are small? Do any look like animals?",
+      "color": "What colors can you find in the sky? Are they bright or soft?",
+      "texture": "How would a cloud feel if you could touch it? Fluffy, wet, or something else?",
+      "space": "Do the clouds look close or far away? Where do you think the ground is?",
+      "light": "Which part of the sky looks brightest? Where is the sun, do you think?",
+      "meaning": "What kind of day is it in this picture? What could happen next?",
+      "culture": "People everywhere watch the sky. How do you or your family know what the weather will be?",
+      "technique": "Watercolor is paint with lots of water. How do you think the artist made soft, fuzzy edges?",
+      "personal": "Have you ever lain down and watched clouds? What did you see?",
+      "critical": "This painting is only sky. Is it still a good picture? Why?"
+    },
+    "g12": {
+      "daily": "How does Constable make clouds look soft and heavy in the same picture?",
+      "emotion": "What mood does this sky have, peaceful, gloomy, or exciting? Point to what shows it.",
+      "observation": "Describe three different clouds in the picture using words for size, shape, and color.",
+      "analysis": "How do the light clouds and dark clouds balance each other?",
+      "line": "Where do you see pencil lines? How do they differ from the painted clouds?",
+      "shape": "Which clouds look puffy and which look flat and long? How does that change the sky?",
+      "color": "What blues, grays, or warm colors do you find? How do they blend?",
+      "texture": "Where does the paint look thin and airy? Where does it look thicker or darker?",
+      "space": "How does the artist make the sky look huge and deep?",
+      "light": "Where does light seem to shine through the clouds?",
+      "meaning": "Why might a painter want to paint just clouds?",
+      "culture": "Constable lived in England, where weather changes fast. Why might he want to paint the sky often?",
+      "technique": "Watercolor flows and dries fast. How might that help someone paint moving clouds?",
+      "personal": "What is your favorite kind of weather? How would you paint it?",
+      "critical": "Is this picture a practice sketch or a finished painting? What clues help you decide?"
+    },
+    "g35": {
+      "daily": "What details show that Constable looked at the sky very closely before painting these clouds?",
+      "emotion": "How would you describe the mood of this sky, and what colors or shapes create it?",
+      "observation": "After a minute of looking, what small changes in tone or color did you notice that you missed at first?",
+      "analysis": "How does Constable arrange light and dark cloud areas so the sky feels balanced yet alive?",
+      "line": "This picture has few hard outlines. How do you know where one cloud ends and another begins?",
+      "shape": "How do the large shapes of the clouds suggest movement across the sky?",
+      "color": "How do soft grays, blues, and any warm notes work together to make the sky feel real?",
+      "texture": "How does he make clouds look airy and soft using only watery paint?",
+      "space": "Without land in the picture, how does Constable still suggest the height and depth of the sky?",
+      "light": "Where do you see the brightest areas, and how does the artist make them shine?",
+      "meaning": "Clouds change constantly. What idea about time or change might a cloud study express?",
+      "culture": "In the 1800s, many people became interested in studying weather. How does this study connect to that interest?",
+      "technique": "A study is a picture made for learning. What might Constable have learned by painting only clouds?",
+      "personal": "How would you record a cloud shape so that you could remember it later?",
+      "critical": "Is a picture of only clouds a landscape? Explain your answer using the picture."
+    },
+    "g68": {
+      "daily": "How does Constable turn the study of ordinary clouds into a picture with presence and mood?",
+      "emotion": "What emotional atmosphere do the darks and lights of the sky create?",
+      "observation": "Describe the sheet from top to bottom. Where do the tones become darker or lighter?",
+      "analysis": "How do the clouds work together as a composition even though there is no landscape to organize them?",
+      "line": "How do edges form through contrasts of tone rather than outline?",
+      "shape": "How do rounded masses of cloud and breaks in the sky create rhythm?",
+      "color": "How do cool and warm notes help suggest the temperature and light of the sky?",
+      "texture": "How do wetter and drier brushwork produce the contrast between soft and dense clouds?",
+      "space": "How does gradual change in tone help the sky seem to recede into the distance?",
+      "light": "How does the painter make parts of the cloud seem lit from behind or from the side?",
+      "meaning": "Constable believed the sky was important to a landscape's feeling. How might this study express that belief?",
+      "culture": "How might the rise of science and weather observation in the early 1800s have influenced painting?",
+      "technique": "How can a quick medium like watercolor help record changing things such as clouds?",
+      "personal": "What fleeting things in your world would you like to capture, and how would you do it?",
+      "critical": "Is a study as valuable as a finished painting? Compare their purposes."
+    },
+    "g910": {
+      "daily": "How does the sheet transform direct observation into a composition of tone and movement?",
+      "emotion": "How does the absence of figures or land lead the viewer to read mood in the sky itself?",
+      "observation": "Describe the visual hierarchy: which cloud masses dominate and which recede?",
+      "analysis": "Analyze how tonal contrasts structure the sheet without a horizon or object to anchor it.",
+      "line": "How do traces of graphite contribute to the sense of immediacy or process?",
+      "shape": "How do cloud masses interact with breaks of lighter sky to create rhythm and depth?",
+      "color": "How does Constable's handling of color temperature create atmosphere?",
+      "texture": "How do wash density and drying times of watercolor mimic the varied qualities of vapor and mass?",
+      "space": "How does the sheet create depth in an unbounded field?",
+      "light": "How is light conveyed through pigment dilution and the paper's brightness?",
+      "meaning": "Why might a painter dedicate a sheet to such an ephemeral subject, and what does that tell us about artistic priorities?",
+      "culture": "How does the study reflect Romantic attitudes to nature and the growing scientific interest in weather in the nineteenth century?",
+      "technique": "What is gained when a transient subject is recorded in a fast medium, and what is lost?",
+      "personal": "How does observing something that changes quickly alter the way you look?",
+      "critical": "At what point does a study become an independent artwork, and does this sheet reach that point?"
+    },
+    "g1112": {
+      "daily": "How does this sheet exemplify the tension between objective study and subjective response in landscape art?",
+      "emotion": "How does the sheet produce a sense of mood from tonal relations alone, and to what degree is that mood in the viewer?",
+      "observation": "Describe the sheet's physical facts, such as graphite, washes, and edges, before interpreting. Where does description shade into interpretation?",
+      "analysis": "How do tonal gradations and edges of wash create a structure that holds in the absence of a motif?",
+      "line": "How does graphite function as a trace of observation, and how do washes modify or override it?",
+      "shape": "How do the contours of the cloud masses imply movement and weather, and what limits do we face in reading time from a still image?",
+      "color": "How does the palette negotiate between recorded sensation and pictorial harmony?",
+      "texture": "How does watercolor's fluidity make it suited to the cloud's visual qualities, and what in the sheet shows that?",
+      "space": "How does the sheet produce infinite depth within a finite format?",
+      "light": "In what sense is luminosity achieved through the paper and dilution rather than added pigment?",
+      "meaning": "How have historians linked Constable's sky studies to science, religion, and personal feeling, and how far can one sheet support those links?",
+      "culture": "How does the sheet situate itself within debates about the status of studies and sketches relative to finished works in the period?",
+      "technique": "What might technical research on the sheet add to our understanding of how quickly or carefully it was made?",
+      "personal": "How do contemporary weather images, such as satellite maps and photos, alter the way you read a painted sky?",
+      "critical": "What are the risks of attributing scientific or emotional intentions to an artist from a single study sheet?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Cloud study), tags (Clouds), medium, and classification (Drawings) checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "John Constable (1776–1837) was an English landscape painter known for close study of skies and weather. The Met dates this watercolor 1830–35.",
+    "vocabulary": [
+      "study",
+      "watercolor",
+      "graphite",
+      "wash",
+      "atmosphere",
+      "tone"
+    ],
+    "directions": [
+      "Take students outside to watch clouds for five minutes and paint one sky patch with wet-on-wet watercolor.",
+      "Have students compare the sky today with the cloud study and describe three differences.",
+      "Discuss what a study is for, and whether it can be a finished artwork."
+    ]
+  }
+}

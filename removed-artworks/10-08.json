@@ -1,0 +1,158 @@
+{
+  "id": "met-3400",
+  "day": "10-08",
+  "title": "Dower Chest",
+  "artist": "Artist unknown (American)",
+  "date": "1786",
+  "medium": "Poplar",
+  "region": "United States, Mid-Atlantic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/133321.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/133321.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1944",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long wooden chest with a flat lid, made of poplar and decorated with flowers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/3400",
+    "objectId": "3400",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, region, tags (Flowers), dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An American dower chest dated 1786 in the Met record, made of poplar in the Mid-Atlantic region and tagged Flowers. A dower chest is a large storage box traditionally used to hold linens and household goods for a young person starting a new household. It measures about 50 inches (127 cm) wide.",
+  "descriptions": {
+    "k": "This is a big wooden box called a chest. It has a lid and flowers as part of its decoration. People long ago kept blankets and cloth inside. What would you keep in a chest like this?",
+    "g12": "This wooden chest was made in America in 1786. It is about as long as a bed for a child. Flowers decorate it. A chest like this was a dower chest. A young person might fill it with blankets and cloth before starting a new home. What would you put in it?",
+    "g35": "This dower chest was made in the Mid-Atlantic region of the United States in 1786 from poplar wood. A dower chest held linens, clothes, and household goods for a person starting a new home. The Met tags it with flowers, so look for them. Why might a family decorate a large storage box with flowers? What does the decoration tell you about the person who would own it?",
+    "g68": "In the late 1700s, a dower chest was a major piece of household furniture, often given to a young person as they began a new household. This one, dated 1786 and made of poplar in the Mid-Atlantic, carries floral decoration. Poplar is a soft wood that is easy to work. How can decoration make a plain storage box into a treasured object? What might the flowers say about hopes for a new home?",
+    "g910": "This dower chest of 1786 combines practical storage with personal and family symbolism. The poplar construction suggests an affordable, workable wood, while the floral decoration noted by the Met turns the surface into a field for pattern and meaning. As a gift tied to marriage or the start of a household, it could carry hopes, status, and craft traditions at once. Consider how decoration, size, and function work together, and what questions remain about its makers and owners.",
+    "g1112": "Dower chests occupy a rich space between furniture and personal ritual. This example of 1786, made of poplar in the Mid-Atlantic and decorated with flowers, shows how an everyday storage form could carry decorative traditions, family expectations, and markers of social transition. Because the Met record names no maker, interpretation must rely on form, materials, and comparison rather than biography. Ask how objects tied to marriage and household formation reflect gender roles, local craft practices, and the ways museums frame anonymous domestic art."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the flowers on this chest? Point to them.",
+      "emotion": "Does this chest feel cozy, serious, or happy? Why do you think so?",
+      "observation": "Find the lid, the front, and the bottom of the chest. Point to each part.",
+      "analysis": "Where do you think a person would open this chest? Show us with your hand.",
+      "line": "Trace a long straight line along the chest from one end to the other.",
+      "shape": "What shapes does the chest make? What shapes do you see in the flowers?",
+      "color": "What colors do you see on the chest? Which one stands out?",
+      "texture": "Wood has grain. How do you think the chest would feel if you touched it?",
+      "space": "How much room do you think is inside this chest? What could fit?",
+      "light": "Which parts of the chest look bright and which look shadowy?",
+      "meaning": "Why do you think someone put flowers on a chest for blankets?",
+      "culture": "People in America used chests like this long ago. Where do you keep your special things now?",
+      "technique": "A woodworker built this chest from boards. What do you think they needed to do to make it strong?",
+      "personal": "If you had a chest of your own, what would you put on the lid?",
+      "critical": "Is it better for a chest to be plain or to have flowers? Tell us why."
+    },
+    "g12": {
+      "daily": "What is the first thing you notice on this wooden chest?",
+      "emotion": "What feeling do you get from a chest with flowers on it? Which parts help you feel that way?",
+      "observation": "Describe the chest. Name its parts and the decoration you see.",
+      "analysis": "How do the flowers fit on the long, flat shape of the chest?",
+      "line": "Find the long straight lines on the chest and any curved lines in the flowers. How are they different?",
+      "shape": "The chest is a long box. How do the shapes of flowers fit with the boxy shape?",
+      "color": "Which colors in the flowers stand out against the wood? How do they work together?",
+      "texture": "Which parts of the chest look smooth and which look like they have wood grain?",
+      "space": "The chest is about four feet wide. How would it fit in a room next to a bed?",
+      "light": "Where does light fall on the chest, and where is it darker?",
+      "meaning": "Chests like this helped start new homes. What do you think the flowers wish for the new home?",
+      "culture": "People once kept blankets and clothes in chests instead of closets. Why might that have been?",
+      "technique": "Poplar is a soft wood that is easy to cut and shape. Why might that help a woodworker?",
+      "personal": "What would you want to save for your first home? How would you store it?",
+      "critical": "Is a storage chest just a useful box, or can it also be art? Share your idea."
+    },
+    "g35": {
+      "daily": "What details on this chest show that it was made to be special as well as useful?",
+      "emotion": "What mood does the floral decoration give the chest?",
+      "observation": "Look at the chest for one minute. What details about the flowers and the wood do you notice?",
+      "analysis": "How does the decoration cover or organize the front and top of the chest?",
+      "line": "How do the straight edges of the chest compare with the curving lines of the flowers?",
+      "shape": "How do the shapes of the flowers repeat or change across the chest?",
+      "color": "How do the colors of the decoration stand out from the color of the wood?",
+      "texture": "How might the painted or decorated areas feel different from plain wood?",
+      "space": "How does the chest's long, low shape make it different from a tall cabinet?",
+      "light": "How does light show off the decoration and the shape of the chest?",
+      "meaning": "Why might a family choose flowers to decorate a chest for a new household?",
+      "culture": "A dower chest held things for a new home. What does that tell you about family traditions in 1786?",
+      "technique": "The Met says this chest is made of poplar. Why might makers choose a wood that is easy to work?",
+      "personal": "What is something in your home that was given to you or your family to mark a new beginning?",
+      "critical": "We do not know who made this chest. How does that change how we look at it?"
+    },
+    "g68": {
+      "daily": "How does decoration turn a plain wooden storage box into a symbol of a new household?",
+      "emotion": "How do the flowers soften the practical look of a large chest?",
+      "observation": "Scan the chest from lid to base. Which details seem planned and which seem practical?",
+      "analysis": "How does the layout of the decoration follow the chest's structure?",
+      "line": "How do the strong horizontal lines of the chest contrast with flowing floral lines?",
+      "shape": "How does the long, boxy shape set limits and opportunities for the decoration?",
+      "color": "How might color in the decoration draw attention to the front of the chest?",
+      "texture": "How do wood grain and decoration interact on the chest's surface?",
+      "space": "How does the chest's size show how important storage was in a home?",
+      "light": "How would light in a candlelit room change the way the decoration looked?",
+      "meaning": "What hopes might flowers express in an object meant to start a household?",
+      "culture": "How do chests like this reflect the roles and expectations of young people in the late 1700s?",
+      "technique": "Why might a maker choose poplar for a large chest, and how might its qualities affect the decoration?",
+      "personal": "What objects mark important moments in your family, and how are they decorated or kept?",
+      "critical": "Should we call an unsigned chest like this folk art, furniture, or something else? Defend your view."
+    },
+    "g910": {
+      "daily": "How does the chest unite utility, decoration, and family meaning in one object?",
+      "emotion": "How do floral motifs and large size create a mood that mixes practicality with hope?",
+      "observation": "Describe the hierarchy of chest structure and decoration. What draws attention first?",
+      "analysis": "Analyze how the decorative scheme respects or contrasts with the architecture of the chest.",
+      "line": "How does the contrast of straight edges and curving floral lines create visual interest?",
+      "shape": "How do repeated floral shapes interact with the rectangular panels or surfaces of the chest?",
+      "color": "How does color in the decoration contrast with the natural tone of poplar?",
+      "texture": "How might decoration alter or emphasize the texture of the wood surface?",
+      "space": "How does the chest's horizontal format shape how it sits in a room?",
+      "light": "How might the surface treatment catch or absorb light, and how does that affect the decoration's impact?",
+      "meaning": "How might floral imagery on a household chest connect to ideas about family, marriage, and growth?",
+      "culture": "How do dower chests reflect the economic and social expectations around marriage in the eighteenth century?",
+      "technique": "What does the choice of poplar suggest about local resources, cost, and workshop practices?",
+      "personal": "How does the idea of an object made to start a life resonate with your own sense of future?",
+      "critical": "How do unsigned works like this challenge museums' habit of organizing collections around named makers?"
+    },
+    "g1112": {
+      "daily": "What does a dower chest reveal about the ways objects carry social expectation as well as storage?",
+      "emotion": "How might the combination of decorative joy and the ritual of marriage create layered feelings in a viewer today?",
+      "observation": "Describe the chest's construction and decoration precisely. Which statements are visible fact and which are inference?",
+      "analysis": "Analyze the relationship of surface decoration to structural form in the chest.",
+      "line": "How do floral lines complicate the strict geometry of a chest, and what does this say about decorative priorities?",
+      "shape": "How does a simple rectangular form become a framework for ornamented meaning?",
+      "color": "How might color and surface treatment have served as signals of status and care?",
+      "texture": "How might use and age have altered the surface, and how does that affect our reading of its original look?",
+      "space": "How does the chest's role in a household interior shape its visual and social presence?",
+      "light": "How might candlelight and room position have shaped the visibility of the decoration?",
+      "meaning": "How do floral motifs function as both decoration and symbol, and where do interpretations risk over-reading?",
+      "culture": "How does the dower chest reflect gender roles and economic transfer in the late eighteenth-century Mid-Atlantic?",
+      "technique": "What does the use of poplar suggest about regional resources and the division between cabinetmaking and decoration?",
+      "personal": "How do your own family objects and traditions inform how you interpret a ceremonial household object?",
+      "critical": "What methods can historians use to interpret an unsigned object when documents about its makers and owners are missing?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, culture, medium, department and tags (Flowers) read from the Met record. A wooden chest with floral decoration, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A dower chest was a storage chest associated with preparing a household, often for a marriage. The Met record dates this one to 1786, names poplar as its material, and tags it Flowers.",
+    "vocabulary": [
+      "dower chest",
+      "poplar",
+      "decoration",
+      "motif",
+      "household",
+      "anonymous maker"
+    ],
+    "directions": [
+      "Have students design the front of a chest with a motif that represents their own family's hopes.",
+      "Ask students to list what a household in 1786 would need to store and compare with their own home.",
+      "Discuss how an object can be both a useful container and a meaningful gift."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-502628",
+  "day": "03-07",
+  "title": "Uilacapitztli (Pottery Flute)",
+  "artist": "Aztec (artist unknown)",
+  "date": "ca. 900–1521",
+  "medium": "Clay",
+  "region": "Mexico (Aztec)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/MIDP89.4.2061.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/MIDP89.4.2061.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small hand-sized flute made of fired clay, longer than it is wide, with a hollow body. Its surface shows the dull, earthy color of pottery.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/502628",
+    "objectId": "502628",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification, dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "The Met catalogues this clay flute as Aztec, from Mexico, and dates it broadly to about 900–1521. It measures about 26.7 cm (10 1/2 in.) long and is classified as a vessel flute, a kind of wind instrument. The wide date range means the exact age and use of this particular flute are not certain.",
+  "descriptions": {
+    "k": "This is a flute made of clay. It is about as long as a school ruler. People in Mexico made it long ago. It is hollow inside. What do you think happens when someone blows air into it?",
+    "g12": "This flute was shaped from clay by Aztec people in Mexico. It is hollow, so air can move through it. It is about 27 centimeters long, a bit longer than a ruler. The clay is plain and earthy. How do you think someone held it?",
+    "g35": "This clay flute comes from the Aztec world in Mexico, and the Met dates it between about 900 and 1521. It is about 27 centimeters long and hollow inside. Its Aztec name, uilacapitztli, is the one the Met uses. Because the date range is so wide, we cannot be sure exactly when it was made. What do the shape and surface tell you about how it was made from clay?",
+    "g68": "This Aztec flute is made from clay and measures about 27 centimeters. The Met classifies it as a vessel flute, a type in which air is blown into a hollow body instead of across a long tube. Because the record gives a broad date, ca. 900 to 1521, it is hard to say exactly who made it or when. The plain surface invites questions: what can an object tell us when no maker is named, and what might we not know about how it was used?",
+    "g910": "This clay flute, labeled Aztec and dated between about 900 and 1521, shows how much information an object can hold even without a known maker. The Met classifies it as a vessel flute and records its size at roughly 27 centimeters. Its hollow clay body is evidence of pottery skills used for sound making as well as for vessels and figures. The very broad date is a reminder that museum labels are often estimates, and that what we know about how it was played comes from other sources, such as written accounts and excavated finds.",
+    "g1112": "Catalogued as Aztec and dated broadly to ca. 900–1521, this clay vessel flute resists easy conclusions. The long date range suggests uncertainty about its origin, and no maker is named. Scholars of Mesoamerican music rely on excavated instruments, images and early colonial accounts to understand how such flutes functioned, but those sources are incomplete and sometimes filtered through European writers. The object invites reflection on how museums present Indigenous instruments: as art, as technology, as evidence of ritual or daily life, and as part of living cultural heritage."
+  },
+  "questions": {
+    "k": {
+      "daily": "This flute is made of clay. What do you think happens when you blow into it?",
+      "emotion": "Does this little flute look gentle or strong? What do you see that makes you say so?",
+      "observation": "What can you find on this flute? Point to the places where air might go in or out.",
+      "analysis": "Which part of the flute do you look at first? Why?",
+      "line": "Can you find a long line down the flute? Trace it in the air.",
+      "shape": "The flute is longer than it is wide. What other things are shaped like that?",
+      "color": "What color is the clay? Does it look like something you have seen in nature?",
+      "texture": "If you could touch this flute, would the clay feel smooth or bumpy?",
+      "space": "The flute is hollow inside. What do you imagine is in that empty space?",
+      "light": "Where is the clay light, and where is it darker?",
+      "meaning": "Who do you think made this flute? What might they have played?",
+      "culture": "This flute is from Mexico, made long ago by Aztec people. What would you like to ask the maker?",
+      "technique": "This flute was shaped from clay and baked. What do you think the maker did first?",
+      "personal": "What sounds do you like to make with your voice or with something you blow into?",
+      "critical": "Some things in museums were used every day. Do you think this flute was for play, for ceremonies, or for something else? What makes you think that?"
+    },
+    "g12": {
+      "daily": "This flute was shaped from clay and is hollow inside. How might someone have held it and played it?",
+      "emotion": "What feeling does the plain clay give you, calm or serious or something else? Point to a detail.",
+      "observation": "Describe the shape of the flute and name three things you notice about its surface.",
+      "analysis": "How does the flute's shape tell you where to hold it and where to blow?",
+      "line": "Find the outline of the flute. Is it straight, curved, or both?",
+      "shape": "The flute is a hollow shape. How is it different from a flat object?",
+      "color": "The color comes from the clay itself. How does that natural color make the flute feel?",
+      "texture": "Clay can be smooth or rough. Where does this flute seem smooth, and where might it be rough?",
+      "space": "Air moves through the hollow space to make a sound. Why must a flute be empty inside?",
+      "light": "Look at light and shadow on the flute. How do they show its round shape?",
+      "meaning": "Why might people long ago have made a flute from clay instead of wood?",
+      "culture": "Aztec people lived in what is now Mexico. How could music have been part of their days?",
+      "technique": "Clay is shaped by hand and then baked in fire. Why must the clay be hollow before it is fired?",
+      "personal": "If you made a clay flute, what shape would you give it? Why?",
+      "critical": "We do not know exactly when this flute was made. How can we learn about it anyway?"
+    },
+    "g35": {
+      "daily": "The record calls this a vessel flute, made of clay. What can you see in its shape that makes it different from a straight tube?",
+      "emotion": "What mood does the plain clay surface create, and which details help create it?",
+      "observation": "Look at the flute from top to bottom. What details about shape and surface can you list?",
+      "analysis": "How does the shape guide where a player's hands and mouth would go?",
+      "line": "How do the outlines and any marks on the clay shape the flute's appearance?",
+      "shape": "This flute is hollow and longer than it is wide. How might that shape affect how air moves inside?",
+      "color": "The record says the medium is clay. How does the natural color affect the way we see this object?",
+      "texture": "The surface of fired clay can show tool marks or smoothing. What clues do you see about how it was finished?",
+      "space": "A flute works because of the empty space inside. How does the outer shape hint at that space?",
+      "light": "How does light on the clay help you tell which parts are raised and which are hollow?",
+      "meaning": "The Met uses the name uilacapitztli. Why might it matter to use the word from the culture that made the instrument?",
+      "culture": "The date range is about 900 to 1521. What might change in a culture over such a long time?",
+      "technique": "A potter shaped this by hand and fired it. What problems might come up when making a hollow object that has to carry air?",
+      "personal": "Have you made something from clay? What did you learn that could help you imagine making this flute?",
+      "critical": "Museum labels sometimes give wide date ranges. How can we be careful about what we say we know?"
+    },
+    "g68": {
+      "daily": "How does this plain clay flute show skill even though it is not heavily decorated?",
+      "emotion": "What tone does the unadorned surface set, and how might it change if it were painted or carved?",
+      "observation": "Describe the flute carefully before interpreting it. Which details did you almost overlook?",
+      "analysis": "How do the parts of the flute, its body, openings and ends, work together as one design?",
+      "line": "How does the outline of the flute suggest both function and hand craft?",
+      "shape": "A vessel flute has a hollow body shaped by the potter. How does its form show the way it holds air?",
+      "color": "The color of fired clay depends on materials and firing. What can the color tell you about the object's making?",
+      "texture": "What textures might remain from handwork on this flute, and what might wear have changed?",
+      "space": "The flute depends on an empty interior. How does the outside shape communicate that hidden space?",
+      "light": "Clay absorbs more light than metal. How does that affect the look of this object in a photograph?",
+      "meaning": "Instruments in Mesoamerica were used in many settings. Why is it risky to guess a single meaning for this flute?",
+      "culture": "How might knowing that this is an Aztec instrument change how you view it compared with a European flute?",
+      "technique": "Compare shaping a flute from clay with carving one from wood. What would be harder, and why?",
+      "personal": "Think about a tool you have made yourself. How does the process shape the way you value it?",
+      "critical": "The Met dates this from ca. 900 to 1521. How should we treat conclusions about it, given that uncertainty?"
+    },
+    "g910": {
+      "daily": "How does the combination of function and craft in this flute challenge the idea that instruments need elaborate decoration to be significant?",
+      "emotion": "What emotional register does the object's simplicity have, and how does your knowledge of its age affect your response?",
+      "observation": "Describe the flute's form and surface in detail, then identify which observations you can support with the image alone.",
+      "analysis": "How does the flute's design coordinate the player's body, the breath and the clay vessel?",
+      "line": "How does the contour of the flute convey the logic of its construction?",
+      "shape": "How does the hollow vessel form join the traditions of pottery and wind instrument making?",
+      "color": "How might the earthy tones of fired clay shape our perception of this object as ancient or natural?",
+      "texture": "What does the surface suggest about the maker's handling of clay, and what might wear and time have altered?",
+      "space": "How does the interior space, which we cannot see, define the instrument's meaning?",
+      "light": "How do shadows on the curved surface help you read the flute's volume?",
+      "meaning": "Why should interpretations of ritual or daily use be cautious when the date and context are broad?",
+      "culture": "How does the name uilacapitztli, rather than a generic label, shape respect for the culture it comes from?",
+      "technique": "What does a hollow vessel flute require of a potter that a decorative pot does not?",
+      "personal": "What does it mean to you to hold, or imagine holding, an object that is hundreds of years old?",
+      "critical": "How do collection histories, such as an 1889 acquisition, shape what we know and do not know about this flute?"
+    },
+    "g1112": {
+      "daily": "What can a single clay flute with a broad date range tell us about Aztec musical life, and what claims would go beyond the evidence?",
+      "emotion": "How does knowing little about the maker affect your emotional response to the object, and why?",
+      "observation": "Distinguish what the image shows from what the record asserts. Which of your observations rely on outside assumptions?",
+      "analysis": "How does the form integrate craft, acoustics and handling into one object, and what remains uncertain?",
+      "line": "How does the flute's contour reflect both the pottery tradition and the demands of a wind instrument?",
+      "shape": "How does the vessel flute classification complicate the usual idea of a flute as a tube?",
+      "color": "How does the neutral tone of clay shape the way museums and viewers read ancient objects as simple or primitive, and why is that problematic?",
+      "texture": "How might surface wear, restoration and display conditions influence our reading of the original object?",
+      "space": "How does the unseen interior complicate the way museums present instruments as silent objects?",
+      "light": "How do photographic lighting conventions shape our sense of the flute's age and character?",
+      "meaning": "How can scholars weigh excavated objects, images and colonial-era writings when interpreting Mesoamerican instruments?",
+      "culture": "How does a museum category such as Musical Instruments frame an object that may have had ritual, social or other roles?",
+      "technique": "How do the technical demands of controlling air and clay together shape what we call musical knowledge?",
+      "personal": "How does your own cultural background shape what you expect a flute to look like?",
+      "critical": "How should institutions that hold Indigenous instruments consider living communities and their descendants when interpreting such objects?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Aerophone-Blow Hole-vessel flute), medium (clay), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed, though the image should be confirmed in case the clay body is modeled as a figure. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A clay vessel flute catalogued as Aztec, from Mexico, with a broad date of about 900–1521. The record does not describe its sound, maker or use, so avoid presenting claims about those as fact.",
+    "vocabulary": ["vessel flute", "Aztec", "Mesoamerica", "fired clay", "wind instrument", "artifact"],
+    "directions": [
+      "Make a simple clay shape and discuss what is needed for it to hold and move air.",
+      "Compare this flute with a recorder or a bottle blown across the top.",
+      "Discuss how museum labels and date ranges show what is known and not known."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ahp-the-palace-guard",
+  "day": "09-06",
+  "title": "The Palace Guard",
+  "artist": "Ludwig Deutsch",
+  "date": "1892",
+  "medium": "Oil on panel",
+  "movement": "Orientalism",
+  "region": "Austria",
+  "image": {
+    "url": "/images/ahp-the-palace-guard.jpg",
+    "credit": "collection not stated on source page; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/ludwig-deutsch/the-palace-guard/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/30383/ludwig_deutsch-the_palace_guard-1892-trivium-art-history-1.jpg"
+  },
+  "altText": "A small, finely detailed painting of a guard in elaborate clothing, shown in a carefully painted setting, in the polished style of nineteenth-century Orientalist painting.",
+  "source": {
+    "museum": "collection not stated on source page",
+    "url": "https://www.arthistoryproject.com/artists/ludwig-deutsch/the-palace-guard/",
+    "objectId": "the-palace-guard",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, movement label, public-domain statement); collection not stated on the page"
+  },
+  "context": "An oil painting on a wooden panel by the Austrian-born artist Ludwig Deutsch, dated 1892 on its source page, which tags it Weapons. Deutsch is associated with Orientalism, a nineteenth-century European style whose way of picturing the Middle East is now widely discussed.",
+  "descriptions": {
+    "k": "A guard stands in a palace. He wears fancy clothes. Look at all the small patterns. What does the guard look like he is doing?",
+    "g12": "Ludwig Deutsch painted a palace guard in fine, careful detail. His clothes and the walls have many patterns and colors. How does the painter show tiny details? What do you think the guard is watching for?",
+    "g35": "Ludwig Deutsch painted The Palace Guard in 1892 on a wooden panel in oil. He painted clothes, patterns and surfaces in very fine detail, like a photograph. The page tags the painting with Weapons, but the focus is on the guard's stance and clothes. What details tell you about the job of a guard?",
+    "g68": "The Palace Guard (1892) by Ludwig Deutsch is an oil painting on panel in the style called Orientalism, in which European artists pictured the Middle East and North Africa. The detail is polished and exact. How do pattern, pose and setting create a sense of order, and how might an outsider's viewpoint shape what we see?",
+    "g910": "Ludwig Deutsch's The Palace Guard (1892) shows the meticulous finish and exotic subject matter typical of Orientalism, a style that is now often examined for the way it presented a European view of other cultures. How do the exact details of costume and setting create authority, and what questions would you ask about who the painting was made for?",
+    "g1112": "The Palace Guard (1892) belongs to Orientalism, the nineteenth-century European painting of Middle Eastern and North African subjects, which scholars now often critique for idealizing, staging and simplifying the places it shows. Deutsch's precise finish makes the scene feel documentary. How do you weigh the artistry of the surfaces against questions about perspective and representation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the guard. What do you think he is watching?",
+      "emotion": "How does the guard make you feel when you look at him?",
+      "observation": "Find three patterns on his clothes or the walls. What are they?",
+      "analysis": "Where does the guard stand, and what is behind him?",
+      "line": "Trace one line in his clothing with your finger. Where does it go?",
+      "shape": "Find a big shape in the guard's clothes. What does it look like?",
+      "color": "Which colors in The Palace Guard do you see the most?",
+      "texture": "The cloth looks soft and the wall looks hard. How would each feel?",
+      "space": "Is the guard close to you or far away? What tells you?",
+      "light": "Where is the brightest spot in the painting?",
+      "meaning": "What job does a guard do in a palace?",
+      "culture": "This painting was made by a painter from Austria. What would you tell a friend about it?",
+      "technique": "The painter used tiny brushes for small patterns. Which pattern looks smallest?",
+      "personal": "What would you ask a guard who stands still all day?",
+      "critical": "What would you add to the painting to show the guard's day?"
+    },
+    "g12": {
+      "daily": "What tiny details in The Palace Guard show how carefully the painter worked?",
+      "emotion": "What mood do the colors and the guard's stillness give you, and what shows it?",
+      "observation": "List everything you see in the painting, from the guard's clothes to the walls.",
+      "analysis": "Why does your eye go to the guard before the background?",
+      "line": "How do straight and curved lines in the clothes and walls guide your eyes?",
+      "shape": "Which shapes repeat in the patterns, and how do they make the painting feel neat?",
+      "color": "How do warm and cool colors work together in the guard's clothes?",
+      "texture": "How did the painter make cloth, wood and metal look different?",
+      "space": "How does the painting show where the guard stands in the space?",
+      "light": "Where does the light land on the guard's clothes and the walls, and which details does it help you notice?",
+      "meaning": "Why might the painter have shown a guard standing still?",
+      "culture": "What can the clothes and setting tell us about a place long ago, and what can't they tell us?",
+      "technique": "How can careful painting make something look almost like a photograph?",
+      "personal": "What do you think a guard thinks about while waiting?",
+      "critical": "Why do you think the painter put in so many details?"
+    },
+    "g35": {
+      "daily": "Which details in The Palace Guard show how carefully Ludwig Deutsch painted clothing and surfaces?",
+      "emotion": "What feeling comes from the guard's stance and the quiet setting, and which details support it?",
+      "observation": "Study the patterns and fabrics. Where do you find the most detail?",
+      "analysis": "How does the placement of the guard in the panel guide your eyes?",
+      "line": "How do vertical lines, curves and edges give the painting structure?",
+      "shape": "How do the repeated shapes in the decorations tie the picture together?",
+      "color": "How do the colors of the clothes and setting shape the mood?",
+      "texture": "How does the painter make fabric, wood and stone feel different without touching them?",
+      "space": "What clues show how far back the space goes behind the guard?",
+      "light": "How does the light on the guard and the wall help you notice certain things first?",
+      "meaning": "What might the painter want us to think about a guard's job by painting him this way?",
+      "culture": "The painting is Orientalist, a European view of other places. What do you think this means for how we look at it?",
+      "technique": "How is careful, smooth oil painting on a panel different from quick, rough brushwork?",
+      "personal": "What would you ask the guard if he could speak?",
+      "critical": "Some viewers say this painting shows more of the painter's imagination than of real life. What evidence would you look for?"
+    },
+    "g68": {
+      "daily": "How do the precise details in The Palace Guard slow your looking and invite you to notice the guard's role?",
+      "emotion": "Which choices of pose, light and setting give the painting a mood of calm authority?",
+      "observation": "Compare how the guard is painted with how the background is painted. What differences stand out?",
+      "analysis": "How does the composition use a single figure to focus attention?",
+      "line": "How do lines in the architecture and clothing support or compete with the figure?",
+      "shape": "How do repeated patterns tie the scene together?",
+      "color": "How does the balance of rich colors affect the atmosphere?",
+      "texture": "How does smooth, controlled brushwork on a panel describe different materials?",
+      "space": "How does the shallow space and careful perspective create a believable interior or doorway?",
+      "light": "How does the direction of light shape the guard and the setting?",
+      "meaning": "What might the painting suggest about guarding, order and power, and what is left to interpretation?",
+      "culture": "Orientalism is the name for a European way of painting other cultures. How might the artist's viewpoint shape what is shown and what is left out?",
+      "technique": "How does the smooth finish make the scene seem more factual than it may be?",
+      "personal": "What emotions would you read in the guard, and what would you avoid assuming?",
+      "critical": "Does a realistic painting show a place as it was, or as the artist chose to imagine it? Use details to explain."
+    },
+    "g910": {
+      "daily": "Which formal choices in The Palace Guard create a convincing, almost documentary scene?",
+      "emotion": "What emotional register results from the controlled light and the guard's stillness?",
+      "observation": "Examine the treatment of fabric, metal and wood. What does the precision reveal about the painter's training and market?",
+      "analysis": "How does the arrangement of the single figure and the setting establish hierarchy?",
+      "line": "How do architectural and decorative lines frame the figure?",
+      "shape": "How do recurring ornamental shapes build rhythm?",
+      "color": "How does the color range unify the scene while keeping the figure legible?",
+      "texture": "How does the meticulous finish serve the subject, and what might it also conceal?",
+      "space": "How does constructed perspective create an enclosed, staged space?",
+      "light": "How does the lighting add authority and atmosphere to the figure?",
+      "meaning": "How might the tag Weapons guide interpretation without making the painting about violence?",
+      "culture": "How does Orientalism, as a European tradition of picturing the Middle East and North Africa, shape the way this painting should be questioned?",
+      "technique": "How does the glossy academic finish affect how truthful the image seems?",
+      "personal": "What does the painting make you consider about who gets to represent whom?",
+      "critical": "To what extent does technical excellence separate or fail to separate a painting from critiques of its worldview?"
+    },
+    "g1112": {
+      "daily": "How does the contrast between meticulous detail and staged setting allow The Palace Guard to be read as documentation, fantasy or commodity?",
+      "emotion": "Might the sense of calm authority belong to the guard or to the framing that the painter chose? Weigh the visual evidence.",
+      "observation": "Scan the junctions of costume, ornament and architecture. How do the controlled transitions shape your reading of the figure?",
+      "analysis": "How does the single-figure composition produce presence without narrative?",
+      "line": "How do decorative and architectural lines relate to the painting's claim to authenticity?",
+      "shape": "In what ways do repeated ornamental forms operate as both description and market-pleasing display?",
+      "color": "How does the rich color serve a conception of luxury and order?",
+      "texture": "How does the high finish relate to academic ideals of craft and to the expectations of nineteenth-century European buyers?",
+      "space": "How does constructed perspective frame the subject for an outside viewer?",
+      "light": "How does the handling of light contribute to a mood of exoticism, and what does that do to the sitter's individuality?",
+      "meaning": "How have post-colonial critiques of Orientalism changed how works like this are displayed and taught?",
+      "culture": "How does an Austrian-born painter's distance from the places depicted complicate the claim of accuracy?",
+      "technique": "How does the painting's technical brilliance challenge the idea that quality and ethical concerns can be separated?",
+      "personal": "How does your own cultural position shape how you read a painting of someone from a culture other than the painter's, and does this painting meet or resist your expectation?",
+      "critical": "What would a persuasive argument look like for displaying this painting alongside critical context, and how would you test it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on panel), year (1892) and page tag (Weapons) read from the arthistoryproject.com page text; the tag suggests a guard with a weapon such as a sword, so questions are neutral and avoid violence themes (focus on costume, pose, pattern, setting). Orientalism is named and, for older bands, framed as a European viewpoint now widely critiqued. The collection is not stated and the region (Austria) is the artist's birthplace, not the setting. Only page text was read; the image file was not visually inspected, and a person should view it (weapon shown at rest, no violence) before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An 1892 oil painting on panel by the Austrian-born artist Ludwig Deutsch, tagged Weapons on its source page, which does not state the collection. Orientalism, the style it belongs to, is now widely discussed as a European view of other cultures.",
+    "vocabulary": [
+      "Orientalism",
+      "oil on panel",
+      "costume",
+      "ornament",
+      "perspective",
+      "viewpoint"
+    ],
+    "directions": [
+      "Have students sketch a pattern from the guard's clothing or setting and explain how they would paint tiny details.",
+      "Ask students to list what the painting shows and what it cannot show about a real place, and discuss why.",
+      "Discuss how an artist's own viewpoint shapes what they show about other people; keep the tone respectful and curious."
+    ]
+  }
+}

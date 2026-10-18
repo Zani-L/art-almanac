@@ -1,0 +1,158 @@
+{
+  "id": "met-73352",
+  "day": "10-24",
+  "title": "Mountains and Rivers in Autumn",
+  "artist": "Artist unknown",
+  "date": "first half of the 17th century",
+  "medium": "Pair of six-panel folding screens; ink, color, and gold on gilded paper",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP704916.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP704916.jpg",
+    "credit": "The Metropolitan Museum of Art, Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A pair of wide folding screens with a landscape of mountains, rivers and trees painted on gold-colored paper. Small donkeys appear in the scenery.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/73352",
+    "objectId": "73352",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A pair of six-panel folding screens made in Japan in the first half of the 17th century, early in the Edo period. The landscape of mountains and rivers in autumn is painted with ink, color, and gold on gilded paper. The museum's record tags the scene with donkeys, rivers, mountains, and trees.",
+  "descriptions": {
+    "k": "These are two big folding screens. They show tall mountains, winding rivers, and trees in autumn. The paper behind the picture is gold. Tiny donkeys are somewhere in the scenery. Can you find them? How far do you think the path goes?",
+    "g12": "These folding screens from Japan show mountains, rivers, and trees in autumn. The back of the picture is shiny gold. Folding screens stand in a room like a movable wall. Look for tiny donkeys in the scenery. Which parts look far away, and which look near?",
+    "g35": "A folding screen is a painted wall that can be moved and folded. This pair from Japan was made in the early 1600s and shows mountains and rivers in autumn, painted with ink and color on gold paper. Notice how small the donkeys are compared with the mountains. The gold would have glowed in candlelight. Why might an artist make nature look so huge and people so small?",
+    "g68": "These six-panel screens, from the first half of the 17th century, turn a room into a landscape. The artist used ink, color, and gold on gilded paper, so the picture shimmers rather than looks like a window. Landscape traditions in East Asia often show humans as small travelers in a vast world. Look for the donkeys among the mountains and trees. How does gold affect your sense of space, light, and mood?",
+    "g910": "Painted early in the Edo period, these paired screens present autumn mountains and rivers on a gilded ground. The gold surface flattens depth while also making the whole composition glow, so mist, distance, and atmosphere are suggested through ink, color, and layered forms. Small donkeys and travelers give a human scale. Consider how screens, meant to be viewed in rooms with changing light, were designed for movement and interaction rather than a single fixed view.",
+    "g1112": "This pair of screens belongs to a long tradition of landscape painting in East Asia, adapted to the Japanese folding screen and enriched with gilded paper. The gold ground complicates Western ideas of pictorial depth, since it is both a flat, reflective surface and a source of atmospheric light. Seasonal subjects such as autumn carried literary and emotional associations, though specific readings depend on evidence. How does a screen's function as part of an interior shape the way we should read its landscape?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where do you think the tiny donkeys are going?",
+      "emotion": "Does this big landscape feel calm, grand, or sleepy? What do you see that tells you?",
+      "observation": "What can you find on the screens? Point to a mountain, a river, and a tree.",
+      "analysis": "Where do your eyes go first? Why?",
+      "line": "Can you find a winding line like a river? Trace it in the air.",
+      "shape": "What shapes do the mountains make? Are they pointy or round?",
+      "color": "The paper is gold. What other colors do you see?",
+      "texture": "How do you think the shiny gold paper would feel?",
+      "space": "Which parts look close and which look far away? How can you tell?",
+      "light": "How would the gold look in a dim room with a candle?",
+      "meaning": "Make up a story about the travelers and their donkeys.",
+      "culture": "Screens like this stood in rooms in Japan. What do you put in a room to make it pretty?",
+      "technique": "This screen folds. Why might it be helpful to have a picture that folds?",
+      "personal": "If you could walk into this picture, where would you go?",
+      "critical": "The donkeys are very small. What does that make you think about the mountains?"
+    },
+    "g12": {
+      "daily": "What journey do you imagine in these mountains? Use clues you see.",
+      "emotion": "What feeling does this big landscape give you? Which parts help?",
+      "observation": "Describe five things you see on the screens, from mountains to trees.",
+      "analysis": "How does the artist lead your eyes through the landscape?",
+      "line": "Find winding lines. Which ones are rivers? Which are paths or mountain edges?",
+      "shape": "What big shapes do the mountains make? What small shapes do the trees make?",
+      "color": "Gold and autumn colors sit together. How do they make the picture feel?",
+      "texture": "How does the artist make mountains look rough and soft at the same time?",
+      "space": "How can you tell the mountains are far away?",
+      "light": "Why do you think the gold glows in a room?",
+      "meaning": "Why might the artist show tiny travelers in huge mountains?",
+      "culture": "Folding screens stood in rooms in Japan. How is that different from a painting on a wall?",
+      "technique": "The artist painted on paper covered with gold. How is that different from painting on plain paper?",
+      "personal": "What is your favorite season? How would you show it in a landscape?",
+      "critical": "These are two screens. Why might an artist make a picture in two parts?"
+    },
+    "g35": {
+      "daily": "What moment or mood does the artist show, and what details support your idea?",
+      "emotion": "What mood does this autumn landscape have? Which choices create it?",
+      "observation": "Study the screens for one minute. What tiny details in the mountains or rivers did you miss at first?",
+      "analysis": "How does the artist organize mountains, rivers, and trees across a very wide space?",
+      "line": "How do the lines of rivers and mountain edges lead your eye across the screens?",
+      "shape": "How do the shapes of large mountains contrast with the tiny shapes of trees and donkeys?",
+      "color": "How does gold affect the colors painted on top of it?",
+      "texture": "How does the artist show rocks, trees, and water with ink and color?",
+      "space": "How does the artist show distance when the paper is flat and gold?",
+      "light": "How might the screens look different by candlelight than in sunlight?",
+      "meaning": "Why might an artist show people as tiny in a huge landscape?",
+      "culture": "Why might people in 1600s Japan have wanted gold screens in their homes?",
+      "technique": "The paper is covered with gold, then painted with ink and color. Why might that need careful planning?",
+      "personal": "Think of a place where you felt small compared to nature. How does this picture match that feeling?",
+      "critical": "Is this a real place or an imagined one? What evidence do you have?"
+    },
+    "g68": {
+      "daily": "How do the screens create a world that feels both vast and quiet?",
+      "emotion": "Which design choices create the screens' autumn mood?",
+      "observation": "Describe the landscape from one end to the other. Which details seem most carefully placed?",
+      "analysis": "How does the composition guide your eye across six panels and then across two screens?",
+      "line": "How do mountain contours and river lines create rhythm across the surface?",
+      "shape": "How do rounded and angular forms balance the composition?",
+      "color": "How does a gold ground change the effect of ink and color compared with plain paper?",
+      "texture": "How does the artist suggest rock, foliage, and water within a flat gold field?",
+      "space": "How does the artist create depth with overlapping forms and areas of gold?",
+      "light": "How might the gold bounce lamplight around a room, and how does that change the experience of the picture?",
+      "meaning": "What might small travelers with donkeys suggest about people and nature? Offer more than one idea.",
+      "culture": "How might screens like this show a patron's wealth and taste?",
+      "technique": "What skills does it take to paint on a folding, gilded surface?",
+      "personal": "Which natural place makes you feel small, and how could an artist show that?",
+      "critical": "How might the effect of a screen differ in a museum compared with a room in the 1600s?"
+    },
+    "g910": {
+      "daily": "How do format, gold ground, and landscape traditions combine to create atmosphere?",
+      "emotion": "How does the picture evoke autumn through scale, color, and light rather than narrative?",
+      "observation": "Describe the visual hierarchy. How do small figures and large mountains interact?",
+      "analysis": "Analyze how the composition uses panels, overlapping forms, and open gold areas.",
+      "line": "How does line quality distinguish mountains, rivers, and foliage?",
+      "shape": "How do the interplay of large landforms and small details create balance and scale?",
+      "color": "How does the gilded ground transform the relationship among hues?",
+      "texture": "How does the artist translate the textures of nature into painted marks?",
+      "space": "How does the screen reconcile illusionistic depth with a reflective, flat surface?",
+      "light": "How does the screen's reflective surface make light an active participant in the work?",
+      "meaning": "What cultural meanings might landscape and autumn carry, and which are documented versus assumed?",
+      "culture": "How does the screen reflect the connection between Japanese art and wider East Asian landscape traditions?",
+      "technique": "How does the folding format affect composition and viewing?",
+      "personal": "How does your experience of nature and scale shape your reading of the picture?",
+      "critical": "What is lost when a screen made for living spaces is displayed in a museum gallery?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the screens about the relationship between people, landscape, and luxury, and what remains uncertain?",
+      "emotion": "How does the work create mood through scale and light, and how might that differ from Western landscape conventions?",
+      "observation": "Describe the screens' pictorial organization precisely. Where does description begin to imply meaning?",
+      "analysis": "Analyze how the pair of screens works as a single composition across a large span.",
+      "line": "How does contour operate in ink landscape traditions, and how does gilding change its effect?",
+      "shape": "How does the play of massive forms and tiny details generate sublimity or intimacy?",
+      "color": "How might pigment changes and gold wear have altered the screens' original appearance?",
+      "texture": "How do gilded and painted passages interact to suggest natural textures?",
+      "space": "How does the gold ground complicate readings of space based on linear perspective?",
+      "light": "How does the screens' reflective surface turn light into a medium?",
+      "meaning": "Evaluate readings of the work as a seasonal poem, a display of status, or a decorative backdrop. Which are best supported?",
+      "culture": "How do such screens illustrate the intersection of patronage, interior design, and landscape tradition in early Edo Japan?",
+      "technique": "What does the use of gilded paper imply about workshop organization and material cost?",
+      "personal": "How does your own cultural context shape what you expect a landscape to look like?",
+      "critical": "How should we weigh intended use in a room against the museum's presentation as a work of art?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Donkeys, Rivers, Mountains, Trees) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A pair of six-panel folding screens, first half of the 17th century, early Edo period. They are painted in ink, color, and gold on gilded paper, with a landscape of mountains and rivers in autumn.",
+    "vocabulary": [
+      "folding screen",
+      "gilded paper",
+      "landscape",
+      "Edo period",
+      "panel",
+      "atmosphere"
+    ],
+    "directions": [
+      "Have students fold a long sheet into six panels and plan a landscape across the folds.",
+      "Shine a flashlight on gold paper at different angles to see how light changes the surface.",
+      "Ask students to find the smallest detail in the screens and describe how scale affects mood."
+    ]
+  }
+}

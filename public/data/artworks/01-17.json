@@ -1,0 +1,159 @@
+{
+  "id": "ahp-mona-lisa",
+  "day": "01-17",
+  "title": "Mona Lisa",
+  "artist": "Leonardo da Vinci",
+  "date": "1503-1506",
+  "medium": "Oil on panel",
+  "movement": "Italian Renaissance",
+  "region": "Italy",
+  "image": {
+    "url": "/images/ahp-mona-lisa.jpg",
+    "credit": "Musée du Louvre, Paris; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/leonardo-da-vinci/mona-lisa/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/29024/leonardo_da_vinci-mona_lisa-1506-obelisk-art-history-1.jpg"
+  },
+  "altText": "A half-length portrait of a woman seated and turned slightly toward the viewer, with dark hair, a dark dress and folded hands. Behind her a hazy landscape of paths, water and distant mountains fades into soft blue-green tones.",
+  "source": {
+    "museum": "Musée du Louvre, Paris",
+    "url": "https://www.arthistoryproject.com/artists/leonardo-da-vinci/mona-lisa/",
+    "objectId": "mona-lisa",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, collection, public-domain statement)"
+  },
+  "context": "An oil painting on a wooden panel by Leonardo da Vinci, made between about 1503 and 1506 and now in the Louvre in Paris. It is often linked to sfumato, a way of blending tones so that edges look soft and smoky.",
+  "descriptions": {
+    "k": "A woman sits and looks at you. Her hands are folded. Behind her is a faraway land with hills and water. Look at her face. What do you think she feels?",
+    "g12": "Leonardo da Vinci painted this woman a very long time ago. She sits calmly with her hands folded, and a misty land with hills and water is behind her. Her face has no hard lines. What do you notice about her eyes and mouth?",
+    "g35": "Leonardo da Vinci painted the Mona Lisa between about 1503 and 1506 in oil on a wooden panel. A woman sits in front of a hazy landscape, and her skin and clothes blend softly into shadow. This blending is called sfumato. Where can you find soft edges, and how do they change the way her face looks?",
+    "g68": "In the Mona Lisa (c. 1503-1506), Leonardo places a seated figure in a three-quarter pose before a dreamlike landscape. Sfumato, the smoky blending of tone, softens the outlines around her eyes and mouth, so her expression can seem to shift as you look. How do the soft edges and the distant, misty background work together to hold your attention?",
+    "g910": "Leonardo's Mona Lisa (c. 1503-1506) is a landmark of the Italian Renaissance. The pyramid-like pose, the calm folded hands and the atmospheric landscape create balance and depth, while sfumato leaves her expression open to interpretation. The painting is famous for that ambiguity. How do the technical choices make a quiet portrait so hard to look away from?",
+    "g1112": "The Mona Lisa (c. 1503-1506) shows how Renaissance portraiture joined close observation of the sitter with an invented, atmospheric setting. Leonardo's sfumato dissolves contours, which is one reason viewers have read the expression in so many ways. Fame itself now shapes how people see it. How might the painting's reputation affect your looking, and what would a fresh look reveal that the reputation hides?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at her face. What do you think she is thinking?",
+      "emotion": "How does she make you feel when she looks at you?",
+      "observation": "Find her hands and the hills behind her. Which one is closer to you?",
+      "analysis": "Where does she sit, and what is behind her?",
+      "line": "Trace the path or water in the faraway land with your finger. Does it wiggle or go straight?",
+      "shape": "Her head and shoulders make a big shape. What shape does it look like?",
+      "color": "Which colors do you see in her dress and in the land behind her?",
+      "texture": "Her skin looks very smooth. How would it feel if you could touch the painting?",
+      "space": "Which part of the picture feels near and which feels far away?",
+      "light": "Where does the light shine brightest on her?",
+      "meaning": "Why might the painter have put a faraway land behind her?",
+      "culture": "This painting hangs in a museum in Paris. What would you tell a friend about it?",
+      "technique": "Leonardo used soft, blended paint. How is that different from drawing with a hard pencil?",
+      "personal": "If someone painted your portrait, where would you want to sit?",
+      "critical": "What would you change if you painted her picture today?"
+    },
+    "g12": {
+      "daily": "Why do people say her face seems to change when you keep looking?",
+      "emotion": "What mood does her face give you, and which small parts make you feel that?",
+      "observation": "List everything you see from her hands up to her hair, and then the land behind.",
+      "analysis": "Why does your eye go to her face first before the background?",
+      "line": "How do the winding paths and water in the background lead your eyes toward her?",
+      "shape": "How do her rounded shoulders and folded arms make a steady shape?",
+      "color": "How do the dark clothes and the soft blue-green land make her face stand out?",
+      "texture": "How did Leonardo make her skin look so smooth with paint?",
+      "space": "How does the hazy land make the background feel far away?",
+      "light": "Where does the light fall on her face and hands, and where does it fade into shadow?",
+      "meaning": "Why might Leonardo have painted a quiet, calm pose instead of an action scene?",
+      "culture": "What can a portrait like this tell us about people who were painted long ago?",
+      "technique": "Leonardo blended his paint very gently. How can you tell there are no hard outlines?",
+      "personal": "How would you pose if you wanted a portrait that shows you calm and thoughtful?",
+      "critical": "Why do you think so many people want to see this small painting in person?"
+    },
+    "g35": {
+      "daily": "What details around her mouth and eyes make her expression hard to name? Describe them.",
+      "emotion": "What feeling do you get from her pose and her gaze, and what in the painting supports it?",
+      "observation": "Study the landscape behind her. What features can you find, and where do they seem to end?",
+      "analysis": "How does the way she sits, with arms folded and body turned slightly, guide your eyes around the picture?",
+      "line": "Where do the soft lines of her hair, veil and sleeves blend into the dark, and what does that do to her outline?",
+      "shape": "How does the shape of her body create a stable triangle, and why might that feel calm?",
+      "color": "How does the warm skin tone stand out against the cool greens and blues of the background?",
+      "texture": "How do you think Leonardo made her face look smooth enough to have almost no brushstrokes?",
+      "space": "How do the winding paths and fading mountains help the background look distant?",
+      "light": "How does the gentle light on her face and chest keep the shadows from feeling harsh?",
+      "meaning": "What might the painter want us to think about by pairing a calm woman with a wide, quiet landscape?",
+      "culture": "What can this portrait tell us about how artists in Italy around 1500 wanted to show a person?",
+      "technique": "What do you think sfumato means, using only what you see in her face and edges?",
+      "personal": "What would you want to know about the woman in this portrait if you could ask one question?",
+      "critical": "Some people say the painting is overrated, others say it is a masterpiece. What evidence from the image would you use for your view?"
+    },
+    "g68": {
+      "daily": "How does the shifting expression around her mouth and eyes invite different readings of her mood?",
+      "emotion": "Which choices of pose, gaze and setting make the portrait feel both intimate and distant?",
+      "observation": "Compare the level of detail in her face with the detail in the landscape. What differences stand out?",
+      "analysis": "How does the pyramid-like arrangement of her torso, arms and hands organize the composition?",
+      "line": "How do the soft contours of her hair and veil differ from the sharper lines of the landscape paths?",
+      "shape": "How do the shapes of her shoulders and folded hands stabilize the figure against the open background?",
+      "color": "How does the muted palette of earthy browns, greens and blues affect the mood of the portrait?",
+      "texture": "How does the nearly invisible brushwork on her skin change the way you read the surface of the painting?",
+      "space": "How does atmospheric perspective, with its paler and bluer distance, create depth behind the figure?",
+      "light": "How does the gradual move from light to shadow, rather than a sharp edge, model her face and hands?",
+      "meaning": "What might the unpeopled landscape behind her say about the relationship between a person and the world?",
+      "culture": "How might Renaissance ideas about observing nature and people have shaped a portrait like this?",
+      "technique": "How does sfumato differ from outlining forms, and what does it allow Leonardo to achieve in the face?",
+      "personal": "If you had to describe her personality using only visual evidence, what would you say and what would you leave uncertain?",
+      "critical": "Does knowing a painting is famous change how you judge it? Use details from the image to explain."
+    },
+    "g910": {
+      "daily": "How does the ambiguity of her expression sustain interest, and which painted details produce that ambiguity?",
+      "emotion": "What emotional range can viewers project onto her calm face, and how does the surrounding setting shape it?",
+      "observation": "Examine the transition between her hands, sleeves and the dark ground. What does the lack of hard contour suggest about Leonardo's method?",
+      "analysis": "How does the stable triangular pose anchor the figure, and how does the open landscape counterbalance it?",
+      "line": "How do the continuous, flowing contours of her hair and veil connect to the winding forms in the background?",
+      "shape": "How do the rounded, simplified masses of her torso and hands build a monumental presence in a small picture?",
+      "color": "How does the limited, harmonious palette unify the foreground figure and the distant landscape?",
+      "texture": "What does the almost seamless surface imply about the painter's priorities compared with visible brushwork?",
+      "space": "How do the horizon, the blue-toned distance and the diminishing details construct depth?",
+      "light": "How does subtle modeling of light across the face produce volume without outlines?",
+      "meaning": "What might the combination of an individual portrait and an invented landscape suggest about Renaissance interests?",
+      "culture": "How does the portrait reflect the Italian Renaissance interest in the individual, and how might it differ from earlier art?",
+      "technique": "How does sfumato depend on layers of thin, translucent paint, and what visual effect results?",
+      "personal": "What does this painting make you consider about how much of a person a portrait can truly reveal?",
+      "critical": "To what extent does the painting's fame make a fresh critical reading difficult, and how could you test your own response?"
+    },
+    "g1112": {
+      "daily": "How does the open-endedness of her expression allow competing interpretations, and what in the paint supports each of them?",
+      "emotion": "Might the emotional tone be a property of the painting or of the viewer's expectation? Weigh the visual evidence.",
+      "observation": "Scan the junctions of figure, clothing and ground. How do the dissolved boundaries shape your reading of the sitter?",
+      "analysis": "How do the pyramidal pose and the oblique turn of the body combine stability with a sense of presence in the space?",
+      "line": "How do the sinuous curves in the veil, hair and landscape establish a visual rhyme between figure and world?",
+      "shape": "In what ways does the monumental simplification of her form reflect the ideals of High Renaissance composition?",
+      "color": "How does the restrained, layered palette serve a conception of unity between figure and setting?",
+      "texture": "How does the near absence of visible brushwork relate to ideas about illusion and craft in Renaissance painting?",
+      "space": "How does the combination of atmospheric perspective and an elevated, invented horizon produce a space that feels observed yet imagined?",
+      "light": "How does graded chiaroscuro contribute to the sense of life in the face, and what does it withhold?",
+      "meaning": "How might the portrait be read as both a record of a sitter and a meditation on perception, and what limits do we have in deciding?",
+      "culture": "How do the painting's later fame, display and reproduction complicate the effort to see it in its original context?",
+      "technique": "How does the sfumato technique of thin, repeated glazes challenge the idea that a clear outline defines form?",
+      "personal": "How does your own cultural background shape what you expect a portrait to communicate, and how does this painting meet or resist that expectation?",
+      "critical": "What would a persuasive argument look like that the Mona Lisa's status rests on more than its technique, and how would you counter it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on panel), movement, year, collection and tags (portraits, women, sfumato) read from the arthistoryproject.com page text; no concerning terms (no nudity, violence, death or frightening imagery). Only page text was read; the image file was not visually inspected, and a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A portrait painted in oil on a wooden panel by Leonardo da Vinci between about 1503 and 1506, now in the Louvre. Sfumato, the soft blending of tones, is often linked to this work.",
+    "vocabulary": [
+      "portrait",
+      "sfumato",
+      "Renaissance",
+      "atmospheric perspective",
+      "composition",
+      "oil on panel"
+    ],
+    "directions": [
+      "Have students sketch a face with a hard outline, then redo it by blending edges with a finger or soft pencil, and compare.",
+      "Ask students to write three different descriptions of her expression and discuss why the images allow so many readings.",
+      "Compare the detail in the face and the landscape, and discuss how the artist guides attention."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-436647",
+  "day": "09-22",
+  "title": "The Huis ten Bosch at The Hague and Its Formal Garden (View from the South)",
+  "artist": "Jan van der Heyden",
+  "date": "ca. 1668–70",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145408.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145408.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1964",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, detailed painting of a large house with a neatly arranged formal garden in front of it.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436647",
+    "objectId": "436647",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Jan van der Heyden was a Dutch painter known for precise views of buildings and cityscapes. The Huis ten Bosch is a house near The Hague, built in the 1640s for a Dutch princely family. Van der Heyden is also remembered for improving the fire hose.",
+  "descriptions": {
+    "k": "This is a big house with a garden. The garden is neat, with careful shapes. Everything is painted in tiny detail. Can you find the house? Can you find the garden? How many details can you spot?",
+    "g12": "A grand house sits behind a neat garden. The garden is planted in careful patterns. The painting is small, but the painter included tiny details. Jan van der Heyden painted this long ago in the Netherlands. What tiny details can you find?",
+    "g35": "Jan van der Heyden painted the Huis ten Bosch, a house near The Hague, along with its formal garden. In a formal garden, plants and paths are arranged in neat patterns. Van der Heyden was famous for tiny, exact detail, so you can look closely at the windows, paths and plants. Which detail surprises you most, and why do you think he painted it so carefully?",
+    "g68": "Van der Heyden painted buildings with remarkable precision. This view of the Huis ten Bosch and its formal garden, made around 1668 to 1670, shows how orderly design could be a source of pride. The garden's patterns and the strict geometry of the house create a sense of calm and control. Small as the panel is, it rewards close looking. How does the painter balance exact detail with an overall composition, and what does the order suggest about the people who owned the place?",
+    "g910": "In this view of the Huis ten Bosch from the south, van der Heyden turns architecture and garden design into a study of order and precision. The formal layout of paths and planting echoes the symmetry of the building, presenting an image of cultivated control over nature. The exact detail gives the painting an almost documentary quality, yet the composition and light are carefully managed. How does the painter's attention to detail shape your trust in the image, and what might he have idealized?",
+    "g1112": "Van der Heyden's meticulously detailed view of the Huis ten Bosch, painted around 1668 to 1670, presents a princely house and garden as orderly and harmonious. The picture's near-documentary precision invites us to treat it as a record, but scholars of his work note that he often adjusted and idealized the views he painted. The formal garden itself expresses a cultural ideal of nature ordered by design. How do we weigh the painting's apparent accuracy against its composed effect, and whose view of the place does it offer?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look for tiny details in the house and garden. What is the smallest thing you can find?",
+      "emotion": "Does this place feel neat and calm, or messy and loud? What shows you?",
+      "observation": "Can you find the house and the garden? Point to each one.",
+      "analysis": "Is the house or the garden bigger in the picture? How can you tell?",
+      "line": "Find a straight line in the garden. Trace it with your finger.",
+      "shape": "What shapes can you find in the garden? Look for squares and curves.",
+      "color": "What colors do you see in the house and in the garden?",
+      "texture": "How would the garden paths feel under your shoes? Smooth or crunchy?",
+      "space": "What part of the picture is nearest to you? What is farthest away?",
+      "light": "Which parts of the house and garden are bright?",
+      "meaning": "Who do you think lives in this big house?",
+      "culture": "Long ago, people in the Netherlands made gardens in neat patterns. What gardens or parks have you seen?",
+      "technique": "The painter used very small brushes. What small thing would you paint with a tiny brush?",
+      "personal": "If you could walk in this garden, where would you go first?",
+      "critical": "Why do you think the painter made everything so neat?"
+    },
+    "g12": {
+      "daily": "What tiny details did the painter include in the garden and the house? Point to your favorite.",
+      "emotion": "What feeling do the neat paths and tidy plants give you?",
+      "observation": "Describe the house, then the garden, then anything in the sky or around them.",
+      "analysis": "How does the painter lead your eyes from the front of the garden to the house?",
+      "line": "Follow a path in the garden. How do straight lines make the garden feel orderly?",
+      "shape": "Look for repeating shapes in the garden and the house. How do they match?",
+      "color": "How do the greens of the garden and the colors of the house work together?",
+      "texture": "How does the painter show the difference between brick or stone, leaves and paths?",
+      "space": "How can you tell how far the garden stretches before the house?",
+      "light": "Where does sunlight touch the house and garden? How does it change the colors?",
+      "meaning": "Why might the owners have wanted a painting of their house and garden?",
+      "culture": "What does this garden tell you about how some people in the Netherlands lived long ago?",
+      "technique": "The painting is on a small wood panel. Why might a small panel be good for tiny details?",
+      "personal": "Would you like to live in a house like this? Why or why not?",
+      "critical": "Does the painting look exactly like the real place, or might the painter have changed it? What makes you think so?"
+    },
+    "g35": {
+      "daily": "Van der Heyden painted this house and garden in tiny detail. Choose a detail and explain why you think he included it.",
+      "emotion": "What mood does the neat, ordered scene create? Point to details that help set it.",
+      "observation": "Look closely at the house and garden. What small details can you find in the windows, paths or plantings?",
+      "analysis": "How does the painter arrange the garden and the house so your eyes move from front to back?",
+      "line": "How do the straight paths and the lines of the building make the picture feel orderly?",
+      "shape": "How do the repeating shapes in the garden echo the shapes of the house?",
+      "color": "How do the greens of the garden and the colors of the house balance each other?",
+      "texture": "How does the painter show the different surfaces, such as plants, paths and building walls?",
+      "space": "How does the painter use size and overlap to show how far the garden stretches?",
+      "light": "Describe how light falls on the house and garden. Where are the shadows?",
+      "meaning": "A formal garden is planned and controlled. What might that suggest about the people who made it?",
+      "culture": "Why might a family of high rank in the 1600s have wanted their house and garden painted?",
+      "technique": "Painting this much detail requires patience and a steady hand. What steps might a painter take?",
+      "personal": "Think of a place you keep very neat. How is it like this garden?",
+      "critical": "Can a very detailed painting still leave things out? What might be missing?"
+    },
+    "g68": {
+      "daily": "How does van der Heyden's precision shape the way you read the house and garden: as a record, an ideal, or both?",
+      "emotion": "What mood does the ordered design create, and how would a wilder garden change it?",
+      "observation": "List the architectural and garden details you can find. Which ones surprised you at close range?",
+      "analysis": "How does the composition create balance between the building and the garden?",
+      "line": "How do the straight paths and building edges form lines of perspective that organize the scene?",
+      "shape": "How do the geometric patterns of the garden relate to the shapes of the house?",
+      "color": "How does the color scheme help separate garden, building and sky while keeping harmony?",
+      "texture": "How does the painter distinguish the textures of plants, gravel and building materials in a small space?",
+      "space": "How does perspective help you feel the depth between the viewer and the house?",
+      "light": "How does the lighting help define forms and create a calm atmosphere?",
+      "meaning": "What might a carefully ordered garden suggest about ideas of control and beauty?",
+      "culture": "What does a painting of a princely house tell us about who commissioned or collected such pictures?",
+      "technique": "How does painting on a hard wooden panel help produce this level of fine detail?",
+      "personal": "How do you feel in places that are very ordered compared to places that are wild?",
+      "critical": "If a painting is extremely accurate, can we trust it completely? What questions would you ask?"
+    },
+    "g910": {
+      "daily": "How does van der Heyden's meticulous detail contribute to the painting's character as both document and composed image?",
+      "emotion": "How do symmetry, order and fine detail combine to create the painting's mood?",
+      "observation": "Describe the visual hierarchy of the scene. What does the eye see first, and how does the detail reward longer looking?",
+      "analysis": "Analyze how the garden's design supports the composition and relates to the building.",
+      "line": "How do straight lines and perspective create a sense of control and order?",
+      "shape": "How does repetition of geometric forms unify the garden and the building?",
+      "color": "How does a controlled palette support clarity and an impression of calm?",
+      "texture": "How does the painter render different materials with minimal means yet convincing effect?",
+      "space": "How does the construction of space position the viewer in relation to the house?",
+      "light": "How does clear, even light enhance the painting's near-documentary quality?",
+      "meaning": "What does a formal garden express about attitudes toward nature, status and design?",
+      "culture": "How might views of princely houses have functioned in Dutch culture, as record, advertisement or source of pride?",
+      "technique": "How does van der Heyden's technique balance minute detail with an overall unity of effect?",
+      "personal": "How does your response to precision, to tiny and exact things, shape your enjoyment of this painting?",
+      "critical": "How should we distinguish between accuracy and idealization in an image that seems so exact?"
+    },
+    "g1112": {
+      "daily": "What does the painting's extreme precision invite us to believe, and what questions might its polish discourage?",
+      "emotion": "How does the painting generate tranquility through geometry and clarity, and what might that tranquility conceal?",
+      "observation": "Describe the formal arrangement of house, garden and space as precisely as possible before interpreting. Where did you notice yourself assuming accuracy?",
+      "analysis": "How does the composition reconcile the demands of documentary description and pictorial design?",
+      "line": "How do perspectival lines operate as instruments of order, and what ideology of nature might they express?",
+      "shape": "How does the interplay of geometric garden pattern and architecture produce harmony, and where might it suggest artificiality?",
+      "color": "How does color restraint contribute to the painting's clarity, and what does it forgo?",
+      "texture": "How does the rendering of minute surfaces make the painting's claims to truth, and how could that be a persuasive device?",
+      "space": "How does the viewpoint shape the relationship between viewer and estate, as visitor, observer or admirer?",
+      "light": "How does uniform illumination support the impression of order and permanence?",
+      "meaning": "How do we read a picture of an aristocratic estate when we lack information about what the painter changed or omitted?",
+      "culture": "How do formal gardens and their depictions express cultural ideas of power, civility and control over nature?",
+      "technique": "What does the combination of small scale and high finish tell us about the conditions of viewing and the painter's reputation?",
+      "personal": "How do your own preferences for order or irregularity influence the way you read this image?",
+      "critical": "Whose labor and whose viewpoint are absent from a picture that celebrates a cultivated estate?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Houses, Gardens) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small panel painting by Jan van der Heyden of the Huis ten Bosch near The Hague, made around 1668 to 1670. Van der Heyden is known for precise architectural views, and the Met also holds a companion view of the house from the east.",
+    "vocabulary": [
+      "formal garden",
+      "symmetry",
+      "perspective",
+      "panel",
+      "architecture",
+      "detail"
+    ],
+    "directions": [
+      "Give students a magnifier or zoom tool and ask them to find the smallest detail they can.",
+      "Design a simple formal garden plan on grid paper using symmetry.",
+      "Discuss whether a very detailed picture is the same as a true picture."
+    ]
+  }
+}

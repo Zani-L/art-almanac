@@ -1,0 +1,159 @@
+{
+  "id": "met-12889",
+  "day": "04-10",
+  "title": "Family Group of Four on Sofa",
+  "artist": "Artist unknown",
+  "date": "ca. 1830s",
+  "medium": "Oil on canvas",
+  "movement": "American folk painting",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap1970.283.4.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap1970.283.4.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edgar William and Bernice Chrysler Garbisch, 1970",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A painted portrait of a family of four, adults and children, seated together on a sofa and facing the viewer. The figures are painted in a simple, flat folk style.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/12889",
+    "objectId": "12889",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, public-domain flag, credit line, tags (Children, Men, Women, Family) and image URLs read from the record. The record gives no artist name."
+  },
+  "context": "A group portrait of a family on a sofa, painted in oil on canvas around the 1830s by an artist whose name is not recorded. Paintings like this were often made by traveling or local portrait painters who were not trained in academies.",
+  "descriptions": {
+    "k": "Four people sit together on a sofa. They are a family. Some are grown-ups and some are children. They look out at us. What do you think they want us to know about them?",
+    "g12": "A family of four sits close together on a sofa. This picture was painted almost two hundred years ago in America. No one knows the name of the painter. The people look right at us. How are they sitting? What do their clothes and faces tell you about them?",
+    "g35": "This family portrait was painted in the United States around the 1830s, but the artist is unknown. Four family members sit together on a sofa and look out at us. Portraits like this showed that a family was proud and respectable. Look at how the people are arranged and what they wear. What do you notice about how the painter shaped faces, clothing, and furniture?",
+    "g68": "Before cameras were common, families paid painters to make portraits, and many of these painters had little formal training. This unsigned work from the 1830s shows four family members posed together on a sofa. The painter's simple, direct style, often called folk or naive, focuses on clear shapes and patterns instead of realistic depth. The pose and clothes suggest how the family wanted to be seen. What might they have hoped to show?",
+    "g910": "Family Group of Four on Sofa is an unattributed portrait from about the 1830s, a period when itinerant and local painters made portraits for middle-class families. Works of this type often use flatter shapes, strong outlines, and careful attention to costume and furniture, which can express status and respectability. The unknown painter's choices about arrangement, who sits where, and how each person is painted invite questions about family roles. Because the sitters and the maker are unidentified, interpretations should remain tentative.",
+    "g1112": "This anonymous family portrait of the 1830s belongs to a large body of American folk and vernacular portraiture, produced by painters who served the growing middle class beyond the academies. Such works pose real questions about categories: terms like folk or naive describe style and training, but they can obscure the painter's skill and deliberate choices. The arrangement of the four sitters on a sofa, their dress, and the furnishings may signal status, family structure, and ideals of domestic life, though without documentation about the sitters or maker these readings remain provisional. The painting invites careful looking and caution about what we assume."
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think each person is in this family? Pick one and tell about them.",
+      "emotion": "Do the people look happy, serious, or shy? How can you tell?",
+      "observation": "How many people are on the sofa? Count them and point to each one.",
+      "analysis": "Which person do you see first? Why do you think your eyes went there?",
+      "line": "Can you trace the edge of the sofa with your finger? Is it straight or curvy?",
+      "shape": "Find a round shape, like a head. How many round heads can you find?",
+      "color": "What colors do the people wear? Which color do you see the most?",
+      "texture": "What do you think the sofa would feel like if you sat on it?",
+      "space": "Who sits in the middle? Who sits near the edge?",
+      "light": "Do the faces look bright or shadowy? Which part of the picture is brightest?",
+      "meaning": "Why do you think the family sat so close together for this picture?",
+      "culture": "This family lived long ago. What things in the picture look different from your home?",
+      "technique": "The artist used oil paint on cloth. Why might a painter work slowly on a family picture?",
+      "personal": "Who is in your family? If you sat for a portrait, where would you sit?",
+      "critical": "There was no camera, so a painter made this. How is a painting of a family different from a photo?"
+    },
+    "g12": {
+      "daily": "What do you think this family wants us to know about them? Use something you see to explain.",
+      "emotion": "How do the faces of the people feel to you? What parts of the faces help you decide?",
+      "observation": "List five things you can see about the people, their clothing, and the sofa.",
+      "analysis": "How are the family members arranged? What does their arrangement tell you about the family?",
+      "line": "Look for strong outlines around the people. How do those lines make them stand out?",
+      "shape": "The people and sofa are made of simple shapes. Which shapes do you see most?",
+      "color": "Which colors make the clothing pop out against the background? Why might the painter choose them?",
+      "texture": "Which things look soft, like clothing, and which look hard, like furniture? How can you tell?",
+      "space": "Does this picture feel deep or flat? What helps you decide?",
+      "light": "Where does the brightest light fall in the picture? Is it on a face or on clothing?",
+      "meaning": "Why might a family want a painted portrait like this to hang in their home?",
+      "culture": "People in the 1830s might have worn their best clothes for a portrait. What do the clothes tell you about them?",
+      "technique": "Some painters taught themselves to paint. What parts of this picture show simple, direct painting?",
+      "personal": "What is your family's special way of sitting together? How is it like or different from this portrait?",
+      "critical": "We do not know who painted this or who the people are. What questions would you ask if you could find out?"
+    },
+    "g35": {
+      "daily": "What can you learn about this family from how they sit, what they wear, and how the painter shows them?",
+      "emotion": "What mood do the expressions and postures create? Which details lead you to that opinion?",
+      "observation": "After one minute of silent looking, what small details do you notice in the clothing, faces, and sofa?",
+      "analysis": "How does the painter organize four people on one sofa so that the picture feels balanced?",
+      "line": "How do outlines and edges around the figures and the sofa affect how flat or solid they look?",
+      "shape": "Which shapes repeat across the picture, such as heads, shoulders, and sofa edges, and how do they connect the family?",
+      "color": "How does the painter use color to separate the people from one another and from the furniture?",
+      "texture": "How does the painter show different cloth, skin, and furniture surfaces? Where do you see the most careful detail?",
+      "space": "This painting does not show much depth. How does that change the way you look at the people?",
+      "light": "The light looks even and clear instead of dramatic. How does that affect the mood of the portrait?",
+      "meaning": "Why might the painter have placed the grown-ups and children in particular spots on the sofa?",
+      "culture": "In the 1830s, many families commissioned portraits from local or traveling painters. What might this portrait have meant to a family at that time?",
+      "technique": "The painter was likely self-taught or trained outside an academy. How might that explain the simple shapes and bold outlines?",
+      "personal": "If your family had a portrait made today, how would you want to be shown? How might that differ from this one?",
+      "critical": "Why do you think the names of the artist and the family were not saved? Whose stories might be missing from museums?"
+    },
+    "g68": {
+      "daily": "What choices does the painter make about the family's pose, clothing, and setting, and what do those choices communicate?",
+      "emotion": "How do the sitters' posture and expressions create a mood of formality or warmth? Use evidence.",
+      "observation": "Scan from left to right. Which parts of the painting are most carefully worked, and which seem simplified?",
+      "analysis": "How does the arrangement on the sofa create hierarchy or balance among the family members?",
+      "line": "How do strong outlines and flat shapes affect the sense of volume compared with a more realistic portrait?",
+      "shape": "How do the repeated forms of heads, shoulders, and furniture create rhythm across the canvas?",
+      "color": "Which colors are strongest, and how do they direct attention to particular family members?",
+      "texture": "How does the painter suggest fabric and furniture even with a simple style?",
+      "space": "How does the shallow space affect the feeling that the figures are presented to us rather than caught in a moment?",
+      "light": "How does the even lighting affect how we read the figures' faces and their relationships?",
+      "meaning": "What might the sofa, clothing, and pose suggest about how the family wanted to be seen in the 1830s?",
+      "culture": "How did portrait painting serve ordinary families in early nineteenth-century America?",
+      "technique": "What are the differences between a painter trained in an academy and a folk painter, and how do you see them here?",
+      "personal": "How is posing for a family picture today different from sitting for a painter in the 1830s?",
+      "critical": "Why do labels such as folk or naive matter, and could they underestimate the painter's skill?"
+    },
+    "g910": {
+      "daily": "How do the arrangement, costume, and furniture combine to present this family's image?",
+      "emotion": "How does formal presentation shape the emotional tone and distance between sitter and viewer?",
+      "observation": "Describe the visual hierarchy: which figures, shapes, or colors dominate and why?",
+      "analysis": "Analyze how the symmetry or asymmetry of the group communicates relationships among the sitters.",
+      "line": "How does the use of firm contour create a distinctive, flattened sense of form?",
+      "shape": "How do simplified geometric forms give the figures a graphic presence?",
+      "color": "How does the painter use local color areas and contrast to define each family member?",
+      "texture": "How does the painter indicate varied materials without the deep modeling of academic portraits?",
+      "space": "How does the limited depth shape our sense of a posed, public presentation of the family?",
+      "light": "How does the even, unfocused light serve the aim of clearly recording appearance rather than drama?",
+      "meaning": "How might the composition reflect ideals of respectability and family structure at the time, and where is that reading speculative?",
+      "culture": "How do vernacular portraits like this broaden our understanding of who made and bought art in early America?",
+      "technique": "How might a painter without academic training have solved the problems of anatomy and perspective in this scene?",
+      "personal": "How does your sense of how a family should be portrayed shape your reading of this image?",
+      "critical": "How should museums and viewers handle works whose makers and sitters are unknown, and what do we risk assuming?"
+    },
+    "g1112": {
+      "daily": "Which claims about this sofa-bound family can the picture support, and which would you have to assume about their wealth, roles, or feelings?",
+      "emotion": "How does the portrait's formality complicate attempts to read the sitters' feelings?",
+      "observation": "Catalogue what the four sitters wear, how they sit on the sofa, and where they look. Which of your notes already carries an assumption?",
+      "analysis": "Analyze how the arrangement of the figures establishes a visual argument about family, status, and roles.",
+      "line": "How does the portrait's reliance on contour and flat areas of color challenge assumptions about what counts as skilled portraiture?",
+      "shape": "How do the simplified, repeating forms produce unity while individualizing the sitters?",
+      "color": "How might the painting's color choices reflect both available pigments and deliberate decisions, and how may age have changed them?",
+      "texture": "How does the painting's treatment of dress and furniture register markers of status, even without detailed illusion?",
+      "space": "How does the shallow, frontal space frame the viewer's role as audience for a presented family?",
+      "light": "In what ways does the painting's even illumination serve a documentary or commemorative function?",
+      "meaning": "Evaluate competing interpretations of the group as an image of affection, status, or social convention. Which is best supported, and which is speculative?",
+      "culture": "How do terms such as folk, naive, or vernacular shape the cultural value we assign to anonymous painters?",
+      "technique": "What does the picture suggest about the economics and training of regional portrait painters in the 1830s?",
+      "personal": "How does your own family and cultural background influence what you expect from a family portrait?",
+      "critical": "Given the lack of documentation about this painting, what standards of evidence should govern its interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Children, Men, Women, Family), medium and credit line checked against the museum record for nudity, violence or frightening content; none found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An unsigned oil painting of the 1830s showing a family of four on a sofa. The Met record gives no artist or sitter names, so the work is a good prompt for discussing anonymous makers and folk portraiture.",
+    "vocabulary": [
+      "portrait",
+      "folk painting",
+      "anonymous",
+      "composition",
+      "outline",
+      "commission"
+    ],
+    "directions": [
+      "Ask students to pose as the family and discuss how the arrangement feels from inside the pose.",
+      "Have students write three questions they would ask the painter or the family if they could.",
+      "Discuss why some artists' names are remembered and others are lost, and whose work museums have collected."
+    ]
+  }
+}

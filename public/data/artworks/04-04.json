@@ -1,0 +1,160 @@
+{
+  "id": "met-451263",
+  "day": "04-04",
+  "title": "\"Diving Dipper and Other Birds\", Folio from the Shah Jahan Album",
+  "recordTitle": "\"Diving Dipper and Other Birds\", Folio from the Shah Jahan Album",
+  "artist": "Mansur",
+  "date": "recto: ca. 1610–15; verso: ca. 1535–45",
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "movement": "Mughal painting",
+  "region": "India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP246541.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP246541.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A page from an Indian album showing a small dipper bird diving, together with several other birds and flowers. The birds are painted with fine detail in ink, opaque watercolor, and gold on paper.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451263",
+    "objectId": "451263",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, dates (recto and verso), medium, public-domain flag, credit line, country (India), tags (Birds, Flowers), and image URLs read from the record"
+  },
+  "context": "A page from the Shah Jahan Album, with a bird painting on its front made around 1610 to 1615 by Mansur, a Mughal court painter. Mughal artists of this period became known for studying birds and animals closely.",
+  "descriptions": {
+    "k": "This page shows birds and flowers. One bird is a dipper, and it dives! The artist painted every feather with tiny lines. Can you find the birds? Which one would you like to watch?",
+    "g12": "Long ago in India, an artist named Mansur painted birds on this album page. One is called a diving dipper, a small bird that dives for food. Flowers are painted too. Every feather is drawn with fine lines. Which bird do you see first? How do the flowers help the page feel full of life?",
+    "g35": "Mansur painted at the court of the Mughal rulers in India, where artists studied birds and animals closely. This page shows a diving dipper and other birds with flowers, painted in ink, opaque watercolor, and gold. Look for tiny feather lines and the different poses of each bird. How does Mansur make these small creatures feel alive and real?",
+    "g68": "Mansur was one of the best-known animal and bird painters at the Mughal court, and this page dates to about 1610 to 1615. It was later placed in the Shah Jahan Album, a collection of paintings and calligraphy. Notice how fine brushwork builds feathers, how the birds are arranged on the page, and how flowers add variety. What does this careful observation suggest about what the court valued in nature?",
+    "g910": "This folio shows Mansur's reputation for precise natural observation, applied to a diving dipper and other birds amid flowers. The Mughal court prized such studies, and albums like the Shah Jahan Album combined paintings with calligraphy, so each page was part of a larger collected whole. Consider how fine linework, delicate color, and gold coexist with scientific-seeming accuracy, and how the arrangement balances individual birds with decorative harmony.",
+    "g1112": "Mansur's bird studies are often discussed as a meeting point between Mughal courtly refinement and an intense interest in observed nature. This folio, painted around 1610 to 1615 and later mounted in the Shah Jahan Album, places a diving dipper and other birds among flowers. Scholars debate how far such images were scientific records, how far they were artistic display, and how an album page's arrangement shaped its viewing. What does the evidence in the paint and composition support, and what stays uncertain?"
+  },
+  "questions": {
+    "k": {
+      "daily": "The dipper is a bird that dives. Can you find a bird that looks ready to dive?",
+      "emotion": "Do these birds look busy or sleepy? Show how one of them might move.",
+      "observation": "How many birds can you find? Count them with your finger.",
+      "analysis": "Which bird do you look at first? What makes it stand out?",
+      "line": "Find tiny lines that make feathers. Can you draw feather lines in the air?",
+      "shape": "Birds have round bodies and pointy beaks. Which shapes can you find on this page?",
+      "color": "What colors do the birds have? Which color is your favorite?",
+      "texture": "How would a feather feel if you touched it? How did the artist show that?",
+      "space": "Which bird looks closest to you? Which looks farthest away?",
+      "light": "Do the birds look bright or shadowy? Where do you see shiny gold?",
+      "meaning": "What do you think the birds are talking about? Make up a story.",
+      "culture": "This page is from India long ago. Where do you see birds near your home today?",
+      "technique": "The artist painted tiny feathers with a very small brush. Why would that take a long time?",
+      "personal": "What bird would you most like to see up close? Why?",
+      "critical": "The artist put flowers on the page with the birds. Why might that make the page nicer to look at?"
+    },
+    "g12": {
+      "daily": "Which bird is the diving dipper, and how can you tell it is different from the others?",
+      "emotion": "Which bird seems the most energetic? Which seems the calmest? Show what you see.",
+      "observation": "Describe two birds: their colors, their beaks, and the way their bodies are turned.",
+      "analysis": "How are the birds and flowers placed on the page so your eyes can travel around?",
+      "line": "Find thin lines in feathers and flower stems. How do they show different parts?",
+      "shape": "Which bird has the roundest body? Which has the longest tail or neck?",
+      "color": "Which colors repeat on the birds and flowers? How do they connect the page?",
+      "texture": "Which parts look soft like feathers and which look smooth like petals?",
+      "space": "Do the birds seem to stand on the ground, fly in the air, or float on the page? What shows it?",
+      "light": "Where does gold or bright color make the page sparkle?",
+      "meaning": "Why might someone want a whole page of beautiful birds?",
+      "culture": "The artist painted for rulers in India. What might that tell you about who looked at this page?",
+      "technique": "The artist used ink, watercolor, and gold. Which part of the page do you think used gold?",
+      "personal": "Have you ever watched birds for a long time? What did you notice?",
+      "critical": "Does the page look like a photograph or like a decorated picture? Give a reason."
+    },
+    "g35": {
+      "daily": "What details make the diving dipper and the other birds seem like real, living creatures?",
+      "emotion": "What feeling or energy do you sense from the birds? Which poses create that feeling?",
+      "observation": "Look closely at the feathers and beaks for one minute. What tiny details did you notice?",
+      "analysis": "How does Mansur arrange the birds and flowers so the page feels balanced?",
+      "line": "How do thin lines show feather patterns, flower stems, and the outlines of each bird?",
+      "shape": "How do the different body shapes of the birds help you tell them apart?",
+      "color": "How do the colors of the birds stand out against the paper and flowers?",
+      "texture": "How does Mansur make feathers look different from petals and leaves?",
+      "space": "How does the artist show that some birds are in front and others are behind or beside?",
+      "light": "How does gold or lighter paint add shine to parts of the page?",
+      "meaning": "Why might a ruler's collection include a page that shows only birds and flowers?",
+      "culture": "Mughal rulers in India were interested in nature. How might this painting show that interest?",
+      "technique": "Mansur used very fine brushes and opaque watercolor. How would that help him paint feathers?",
+      "personal": "What would you want to notice if you watched a diving bird in real life?",
+      "critical": "This page is called a folio from an album. How might a page look different when it is part of a larger book instead of by itself?"
+    },
+    "g68": {
+      "daily": "How does Mansur turn a page of small birds into a convincing study of living creatures?",
+      "emotion": "What kinds of energy or calm do you sense in the birds? Which details create it?",
+      "observation": "List what you see from one bird to the next. Which details seem most carefully studied?",
+      "analysis": "How does the arrangement of the dipper, other birds, and flowers guide the eye across the page?",
+      "line": "How does fine linework do the double job of describing feathers and defining each bird's outline?",
+      "shape": "How do varied bird shapes and poses prevent the page from feeling repetitive?",
+      "color": "How does color separate birds from flowers, and how might a limited palette keep the page harmonious?",
+      "texture": "How does Mansur suggest the soft density of feathers using tiny strokes rather than heavy shading?",
+      "space": "The birds appear in a shallow space. How does that affect the way you read the page?",
+      "light": "How do gold and delicate tones create glimmer without strong shadows?",
+      "meaning": "What might it say about the Mughal court that artists were trained to record birds this precisely?",
+      "culture": "How might a collection like the Shah Jahan Album have shaped how rulers viewed nature and art?",
+      "technique": "How might painting with ink, opaque watercolor, and gold on paper support such precise detail?",
+      "personal": "How is slowly looking at a bird different from a quick glance? What do you discover?",
+      "critical": "The page was made around 1610 to 1615 but placed in an album later. Why might that matter for how we read it?"
+    },
+    "g910": {
+      "daily": "How do the formal choices in this folio balance scientific-seeming observation with decorative beauty?",
+      "emotion": "How does the painting evoke liveliness in small birds without any dramatic setting?",
+      "observation": "Describe the visual hierarchy of the page. Which bird holds attention first, and which devices produce that effect?",
+      "analysis": "How does the arrangement of birds, flowers, and open space create harmony and rhythm?",
+      "line": "How does the delicate interplay of contour and interior markings convey both structure and surface texture?",
+      "shape": "How do repeated forms of beaks, wings, and tails create unity across different species?",
+      "color": "How do the color choices distinguish species and also tie the page together?",
+      "texture": "How does the painter distinguish feathers, petals, and any ground using only tiny variations of touch?",
+      "space": "How does the shallow, nearly flat treatment of space contribute to the page's decorative quality?",
+      "light": "What role does gold play in the painting's glow, and how does it compare with the use of tonal shading?",
+      "meaning": "What might the pairing of birds and flowers suggest about Mughal ideas of beauty and the natural world?",
+      "culture": "How does Mansur's reputation as a naturalist painter at the court connect to broader Mughal interest in documenting nature?",
+      "technique": "How might the workshop practices behind Mughal painting, including fine brushes and layered pigments, enable this level of detail?",
+      "personal": "How does close attention to small living things change your sense of what is worth looking at?",
+      "critical": "How should we weigh the artist's skill at observation against the likelihood that the page was also meant as courtly display?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this page about how the Mughal court understood the relationship between art and observed nature?",
+      "emotion": "How does the page's restraint and clarity shape the viewer's response, and what feelings does it permit rather than prescribe?",
+      "observation": "Describe the page with precision. At what point does careful description of birds start to imply an argument about naturalism?",
+      "analysis": "Analyze how the distribution of birds and flowers produces an ordered yet lively surface.",
+      "line": "How does the tension between precise outline and fine internal detail establish a distinctive balance of control and life?",
+      "shape": "How does the arrangement of distinct bird forms mediate between taxonomic clarity and decorative composition?",
+      "color": "How do pigments and gold contribute to both naturalistic description and the page's value as a collectible object?",
+      "texture": "How does the painter's handling simulate varied surfaces, and what does this say about the status of illusion in Mughal painting?",
+      "space": "How does the shallow field compare with the more deeply constructed space of European bird and animal painting of the same period?",
+      "light": "How does the painting use gold and tone to convey brilliance without a single, consistent light source?",
+      "meaning": "Evaluate readings of the page as scientific record, courtly display, or symbolic image. Which does the evidence best support?",
+      "culture": "How might the later mounting of this page in the Shah Jahan Album have changed how it was seen compared with its first use?",
+      "technique": "What do the materials and fine finish suggest about the economics and organization of court workshops, and what remains uncertain?",
+      "personal": "How does your own familiarity with birds, or lack of it, shape the way you read this page?",
+      "critical": "Given the gap between the recto and verso dates, what standards of evidence should guide claims about how the album page was assembled and used?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices), country (India), and tags (Birds, Flowers) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Mughal album page with birds and flowers by Mansur, painted around 1610 to 1615. The Met records a different date for the verso, which shows that album pages could combine materials from different times.",
+    "vocabulary": [
+      "Mughal",
+      "folio",
+      "album",
+      "opaque watercolor",
+      "naturalism",
+      "dipper"
+    ],
+    "directions": [
+      "Have students choose one bird and sketch it using only short feather-like lines, then compare results.",
+      "Discuss how an album page differs from a framed painting and why collectors assembled albums.",
+      "Ask students to compare how a photographer and a painter might each record a bird."
+    ]
+  }
+}

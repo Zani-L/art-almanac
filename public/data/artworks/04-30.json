@@ -1,0 +1,159 @@
+{
+  "id": "met-679844",
+  "day": "04-30",
+  "title": "Fish Market",
+  "artist": "Joachim Beuckelaer",
+  "date": "1568",
+  "medium": "Oil on Baltic oak",
+  "movement": "Northern Renaissance",
+  "region": "Antwerp, Southern Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP375107.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP375107.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Lila Acheson Wallace Gift and Bequest of George Blumenthal, by exchange, 2015",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A busy market scene with a table piled high with many kinds of fish, and men and women gathered around, buying and selling.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/679844",
+    "objectId": "679844",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting on wood made in 1568 by Joachim Beuckelaer, an artist working in Antwerp. The Met describes it as a view of a fish market that celebrates the bounty of the sea and the city's thriving fish trade. It belongs to a new kind of painting that took everyday life as its subject.",
+  "descriptions": {
+    "k": "This is a busy market! Look at all the fish. There are so many kinds. People stand around buying and selling. What kinds of fish can you find? What sounds would you hear?",
+    "g12": "Joachim Beuckelaer painted this fish market in 1568. The table is piled with fish of many shapes and sizes. Men and women stand around the stalls, buying and selling. It looks like a real day at the market. Which fish catch your eye? What do you think the people are saying?",
+    "g35": "In 1568 Joachim Beuckelaer painted this fish market in Antwerp, a busy trading city in the Netherlands. The Met says it celebrates the sea's bounty and the city's fish trade. Instead of a saint or a king, the main subject is everyday life: fish, baskets, and people at work. Count how many kinds of fish you can find. Why might a painter want to show so much food and so many people?",
+    "g68": "Beuckelaer painted this market scene in 1568 in Antwerp, then a wealthy trading center. Paintings of everyday life like this were a new kind of subject, and the Met notes it celebrates both the bounty of the sea and the city's fish trade. Some scholars think such scenes also carried a moral message warning against excess in food and pleasure. Look at how the fish are piled and how the people interact. Is the painting a celebration, a warning, or both?",
+    "g910": "Fish Market (1568) belongs to a type of painting, associated with Beuckelaer and his Antwerp circle, in which everyday abundance becomes the main subject. The Met reads it as a celebration of the sea's bounty and the city's fish trade, and also notes it may carry a moral warning against excess. Piled fish, close-up figures, and rich detail invite slow looking. The painting was made during a period of religious conflict that, the Met says, pushed art toward secular subjects. Consider how a market scene can function as both a picture of prosperity and a moral lesson.",
+    "g1112": "Beuckelaer's Fish Market of 1568 presents commerce, abundance, and possibly moral commentary in one dense scene. The Met reads it as a celebration of the sea's bounty and Antwerp's fish trade, and also notes that it may warn against excess in food and pleasure. Painted in a period of religious conflict that, in the Met's account, encouraged secular imagery, it shows how everyday life could become a legitimate subject for ambitious painting. Because scholars debate how far such market scenes were meant to be read as moralizing, the painting rewards evidence-based interpretation that holds both celebration and warning open."
+  },
+  "questions": {
+    "k": {
+      "daily": "What fish can you find in this market? Describe one.",
+      "emotion": "Does this market feel quiet or busy? What do you see that makes you say so?",
+      "observation": "Find three different fish. What is different about each one?",
+      "analysis": "What do your eyes land on first in the market, the fish or the people? Why?",
+      "line": "Can you find a long, curved line in a fish? Trace it in the air.",
+      "shape": "What shapes do you see in the fish and the baskets?",
+      "color": "Which colors do you see on the fish? Which color do you like best?",
+      "texture": "How would a fish feel to touch? Slippery, wet, or bumpy?",
+      "space": "What is close to you in the market? What is farther away?",
+      "light": "Which parts of the picture look bright? Which look darker?",
+      "meaning": "What do you think the people in the market are saying to one another?",
+      "culture": "People shopped here a very long time ago. How is it like a market or store near you?",
+      "technique": "The painter used oil paint to make the fish look shiny. How do you think he did it?",
+      "personal": "What is your favorite food? Tell about a place where you get it.",
+      "critical": "Why might a painter choose to paint a market instead of a king or a queen?"
+    },
+    "g12": {
+      "daily": "How does the painter show that the market is full of fish? Show details that help.",
+      "emotion": "What feeling does this busy market give you? Which parts help you feel that way?",
+      "observation": "Describe five different things you see on the tables and around them.",
+      "analysis": "How does the artist guide your eyes across all of the fish and people?",
+      "line": "Find the curved lines of the fish. How do they make the pile look full?",
+      "shape": "Look at the shapes of different fish. How are they alike and different?",
+      "color": "Which colors on the fish shine or stand out? How do they help you look closely?",
+      "texture": "Which fish look shiny, wet, or slippery? What shows you?",
+      "space": "How does the artist show what is in front and what is behind?",
+      "light": "Where does the light seem to hit the fish? How does it help them look real?",
+      "meaning": "What do you think the people at the market are doing and thinking?",
+      "culture": "Antwerp was a busy port city. Why might a port city have lots of fish?",
+      "technique": "Oil paint can show tiny details. Where in this painting do you see tiny details?",
+      "personal": "Have you been to a market or a store with a lot of food? What did it look and smell like?",
+      "critical": "The painter shows so much food. What could he be trying to tell us?"
+    },
+    "g35": {
+      "daily": "What does this painting tell us about everyday life in Antwerp in 1568?",
+      "emotion": "What mood do the crowded stalls and piled fish create? Which details make it feel that way?",
+      "observation": "Take one minute of silent looking. What small details of fish, people, or tools do you notice that you missed at first?",
+      "analysis": "How does Beuckelaer arrange the fish and the people so that your eyes move around the whole picture?",
+      "line": "How do the curves of fish bodies and the lines of baskets or tables help organize the picture?",
+      "shape": "Many fish are stacked and overlapped. How does that make the table look crowded and full?",
+      "color": "How do the colors of the fish compare with the colors of the clothing and background?",
+      "texture": "How does the painter show the difference between wet fish, cloth, and wood?",
+      "space": "How do the table, the people, and the background create depth in the market?",
+      "light": "Where is the light brightest, and what does it help you notice?",
+      "meaning": "The Met says the painting celebrates the sea's bounty. What details make you feel that idea?",
+      "culture": "Why might a trading city like Antwerp want paintings that show its markets and food?",
+      "technique": "Beuckelaer painted on oak panel with oil paint. How might this help him paint small details?",
+      "personal": "Think of a busy place you know, like a market or cafeteria. How would you paint it?",
+      "critical": "Some scholars think this painting might also carry a warning about too much food and pleasure. What clues could support or challenge that idea?"
+    },
+    "g68": {
+      "daily": "How does Beuckelaer turn a plain market scene into a rich display of abundance?",
+      "emotion": "Is the overall feeling joyful, crowded, or uneasy? Support your answer with visual evidence.",
+      "observation": "List what you see from front to back. Which details seem most carefully painted?",
+      "analysis": "How does the composition use piles of fish to create a focus and lead the eye to the people?",
+      "line": "How do overlapping curves and diagonals create rhythm across the picture?",
+      "shape": "How does repeating the shapes of fish create pattern and abundance?",
+      "color": "How does color separate fish, clothing, and background so the crowded scene stays readable?",
+      "texture": "How does the painter suggest wet, shiny scales versus rough cloth or wood?",
+      "space": "How does the close-up viewpoint place you in the market? What would change if you stood farther away?",
+      "light": "How does light shape the fish and give them volume?",
+      "meaning": "The Met says the painting may warn against excess. How might a picture be both a celebration and a warning?",
+      "culture": "Why might wealthy buyers in Antwerp have liked paintings of food and markets?",
+      "technique": "How might oil paint allow Beuckelaer to build up lifelike detail in the fish compared with older paints such as tempera?",
+      "personal": "Think of a time food brought people together. How could an artist show it?",
+      "critical": "How can we tell whether an artist intended a moral lesson? What evidence would you look for?"
+    },
+    "g910": {
+      "daily": "How does Beuckelaer use abundance and detail to make a market scene worth sustained looking?",
+      "emotion": "How do crowding, color, and close-up viewpoint create the mood of the market?",
+      "observation": "Describe the visual hierarchy of the painting. What draws your attention first, and how?",
+      "analysis": "Analyze how the arrangement of fish and figures creates a balance between display and human activity.",
+      "line": "How do overlapping curves and the lines of tables and baskets structure the crowded space?",
+      "shape": "How does the repetition of fish shapes build a rhythm across the surface?",
+      "color": "How does the palette distinguish different types of fish and help the viewer navigate the scene?",
+      "texture": "How does Beuckelaer differentiate scales, cloth, and wood, and why does lifelike detail matter in this genre?",
+      "space": "How does the close viewpoint and compressed space put emphasis on the goods rather than a wide landscape?",
+      "light": "How does the light model the fish and the faces, and what does it emphasize?",
+      "meaning": "How might the painting present abundance as both a blessing and a temptation?",
+      "culture": "How do paintings like this reflect Antwerp's wealth and the shift toward secular subjects in the later 16th century?",
+      "technique": "How does the use of oil on oak panel support the painting's fine detail and durability?",
+      "personal": "What does a scene of abundance mean to you today? Does the painting change how you think about food?",
+      "critical": "How might modern viewers misread a 16th-century market scene if they ignore its moral and social context?"
+    },
+    "g1112": {
+      "daily": "What evidence in the picture supports reading it as a celebration of prosperity, and what supports a moralizing reading?",
+      "emotion": "How does abundance produce pleasure and unease at once? Which formal choices create that ambivalence?",
+      "observation": "Describe the painting's construction in detail. Where does careful description already begin to interpret?",
+      "analysis": "Analyze how the density of the composition shapes the viewer's sense of wealth and excess.",
+      "line": "How do the curves and overlaps of the goods organize the surface into a legible whole?",
+      "shape": "How does repetition and variation of forms produce a catalog-like effect in the scene?",
+      "color": "How might the painter's use of color convey freshness and abundance, and how might the age of the paint alter what we see today?",
+      "texture": "How does the painting use illusion of surface to establish the pleasure of looking, and how might that pleasure be part of the message?",
+      "space": "How does the shallow, crowded space compare with the open spaces of landscape painting from the same period?",
+      "light": "How does the painter's handling of light make the objects seem both desirable and carefully staged?",
+      "meaning": "Evaluate competing readings, such as civic celebration of trade, a moral warning against excess, or both. What would settle the question?",
+      "culture": "How does a painting of commerce reflect the economic position of Antwerp, and what religious and social tensions of the period may be relevant?",
+      "technique": "What does the use of oil on oak tell us about the painting's status and the economics of its production?",
+      "personal": "How do your own habits of consumption shape your reading of a picture of abundance?",
+      "critical": "How do we avoid projecting modern values on a 16th-century market scene while still asking what it means to us?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, medium, and tags (Food, Men, Women, Fish, Markets) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1568 in Antwerp, then a major trading port. The Met describes it as a celebration of the sea's bounty and the city's fish trade, and notes it may also carry a moral warning against excess.",
+    "vocabulary": [
+      "genre painting",
+      "still life",
+      "abundance",
+      "Baltic oak panel",
+      "oil paint",
+      "foreground and background"
+    ],
+    "directions": [
+      "Ask students to sort what they see in the painting into categories (fish, tools, people) and count each.",
+      "Have students stage a freeze-frame of a busy market and discuss what the characters might say.",
+      "Discuss how a picture can celebrate something and also warn about it."
+    ]
+  }
+}

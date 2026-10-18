@@ -1,0 +1,152 @@
+{
+  "id": "met-37766",
+  "day": "10-28",
+  "title": "Tympanum of a Heger I Kettledrum",
+  "artist": "Artist unknown (Vietnam)",
+  "date": "ca. 500 BCE–300 CE",
+  "medium": "Bronze",
+  "movement": "Dongson culture",
+  "region": "Vietnam",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/1995_70_259322.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/1995_70_259322.jpg",
+    "credit": "The Metropolitan Museum of Art, From the Collection of Nina and Gordon Bunshaft, Bequest of Nina Bunshaft, 1994",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "The flat, round top surface of a large ancient bronze kettledrum, seen from above. It is a circular disc about 70 centimeters across, with a decorated metal surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/37766",
+    "objectId": "37766",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, classification, public-domain flag, image URLs, credit line) and the Met catalog page label text and dimensions"
+  },
+  "context": "The tympanum is the flat, round striking surface of a kettledrum, here from the Dongson culture of northern Vietnam. It is made of bronze, dates from about 500 BCE to 300 CE, and measures about 70.5 cm across. The Met's label says Dongson drums of this type were probably widely traded in antiquity, since many have been found in Indonesia. The record does not describe the decoration.",
+  "descriptions": {
+    "k": "This is the top of a very big, very old drum. It is round and made of metal. It is about as wide as a big pizza box. Look at the patterns on it. Do you see circles? What do you see?",
+    "g12": "This is the flat top of a huge drum made of bronze. People in Vietnam made it more than 1,700 years ago. It is round, about 70 centimeters wide. Look at the top for patterns. Do you see rings or shapes that repeat? How would this drum sound if you hit it?",
+    "g35": "This is the tympanum, or striking surface, of a bronze kettledrum made by the Dongson culture of northern Vietnam. It is about 70 centimeters across, much bigger than a dinner plate. The Met says drums like this were probably traded far away, because many have been found in Indonesia. Study the circle and its decoration. Why might people trade, and value, a drum?",
+    "g68": "A Heger I kettledrum is a type of large bronze drum, named after an Austrian scholar who classified them. This is its tympanum, the round top, about 70.5 cm across, made by the Dongson culture. The Met says drums of this type were widely traded, as shown by finds in Indonesia. Look for how decoration is organized on a circle. How do the repeated patterns on a drum's face suit a circular shape and an object meant to be struck?",
+    "g910": "The tympanum of this Heger I kettledrum is a circular bronze plane, about 70.5 cm in diameter, created by the Dongson culture between about 500 BCE and 300 CE. The Met notes that drums of this type were widely traded, evidenced by finds in Indonesia. Circular objects invite concentric organization, and viewers can study how decoration is arranged across the surface. What might a drum's face reveal about status, communication, and exchange when its exact function is uncertain?",
+    "g1112": "As the striking surface of a Heger I drum, this tympanum represents one of the most widely distributed products of ancient Southeast Asian metalwork. The Met's label points to long-distance trade, since such drums appear in Indonesia, but the record does not describe its decoration or use. A circular bronze field of about 70 cm invites questions about how patterns are structured, how imagery might have carried meaning, and how a detached part of a larger object should be interpreted. Consider what can be inferred from form and distribution, and what remains speculation."
+  },
+  "questions": {
+    "k": {
+      "daily": "This is the top of a giant drum. If you could hit it, what sound do you think it would make?",
+      "emotion": "Does this old drum top look loud, quiet, or mysterious? Why do you say that?",
+      "observation": "Look at the whole round top. What shapes or patterns can you find?",
+      "analysis": "Where do your eyes go first on this round drum top? Where do they travel next?",
+      "line": "Trace a circle on the drum top with your finger. Where does your finger go?",
+      "shape": "The whole drum top is a circle. Can you find other circles or rings on it?",
+      "color": "The drum top is bronze. What colors do you notice in the metal?",
+      "texture": "The metal is old. Do you think it feels smooth, rough, or both?",
+      "space": "This drum top is about 70 centimeters wide. About how many of your hands would fit across it?",
+      "light": "Where do you think the metal would be the shiniest?",
+      "meaning": "Drums can be used to call people together. Who might have gathered to hear this drum?",
+      "culture": "This drum was made in Vietnam, and others like it traveled to Indonesia. How can a heavy drum travel so far?",
+      "technique": "A maker poured melted bronze to make this big, round top. Why might this be hard to do?",
+      "personal": "What sound would you want a drum of your own to make?",
+      "critical": "We only see the top of the drum here. What do you think the rest of the drum looks like?"
+    },
+    "g12": {
+      "daily": "This is the striking top of a huge bronze drum. What patterns do you notice, and how are they arranged?",
+      "emotion": "Does this ancient drum top feel powerful, calm, or mysterious to you? What do you see that makes you say that?",
+      "observation": "List five things you notice about the round surface, such as rings, shapes, or patterns.",
+      "analysis": "How does the artist organize the decoration so your eyes move around the circle?",
+      "line": "Look for rings and repeating lines. How do they make the drum top feel organized?",
+      "shape": "The top is a perfect circle. How do other shapes on it fit inside?",
+      "color": "Bronze can look gold or green-brown as it ages. What colors do you see on this one?",
+      "texture": "Which parts of the metal look smooth, and which parts look scratched or patterned?",
+      "space": "The drum top is about 70 centimeters across, nearly as wide as a small table. How would that size make you feel?",
+      "light": "Metal reflects light. How would the patterns on the top look different in dim light?",
+      "meaning": "A drum can send messages, mark celebrations, or call people together. Which job do you think this drum had?",
+      "culture": "Dongson drums were traded far from Vietnam. What does this tell you about how people long ago connected with each other?",
+      "technique": "Bronze is poured into a mold. Why might a large flat circle be hard to cast?",
+      "personal": "What would you want to put in a drum's decoration to say something about you?",
+      "critical": "Experts do not know every way these drums were used. How can we study an object when we are unsure about its use?"
+    },
+    "g35": {
+      "daily": "The Met says drums like this were probably traded widely. What does the size and detail of this drum top suggest about why people valued it?",
+      "emotion": "How do the circular shape and repeating decoration create a feeling of order or ceremony?",
+      "observation": "Spend a minute scanning the circle from the center to the edge. What details did you notice at each distance?",
+      "analysis": "How does the decoration on a circle help organize the whole surface?",
+      "line": "How do the circles and lines on the surface help your eye travel around the drum top?",
+      "shape": "Why might circular shapes repeat on a circular drum top?",
+      "color": "Bronze changes color as it ages. How might this drum top have looked when it was new?",
+      "texture": "What can the surface tell you about how an old bronze object was made and aged?",
+      "space": "A flat circle has no depth, but decoration can lead your eye inward. How does this happen on the drum top?",
+      "light": "How might a big bronze drum top reflect firelight or sunlight during a gathering?",
+      "meaning": "Scholars are not certain how Dongson drums were used. What are two ideas about what a drum like this could have been used for?",
+      "culture": "Drums like this have been found in Indonesia, far from Vietnam. What does that tell you about trade routes?",
+      "technique": "A tympanum is the striking surface of a drum. Why would a drum maker need strong metal for this part?",
+      "personal": "What object in your community brings people together the way a drum does?",
+      "critical": "Why is it risky to guess the meaning of decorations on an ancient object? What evidence would you want?"
+    },
+    "g68": {
+      "daily": "How does the decoration on this circular bronze face show the care that went into an object meant to be struck?",
+      "emotion": "What mood does a large, circular bronze surface evoke, and how does repetition of pattern add to it?",
+      "observation": "Make a list of the shapes and patterns on the surface from center to edge. Which seem most important?",
+      "analysis": "How does decoration arranged on a circle differ from decoration arranged on a rectangle?",
+      "line": "How do concentric lines or bands guide the eye on a circular object?",
+      "shape": "How does the circle of the tympanum dominate the design, and how do smaller shapes relate to it?",
+      "color": "How might the color of old bronze change the way we imagine the drum in use?",
+      "texture": "What might the surface suggest about how the bronze was cast and how it has aged?",
+      "space": "How does a flat surface create a sense of direction, from center to rim, through pattern?",
+      "light": "How would reflection from a bronze surface have made the drum seem important during a ceremony?",
+      "meaning": "Why might a culture invest great effort in a large metal drum? What might it have symbolized?",
+      "culture": "The Met says many drums of this type were found in Indonesia. What does that suggest about relationships between regions?",
+      "technique": "What skills and resources would be needed to cast a 70 cm bronze surface, and what does that suggest about Dongson society?",
+      "personal": "What do you think makes an object feel powerful or important? Does this drum have those qualities?",
+      "critical": "When we only have a part of a larger object, such as a tympanum, how should that affect our conclusions?"
+    },
+    "g910": {
+      "daily": "How does the circular field of the tympanum organize decoration, and what does that organization suggest about the drum's importance?",
+      "emotion": "How do scale, symmetry, and metal produce a sense of ceremony without any figures or narrative?",
+      "observation": "Describe the arrangement of visible features from center to rim, and note which devices create order.",
+      "analysis": "How does radial or concentric organization of pattern work on a circular surface designed to be struck?",
+      "line": "How do rings or bands establish rhythm, and what effect would that have for viewers around a drum?",
+      "shape": "How do the geometry of the circle and any repeating motifs reinforce the object's stability and presence?",
+      "color": "How might patina and age alter our perception of the drum's original look, and how can we account for that?",
+      "texture": "How might surface evidence of casting and wear inform our understanding of production and use?",
+      "space": "How does a flat plane with decoration create a sense of depth or movement, and how does that differ from sculptural relief?",
+      "light": "How would reflective bronze have worked in firelit or outdoor ceremonies?",
+      "meaning": "What might the extensive trade of Dongson drums suggest about their symbolic or social value?",
+      "culture": "How does the distribution of Dongson drums across Southeast Asia challenge simple ideas about isolated cultures?",
+      "technique": "What does large-scale bronze casting imply about technical knowledge, labor organization, and access to metal?",
+      "personal": "How do shared objects such as drums or bells create a sense of community in your experience?",
+      "critical": "How can a museum present an object whose function is unclear without implying certainty?"
+    },
+    "g1112": {
+      "daily": "What can be inferred from the tympanum's form and distribution about the role of Heger I drums, and what remains conjecture?",
+      "emotion": "How does a decorated metal disc create an atmosphere of authority and ceremony without figural narrative?",
+      "observation": "Describe the tympanum's formal organization with precision. Where does classification, as in the term Heger I, shape what you see?",
+      "analysis": "Analyze how the circular format dictates the arrangement of ornament and how symmetry might support meaning.",
+      "line": "How might concentric or radial linework operate as both decoration and structure on a striking surface?",
+      "shape": "How does geometry in a circular object express order, and how might that reflect the social or cosmological ideas of its makers?",
+      "color": "How should we weigh patina and burial or handling history in assessing the drum's original appearance?",
+      "texture": "What does surface evidence suggest about casting techniques, and what can be attributed to age rather than intent?",
+      "space": "How does the experience of a drum's face differ when seen as a flat plane versus part of a three-dimensional instrument?",
+      "light": "How might the reflective properties of bronze have contributed to ritual or social display?",
+      "meaning": "Evaluate possible functions for Dongson drums, such as signaling, ritual, or status marking. What evidence supports or limits each?",
+      "culture": "How does the presence of Dongson drums in Indonesia reshape ideas about exchange networks in ancient Southeast Asia?",
+      "technique": "What might the technical demands of casting a large tympanum imply about specialized workshops and resource networks?",
+      "personal": "How do your assumptions about what a drum is shape how you interpret this ancient object?",
+      "critical": "When a piece is a component of a larger object and its decoration is poorly documented, what standards of evidence should govern interpretation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Metalwork), medium (Bronze), and culture checked against the museum record, and the Met label text about trade in Dongson kettledrums was read. The record has no tags and does not describe the decoration, so descriptions and questions only assume a circular decorated surface and invite the student to look. No figures are indicated, but figural decoration could not be ruled out from metadata alone. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The tympanum (striking surface) of a Heger I kettledrum of the Dongson culture, northern Vietnam, ca. 500 BCE-300 CE, about 70.5 cm across. The Met notes that drums of this type were widely traded and have been found in Indonesia.",
+    "vocabulary": ["tympanum", "kettledrum", "Dongson culture", "bronze casting", "concentric", "trade network"],
+    "directions": [
+      "Have students describe the decoration they see before teachers add any identification, and note where their observations differ.",
+      "Map the connection between Vietnam and Indonesia and discuss why a heavy bronze object would be traded.",
+      "Ask students to design a circular pattern that could decorate a drum and explain their choices."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "artic-192781",
+  "day": "06-08",
+  "title": "Lilies (Corey Memorial Window)",
+  "artist": "Tiffany Glass and Decorating Company (Louis Comfort Tiffany)",
+  "date": "1892-95",
+  "medium": "Leaded Favrile glass",
+  "movement": "Arts and Crafts Movement",
+  "region": "United States",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/8cead5e1-0e73-405f-4e50-8088bd336c61/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of St. Andrew Reformed Episcopal Church",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A very tall, narrow stained-glass window made of many pieces of colored glass joined with lead, showing lilies on tall stems in glowing greens, whites, and other colors.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/192781",
+    "objectId": "192781",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2008.64, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A tall stained-glass window made in the United States between 1892 and 1895 by the Tiffany Glass and Decorating Company, founded by Louis Comfort Tiffany. It was made in memory of a married couple, and lilies were often used in memorial works as a symbol of renewal. The Art Institute says it measures 414 by 82.6 centimeters.",
+  "descriptions": {
+    "k": "This window is made of many tiny pieces of colored glass. It is very tall and skinny. Lilies grow up it like in a garden. Can you stretch your arms up high like the window? What colors do you see?",
+    "g12": "This tall window is made from many pieces of colored glass held together with strips of metal. Lilies climb up the glass like a garden. When sunlight shines through, the colors glow. How might this window look in a dark room with the sun behind it?",
+    "g35": "This stained-glass window was made in the United States between 1892 and 1895 by the Tiffany company. Many pieces of colored glass are joined with lead to make lilies. It is more than thirteen feet tall. It was made in memory of a couple, and lilies were often used to show hope and new life. How does glass make a picture different from paint?",
+    "g68": "The Corey Memorial Window (1892 to 1895) was made by Louis Comfort Tiffany's company for a church in Chicago, in memory of a married couple. Lilies were a common symbol of renewal. Leaded Favrile glass, a special type of glass developed by Tiffany, lets light pass through and glow. How does the window use light itself as a material?",
+    "g910": "This leaded Favrile glass window (1892 to 1895), made by Tiffany's studio for a Chicago church, uses lilies, a symbol of resurrection, to commemorate a couple. At about four meters tall, its narrow format echoes the lily's stem. Light transforms the glass from moment to moment. How does a work made to be seen with light behind it differ from one meant to be seen by reflected light?",
+    "g1112": "Made by Tiffany Glass and Decorating Company in 1892 to 1895, the Corey Memorial Window renders lilies in leaded Favrile glass, an Arts and Crafts-era material valued for its color and texture. Its tall, narrow format and commemorative purpose link floral beauty to remembrance. Because it depends on transmitted light, its appearance is never fixed. How does the work join craft, architecture, and symbolism, and what does it mean for an artwork to change with its light?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many different colors of glass can you find?",
+      "emotion": "Does this window make you feel calm or excited? Tell us what you see.",
+      "observation": "Find a lily. Where is it in the window?",
+      "analysis": "Why do you think the window is so tall and thin?",
+      "line": "Trace a stem from bottom to top. Which way does it go?",
+      "shape": "What shapes are the pieces of glass?",
+      "color": "Which colors do you see in the lilies and leaves?",
+      "texture": "Does glass feel smooth or rough? What about the lead lines?",
+      "space": "How tall is this window? Reach up and show us.",
+      "light": "Where does light come through the glass the most?",
+      "meaning": "Why might people put colored glass windows in a building?",
+      "culture": "What windows have you seen in places like libraries or houses?",
+      "technique": "The artist had to cut the glass into pieces and join them. How is that like making a puzzle?",
+      "personal": "If you made a window, what flower or picture would you choose?",
+      "critical": "What would you change about the colors?"
+    },
+    "g12": {
+      "daily": "Which colors of glass can you find? Point to the greens and whites.",
+      "emotion": "Does this window feel peaceful, bright, or serious? Show us what you see that tells you.",
+      "observation": "Find a lily. Describe its shape.",
+      "analysis": "Why do you think the window is so tall and thin?",
+      "line": "Follow a stem from the bottom of the window to the top. What happens along the way?",
+      "shape": "Which curved shapes can you find? Which straight shapes?",
+      "color": "Which colors glow brightest in the glass?",
+      "texture": "How is glass different from paint or cloth? What do you notice?",
+      "space": "If you stood at the bottom of this window, how far up would you have to look?",
+      "light": "What do you think happens to the colors when sunlight shines behind the glass?",
+      "meaning": "Why do you think people put pictures in windows?",
+      "culture": "Where have you seen windows with colored glass?",
+      "technique": "The glass pieces are joined with strips of metal. Why do you think that was needed?",
+      "personal": "If you could put one flower in a window, which would you choose?",
+      "critical": "How would you change the colors in the window?"
+    },
+    "g35": {
+      "daily": "How does it feel to look at a window instead of a painting on a wall?",
+      "emotion": "What mood do the glowing glass colors give you?",
+      "observation": "Describe the lilies and leaves. How are they arranged from the bottom to the top?",
+      "analysis": "Why do you think the artist used lilies for this window?",
+      "line": "How do the dark lines between the glass pieces help make the picture?",
+      "shape": "How does the shape of the lilies fit the tall, narrow window?",
+      "color": "How do greens and whites work together in this window?",
+      "texture": "How can you tell glass is different from paint?",
+      "space": "How does the tall shape make you look up?",
+      "light": "What do you think this window looks like with the sun shining through?",
+      "meaning": "The museum says this window was made in memory of two people. How can art help us remember?",
+      "culture": "This window came from a church in Chicago. Why might churches have windows like this?",
+      "technique": "Louis Comfort Tiffany liked to experiment with glass. What might he have wanted to try?",
+      "personal": "What is one beautiful thing you would want to remember in glass?",
+      "critical": "Is a window a work of art or part of a building? Explain your thinking."
+    },
+    "g68": {
+      "daily": "Where does your eye land first, and how does the shape of the window guide it?",
+      "emotion": "How does the glowing quality of colored glass create a different mood than a flat painting?",
+      "observation": "Describe how the lilies are arranged along the stems. What patterns do you see?",
+      "analysis": "How does the tall, narrow format shape the way the flowers are placed?",
+      "line": "How do the lead lines function as outlines and as part of the design?",
+      "shape": "How do the rounded petals contrast with the straight stems and leaves?",
+      "color": "How do the colors of the glass vary within a single petal or leaf?",
+      "texture": "How do the different textures of glass make the flowers seem more lifelike?",
+      "space": "How does the window feel as part of a building rather than as a separate picture?",
+      "light": "How might changing daylight change how the window looks?",
+      "meaning": "Lilies often symbolized new life. How does that idea connect to a window made in memory of two people?",
+      "culture": "How does the window reflect the Arts and Crafts interest in beautiful handmade objects?",
+      "technique": "What skills do glassmakers need that painters might not?",
+      "personal": "How would this window feel different in a museum than in a church?",
+      "critical": "Why might Tiffany have wanted nature to be the main subject of his designs?"
+    },
+    "g910": {
+      "daily": "How does the vertical format direct the eye, and how does the design exploit it?",
+      "emotion": "How does the quality of transmitted light create an emotional effect that reflected light cannot?",
+      "observation": "Examine how the designers arranged lilies and leaves up the long window. What rhythm results?",
+      "analysis": "Analyze how the composition balances naturalistic detail against the demands of the leaded structure.",
+      "line": "How do the lead lines both limit and shape the design, acting as drawing and as structure?",
+      "shape": "How does the design fit organic flower forms into a rigid, linear grid of glass pieces?",
+      "color": "How does Tiffany's use of varied tones within single areas of glass create the illusion of shading?",
+      "texture": "How do the textures of Favrile glass contribute to the sense of living petals?",
+      "space": "How does the window's architectural setting determine how viewers encounter it?",
+      "light": "How does the changing quality of daylight make this a work that is never seen exactly the same way twice?",
+      "meaning": "How does the use of lilies as symbols of resurrection give a commemorative function to a decorative design?",
+      "culture": "How does this window express Arts and Crafts ideals about uniting art, craft, and daily life?",
+      "technique": "Why might a memorial window have been a significant commission for a studio like Tiffany's?",
+      "personal": "How did relocation from a demolished church to a new setting change the context of the window?",
+      "critical": "To what extent should decorative arts such as stained glass be considered on equal terms with painting?"
+    },
+    "g1112": {
+      "daily": "How does the extreme verticality of the window shape both its composition and its symbolic reading of rising growth?",
+      "emotion": "In what ways does light passing through color produce an emotional register that is intrinsically different from pigment on a surface?",
+      "observation": "What interpretive questions arise from using a flower symbolizing resurrection in a memorial for a specific couple?",
+      "analysis": "Evaluate how the design reconciles naturalistic floral detail with the structural logic of leaded glass.",
+      "line": "How do the lead cames operate simultaneously as structure, contour, and visual rhythm?",
+      "shape": "How does the translation of organic forms into discrete pieces of glass redefine the relationship between nature and artifice?",
+      "color": "How does Tiffany's manipulation of opalescent and mottled glass produce painterly effects without paint?",
+      "texture": "What does the material specificity of Favrile glass suggest about the innovations of late nineteenth-century decorative arts?",
+      "space": "How does the window complicate the idea of an autonomous artwork by depending on architecture and daylight?",
+      "light": "How does the variability of illumination introduce time as a dimension of the work's meaning?",
+      "meaning": "How does the use of lily symbolism intersect with the memorial function and the religious setting of the window?",
+      "culture": "How does this work illustrate the collaborative, studio-based nature of the American Arts and Crafts Movement?",
+      "technique": "What are the implications of a commemorative object being moved when its original building was demolished?",
+      "personal": "How does experiencing color as light rather than pigment change your sense of how an artwork can affect you?",
+      "critical": "How do hierarchies between fine and decorative arts shape which works museums collect and display, and how does this window test them?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (stained glass, lilies, architecture) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release. The window commemorates a married couple who had died; teachers may wish to introduce the memorial purpose gently.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tall stained-glass window made in the United States between 1892 and 1895 by the Tiffany Glass and Decorating Company, founded by Louis Comfort Tiffany. It was made in memory of a married couple, and lilies were often used in memorial works as a symbol of renewal. The Art Institute says it measures 414 by 82.6 centimeters.",
+    "vocabulary": [
+      "stained glass",
+      "leaded glass",
+      "Favrile glass",
+      "memorial",
+      "Arts and Crafts",
+      "transmitted light"
+    ],
+    "directions": [
+      "Have students make a faux stained-glass window by outlining shapes with black paper strips and filling gaps with colored tissue paper.",
+      "Ask students to hold colored cellophane up to a window and describe how light changes its color.",
+      "Discuss how a window can honor a person or event and invite students to design a memorial window for something they value."
+    ]
+  }
+}

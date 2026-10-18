@@ -1,0 +1,157 @@
+{
+  "id": "met-437379",
+  "day": "10-11",
+  "title": "Bouquet of Flowers",
+  "artist": "Odilon Redon",
+  "date": "ca. 1900–1905",
+  "medium": "Pastel on paper",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DT245117.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT245117.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. George B. Post, 1956",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A pastel still life of a vase holding a bouquet of flowers in rich, glowing colors. The flowers are built from soft, powdery strokes of color without sharp outlines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437379",
+    "objectId": "437379",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Flowers, Still Life, Vases), classification, and image URLs read from the record"
+  },
+  "context": "A pastel by the French artist Odilon Redon (1840–1916), dated about 1900–1905 in the Met's record. In his later career Redon made many colorful flower pictures. Pastel is a powdery color stick that can be blended with a finger.",
+  "descriptions": {
+    "k": "A vase of flowers glows with color. The artist used soft, chalky sticks called pastels. The colors look like they are shimmering. Which flower do you like best? Can you find your favorite color?",
+    "g12": "Odilon Redon made this bouquet with pastels, which are soft sticks of colored chalk. The flowers glow and the edges look soft, not sharp. It feels like a dream of flowers. Which colors pop out most? How do they make you feel?",
+    "g35": "Odilon Redon was a French artist who made many flower pictures with pastel, a soft, powdery chalk that gives rich color. In this bouquet, the flowers seem to glow and blend into the background. Look for places where colors mix. Why might the artist care more about the feeling of flowers than the exact shape of every petal?",
+    "g68": "Redon made this around 1900 to 1905, late in his career, after years of making dark black-and-white works. In his later pictures, he turned to glowing color. Pastel lets him layer powdery strokes and blend them, so the flowers seem to hover rather than sit. How does color, rather than careful outline, create the feeling of a bouquet, and why might an artist prefer to suggest rather than copy?",
+    "g910": "In Bouquet of Flowers, Redon uses pastel to build luminous color through layered, softly blended strokes. The vase and flowers become areas of color more than outlined objects. Redon is often linked with Symbolism, which valued mood and imagination over exact description, and his late floral works are frequently discussed in that light. Consider how pastel's matte, powdery surface contributes to the bouquet's dreamlike quality, and how color alone can express feeling.",
+    "g1112": "Redon's late pastels of flowers show a shift from the dark, imaginative black-and-white work of his early career toward saturated color. In this bouquet, soft layered strokes dissolve contour so that form emerges from color relationships. Critics often connect his art to Symbolism and the Post-Impressionist generation, though the record gives only the facts of title, date, and medium. Consider whether the bouquet is best understood as a still life, an exploration of color, or an evocation of inner states, and what evidence from the surface supports each view."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which flower in the bouquet would you pick? Tell why.",
+      "emotion": "Do these flowers make you feel happy, sleepy, or something else?",
+      "observation": "Can you find the vase? Point to it and then to three flowers.",
+      "analysis": "What do your eyes look at first, the vase or the flowers? Why?",
+      "line": "Do you see sharp outlines or soft edges around the flowers? Show with your finger.",
+      "shape": "Are the flowers round, long, or fluffy? Find one round and one long shape.",
+      "color": "Which are the brightest colors? Which colors are next to each other?",
+      "texture": "The chalk makes a powdery look. How do you think the picture would feel to touch?",
+      "space": "Do the flowers feel close to you or far away? What makes you think so?",
+      "light": "Which flower or color looks like it is glowing the most?",
+      "meaning": "If the bouquet could be a gift, who would you give it to?",
+      "culture": "People give flowers on special days. When do people give flowers where you live?",
+      "technique": "The artist used soft chalk sticks. What happens when you rub chalk with your finger?",
+      "personal": "What is your favorite flower or color? How would you add it to this bouquet?",
+      "critical": "The flowers are not drawn with exact lines. Do they still look like flowers to you?"
+    },
+    "g12": {
+      "daily": "How does Redon make the bouquet look like it is glowing?",
+      "emotion": "What feeling does this bouquet give you, joyful, dreamy, or calm? Point to the colors that help.",
+      "observation": "Name four colors in the bouquet and tell where you find each one.",
+      "analysis": "Which flowers seem to be the center of attention, and how does the artist show that?",
+      "line": "There are not many hard lines. How do the colors make the shapes of the flowers?",
+      "shape": "Look at the shape of the whole bouquet and the shape of the vase. How do they fit together?",
+      "color": "Which colors look warm and which look cool? How do they sit side by side?",
+      "texture": "The chalky strokes look soft and fuzzy. Where do you see this most?",
+      "space": "What is behind the flowers? How does it help the flowers stand out?",
+      "light": "Which flowers look lit up? Which are in shadow?",
+      "meaning": "What do flowers make people think of? What do these flowers say to you?",
+      "culture": "Redon lived in France and loved flowers and imagination. Why might artists paint flowers again and again?",
+      "technique": "Pastel colors can be rubbed together. Where does it look like colors blended?",
+      "personal": "If you could make a bouquet with any colors, which would you choose?",
+      "critical": "Do the flowers look real, or do they look like a dream? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "What choices in this pastel make the bouquet feel more like a glowing dream than an exact copy of flowers?",
+      "emotion": "How would you describe the mood of this bouquet, and which colors help create it?",
+      "observation": "After a minute of quiet looking, what colors or shapes did you see that you missed at first?",
+      "analysis": "How does Redon arrange the flowers and vase so your eyes travel around the picture?",
+      "line": "The flowers have few clear outlines. How do edges still appear through color?",
+      "shape": "How do round and irregular shapes of blossoms contrast with the more solid shape of the vase?",
+      "color": "Which colors are strongest, and which are used to calm the picture down? How do they affect each other?",
+      "texture": "How does the chalky look of pastel make the flowers seem soft or velvety?",
+      "space": "How does Redon use the background to make the bouquet stand out, even if it is not detailed?",
+      "light": "Where do you see the brightest colors, and how do they give the feeling of light?",
+      "meaning": "Flowers can stand for beauty, joy, or the short life of nature. What idea do these flowers bring to you?",
+      "culture": "Many French artists around 1900 explored feeling and imagination. How does this bouquet show that kind of interest?",
+      "technique": "How do you think an artist builds color with pastel, layer by layer, compared with painting?",
+      "personal": "Choose one color in the picture. What memory or feeling does it bring up for you?",
+      "critical": "Should a flower picture look like real flowers, or can it be about feeling? Give a reason from this picture."
+    },
+    "g68": {
+      "daily": "How does Redon turn a vase of flowers into an explosion of color and feeling?",
+      "emotion": "What emotion does the soft, glowing color evoke, and how do the blended strokes support it?",
+      "observation": "Describe how the bouquet is arranged from the vase upward. Where do the colors become most intense?",
+      "analysis": "How does the color arrangement create focus, and where does the picture feel most balanced?",
+      "line": "How does Redon use the edges of color areas instead of outline to describe the flowers?",
+      "shape": "How do the broad forms of the blossoms and the more solid vase shape create contrast?",
+      "color": "How do contrasting and neighboring colors create vibration and harmony in the bouquet?",
+      "texture": "How does the powdery surface of pastel contribute to a velvety, matte effect?",
+      "space": "How does the background help the bouquet feel like it floats or hovers?",
+      "light": "How does Redon use bright color notes to suggest light rather than shadows?",
+      "meaning": "Redon was interested in imagination and mood. How might a flower picture become about a feeling instead of a plant?",
+      "culture": "Why might artists around 1900 want to move away from exact descriptions of the world?",
+      "technique": "How do blending and layering in pastel allow gradual shifts in color that are different from painting?",
+      "personal": "How would you decide on a color scheme to express a feeling you have right now?",
+      "critical": "Is a picture that suggests flowers less honest than one that copies them exactly? Explain."
+    },
+    "g910": {
+      "daily": "How does the bouquet construct form and mood from color relations rather than from outline?",
+      "emotion": "How does the sensuous surface of pastel contribute to the emotional character of the work?",
+      "observation": "Describe the visual hierarchy: which areas of color attract attention first, and how are they supported?",
+      "analysis": "Analyze how color placement, rather than linear structure, organizes the composition.",
+      "line": "How do soft transitions and the near absence of contour change the relation between drawing and color?",
+      "shape": "How does the contrast between the dissolving flower forms and the more stable vase structure the picture?",
+      "color": "How do saturated and subdued hues create tension and harmony within the bouquet?",
+      "texture": "How do the matte, powdery qualities of pastel shape the viewer's sense of the flowers' delicacy?",
+      "space": "How does a shallow, indeterminate background keep attention on the color field of the bouquet?",
+      "light": "How does color temperature replace conventional modeling to suggest illumination?",
+      "meaning": "How might the bouquet be read in terms of Symbolism's emphasis on mood and suggestion, and where does that reading depend on outside context?",
+      "culture": "How does Redon's turn from black-and-white imagery to color reflect changing interests among artists around 1900?",
+      "technique": "How might pastel's lack of a fluid binder affect handling, blending, and the permanence of the surface?",
+      "personal": "How does a work that avoids precise description affect your own sense of what a still life should do?",
+      "critical": "Does calling a work decorative reduce its seriousness? How does Redon's bouquet invite or resist that label?"
+    },
+    "g1112": {
+      "daily": "How does the bouquet blur boundaries between still life, color study, and evocation of inner states, and what visual evidence supports each reading?",
+      "emotion": "How does color operate as expressive content here, and how stable is any single emotional reading?",
+      "observation": "Describe the pastel's physical facts, including strokes, layering, and ground, before interpreting. Where does description start to claim meaning?",
+      "analysis": "How do color relations produce structure without strong linear scaffolding?",
+      "line": "In what sense does the absence of firm contour redefine drawing within pastel work?",
+      "shape": "How does the interplay of diffused blossoms and resolved vase relate to ideas of suggestion and clarity?",
+      "color": "How does Redon's palette negotiate between naturalistic reference and invented chromatic harmonies?",
+      "texture": "How does the pastel's tactile surface complicate its photographic reproduction and our experience of the image online?",
+      "space": "How does the indeterminate ground affect the viewer's sense of the bouquet as object, vision, or both?",
+      "light": "How is luminosity produced by color juxtaposition, and what does this suggest about the relation between light and pigment?",
+      "meaning": "How should we weigh Symbolist readings against formalist readings of the bouquet, given the sparseness of documentary evidence in the record?",
+      "culture": "How does Redon's late floral work fit narratives of Post-Impressionism and early modernism, and what debates complicate those narratives?",
+      "technique": "What does the choice of pastel, a medium between drawing and painting, imply about how the artist conceived of color and line?",
+      "personal": "How do your own associations with flowers and color shape the readings you find convincing?",
+      "critical": "What evidence would be needed to argue that this bouquet carries symbolic meaning rather than being simply a color exploration?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Flowers, Still Life, Vases), medium, and classification (Drawings) checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Odilon Redon (1840–1916) was a French artist associated with Symbolism, who made imaginative black-and-white works early on and glowing color pastels and paintings later. The Met dates this sheet about 1900–1905.",
+    "vocabulary": [
+      "pastel",
+      "Symbolism",
+      "still life",
+      "blending",
+      "saturated color",
+      "contour"
+    ],
+    "directions": [
+      "Have students make a color-only flower picture with chalk pastels or soft crayons, blending with a finger and using no outlines.",
+      "Ask students to choose a feeling and a matching bouquet of colors, then explain choices.",
+      "Discuss how a picture can be about a feeling as well as a thing."
+    ]
+  }
+}

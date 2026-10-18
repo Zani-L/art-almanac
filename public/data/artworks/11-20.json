@@ -1,0 +1,159 @@
+{
+  "id": "met-825727",
+  "day": "11-20",
+  "title": "Composite Album Page with Standing Figure of Jahangir",
+  "artist": "Artist unknown",
+  "date": "early 17th century",
+  "medium": "Opaque watercolor, gold silver paint on paper",
+  "movement": "Mughal album painting",
+  "region": "India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-28146-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-28146-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Howard Hodgkin Collection, Purchase, Florence and Herbert Irving Acquisitions, Harris Brisbane Dick, and 2020 Benefit Funds; Howard S. and Nancy Marks, Lila Acheson Wallace, and Friends of Islamic Art Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and funds from various donors, 2022",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall album page made of separate paintings put together. In the upper part a standing emperor is shown with a courtier. In the lower part a family of elephants stands close together, the calf reaching its trunk up toward its parent.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/825727",
+    "objectId": "825727",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line (read in chunks), public-domain flag, classification, tags (Men, Elephants) and image URLs read from the record; museum page text read for the portrait of Jahangir, the courtier, and the elephant family"
+  },
+  "context": "An album page made in India in the early 17th century that brings together separate compositions. The Met describes a standing portrait of the Mughal emperor Jahangir with an unidentified courtier above, and a scene of an elephant family below.",
+  "descriptions": {
+    "k": "This page has two pictures on it. At the top, a ruler stands with a helper. Below, three elephants stand close. The little elephant reaches its trunk up to its parent. How do you think they feel?",
+    "g12": "This tall page from an old book has more than one picture. At the top stands an emperor named Jahangir with a courtier. At the bottom is an elephant family. The baby reaches up with its trunk, and the mother touches its back. What do you think the elephants are saying to each other?",
+    "g35": "This album page from early 17th-century India combines separate paintings. At the top, the Mughal emperor Jahangir stands beside a courtier whose name we do not know. At the bottom, an elephant family shows a calf reaching its trunk toward its father while its mother strokes its back. The Met says the elephants form a circle of care. Why might an artist paint elephants as a family?",
+    "g68": "Mughal albums gathered paintings and drawings into pages for viewing, and this early 17th-century example brings several compositions together. Above is a standing portrait of Jahangir with an unidentified courtier. Below, the Met describes an elephant family: a calf reaches up to its father while its mother gently strokes its back. The museum notes that Mughal artists prized careful observation of elephants, while artists in the Deccan were more interested in their behavior and emotions. How does the page compare the human and animal subjects?",
+    "g910": "This composite album page, from the early 17th century, assembles portrait and animal imagery. The upper section presents the emperor Jahangir standing with an unidentified courtier, while the lower shows a family of elephants in a circle of care: a calf reaches to its father, and its mother strokes its back. The Met contrasts the Mughal emphasis on observing individual elephants with the Deccan interest in behavior and emotion. Consider how the arrangement on one page encourages comparison between rulers and animals, and what the gold and silver paint add.",
+    "g1112": "Albums were designed to be browsed, and this page invites juxtaposition: an imperial portrait of Jahangir above and, below, an elephant family whose gestures the Met reads as a circle of care. The museum contrasts Mughal attention to individual elephants with Deccan interest in behavior and emotion, which raises the question of whether this image leans toward one tradition. Because the page combines compositions, scholars may debate whether the pairings were chosen for meaning or for visual effect; the page alone does not answer that, and the courtier's identity remains unknown."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the elephant baby. What is it doing with its trunk?",
+      "emotion": "Do the elephants look lonely or loved? What do you see that tells you?",
+      "observation": "How many elephants can you find? Point to each one.",
+      "analysis": "This page has pictures at the top and the bottom. Which one do you look at first?",
+      "line": "Trace the curve of an elephant trunk with your finger. Which way does it reach?",
+      "shape": "Elephants have big round shapes. Can you find the biggest round shape on the page?",
+      "color": "What colors do you see on the page? Where do you see gold or silver?",
+      "texture": "Elephant skin is thick and wrinkly. Which part of the picture looks like that?",
+      "space": "Is the ruler at the top near the elephants or far from them? Show with your hand.",
+      "light": "Gold and silver can shine. Where on the page might they sparkle?",
+      "meaning": "The elephants touch each other with their trunks. What does that tell you about them?",
+      "culture": "People in India painted pictures like this a long time ago. Why do you think they liked to paint elephants?",
+      "technique": "The artist used very thin brushes for tiny details. Which tiny detail do you like best?",
+      "personal": "Who takes care of you the way the mother elephant takes care of her baby?",
+      "critical": "Why do you think someone put an emperor and elephants on the same page?"
+    },
+    "g12": {
+      "daily": "A baby elephant reaches up to its parent while the mother touches its back. What does the family seem to be feeling?",
+      "emotion": "What feeling do the elephants give you? Which gestures create that feeling?",
+      "observation": "Describe the standing person at the top and the elephants at the bottom.",
+      "analysis": "The page has more than one picture. How are the top and the bottom different?",
+      "line": "Find the curving trunks. How do they help you see how the elephants are connected?",
+      "shape": "The three elephants make a circle shape together. Can you find it?",
+      "color": "Which colors repeat across the whole page? What does that do to the page?",
+      "texture": "How does the artist show thick elephant skin and soft cloth with paint?",
+      "space": "How does the artist put the person and the elephants on the same page without them touching?",
+      "light": "Gold and silver paint catch light. Where do you think the artist added them?",
+      "meaning": "The Met says the elephants show care for each other. How do their bodies show it?",
+      "culture": "Jahangir was an emperor in India. What does the picture of a ruler tell us about how people honored leaders?",
+      "technique": "This page was made by putting separate paintings together. Why might someone make a page like that?",
+      "personal": "What is a gesture that shows care, like a hug or a pat on the back?",
+      "critical": "Why might an artist choose to paint a family of elephants, not just one?"
+    },
+    "g35": {
+      "daily": "How does the lower picture use gestures to show feelings between the elephants?",
+      "emotion": "What emotion do you see in the elephant family? Point to the details that show it.",
+      "observation": "Look for one minute at the elephants' trunks, feet, and ears. What small details do you notice?",
+      "analysis": "How does the Met describe the arrangement of the elephants, and how does it help you see their relationship?",
+      "line": "How do the curved lines of the trunks connect the three elephants?",
+      "shape": "The Met describes a circle of care formed by the elephants. How do their bodies make that shape?",
+      "color": "How does the artist use color to separate the elephants from each other and from the area around them?",
+      "texture": "How does the artist use paint to suggest the elephants' thick skin?",
+      "space": "How does the page arrange the portrait and the elephants so that each has its own space?",
+      "light": "How do gold and silver paint change the appearance of an album page?",
+      "meaning": "Why might an artist show a calf reaching to its father while its mother strokes its back?",
+      "culture": "The Met says Mughal artists observed individual elephants carefully. What might that say about what they valued?",
+      "technique": "This page combines several compositions. What are the benefits of making an album page from separate paintings?",
+      "personal": "Think of a family moment you remember. How would you show it without words?",
+      "critical": "The courtier in the portrait is unidentified. What can we learn from a picture even when we do not know all the names?"
+    },
+    "g68": {
+      "daily": "How does the album page encourage you to compare a human ruler and a family of animals?",
+      "emotion": "How does the elephant family create warmth, and how does that differ from the formality of a standing portrait?",
+      "observation": "List the compositions on the page and their subjects. Which seem to be most closely observed?",
+      "analysis": "How might the placement of the portrait above the elephants affect the way viewers read their relationship?",
+      "line": "How does outline create a sense of formal posture in the portrait and a sense of motion in the elephants?",
+      "shape": "How does the grouping of three elephants into a circle contrast with the upright figures above?",
+      "color": "How does a unified palette tie together separate paintings on one page?",
+      "texture": "How do the artists distinguish skin, cloth, and other materials in a flat, opaque medium?",
+      "space": "How does the page handle space when different paintings may have different backgrounds?",
+      "light": "What effects do gold and silver add to the page, and how might they be seen in varying light?",
+      "meaning": "The Met says the elephants form a circle of care that viewers relate to. Why might an emperor's album include such an image?",
+      "culture": "The Met contrasts Mughal and Deccan approaches to elephants. What do those approaches suggest about different artistic interests?",
+      "technique": "What does a composite album page show about how Mughal collectors assembled and valued paintings?",
+      "personal": "How do images of animals showing affection change your view of them?",
+      "critical": "How can we interpret an album page whose combinations may have been made by a later collector rather than the painter?"
+    },
+    "g910": {
+      "daily": "How does the page's juxtaposition of imperial portrait and animal family shape the viewer's reading of both?",
+      "emotion": "How do the intimate gestures of the elephants complicate the formality associated with court art?",
+      "observation": "Describe the hierarchy of the page: which sections dominate, and what devices establish that order?",
+      "analysis": "Analyze how the composite arrangement balances difference, in subject and mood, with visual unity.",
+      "line": "How does line distinguish the stately stillness of the portrait from the tender action of the elephants?",
+      "shape": "How do circular forms in the elephant group contrast with the vertical emphasis of the standing figure?",
+      "color": "How might repeated colors and metallic paint create cohesion across separately painted sections?",
+      "texture": "How do painted details suggest different textures, such as skin, cloth, and jewelry, as far as you can see?",
+      "space": "How does the page set separate pictorial spaces next to each other without resolving them into one scene?",
+      "light": "How do gold and silver paint make the page respond to the viewer's movement and lighting?",
+      "meaning": "What messages about care, power, and observation might arise from placing these images together?",
+      "culture": "How does the contrast the Met draws between Mughal and Deccan treatment of elephants illuminate regional artistic traditions?",
+      "technique": "How does the composite format reflect a collecting practice in which paintings were assembled into albums?",
+      "personal": "How do you respond to an image that treats animals as emotional beings, and how does it relate to your own experience?",
+      "critical": "What can and cannot be concluded about why these images share a page, given the information in the record?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this page about how Mughal viewers moved between portraiture and animal observation, and what is speculative?",
+      "emotion": "How does the page set up affective contrasts, between public formality and private tenderness, and what does that tell us about its audience?",
+      "observation": "Describe the page precisely. Which elements depend on the museum's identification of Jahangir and the elephants' gestures?",
+      "analysis": "Evaluate how the page's compositional logic works when assembled from separate paintings.",
+      "line": "How does contour carry emotional meaning in the elephants' gestures and social meaning in the portrait?",
+      "shape": "Discuss the relationship between the circular grouping of the elephants and the vertical format of the whole page.",
+      "color": "How might color and metallic paint have been used to harmonize works of different origin on one page?",
+      "texture": "In what ways does the painting evoke touch, in the mother's stroke of the calf's back, through visual means?",
+      "space": "How does the page's flattened, adjacent spaces differ from the continuous perspective of European pictures?",
+      "light": "How does the use of gold and silver complicate any single image of how the page looks?",
+      "meaning": "Is the elephant family a metaphor, a naturalistic study, or a decorative counterpart to the portrait? What evidence would support each?",
+      "culture": "How does the Met's comparison between Mughal and Deccan elephants help situate this page within wider South Asian painting?",
+      "technique": "What does the composite format imply about the roles of artists, collectors, and mounters in making an album?",
+      "personal": "How do your own expectations about royal portraits shape what you notice in this page?",
+      "critical": "How should we treat the identification of the standing figure and the anonymity of the courtier when interpreting the portrait?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices) and tags (Men, Elephants) checked against the museum record, and the museum page text read: a standing portrait of an emperor with a courtier and an elephant family. No violence or nudity described.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An album page from early 17th-century India that combines separate paintings. The Met describes a portrait of the Mughal emperor Jahangir with a courtier and a scene of an elephant family.",
+    "vocabulary": [
+      "Mughal",
+      "album page",
+      "composite",
+      "courtier",
+      "Deccan",
+      "opaque watercolor"
+    ],
+    "directions": [
+      "Have students create their own composite page from two small drawings and explain why they paired them.",
+      "Discuss how gestures show feelings in pictures without faces, using the elephant family.",
+      "Compare with the Young Elephant Eating painting in the archive, noting the difference between a single study and a family scene."
+    ]
+  }
+}

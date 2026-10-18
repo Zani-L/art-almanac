@@ -1,0 +1,151 @@
+{
+  "id": "met-41321",
+  "day": "06-01",
+  "title": "Snuff bottle with boys at play",
+  "artist": "Artist unknown",
+  "date": "Qing dynasty (1644–1911), Daoguang mark and period (1821–50)",
+  "medium": "Porcelain painted with underglaze cobalt blue and overglaze enamels (Jingdezhen ware) with coral and metal stopper",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP319203.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP319203.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Benjamin Altman, 1913",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small porcelain bottle painted with colorful scenes of boys playing, with blue and enamel colors on white porcelain. A small coral-colored stopper sits in the neck of the bottle.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/41321",
+    "objectId": "41321",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, medium, period (Qing dynasty, Daoguang mark and period, 1821–50), creditLine, classification (Snuff Bottles), tags (Boys, Playing), public-domain flag, and image URLs read from the record. The objectDate field is empty, so the date field uses the record's period text."
+  },
+  "context": "This small porcelain bottle was made at Jingdezhen in China during the Daoguang period (1821-50) of the Qing dynasty. Snuff bottles held powdered tobacco, which people sniffed, and were prized as small works of art that could be carried and handled. The record tags the decoration Boys and Playing.",
+  "descriptions": {
+    "k": "This is a tiny bottle with a painted picture of boys playing. It is as small as something you could hold in your hand. Look for the boys. What game could they be playing?",
+    "g12": "People in China used bottles like this one to carry a kind of powder. It is small enough to hold in your hand. Painters decorated it with boys at play, using blue and bright colors on white porcelain. What are the boys doing? Look for what they hold or where they stand.",
+    "g35": "This tiny bottle is a snuff bottle from Qing dynasty China. Snuff is a powder made from tobacco, and people carried it in small bottles that were also meant to be admired. The painter decorated it with boys at play in blue and colored enamels. Look at the boys' actions and the space around them. What do you think makes this a good scene for a small bottle?",
+    "g68": "Made in the Jingdezhen kilns during the Daoguang period, this porcelain snuff bottle combines underglaze blue with overglaze enamels, so painters could mix cool blue with bright colors. Scenes of boys playing were a popular theme and are often linked with wishes for many healthy children and a happy family, though readings vary. The painter must fit a story onto a tiny curved surface. How do the scale and shape of the bottle change the way you look at the scene?",
+    "g910": "This Daoguang-period snuff bottle shows how a small, portable object could still carry a complete scene. The painting uses underglaze cobalt blue together with overglaze enamels, creating contrast between cool blue and warmer colors. Children at play were a common decorative theme in Qing China and could suggest hopes for family prosperity, though the exact message depends on details we should check in the image. Consider how the painter composes a scene for a surface that curves away and is held in the hand.",
+    "g1112": "A Jingdezhen porcelain snuff bottle of the Daoguang period, this object reflects the Qing taste for small, intricately decorated personal objects. Its combination of underglaze blue and overglaze enamels shows technical range, while the subject of boys at play connects to widely understood auspicious imagery of children and family continuity. Yet one must distinguish between the image's possible symbolic function and its visual charm. How do portability, tactile experience, and miniature scale shape the way a narrative scene is painted and received?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What game do you think the boys on this tiny bottle are playing? Tell about it.",
+      "emotion": "Do the boys look joyful or serious? What tells you?",
+      "observation": "Find one boy on the bottle. What is he doing?",
+      "analysis": "Where do your eyes go first on this bottle? Why?",
+      "line": "Can you find a curvy line on the bottle? Trace it in the air.",
+      "shape": "What is the shape of the bottle? Is it round, tall, flat, or something else?",
+      "color": "Which colors are painted on the bottle? Which one is your favorite?",
+      "texture": "The bottle looks smooth and shiny. How would it feel in your hand?",
+      "space": "The bottle is very small. How big do you think it is compared with your hand?",
+      "light": "Where does the shiny porcelain catch the light?",
+      "meaning": "People painted children playing on bottles. Why might that make someone smile?",
+      "culture": "Long ago, people in China carried small bottles like this. What small things do you carry with you?",
+      "technique": "The painter had very little space to paint. What would be hard about painting tiny boys?",
+      "personal": "What is your favorite game to play with friends? How would you paint it on a bottle?",
+      "critical": "Why do you think someone made a tiny bottle so beautiful?"
+    },
+    "g12": {
+      "daily": "What are the boys on the bottle doing, and how does the painter show it?",
+      "emotion": "What feeling does this playful scene give you? Which part helps you feel that way?",
+      "observation": "Describe the boys and what is around them. What can you find in the scene?",
+      "analysis": "How does the painter fit the whole scene onto a small bottle?",
+      "line": "Find thin painted lines on the boys' clothes or faces. How do they help you see the action?",
+      "shape": "What shapes does the bottle have, and how do the boys fit into those shapes?",
+      "color": "Blue and other colors are used. Where do the colors stand out most on the white bottle?",
+      "texture": "The bottle is smooth porcelain with a small stopper on top. What might each feel like?",
+      "space": "The picture wraps around the bottle. How is that different from a picture on paper?",
+      "light": "How does the shiny glaze change the way the painted colors look?",
+      "meaning": "Boys at play can stand for happiness and family. Why might someone want that picture on their bottle?",
+      "culture": "This bottle was made in the Qing dynasty in China. What does it show about things people liked to carry and look at?",
+      "technique": "The painter used blue paint under the glaze and colored enamels on top. Why might the artist use two kinds of paint?",
+      "personal": "If you could carry a tiny painted object with you everywhere, what picture would you want on it?",
+      "critical": "Is this bottle more of a useful object or a tiny artwork? Use clues from the picture."
+    },
+    "g35": {
+      "daily": "How does the painter tell a lively story about boys at play on such a small bottle? Use evidence from the scene.",
+      "emotion": "What mood does the playful scene give the bottle? Which details express it?",
+      "observation": "Look for one minute. What small details in the boys' clothing, actions, or setting did you not see at first?",
+      "analysis": "How does the painter arrange the boys so the scene wraps around the bottle?",
+      "line": "How do thin painted lines help show the boys' movements and clothing?",
+      "shape": "How do the shape of the bottle and the shapes of the boys work together?",
+      "color": "How do the blue and the enamel colors work together, and which parts of the scene do they highlight?",
+      "texture": "How does the smooth porcelain compare with the coral stopper? What differences do you notice?",
+      "space": "The bottle is small and curved. How does that challenge a painter who wants to show a whole scene?",
+      "light": "How does the glossy surface of the porcelain reflect light, and how does that change the colors?",
+      "meaning": "Why might images of children at play have been popular on household objects?",
+      "culture": "Snuff bottles were small items carried and admired. What does that tell you about everyday art in the Qing dynasty?",
+      "technique": "Overglaze enamels are painted on after the first firing. Why might painters use them for bright colors?",
+      "personal": "What do you like to collect or carry because it is small and special?",
+      "critical": "Can a very small object be as important as a large painting? Argue using the bottle as evidence."
+    },
+    "g68": {
+      "daily": "How does the painter compress an entire lively scene into a bottle small enough to hold in one hand?",
+      "emotion": "How does the choice of children at play affect the emotional tone of this luxury object?",
+      "observation": "Study the surface. Which elements of the boys' scene are most detailed, and which are only suggested?",
+      "analysis": "How does the composition help the viewer move around the curved bottle to follow the scene?",
+      "line": "How does fine linework in blue and enamel help define the boys' actions and clothing?",
+      "shape": "How do the figures' shapes relate to the bottle's overall form, and how does the painter use the curve?",
+      "color": "How do cool blue and warmer enamel colors create contrast and highlight different parts of the scene?",
+      "texture": "How do the glossy porcelain and the coral and metal stopper bring variety to the object's surfaces?",
+      "space": "How does the painter suggest ground, background, or depth in a very shallow, curved space?",
+      "light": "How does the shine of the glaze interact with the painted surface as you turn the bottle?",
+      "meaning": "Scenes of boys at play are often linked with wishes for a thriving family. How might that shape the meaning of this bottle?",
+      "culture": "Why might a small, decorated bottle have been a good gift or status object in Qing society?",
+      "technique": "Why does combining underglaze blue with overglaze enamels require several firings and careful planning?",
+      "personal": "What does the care put into a tiny object tell you about how the owner might have felt about it?",
+      "critical": "How should we weigh a bottle's playful imagery against its role as an item of luxury and fashion?"
+    },
+    "g910": {
+      "daily": "How does the miniature scale of the painting shape the way the boys' scene is composed and read?",
+      "emotion": "How does the choice of a playful theme influence the emotional tone of an object designed for personal use?",
+      "observation": "Describe how the painter establishes hierarchy among figures and setting on this small surface.",
+      "analysis": "Analyze how the composition accommodates the bottle's curvature and the viewer's need to rotate it.",
+      "line": "How does the painter's line, in blue and in enamel, distinguish figures from setting in a very limited space?",
+      "shape": "How do the contours of the bottle and the arrangement of figures reinforce or complicate each other?",
+      "color": "How does the interplay of cobalt blue and enamel colors indicate technical range and aesthetic choice?",
+      "texture": "How do the surfaces of glazed porcelain and a coral-and-metal stopper contrast, and what might that suggest about sensory design?",
+      "space": "How does the painting construct a sense of place without conventional deep perspective?",
+      "light": "How does the reflective glaze change the visibility of painted details depending on how the bottle is held?",
+      "meaning": "How might the theme of children at play be both a decorative choice and an expression of values about family and continuity?",
+      "culture": "How do snuff bottles reflect Qing social practices, including fashion, gift-giving, and collecting?",
+      "technique": "What does the combination of underglaze blue and overglaze enamel imply about the production process and the division of labor?",
+      "personal": "How do small personal objects in your life, like phones or keychains, communicate taste, and how does this bottle compare?",
+      "critical": "How might the miniaturization of art influence how seriously viewers take it, and is that fair?"
+    },
+    "g1112": {
+      "daily": "What does it mean for a narrative scene to be made for a surface meant to be turned in the hand rather than hung on a wall?",
+      "emotion": "How does the interplay of playful content and refined craftsmanship shape the object's affect, and how might that differ for its original users?",
+      "observation": "Describe the bottle with precision. At what point does interpreting the scene as a game rather than another activity depend on cultural knowledge?",
+      "analysis": "Analyze how the painter negotiates the demands of a curved miniature surface in organizing figures and space.",
+      "line": "How does the calligraphic quality of fine brushwork relate this decorative object to other traditions of Chinese painting?",
+      "shape": "How does the dialogue between vessel form and pictorial field complicate the separation of sculpture and painting?",
+      "color": "How does the use of underglaze blue with overglaze enamels reflect Qing technical sophistication and market demand?",
+      "texture": "How does the tactile experience of holding the bottle shape its meaning in ways a museum photograph cannot capture?",
+      "space": "How does the bottle's miniature scale shape the viewer's bodily relation to the scene, from intimacy to control?",
+      "light": "How do photographic and museum lighting conditions alter our perception of enamel color and glaze?",
+      "meaning": "How do auspicious readings of children's imagery interact with the possibility that the scene was valued simply for charm?",
+      "culture": "How does the snuff bottle as a genre complicate distinctions among fine art, craft, and consumer goods in Qing China?",
+      "technique": "What do the mixed materials, porcelain, coral, and metal, suggest about the object's production and the networks supplying them?",
+      "personal": "How does your own experience of childhood play shape the way you read this scene, and where might that limit your understanding?",
+      "critical": "Given limited information about the maker, workshop, or original owner, how should we frame claims about this bottle's meaning?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Snuff bottle with boys at play), classification (Snuff Bottles), medium (porcelain with underglaze blue and overglaze enamels, coral and metal stopper), and tags (Boys, Playing) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty (Daoguang period, 1821-50) porcelain snuff bottle from Jingdezhen. The specific game or activity shown should be confirmed from the image before class discussion.",
+    "vocabulary": ["snuff bottle", "porcelain", "underglaze", "overglaze enamel", "Qing dynasty", "auspicious imagery"],
+    "directions": [
+      "Have students design a scene for a miniature curved surface, such as a paper cylinder, and note challenges.",
+      "Compare children's play scenes across cultures in the archive and discuss which games appear in more than one.",
+      "Discuss why people create small, beautiful objects to carry, and what small treasures students carry."
+    ]
+  }
+}

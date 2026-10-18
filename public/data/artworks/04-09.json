@@ -1,0 +1,159 @@
+{
+  "id": "met-435988",
+  "day": "04-09",
+  "title": "Ville-d'Avray",
+  "artist": "Camille Corot",
+  "date": "1870",
+  "medium": "Oil on canvas",
+  "movement": "Barbizon school",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19283-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-19283-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A quiet woodland scene with tall slender trees whose feathery silver-green leaves blur softly into a hazy sky. Small figures of women appear among the trees, and the whole picture has a gentle, misty glow.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435988",
+    "objectId": "435988",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Women, Forests), credit line, and image URLs read from the record"
+  },
+  "context": "Camille Corot painted this wooded landscape in 1870. Ville-d'Avray, a village near Paris, was a place where his family had a home, and he painted its ponds and trees many times. Younger Impressionist painters admired his soft, atmospheric style.",
+  "descriptions": {
+    "k": "Tall trees lean over a quiet place. Their leaves look soft like feathers. The air looks misty and gentle. Some small people are near the trees. What sounds do you think you would hear here?",
+    "g12": "Camille Corot painted a calm woods near Paris. The trees have soft, feathery leaves in silver and green. Everything looks a little misty, like a gentle dream. A few small people stand among the trees. How does this soft picture make you feel?",
+    "g35": "Camille Corot painted this peaceful place in 1870 near a village outside Paris. Instead of sharp details, he used soft, blurred edges and silvery greens to make the air look hazy. The tiny people are overshadowed by the tall trees. Why might Corot want you to feel the quiet of nature more than see every leaf?",
+    "g68": "Painted in 1870, this view of woods near Ville-d'Avray shows the soft, atmospheric style of Corot's late career. Feathery leaves, silvery greens, and a hazy sky blur boundaries between things, so the scene feels remembered as much as observed. The small figures give scale to the tall trees. How does Corot use softness and haze to create mood, and how is this different from a sharp, detailed landscape?",
+    "g910": "In his late landscapes, Corot moved away from crisp description toward mood and atmosphere. Here, feathery foliage, a restrained palette of silvery greens, and a veil of haze unify the scene, while small figures give human scale. His approach influenced the Impressionists, who admired his handling of light, though he remained more tonal and poetic than they were. Consider how softness shapes the feeling of the place.",
+    "g1112": "Ville-d'Avray belongs to Corot's late, poetic landscapes, which combine direct observation with studio composition and memory. The painting's feathery foliage and silvery tonalities dissolve detail into atmosphere, favoring mood over topography. Critics have debated whether such works are an end point of Romantic landscape or a bridge to Impressionism. How does the painting complicate a simple line from tradition to modernism, and what role do its small figures play?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What sounds would you hear if you stood in this misty woods?",
+      "emotion": "Does this place feel peaceful or scary? What makes you think so?",
+      "observation": "Find the tall trees, the soft sky, and the small people. Which do you see first?",
+      "analysis": "Are the people big or small compared to the trees? What does that tell you?",
+      "line": "Follow the tall tree trunks with your finger. Which way do they lean?",
+      "shape": "The leaves look like soft clouds or feathers. What shapes do you see in the treetops?",
+      "color": "What greens and silvery colors can you find? Do you see any bright colors?",
+      "texture": "How would the feathery leaves feel if you touched them? Soft or scratchy?",
+      "space": "Where could you walk in this picture? What is near, and what is far away?",
+      "light": "Is the light bright or soft? Show where the light seems gentlest.",
+      "meaning": "What do you think the small people are doing in the woods?",
+      "culture": "Corot lived in France long ago. What things in the picture are the same in your world?",
+      "technique": "The painter blurred the edges of the leaves. How do you think he made them look so soft?",
+      "personal": "Have you ever been in a quiet, misty place? Tell us how it felt.",
+      "critical": "Do you like soft pictures like this one or sharp, clear ones better? Why?"
+    },
+    "g12": {
+      "daily": "What would it be like to stand at the edge of this misty woods? Use what you see to tell us.",
+      "emotion": "Corot's picture feels gentle and dreamy. Which parts of the painting help make that feeling?",
+      "observation": "Describe three things you see among the trees, from the leaves to the people.",
+      "analysis": "How do the tall trees help frame the quiet space in the middle?",
+      "line": "Compare the straight tree trunks with the curvy leaves. How do they feel different?",
+      "shape": "Look at the tops of the trees. What shapes do the leaves make together?",
+      "color": "Corot used mostly greens and silver-grays. How does that limited set of colors affect the mood?",
+      "texture": "Which parts look feathery and which look smooth? Show how you can tell.",
+      "space": "How does the soft haze make the faraway parts look even farther away?",
+      "light": "The light looks soft and glowing, not harsh. How does it change the way the trees look?",
+      "meaning": "The people are tiny next to the trees. What might that tell us about nature and people?",
+      "culture": "People near Paris could visit quiet villages like this one. Why might a city person love a place like this?",
+      "technique": "Corot painted leaves with soft dabs instead of sharp lines. Where do you see this most?",
+      "personal": "What place makes you feel calm like this picture does? Describe it.",
+      "critical": "Is this exactly how the place looked, or how Corot remembered or felt about it? Give a reason."
+    },
+    "g35": {
+      "daily": "Imagine entering this scene. What would the air, light, and sounds be like, and which details in the painting support your ideas?",
+      "emotion": "How would you describe the mood of this woods? Choose two painted details that create it.",
+      "observation": "Look slowly at the edges of the trees. What do you notice about how the leaves are painted compared with a photograph?",
+      "analysis": "How do the trees, the people, and the hazy distance work together to organize the scene?",
+      "line": "How do the long, slender trunks and branches create a sense of height and rhythm?",
+      "shape": "How does the shape of the treetops, a big feathery mass, contrast with the small figures below?",
+      "color": "How does a limited palette of silvery greens and soft browns create harmony in the picture?",
+      "texture": "How does Corot make leaves look light and airy even though they are made of paint?",
+      "space": "How does the haze at the back help you feel a deep space beyond the trees?",
+      "light": "The light seems filtered through mist. Where does it seem strongest, and how can you tell?",
+      "meaning": "Why might Corot include tiny figures instead of making a landscape with no people at all?",
+      "culture": "Corot spent time in the French countryside near Paris. What might a village like this have meant to him?",
+      "technique": "Corot sometimes painted outdoors and finished pictures in his studio. How might that explain the dreamy feeling of the final work?",
+      "personal": "Think of a quiet outdoor place you know. How could you show its mood without painting every detail?",
+      "critical": "Does it matter if a landscape is accurate to a real place, or is the mood more important? Explain your view."
+    },
+    "g68": {
+      "daily": "How does Corot make a modest wooded scene feel almost like a memory or a dream?",
+      "emotion": "How does the painting create a mood of stillness, and what choices of color and brushwork contribute?",
+      "observation": "Notice the transitions from foreground to haze. Which edges are sharp and which dissolve?",
+      "analysis": "How do the tall trees frame the composition, and how do the small figures affect its scale?",
+      "line": "How do vertical trunks, curving branches, and soft horizontals build structure beneath the feathery surface?",
+      "shape": "Compare the large masses of foliage with the small figures. What does this contrast say about proportion?",
+      "color": "How does the restrained palette of silvery greens and grays unify the picture, and what would change with brighter hues?",
+      "texture": "How does the brushwork suggest leaves as a soft veil rather than individual forms?",
+      "space": "What visual strategies, such as haze, overlapping, and color shifts, push the background back?",
+      "light": "How does filtered, diffused light shape the mood and reduce contrasts in the scene?",
+      "meaning": "Some viewers read late Corot landscapes as nostalgic or poetic. What details support or challenge that reading?",
+      "culture": "How might growing industrial cities have increased people's longing for quiet places like this in 19th-century France?",
+      "technique": "How does a soft, tonal approach differ from the bright, broken color of the Impressionists who admired Corot?",
+      "personal": "What does a quiet natural place mean to you, and how would you make others feel that without people explaining it?",
+      "critical": "Is a blurry, poetic landscape more or less honest than a sharply detailed one? Argue using this painting."
+    },
+    "g910": {
+      "daily": "What do you think Corot values more here: describing a particular place or evoking a feeling? Cite the visual evidence.",
+      "emotion": "How does atmosphere, rather than action, carry the painting's emotional force?",
+      "observation": "Analyze how the painting directs attention among foliage, figures, and background without strong contrasts.",
+      "analysis": "How does the arrangement of trees and open space produce both enclosure and openness?",
+      "line": "How do slender trunks and curving branches provide a delicate framework for the dense foliage?",
+      "shape": "How does the large, soft mass of leaves interact with the small figures to establish scale and mood?",
+      "color": "How does the narrow range of silvery greens and neutrals produce unity, and where does the painting allow variation?",
+      "texture": "How does Corot's handling transform leaves into a shimmering veil, and what does that suggest about perception?",
+      "space": "How does atmospheric perspective produce a sense of depth despite the soft, flattened handling of foliage?",
+      "light": "How does diffused light replace strong shadow, and how does that alter the mood relative to Romantic landscapes?",
+      "meaning": "What roles might the small figures play, such as scale, narrative, or reverie, and how certain can we be?",
+      "culture": "How does the picture reflect 19th-century French attitudes toward the countryside as an escape from the city?",
+      "technique": "How might studio recomposition of outdoor studies affect the balance between observation and invention?",
+      "personal": "How does the painting's softness invite or discourage your attention, and why?",
+      "critical": "Corot is seen as both a late Romantic and a forerunner of Impressionism. Which label fits this painting better, and why?"
+    },
+    "g1112": {
+      "daily": "How does this landscape stage a negotiation between observed place and poetic invention?",
+      "emotion": "How does the painting evoke feeling through diffusion rather than drama, and what does that imply about 19th-century landscape traditions?",
+      "observation": "Provide a careful formal description of the surface and composition, then note where the description begins to interpret.",
+      "analysis": "How do the framing trees, the hazy distance, and the small figures create an interplay of stability and dissolution?",
+      "line": "How does the painting's subordination of crisp contour to tonal gradation affect its claim to depict a real place?",
+      "shape": "How do the dense masses of foliage and the diminutive figures stage a relationship between nature and human presence?",
+      "color": "How does the painting's tonal restraint position it between earlier landscape conventions and later Impressionist color?",
+      "texture": "How does the painting transform leafy matter into near-abstract, vibrating surface, and what does that suggest about its aims?",
+      "space": "How does the painting produce depth and enclosure at once, and what experience of space does it offer the viewer?",
+      "light": "How does the painting's treatment of diffused light contribute to its reception as poetic or nostalgic?",
+      "meaning": "Evaluate readings of the painting as pastoral reverie, urban longing, or formal exercise. What evidence does the picture itself offer?",
+      "culture": "How might the painting speak to anxieties about modernization in a France on the eve of war and political upheaval in 1870, and how cautious should we be about linking them?",
+      "technique": "How do Corot's late methods complicate the common story that Impressionism broke cleanly with older landscape practice?",
+      "personal": "How do your own associations with nostalgia or retreat color your reading of a soft, misty landscape?",
+      "critical": "What are the risks of reading Corot only as a precursor to Impressionism rather than on his own terms?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Women, Forests), classification (Paintings), and medium checked against the museum record. The subject is a wooded landscape with small clothed figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Corot painted the woods and ponds around Ville-d'Avray, near Paris, for much of his life. His soft, silvery late landscapes were admired by younger painters including the Impressionists.",
+    "vocabulary": [
+      "Barbizon school",
+      "atmosphere",
+      "tonal painting",
+      "foliage",
+      "atmospheric perspective",
+      "landscape"
+    ],
+    "directions": [
+      "Have students describe the same scene in a sharp, detailed way and then in a soft, misty way, and compare the moods.",
+      "Ask students to find the smallest figure in the painting and discuss how scale affects what feels important.",
+      "Compare with a sharp-focus landscape from another day and ask which one feels closer to a memory."
+    ]
+  }
+}

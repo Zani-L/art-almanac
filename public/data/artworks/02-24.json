@@ -1,0 +1,158 @@
+{
+  "id": "met-60124",
+  "day": "02-24",
+  "title": "Netsuke of Three Rats",
+  "artist": "Nagahisa",
+  "date": "first half of the 19th century",
+  "medium": "Ivory",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/10_211_774_O1_sf.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/10_211_774_O1_sf.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Russell Sage, 1910",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny carved ivory sculpture of three rats, their forms close together, with smooth, pale, rounded surfaces.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/60124",
+    "objectId": "60124",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A netsuke by an artist named Nagahisa, carved from ivory in Japan in the first half of the 19th century. Netsuke were small toggles used to hang pouches from the sash of a kimono. The rat is the first animal in the twelve-animal zodiac used in Japan.",
+  "descriptions": {
+    "k": "Look at three little rats made from ivory. They are very small. They are carved so well that you can almost feel their smooth backs. How might they be sitting together? What would they say to each other?",
+    "g12": "Three rats are carved from pale ivory. This sculpture is called a netsuke, and it is small enough to hold in your hand. People in Japan used netsuke like a button to hang a pouch from a belt. Look at how the rats fit together. Which parts are smooth, and which parts have tiny details?",
+    "g35": "Kimono had no pockets, so people in Japan hung pouches from their sashes using a cord and a small toggle called a netsuke. This netsuke shows three rats carved from ivory by an artist named Nagahisa. Because it was worn and handled, the surface had to be smooth and the shape compact. Look at how the rats are grouped. Why might an artist choose rats, and how did the artist fit three animals into one tiny object?",
+    "g68": "Nagahisa carved this netsuke in the early 1800s. Netsuke solved a practical problem: kimono lack pockets, so a toggle kept a pouch from slipping from the sash. Because they were handled constantly, makers designed them without sharp points and often with a cord hole hidden in the design. Rats are the first animal of the zodiac and appear in many folk stories. How does the sculptor group three animals into a single compact form? Why would a small object be worth such skill?",
+    "g910": "Netsuke are a case where craft, function, and wit meet. This ivory sculpture by Nagahisa, from the first half of the 19th century, packs three rats into a compact group that could be worn and handled daily. Its success depends on balancing volume, surface detail, and the need to avoid fragile projections. Rats carry varied associations in Japanese culture, including cleverness and prosperity, though any one reading depends on context. Consider how the small scale invites close, tactile looking rather than distant display.",
+    "g1112": "Nagahisa's netsuke shows how an everyday fastener became a sophisticated sculptural genre in Edo-period Japan. The work must function as a toggle, so its design negotiates compactness, durability, and a cord path while still delivering naturalistic observation and humor. Rats in Japan could suggest wealth or cleverness depending on context. Ivory also raises present-day questions, because the material is now heavily regulated, and museums consider how to present historical works made from it. How do function, subject, and material shape meaning here?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the three rats are doing together?",
+      "emotion": "Do these rats look sleepy, silly, or sneaky to you? What makes you think so?",
+      "observation": "Can you count the rats? Point to a head, a tail, and a paw.",
+      "analysis": "Where do your eyes go first on this little sculpture? Why?",
+      "line": "Can you find a curvy line, like a tail? Trace it in the air.",
+      "shape": "What round and bumpy shapes make up this sculpture?",
+      "color": "What color is the ivory? How does it feel to look at it?",
+      "texture": "Which parts of this carving do you think would feel smooth to touch?",
+      "space": "The rats are close together. How do they fit into such a small space?",
+      "light": "Where does light make the ivory look bright? Where does it look softer?",
+      "meaning": "Make up a short story about these three rats.",
+      "culture": "People in Japan used little carvings like this to hang pouches on their belts. What do you use to carry your things?",
+      "technique": "The artist carved this by cutting away ivory with tiny tools. Why do you think it took a long time?",
+      "personal": "If you could carve a tiny animal to carry with you, what would it be?",
+      "critical": "This carving is very small. What tiny details can you find if you look slowly?"
+    },
+    "g12": {
+      "daily": "What do you think the three rats are doing together? Use clues from the carving.",
+      "emotion": "What feeling do you get from these three rats? Which parts of the carving help you feel that?",
+      "observation": "Describe five parts of the rats that you can see, from heads to tails.",
+      "analysis": "How does the artist make three animals fit together as one small shape?",
+      "line": "Find a curving line in the carving. Where does it start and where does it end?",
+      "shape": "Which shapes are round and which are pointed? How do they fit together?",
+      "color": "The carving is pale. How does that help you notice its shapes?",
+      "texture": "Which parts look smooth and which look like they have tiny lines? Why might the artist use both?",
+      "space": "How does the artist make the rats fill the space? Are there empty spaces or not?",
+      "light": "Where do you see light and shadow on the carving? What do they show about its shape?",
+      "meaning": "Why do you think the artist chose rats for this tiny sculpture?",
+      "culture": "Netsuke were used as a toggle on a kimono sash. Why might people want a toggle to be beautiful?",
+      "technique": "This is a sculpture carved from ivory. How is carving different from drawing?",
+      "personal": "What small treasure do you like to hold or carry? Tell about it.",
+      "critical": "Would you want to hold this carving or only look at it? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What story or action do you imagine for these three rats, and which details support your idea?",
+      "emotion": "What personality do the rats seem to have? Which carved details create that impression?",
+      "observation": "Study the carving for one minute. What small details did you find that you missed at first?",
+      "analysis": "How does the sculptor arrange the three rats so they work as one compact object?",
+      "line": "How do curved lines in the bodies and tails create movement?",
+      "shape": "Which shapes repeat in the carving? How do they link the three animals together?",
+      "color": "Ivory is nearly one color. How does the sculptor use form and surface instead of color to show details?",
+      "texture": "How does the artist show differences between smooth fur, tails, or ears? What would make the carving pleasant to hold?",
+      "space": "A netsuke is meant to be turned in the hand. How does the carving look interesting from more than one side?",
+      "light": "How do highlights and shadows on the rounded ivory help you see the animals' shapes?",
+      "meaning": "Rats are the first animal in the zodiac and appear in stories. Why might an owner have liked a rat netsuke?",
+      "culture": "Kimono have no pockets, so a netsuke held a pouch to the sash. What does this tell you about how people lived and dressed?",
+      "technique": "Netsuke had to be smooth and sturdy because people wore them every day. How might that change how an artist carves?",
+      "personal": "Think of an object you carry every day. What would you want it to look like?",
+      "critical": "Why do you think a useful object was made as a tiny sculpture instead of a plain button?"
+    },
+    "g68": {
+      "daily": "How does Nagahisa turn a practical toggle into a small work of art?",
+      "emotion": "What mood or personality do the rats convey, and which carved features create it?",
+      "observation": "Describe the sculpture from several angles in your mind. Which features seem most carefully worked?",
+      "analysis": "How does the composition group three animals so that they form a single compact mass?",
+      "line": "How do curves of backs and tails create flow around the sculpture? Where do lines change direction?",
+      "shape": "How do round and tapered forms balance each other in the group?",
+      "color": "With almost no color, how does the artist rely on shape and surface to hold attention?",
+      "texture": "Why might smoothness matter for an object handled daily, and where does the artist add fine detail?",
+      "space": "Why would an object designed for close handling be sculpted to be seen from every side?",
+      "light": "How do highlights on the rounded ivory model the form? How might the carving look different in dim light?",
+      "meaning": "Rats can suggest cleverness, abundance, or the zodiac. How might each reading change your view of the sculpture?",
+      "culture": "How did clothing without pockets lead to a whole art form, and what does that suggest about design and daily life?",
+      "technique": "What skills and limits does carving a small, hand-held form require compared with making a large sculpture?",
+      "personal": "What small design, such as a keychain or charm, expresses something about you?",
+      "critical": "Some modern museums discuss ivory as a historic material with present-day concerns. How might that influence how we look at this work?"
+    },
+    "g910": {
+      "daily": "How do compactness, subject, and surface work together to make this small object convincing and charming?",
+      "emotion": "How does the sculptor give small animals character without exaggeration?",
+      "observation": "Describe the visual hierarchy: what draws the eye first, and how does the form reward closer looking?",
+      "analysis": "Analyze how the sculptor balances the need for a compact, durable form with lively detail.",
+      "line": "How do contours and incised details differ in their roles?",
+      "shape": "How does the grouping of rounded masses produce unity while avoiding fragile projections?",
+      "color": "How does the plain ivory color make the carving's curves and fine details more important?",
+      "texture": "How does varying surface texture, from polished curves to finer detail, express differences in the animals' bodies?",
+      "space": "How does a design intended to be held change what we consider the front, back, and sides?",
+      "light": "How do the highlights and shadows on carved ivory model the forms differently than paint would?",
+      "meaning": "What associations might rats have carried for owners of netsuke, and which are well documented versus assumed?",
+      "culture": "How does the netsuke reflect the fashion and social life of Edo-period Japan?",
+      "technique": "How do the practical demands of a toggle, including smoothness, weight, and a cord path, shape carving choices?",
+      "personal": "Would you rather hold this rat group or only look at it? What does that choice say about how the object works?",
+      "critical": "How should we account for the material, ivory, when we evaluate and display historical works today?"
+    },
+    "g1112": {
+      "daily": "What does this small sculpture reveal about the relationship between utility, wit, and craftsmanship?",
+      "emotion": "How does the netsuke achieve expressiveness within strict constraints of scale and function?",
+      "observation": "Describe the sculpture's formal construction with precision. Where does description already begin to interpret?",
+      "analysis": "Analyze how the sculpture reconciles naturalism with the needs of a wearable object.",
+      "line": "How does the continuity of contour across three bodies produce a single form?",
+      "shape": "How do the interlocking masses answer the requirement of a compact, snag-free shape?",
+      "color": "How does monochrome material shift the burden of expression onto modeling and finish?",
+      "texture": "How might the tactile qualities of worn and handled ivory be part of the work's intended experience?",
+      "space": "How does an object meant to be held in the palm alter conventional ideas of viewpoint and display?",
+      "light": "How does museum lighting change our perception of a form that was meant to be touched and carried?",
+      "meaning": "Evaluate possible readings of the rats as zodiac, humor, or associations with prosperity. What evidence would strengthen each?",
+      "culture": "How does the netsuke illustrate the intersection of dress, status, and craft in the Edo period?",
+      "technique": "What can the netsuke tell us about carvers who specialized in tiny animals, and what remains unknown about them?",
+      "personal": "How does your own experience of small objects, such as phones or jewelry, shape how you read the netsuke?",
+      "critical": "How should museums balance appreciation of craft with the ethical questions raised by a material such as ivory?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Netsuke), medium, and tags (Rats) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small ivory netsuke by Nagahisa, first half of the 19th century. Netsuke served as toggles for pouches hung from the sash of a kimono, which has no pockets.",
+    "vocabulary": [
+      "netsuke",
+      "kimono",
+      "obi",
+      "Edo period",
+      "carving in the round",
+      "zodiac"
+    ],
+    "directions": [
+      "Have students sketch the netsuke from imagined front, back, and top views to practice sculptural thinking.",
+      "Ask students to design a toggle for something they carry and explain the function of each part.",
+      "Discuss historic ivory objects and why present-day laws restrict ivory trade."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-249215",
+  "day": "10-30",
+  "title": "Gold necklace with coin pendants",
+  "artist": "Artist unknown",
+  "date": "3rd century CE",
+  "medium": "Gold",
+  "region": "Roman",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP107043.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP107043.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Roman gold necklace with gold coins hanging from it as pendants. Each coin carries a head shown in side view, a portrait of a Roman emperor.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/249215",
+    "objectId": "249215",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (Men, Profiles), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A Roman gold necklace of the 3rd century CE that includes coins of the emperor Alexander Severus as pendants. Wearing coins as jewelry shows both their value as gold and the way Romans used coin portraits to spread an emperor's image.",
+  "descriptions": {
+    "k": "This necklace is made of gold. Little gold coins hang from it. Each coin has a face on it, seen from the side. Romans wore this a very long time ago. Why would someone wear coins as jewelry?",
+    "g12": "This is a Roman gold necklace with real gold coins hanging from it. Each coin shows the side view of a head, a picture of a Roman emperor. People wore coins as jewelry because they were shiny and valuable. Look at how the coins repeat. What would it feel like to wear this?",
+    "g35": "Romans made this gold necklace around the 3rd century CE and hung gold coins from it. The coins show the emperor Alexander Severus in profile, which means a side view of his head. Coins were small, portable portraits that traveled across the Empire. Look at how the coins hang from the chain. Why might someone turn money into jewelry?",
+    "g68": "This necklace transforms coins into jewelry. The pendants are coins of the emperor Alexander Severus, who ruled in the early 3rd century CE, and each carries a portrait in profile. Roman coins spread the image of the ruler across a huge empire, so a necklace like this combines wealth, fashion, and a link to power. Gold was valuable, and the necklace may also have been a way to store wealth. How does an object change when money becomes ornament?",
+    "g910": "A necklace of gold coins collapses the categories of currency, jewelry, and political image. Coins of Alexander Severus carry his portrait in profile, a standard format that made rulers visible throughout the Empire. Wearing the coins displays wealth, and may also have expressed connection to the emperor, although the record does not tell us the wearer's intention. Consider how the repeated profile heads create rhythm along the necklace and how the same object might have been read as savings, adornment, or loyalty.",
+    "g1112": "This necklace invites several readings at once: as jewelry, as a store of value, and as a collection of imperial portraits circulating on the body. Coins of Alexander Severus, a ruler of the early 3rd century CE, carry stylized profile portraits that served the state's ideology, and the act of wearing them recasts that imagery as personal display. The record does not reveal the wearer's motives or the necklace's original context, so claims about political loyalty or economic strategy remain speculative. Consider how an object can be money, art, and propaganda at once."
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think wore this necklace?",
+      "emotion": "How would you feel wearing a necklace with shiny coins?",
+      "observation": "What do you see on this necklace? Point to three things.",
+      "analysis": "Where do your eyes go first? Where do they go next?",
+      "line": "Look at how the coins hang. Can you trace the curve of the necklace with your finger?",
+      "shape": "What shapes do you see? Look at the coins.",
+      "color": "What color is the necklace? What else is that color?",
+      "texture": "How do you think the coins would feel in your hands? Smooth or bumpy?",
+      "space": "The coins are small. How big do you think each one is?",
+      "light": "Where does the gold shine?",
+      "meaning": "Each coin has a face from the side. What do you think that person was like?",
+      "culture": "People in Rome used coins like these as money. What do we use as money today?",
+      "technique": "A coin has a picture pressed into metal. How do you think that was done?",
+      "personal": "If you made a coin necklace, what picture would you put on the coins?",
+      "critical": "Why might someone wear coins instead of just keeping them in a bag?"
+    },
+    "g12": {
+      "daily": "How do you think this necklace was worn? What clues help you decide?",
+      "emotion": "What feeling does a necklace with gold coins give you? Why?",
+      "observation": "Describe the necklace. What parts can you name?",
+      "analysis": "How does the necklace lead your eyes from one coin to the next?",
+      "line": "Find curved lines in the necklace. How do they help it hang?",
+      "shape": "Look at the round coins. How do the shapes repeat?",
+      "color": "Why might gold have been a favorite choice for money and jewelry?",
+      "texture": "What parts might feel smooth and what parts might feel raised?",
+      "space": "How can you tell the coins are small? What would you compare them to?",
+      "light": "Where does the gold look brightest?",
+      "meaning": "Why would a Roman person put an emperor's face on a coin?",
+      "culture": "The Romans used coins across a huge empire. How might coins spread a picture?",
+      "technique": "A coin's picture is made with a pressed design. Why might that be tricky?",
+      "personal": "If you were on a coin, what would your picture look like?",
+      "critical": "Is this necklace more like money or more like jewelry? Explain."
+    },
+    "g35": {
+      "daily": "What details show that the coins were made with care?",
+      "emotion": "What mood does the necklace create, rich or serious? Which details support your idea?",
+      "observation": "Look closely for one minute. What small details do you find on the coins and chain?",
+      "analysis": "How does the repetition of coins organize the necklace?",
+      "line": "How do the curves of the necklace compare with the round edges of the coins?",
+      "shape": "How do the circle shapes of the coins create a pattern?",
+      "color": "Gold stays bright for thousands of years. How might that change how we see these coins today?",
+      "texture": "The side-view heads on coins are raised from the surface. How might that texture look and feel?",
+      "space": "A necklace hangs from the neck. How does that affect how the coins are placed?",
+      "light": "Gold reflects light. How might the coins sparkle when the wearer moves?",
+      "meaning": "Why might a Roman choose to wear a coin with an emperor's portrait?",
+      "culture": "What does a coin necklace tell us about how Romans thought about money and wealth?",
+      "technique": "Coins were made by striking designs into metal. Why might the designs need to look the same?",
+      "personal": "What small object do you carry that has a picture on it? How is it like a coin?",
+      "critical": "Why might coins be easier to turn into a necklace than other objects?"
+    },
+    "g68": {
+      "daily": "How does turning coins into a necklace change the way we look at them?",
+      "emotion": "What mood or message does a necklace made from portrait coins send?",
+      "observation": "List what you see from the chain to each coin. Which details were easy to miss?",
+      "analysis": "How does repetition of the same portrait create unity and rhythm?",
+      "line": "How do the curves of the necklace and the round edges of the coins work together?",
+      "shape": "How do the circular coins create a pattern along the necklace?",
+      "color": "How does the warm color of gold shape the way the necklace looks?",
+      "texture": "How can raised designs on coins create texture on a small scale?",
+      "space": "How does the necklace's structure allow the coins to hang and move?",
+      "light": "How would moving light change the way the necklace looks?",
+      "meaning": "Why did Roman emperors put their portraits on coins, and how might that shape why people wore them?",
+      "culture": "How did coins move across the Roman Empire, and what could a necklace made from them show?",
+      "technique": "What skills are needed to strike coins and then turn them into jewelry?",
+      "personal": "How do the things people wear today show loyalty, wealth, or taste? Compare them with this necklace.",
+      "critical": "What can we say about this necklace with confidence, and what remains unknown about its wearer?"
+    },
+    "g910": {
+      "daily": "How does the combination of coin and jewelry change the meaning of each?",
+      "emotion": "What social effect might wearing imperial portraits on the body have had?",
+      "observation": "Describe the visual hierarchy of the necklace: what draws attention first, and what keeps you looking?",
+      "analysis": "Analyze how repetition and variation of the coins organize the necklace.",
+      "line": "How do the edges of the coins and the lines of the chain define the form of the necklace?",
+      "shape": "How do the circles of the coins interact with the curve of the necklace?",
+      "color": "How does gold's color and value shape the necklace's meaning compared with a necklace of beads?",
+      "texture": "How does the profile portrait format on coins create a standard visual language across the Empire?",
+      "space": "How does the necklace occupy space differently when worn than when displayed in a case?",
+      "light": "How does the reflectivity of gold change as the wearer moves?",
+      "meaning": "What could a coin necklace communicate about status, wealth, or political loyalty, and how certain can we be?",
+      "culture": "How does the coin portrait show how images of power circulated in the Roman world?",
+      "technique": "What technical processes link coin production and goldsmithing, and where do they differ?",
+      "personal": "How do modern uses of currency or national symbols in fashion compare with this necklace?",
+      "critical": "What evidence would help determine whether the necklace was mainly jewelry, savings, or a political statement?"
+    },
+    "g1112": {
+      "daily": "What claims about the necklace's meaning can be defended from its form and material, and what remains speculative?",
+      "emotion": "How might an object that is both money and ornament complicate the way we understand value and emotion?",
+      "observation": "Describe the necklace's formal organization precisely. Where does description presume interpretation?",
+      "analysis": "Analyze how coins as pendants alter the logic of coin design, which is meant for circulation, not display.",
+      "line": "How does the profile portrait format function as a visual convention, and what does it do in a necklace setting?",
+      "shape": "How do the repeated circular forms interact with the necklace's overall shape?",
+      "color": "How do the cultural meanings of gold, as both a commodity and a material for adornment, interact in this object?",
+      "texture": "How does the raised relief of coin designs interact with the necklace's overall surface?",
+      "space": "How does the necklace's relation to the body complicate its identity as a museum object?",
+      "light": "How might ancient lighting and movement have been part of its original effect, and what is lost in display?",
+      "meaning": "How do imperial images on coins relate to ideology, and how might wearing them reframe that relationship?",
+      "culture": "How does the circulation of coins across the Empire shape our understanding of Roman visual culture?",
+      "technique": "What does the object suggest about the relationships among mints, goldsmiths, and private consumers?",
+      "personal": "How does the necklace challenge the separation of numismatics, decorative arts, and portraiture in museum categories?",
+      "critical": "How should scholars treat a work with an unknown wearer and uncertain assembly history when drawing conclusions about Roman society?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (Men, Profiles) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a gold necklace hung with coins; the tags Men and Profiles refer to side-view portrait heads on the coins, and the record lists no violent or sensitive terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Roman gold necklace of the 3rd century CE with coins of the emperor Alexander Severus as pendants. The Met's tags note the profile portrait heads on the coins.",
+    "vocabulary": [
+      "coin",
+      "profile",
+      "emperor",
+      "pendant",
+      "Roman Empire",
+      "goldsmith"
+    ],
+    "directions": [
+      "Ask students to design a coin with a symbol that represents their class and explain why they chose it.",
+      "Discuss why governments put portraits or symbols on money, and compare with coins students know.",
+      "Compare wearing money as jewelry with other ways people show wealth or belonging."
+    ]
+  }
+}

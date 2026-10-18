@@ -1,0 +1,158 @@
+{
+  "id": "artic-9021",
+  "day": "07-02",
+  "title": "The Bewitched Mill",
+  "artist": "Franz Marc",
+  "date": "1913",
+  "medium": "Oil on canvas",
+  "movement": "Expressionism",
+  "region": "Germany",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6829aab0-8d0e-9438-aebf-a1a379572951/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A colorful painting built from geometric shapes. A white-and-blue waterfall runs down the center with birds above, a red water wheel stands at left and a blue-and-white town sits at upper left. A red jungle cat and a black boar drink at lower right.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/9021",
+    "objectId": "9021",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (German, 1880-1916), date, place of origin (Germany), medium, dimensions, credit line, subject terms (deers, animals, birds, trees, cities, mechanical, mills, rivers, water), short description, description, thumbnail alt text, is_public_domain true and image_id read from the record"
+  },
+  "context": "Franz Marc, a German Expressionist, painted this in 1913 after a stay in Merano, Italy. The Art Institute explains that the title refers to the harmony he felt there between human settlement, on the left, and nature, with its trees and animals, on the right. The museum also notes Marc's empathic interest in animals and his wish for a fresh, purifying view of nature.",
+  "descriptions": {
+    "k": "This painting is made of bright shapes! A waterfall splashes in the middle. A red water wheel turns on the left. Look for a red cat and a black pig drinking water. Can you find birds? What color do you like best?",
+    "g12": "Franz Marc painted this bright picture of a mill beside a waterfall. A red wheel turns on the left, a town sits up high, and birds fly. At the bottom right, a red cat and a black boar drink water. Find the sharp, colorful shapes. How do they make the water look like it moves?",
+    "g35": "Franz Marc painted this in 1913 after visiting Merano in Italy. The title refers to a mill, a water wheel, and a bright waterfall, with animals drinking at the water. Marc felt people and nature could live together in harmony, and he put the town on the left and animals and trees on the right. Marc loved animals. Why might he use bright geometric shapes instead of a realistic scene? What does the color make you feel?",
+    "g68": "Marc painted The Bewitched Mill in 1913 after staying in Merano, Italy. The museum explains that the title reflects the harmony he found between human settlement, on the left, and nature, with trees and animals, on the right. Marc, a German Expressionist, cared deeply about animals and wanted a fresh, purified view of nature. How do the faceted shapes and vivid colors turn a mill scene into something dreamlike or magical?",
+    "g910": "In The Bewitched Mill (1913), Marc fractures a landscape into crystalline planes of color, uniting a town, mill wheel, waterfall, birds, and drinking animals. The Art Institute reads the title as expressing harmony between human settlement and nature, and notes Marc's empathic view of animals. The Cubist-influenced geometry and symbolic color move beyond observation. How do these choices shape the meaning of harmony here, and what does 'bewitched' suggest?",
+    "g1112": "Marc's 1913 canvas translates a stay in Merano into a prismatic vision of reconciliation between human settlement and nature, a harmony the museum associates with the title. The faceted, Cubist- and Futurist-inflected structure and expressive color extend his belief in animals as figures of purity. Some viewers read the picture as utopian, others as a spiritual response to modernity's pressures, especially given his later death in 1916. How would you weigh formal evidence against historical hindsight when interpreting the mood?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the waterfall, the water wheel, and the birds. Where are they?",
+      "emotion": "Does this place feel magical, calm, or busy? What do you see that tells you?",
+      "observation": "Find a red animal and a black animal at the water. What are they doing?",
+      "analysis": "Which part of the mill scene pulls your eyes in first, and why?",
+      "line": "Find a line that goes down like falling water. Where does it go?",
+      "shape": "Look for triangles and pointy shapes. Where do you find them?",
+      "color": "Which colors do you see the most? Which one is your favorite?",
+      "texture": "The shapes look sharp, like pieces of glass. How might the picture feel to touch?",
+      "space": "Some things are high up and some are low down. What is at the top, and what is at the bottom?",
+      "light": "Where does the picture look the brightest? Point to it.",
+      "meaning": "Why do you think the red cat and black boar are drinking at the water together?",
+      "culture": "A mill uses a water wheel to do work. How do you get things done with water in your day?",
+      "technique": "The painter used lots of bright flat colors. How would you paint a waterfall with just shapes?",
+      "personal": "If you could join the animals at the water, which would you sit next to?",
+      "critical": "What magic do you think happens at this mill at night?"
+    },
+    "g12": {
+      "daily": "Look at the shapes of the mill, the waterfall, and the animals. What do you notice about them?",
+      "emotion": "What feeling do the bright colors give you? Point to the colors that make you feel that.",
+      "observation": "Name the animals, the building parts, and the nature you can find.",
+      "analysis": "How does the painter place the town, the wheel, and the animals so everything fits together?",
+      "line": "Find slanted lines that look like moving water or wind. Where are they?",
+      "shape": "The painter used shapes like triangles and slices. How do they change how the water and animals look?",
+      "color": "Why might the painter use a bright red cat and a red wheel? What does the red connect?",
+      "texture": "The painting looks like a puzzle of shapes. How does that change how the surface feels?",
+      "space": "How can you tell some parts are high up and some are near the bottom?",
+      "light": "Where do the white and blue shapes make the waterfall look like it glows?",
+      "meaning": "The title says the mill is bewitched. What magic do you see in the picture?",
+      "culture": "The painter loved animals and nature. How does the picture show that people and animals can share a place?",
+      "technique": "How do you think the painter made the flat color shapes look so bold?",
+      "personal": "If you made a painting of a place you love, what animals would you add?",
+      "critical": "Why might the painter mix a town and wild animals in one picture?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this bright painting, and what choices by Marc guide them?",
+      "emotion": "What mood do the colors and sharp shapes create? Use details to explain.",
+      "observation": "Look slowly. What small details, such as birds or trees, did you notice late?",
+      "analysis": "How does Marc arrange the town, the water wheel, the waterfall, and the animals to balance the painting?",
+      "line": "How do the slanting edges of shapes create movement like falling water or wind?",
+      "shape": "How do the pointed, glass-like shapes make the nature scene feel different from a realistic one?",
+      "color": "Marc used colors that are not natural, like a red water wheel. How do they change how you feel?",
+      "texture": "How does the painting look flat and crisp? How is that different from a fuzzy or soft surface?",
+      "space": "How does the painter show high and low, near and far, using stacks of shapes?",
+      "light": "How do bright whites and blues make the waterfall seem to glow?",
+      "meaning": "The museum says the title is about harmony between a town and nature. How do you see that harmony or tension in the picture?",
+      "culture": "Marc painted this in Germany after visiting Italy. How might traveling have inspired him?",
+      "technique": "Marc turned a landscape into shapes of color. What are the benefits of this way of painting?",
+      "personal": "Think of a peaceful place for you. How would you show it with shapes and bold colors?",
+      "critical": "Some viewers feel the painting is peaceful and others feel it is full of energy. What details support each opinion?"
+    },
+    "g68": {
+      "daily": "How does the faceted, geometric style change your sense of what a real mill and waterfall look like?",
+      "emotion": "How do the saturated colors and sharp planes create a sense of magic or intensity?",
+      "observation": "Separate what is clearly shown, like the wheel and the animals, from what you infer about meaning.",
+      "analysis": "How does Marc organize the town, mill, waterfall, and animals to support the idea of harmony the museum describes?",
+      "line": "How do diagonal lines and edges make the water and landscape feel in motion?",
+      "shape": "How does breaking forms into angular planes relate to Cubism, and how does Marc make it his own?",
+      "color": "How does non-realistic color, such as red animals and wheel, express feeling instead of copying nature?",
+      "texture": "How does the painted surface, built from crisp color areas, compare with softer brushwork in other works you know?",
+      "space": "How does Marc build space using overlapping and stacked planes instead of strict perspective?",
+      "light": "How do bright whites create the effect of light flashing on the water?",
+      "meaning": "What does the arrangement of a town on one side and animals on the other suggest about people and nature?",
+      "culture": "Marc was a German Expressionist who valued animals. How does that background shape this picture?",
+      "technique": "Why might an artist choose geometric color instead of realistic detail to express a feeling about nature?",
+      "personal": "How does your own relationship with animals and nature influence how you read the scene?",
+      "critical": "How would you decide whether the picture is a peaceful vision, a fantasy, or both?"
+    },
+    "g910": {
+      "daily": "How do Marc's choices of faceted form and unnatural color shape your first reading of the scene?",
+      "emotion": "How does the vibrancy of the palette convey an emotional or spiritual atmosphere rather than a documentary one?",
+      "observation": "Analyze the hierarchy of elements: how do the waterfall, wheel, town, and animals relate within the composition?",
+      "analysis": "How do the interlocking diagonals structure the picture and create a sense of motion?",
+      "line": "How do angular planes and sharp edges replace conventional contour in defining shapes?",
+      "shape": "How does the influence of Cubism and Futurism appear in the fractured geometry?",
+      "color": "Evaluate how color acts as symbol or emotion, for instance in the red wheel and red cat.",
+      "texture": "How does the crisp, flat treatment of paint contribute to the painting's crystalline quality?",
+      "space": "How does the stacking of shapes create a tilted, compressed space rather than a deep perspective?",
+      "light": "How does the contrast between luminous whites and saturated hues evoke light without cast shadows?",
+      "meaning": "How might the title word bewitched, together with the museum's idea of harmony, support or complicate readings of the scene?",
+      "culture": "How does Marc's stay in Merano and his interest in animals as pure figures connect to the Expressionist search for spiritual renewal?",
+      "technique": "How does the painting's blend of a mechanical mill and living animals speak to modernity and nature?",
+      "personal": "How does your own sense of nature and technology compare with the balance Marc suggests?",
+      "critical": "To what extent does knowing the date, 1913, shape your interpretation, and should historical hindsight influence a reading of the picture?"
+    },
+    "g1112": {
+      "daily": "What argument about nature, technology, and human settlement can you build from the formal evidence of this painting?",
+      "emotion": "How does the dazzling palette complicate any single reading of the mood as serene or ominous?",
+      "observation": "Describe the painting precisely, then identify which parts of your account rely on the title or museum text rather than the image.",
+      "analysis": "Analyze how interlocking planes balance the town, the mill, and the animals into a unified field.",
+      "line": "How does the shift from contour to angular facet challenge the traditional role of line?",
+      "shape": "Consider how Marc adapts Cubist and Futurist fragmentation to an Expressionist, spiritual purpose.",
+      "color": "How does color operate as an independent symbolic system, and how does it differ from naturalistic observation?",
+      "texture": "How does the quasi-crystalline surface alter the traditional relationship between painter, paint, and depicted matter?",
+      "space": "How does the tilted, layered space reconceive the landscape as a field of forces rather than a view?",
+      "light": "Discuss how glowing whites and blues suggest radiance, and what they imply about the painter's idea of nature.",
+      "meaning": "Evaluate readings of the work as utopian harmony, spiritual allegory, or anxious response to modernity, weighing visual and historical evidence.",
+      "culture": "How does Marc's representation of animals as embodiments of purity relate to broader early twentieth-century critiques of civilization?",
+      "technique": "How should the knowledge of Marc's death in 1916 affect, or not affect, how we interpret a painting made in 1913?",
+      "personal": "How do your own assumptions about nature and technology shape the story you read in the image?",
+      "critical": "What further sources would help you judge how literally to take the harmony described in the museum's text?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (deers, animals, birds, trees, cities, mechanical, mills, rivers, water), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1913 after Marc's stay in Merano, Italy. The Art Institute explains the title as referring to a harmony between human settlement and nature, and notes Marc's empathy for animals. The animals at the water are shown drinking.",
+    "vocabulary": [
+      "Expressionism",
+      "Blaue Reiter",
+      "facet",
+      "non-natural color",
+      "Cubism",
+      "harmony"
+    ],
+    "directions": [
+      "Have students redraw a familiar place using only triangles and angular shapes, then add non-natural colors to express a mood.",
+      "Ask students to find three places where nature and human-made things meet in the painting and describe how Marc connects them.",
+      "Discuss why an artist might want to show animals as part of a peaceful landscape."
+    ]
+  }
+}

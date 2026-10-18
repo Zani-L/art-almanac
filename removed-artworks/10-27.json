@@ -1,0 +1,159 @@
+{
+  "id": "met-448369",
+  "day": "10-27",
+  "title": "Folio from a Qur'an Manuscript",
+  "artist": "Artist unknown",
+  "date": "late 9th–early 10th century",
+  "medium": "Ink and gold on parchment",
+  "movement": "Early kufic Qur'an manuscripts",
+  "region": "Probably Syria",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DT11509.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DT11509.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Rudolf M. Riefstahl, 1930",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide, rectangular parchment page with seven lines of bold black Arabic script. The letters are stretched out horizontally, and small colored dots appear among them.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/448369",
+    "objectId": "448369",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tag (Qur'an) and image URLs read from the record; museum page text read for the script, number of lines, ink, and dots"
+  },
+  "context": "A page from a Qur'an made in the late 9th or early 10th century, probably in Syria, with seven lines written in early kufic script in black ink on parchment. The Met notes that red and green dots mark the vowels.",
+  "descriptions": {
+    "k": "This page has seven lines of big, bold writing. It is from the Qur'an, a holy book for Muslims. The writing is black and the letters are stretched out wide. Little red and green dots sit among them. Can you find a dot?",
+    "g12": "This page is from a very old Qur'an, the holy book of Islam. It was written by hand more than a thousand years ago on parchment, which is animal skin. There are seven lines of wide, bold letters. Tiny red and green dots help readers. Why do you think the letters are stretched so wide?",
+    "g35": "This is a page from a Qur'an, written by hand on parchment in the late 800s or early 900s, probably in Syria. The page is wider than it is tall, and the letters are stretched out horizontally to fit it. A broad reed pen made the black strokes, and red and green dots mark vowels. Look at the seven lines and the spaces between them. Why might the writer have chosen a wide page and wide letters?",
+    "g68": "Early Qur'an manuscripts like this one were written in an angular style called early kufic, on parchment, the prepared skin of an animal. The Met notes seven lines of text in horizontally elongated letters that suit the rectangular page, softened by rounded letters whose inner spaces are tiny. A broad-nibbed reed pen made the black strokes, and red and green dots mark vowels. How does the shape of the page influence the shape of the letters?",
+    "g910": "This folio from a dispersed Qur'an, probably made in Syria in the late 9th or early 10th century, exemplifies early kufic. The Met describes horizontally elongated letters that echo the page's rectangular format, with angular forms softened by rounded letters that look like large black dots. Ink was applied with a broad-nibbed reed pen on the good side of the parchment, and red and green dots mark vowels. Consider how page shape, script, and spacing create rhythm in a text that was meant for reverent reading.",
+    "g1112": "Before the later cursive hands became standard for the Qur'an, early kufic manuscripts like this one used elongated, angular letters on horizontal parchment pages. The Met connects the stretched letterforms to the rectangular format and describes rounded letters whose counters shrink almost to points. Colored dots mark vowels, showing how the written text supported correct recitation. As a folio from a dispersed manuscript, known as the Riefstahl Qur'an fragment, it raises questions about reconstructing a book from its scattered parts and about how sacred text is displayed in museums."
+  },
+  "questions": {
+    "k": {
+      "daily": "Count the lines of writing on this page. How many are there?",
+      "emotion": "Does this page feel loud or quiet? What do you see that makes you say that?",
+      "observation": "What do you see on the page besides black letters? Look for little dots.",
+      "analysis": "Are the lines close together or far apart? How does that change the page?",
+      "line": "Slide your finger along one line of writing from end to end. How long is it?",
+      "shape": "The page is wider than it is tall. What other things have that shape?",
+      "color": "Which colors do you see on the page? Where are the dots?",
+      "texture": "The page is parchment, made from animal skin. How do you think it feels?",
+      "space": "Is there empty space around the writing? Where do you see it?",
+      "light": "The page looks old. Which parts look lighter and which look darker?",
+      "meaning": "This page is from a holy book. How can you tell people took care with it?",
+      "culture": "People wrote this page over a thousand years ago. What do we use today to write?",
+      "technique": "The writer used a pen made from a reed plant. Why might a thick pen make bold letters?",
+      "personal": "Do you have a special book you read often? What do you like about it?",
+      "critical": "How do you think people knew how to read the words with the colored dots?"
+    },
+    "g12": {
+      "daily": "This page has seven lines of bold, wide writing. What do you notice about the shape of the letters?",
+      "emotion": "How does the strong black writing make you feel: calm, serious, or something else?",
+      "observation": "Describe the lines of writing and the dots you can see.",
+      "analysis": "How are the lines of writing spaced to make the page look even?",
+      "line": "Find a long flat stroke and a short round shape. How do they look different?",
+      "shape": "The letters are stretched wide, like a stretched rubber band. Why might a writer stretch them?",
+      "color": "Black ink and little red and green dots share the page. What do the dots add?",
+      "texture": "Imagine the parchment under your fingers. How would it be different from regular paper?",
+      "space": "How does the writing fill the page? Is there much empty space?",
+      "light": "How does the thick black writing stand out against the light page?",
+      "meaning": "The Met says the colored dots are for vowels. How could dots help someone read?",
+      "culture": "The Qur'an is the holy book of Islam. Why might people have put so much work into copying it?",
+      "technique": "The writer used a reed pen with a broad tip. What kind of lines would a wide pen make?",
+      "personal": "Have you used a big marker or thick crayon to write? How did the letters look?",
+      "critical": "You can see there are letters even if you cannot read them. What else can you tell about this page?"
+    },
+    "g35": {
+      "daily": "How do the shape of the page and the shape of the letters seem designed to fit together?",
+      "emotion": "What feeling of seriousness or calm does the bold, even writing create?",
+      "observation": "Look at the seven lines for one minute. What details about the letters and dots do you notice?",
+      "analysis": "How do repeating horizontal lines of writing organize the whole page?",
+      "line": "The Met says the letters are stretched horizontally. How do those long strokes make the lines feel steady?",
+      "shape": "The Met describes some letters as round, like large black dots. How do they contrast with the angular letters?",
+      "color": "Why might the writer have used red and green dots instead of black for the vowel marks?",
+      "texture": "Parchment is a prepared animal skin. How might it be different from paper in look and feel?",
+      "space": "How does the space between lines help you see each line separately?",
+      "light": "How does contrast between dark ink and a pale surface make the writing stand out?",
+      "meaning": "Some letters may be hard to read for newcomers, so dots were added. What does that say about the goal of the page?",
+      "culture": "Why might people choose to make copies of the Qur'an so carefully in the 9th and 10th centuries?",
+      "technique": "A broad reed pen makes thick and thin strokes depending on how it is held. Why is that useful for lettering?",
+      "personal": "Think about a time you wrote something carefully for someone else. How was it different from quick writing?",
+      "critical": "The Met says this is one folio from a manuscript that has been split up. What might be lost when pages are separated?"
+    },
+    "g68": {
+      "daily": "How does the layout of this page balance legibility with beauty?",
+      "emotion": "How do the weight and repetition of the lines create a feeling of solemnity?",
+      "observation": "Describe the page's elements: lines, dots, margins. Which feel most deliberately arranged?",
+      "analysis": "How does the horizontal format of the page influence how the lines of text are arranged?",
+      "line": "How do long horizontal strokes and short vertical ones create a rhythm along each line?",
+      "shape": "How do round letters soften the angular forms of the script?",
+      "color": "How does using red and green dots add information to a black-and-white page?",
+      "texture": "The Met notes the 'good side' of the parchment was used. How might the two sides of a skin differ?",
+      "space": "How does the amount of space between and around the lines affect how easy it is to read?",
+      "light": "How does the strong contrast of dark ink on pale parchment make the writing stand out?",
+      "meaning": "Vowel dots show how to read a text accurately. Why might a sacred text need such guidance?",
+      "culture": "How does a handwritten Qur'an on parchment differ from later books on paper, and what does that say about changes in book making?",
+      "technique": "What choices does the scribe make about pen width and angle to keep the letters consistent?",
+      "personal": "How do you decide how to arrange text on a page when you want it to look good?",
+      "critical": "What can we conclude about the manuscript from this single page, and what remains uncertain, such as where it was made?"
+    },
+    "g910": {
+      "daily": "How does early kufic turn a sacred text into a strong visual rhythm on the page?",
+      "emotion": "How does the monumental quality of the script contribute to the page's dignified mood?",
+      "observation": "Describe the hierarchy of elements on the page: text lines, colored dots, and margins.",
+      "analysis": "Analyze how the elongated letterforms respond to the page's rectangular format.",
+      "line": "How does the weight of the stroke made by a broad-nibbed reed pen contribute to the script's character?",
+      "shape": "How does the interplay of angular forms and rounded dot-like letters create variety within a restrained script?",
+      "color": "How do the red and green dots form a second layer of information on a predominantly black-and-white page?",
+      "texture": "How might the grain and surface of parchment have affected how ink was absorbed and how the strokes look?",
+      "space": "How do line spacing and margins control the page's balance between density and openness?",
+      "light": "How does the strong tonal contrast make the page legible and visually striking at a distance?",
+      "meaning": "How does a script designed for a sacred text balance the roles of reading, recitation, and visual presence?",
+      "culture": "How does this early kufic folio reflect the standards of Qur'an production around 900?",
+      "technique": "How does the choice of parchment, reed pen, and ink relate to a long tradition of book craft?",
+      "personal": "How does the presence of reading aids like dots change how you think about who the page was made for?",
+      "critical": "What does it mean to study a single page of a dispersed manuscript, and what scholarly questions does that raise?"
+    },
+    "g1112": {
+      "daily": "What does the interaction of script, page format, and reading aids reveal about early Qur'an production, and what remains uncertain?",
+      "emotion": "How does the page's austerity shape a viewer's sense of reverence, and how much is that response culturally informed?",
+      "observation": "Describe the page with precision. Which of your observations depend on knowing it is sacred text?",
+      "analysis": "Evaluate how the elongation of letterforms and the horizontal format reinforce each other.",
+      "line": "How does the uniform weight of the strokes produce a sense of monumentality?",
+      "shape": "How do rounded forms with minimal counters change the visual density of the line?",
+      "color": "What does the addition of colored dots tell us about the relationship between a written text and its oral recitation?",
+      "texture": "How might the choice of parchment have affected the longevity and perceived value of the manuscript?",
+      "space": "How does the restrained spacing contribute to a sense of order, and how does it compare with later, more ornamented manuscripts?",
+      "light": "How does the contrast of ink and parchment create a form of visual authority?",
+      "meaning": "What are the stakes in treating a sacred text as an art object, and how might believers and non-believers differ in their views?",
+      "culture": "How does the attribution to probably Syria in the late 9th or early 10th century reflect the limits of dating and locating early manuscripts?",
+      "technique": "What does the dispersal of the Riefstahl Qur'an fragment suggest about the history of collecting, and how should it affect interpretation?",
+      "personal": "How does your own experience of reading sacred or foundational texts shape the way you approach this page?",
+      "critical": "How might a scholar test the museum's reading of the script's development, and what evidence beyond one page would be needed?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, classification (Codices) and tag (Qur'an) checked against the museum record, and the museum page text read: calligraphy only, no figural imagery. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release. Religious content to be presented respectfully and factually; the text is described as writing and not translated.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An early kufic Qur'an page on parchment, probably made in Syria around 900. It is part of a dispersed manuscript sometimes called the Riefstahl Qur'an fragment.",
+    "vocabulary": [
+      "Qur'an",
+      "kufic",
+      "parchment",
+      "folio",
+      "reed pen",
+      "calligraphy"
+    ],
+    "directions": [
+      "Have students write a short phrase with a chisel-tip marker, stretching the letters horizontally, and compare with normal handwriting.",
+      "Discuss how a broken-up manuscript might be reconstructed and what is lost when pages are separated.",
+      "Compare with the other Qur'an folio in the archive, noting the differences in script, material, and decoration."
+    ]
+  }
+}

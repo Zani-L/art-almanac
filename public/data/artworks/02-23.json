@@ -1,0 +1,159 @@
+{
+  "id": "met-11130",
+  "day": "02-23",
+  "title": "Northeaster",
+  "artist": "Winslow Homer",
+  "date": "1895; reworked by 1901",
+  "medium": "Oil on canvas",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT1545.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT1545.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of George A. Hearn, 1910",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A heavy sea surges against dark rocks along a coast. A great wave rises and breaks into white and pale green foam and spray under a gray, cloudy sky. No people are visible.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11130",
+    "objectId": "11130",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, public-domain flag, tags (Seascapes, Waves, Storms), credit line and image URLs read from the record"
+  },
+  "context": "An oil painting by the American artist Winslow Homer, dated 1895 and reworked by 1901 according to the Met record. It shows waves breaking on a rocky shore during a storm. Homer spent his later years on the Maine coast, and the sea became his main subject.",
+  "descriptions": {
+    "k": "A big storm wave crashes on the rocks. White foam and spray fly up. The sky is gray and cloudy. The sea looks strong and noisy. Can you almost hear it? Look for the places where the water is light and where it is dark.",
+    "g12": "Winslow Homer painted this stormy sea in the United States. A huge wave rolls in and breaks against the rocks, throwing up white foam. The sky is gray and heavy. There are no people, only water, rock, and weather. Which parts of the painting feel the strongest to you?",
+    "g35": "Winslow Homer was an American painter who spent his later years by the sea in Maine. In Northeaster, a big wave smashes against dark rocks and bursts into white foam and spray beneath a cloudy sky. There are no people to tell us how big the wave is, so we have to judge it ourselves. Look at the colors of the water. How many different ones can you find?",
+    "g68": "Homer made this painting in 1895 and reworked it by 1901, after settling on the Maine coast. It shows a wave breaking on a rocky shore with no boat or person in sight, so nature itself is the subject. Look at how he uses thick, lively paint for the foam, a dark foreground of rock, and a gray-green sea that stretches back toward a cloudy sky. How does the painting make you feel the weight and motion of the water?",
+    "g910": "Northeaster belongs to Homer's late seascapes, in which human figures largely disappear and the ocean becomes the main actor. The composition builds a powerful contrast between the dark, solid rocks and the churning white and green water, while energetic brushwork suggests spray and motion. With no horizon drama or story to follow, attention stays on weather, scale, and force. Consider how leaving out people changes the painting's tone: does it feel threatening, awe-inspiring, or something more neutral?",
+    "g1112": "Painted in 1895 and reworked by 1901, Northeaster shows how Homer pared down the marine subject to its elements: rock, wave, sky. Critics and viewers have read such seascapes as meditations on nature's indifference, as celebrations of its grandeur, or as expressions of the artist's solitary life on the Maine coast; none of these readings is certain. Formally, the work stages a tension between the stable mass of the shore and the transient mass of water, rendered through dense, physical paint. The absence of figures invites questions about scale, witness, and the limits of human control."
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the biggest splash in this painting? Point to it and show with your hands how the wave moves.",
+      "emotion": "Does this sea feel calm or wild? What do you see that tells you?",
+      "observation": "What can you find in this painting? Point to the rocks, the foam, and the sky.",
+      "analysis": "Where do your eyes go first in this painting? Where do they travel next?",
+      "line": "Can you trace the line where the wave curls and breaks? Draw it in the air.",
+      "shape": "What shapes do the dark rocks make? How are they different from the shapes of the foam?",
+      "color": "The sea has more than one color. Which colors can you find in the water?",
+      "texture": "How would the white foam feel if you could touch it? How would the rocks feel?",
+      "space": "What part of the painting is near to you and what part is far away?",
+      "light": "Where is the painting light, and where is it dark? Where does the white foam seem to glow?",
+      "meaning": "If this sea could talk, what do you think it would say?",
+      "culture": "Homer lived near the ocean in Maine. What would you want to know about a place where storms like this happen?",
+      "technique": "Homer used oil paint here. How do you think he made the foam look so thick and bumpy?",
+      "personal": "Have you ever seen big waves or a storm? Tell about what you saw or heard.",
+      "critical": "There are no people in this painting. How would it change if a tiny boat were added?"
+    },
+    "g12": {
+      "daily": "How can you tell this sea is in a storm? Find three clues in the painting.",
+      "emotion": "What feeling does this crashing wave give you? Which part of the painting makes you feel that way?",
+      "observation": "Look slowly for one minute. What do you see in the rocks, the water, and the sky?",
+      "analysis": "How does Homer lead your eyes from the dark rocks to the bright foam?",
+      "line": "Find lines that curve and lines that slant. How do they show the water moving?",
+      "shape": "Compare the heavy shapes of the rocks with the curly, broken shapes of the foam. How are they different?",
+      "color": "Which colors are in the sea and sky? How do they make the weather feel gray and cold?",
+      "texture": "Where does the paint look thick and rough? Where does it look smoother?",
+      "space": "How can you tell the wave is closer to you than the sky? What shows it?",
+      "light": "Where is the brightest place in the painting? Why do you think Homer put it there?",
+      "meaning": "Homer left out people. What do you think he wanted you to think about instead?",
+      "culture": "Homer lived by the sea in Maine, in the United States. Why might the ocean have mattered so much to him?",
+      "technique": "Homer painted with oil on canvas. How do his brushstrokes help you feel the wave crashing?",
+      "personal": "What is the biggest or loudest weather you have been in? How is it like this painting?",
+      "critical": "Is this a painting of a scary place or an exciting place? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "What details in Northeaster show you the power of the wave, and what in the picture does the wave seem to be pushing against?",
+      "emotion": "How would you describe the mood of this stormy coast? Which colors and shapes help create that mood?",
+      "observation": "Spend a minute looking at the area where the wave meets the rocks. What small details of foam, spray, and stone do you notice?",
+      "analysis": "How does Homer organize the dark rocks, the white water, and the gray sky so that the wave becomes the center of attention?",
+      "line": "How do the curving edges of the wave compare with the sharper, heavier edges of the rocks?",
+      "shape": "The wave forms a large, rising shape. How does it push against the solid shapes of the rocks to create drama?",
+      "color": "Homer used grays, greens, and whites in the water. How do these colors make the sea seem cold and heavy rather than bright and sunny?",
+      "texture": "How does the painted foam look different from the painted rock? What choices did Homer make with his brush?",
+      "space": "How does Homer make the sea stretch back toward the sky? Look at the size of waves and the changes in color.",
+      "light": "Where does the light seem to fall on the water, and how does it make the foam stand out against the darker areas?",
+      "meaning": "With no people shown, what might Homer want viewers to think about the sea and the shore?",
+      "culture": "Homer lived on the coast of Maine, where winter storms called northeasters are common. How might living there have shaped what he painted?",
+      "technique": "The Met says this painting was reworked years after it was begun. Why might an artist return to a painting of a wave and change it?",
+      "personal": "Think of a time you felt small next to something huge in nature. How is that feeling like or unlike what you see here?",
+      "critical": "Does the painting show nature as a danger, as something beautiful, or both? Use details from the picture to defend your view."
+    },
+    "g68": {
+      "daily": "How does Homer make a single breaking wave feel like the main character of the painting?",
+      "emotion": "Which choices in color, brushwork, and composition make the sea feel powerful rather than peaceful?",
+      "observation": "Describe the painting from the dark foreground rocks to the gray sky. Which area holds the most detail, and which holds the least?",
+      "analysis": "How does the contrast between solid rock and moving water organize the composition?",
+      "line": "How do the curving sweep of the wave and the slanting edges of the rocks create a sense of motion and impact?",
+      "shape": "Where do large masses of dark and light meet in this painting? How does that meeting point create tension?",
+      "color": "How do the pale greens, grays, and whites of the water interact with the darker tones of the rock? What does that do to the mood?",
+      "texture": "How does Homer use thick, energetic paint to suggest spray and foam? Where does the paint seem to imitate the water, and where does it simply look like paint?",
+      "space": "How does the painting place you in relation to the wave? Are you safely distant, or right at the water's edge?",
+      "light": "How does the gray, stormy light flatten some parts of the scene while making the foam flash out?",
+      "meaning": "Without people, what might this painting say about humans and nature? What other readings are possible?",
+      "culture": "Homer made his home at Prouts Neck on the Maine coast late in life. How could an artist's home and daily surroundings shape what he chooses to paint?",
+      "technique": "The record dates the painting 1895 and says it was reworked by 1901. What might an artist gain from revisiting a painting over several years?",
+      "personal": "When have you been drawn to watch something powerful, such as a storm or a river in flood? Why do you think people are drawn to such sights?",
+      "critical": "Is the title Northeaster essential to understanding the painting? How would your view change if it were titled something calmer?"
+    },
+    "g910": {
+      "daily": "How does Northeaster convey the force of the sea using composition and paint alone, without any human figure to give the scene a story?",
+      "emotion": "How does Homer evoke awe, unease, or exhilaration through the tonal contrast and the angle of the breaking wave?",
+      "observation": "Describe the visual hierarchy. What draws your eye first, and which formal devices secure that attention?",
+      "analysis": "Analyze how the dark mass of rock anchors the composition against the movement of the water.",
+      "line": "How do the arcs of the wave and the ragged contours of the rocks create a rhythm of impact and recoil?",
+      "shape": "How does the large, irregular mass of the wave interact with the geometry of the horizon and the rocky foreground?",
+      "color": "How does a restricted palette of grays, greens, and whites sustain a cold, weathered atmosphere? Where does Homer allow contrast to flare?",
+      "texture": "How does the physical buildup of paint in the foam translate the sensation of spray and mass into a tactile surface?",
+      "space": "How does the painting create both a deep sea and a compressed, confrontational foreground? What position does it assign the viewer?",
+      "light": "How does the diffuse storm light model the water and rock, and where is the strongest tonal contrast placed?",
+      "meaning": "Does the absence of figures make the painting a statement about nature's indifference, human insignificance, or something else? How would you defend your reading?",
+      "culture": "American painters of the late 1800s often depicted nature as a national subject. How does Homer's treatment of the Atlantic coast fit, or depart from, that idea?",
+      "technique": "What might a viewer infer from a painting dated 1895 and reworked by 1901 about Homer's methods and standards?",
+      "personal": "What draws you to images of nature at its most forceful, and how does that attraction shape how you read this painting?",
+      "critical": "Is realism the right word for this painting, or does it intensify what Homer saw? Cite visual evidence for your position."
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the painting about what a northeaster meant to Homer, and what must remain speculation?",
+      "emotion": "How does the painting resist a single emotional label, and what does that ambiguity do for the viewer's experience of the sea?",
+      "observation": "Describe the painting's physical construction as precisely as you can. At what point does careful description begin to become interpretation?",
+      "analysis": "Analyze how Homer balances the stable mass of the shore against the transient mass of water to produce tension without narrative.",
+      "line": "How does the painting subordinate fixed contour to the sweep of brush, and what does that imply about how Homer saw the sea?",
+      "shape": "How do the wave's shifting, irregular mass and the compact rock shapes produce a struggle that is formal rather than anecdotal?",
+      "color": "How might the cool, restrained palette shape readings of the work as austere, sublime, or documentary? Consider how age and varnish could also affect what we see.",
+      "texture": "In what ways does the density of paint make the canvas both a picture of water and an object in its own right?",
+      "space": "How does the painting's positioning of the viewer near the breaking surf shape the claim it makes about witnessing nature?",
+      "light": "How does the diffuse storm light work as both a description of weather and a structuring device for the whole composition?",
+      "meaning": "Evaluate competing interpretations of the empty coast, such as nature's indifference, the sublime, or the artist's solitude. Which are best supported by the painting itself?",
+      "culture": "How does a late-19th-century American seascape engage inherited traditions of the sublime in European and American painting, and where does Homer part from them?",
+      "technique": "What might the Met's date of 1895, reworked by 1901, suggest about the relationship between observation and studio revision in Homer's practice?",
+      "personal": "How do your own associations with weather and the sea influence what you find at stake in this painting, and how might that limit your reading?",
+      "critical": "What standards of evidence should we apply when attributing intentions to Homer, given that the painting itself offers no figures or text to guide us?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Seascapes, Waves, Storms) read from the Met record; the subject is a stormy seascape with no figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Winslow Homer (1836 to 1910) settled at Prouts Neck, Maine, where he painted the Atlantic coast for the last decades of his life. The Met record dates this canvas 1895 and says it was reworked by 1901.",
+    "vocabulary": [
+      "seascape",
+      "realism",
+      "foreground",
+      "brushwork",
+      "spray",
+      "composition"
+    ],
+    "directions": [
+      "Have students cover the top half of the painting with paper, then discuss how the sea alone creates mood.",
+      "Ask students to list every color they can find in the water and compare lists in pairs.",
+      "Compare with a calm seascape elsewhere in the archive and discuss how artists show weather."
+    ]
+  }
+}

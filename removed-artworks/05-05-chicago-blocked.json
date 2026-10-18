@@ -1,0 +1,158 @@
+{
+  "id": "artic-26650",
+  "day": "05-05",
+  "title": "On a Balcony",
+  "artist": "Mary Cassatt",
+  "date": "1878–79",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f0150d21-33ab-f6ea-0d4d-32d459f091fe/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Mrs. Albert J. Beveridge in memory of her aunt, Delia Spencer Field",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A scene of a woman relaxing on a balcony, painted in loose, quick brushstrokes in the style of the Impressionists. The painting shows a moment of leisure, with the viewer positioned close to the figure.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/26650",
+    "objectId": "26650",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (portraits, everyday life (genre), leisure, women), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Mary Cassatt, an American artist who worked in France and exhibited with the Impressionists. The Art Institute's subject terms list portraits, everyday life, leisure and women. Cassatt was one of the few women in the Impressionist group.",
+  "descriptions": {
+    "k": "A woman rests on a balcony. She is taking a quiet moment. The paint looks soft and quick. Can you see her? What do you think she is looking at? How would it feel to sit there?",
+    "g12": "Mary Cassatt painted this woman resting on a balcony. Cassatt came from America but lived in France. The painting shows a calm everyday moment. The brushstrokes are quick and loose. What do you think the woman is doing? What is she thinking?",
+    "g35": "Mary Cassatt was an American painter who lived in France and showed her work with the Impressionists. In On a Balcony, painted in 1878–79, a woman relaxes in an everyday moment of leisure. The loose brushstrokes give the scene a sketchy, lively feel. What clues tell you who she is and what she is doing?",
+    "g68": "Mary Cassatt painted On a Balcony in 1878–79. She was an American working in France, one of the few women who exhibited with the Impressionists. The museum describes it with the terms portraits, everyday life, leisure, and women. Impressionists often chose ordinary moments. What does this choice suggest about what Cassatt found worth painting, and what might the woman's pose communicate?",
+    "g910": "On a Balcony (1878–79) shows Cassatt's early Impressionist work: a woman in a moment of leisure, painted with loose brushwork and an informal viewpoint. As an American woman working in Paris, Cassatt had access to certain spaces and not others, which shaped her subjects. How does the informal composition invite viewers into a private moment, and what might the painting suggest about who gets to look and who is looked at?",
+    "g1112": "In On a Balcony (1878–79), Cassatt combines Impressionist spontaneity with a keen attention to the social position of women and the domestic or semi-private spaces open to them. Scholars have connected her choices of viewpoint and subject to the opportunities and constraints of a woman painter in nineteenth-century Paris. How does the work balance portrait, genre scene, and study of modern life, and how does context shape your interpretation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the woman. What do you think she is doing?",
+      "emotion": "Does she look relaxed or busy? What tells you?",
+      "observation": "Find the woman and the balcony. What else can you find?",
+      "analysis": "Where do your eyes go first? Why do you think that is?",
+      "line": "Brushstrokes can be quick and loose. Where do you see this?",
+      "shape": "What shapes do you see in the way she sits?",
+      "color": "What colors are in the woman's clothes and around her? Which do you like best?",
+      "texture": "Does the paint look smooth or scratchy? Tell us what you see.",
+      "space": "How close are we to the woman? What might be behind her?",
+      "light": "Where does the light seem brightest in the picture?",
+      "meaning": "What do you think she might be looking at or thinking about?",
+      "culture": "Mary Cassatt came from America and painted in France. How might moving to a new country change what you paint?",
+      "technique": "Cassatt painted with quick strokes. How might that help show a moment that does not last long?",
+      "personal": "Where do you like to sit and rest? How would you paint it?",
+      "critical": "What would you say if you sat next to her on the balcony?"
+    },
+    "g12": {
+      "daily": "Look at the woman's face and body. What is she feeling?",
+      "emotion": "Is this a busy moment or a quiet one? Show us what tells you.",
+      "observation": "List four things you see in the painting.",
+      "analysis": "How does Cassatt make the woman the main part of the picture?",
+      "line": "Where do the brushstrokes look quick and sketchy?",
+      "shape": "How do the curves of her body and clothes fit with the shapes around her?",
+      "color": "Which colors help you feel the mood of the painting?",
+      "texture": "How does the painter make clothing look different from the background?",
+      "space": "The painter put us near the woman. How does that make you feel?",
+      "light": "How can you tell what time of day it might be in this painting?",
+      "meaning": "Why might a painter choose a quiet, ordinary moment instead of a big event?",
+      "culture": "Cassatt lived in France as an American artist. What might she have noticed that French painters did not?",
+      "technique": "Why might Cassatt paint quickly with loose strokes instead of tiny careful ones?",
+      "personal": "What everyday moment from your life could be turned into a painting?",
+      "critical": "Does a painting need a big story to be important? Explain with this one."
+    },
+    "g35": {
+      "daily": "What details of pose and setting suggest how the woman feels? What do you still wonder about?",
+      "emotion": "How would you describe the mood, and which choices of color and brushwork build it?",
+      "observation": "Look slowly from corner to corner. What small details did you find only on a second look?",
+      "analysis": "How does Cassatt place the woman and the balcony so your eyes focus on her?",
+      "line": "How does loose brushwork give a feeling of movement or spontaneity?",
+      "shape": "How do the shapes of the figure and the balcony create balance or tension?",
+      "color": "How does Cassatt's color choice, including darks and lights, shape the mood?",
+      "texture": "How does the texture of the paint differ between the figure and the setting?",
+      "space": "How does the viewpoint make you feel close to the woman, and why might Cassatt have chosen it?",
+      "light": "How does the light create a sense of a particular time of day?",
+      "meaning": "The museum describes this as a portrait and a scene of everyday life. How do those two ideas combine?",
+      "culture": "What opportunities and limits did an American woman painter in Paris have, and how might they show here?",
+      "technique": "Impressionists often painted outdoors or from direct observation. How might that affect a work like this?",
+      "personal": "How does focusing on a small private moment change what you think art should show?",
+      "critical": "How do you decide whether a painting is a portrait of a person or a picture of a type of person?"
+    },
+    "g68": {
+      "daily": "What details of pose and setting tell you how the woman feels, and what do you still wonder?",
+      "emotion": "What mood does the painting create, and which choices of color and brushwork build it?",
+      "observation": "Describe the woman, the balcony, and the space around her. What detail seems different the second time?",
+      "analysis": "How does Cassatt place the woman so your attention goes to her first?",
+      "line": "How do the loose, quick strokes give a feeling of a moment caught in time?",
+      "shape": "How do the large shapes of the figure and the balcony balance each other?",
+      "color": "How does Cassatt's use of darks and lights shape the mood?",
+      "texture": "How does the paint handling change between the figure and the surroundings?",
+      "space": "How does standing so close to the woman make you feel part of the scene?",
+      "light": "How does the light suggest a particular time or place?",
+      "meaning": "The museum tags this as both a portrait and everyday life. How do those two ideas fit together?",
+      "culture": "What might it have meant to be an American woman painter in Paris in the 1870s, and how could that show in the painting?",
+      "technique": "Impressionists often painted what they saw directly. How might this affect a quiet scene like this?",
+      "personal": "What small private moment in your day would you paint, and why?",
+      "critical": "How do you decide whether a painting is a portrait of a person or a picture of a type of moment?"
+    },
+    "g910": {
+      "daily": "How do pose, gesture, and setting invite and also resist a single reading of the woman's inner state?",
+      "emotion": "How do tonal contrasts and loose handling create a mood of informality, and what might complicate it?",
+      "observation": "Examine the transitions between figure and setting. What do the edges of forms suggest about Cassatt's process?",
+      "analysis": "Analyze how Cassatt's framing and the placement of the figure establish a hierarchy of attention.",
+      "line": "How do the loose, directional strokes convey immediacy and relate to Impressionist technique?",
+      "shape": "How do the large masses of the figure and balcony structure the composition?",
+      "color": "Evaluate how the color relationships and value contrasts create a sense of atmosphere.",
+      "texture": "How does the variable paint handling reveal the transition between observation and finished picture?",
+      "space": "How does the informal, close viewpoint create intimacy, and what conventions of portraiture does it avoid?",
+      "light": "How does the painting render light, and how does that connect to Impressionism's interest in modern, momentary perception?",
+      "meaning": "How might Cassatt's position as a woman and an expatriate shape her treatment of leisure and private space?",
+      "culture": "How does the painting reflect or complicate the social spaces available to women in Paris in the 1870s?",
+      "technique": "How did Cassatt's membership in the Impressionist group influence her technique and subject choices?",
+      "personal": "How does the label portrait or genre affect the questions you ask of this painting?",
+      "critical": "In what ways has art history's treatment of women Impressionists changed, and how does that affect how you view this work?"
+    },
+    "g1112": {
+      "daily": "How does the painting negotiate portrait, genre scene, and study of modern leisure, and what is lost if one category dominates?",
+      "emotion": "How might informality of handling and pose both evoke and withhold the sitter's interiority?",
+      "observation": "Analyze the transitions between resolved and unresolved passages, and what they suggest about finish in Impressionist practice.",
+      "analysis": "How do framing, viewpoint, and placement construct the relationship between viewer and subject?",
+      "line": "How does spontaneous brushwork function as both technique and argument about modern vision?",
+      "shape": "How do large, simplified masses organize the picture and anticipate Cassatt's later compositional clarity?",
+      "color": "Assess how value and hue relationships generate atmosphere without elaborate modeling.",
+      "texture": "What does the variability of paint handling suggest about Cassatt's engagement with Impressionist methods and her own priorities?",
+      "space": "How does proximity to the figure reposition the viewer as participant rather than observer?",
+      "light": "How is the rendering of light connected to the Impressionist critique of academic finish?",
+      "meaning": "How might the gendered conditions of Paris in the 1870s shape the spaces Cassatt could observe, and how does the painting reflect them?",
+      "culture": "How can attention to her biography enrich, rather than replace, formal analysis of the painting?",
+      "technique": "How did her association with Degas and the Impressionists shape her aims and her independence?",
+      "personal": "How do gendered expectations of the term domestic scene influence critical evaluation of Cassatt's work?",
+      "critical": "What does the reception history of women Impressionists suggest about how canons are formed and revised?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (portraits, everyday life (genre), leisure, women) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1878–79 by Mary Cassatt, an American artist who exhibited with the French Impressionists, in oil on canvas. The museum record gives only brief subject terms (portraits, everyday life, leisure, women), so this entry avoids describing details not confirmed in the record. A person must review the image before use.",
+    "vocabulary": [
+      "Impressionism",
+      "genre painting",
+      "portrait",
+      "viewpoint",
+      "brushwork",
+      "expatriate"
+    ],
+    "directions": [
+      "Have students sketch a quiet everyday moment in under five minutes using loose, quick strokes.",
+      "Ask students to compare how the viewer is positioned in this painting with how they are positioned in a formal portrait.",
+      "Discuss why many women artists of the 1800s painted indoor and domestic scenes."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-40073",
+  "day": "01-11",
+  "title": "Golden Rooster and Hen",
+  "artist": "Unidentified artist",
+  "date": "19th century",
+  "medium": "Hanging scroll; ink and color on paper",
+  "movement": "Joseon dynasty folk-style painting",
+  "region": "Korea",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP289323.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP289323.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1919",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall hanging scroll in bright colors. A golden rooster perches on a tree near the top, under a sun and clouds. Lower down, a golden hen looks up from a blue-green rock with red mushrooms, among splashing waves.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/40073",
+    "objectId": "40073",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, artist, date, medium, culture, classification, tags, public-domain flag, image URLs, credit line) and the Met catalog page text describing the subject"
+  },
+  "context": "A Korean painting from the Joseon dynasty (1392-1910), made in the 19th century by an artist whose name is not known. The Met's catalog text says it joins two Korean painting traditions, birds and flowers and the ten symbols of longevity, and that bright pictures like this were popular in the late Joseon period.",
+  "descriptions": {
+    "k": "A golden rooster sits high in a tree. A golden hen looks up from a rock far below. Bright waves splash, and the sun shines at the top. Can you find both birds? Which one is bigger?",
+    "g12": "This tall Korean painting shows two golden birds. The rooster sits in a tree near the sun and clouds. The hen stands lower, on a blue-green rock beside splashing waves. Red mushrooms grow from the rock. Follow your eyes from the hen up to the rooster. What do the two birds seem to be saying to each other?",
+    "g35": "Long ago in Korea, families hung colorful paintings like this one in their homes. A golden rooster perches in a tree beneath the sun and clouds, while a golden hen looks up from a rock among splashing waves. The painting includes symbols of a long life, such as the sun, rocks, water, and special mushrooms. Which symbols can you find, and why might someone want them on a wall?",
+    "g68": "This hanging scroll from 19th-century Korea combines two traditions: paintings of birds and flowers, and the ten symbols of longevity, which include sun, clouds, water, rocks, and mushrooms of immortality. The tall, narrow format stacks the scene vertically, linking rooster, tree, sun, hen, rock, and waves. Bold color and flat, graphic shapes made such pictures lively and popular. How might a painting with symbols of long life work as a gift or home decoration?",
+    "g910": "Painted by an unidentified artist in the later Joseon dynasty, this scroll joins the bird-and-flower genre with the ten symbols of longevity. Its vertical composition moves from the sun and rooster at the top to the hen, rock, and waves below, creating a visual hierarchy as well as a symbolic ladder. Saturated color and graphic pattern, rather than soft realism, give the picture energy. How do style and symbolism together suggest what viewers valued, and what does anonymity tell us about the work's audience?",
+    "g1112": "This 19th-century Korean hanging scroll shows how late Joseon painting could blend established genres. The Met describes it as merging birds-and-flowers painting with the ten symbols of longevity, and it appealed to many social classes for both its auspicious meanings and its lively style. Because the artist is unknown, interpretation rests on the image and its genre rather than a biography. Consider how pairing a rooster and hen with sun, rock, and water might communicate good fortune, and where such readings go beyond the evidence."
+  },
+  "questions": {
+    "k": {
+      "daily": "The golden rooster is high up and the golden hen is down low. What do you think each bird is looking at?",
+      "emotion": "Do the bright colors and splashing waves make you feel sleepy or full of energy? Show us with your body.",
+      "observation": "Find the rooster, the hen, the sun, and the red mushrooms. Point to each one.",
+      "analysis": "Start at the sun at the top and slide your finger down. What do you pass on the way to the hen?",
+      "line": "Trace the curly lines of the waves with your finger. Do they look calm or splashy?",
+      "shape": "The rock under the hen has a lumpy shape. What does it remind you of?",
+      "color": "Both birds are golden. What other colors stand next to them in the picture?",
+      "texture": "Think about the rooster's feathers. How would they feel if you could touch them?",
+      "space": "Which bird sits higher up in the painting? Which bird sits lower down?",
+      "light": "The sun is shining at the top of the scroll. Which parts of the picture look like they are glowing?",
+      "meaning": "In Korea, the sun, rocks, and mushrooms are wishes for a long life. What long, happy wish would you hang on a wall?",
+      "culture": "This scroll was hung on a wall in a Korean home long ago. Where would you hang a tall picture like this in your home?",
+      "technique": "This painting was made with ink and color on paper. Which parts look like they were painted with thick, bold color?",
+      "personal": "Roosters make a sound in the morning. What sound do you like to hear when you wake up?",
+      "critical": "Why do you think the artist put two birds in one picture instead of one?"
+    },
+    "g12": {
+      "daily": "The rooster is high in the tree and the hen is low by the waves. What story could these two birds be part of?",
+      "emotion": "Does this painting feel busy, calm, or joyful to you? Point to the parts that make you feel that way.",
+      "observation": "List five things you can find in this tall painting, from the top to the bottom.",
+      "analysis": "How does the painting help your eyes travel from the hen all the way up to the rooster?",
+      "line": "Look at the waves and the tree branches. How are the wavy lines different from the straight ones?",
+      "shape": "The painting is tall and narrow. What shapes does the artist stack from top to bottom?",
+      "color": "The birds are golden and the rock is blue-green. How does that make the birds stand out?",
+      "texture": "Find the rooster's feathers and the hard rock. How can you tell they would feel different?",
+      "space": "How does the artist show that the rooster is far above the hen in this tall picture?",
+      "light": "The sun and clouds sit at the very top. How does the picture make that part feel bright?",
+      "meaning": "The red mushrooms and the sun are signs of a long life in Korea. Why might people hang a picture full of such wishes?",
+      "culture": "People in Korea hung bright paintings like this at home. How is that like or unlike pictures that decorate your home?",
+      "technique": "The artist used ink and color on paper. Which parts look drawn with dark lines, and which look filled with color?",
+      "personal": "If you could have two animals in a picture for your own room, which would you choose and why?",
+      "critical": "The artist is not known by name. Does that change how you look at this painting? Tell why."
+    },
+    "g35": {
+      "daily": "The rooster perches in a tree beneath the sun while the hen looks up from a rock. What relationship might the artist want us to see between the two birds?",
+      "emotion": "How would you describe the mood of this painting, and which colors and shapes help create it?",
+      "observation": "Spend one minute scanning from top to bottom. Which small detail, such as the clouds or mushrooms, did you notice last?",
+      "analysis": "How does the tall, narrow format of a hanging scroll shape the way the artist arranged the sun, rooster, hen, and waves?",
+      "line": "How do the swirling lines of the waves and clouds compare with the lines of the tree and rock?",
+      "shape": "Where do you see rounded shapes and where do you see jagged ones? How do they balance each other?",
+      "color": "Why might the artist have chosen golden birds against blue-green and red? What does that contrast do for your eyes?",
+      "texture": "How does the artist suggest the difference between soft feathers, rough rock, and moving water?",
+      "space": "This painting stacks things up the page instead of showing deep distance. How does that choice affect the way you read the scene?",
+      "light": "The sun appears at the top of the scroll. Look for shadows in the scene, then explain how the artist still makes it feel bright.",
+      "meaning": "The Met says this picture includes symbols of long life, like the sun, rocks, water, and mushrooms of immortality. How might symbols like these act as good wishes?",
+      "culture": "Brightly colored pictures like this were enjoyed by many kinds of families in Korea. What does that tell you about how art was used at home?",
+      "technique": "Ink lines outline many shapes, and color fills them in. How does that method make the golden birds easy to spot?",
+      "personal": "Think of an object you keep in your room as a wish or a reminder. How is it like the symbols in this painting?",
+      "critical": "Nobody knows who painted this. What can we still learn about the work just by looking closely?"
+    },
+    "g68": {
+      "daily": "How does the artist link the rooster at the top to the hen at the bottom so that they feel like one story?",
+      "emotion": "What mood do the saturated colors and splashing waves create, and how would the mood change if the colors were muted?",
+      "observation": "List what you see from top to bottom, including the sun, tree, birds, rock, and water. Which element seems most carefully placed?",
+      "analysis": "How does the vertical layout of this scroll create a path for the eye, and where do you pause along the way?",
+      "line": "How do the flowing lines of waves and clouds contrast with the firmer outlines of the birds and rock?",
+      "shape": "How do the flat, graphic shapes of the rock, waves, and birds give the painting a bold pattern rather than a realistic look?",
+      "color": "Which colors are strongest here, and how do the golden birds claim attention from the blue-green rock and red mushrooms?",
+      "texture": "How does a mostly flat style still hint at feathers, stone, and water? Which clue convinces you most?",
+      "space": "The artist stacks the sun, tree, rock, and waves instead of using deep perspective. What effect does this have on the picture's space?",
+      "light": "The sun sits high above the rooster. How might its position, rather than shading, signal brightness and importance?",
+      "meaning": "The ten symbols of longevity include the sun, clouds, water, rocks, and mushrooms of immortality. Why might a household want a painting built from symbols like these?",
+      "culture": "The Met notes that vivid pictures like this were popular across Korean society in the late Joseon period. What might their popularity say about shared values?",
+      "technique": "This is ink and color on paper, mounted as a hanging scroll. How might that format make a painting easy to display, roll up, and store?",
+      "personal": "Choose one symbol in this painting that could stand for a wish in your own life. Explain your choice.",
+      "critical": "How might your understanding differ if you looked at this as only a nice animal picture versus a picture of wishes? Which view uses more evidence?"
+    },
+    "g910": {
+      "daily": "How do the rooster's high perch and the hen's lower position, together with the sun above, create a hierarchy within the scroll?",
+      "emotion": "What kind of energy does the painting project, and which formal choices, such as color intensity and wave rhythm, produce it?",
+      "observation": "Describe the visual order of the scroll from top to bottom, then identify the three elements that anchor your attention first.",
+      "analysis": "How does the vertical structure of the hanging scroll shape the relationships among sun, rooster, hen, rock, and waves?",
+      "line": "How does the artist use sinuous linework in the water and clouds against more controlled contours for the birds?",
+      "shape": "How do repeated rounded forms, such as the sun, waves, and rock, interact with the more angular features of the birds and tree?",
+      "color": "How does the bold palette serve both decorative appeal and symbolic emphasis, particularly in the pairing of gold, blue-green, and red?",
+      "texture": "How does the artist suggest contrasting materials, such as feathers, rock, and water, without relying on strong shading?",
+      "space": "How does the stacked, shallow space of the scroll differ from Western one-point perspective, and what does it achieve here?",
+      "light": "How does the painting convey brightness through the sun motif and color rather than through shadow and modeling?",
+      "meaning": "How might the sun, rocks, water, and mushrooms work as a vocabulary of long life, and which readings of the birds remain uncertain?",
+      "culture": "What does the late Joseon taste for colorful, auspicious pictures suggest about art's role in everyday life beyond the court?",
+      "technique": "How do ink outlines and flat color fields, typical of this style, support both clarity of symbols and decorative vitality?",
+      "personal": "Which symbols in your own surroundings carry a hope for the future, and how would you picture them in a composition like this?",
+      "critical": "What are the benefits and the limits of interpreting an unsigned folk-style painting through its genre rather than its maker?"
+    },
+    "g1112": {
+      "daily": "What claims about meaning can you support from the visible scene of rooster, hen, rock, and waves, and which depend on outside knowledge of the genre?",
+      "emotion": "How does the painting generate a festive, hopeful atmosphere through color and pattern rather than through facial expression or narrative action?",
+      "observation": "Write a precise description of the scroll's arrangement. At what point does your description begin to assume meanings that the image does not itself state?",
+      "analysis": "Analyze how the scroll's vertical syntax organizes a set of symbols into a single, readable design.",
+      "line": "How does the painting reconcile ornamental, flowing line with the need for clear, recognizable emblems?",
+      "shape": "How does the interplay of flat, stylized forms and curving rhythm produce a design that is both decorative and symbolic?",
+      "color": "How do the color choices function as both visual attraction and cultural signal, and how might aging or reproduction change our view of them?",
+      "texture": "In a style that favors flat color and outline, how are tactile qualities still evoked, and why might that restraint be a deliberate stylistic choice?",
+      "space": "How does the picture's emblematic, stacked space prioritize symbolic relationships over optical realism?",
+      "light": "If shading plays only a small role here, what does that suggest about the painting's priorities, and how does the sun motif still operate as a source of radiance?",
+      "meaning": "The Met links the scroll to the ten symbols of longevity. How should an interpreter weigh that framework against more personal or playful readings of the paired birds?",
+      "culture": "How might a work that was admired across social classes complicate the assumption that Joseon painting meant only scholarly or court art?",
+      "technique": "What does the combination of ink and color on paper in a hanging-scroll format imply about how such paintings were made, mounted, and displayed?",
+      "personal": "How does your own cultural background shape what you expect a rooster, a sun, or a rock to symbolize, and how might that bias your reading?",
+      "critical": "With no known artist or documented commission, what standards of evidence should limit claims about the painting's intended meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Roosters, Trees, Hens) checked against the museum record, and the Met catalog text describing a rooster, hen, sun, clouds, waves, rock, and mushrooms was read. No nudity, violence, or frightening subject appears in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century Korean hanging scroll from the Joseon dynasty by an unidentified artist. It blends the birds-and-flowers genre with the ten symbols of longevity (sun, mountains, water, rocks, clouds, pine, tortoises, cranes, deer, and mushrooms of immortality), according to the Met.",
+    "vocabulary": [
+      "hanging scroll",
+      "Joseon dynasty",
+      "symbol",
+      "longevity",
+      "genre",
+      "auspicious"
+    ],
+    "directions": [
+      "Have students list the symbols of long life they can find in the painting and compare them with the Met's list of ten.",
+      "Ask students to design a small painting of their own good wishes using three symbols.",
+      "Discuss why people might hang pictures of good fortune in their homes, and compare traditions from different cultures."
+    ]
+  }
+}

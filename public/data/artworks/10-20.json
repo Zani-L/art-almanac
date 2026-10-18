@@ -1,0 +1,159 @@
+{
+  "id": "met-437256",
+  "day": "10-20",
+  "title": "Concert Champêtre",
+  "artist": "Jean-Baptiste Joseph Pater",
+  "date": "ca. 1734",
+  "medium": "Oil on canvas",
+  "movement": "Rococo",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP317730.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP317730.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Joseph Pulitzer Bequest, 1937",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An outdoor scene in a landscape where men, women and children gather with musicians and musical instruments.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437256",
+    "objectId": "437256",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Musical Instruments, Children, Men, Women, Landscapes, Musicians) and image URLs read from the record"
+  },
+  "context": "An oil painting by the French artist Jean-Baptiste Joseph Pater, made around 1734. The title means a country or outdoor concert. Pater is known for scenes of elegant people enjoying music and leisure outdoors, in a style that grew out of the work of Antoine Watteau.",
+  "descriptions": {
+    "k": "People gather outside to hear music. There are men, women, and children. You can see musical instruments. The trees and sky are soft. What song do you think they are playing?",
+    "g12": "Jean-Baptiste Joseph Pater painted this outdoor concert in France. Men, women, and children sit together in a park-like landscape with musicians and instruments. The mood is relaxed and happy. What instruments can you find? What music do you imagine?",
+    "g35": "Concert Champêtre means a concert in the countryside. Jean-Baptiste Joseph Pater painted a group of people, including children, gathered outdoors with musicians and instruments. The scene feels like a pleasant afternoon of music in a leafy landscape. Look for who is playing, who is listening, and how the painter makes the scene feel soft and dreamy. Why might people want a painting of a day like this?",
+    "g68": "Painted around 1734, this scene belongs to the French Rococo, a style that favored lightness, elegance, and pleasure. Pater, who learned from Watteau, shows people of different ages making and enjoying music outdoors. The soft landscape, gentle colors, and small figures create a dreamy world rather than a realistic one. How does the setting shape the mood, and why might wealthy buyers have liked such scenes?",
+    "g910": "Pater's Concert Champêtre belongs to the Rococo tradition of fêtes galantes, scenes of fashionable people enjoying music and conversation in idealized landscapes. Influenced by Watteau, he used light touch, soft color, and small figures to create a world of leisure. The painting is less about a specific event than about a mood of harmony. How does the blend of music, landscape, and figures present an ideal of a pleasant life, and who was that ideal for?",
+    "g1112": "Pater worked in the fête galante mode that Watteau had established, presenting music, company, and landscape as an idealized world of leisure. Concert Champêtre, from about 1734, raises questions about the relationship between idealization and social reality, as the carefree scene was produced for a prosperous Parisian audience in an age of marked inequality. It also invites attention to how painting can evoke music, and to how Rococo lightness has been read as both charming and evasive."
+  },
+  "questions": {
+    "k": {
+      "daily": "What song do you think the musicians are playing for the people in the park?",
+      "emotion": "Do the people look happy, sleepy, or excited? How can you tell?",
+      "observation": "Find the musical instruments. How many different ones can you spot?",
+      "analysis": "Where do your eyes go first, to the musicians or the trees? Why?",
+      "line": "Follow the curve of the trees or a person's arm with your finger.",
+      "shape": "What shapes do the instruments make? Find a round one and a long one.",
+      "color": "Which colors in the people's clothes stand out from the trees?",
+      "texture": "How would the leaves feel? How would the people's silky clothes feel?",
+      "space": "Which people are closest to you? Which are farther away in the park?",
+      "light": "Is the light bright or soft? Where does it touch the people?",
+      "meaning": "Why do you think music makes people sit together outside?",
+      "culture": "Children and grown-ups enjoy music together in this picture from long ago in France. When do you make music with others?",
+      "technique": "The painter used soft colors to make a dreamy picture. Where do you see the softest parts?",
+      "personal": "What instrument would you like to play? Tell why.",
+      "critical": "Do you think this is a real moment or a pretend dream? What makes you say so?"
+    },
+    "g12": {
+      "daily": "Who is playing and who is listening, and what clues in the picture tell you?",
+      "emotion": "What feeling does an outdoor concert give you? Which parts of the painting help?",
+      "observation": "List five things you see, such as people, instruments, and trees.",
+      "analysis": "How does the painter group the people so your eyes move from one to the next?",
+      "line": "Find curved lines in the trees and clothing. How do they make the picture feel relaxed?",
+      "shape": "How do the shapes of the instruments match or differ from the shapes of the trees?",
+      "color": "Which colors feel warm and which feel cool in the clothes and the landscape?",
+      "texture": "Where do you see soft leaves and where do you see shiny clothing? How can you tell?",
+      "space": "How does the painter show the park going back into the distance?",
+      "light": "How does the light make the scene look happy and gentle?",
+      "meaning": "Why might rich people in France want a painting of people enjoying music outdoors?",
+      "culture": "Concert Champêtre means a country concert. What kind of outdoor music events do people enjoy today?",
+      "technique": "Pater painted light, quick touches in the leaves and clothes. Where do you see them?",
+      "personal": "If you were in this park, would you play, listen, or dance? Explain.",
+      "critical": "Do you think real people had days exactly like this one? Why or why not?"
+    },
+    "g35": {
+      "daily": "Imagine you are one of the people in the painting. What do you hear, see, and feel, and what details helped you?",
+      "emotion": "What is the mood of this concert, and which colors or shapes create it?",
+      "observation": "Look silently for one minute. What small details about the instruments and clothing did you notice?",
+      "analysis": "How does Pater arrange the musicians, listeners, and landscape so the scene feels balanced?",
+      "line": "How do gentle curves in the trees and figures contribute to the mood?",
+      "shape": "How do the small shapes of the people fit within the larger shapes of trees and sky?",
+      "color": "How do soft colors and light areas make the painting feel dreamy?",
+      "texture": "How does the painter show silky clothing and leafy trees differently?",
+      "space": "How does the artist use size and overlap to show distance within the park?",
+      "light": "Where does light seem to fall, and how does it help the scene feel like a pleasant afternoon?",
+      "meaning": "The painting shows music and company without a clear story. What do you think the painter wanted viewers to enjoy?",
+      "culture": "Rococo paintings often showed leisure and elegance. Why might wealthy buyers prefer them to scenes of hard work?",
+      "technique": "How might light brushstrokes help create a dreamy atmosphere?",
+      "personal": "Think of a time you listened to music outdoors. How does that compare with this scene?",
+      "critical": "A painting like this shows only a happy part of life. What might it leave out?"
+    },
+    "g68": {
+      "daily": "How does Pater turn an outdoor concert into an ideal world and what details help build it?",
+      "emotion": "How do the soft colors and relaxed poses shape the feeling of the painting?",
+      "observation": "Describe the groups of people and their instruments from left to right. Which details seem most intentional?",
+      "analysis": "How does the composition use clusters of figures and open space to lead the eye?",
+      "line": "How do flowing lines in clothing and trees create a rhythm that matches the idea of music?",
+      "shape": "How do small figures contrast with larger shapes of foliage to create scale?",
+      "color": "How does the palette support the feeling of ease and elegance?",
+      "texture": "How do lighter, feathery touches make foliage differ from fabric?",
+      "space": "How does the landscape create depth while keeping the figures at the center of attention?",
+      "light": "How does the light create a gentle, golden atmosphere?",
+      "meaning": "Is the painting mainly about music, about leisure, or about an ideal of the good life? Support your view.",
+      "culture": "How does the Rococo style reflect the tastes of Parisian elites in the early 1700s?",
+      "technique": "Pater learned from Watteau. What qualities of light and delicate brushwork might you look for in a follower of Watteau?",
+      "personal": "What would an ideal day outdoors look like for you, and how would you paint it?",
+      "critical": "How might the painting present a selective view of life in France at the time?"
+    },
+    "g910": {
+      "daily": "How does Pater's composition create a feeling of harmony that mirrors the music in the scene?",
+      "emotion": "How does the painting use color and light to evoke leisure and contentment?",
+      "observation": "Describe the visual hierarchy: what first draws the eye, and which devices direct it?",
+      "analysis": "Analyze how groupings of figures and the frame of the landscape structure the composition.",
+      "line": "How do sinuous contours in figures and trees suggest rhythm and movement?",
+      "shape": "How does the balance of massed foliage and small figures create depth and scale?",
+      "color": "How does the soft palette support the Rococo ideal of lightness?",
+      "texture": "How does the variation of touch distinguish silk, foliage, and sky?",
+      "space": "How does the arrangement of figures within a recessive landscape support the dreamlike character of the scene?",
+      "light": "How does diffused light unify the composition and flatter the figures?",
+      "meaning": "What ideals of leisure, courtship, and harmony does the picture promote, and who benefited from those ideals?",
+      "culture": "How does the fête galante tradition from Watteau shape Pater's approach to subject and style?",
+      "technique": "How does the painter's light touch reflect Rococo aesthetics, and how does it differ from more solid, classical painting?",
+      "personal": "How do contemporary images of leisure, such as festivals or social media, compare with this vision?",
+      "critical": "What are the limits of reading the painting as evidence of everyday life?"
+    },
+    "g1112": {
+      "daily": "What claims about the painting's meaning can the evidence in front of you support, and which depend on knowledge outside the picture?",
+      "emotion": "How does the painting sustain delight and a hint of wistfulness, as writers on Watteau and his followers have suggested?",
+      "observation": "Describe the painting's structure with precision. Where does description already involve interpretation?",
+      "analysis": "Analyze how Pater balances figure groups and landscape to produce a unified, music-like harmony.",
+      "line": "How does the painting use rhythmic curves to evoke musical flow?",
+      "shape": "How does the interplay of small figures and large natural forms position human leisure within nature?",
+      "color": "How might the aging of pigments and varnish affect our impression of the original palette?",
+      "texture": "How does the variety of touch contribute to the illusion of an atmospheric, shimmering world?",
+      "space": "How does the compressed yet recessive space position the viewer as a privileged observer?",
+      "light": "In what ways does soft light function as a social as well as a visual flattery?",
+      "meaning": "Compare readings of the scene as sincere celebration, escapist idealization, or subtle social comment. Which is best supported?",
+      "culture": "How does the commerce in Rococo art relate to the wealth and inequalities of early eighteenth-century France?",
+      "technique": "What do Pater's methods suggest about his relation to Watteau, and how might we judge imitation against invention?",
+      "personal": "How does your own taste for or suspicion of idealized leisure affect your reading of the work?",
+      "critical": "How should we weigh the painting's charm against the social context of its production?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Musical Instruments, Children, Men, Women, Landscapes, Musicians) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Jean-Baptiste Joseph Pater was a French painter who followed Antoine Watteau in painting outdoor gatherings of elegant people. Concert Champêtre, about 1734, is an example of the Rococo style.",
+    "vocabulary": [
+      "Rococo",
+      "fête galante",
+      "landscape",
+      "composition",
+      "atmosphere",
+      "idealized"
+    ],
+    "directions": [
+      "Have students list which instruments they can identify and sketch two of them.",
+      "Ask students to compare this ideal outdoor gathering with a real photograph of a concert in the park.",
+      "Discuss who would have paid for a painting like this and what it shows about their world."
+    ]
+  }
+}

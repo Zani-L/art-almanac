@@ -1,0 +1,158 @@
+{
+  "id": "artic-16568",
+  "day": "03-29",
+  "title": "Water Lilies",
+  "artist": "Claude Monet",
+  "date": "1906",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A nearly square painting of a pond covered in floating water lilies, with blue and green reflections shimmering between the leaves. There is no horizon, so the water fills the whole picture.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16568",
+    "objectId": "16568",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (landscapes, Nymphaea, water lilies, reflections, water, plants, flowers, blue (color), green (color)), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Claude Monet, dated 1906. The Art Institute notes it is one of about 250 paintings of his water garden at Giverny, France. Monet built the pond himself and painted it for the last decades of his life.",
+  "descriptions": {
+    "k": "This is a pond with floating flowers called water lilies. The water is blue and green. Can you see the flat green leaves? Can you see the flowers? The paint looks soft, like a dream. What does it feel like?",
+    "g12": "Claude Monet painted this pond full of water lilies. He painted it in his own garden in France. The water shows the sky and trees in blurry blue and green. There is no edge to the pond. How does that make you feel, like you are in the picture?",
+    "g35": "Claude Monet made about 250 paintings of the water lily pond in his garden at Giverny, France, and this one is from 1906. He painted the lilies and the reflections without showing the shore. Soft dabs of blue, green, and pink blend in your eye. Why might Monet paint the same pond again and again?",
+    "g68": "In 1906, Monet painted this view of his water garden at Giverny, one of about 250 works on the subject. By filling the canvas with water and lilies, he removes the horizon, so the surface seems to flatten and the reflections become part of the pattern. How does that choice change your sense of depth, and what might it say about what Monet cared about most?",
+    "g910": "In this 1906 painting, one of roughly 250 water-garden works, Monet erases the horizon, so reflection, leaf, and flower share the same flat field of short, layered strokes. The result is neither fully landscape nor pure abstraction. How does the absence of a fixed vantage point alter how you read the pond, and how might Monet's repeated painting of the same motif express a different goal than describing a place?",
+    "g1112": "Water Lilies (1906) sits at a midpoint of Monet's evolving late style: the pond becomes a shimmering surface where reflections and floating plants merge, and the horizon disappears. Critics have debated whether these paintings are the fulfillment of Impressionism or a step toward abstraction. How does the all-over composition complicate the distinction between depicting and constructing an image, and why might later artists have found these paintings so influential?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the pond. What colors do you see in the water?",
+      "emotion": "Does this painting feel calm or noisy? What tells you?",
+      "observation": "Find the flat leaves and the flowers. Which do you spot first?",
+      "analysis": "Where do your eyes travel as you look? Do they rest anywhere?",
+      "line": "Are there straight lines here? What kinds of lines do you see instead?",
+      "shape": "Find a round lily pad shape. Where is it, and what shapes are near it?",
+      "color": "Which blues, greens, and pinks do you see? Point to your favorite.",
+      "texture": "Does the paint look fuzzy or hard? Tell us how you know.",
+      "space": "Can you see the edge of the pond? What do you see instead?",
+      "light": "Where does the water look brighter? Where does it look darker?",
+      "meaning": "What do you think the water is showing, besides flowers?",
+      "culture": "Monet had a garden with a pond of his own. What kind of place do you like to sit and look at?",
+      "technique": "Monet used lots of little dabs of paint. What happens when you look from far away?",
+      "personal": "If you painted a pond, what would you put in it?",
+      "critical": "Why do you think Monet painted this pond again and again?"
+    },
+    "g12": {
+      "daily": "Look at the water and the leaves. What feeling do you get from them?",
+      "emotion": "Does this picture make you feel sleepy, peaceful, or excited? Show us the part that does it.",
+      "observation": "List four things you see: what colors, what shapes, what plants?",
+      "analysis": "How does Monet make the flowers stand out from the water around them?",
+      "line": "Where are the brushstrokes short and quick, and where are they longer?",
+      "shape": "The lily pads are round and flat. How do they sit on the water?",
+      "color": "Monet used blue, green, and pink together. How do they work together in the water?",
+      "texture": "How did the painter make the water look wet and shimmery?",
+      "space": "There is no shore in this picture. How does that change the way you look at it?",
+      "light": "Where do you see light on the water, and where is it dim?",
+      "meaning": "The water shows reflections. What do you think is being reflected?",
+      "culture": "Monet painted his own garden in France. Why might he want to paint where he lived?",
+      "technique": "Monet painted fast, with small strokes. Why might that help show moving water?",
+      "personal": "How would you paint a place you love so others could feel it?",
+      "critical": "Is this a picture of a pond or a picture of colors? What do you think?"
+    },
+    "g35": {
+      "daily": "Which colors and shapes make you feel you are looking down at the water? Give evidence.",
+      "emotion": "How would you describe the mood of this painting, and which colors and strokes create it?",
+      "observation": "Look slowly across the canvas. What small details did you notice last?",
+      "analysis": "How does Monet arrange the lily pads and flowers so your eye drifts around the surface?",
+      "line": "How do the short, curved strokes suggest the water's movement?",
+      "shape": "How do the round shapes of the lily pads repeat across the canvas?",
+      "color": "How does Monet use blue, green, pink, and touches of light to suggest reflections?",
+      "texture": "How do layered strokes make the surface look shimmering instead of smooth?",
+      "space": "Without a horizon or shore, how does Monet make the pond feel like it has depth or no depth?",
+      "light": "How do bright and dark areas on the water suggest the sky and trees reflected there?",
+      "meaning": "Monet painted the pond roughly 250 times. What might he have been trying to discover by returning to it?",
+      "culture": "How does a garden like Monet's reflect his interest in nature and his way of life in France?",
+      "technique": "How does painting outdoors with quick strokes help capture changing light?",
+      "personal": "How does focusing on one place for a long time change how you see it?",
+      "critical": "Does a painting need to look exactly like a pond to feel true? Use this one to argue."
+    },
+    "g68": {
+      "daily": "What clues tell you this is a pond even though there is no shore, and how does that absence change the picture?",
+      "emotion": "What mood do the cool blues and greens create, and how do the pink touches change it?",
+      "observation": "Describe the leaves, flowers, and reflections in order. Which detail changes if you look again?",
+      "analysis": "How does Monet scatter the lilies so your eye drifts rather than stops?",
+      "line": "How do the short, curved strokes suggest ripples and movement on the surface?",
+      "shape": "How do the rounded shapes of the pads repeat, and what pattern do they build?",
+      "color": "How does Monet place pinks and whites against blues and greens to make some areas glow?",
+      "texture": "How do layered dabs of paint give the water a shimmering surface?",
+      "space": "With no horizon, does the pond feel flat or deep? Explain using what you see.",
+      "light": "How do lighter and darker patches suggest the sky and trees reflected in the water?",
+      "meaning": "Why might Monet paint the same pond hundreds of times in different light?",
+      "culture": "How might having a water garden of his own have shaped what Monet painted?",
+      "technique": "How does using small strokes of separate colors differ from blending paint smoothly?",
+      "personal": "What place could you observe for a long time and see something new each day?",
+      "critical": "Is this painting about a pond, about light, or about paint itself? Use evidence to argue."
+    },
+    "g910": {
+      "daily": "How does the lack of a horizon shift your viewpoint from observer of a pond to immersion in its surface?",
+      "emotion": "How do color and light produce a mood of stillness, and could the same surface feel unsettling to some viewers?",
+      "observation": "Study the edges of the canvas. What does cropping do to the pond's sense of continuing beyond the frame?",
+      "analysis": "Analyze how the scattered lilies create a rhythm without a clear focal point.",
+      "line": "How do short, directional strokes suggest water's movement and create a unified surface?",
+      "shape": "How do the repeated ovals of lily pads organize the surface into a pattern?",
+      "color": "Evaluate how adjacent blues, greens, and pinks produce shimmering reflections without sharp edges.",
+      "texture": "What does the layering of paint suggest about how Monet built reflection and depth over time?",
+      "space": "How does the flattened, all-over space blur the line between depicting a place and constructing a painting?",
+      "light": "How does the painting show light as color and reflection rather than as direct illumination on objects?",
+      "meaning": "Why might Monet's serial painting of one motif, in changing light, matter more than any single picture?",
+      "culture": "How does the water garden reflect Monet's late-career life at Giverny and the influence of Japanese gardens on French art?",
+      "technique": "How does Monet's technique of broken color differ from traditional blended painting?",
+      "personal": "How does your response change when you imagine seeing the painting at its actual scale in a gallery?",
+      "critical": "Should the lily paintings be seen as endpoints of Impressionism, steps toward abstraction, or both? Support your view."
+    },
+    "g1112": {
+      "daily": "How does the elimination of a stable horizon alter the viewer's position, and what are the implications for naturalism?",
+      "emotion": "How does the tension between stillness and shimmer shape the emotional register, and how might that vary by viewer?",
+      "observation": "Examine how the cropped edges imply continuation, and what that contributes to an immersive effect.",
+      "analysis": "Analyze how the dispersed pads and flowers establish an all-over structure instead of a hierarchical focal point.",
+      "line": "How does the directional, broken brushwork unify water, plant, and reflection into one surface?",
+      "shape": "How do recurring elliptical forms operate as both depiction and abstract pattern?",
+      "color": "Evaluate how optical mixing of adjacent hues produces luminosity, and how this relates to Impressionist theory.",
+      "texture": "What does visible layering of paint reveal about duration, revision, and the painter's relation to the motif?",
+      "space": "How does the ambiguity between surface and depth reflect the shift from describing a scene to constructing a visual field?",
+      "light": "How is light rendered as color relationships rather than modeled form, and with what consequences for the genre of landscape?",
+      "meaning": "What is gained by approaching one motif serially, and how does this painting participate in that larger project?",
+      "culture": "How might the cultivated, designed nature of the Giverny garden complicate the idea of Monet as a painter of untouched nature?",
+      "technique": "How does the technique of broken color challenge conventional ideas of finish in late nineteenth-century painting?",
+      "personal": "How does scale and viewing distance affect the interplay of image and abstraction, and what can reproduction not convey?",
+      "critical": "How would you assess claims that these paintings anticipate abstract art without ignoring Monet's own commitment to observation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (landscapes, Nymphaea, water lilies, reflections, water, plants, flowers, blue (color), green (color)) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "One of about 250 paintings Monet made of his water garden at Giverny, dated 1906. The museum lists reflections, water, water lilies and flowers. Good for discussing series, light and the edge between realism and abstraction.",
+    "vocabulary": [
+      "Impressionism",
+      "reflection",
+      "series",
+      "broken color",
+      "horizon",
+      "composition"
+    ],
+    "directions": [
+      "Have students paint a small patch of water in three different lighting conditions using only dabs, and compare.",
+      "Ask students to find a place in the painting that could be either water or sky and explain what makes it ambiguous.",
+      "Discuss why an artist might paint the same subject hundreds of times."
+    ]
+  }
+}

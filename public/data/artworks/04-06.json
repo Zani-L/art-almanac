@@ -1,0 +1,159 @@
+{
+  "id": "met-384090",
+  "day": "04-06",
+  "title": "Head of a Boy",
+  "artist": "Master of the Legend of Saint Ursula",
+  "date": "15th century",
+  "medium": "Metalpoint",
+  "movement": "Early Netherlandish",
+  "region": "The Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801697.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP801697.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Guy Wildenstein Gift, 2008",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A very small, delicate drawing of a boy's head made with fine, soft gray lines on a light surface. Only the head is shown, with no background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/384090",
+    "objectId": "384090",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, country, dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tiny drawing in metalpoint, made in the Netherlands in the 15th century and attributed to an artist known as the Master of the Legend of Saint Ursula, who the Met lists as active about 1470–90. The whole sheet measures only about 8 by 5.7 centimeters. We do not know who the boy was.",
+  "descriptions": {
+    "k": "This is a tiny drawing of a boy's head. The lines are thin and soft and gray. It was drawn a very long time ago. Look at his face. What do you think he is thinking about?",
+    "g12": "An artist in the Netherlands drew this boy's head more than 500 years ago. The drawing is tiny, smaller than a postcard. The lines are thin, soft, and gray. We do not know the boy's name. What do you think he might have been like? Which lines show you?",
+    "g35": "This tiny drawing of a boy's head was made in the Netherlands in the 1400s with metalpoint, a method where the artist draws with a thin metal stick on specially prepared paper. The lines are fine and soft and cannot be erased easily, so the artist had to look carefully before each mark. The sheet is only about eight centimeters tall. What details of the face can you find, even in such a small drawing?",
+    "g68": "Metalpoint is a drawing method in which a metal stylus leaves a faint line on a surface prepared for it. It demands confidence, because marks are hard to correct. This study of a boy's head, attributed to the Master of the Legend of Saint Ursula and made in the 15th century, is only about eight by six centimeters. We do not know who the boy was or why it was drawn, though artists often made studies like this to prepare larger works. How do such small marks create a sense of a real person?",
+    "g910": "This 15th-century metalpoint study, attributed to the Master of the Legend of Saint Ursula, concentrates on one thing: a boy's head, drawn at a scale smaller than a hand. Metalpoint produces fine, pale lines that do not erase easily, so every mark records a decision. The identity of the boy and the purpose of the drawing are unknown; studies of heads were often made as models for painted figures, but that is a possibility, not a fact here. Consider what a close, quiet drawing can reveal that a finished painting may hide.",
+    "g1112": "Attributed to the Master of the Legend of Saint Ursula and dated only to the 15th century, this metalpoint head is both intimate and elusive. The medium's pale, unforgiving line makes the drawing a record of sustained looking, but we cannot say whether it was a preparatory study, a model-book sheet, or a portrait of a particular child. A later pencil note on the back that names Jan van Eyck suggests how attributions can shift over time. The drawing invites us to weigh what the image shows against how little documentary evidence survives."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this boy is thinking about?",
+      "emotion": "Does the boy look happy, quiet, or something else? What do you see that makes you think so?",
+      "observation": "What parts of the face can you find? Point to them.",
+      "analysis": "Where do your eyes look first? What do they look at next?",
+      "line": "The lines are thin and soft. Can you trace one in the air?",
+      "shape": "What shapes do you see in the head, like circles or curves?",
+      "color": "This drawing uses soft gray lines. What other colors would you add if you could?",
+      "texture": "How would the boy's hair feel? Soft, curly, or straight?",
+      "space": "There is no background. Where is the boy? What do you imagine behind him?",
+      "light": "Which parts of the face look light? Which parts look a bit darker?",
+      "meaning": "Who do you think this boy might be? Make up a story about him.",
+      "culture": "The boy lived a long time ago in the Netherlands. What do you think he liked to do?",
+      "technique": "The artist drew with a thin metal stick. How is that different from a pencil?",
+      "personal": "Has anyone ever drawn your face? How did it feel?",
+      "critical": "Why might an artist make a tiny drawing of just a head?"
+    },
+    "g12": {
+      "daily": "What can you tell about this boy just from his head? Show which lines help you.",
+      "emotion": "What feeling do you see in the boy's face? Which part of the face shows it?",
+      "observation": "Describe five details of the boy's face and hair.",
+      "analysis": "Which parts of the drawing have more lines? Why might the artist spend more time there?",
+      "line": "Find the softest lines and the darkest lines. How do they change the drawing?",
+      "shape": "Look at the shape of the whole head. How is it made with only lines?",
+      "color": "The drawing is gray on a light surface. How does it still show dark and light?",
+      "texture": "Where do you see soft skin and where do you see hair? How does the artist show the difference?",
+      "space": "The drawing is very small and has no background. How does that make you look at it?",
+      "light": "Where does the drawing seem to have light and where does it have shadow?",
+      "meaning": "Why might someone draw a boy's head just for practice or to remember him?",
+      "culture": "This was drawn in the 1400s. What is different between drawing then and taking a photo now?",
+      "technique": "Metalpoint lines are hard to erase. How would you draw differently if you could not erase?",
+      "personal": "If you drew a small picture of a friend's face, which details would you include?",
+      "critical": "We do not know who this boy is. What can we guess from the picture, and what can we not know?"
+    },
+    "g35": {
+      "daily": "Even though the drawing is tiny, what does the artist make you notice about this boy?",
+      "emotion": "What mood does the soft, quiet drawing create? Which details help?",
+      "observation": "Take one minute of silent looking. What fine details do you see in the face and hair?",
+      "analysis": "How does the artist use more and fewer lines to show which parts of the head matter most?",
+      "line": "How do thin, close lines build up dark areas, and how do single lines suggest light areas?",
+      "shape": "How does the artist build the round shape of a head using only lines?",
+      "color": "The drawing uses only gray lines. How does limiting color change how you look at the face?",
+      "texture": "How does the artist show the difference between skin and hair with only fine lines?",
+      "space": "There is no background around the boy. How does that change how you see his face?",
+      "light": "How does the artist suggest light falling on the face using just lines?",
+      "meaning": "We do not know why this drawing was made. What reasons can you imagine for drawing a boy's head?",
+      "culture": "Drawings like this were made by hand because no cameras existed. What does this drawing tell you about how people kept images then?",
+      "technique": "Metalpoint lines cannot be erased easily. How might that change how an artist works?",
+      "personal": "Think of a time you carefully drew something small. What helped you do it well?",
+      "critical": "Why might a museum keep a tiny drawing safe for over 500 years? What makes it valuable?"
+    },
+    "g68": {
+      "daily": "How do such small marks create a sense of a real person?",
+      "emotion": "What emotion, if any, do you read in the boy's face? Which marks create it, and how certain are you?",
+      "observation": "Describe the drawing without interpreting. Which areas have the densest lines?",
+      "analysis": "How does the artist decide what to include and leave out when drawing only a head?",
+      "line": "How do the fine, controlled lines in metalpoint differ from the bolder lines of chalk or ink?",
+      "shape": "How do curved and straight lines combine to make the structure of the head?",
+      "color": "Metalpoint gives a pale gray line. How does this limited range affect the drawing's mood?",
+      "texture": "How does the artist suggest the softness of skin and the texture of hair with the same pale line?",
+      "space": "The head floats on the sheet with no setting. What does the empty space around it do?",
+      "light": "How can parallel and crossing lines create the effect of light and shadow?",
+      "meaning": "Artists sometimes drew heads as studies for other works. What might this drawing have been used for, and how sure can we be?",
+      "culture": "Why might fifteenth-century artists in the Netherlands have valued careful drawings of real faces?",
+      "technique": "A metal stylus leaves a mark that is hard to remove. How does that affect confidence, planning, and skill?",
+      "personal": "How is careful practice drawing part of learning any skill you care about?",
+      "critical": "A later pencil note on the back names Jan van Eyck, but the Met attributes the drawing to a different master. How can we weigh evidence about who made an artwork?"
+    },
+    "g910": {
+      "daily": "How does the drawing's small scale and close focus shape our encounter with the boy?",
+      "emotion": "How does the artist convey presence and feeling with such restrained means?",
+      "observation": "Describe the drawing's visual hierarchy. Which features draw the eye first, and how are they emphasized?",
+      "analysis": "Analyze how the artist balances detail and economy in a study that isolates a single subject.",
+      "line": "How does the fineness and permanence of metalpoint line influence the drawing's character?",
+      "shape": "How does the drawing build three-dimensional form from small, repeated marks?",
+      "color": "How does the narrow tonal range of metalpoint concentrate attention on structure rather than color?",
+      "texture": "How do variations in line density and direction describe different surfaces such as skin and hair?",
+      "space": "How does the absence of setting turn the head into a pure study rather than a story?",
+      "light": "How does the drawing model form through gradations of tone rather than dramatic light?",
+      "meaning": "How might a study of a child's head have functioned in a workshop, and how should we treat that as a hypothesis?",
+      "culture": "What does a drawing like this suggest about the importance of observation in the workshop culture of the Netherlands in the 1400s?",
+      "technique": "How does working in a medium that resists correction demand a different kind of planning than pencil or chalk?",
+      "personal": "How do you balance care and spontaneity when you draw? What would metalpoint's constraints teach you?",
+      "critical": "How should viewers treat an attribution to a named master when the artist's identity is a label rather than a known person?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the drawing itself about the artist's attention to the boy, and what remains uncertain?",
+      "emotion": "How does the drawing produce a sense of intimacy at such a small scale? What are the risks of attributing feelings to the sitter?",
+      "observation": "Describe the drawing's construction as precisely as possible. Which observations depend on the reproduction's scale and quality?",
+      "analysis": "Analyze how an apparently simple study can reveal choices about selection, emphasis, and omission.",
+      "line": "How does the medium's unforgiving, pale line shape the relation between observation and commitment in drawing?",
+      "shape": "How does the artist reconcile the geometry of the head with the individuality of a particular face?",
+      "color": "How does the near-monochrome of metalpoint affect how we imagine the colors the boy may have had?",
+      "texture": "How does the drawing translate texture into line, and what does this suggest about the conventions of 15th-century drawing?",
+      "space": "How does the lack of context affect the drawing's ability to bear meaning? What would an inscription or setting add?",
+      "light": "How does the tonal modeling indicate the artist's training in painting as well as drawing?",
+      "meaning": "Evaluate possible functions: a study for a painting, a model-book sheet, or a portrait. What evidence would favor each?",
+      "culture": "How does the survival of a tiny sheet like this shape our understanding of Netherlandish workshop practice compared with surviving paintings?",
+      "technique": "What do the fragility of the medium and the sheet's small size imply about how such drawings were used and preserved?",
+      "personal": "How does knowing so little about the boy affect the way you respond to the drawing? What do you fill in yourself?",
+      "critical": "The artist is known only by the name of a painted series. What problems and benefits come from naming artists this way?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, medium, and tags (Heads, Boys, Portraits) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A tiny metalpoint drawing from the 15th century, attributed to the Master of the Legend of Saint Ursula (active about 1470–90 according to the Met). The sheet is about 8 by 5.7 cm and the boy is unidentified.",
+    "vocabulary": [
+      "metalpoint",
+      "study",
+      "attribution",
+      "profile and three-quarter view",
+      "line weight",
+      "Early Netherlandish"
+    ],
+    "directions": [
+      "Have students draw a small face with a pen or hard pencil without erasing, then discuss how it changed their looking.",
+      "Ask students to write three questions they would ask the museum about this drawing.",
+      "Discuss why we label some artists by the name of a work instead of a personal name."
+    ]
+  }
+}

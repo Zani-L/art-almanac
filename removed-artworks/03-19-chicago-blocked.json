@@ -1,0 +1,158 @@
+{
+  "id": "artic-14655",
+  "day": "03-19",
+  "title": "Two Sisters (On the Terrace)",
+  "artist": "Pierre-Auguste Renoir",
+  "date": "1881",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "Two girls in bright clothing sit together on a terrace beside the water, one in a hat trimmed with flowers, with a basket and leafy plants near them. Red and blue dabs of paint stand out against the green and water behind.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/14655",
+    "objectId": "14655",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (sisters, girls, lake, water, trees, buildings, basket, hat, flowers, red, blue), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the French artist Pierre-Auguste Renoir, dated 1881. The Art Institute's subject terms list sisters, a lake, trees, a basket, a hat and flowers. Renoir was a leading Impressionist, a group of painters who captured light and everyday moments.",
+  "descriptions": {
+    "k": "Two girls sit outside near the water. One wears a hat with flowers. There is a basket and lots of plants. The paint is soft and bright. Which colors do you see the most? Do you feel sunny and warm?",
+    "g12": "Pierre-Auguste Renoir painted two girls on a terrace by the water. One has a hat with flowers, and a basket sits nearby. His quick, soft brushstrokes make the picture shimmer. Where do you see red? Where do you see blue? Does it feel like a happy day?",
+    "g35": "Pierre-Auguste Renoir painted Two Sisters (On the Terrace) in 1881. It shows two girls outdoors with flowers, a basket, trees, and water behind them. He used quick, short brushstrokes that blend in your eye, a style called Impressionism. Find where red and blue appear. How do they make the picture feel lively?",
+    "g68": "Renoir's Two Sisters (On the Terrace), from 1881, shows two girls on a terrace overlooking water, with a basket, flowers, and leafy plants. Impressionists like Renoir used visible, feathery brushstrokes to capture light and atmosphere. Red and blue stand out strongly against greens. How do the colors and the closeness of the girls shape the mood, and what story might you invent about them?",
+    "g910": "In Two Sisters (On the Terrace) (1881), Renoir uses feathery brushwork and vivid complementary contrasts, notably red against green and blue, to convey sunlit leisure. The close grouping of the two girls, the basket, and flowers creates a contained, intimate scene before a softly painted backdrop of water and foliage. How does Renoir use color and brushwork to turn an everyday moment into something celebratory, and what does this suggest about Impressionist priorities?",
+    "g1112": "Two Sisters (On the Terrace) exemplifies Renoir's early 1880s balance of Impressionist color and a more sculpted figural treatment. The saturated reds and blues, set against green foliage and shimmering water, give a sense of leisure, while the figures remain carefully drawn. The title and subject leave the girls' story open. How might viewers differ in reading this painting as portrait, genre scene, or study of color, and what evidence supports each?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the two girls. What do you think they are doing?",
+      "emotion": "Do you feel happy, calm, or sleepy when you look? What do you see that tells you?",
+      "observation": "Find the hat, the basket, and the flowers. Which one do you spot first?",
+      "analysis": "Which part of the terrace catches your attention first? What makes it stand out?",
+      "line": "The brushstrokes are short and soft. Can you move your finger like a tiny brush?",
+      "shape": "Look at the girls' shapes. Can you find a circle in the picture?",
+      "color": "Where do you see red? Where do you see blue?",
+      "texture": "Does the paint look fluffy or hard? Tell us what you see.",
+      "space": "How close are the girls to us? What is behind them?",
+      "light": "Does it look like a sunny day or a cloudy day? What tells you?",
+      "meaning": "Why might someone paint two sisters together?",
+      "culture": "People long ago went out to terraces and gardens for fun. Where do you like to sit outside?",
+      "technique": "Renoir used small dabs of paint. What do you think happens if you put red next to green?",
+      "personal": "Do you have a sibling or a friend you sit close with? How would you paint them?",
+      "critical": "What would you say if you sat on the terrace with these girls?"
+    },
+    "g12": {
+      "daily": "Look at the girls' faces and the way they sit. What are they feeling?",
+      "emotion": "Which colors make the painting feel warm and cheerful?",
+      "observation": "List four things you see in the painting besides the girls.",
+      "analysis": "How does Renoir make the girls stand out from the leaves and water behind them?",
+      "line": "Which brushstrokes look short and quick, and which look longer?",
+      "shape": "How do the soft round shapes of the girls and hats fit with the leafy shapes behind them?",
+      "color": "Red and green are opposites on the color wheel. How does Renoir use them to make each one pop?",
+      "texture": "How does the paint make the leaves and the girls' clothes look different?",
+      "space": "The girls sit in front, and the water is far behind them. How can you tell?",
+      "light": "Where does the sunlight seem to touch the girls and the plants?",
+      "meaning": "What kind of day do you think this is, and what makes you think so?",
+      "culture": "People in France in the 1880s liked to relax by the water. What clues in the painting show that?",
+      "technique": "Renoir did not use sharp outlines everywhere. How does that change how the picture feels?",
+      "personal": "How would you pose with a friend or family member in a painting of your own?",
+      "critical": "Does a painting have to tell a story to be interesting? Use this painting in your answer."
+    },
+    "g35": {
+      "daily": "What clues in the girls' poses and clothing show how they relate to each other?",
+      "emotion": "How would you describe the mood of the painting, and which colors or brushstrokes create it?",
+      "observation": "Look slowly at the background. What details do you notice only after the girls?",
+      "analysis": "How does Renoir place the girls, the basket, and the flowers to guide your eyes around the picture?",
+      "line": "How does the feathery brushwork soften the edges of figures, leaves, and water?",
+      "shape": "How do the curves of the hats, flowers, and bodies repeat across the scene?",
+      "color": "How does Renoir use red and blue against the greens to make the girls stand out?",
+      "texture": "How do the visible brushstrokes create texture in the foliage compared with the faces?",
+      "space": "How does the terrace lead you from the foreground girls to the water and trees behind?",
+      "light": "How does sunlight seem to fall on the clothes and leaves, and how do you know?",
+      "meaning": "What might this painting say about leisure and childhood in 1880s France?",
+      "culture": "Why might Impressionist painters like Renoir choose everyday outdoor scenes instead of historical ones?",
+      "technique": "How does painting quickly with small strokes help capture the look of changing light?",
+      "personal": "How does the idea of paired siblings connect to your own experience?",
+      "critical": "What is the difference between a portrait and a scene of daily life, and where does this painting fall?"
+    },
+    "g68": {
+      "daily": "What do the girls' closeness and clothing suggest about their relationship, and what do you still not know?",
+      "emotion": "How do the colors and brushwork create a mood of leisure, and what might change that mood?",
+      "observation": "Describe the girls, the basket, and the flowers. Which detail rewards a second look?",
+      "analysis": "How does Renoir arrange the figures and accents of red to lead your eye around the picture?",
+      "line": "How do the soft, feathery strokes make edges of figures, leaves, and water blend?",
+      "shape": "How do the round shapes of hats and flowers echo each other across the picture?",
+      "color": "How does Renoir use red against green and blue to make parts of the painting glow?",
+      "texture": "How does the paint texture of foliage differ from the paint of faces and clothes?",
+      "space": "How does the terrace set the girls in the foreground and the water far behind them?",
+      "light": "How does the painting suggest sunlight without dark, heavy shadows?",
+      "meaning": "How might Renoir be celebrating a simple, pleasant moment, and what might some viewers want from the painting instead?",
+      "culture": "Why might Impressionist painters like Renoir paint daily life and leisure outdoors?",
+      "technique": "How does painting with quick, small strokes help capture the changing look of light?",
+      "personal": "What moment in your own life would you paint in the same cheerful way?",
+      "critical": "Is a bright, pleasant painting less serious than a dark one? Explain using this painting."
+    },
+    "g910": {
+      "daily": "How does the intimate grouping of the sisters shape your sense of the relationship between them?",
+      "emotion": "How do saturated hues and soft brushwork create a mood of leisure, and what might complicate that reading?",
+      "observation": "Analyze background details, such as foliage and water, and what they add to the foreground scene.",
+      "analysis": "How does Renoir use the figures and the red accents to set up a hierarchy within the composition?",
+      "line": "How does the feathery, broken brushwork dissolve contour while still keeping the figures readable?",
+      "shape": "How do repeating curves in hats, flowers, and bodies unify the foreground and background?",
+      "color": "Discuss how complementary contrasts of red and green or blue intensify each hue and drive the picture's energy.",
+      "texture": "How do variations in brush handling differentiate skin, fabric, and foliage, and what do they reveal about Renoir's attention?",
+      "space": "How does the shallow terrace plane connect to the receding landscape to produce depth?",
+      "light": "How does the painting suggest outdoor light without strong cast shadows?",
+      "meaning": "What might the painting suggest about class, leisure, and childhood in 1880s France, and what should not be assumed?",
+      "culture": "How does the Impressionist emphasis on modern life and outdoor light appear here?",
+      "technique": "How does Renoir's technique balance spontaneity with deliberate arrangement of color?",
+      "personal": "How does your own relationship to color influence how you respond to the painting's brightness?",
+      "critical": "How would you evaluate the claim that Renoir's work values charm and beauty over social or psychological depth?"
+    },
+    "g1112": {
+      "daily": "How does the compositional pairing of the girls influence whether you read the work as a portrait of individuals or a type of sisterhood?",
+      "emotion": "How do vivid color and soft facture produce leisure, and which details might unsettle a purely sunny reading?",
+      "observation": "Examine the relationship between figures and setting. How does Renoir integrate them, and where does he separate them?",
+      "analysis": "Analyze the compositional hierarchy established by color accents, placement, and the cropped terrace edge.",
+      "line": "How does Renoir's dissolved contour and feathery brushwork exemplify Impressionist priorities, and how does it differ from his more linear later work?",
+      "shape": "How do repeating curved motifs create harmony between figures and the surrounding landscape?",
+      "color": "Evaluate how complementary relationships and adjacent hues build luminosity without strong value contrast.",
+      "texture": "What does the variable handling of paint, smooth in some passages and broken in others, reveal about the painter's decisions?",
+      "space": "How does the spatial transition from terrace to water complicate a simple foreground and background reading?",
+      "light": "How does Renoir suggest sunlight through color temperature rather than cast shadow, and with what implications for naturalism?",
+      "meaning": "How might class and leisure inform the painting's reception, and how could you avoid assumptions the evidence cannot support?",
+      "culture": "Where does the work align with and where does it depart from Impressionism's interest in fleeting effects?",
+      "technique": "What is the consequence of Renoir's pursuit of charm and surface harmony for how we judge the painting's seriousness?",
+      "personal": "How do your assumptions about a pleasing, popular picture shape what you expect it to be capable of?",
+      "critical": "In what ways might Renoir's reputation as a painter of pleasant subjects limit or enrich a critical reading of this work?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (sisters, girls, lake, water, trees, buildings, basket, hat, flowers, red, blue) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1881 by Pierre-Auguste Renoir, a founding Impressionist, in oil on canvas. The museum lists sisters, a lake, trees, a basket, a hat and flowers. Teachers may wish to note that the title is the museum's.",
+    "vocabulary": [
+      "Impressionism",
+      "complementary colors",
+      "brushwork",
+      "terrace",
+      "genre scene",
+      "palette"
+    ],
+    "directions": [
+      "Have students use dabs of red and green paint side by side and look at them from far away to see how the colors interact.",
+      "Ask students to invent a short story for the two sisters using at least three visual details.",
+      "Discuss how a painting of everyday leisure compares with a formal portrait."
+    ]
+  }
+}

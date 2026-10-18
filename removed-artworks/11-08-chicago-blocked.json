@@ -1,0 +1,158 @@
+{
+  "id": "artic-19339",
+  "day": "11-08",
+  "title": "Arlésiennes (Mistral)",
+  "artist": "Paul Gauguin",
+  "date": "1888",
+  "medium": "Oil on jute canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/ae6ac285-6887-dd76-4570-d379c786dfae/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "Women in dark clothing walk together in a garden with bushes, a fence, a path and a pool of water, in bold flat colors of blue, red and orange.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/19339",
+    "objectId": "19339",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (women, fences, paths, water, foliage, bushes, garden, leisure, landscapes, blue, red, orange), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on jute canvas by Paul Gauguin, dated 1888, painted in Arles in the south of France. The title refers to women of Arles, and Mistral is the name of a strong, cold wind in that region. The Art Institute's subject terms list women, a garden, bushes, a fence, a path and water.",
+  "descriptions": {
+    "k": "Women walk in a garden. They are in dark clothes. There is a path, a pond, and bushes. The colors are bold: blue, red, and orange. Where are the women going? What do you think they are saying?",
+    "g12": "Paul Gauguin painted women from the town of Arles walking in a garden. He used bold flat colors like blue, red, and orange. The title mentions the mistral, a strong wind. Can you see anything that shows wind? What do you think the women are doing?",
+    "g35": "Paul Gauguin painted Arlésiennes (Mistral) in 1888 in Arles, in the south of France. The title means women of Arles, and the mistral is a strong wind. He painted women in a garden with bushes, a fence, a path, and water, using bold flat colors. Why might Gauguin choose colors for feeling rather than for how things really look?",
+    "g68": "Gauguin painted Arlésiennes (Mistral) in 1888 while staying in Arles. The title names the women of Arles and a strong regional wind, the mistral. The museum lists women, a garden, bushes, a fence, a path, and water. Instead of realistic color, Gauguin used bold flat shapes. How do the colors and the simplified forms change how you see this garden, and what mood do they create?",
+    "g910": "In Arlésiennes (Mistral) (1888), Gauguin uses flat planes of saturated color and simplified contour to turn a garden walk into a nearly decorative composition. The title evokes the women of Arles and the mistral wind. Painted during his stay with Van Gogh, the work shows his move toward Synthetism. How do the flatness and unnatural color shape your reading of the women, the setting, and the mood?",
+    "g1112": "Arlésiennes (Mistral) (1888), made during Gauguin's stay in Arles, reflects his turn from observation toward Synthetist abstraction: flat color zones, bold contour, and compressed space. The title joins a regional identity with a regional wind. Scholars link the work to his dialogue with Van Gogh, yet interpretations of its mood remain open. How do the formal strategies complicate any simple reading of the scene, and what role does the title play?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the women. What are they doing?",
+      "emotion": "Do they look happy, sleepy, or serious? What shows you?",
+      "observation": "Find the path, the pond, and the fence. Which do you see first?",
+      "analysis": "Which parts of the garden are close and which are far away?",
+      "line": "Trace the path with your finger. Where does it go?",
+      "shape": "Find a curved shape. Then find a straight shape.",
+      "color": "Which colors are the boldest? Point to blue, red, or orange.",
+      "texture": "Does the paint look flat or bumpy? Tell us what you notice.",
+      "space": "Where are the women compared with the water?",
+      "light": "Does it look sunny or shady? How do you know?",
+      "meaning": "The title mentions a strong wind. What in the painting shows wind, or does nothing?",
+      "culture": "Gauguin lived in a town in France. What places in your town are good for walking?",
+      "technique": "Gauguin used flat patches of color. How is that different from drawing every leaf?",
+      "personal": "What color would you make the grass if you could pick any color?",
+      "critical": "What would you say if you walked with these women?"
+    },
+    "g12": {
+      "daily": "Look at the way the women stand or walk together. How do they feel?",
+      "emotion": "Is the painting calm or windy? Show us what tells you.",
+      "observation": "List five things you see in the garden.",
+      "analysis": "How does Gauguin make the women the main people in the garden?",
+      "line": "Which lines are curved and which are straight in the path and fence?",
+      "shape": "How do the shapes of the women compare with the shapes of the bushes?",
+      "color": "Gauguin used colors that might not match real life. Which ones surprised you?",
+      "texture": "How does the flat paint make the picture look like a pattern?",
+      "space": "How can you tell some things are far away?",
+      "light": "Where does the light seem to fall?",
+      "meaning": "The title says mistral, a strong wind. Why might Gauguin name it that?",
+      "culture": "Gauguin painted in Arles, France. What might he have wanted to show about the place?",
+      "technique": "Why might Gauguin use flat color instead of shading?",
+      "personal": "If you painted a garden, would you make the colors real or imagined?",
+      "critical": "Does a painting need to match real colors to be true? Explain."
+    },
+    "g35": {
+      "daily": "What details show where the women are and what they are doing? What is unclear?",
+      "emotion": "What feeling does the colorful garden give you, and which colors and shapes cause it?",
+      "observation": "Look slowly at the bushes and water. What small details did you notice last?",
+      "analysis": "How does Gauguin arrange the women, path, fence, and water to guide your eye?",
+      "line": "How do the curved lines of the path and bushes make rhythm?",
+      "shape": "How do the big dark shapes of the women compare with the bright shapes around them?",
+      "color": "How do blue, red, and orange make the garden feel different from real life?",
+      "texture": "How does the flat paint affect how real the garden looks?",
+      "space": "How does the painting show depth even though shapes look flat?",
+      "light": "How does the lack of shadow change the look of the light?",
+      "meaning": "Why might Gauguin title the painting with a wind name?",
+      "culture": "What does the painting tell you about life in a town in southern France in 1888?",
+      "technique": "Gauguin painted this while visiting Van Gogh. How might two artists influence each other?",
+      "personal": "What colors would you pick to show your town in a painting?",
+      "critical": "Is it better for a painting to look real or to look designed? Explain."
+    },
+    "g68": {
+      "daily": "What do the dark clothing and the garden setting suggest about the women, and what is unknown?",
+      "emotion": "What mood do the bold colors create, and how would natural colors change it?",
+      "observation": "Describe the women, the path, and the water in order. Which detail feels most unrealistic?",
+      "analysis": "How does the composition guide your eye from the women to the water and fence?",
+      "line": "How do the bold outlines and curving shapes create decorative rhythm?",
+      "shape": "How do the simplified, flat shapes make the scene resemble a pattern?",
+      "color": "How does Gauguin use color to express mood rather than to describe the scene?",
+      "texture": "How does flat paint application affect the idea of depth?",
+      "space": "How does the stacked space of path, water, and bushes work?",
+      "light": "How does the painting suggest light without cast shadows?",
+      "meaning": "How might the title about wind shape what you look for in the painting?",
+      "culture": "How might Gauguin's stay in Arles, near Van Gogh, have influenced his style?",
+      "technique": "How is Gauguin's flat color different from the dotted color of Seurat or the thick strokes of Van Gogh?",
+      "personal": "What would a realistic version of this garden lose compared with this one?",
+      "critical": "How would you decide whether the women are the main subject or part of a design?"
+    },
+    "g910": {
+      "daily": "How do bold, simplified forms and unnatural color shift the painting from observation to invention?",
+      "emotion": "How does the saturated palette create a mood of mystery or calm, and could it also feel artificial?",
+      "observation": "Examine the placement of the figures against the garden. What do you notice about their relation to the setting?",
+      "analysis": "Analyze how Gauguin structures the painting through zones of color and the sweep of the path.",
+      "line": "How does decorative contour reflect Synthetism and influence from Japanese prints?",
+      "shape": "How do the flat shapes assert the surface of the canvas?",
+      "color": "Evaluate Gauguin's use of expressive color as an alternative to Impressionist optical mixing.",
+      "texture": "What does the visible handling on jute canvas reveal about his technique?",
+      "space": "How does the compression of space shape the viewer's relationship to the scene?",
+      "light": "How does the painting construct light and atmosphere through color alone?",
+      "meaning": "How might the title bring regional identity and weather into the interpretation?",
+      "culture": "How did the exchange between Gauguin and Van Gogh shape the works they made in Arles?",
+      "technique": "How does Gauguin's approach prefigure his later Tahitian work, without assuming a fixed development?",
+      "personal": "How do you weigh formal innovation against what a painting does not show about its subjects?",
+      "critical": "How might knowing that a painting is made on rough jute canvas affect your response?"
+    },
+    "g1112": {
+      "daily": "How does the tension between decorative stylization and regional observation shape the painting's authority?",
+      "emotion": "To what degree does the flattened, saturated palette produce mood, and how might that mood be ambiguous?",
+      "observation": "Analyze how the figures are integrated into, or set against, the flat color zones.",
+      "analysis": "How do path, fence, and water structure a planar composition lacking conventional recession?",
+      "line": "How does decorative contour link Synthetism to non-Western and popular sources?",
+      "shape": "How do flat color fields assert the picture plane, and what do they cost in conventional illusion?",
+      "color": "Evaluate non-naturalistic color as an expressive and symbolic strategy while resisting a single fixed meaning.",
+      "texture": "What does the coarse jute support suggest about Gauguin's materials and his distance from academic finish?",
+      "space": "How does the compression of space draw on Japanese prints, and how do the borrowings function?",
+      "light": "How is light implied through hue relationships, and with what perceptual consequences?",
+      "meaning": "How should the title Arlésiennes (Mistral) be read in terms of regional identity, climate, and the artist's outsider position?",
+      "culture": "How do narratives of Gauguin and Van Gogh's collaboration shape, and perhaps distort, the reading of the work?",
+      "technique": "How does this painting relate to Synthetism's claims about idea over observation?",
+      "personal": "How do your cultural assumptions about picturesque rural subjects influence what you notice?",
+      "critical": "What responsibilities do museums have when presenting works by artists whose perspectives are contested?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (women, fences, paths, water, foliage, bushes, garden, leisure, landscapes, blue, red, orange) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1888 in Arles by Paul Gauguin, in oil on jute canvas. The title refers to women of Arles and the mistral, a strong wind in southern France. The record lists women, a garden, bushes, fences, a path and water; image not visually reviewed.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "Synthetism",
+      "mistral",
+      "flat color",
+      "contour",
+      "jute"
+    ],
+    "directions": [
+      "Have students paint a garden path using only three flat colors and bold outlines.",
+      "Ask students to compare a color photo of a garden with this painting and list what changes.",
+      "Discuss how a painter's title can add information that the image alone does not show."
+    ]
+  }
+}

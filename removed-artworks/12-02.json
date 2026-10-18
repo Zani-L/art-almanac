@@ -1,0 +1,150 @@
+{
+  "id": "met-193904",
+  "day": "12-02",
+  "title": "Snuffbox",
+  "artist": "Joseph Vallayer",
+  "date": "1750–51",
+  "medium": "Gold, enamel",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/39764.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/39764.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small gold box with enamel decoration, shown against a plain background. The decoration includes small figures of people in a landscape.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/193904",
+    "objectId": "193904",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, dimensions, credit line, classification, objectName, tags (Men, Women, Landscapes), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A gold and enamel snuffbox made in 1750–51 by Joseph Vallayer, about 4.1 by 8.3 centimeters. A snuffbox held snuff, powdered tobacco, and the Met's tags indicate that its decoration includes men, women, and landscapes.",
+  "descriptions": {
+    "k": "This small box is made of gold and colored glass. It has tiny pictures of people outdoors. People long ago kept a pinch of powder inside. Can you find a person? Can you find some trees or hills?",
+    "g12": "Joseph Vallayer made this little gold box in 1750 and 1751. It is decorated with enamel, a kind of colored glass baked onto metal. Tiny pictures show men and women in a landscape. The box is only about eight centimeters long. What story could the little people be in?",
+    "g35": "This snuffbox was made by Joseph Vallayer in 1750 and 1751. Snuff is a powdered tobacco, and people carried it in small boxes. This one is gold with enamel, and the pictures on it show men and women in landscapes. It is just 8.3 centimeters long. Why would someone paint a whole scene on something so small?",
+    "g68": "Joseph Vallayer's snuffbox is a miniature picture frame as much as a container. Gold gives the box its shape, while enamel paints small scenes with men and women in landscapes. At about 4.1 by 8.3 centimeters, every figure must be tiny and clear. Snuffboxes were status objects as well as tools, passed around in social settings. How does a scene on a box change the way you notice the object?",
+    "g910": "Made in 1750 and 1751, this snuffbox by Joseph Vallayer shows how decorative arts could carry whole scenes. The gold structure frames enamel pictures of men and women in landscapes, a popular kind of subject in this period. The small scale invites close, private viewing and handling. The record does not explain the scene, so its meaning should be treated as open. Consider how the box works as both a useful container and a miniature picture.",
+    "g1112": "A snuffbox like this one occupies a space between utility and portable art. Vallayer's gold and enamel box, from 1750 and 1751, carries figures in landscapes that may evoke the pastoral or courtly themes popular in the period, but the record does not identify a source or story. Because the box was meant to be handled, opened, and shown, its imagery operated socially as well as visually. How do we read narrative in an object designed to be held rather than hung?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the tiny people on this golden box. What do you think they are doing?",
+      "emotion": "Does this box look cheerful, peaceful, or serious? What tells you?",
+      "observation": "Find a person and a piece of the landscape on the box. What else do you see?",
+      "analysis": "What do your eyes go to first, the tiny people or the gold edge?",
+      "line": "Trace a curvy line from the landscape in the air. Where does it go?",
+      "shape": "The box is long and low. What shapes are in the little pictures?",
+      "color": "What colors are on the box besides gold?",
+      "texture": "The gold and the painted glass are smooth. How would they feel in your hand?",
+      "space": "In the tiny picture, who is near and who is far away?",
+      "light": "Where does the gold shine the most?",
+      "meaning": "Why would someone put a whole scene on a little box?",
+      "culture": "This box was made almost 275 years ago. What small things do people carry today that are decorated?",
+      "technique": "The tiny pictures are painted with glass colors. What would you need to paint so small?",
+      "personal": "What picture would you put on a small box to keep a treasure inside?",
+      "critical": "Is a pocket box with a painted scene a picture or a container? Tell why."
+    },
+    "g12": {
+      "daily": "Tell a short story about the men and women on this snuffbox. What might happen next?",
+      "emotion": "How does the landscape on the box make you feel, calm or busy?",
+      "observation": "List five details you see on the box, from its gold edges to its painted scenes.",
+      "analysis": "How does the gold frame help you look at the tiny pictures?",
+      "line": "Find lines in the landscape that lead your eyes around the picture.",
+      "shape": "The box is long. How do the painted people and landscape fit inside it?",
+      "color": "Which colors in the painting stand out against the gold?",
+      "texture": "Enamel is smooth glass. Which parts of the box look smooth and which look different?",
+      "space": "How does the artist make a tiny landscape look like it goes far back?",
+      "light": "Look at the shine on the gold. How does it help you see the box's shape?",
+      "meaning": "Why might someone want a picture of people outdoors on their snuffbox?",
+      "culture": "Snuffboxes like this were used in the 1750s to hold powdered tobacco. What objects today do people show off to others?",
+      "technique": "Joseph Vallayer worked with gold and enamel. Why would small pictures be hard to make with those materials?",
+      "personal": "What outdoor place would you want to carry with you in a tiny picture?",
+      "critical": "Is a box with a painted scene more special than a plain gold box? Give a reason."
+    },
+    "g35": {
+      "daily": "If you could hold this snuffbox, what would you look at first and what would you notice after a minute?",
+      "emotion": "What mood does the little landscape with people bring to the box?",
+      "observation": "Look for one minute at the pictures. What small details about the people and the land can you find?",
+      "analysis": "How does Vallayer use the gold structure to separate and frame the painted scenes?",
+      "line": "How do the lines of the landscape contrast with the straight edges of the box?",
+      "shape": "How do the shapes of people, trees, and hills fit into the rectangular panels of the box?",
+      "color": "How do enamel colors stand out against warm gold?",
+      "texture": "How would polished gold feel different from glossy enamel?",
+      "space": "How do tiny painted landscapes create the feeling of near and far?",
+      "light": "How does shiny gold change as you tilt the box in the light?",
+      "meaning": "Why might a box that holds snuff show people outdoors instead of a pattern?",
+      "culture": "The box was made in 1750 and 1751. What does a decorated pocket box say about how people showed their wealth?",
+      "technique": "Enamel pictures are fired in a kiln. What problems could happen on such a small scale?",
+      "personal": "Think of a small object you own with a picture on it. How is it like this snuffbox?",
+      "critical": "What can the pictures on the box tell us, and what can they not tell us without more information?"
+    },
+    "g68": {
+      "daily": "How does this snuffbox combine the roles of container, jewel, and miniature picture?",
+      "emotion": "How do the landscape and figures set a mood of leisure or calm?",
+      "observation": "Describe the box from its gold edges to the painted scenes. Which details look the most refined?",
+      "analysis": "How does the gold framework control how you look at the enamel scenes?",
+      "line": "How do flowing lines in the landscape contrast with the geometry of the box?",
+      "shape": "How must a painter adapt a scene to the rectangular panels of a box?",
+      "color": "How do enamel colors interact with gold to create richness?",
+      "texture": "How would the smooth enamel and polished metal make the box pleasant to hold?",
+      "space": "How can painters suggest a landscape within a few centimeters?",
+      "light": "Why might reflective gold make the enamel pictures seem to glow?",
+      "meaning": "What might scenes of men and women outdoors suggest about the leisure and ideals of the owner's world?",
+      "culture": "Why were snuffboxes treated as status objects as well as containers in the mid-1700s?",
+      "technique": "What are the challenges of painting detailed figures in enamel, which must be fired?",
+      "personal": "What kind of picture would make a small everyday object feel special for you?",
+      "critical": "How should we interpret figures in a landscape when the record does not explain the scene?"
+    },
+    "g910": {
+      "daily": "How does Vallayer's snuffbox use a small surface to stage a whole scene?",
+      "emotion": "How does the contrast between a tiny pastoral scene and the hard gold frame shape the mood?",
+      "observation": "Describe the hierarchy of the decoration. What draws the eye first and which devices produce that effect?",
+      "analysis": "How do the gold construction and enamel decoration share the work of making the box?",
+      "line": "How do contours in the painted landscape respond to the box's geometry?",
+      "shape": "How do the rectangular panels shape the arrangement of figures and landscape?",
+      "color": "How does enamel's saturated color contrast with metallic gold to create emphasis?",
+      "texture": "How do glassy and metallic surfaces differ in how they handle light and touch?",
+      "space": "How can a tiny enamel scene give an illusion of depth despite its size?",
+      "light": "How does moving reflection across gold and glass change the viewer's experience of the scene?",
+      "meaning": "What might a scene of men and women in a landscape suggest about courtship, leisure, or ideal life, and why is that uncertain here?",
+      "culture": "What does the use of precious metal and enamel for a container of tobacco suggest about the social role of luxury goods around 1750?",
+      "technique": "What does the fine scale of the enamel painting suggest about the maker's skill and the division of labor in workshops?",
+      "personal": "How does a small, private picture differ in effect from a large public one?",
+      "critical": "Does the box's function lower or raise its artistic value? Defend a position."
+    },
+    "g1112": {
+      "daily": "What can be argued about the box's meaning from its visible scenes, and what does the record leave unknown?",
+      "emotion": "How does the idealized, miniature world of the landscape contrast with the object's social function?",
+      "observation": "Describe the box's structure and decoration precisely. Where does description begin to interpret?",
+      "analysis": "Analyze how Vallayer integrates structure and image so that the object works as both container and picture.",
+      "line": "How do the organic lines of landscape and the box's geometry negotiate, and what does that suggest about period design?",
+      "shape": "How do the panels of the box create a series of framed fields for narrative or decorative imagery?",
+      "color": "How does the enamel palette contribute to the box's luxury identity, and how does survival of color affect our view?",
+      "texture": "How do the sensory qualities of metal and glass participate in the box's role as an object to be handled?",
+      "space": "How does the illusion of landscape depth operate at this scale, and how does it relate to larger painting traditions?",
+      "light": "How does an object designed to be turned in the hand differ from a still image in how it uses light?",
+      "meaning": "How do we separate generic pastoral conventions from specific narratives in enamel decoration?",
+      "culture": "How does the snuffbox, as an accessory of sociability, reveal the intersection of luxury goods, gender, and display?",
+      "technique": "What does the combination of gold work and enameling suggest about workshop networks in the mid-eighteenth century?",
+      "personal": "How do your own attitudes toward luxury and tobacco affect how you read an object like this?",
+      "critical": "What are the risks of interpreting small decorative scenes without documentary evidence, and how can they be reduced?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Metalwork-Gold and Platinum), objectName (Snuffbox), medium (gold, enamel), and tags (Men, Women, Landscapes) checked against the museum record: no flagged terms. The image file itself was not visually inspected in this build, so the figures and scenes are described only at the level of the tags. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A gold and enamel snuffbox made in 1750–51 by Joseph Vallayer, with decoration tagged as men, women, and landscapes. Snuff is powdered tobacco; teachers may wish to keep the focus on craft and social display.",
+    "vocabulary": ["snuffbox", "enamel", "landscape", "panel", "miniature scene", "goldsmith"],
+    "directions": [
+      "Compare this box with the fruit and flower snuffbox in the archive to discuss two kinds of decoration on the same type of object.",
+      "Ask students to design a scene that fits a long, low panel and explain what they must leave out.",
+      "Discuss why people choose pictures for objects they carry every day."
+    ]
+  }
+}

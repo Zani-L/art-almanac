@@ -1,0 +1,150 @@
+{
+  "id": "met-659455",
+  "day": "07-31",
+  "title": "Pentedatelo, Calabria, Italy",
+  "artist": "Edward Lear",
+  "date": "1847 (?)",
+  "medium": "Watercolor over graphite",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP842166.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP842166.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mr. and Mrs. James Gordon Douglas III, 2014",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A watercolor over pencil of a place in Calabria, southern Italy, showing buildings set in a rugged landscape. The colors are soft and earthy, and pencil lines can be seen beneath the paint.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/659455",
+    "objectId": "659455",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Buildings, Landscapes), classification, and image URLs read from the record"
+  },
+  "context": "A watercolor over graphite by Edward Lear, the English artist and writer (1812–1888) also famous for his nonsense verse. The Met's record gives the place as Pentedatelo in Calabria, Italy, and dates the sheet 1847 with a question mark, so the date is not certain.",
+  "descriptions": {
+    "k": "This picture shows a place in southern Italy. There are buildings in a wild, rocky landscape. The artist used soft paint and pencil. Can you find the buildings? How do you think it feels to be there?",
+    "g12": "Edward Lear painted this place in Calabria, in southern Italy. You can see buildings and land around them. He drew with pencil first and then added watercolor. Lear also wrote funny poems! What do you think it would be like to walk through this place?",
+    "g35": "Edward Lear was an English artist who traveled to many places and painted what he saw. He is also famous for his silly poems. This watercolor over pencil shows Pentedatelo, a place in Calabria, Italy, with buildings and landscape. The date has a question mark because experts are not sure of it. What can the pencil lines and colors tell you about how Lear worked outdoors?",
+    "g68": "Lear was a traveling landscape painter who sketched places across Europe and the Mediterranean, then made watercolors from his drawings. This sheet shows Pentedatelo in Calabria, a region of southern Italy. The date in the record is 1847 with a question mark, so scholars are not certain. Notice the graphite lines under the paint. How does a travel picture work as both a memory and a record?",
+    "g910": "In this watercolor of Pentedatelo, Lear combines graphite drawing with transparent washes to describe a built place within its landscape. Lear, known to many readers as a writer of nonsense verse, was also a skilled topographical painter who traveled widely. The Met's record gives the date as 1847 with a question mark, a reminder that attribution of dates is sometimes uncertain. Consider how the sheet balances accurate description of a site with a personal sense of its character.",
+    "g1112": "Lear's view of Pentedatelo belongs to the tradition of nineteenth-century topographical watercolor, in which artists traveled to less visited places and recorded them for collectors, publishers, and themselves. The Met's date, 1847 with a query, signals scholarly caution. The combination of graphite and watercolor shows both the on-site drawing and the studio-like finish. Consider how the picture serves as evidence of a place, how it reflects an English traveler's eye on southern Italy, and what such views can and cannot tell us."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you visited this place, what would you do first?",
+      "emotion": "Does this place feel sunny and peaceful, or lonely and wild? Tell us why.",
+      "observation": "What buildings and land shapes can you find? Point to three things.",
+      "analysis": "Which part of this hillside place do your eyes visit first? What made you look?",
+      "line": "Can you find a pencil line under the paint? Where is it?",
+      "shape": "What shapes make up the buildings? Are they boxes, triangles, or something else?",
+      "color": "Which colors look like earth and rock? Which colors look like sky or plants?",
+      "texture": "How would the stone or ground feel if you touched it? Rough or smooth?",
+      "space": "What is closest to you in the picture, and what is far away?",
+      "light": "Where does the light look brightest in this place?",
+      "meaning": "Who do you think lives in this place? Make up a story.",
+      "culture": "This place is in southern Italy. What do you know about places in other countries that look different from home?",
+      "technique": "The artist drew in pencil first and then painted. Why might he draw first?",
+      "personal": "What is the most interesting place you have visited? Tell about it.",
+      "critical": "The artist chose to paint this place and not another. Why do you think he picked it?"
+    },
+    "g12": {
+      "daily": "What do the buildings and the land tell you about this place in Italy?",
+      "emotion": "How do you feel looking at this view, calm, curious, or lonely? Which part makes you feel that?",
+      "observation": "Describe the buildings and the land around them. What colors and shapes do you notice?",
+      "analysis": "How are the buildings placed in the landscape? Do they seem to fit in, or stand out?",
+      "line": "Where do you see pencil lines, and where does paint cover them? What do the lines show?",
+      "shape": "Look for the biggest shape and the smallest shape in the picture. How do they compare?",
+      "color": "Which colors look natural, like earth and stone? Where do you see softer colors?",
+      "texture": "Where does the land look rough and where does it look smooth? How can you tell?",
+      "space": "Which parts look near and which parts look far away? How does the artist show it?",
+      "light": "Where is the light strongest? Where are the shadows?",
+      "meaning": "Why might a traveler want to paint a place like this for people at home?",
+      "culture": "Lear came from England and painted places in Italy. What can a visitor notice that a person who lives there might not?",
+      "technique": "The watercolor is thin so you can still see pencil. Why might that be useful for a travel picture?",
+      "personal": "If you could send a painted postcard of a place you love, where would it show?",
+      "critical": "The date has a question mark. Why might people be unsure when a picture was made?"
+    },
+    "g35": {
+      "daily": "What details in this watercolor help you understand what Pentedatelo is like?",
+      "emotion": "How would you describe the mood of this view, and what choices by Lear help create it?",
+      "observation": "After a minute of looking, what small details in the buildings or landscape did you notice only later?",
+      "analysis": "How does Lear arrange the buildings and the landscape so you understand how the place is shaped?",
+      "line": "Where can you see the first pencil drawing, and how does it guide the painted areas?",
+      "shape": "Which shapes show things made by people and which show shapes of nature? How do they differ?",
+      "color": "How do the earthy colors help the place feel believable? Where do other colors stand out?",
+      "texture": "How does Lear suggest rock, walls, and roofs with different kinds of brush marks?",
+      "space": "How does he show distance, from the nearest part of the scene to the farthest?",
+      "light": "Where does light seem to fall, and how does it change the colors of walls and land?",
+      "meaning": "Lear traveled to record places for others to see. What does this picture tell us about what a traveler thought was worth recording?",
+      "culture": "Many English artists in the 1800s traveled to Italy. How might they see a place differently from the people who lived there?",
+      "technique": "Lear often sketched on location and finished later. How might that change the look of the picture?",
+      "personal": "Think of a place you can describe to someone far away. What would you need to show?",
+      "critical": "Is a travel picture more reliable than a photograph, or less? Explain using this sheet."
+    },
+    "g68": {
+      "daily": "How does Lear show both the buildings and the land so that the place feels specific and not generic?",
+      "emotion": "What feeling of remoteness or beauty does the picture convey, and which visual choices support it?",
+      "observation": "Describe the sheet from foreground to background. Where is detail strongest, and where is it only suggested?",
+      "analysis": "How does the composition lead the eye through the scene, and what is the relationship between structures and terrain?",
+      "line": "How do visible graphite lines reveal the structure of the scene and Lear's working process?",
+      "shape": "How do angular forms of buildings contrast with natural shapes of the land?",
+      "color": "How does an earthy, restrained palette shape the picture's tone and sense of place?",
+      "texture": "Which marks suggest rough stone or ground, and which suggest smoother surfaces such as walls or sky?",
+      "space": "How do overlapping forms and changes of tone create depth across the sheet?",
+      "light": "How does Lear indicate the time of day or the direction of the light from the shadows and colors?",
+      "meaning": "Why might a visitor choose to record a smaller place in southern Italy instead of a famous city?",
+      "culture": "How might an English traveler's view of southern Italy in the 1800s reflect his own expectations about the place?",
+      "technique": "What are the advantages of watercolor over graphite for an artist who needs to work quickly and carry little?",
+      "personal": "How would you record a place you visited so that you could remember it years later?",
+      "critical": "The Met gives the date as 1847 with a question mark. How should uncertainty about a date affect how confidently we talk about the sheet?"
+    },
+    "g910": {
+      "daily": "How does the sheet convey the character of a place through the relation between built forms and terrain?",
+      "emotion": "How do tone and composition shape the emotional register of a remote, little-visited place?",
+      "observation": "Describe the visual hierarchy: what dominates the sheet, and which elements recede?",
+      "analysis": "Analyze how Lear organizes the scene so that structures and landscape support each other.",
+      "line": "How does the underlying graphite function in the finished image, and what does it show about process?",
+      "shape": "How do the geometry of buildings and irregular natural forms create tension or harmony?",
+      "color": "How does the controlled palette support both topographical accuracy and atmosphere?",
+      "texture": "How do variations in brushwork indicate different materials without descriptive detail everywhere?",
+      "space": "How does Lear achieve recession using tonal modulation and overlapping, and where does the sheet remain flat?",
+      "light": "How does the treatment of light locate the scene in time and weather?",
+      "meaning": "Does the sheet read as documentation, souvenir, or aesthetic exploration? Which visual evidence supports each reading?",
+      "culture": "How might the habits of the Grand Tour and later travel culture influence the choice of subjects like this one?",
+      "technique": "How does the combination of graphite drawing and watercolor wash support a workflow of on-site sketch and later finish?",
+      "personal": "How does knowing an artist is also famous for humorous verse affect, or not affect, how you approach this serious landscape?",
+      "critical": "What are the risks of treating a traveler's picture as an objective record of a place?"
+    },
+    "g1112": {
+      "daily": "How does this sheet negotiate between topographical record and personal response, and where is that negotiation most visible?",
+      "emotion": "How can a documentary-seeming landscape still carry affect, and what in the sheet supports that?",
+      "observation": "Describe the sheet's physical facts, including graphite and watercolor, before interpreting. Where does description shade into claim?",
+      "analysis": "How do the formal relationships of structure to terrain create a legible but not diagrammatic view?",
+      "line": "How does the visible graphite register the sheet's process, and what might be lost in a heavily finished version?",
+      "shape": "How do contrasts of regular and irregular forms articulate the character of the site?",
+      "color": "How does the palette balance local observation with the conventions of picturesque watercolor?",
+      "texture": "How does brush handling construct a plausible material world, and what does it leave unspecified?",
+      "space": "How does the sheet manage depth through atmosphere and overlap, and what is the viewer's implied position?",
+      "light": "How might light and weather in a travel watercolor serve as both observation and convention?",
+      "meaning": "How might an English artist's views of southern Italy in the 1840s participate in wider narratives about the region, and how cautious should we be in reading them into one sheet?",
+      "culture": "How do travel writing and topographical art inform one another in Lear's career, and what does this suggest about audience?",
+      "technique": "What can the combination of media and the uncertain date (1847 with a query) tell us about the limits of attribution and dating from a record alone?",
+      "personal": "How do your own travel images, such as photographs, shape expectations of what a view should show, and how does this sheet differ?",
+      "critical": "What standards should we apply to travel images that function both as evidence and as artworks?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Buildings, Landscapes), medium, and classification (Drawings) checked against the Met record; no sensitive tags present. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Edward Lear (1812–1888) was an English artist and writer, famous both for nonsense verse and for travel landscapes. The Met's date, 1847 with a question mark, shows that the date is uncertain.",
+    "vocabulary": ["topographical", "watercolor", "graphite", "Calabria", "landscape", "attribution"],
+    "directions": [
+      "Have students sketch a place in school in pencil first and then add thin watercolor, keeping pencil visible.",
+      "Discuss why a date may be uncertain and what kinds of evidence historians use to place a work in time.",
+      "Compare a travel drawing with a photograph of the same kind of place."
+    ]
+  }
+}

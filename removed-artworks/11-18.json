@@ -1,0 +1,152 @@
+{
+  "id": "met-51497",
+  "day": "11-18",
+  "title": "Bamboo",
+  "artist": "Unidentified artist",
+  "date": "Ming (1368–1644)–Qing (1644–1911) dynasty",
+  "medium": "Album leaf; ink on silk",
+  "movement": "Ming or Qing dynasty ink painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP154410.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP154410.jpg",
+    "credit": "The Metropolitan Museum of Art, John Stewart Kennedy Fund, 1913",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small album leaf painted in black ink on silk showing bamboo, with slender stalks and narrow leaves in darker and lighter tones.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/51497",
+    "objectId": "51497",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist (Unidentified artist), medium, period (Ming (1368-1644)-Qing (1644-1911) dynasty; objectDate field is blank so the period is used as the date), tag (Bamboo), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small album leaf of bamboo painted in ink on silk. The Met lists the artist as unidentified and the period as Ming or Qing dynasty, so neither maker nor exact date is known. In Chinese culture bamboo is admired because it bends in the wind but does not break.",
+  "descriptions": {
+    "k": "This little picture shows bamboo. Bamboo has long, thin stalks and narrow leaves. The painter used black ink. Some parts are dark and some are light. What do you think bamboo would sound like in the wind?",
+    "g12": "Someone in China painted this bamboo with black ink on silk. We do not know who. The stalks stand straight and the thin leaves point in many directions. Some ink is dark and some is pale. Which leaves look closest, and which look farthest away?",
+    "g35": "This album leaf shows bamboo painted in black ink on silk. The Met does not know the painter's name, and it dates the work only to the Ming or Qing dynasty. In China, bamboo is admired because it bends but does not break. Look at how the painter uses dark and light ink to show leaves in front and behind. Why paint just bamboo?",
+    "g68": "Bamboo was a favorite subject for Chinese scholar-painters because it stays green in winter and bends without snapping, qualities linked to resilience and integrity. This leaf, by an unknown artist of the Ming or Qing period, uses only ink on silk. Variations of dark and pale ink separate near leaves from distant ones. How can a simple plant carry ideas about character?",
+    "g910": "Bamboo painting developed as a discipline in which brushwork, close to calligraphy, could express a painter's skill and values. This anonymous leaf from the Ming or Qing dynasty uses ink on silk to render stalks and leaves in layered tones. The artist and date remain uncertain. Consider how single strokes form leaves, how dark and pale ink create depth, and how an unidentified hand still conveys training.",
+    "g1112": "Bamboo occupies a special place in Chinese painting, as a subject whose painted forms are closely related to calligraphic strokes and whose traits are commonly linked to moral qualities. This anonymous leaf, assigned broadly to the Ming or Qing dynasty, shows how much can be inferred from visual evidence even without a name or precise date. How do tone, stroke, and format convey skill, and what must remain speculation about intent and meaning?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the bamboo leaves. Which ones look the darkest, and which look the lightest?",
+      "emotion": "Does the bamboo feel calm or windy? What do you see that tells you?",
+      "observation": "Look for thin leaves and straight stalks. Can you point to each?",
+      "analysis": "Where do your eyes go first in this bamboo picture? Why?",
+      "line": "Trace a bamboo leaf in the air. Is it short, long, curved, or straight?",
+      "shape": "Bamboo leaves are long and pointy. Where do you see many pointy shapes together?",
+      "color": "The picture uses black ink only. How many shades of gray can you find?",
+      "texture": "Would bamboo feel smooth or rough? What do the marks show?",
+      "space": "Is there a lot of empty space around the bamboo? How does that feel?",
+      "light": "Which leaves look like they are in the light, and which look in the shade?",
+      "meaning": "Bamboo bends but does not break. What does that remind you of?",
+      "culture": "Bamboo grows in China, and people painted it for hundreds of years. Why do you think it was liked so much?",
+      "technique": "Each leaf was made with one quick brush stroke. Try a quick stroke in the air.",
+      "personal": "What plant near your home do you like to look at? Why?",
+      "critical": "We do not know who painted this. Does that change how you feel about it?"
+    },
+    "g12": {
+      "daily": "Look at how the leaves cross and overlap. How does the painter show that some leaves are in front?",
+      "emotion": "What feeling does the bamboo give you, calm, fresh, or windy? Point to a clue.",
+      "observation": "Describe the stalks and leaves. How are they alike and how are they different?",
+      "analysis": "How does the painter arrange the leaves so the picture does not feel too crowded?",
+      "line": "Compare the long stalk lines with the short leaf strokes. How do they differ?",
+      "shape": "What shapes repeat in the bamboo? How do they make a pattern?",
+      "color": "The ink is dark in some leaves and pale in others. What does that do for the picture?",
+      "texture": "How does the painter make the stalks look hard and the leaves look light?",
+      "space": "How does the empty silk help you see the bamboo better?",
+      "light": "Which leaves look brighter, and which look shadowed? Why do you think so?",
+      "meaning": "People saw bamboo as a symbol of being strong but flexible. Why might that be a good quality?",
+      "culture": "Many Chinese painters learned to paint bamboo with just a few brush strokes. Why might that be a good way to practice?",
+      "technique": "Silk is a woven cloth. How might painting on silk be different from painting on paper?",
+      "personal": "What quality do you want to be like, strong, flexible, or calm? How would a plant show it?",
+      "critical": "Can a picture of a plant tell us about a person? Use something you see."
+    },
+    "g35": {
+      "daily": "What details show that the painter understood how bamboo grows and moves?",
+      "emotion": "What mood do the thin, crossing leaves create? Which choices build that mood?",
+      "observation": "Take a quiet minute. What small differences in ink tone or leaf direction did you find?",
+      "analysis": "How does the painter group the leaves so your eyes travel through the picture?",
+      "line": "How do straight stalk lines contrast with the curving leaf strokes?",
+      "shape": "How do the narrow leaf shapes repeat and change direction to create rhythm?",
+      "color": "How can one black ink show leaves that are near and leaves that are far?",
+      "texture": "How does the painter show the difference between the hard stalk and the thin, flexible leaves?",
+      "space": "How does the empty silk give the bamboo room to breathe?",
+      "light": "How does the painter suggest the effect of light and shade on the leaves using ink tone?",
+      "meaning": "Bamboo stands for staying strong when times are hard. How might a painter show that idea through the way leaves bend?",
+      "culture": "The Met cannot say if this is Ming or Qing. What can we learn from a painting even when the artist is unknown?",
+      "technique": "Silk takes ink differently from paper. What might the painter have to be careful about?",
+      "personal": "Think of something you know well enough to draw in a few quick strokes. What is it?",
+      "critical": "Is a simple picture of bamboo less important than a grand landscape? Explain your view."
+    },
+    "g68": {
+      "daily": "How does this leaf make a few leaves and stalks feel like a whole plant?",
+      "emotion": "How do rhythm and tone in the leaves create a feeling of quiet resilience?",
+      "observation": "Describe the overlapping layers of leaves. Which look nearest, and what tells you?",
+      "analysis": "How does the composition balance dense leaf clusters with open silk?",
+      "line": "How do single strokes make a leaf? Where do you see the beginning and end of a stroke?",
+      "shape": "How does repeating a leaf shape in different directions create a pattern that still feels natural?",
+      "color": "How does the range from dark to pale ink produce depth?",
+      "texture": "Which strokes seem fast and which seem slow? What do they suggest?",
+      "space": "How does the painter use the silk's emptiness to make the plant seem airy?",
+      "light": "How do tonal differences suggest air and light moving through the bamboo?",
+      "meaning": "Bamboo's flexibility and straightness were seen as admirable. How might a viewer read this leaf as a portrait of character?",
+      "culture": "Why might scholars prefer painting bamboo to painting grand palaces or battles?",
+      "technique": "Bamboo painting is related to calligraphy. Where can you see leaf strokes that feel like writing?",
+      "personal": "What does it take to master a simple stroke? What is something simple you practiced a lot?",
+      "critical": "With no known artist, how confident can we be about the painting's meaning? What would you want to know?"
+    },
+    "g910": {
+      "daily": "Which visible features show training, even though the painter's name is unknown?",
+      "emotion": "How does the controlled rhythm of leaves create a quiet, composed mood?",
+      "observation": "Describe the visual hierarchy of stalk, leaf clusters, and ground. Which devices create emphasis?",
+      "analysis": "Analyze how overlap and tonal contrast structure the arrangement of bamboo leaves.",
+      "line": "How does the relation between calligraphic stroke and leaf form show the connection between writing and painting?",
+      "shape": "How do the angles of the leaves create rhythm and balance across the leaf?",
+      "color": "How does tonal variation in a single ink build depth and emphasis?",
+      "texture": "How does the painter suggest varied surfaces of stalk, leaf, and ground through brush pressure and speed?",
+      "space": "How does the unpainted silk define the composition as much as the painted forms?",
+      "light": "How does ink gradation suggest light, shade, and air?",
+      "meaning": "How might the bamboo's traditional associations with integrity inform a reading, and where does that remain tentative?",
+      "culture": "How does bamboo painting's link to scholar culture help explain its popularity in the Ming and Qing periods?",
+      "technique": "How does the economy of the single-stroke leaf demonstrate skill and discipline?",
+      "personal": "What does repeating a simple action many times teach? How might that show in this leaf?",
+      "critical": "What are the limits of interpreting an anonymous and loosely dated work?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this leaf's visible technique about its maker's training, and what must remain unknown?",
+      "emotion": "How does the restraint of monochrome bamboo complicate the attribution of a single mood?",
+      "observation": "Describe the leaf's rendering of bamboo precisely. When does description begin to interpret?",
+      "analysis": "Analyze how overlap, tone, and void produce spatial order in a small, nearly abstract composition.",
+      "line": "How do bamboo strokes blur the boundary between description and calligraphic gesture?",
+      "shape": "How does the repetition of narrow leaf forms produce an abstract rhythm independent of botanical detail?",
+      "color": "How does tonal modulation in a single ink substitute for color, and how might age affect what we see?",
+      "texture": "How do the traces of brush speed and pressure convey the physicality of the painter's act?",
+      "space": "How does the unpainted silk operate as pictorial space and as potential symbolic emptiness?",
+      "light": "How does ink tone evoke air and light without a defined source?",
+      "meaning": "How do readings of bamboo as moral emblem, calligraphic exercise, or decorative subject compete, and which does the evidence best support?",
+      "culture": "How does the presence of a widely practiced subject like bamboo complicate attribution and dating, as in this Ming-or-Qing leaf?",
+      "technique": "What does the album-leaf format on silk imply about how and why such paintings were made and kept?",
+      "personal": "How does your own sense of what makes a good mark shape your response to a work with little narrative?",
+      "critical": "How should museums handle works whose artist and date are unknown, and what does that mean for how we interpret them?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, period and tag (Bamboo) in the Met record were checked; the subject is bamboo. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Met lists this leaf as by an unidentified artist and dates it broadly to the Ming or Qing dynasty. It suits a discussion of how we learn from a work without a known maker.",
+    "vocabulary": ["bamboo", "album leaf", "ink tone", "silk", "Ming dynasty", "Qing dynasty"],
+    "directions": [
+      "Have students practice single-stroke leaves with a brush pen and arrange them into a small bamboo.",
+      "Discuss which qualities of a plant might stand for qualities of a person.",
+      "Ask students what a museum should say when it does not know who made something."
+    ]
+  }
+}

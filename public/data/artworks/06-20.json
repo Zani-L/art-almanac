@@ -1,0 +1,159 @@
+{
+  "id": "met-437658",
+  "day": "06-20",
+  "title": "Study for \"A Sunday on La Grande Jatte\"",
+  "artist": "Georges Seurat",
+  "date": "1884",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP259921.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP259921.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Sam A. Lewisohn, 1951",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A sunny riverside park scene where many small figures, men, women, and children, relax and stroll on a grassy bank beside the water. Simplified, almost doll-like forms are placed among trees and patches of light and shade.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437658",
+    "objectId": "437658",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Leisure, Children, Men, Women, Dogs, Monkeys, Rivers), credit line, and image URLs read from the record"
+  },
+  "context": "Georges Seurat made this oil study in 1884 while planning his large painting A Sunday on La Grande Jatte, which shows people relaxing on an island in the Seine near Paris. He made many studies before the final canvas, which is now in Chicago.",
+  "descriptions": {
+    "k": "Many people relax by a river. Some sit. Some walk. A dog and even a monkey are there too. The grass is sunny and the trees make shade. Who would you like to sit next to?",
+    "g12": "Georges Seurat planned a big painting by making this smaller picture first. People spend a Sunday by a river. Grown-ups, children, and animals are all there. The shapes are simple and still. Find a place where sun and shade meet. What would you do on a day like this?",
+    "g35": "Before painting his famous large picture of a park by the Seine, Georges Seurat made studies like this one in 1884. It shows people enjoying a Sunday near the river. The figures look simple and still, almost like cut-out shapes, and the grass and trees are made of many small marks. Why might an artist make a smaller study before the big canvas?",
+    "g68": "In 1884, Seurat began studies for his huge painting of people relaxing on an island in the Seine. This study shows how he explored the composition first: who stands, who sits, where the shadows fall. The figures are simplified and stiff, and the brushwork is carefully controlled. Why might Seurat prefer calm, orderly figures to a lively crowd, and how does a study differ from a final painting?",
+    "g910": "This 1884 study reveals Seurat planning a scene of modern leisure with almost architectural care. Figures are reduced to stable, simplified shapes distributed across bands of light and shadow, and brushwork already moves toward the systematic approach of his later work. Compared with the casual spontaneity of Impressionism, the order here feels deliberate. Consider how the study balances a lively subject with a calm, structured design.",
+    "g1112": "As a study for A Sunday on La Grande Jatte, this work shows Seurat testing a composition whose final form would become a landmark of Post-Impressionism. The rigid poses, simplified silhouettes, and rhythmic alternation of light and shadow suggest an interest in structure over spontaneity, in contrast to Impressionist immediacy. Interpretations of the finished painting range from celebration to quiet critique of modern leisure; how much of that tone is already present in this preparatory stage?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who would you like to sit next to by the river? Why?",
+      "emotion": "Does this park feel calm or noisy? What helps you decide?",
+      "observation": "Find a man, a woman, a child, and a dog. Where are they?",
+      "analysis": "Which people are standing and which are sitting? What do you notice?",
+      "line": "Look for the line where the grass meets the water. Is it straight or curved?",
+      "shape": "The people are simple shapes. Can you find one that looks like a tall triangle?",
+      "color": "Find sunny colors and shady colors. Where do they sit side by side?",
+      "texture": "The picture is made of many tiny marks. How would the grass feel?",
+      "space": "Who is close to you and who is far away? How can you tell?",
+      "light": "Show us where the sun is shining and where the shade is.",
+      "meaning": "What do you think people on a Sunday afternoon like to talk about?",
+      "culture": "People in Paris went to the river on Sundays long ago. Where do people go to relax near you?",
+      "technique": "The painter made this small picture before a big one. Why might you practice before a big job?",
+      "personal": "What do you like to do on a free sunny day?",
+      "critical": "The people are very still. Do you think that makes the picture feel peaceful or strange?"
+    },
+    "g12": {
+      "daily": "What do you think each group of people is doing? Pick two and tell their story.",
+      "emotion": "How does a quiet Sunday feel in this picture? Which parts help you feel that?",
+      "observation": "List five things you see, from people to trees to the river.",
+      "analysis": "How does the artist spread the people across the picture so it feels balanced?",
+      "line": "Look at the tree trunks and the standing people. How do their straight lines feel?",
+      "shape": "The figures are simple and smooth. How do they differ from the leafy trees?",
+      "color": "Where do you see patches of bright sun and cool shade? How do they sit next to each other?",
+      "texture": "How do the tiny marks of paint make the grass look different from the water?",
+      "space": "How can you tell some people are far away? Think about their size and place.",
+      "light": "How does the artist show light coming through the trees?",
+      "meaning": "Why might Seurat show people resting instead of working?",
+      "culture": "Many Parisians visited parks and rivers on Sundays. What does this picture show about how they relaxed?",
+      "technique": "This is a study. How is a study different from a finished painting?",
+      "personal": "If you were in this park, where would you sit and why?",
+      "critical": "The people look stiff. Why might the artist have wanted that?"
+    },
+    "g35": {
+      "daily": "Imagine entering this scene. Which group of people would you approach first, and what in the picture draws you there?",
+      "emotion": "How would you describe the mood of this park? Choose two details that create it.",
+      "observation": "Take one minute to count the different kinds of people and animals you can find. What did you notice that you missed at first?",
+      "analysis": "How does Seurat arrange people so that the picture feels organized rather than crowded?",
+      "line": "How do vertical figures and tree trunks contrast with the horizontal river and grass?",
+      "shape": "How does Seurat simplify people into basic shapes, and how does this change how they feel?",
+      "color": "How do the bright, sunlit patches and cooler shadows divide the picture into zones?",
+      "texture": "How does he suggest grass and leaves using tiny marks instead of smooth blending?",
+      "space": "How does Seurat suggest depth by changing the size and placement of figures?",
+      "light": "How do patches of shade and sunlight create a pattern across the ground?",
+      "meaning": "Some people see this scene as relaxing, and others see a quiet distance between the figures. What do you see?",
+      "culture": "The island in the Seine was a place where Parisians went to enjoy their free time. What does that tell you about city life then?",
+      "technique": "Seurat made many small studies for his big painting. How might studies help an artist solve problems?",
+      "personal": "Think about a place where you spend time with others but also quietly alone. How is it like this park?",
+      "critical": "Is the picture more about people or about design? Use details to support your answer."
+    },
+    "g68": {
+      "daily": "How does Seurat turn a simple Sunday outing into a carefully designed picture?",
+      "emotion": "The mood is peaceful, but the figures seem distant from each other. How does the artist create both feelings?",
+      "observation": "Sort the figures into groups by pose and activity. What patterns do you find?",
+      "analysis": "How does Seurat use repetition and spacing to organize a large cast of figures?",
+      "line": "How do vertical forms create rhythm across the horizontal bands of land and water?",
+      "shape": "How are the simplified figures like pieces in a larger pattern?",
+      "color": "How does he place sunlit and shadowed areas next to each other to create contrast and structure?",
+      "texture": "How do small, controlled marks create a different surface from the rapid strokes of most Impressionists?",
+      "space": "How does the placement of people from foreground to distance create layers of space?",
+      "light": "How does the pattern of light and shadow divide the scene into stages, and how does that guide your eye?",
+      "meaning": "Why might Seurat have chosen modern leisure as a subject for a serious, monumental painting?",
+      "culture": "What does this study suggest about class, leisure, and city life in 1880s Paris, and what should we be careful not to assume?",
+      "technique": "How is a study useful for testing composition, and what does it show that a final painting might hide?",
+      "personal": "What would it be like to be one of the small figures in this crowd? Which one would you choose?",
+      "critical": "Does the stiffness of the figures make them seem less alive or more like symbols? Defend your view."
+    },
+    "g910": {
+      "daily": "How does the structured, still arrangement of figures change the meaning of a lively Sunday scene?",
+      "emotion": "How does the design generate a mood of calm and detachment rather than spontaneity?",
+      "observation": "Describe the arrangement of figures and light zones. What devices keep a busy subject orderly?",
+      "analysis": "Analyze how Seurat balances individual figures with the overall pattern of the picture.",
+      "line": "How do vertical and horizontal elements form a framework that stabilizes the composition?",
+      "shape": "How do simplified silhouettes link the figures to the formal design rather than to individual personality?",
+      "color": "How does the juxtaposition of sunlit and shaded areas, rather than gradual blending, build the structure of the scene?",
+      "texture": "How do controlled, small marks of paint create a uniform surface across different materials?",
+      "space": "How does Seurat build recession while also emphasizing the flat pattern of the canvas?",
+      "light": "How does his treatment of light differ from the transient, spontaneous effects of earlier Impressionist painting?",
+      "meaning": "How might a viewer read this scene as celebration, observation, or critique of modern leisure, and what limits those readings?",
+      "culture": "How does the picture reflect the growth of suburban leisure for urban populations in 19th-century France?",
+      "technique": "How does preparing studies reflect a different idea of painting than quick, on-the-spot sketching?",
+      "personal": "How does a carefully ordered scene affect your sense of the people in it compared with a candid snapshot?",
+      "critical": "Seurat is often seen as a scientific painter. What does this study suggest about the balance between method and feeling?"
+    },
+    "g1112": {
+      "daily": "How does this preparatory work already shape a meaning for the final painting, and how would we test that?",
+      "emotion": "How does the study's formal stillness complicate the affective register of a leisure scene?",
+      "observation": "Describe the study's organization precisely, then identify where your description depends on knowing the finished painting.",
+      "analysis": "How do repetition, stasis, and the structure of light and shadow produce a classical order within a modern subject?",
+      "line": "How does the study's emphasis on verticals and horizontals relate to ideas of geometry and permanence?",
+      "shape": "How do simplified figures operate as both individuals and elements of a larger formal system?",
+      "color": "How does the study anticipate Seurat's color theories, and what does the surface show of an experiment in progress?",
+      "texture": "What does the preparatory surface reveal about the transition from impression to system in Seurat's practice?",
+      "space": "How does the study mediate between convincing recession and pattern-like flattening, and why does that matter for the finished work?",
+      "light": "How does the study treat light as structure rather than fleeting phenomenon, and how does this differentiate it from Impressionism?",
+      "meaning": "Compare readings of the finished painting as celebration, irony, or social observation. What can a preparatory study contribute or fail to contribute?",
+      "culture": "How does the study situate modern leisure within debates about class, spectacle, and the representation of Paris?",
+      "technique": "What does studying a study teach us about the gap between artistic planning and finished meaning?",
+      "personal": "How do your own habits of observing crowds shape your reading of figures who seem close but disconnected?",
+      "critical": "What are the limits of interpreting a preparatory work through the lens of the later masterpiece it prepared?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Leisure, Children, Men, Women, Dogs, Monkeys, Rivers), classification (Paintings), and medium checked against the museum record. The subject is clothed people relaxing by a river.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Made in 1884 as preparation for Seurat's large painting of a Sunday on an island in the Seine. Studies like this show how artists plan a composition before the final work.",
+    "vocabulary": [
+      "study",
+      "Post-Impressionism",
+      "composition",
+      "silhouette",
+      "leisure",
+      "oil paint"
+    ],
+    "directions": [
+      "Ask students to make a quick study of a classroom scene before drawing it large, then compare the process.",
+      "Have students count and sort the figures by activity and discuss the pattern they create.",
+      "Discuss what is gained and lost when figures are simplified into shapes."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-437549",
+  "day": "01-26",
+  "title": "Wheat Fields",
+  "artist": "Jacob van Ruisdael",
+  "date": "ca. 1670",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145911.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Benjamin Altman, 1913",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide landscape of golden wheat fields with a road running through them, under a large sky filled with clouds.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437549",
+    "objectId": "437549",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Jacob van Ruisdael was one of the leading landscape painters of the Dutch Golden Age. This large painting, made around 1670, shows a road crossing fields of wheat beneath a wide sky. Dutch landscape painters often gave the sky a big part of the picture.",
+  "descriptions": {
+    "k": "This is a big field of wheat. A road goes through it. Above is a huge sky with clouds. Walk along the road with your eyes. Where does it go? What would you hear there?",
+    "g12": "Golden wheat fills the fields. A road winds through them, and a big sky with clouds stretches above. Ruisdael painted this in the Netherlands long ago. Follow the road with your finger. Is it a quiet place or a busy one? What tells you?",
+    "g35": "Jacob van Ruisdael painted this landscape around 1670. A road leads you through wheat fields toward the distance, and the sky takes up a large part of the picture. Wheat was an important crop because it makes bread. Look at the clouds and the patches of light and shadow. What kind of day do you think it is, and what in the painting tells you?",
+    "g68": "Ruisdael was a leading landscape painter in the Dutch Republic. In Wheat Fields (about 1670), a road draws the eye into the distance while a huge cloudy sky takes up much of the canvas. Light and shadow move across the land, so the scene feels alive. Landscapes like this were popular in the Netherlands, where many people lived in towns and valued views of the countryside. How does the open sky shape the mood, and what would change if it were smaller?",
+    "g910": "Ruisdael builds a sense of vast space in Wheat Fields by giving the sky most of the picture and letting a road lead into the depth. The painting turns an ordinary working landscape into a stage for weather and light. Dutch landscape painting flourished in the 1600s as a growing market of buyers wanted views of their own country. Some scholars read Ruisdael's landscapes as reflecting ideas about nature's changes and God's creation, but those readings are debated. What do the visual choices emphasize: the land, the labor, or the sky?",
+    "g1112": "In Wheat Fields, Ruisdael balances a road, ripening grain and a towering cloudscape in an image that feels both observed and composed. Dutch landscape was a commercial genre as well as an expression of regional identity, and Ruisdael's reputation later influenced landscape painters well beyond the Netherlands. Scholars debate how far such images carry moral or religious meanings, and how far they simply celebrate looking at nature. How does the painter's handling of sky and light invite you to decide between these readings, and what remains unresolved?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you walked along this road, where would you end up? Tell the story.",
+      "emotion": "Is this place peaceful or exciting? What do you see that tells you?",
+      "observation": "Can you find the wheat, the road and the clouds? Point to each one.",
+      "analysis": "Is there more land or more sky in this picture? How can you tell?",
+      "line": "Trace the road with your finger. Does it go straight or does it bend?",
+      "shape": "What shapes do the clouds make? Can you see anything they look like?",
+      "color": "What colors are the fields? What colors are the clouds?",
+      "texture": "How would the wheat feel on your hand? Is it soft, prickly or something else?",
+      "space": "What is near you in this picture, and what is far away? How can you tell?",
+      "light": "Where is it sunny in this picture? Where is it shady?",
+      "meaning": "What do you think the wheat will become? Think of a food you eat.",
+      "culture": "Long ago, people in the Netherlands grew wheat for bread. What foods are grown near where you live?",
+      "technique": "The painter used paint to make clouds look fluffy. What could you use to make clouds?",
+      "personal": "Have you ever walked down a long road or path? Tell about it.",
+      "critical": "The painter made the sky very big. Why do you think he did that?"
+    },
+    "g12": {
+      "daily": "How does the road make you want to walk into this picture? Show the part that pulls you in.",
+      "emotion": "What feeling do the clouds and golden fields give you? Which part makes you feel it?",
+      "observation": "Name four things you see, from the front of the picture to the far back.",
+      "analysis": "How does the painter use the big sky and the road to give the picture a wide, open feeling?",
+      "line": "How does the road change direction as it goes into the distance? What does that do to your eyes?",
+      "shape": "Compare the shapes of the clouds with the shapes of the wheat fields. How are they different?",
+      "color": "Where do you see gold and yellow? How do the blues, grays and whites in the sky change the mood?",
+      "texture": "How does the painter show that the wheat is thick and the clouds are soft?",
+      "space": "How can you tell that some fields are close and some are far away?",
+      "light": "Find spots where sunlight lights the land and spots where cloud shadows fall. How does this make the scene feel alive?",
+      "meaning": "Who might use this road, and what might they be doing? Tell what you think.",
+      "culture": "Wheat made bread for people in the Netherlands long ago. What does this painting tell you about how they lived?",
+      "technique": "Ruisdael painted this with oil paint on canvas. How might oil paint help make soft clouds?",
+      "personal": "Where is a wide, open place that you like? How is it like or unlike this one?",
+      "critical": "If the sky were half as big, how would the picture feel different?"
+    },
+    "g35": {
+      "daily": "Ruisdael gives the sky most of the picture. How does this make you feel about the land below it?",
+      "emotion": "What mood do the clouds, light and golden wheat create together? Point to the details that set it.",
+      "observation": "Describe what you see in the foreground, middle ground and background. What details change as you look farther away?",
+      "analysis": "How does the road lead your eyes from the front of the painting toward the back?",
+      "line": "How do the edges of the fields and the curve of the road work as lines to guide your eyes?",
+      "shape": "The clouds are big, irregular shapes and the fields are broad bands. How do these shapes balance each other?",
+      "color": "How do the warm golds of the wheat stand out against the cooler colors of the sky?",
+      "texture": "How does the painter suggest the feel of wheat and clouds using only paint?",
+      "space": "What clues, such as size, detail and color, make the distance look far away?",
+      "light": "Where do you see patches of sunlight and shadow? What do they suggest about the weather?",
+      "meaning": "Why might an artist choose an everyday scene like a road through wheat instead of a famous event?",
+      "culture": "Many Dutch people in the 1600s lived in cities. Why might they have wanted paintings of the countryside?",
+      "technique": "A painter has to mix many colors for a cloudy sky. What choices of color and brushstroke help show clouds?",
+      "personal": "Think of a place where you feel calm and see a lot of sky. How is it like this painting?",
+      "critical": "Does this landscape look exactly real, or has the painter arranged it? What evidence supports your thinking?"
+    },
+    "g68": {
+      "daily": "How does the huge cloudy sky affect the way you read the land, the road and the wheat?",
+      "emotion": "Is the mood calm, uneasy or something in between? Which visual evidence supports your answer?",
+      "observation": "List what you see from foreground to horizon. Which details are small but important?",
+      "analysis": "How does the composition balance the road and fields against the sky? What would change if the horizon were higher?",
+      "line": "How do the road and field edges create lines of perspective that pull the viewer into the painting?",
+      "shape": "How do the large, irregular cloud shapes contrast with the long horizontal bands of the fields?",
+      "color": "How does the painter use warm and cool colors to separate land from sky and to create mood?",
+      "texture": "Which parts look dense and layered, such as the wheat, and which look soft or airy, such as the clouds? How are they painted differently?",
+      "space": "How does Ruisdael combine overlapping, scale and atmosphere to create deep space on a flat canvas?",
+      "light": "How do patches of light and shadow across the land create movement, and what weather might they suggest?",
+      "meaning": "Some viewers see this as a celebration of work and harvest, others as a study of weather. What evidence supports each view?",
+      "culture": "Why was landscape painting so popular in the Dutch Republic, and what might owners have valued in a painting like this?",
+      "technique": "How might layers of oil paint help create the glow of the wheat and the depth of the sky?",
+      "personal": "Where in your life do you notice weather or sky changing the mood of a place? How does this painting connect?",
+      "critical": "How much of a landscape painting is observation and how much is the artist's design? What clues here help you decide?"
+    },
+    "g910": {
+      "daily": "How does Ruisdael make a common road through wheat feel dramatic? Identify two choices in composition or light.",
+      "emotion": "How do the sky's drama and the field's calm combine to shape the emotional effect?",
+      "observation": "Describe the picture's visual hierarchy. What do you notice first, and what leads you onward?",
+      "analysis": "Analyze the balance between land and sky. How does the proportion direct attention and meaning?",
+      "line": "How does the winding road act as a structural line, and how do horizontal bands counter it?",
+      "shape": "How does the contrast between massed clouds and flat expanses of grain unify or divide the composition?",
+      "color": "How does the palette of golds, greens and grayed blues create harmony while keeping a sense of changing weather?",
+      "texture": "How does Ruisdael vary the paint surface to distinguish dense crop, airy cloud and earth?",
+      "space": "How do atmospheric effects, scale and the receding road produce a sense of expansive depth?",
+      "light": "How does shifting light across the land give the painting a sense of passing time?",
+      "meaning": "How do you weigh readings of this painting as celebration of nature, reflection on change, or portrait of a working landscape?",
+      "culture": "How did the market for landscape paintings in the 1600s shape what Ruisdael chose to paint?",
+      "technique": "How could a painter combine careful observation with studio composition to produce a convincing but arranged landscape?",
+      "personal": "How does standing in a wide landscape change your sense of scale, and does this painting recreate that feeling?",
+      "critical": "Can a landscape painting be neutral about the people and work behind the land? What does this image include or leave out?"
+    },
+    "g1112": {
+      "daily": "What choices in this painting direct a viewer toward the sky rather than the land, and what does that emphasis imply?",
+      "emotion": "How does the painting generate feeling through weather and light rather than through narrative, and what are the risks of naming that feeling?",
+      "observation": "Describe the formal structure of the painting in precise terms before interpreting. What was hardest to hold back from interpretation?",
+      "analysis": "How does the painting reconcile observed detail with deliberate composition, and where do you see the artist's hand?",
+      "line": "How do the road, field boundaries and horizon work together to organize space, and how does the sky disrupt or reinforce that order?",
+      "shape": "How does the painting set irregular natural forms against more regular bands of cultivation, and what might that opposition signify?",
+      "color": "How do color temperature and tonal range create atmosphere, and what does the restricted range reveal about the artist's priorities?",
+      "texture": "In what ways does the handling of paint transform different substances, crop, earth and vapor, into believable surfaces?",
+      "space": "How does Ruisdael construct recession, and what is the effect of a viewer's position within or above the landscape?",
+      "light": "How does the movement of light across the scene make time visible, and how does that shape interpretation?",
+      "meaning": "How do moral, religious and purely observational readings of Dutch landscapes compare, and which does this painting most invite?",
+      "culture": "How did patronage, urban life and national identity in the Dutch Republic shape the appeal of images like this one?",
+      "technique": "What does the combination of a large canvas and subtle atmospheric effects suggest about the skills and ambitions of the painter?",
+      "personal": "What do you bring to a rural landscape that may differ from what its first viewers brought?",
+      "critical": "Whose perspective is represented in an idealized landscape, and whose labor or experience might be missing?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Roads, Landscapes) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A large landscape by Jacob van Ruisdael, made around 1670 in the Dutch Republic. Dutch landscape painting grew into a major market genre in the 1600s.",
+    "vocabulary": [
+      "landscape",
+      "horizon",
+      "foreground",
+      "middle ground",
+      "atmosphere",
+      "perspective"
+    ],
+    "directions": [
+      "Have students sketch the same view twice, once with a small sky and once with a large sky, and discuss the change in mood.",
+      "Connect to science: observe real clouds and name their types.",
+      "Discuss why artists might stage or rearrange a real place."
+    ]
+  }
+}

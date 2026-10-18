@@ -1,0 +1,159 @@
+{
+  "id": "met-436528",
+  "day": "12-08",
+  "title": "Irises",
+  "artist": "Vincent van Gogh",
+  "date": "1890",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP346474.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Adele R. Levy, 1958",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A bouquet of blue-violet irises with long green leaves, painted close up with thick, visible brushstrokes. The flowers curve and bend in different directions, filling most of the canvas.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436528",
+    "objectId": "436528",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Flowers, Still Life), credit line, and image URLs read from the record"
+  },
+  "context": "Vincent van Gogh painted irises in 1890 while living in Saint-Rémy in the south of France, shortly before moving north to Auvers-sur-Oise. This oil painting is a still life of cut flowers, a subject he returned to in several works.",
+  "descriptions": {
+    "k": "Tall flowers bend and twist. Their petals are blue and purple. Their green leaves are long and sharp. The paint looks thick. Can you move your hand like the leaves move?",
+    "g12": "Vincent van Gogh painted this bunch of irises in 1890. The flowers are blue and purple, with long green leaves that bend in every direction. The paint is thick, and you can see his brush marks. Do the flowers look calm or lively? What shows you?",
+    "g35": "Vincent van Gogh painted irises in 1890, when he lived in the south of France. The flowers and leaves bend and curve like they are dancing, and the thick brush marks follow their shapes. Look at how the blue-violet petals stand out from the green leaves. Why might Van Gogh paint such simple flowers with so much energy?",
+    "g68": "In 1890 Van Gogh painted cut irises in a still life that looks alive with movement. Long leaves curve across the canvas in rhythmic lines, while blue-violet blooms contrast with green. His thick brushstrokes, called impasto, follow the shapes of petals and leaves. How does Van Gogh turn a quiet subject into something energetic, and what might the unusual closeness add?",
+    "g910": "Painted in 1890, this still life shows Van Gogh's ability to charge a quiet subject with rhythm and feeling. Curving leaves and clustered blooms create a lively pattern across the canvas, and contrasting colors intensify the effect. Thick, directional strokes make the flowers feel physically present. Consider how the cropping, color, and line transform an ordinary bouquet into an expressive composition.",
+    "g1112": "Irises belongs to the group of flower paintings Van Gogh made in 1889 and 1890, in which still life becomes a vehicle for expressive color and rhythmic line. The crowded composition and curling leaves flatten space into pattern, a feature scholars link to Japanese prints and to Post-Impressionist aims. Interpretations vary, from joyful vitality to restlessness, and biographical readings remain tentative. How should we balance what the surface shows with what we know of the artist's life?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Show us with your hand how the leaves bend and twist. Which leaf would you copy first?",
+      "emotion": "Do the flowers feel calm or wiggly? What makes you say that?",
+      "observation": "Find the blue flowers and the green leaves. How many flowers can you count?",
+      "analysis": "Which flower do you look at first? Why do you think it catches your eye?",
+      "line": "Follow one long green leaf with your finger. Where does it go?",
+      "shape": "The leaves are long and pointed. What shapes do the flower petals make?",
+      "color": "Find the blues, the purples, and the greens. Which color do you like best?",
+      "texture": "The paint looks thick and bumpy. How would it feel if you touched it?",
+      "space": "Are the flowers close to you or far away? How can you tell?",
+      "light": "Which petals look the brightest? Which look darker?",
+      "meaning": "If the flowers could talk, what would they say to each other?",
+      "culture": "People bring flowers inside to enjoy them. When do you see flowers in your home or school?",
+      "technique": "The painter used thick, curly brush marks. Can you draw curly marks in the air?",
+      "personal": "What is your favorite flower or plant? Tell about it.",
+      "critical": "Do you like flowers that look a little wild and bendy? Why or why not?"
+    },
+    "g12": {
+      "daily": "Do these irises look like they are standing still or moving? Show the clue in the painting.",
+      "emotion": "What feeling do the bending flowers give you? Which parts help you feel it?",
+      "observation": "List five things you see in the painting, from the petals to the leaves.",
+      "analysis": "How does the artist make the flowers look crowded together?",
+      "line": "Compare the long curved leaves with the shapes of the petals. How are they alike or different?",
+      "shape": "The leaves and flowers make a big pattern. Which shapes repeat?",
+      "color": "Blue-violet flowers sit next to green leaves. How do the colors make each other stand out?",
+      "texture": "Where does the paint look thick and rough? Where does it look smoother?",
+      "space": "The flowers fill almost the whole picture. How does that make you feel about being close?",
+      "light": "Where do the flowers seem lit up? Where do shadows make them look darker?",
+      "meaning": "Why might an artist paint flowers up close, almost filling the whole canvas?",
+      "culture": "Van Gogh lived in the south of France where irises grow. How might that place have inspired him?",
+      "technique": "Van Gogh used thick paint. How can you tell he did not blend it smooth?",
+      "personal": "If you could paint any plant, what would you choose and how would you paint it?",
+      "critical": "Is this a copy of how flowers look, or Van Gogh's own way of seeing them? Explain."
+    },
+    "g35": {
+      "daily": "What do you see in the movement of the leaves that makes you feel the flowers are alive? Point to two places.",
+      "emotion": "How would you describe the mood of this still life? Choose two painted details as evidence.",
+      "observation": "Take one minute to look only at the leaves. How many different directions do they point?",
+      "analysis": "How does Van Gogh arrange the flowers and leaves so that your eye keeps moving around the picture?",
+      "line": "How do the long, curving leaves create rhythm across the canvas?",
+      "shape": "How do the ruffled shapes of the petals contrast with the sword-like shapes of the leaves?",
+      "color": "How do the blue-violet flowers and green leaves make each other look brighter?",
+      "texture": "How do thick strokes of paint help you imagine the feel of petals and leaves?",
+      "space": "The flowers fill the canvas and leave little empty space. How does that affect the way you look?",
+      "light": "How does Van Gogh use lighter and darker paint to show curves in the petals?",
+      "meaning": "Flowers can stand for beauty or the passing of time. What might this bouquet suggest to you?",
+      "culture": "Van Gogh painted many flowers in France. Why might flowers be a popular subject for artists?",
+      "technique": "Van Gogh used thick paint and visible strokes. How does that make this painting different from a smooth, blended one?",
+      "personal": "Choose an everyday object you would like to paint with lots of energy. How would you do it?",
+      "critical": "Is a painting of flowers less important than a painting of a famous event? Defend your view."
+    },
+    "g68": {
+      "daily": "How does Van Gogh turn a simple bouquet into a picture full of movement?",
+      "emotion": "How do rhythmic lines and strong color create a lively mood?",
+      "observation": "Describe how the leaves, petals, and flowers overlap. Where does the arrangement feel most crowded?",
+      "analysis": "How does the close, cropped view of the flowers shape the viewer's experience?",
+      "line": "How do the long curving leaves lead the eye and create a sense of rhythm and tension?",
+      "shape": "How does repetition of leaf and petal shapes create pattern and unity?",
+      "color": "How does the contrast between blue-violet flowers and green leaves create emphasis?",
+      "texture": "How does impasto give the painting a physical presence that suggests the life of the plants?",
+      "space": "How does the shallow, crowded space flatten the painting into pattern?",
+      "light": "How does Van Gogh model forms with color and brushstrokes instead of heavy shadows?",
+      "meaning": "Van Gogh lived in Saint-Rémy when he painted irises. What caution is needed when connecting an artist's life to a flower painting?",
+      "culture": "How might Japanese prints, which Van Gogh admired, have influenced the flattened, patterned look of this painting?",
+      "technique": "Why might Van Gogh paint quickly and with thick strokes? What effect does that have on the surface?",
+      "personal": "What simple object in your life could be shown as exciting if you painted it up close?",
+      "critical": "Does this painting capture the way flowers look or the way they feel? Defend your view."
+    },
+    "g910": {
+      "daily": "How do line, color, and cropping combine to give the irises their intensity?",
+      "emotion": "How does the painting create an emotional charge through rhythm and contrast rather than narrative?",
+      "observation": "Analyze the visual hierarchy: what draws attention first, and how does the composition sustain movement?",
+      "analysis": "Analyze how the crowded arrangement of leaves and blooms creates pattern and tension.",
+      "line": "How does the curving, directional line of the leaves unify the composition?",
+      "shape": "How do repeated sword-like and ruffled shapes establish rhythm across the canvas?",
+      "color": "How does the interaction of blue-violet and green heighten the vibrancy of both?",
+      "texture": "How do thick strokes and visible paint reinforce the physical presence of the plants?",
+      "space": "How does the shallow, flattened space align the painting with Post-Impressionist concerns?",
+      "light": "How does Van Gogh suggest light through changes in color rather than through shadow?",
+      "meaning": "How might a still life of flowers be read as a study of vitality, and where does that interpretation reach its limits?",
+      "culture": "How does this painting reflect the influence of Japanese art on late 19th-century European painters?",
+      "technique": "What does the visible handling of paint suggest about the relation between speed and deliberation in Van Gogh's process?",
+      "personal": "How does the painting's energy affect your own sense of a quiet subject like flowers?",
+      "critical": "Van Gogh's popularity is enormous today but he sold little in his lifetime. How does reputation change the way we look?"
+    },
+    "g1112": {
+      "daily": "How does this still life stage the tension between observed nature and an invented rhythm of line and color?",
+      "emotion": "How does the painting's intensity resist a single emotional label, and what does that open up?",
+      "observation": "Describe the picture's formal organization precisely, then identify where your description already carries interpretation.",
+      "analysis": "How does the compressed composition reconcile decorative pattern with the impression of living growth?",
+      "line": "How does line function here as expressive gesture rather than descriptive contour?",
+      "shape": "How do the plant forms operate as both botanical observation and abstract rhythm?",
+      "color": "How does the painting's chromatic structure reflect Post-Impressionist priorities of expression over fidelity?",
+      "texture": "How does the heavily worked surface assert the painting's materiality while evoking organic life?",
+      "space": "How does the painting flatten space in ways that relate to Japanese prints and to modern art's later development?",
+      "light": "How does color substitute for conventional light and shadow, and what does that imply about perception?",
+      "meaning": "Evaluate readings of the work as celebration of nature, as emotional release, and as formal experiment. What evidence supports each?",
+      "culture": "How did cross-cultural exchange between Japan and Europe shape the visual vocabulary of Post-Impressionism?",
+      "technique": "What can we infer, and what should we not infer, about Van Gogh's mental state from the look of his late paintings?",
+      "personal": "How does your knowledge of Van Gogh's biography shape what you see in a bouquet of flowers?",
+      "critical": "What responsibilities do interpreters have when the biography of an artist becomes more famous than the paintings?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Flowers, Still Life), classification (Paintings), and medium checked against the museum record. The subject is a flower still life with no figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1890 in the south of France, shortly before Van Gogh moved to Auvers-sur-Oise. Flowers were a recurring subject in his late work.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "still life",
+      "impasto",
+      "rhythm",
+      "pattern",
+      "cropping"
+    ],
+    "directions": [
+      "Have students trace the path of one leaf with their finger and describe how it moves the eye.",
+      "Ask students to arrange a few real or paper flowers and draw them very close up, filling the page.",
+      "Compare the energy of this still life with the quiet still life by Cézanne in the archive."
+    ]
+  }
+}

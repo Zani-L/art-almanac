@@ -1,0 +1,158 @@
+{
+  "id": "met-310234",
+  "day": "02-08",
+  "title": "Prestige stool with lion",
+  "artist": "Artist unknown (Akan peoples)",
+  "date": "19th century",
+  "medium": "Wood",
+  "region": "Akan peoples, Ghana",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1976.315_a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1976.315_a.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1976",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A low, wide wooden stool carved with a lion as part of its design. It is shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/310234",
+    "objectId": "310234",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification, tags (Lions), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A wooden stool from the Akan peoples of Ghana, made in the 19th century and labeled a prestige stool with a lion. It is about 41 centimeters tall and 61 centimeters wide. Among the Akan, carved stools were used as seats of honor, and a stool could stand for the dignity of its owner.",
+  "descriptions": {
+    "k": "This is a stool for sitting. A person in Ghana carved it from wood. There is a lion on it. Can you find the lion? What do you think it would be like to sit here?",
+    "g12": "This wooden stool was carved in Ghana long ago. It is wide and low, with a lion as part of its design. A stool like this was not just for sitting. It showed that its owner was important. Where do you think the lion fits on the stool?",
+    "g35": "Akan carvers in Ghana made this stool from wood in the 1800s. It is wide and low, and a lion is part of its design. Akan stools were more than furniture. A special stool showed the honor and position of its owner. Look at how the carver shaped the wood. Why might someone want a lion on a stool that shows importance?",
+    "g68": "This 19th-century stool from the Akan peoples of Ghana belongs to a tradition in which carved stools mark a person's place in the community. The Met calls it a prestige stool, which suggests it was meant to be seen as well as used. The carver combined a useful seat with a sculpted lion. Records do not tell us what the lion meant to the maker or owner, so we can look at form and consider possibilities. How does carving a useful object change how you look at it?",
+    "g910": "Among the Akan, stools are closely tied to identity and leadership, and fine examples were made for people of rank. This 19th-century prestige stool turns an everyday object into sculpture by joining a seat with a carved lion. The animal may have suggested strength or authority, but the museum record does not say what it meant to this stool's maker or owner. Compare the stool's practical purpose with its sculptural form. Where do function and meaning overlap, and where do they separate?",
+    "g1112": "This Akan stool shows how an object of daily use can carry social and political weight. Stools in Akan communities are associated with office, lineage, and personal presence, and carved examples such as this one were made for people of standing. The lion adds an animal image of power, though no source cited in the museum record explains its intended meaning here, so interpretation should be offered as possibility, not fact. Consider how a museum, which displays the stool without a sitter, changes our understanding of an object designed to be used."
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the lion on this stool? Point to it and tell what you see.",
+      "emotion": "Does this stool look strong, gentle, or something else? Why?",
+      "observation": "What parts can you find on the stool? Point to the seat and the lion.",
+      "analysis": "Where do your eyes go first? What helps them go there?",
+      "line": "Can you find a curved line on the stool? Trace it in the air.",
+      "shape": "What big shape does the stool make? Is it round, long, or something else?",
+      "color": "What color is the wood? Is it light, dark, or in between?",
+      "texture": "The stool is made of wood. How do you think it would feel if you touched it?",
+      "space": "If you walked around the stool, what do you think you would see on the other side?",
+      "light": "Which parts of the stool look bright? Which parts look dark?",
+      "meaning": "Who might sit on a stool like this? Tell a little story.",
+      "culture": "An Akan carver in Ghana made this stool. What special seats or chairs have you seen?",
+      "technique": "A carver used tools to shape wood. What do you think the carver did first?",
+      "personal": "If you had your own special stool, what animal would you add to it?",
+      "critical": "How can you tell this is for sitting? What parts show you?"
+    },
+    "g12": {
+      "daily": "How does the lion make this stool different from a plain stool? Point to details.",
+      "emotion": "What feeling does this stool give you, strong, calm, or something else? What shows it?",
+      "observation": "Tell about three parts of the stool, from the seat to the lion to the bottom.",
+      "analysis": "Where does the carver join the useful part to the lion? How can you tell?",
+      "line": "Look for curved lines and straight lines. Where do they meet on the stool?",
+      "shape": "How does the stool's wide, low shape make it look steady?",
+      "color": "The stool is made from wood. How do different browns make parts look near or far?",
+      "texture": "Which parts of the stool look smooth and which look rough or carved?",
+      "space": "The stool is a 3D object. How could you see more of it if you could walk around it?",
+      "light": "Where would light hit the stool first? Where might there be shadows?",
+      "meaning": "A stool can show that a person is important. Why might people use objects to show honor?",
+      "culture": "Akan people in Ghana have made stools like this for a long time. Why might a stool be a special gift or object?",
+      "technique": "This stool was carved from wood. What is hard about carving a shape like a lion?",
+      "personal": "What object in your home is special to your family? What makes it special?",
+      "critical": "Is this stool a chair, a sculpture, or both? Give a reason."
+    },
+    "g35": {
+      "daily": "How does the carver turn a stool into a work of art? Use details to explain.",
+      "emotion": "What mood does the stool give off? Which details help create that mood?",
+      "observation": "Look carefully for a minute. Which small details of the carving did you not notice at first?",
+      "analysis": "How does the carver make the lion and the seat work together as one object?",
+      "line": "How do curved and straight lines shape the look of the stool?",
+      "shape": "Describe the stool's overall shape. How does it feel steady, and how does the lion add interest?",
+      "color": "The stool is one material, wood. How do light and dark areas of the wood make the carving stand out?",
+      "texture": "How can you tell where the wood is carved and where it is smooth?",
+      "space": "How is a sculpture different from a flat painting? Where might you see more if you walked around this stool?",
+      "light": "How might light and shadow change the way the carved details look in a gallery?",
+      "meaning": "A lion is often a symbol of strength. What other ideas might a lion carry, and why can't we be sure what it meant here?",
+      "culture": "Among the Akan, a stool can show a person's place in the community. Why might people use a seat to stand for honor?",
+      "technique": "A carver shapes wood by removing material. How is that different from building something by adding pieces?",
+      "personal": "What object would you choose to show something important about you?",
+      "critical": "This stool is in a museum, not in use. How might that change the way we see it?"
+    },
+    "g68": {
+      "daily": "How do the stool's useful form and its lion image work together, and which one do you notice first?",
+      "emotion": "What qualities, such as strength, calm, or authority, does the stool express, and what evidence in the carving supports your answer?",
+      "observation": "Describe the stool's structure before you interpret it. Which features did you notice only after looking again?",
+      "analysis": "How does the carver balance the practical need for a stable seat with the sculptural lion?",
+      "line": "How do the stool's lines, curved or straight, guide your eye around the object?",
+      "shape": "How does the stool's wide, low form support the idea of stability, and where does the lion break that stability?",
+      "color": "The stool is made of a single material. How do tone and surface create variety without other colors?",
+      "texture": "How might carving and wear from use change the surface of the wood over time? What signs of this can you find?",
+      "space": "A stool is a three-dimensional object. How would your understanding change if you could see it from all sides?",
+      "light": "How would raking light, from the side, reveal the carving differently than light from above?",
+      "meaning": "Records do not explain what the lion meant here. What possible meanings can you propose, and what limits should we place on guessing?",
+      "culture": "Why might a society develop special seats to mark leadership, and what does that show about how they value it?",
+      "technique": "What skills and tools might a carver need to turn a block of wood into a stool with a lion?",
+      "personal": "What everyday object do you think could carry a message about who you are?",
+      "critical": "What do we lose and gain when an object made to be used is displayed to be looked at?"
+    },
+    "g910": {
+      "daily": "How does this stool blur the boundary between furniture and sculpture?",
+      "emotion": "How does the stool project authority or dignity through form alone, without a person sitting on it?",
+      "observation": "Describe the stool's hierarchy of parts. What does the carver emphasize, and how can you tell?",
+      "analysis": "Analyze how the lion integrates with the stool's structure. Is it decoration, support, or both?",
+      "line": "How do contour and carved line define the lion's form, and how do they relate to the stool's overall outline?",
+      "shape": "How does the stool's wide, low mass create stability, and how does the lion animate that mass?",
+      "color": "With a single material, how does the carver use tonal contrast to create emphasis?",
+      "texture": "What does the surface of the wood suggest about carving techniques and about how the stool was handled over time?",
+      "space": "How does the stool occupy space differently from a flat work, and how does its footprint relate to its function?",
+      "light": "How would changing the light on the stool alter which carved details seem important?",
+      "meaning": "How might a lion have been understood in this context, and how do we separate evidence from assumption?",
+      "culture": "How do Akan stools connect furniture, lineage, and leadership, and what does a prestige stool communicate that a plain seat cannot?",
+      "technique": "How does carving wood, a subtractive process, affect the design choices a sculptor can make?",
+      "personal": "What everyday objects in your life carry social meaning, and how do they compare with this stool?",
+      "critical": "How does a museum label or a caption shape what we assume about an object like this? What might it leave out?"
+    },
+    "g1112": {
+      "daily": "What is the relationship between utility and symbolism in this stool, and how would you argue for one over the other?",
+      "emotion": "How does an unoccupied stool convey presence or absence, and how does that affect the emotion of viewing it?",
+      "observation": "Describe the stool's formal construction. Which observations support reading it as sculpture, and which as furniture?",
+      "analysis": "Analyze how the stool's structure and the lion's placement work together, and what that suggests about the carver's priorities.",
+      "line": "How do contour lines and carved edges articulate form, and how might they have been shaped by both function and aesthetics?",
+      "shape": "How does the stool's massing balance stability and expressive form, and how does the lion complicate a purely functional reading?",
+      "color": "How does the patina of use and age affect what we see, and what might the stool have looked like when new?",
+      "texture": "How can surface wear be read as evidence of use, and how does it complicate the idea of a pristine art object?",
+      "space": "How does a museum display, which usually fixes a viewpoint, change the way a three-dimensional functional object is understood?",
+      "light": "How might the installation lighting in a museum emphasize or obscure features that mattered to the original owner?",
+      "meaning": "How should scholars handle an animal image whose meaning is not recorded, without erasing the possibility that it mattered to its makers?",
+      "culture": "How do Akan ideas of leadership and lineage shape the importance of stools, and why is it a risk to generalize across all Akan communities?",
+      "technique": "What does carving in wood imply about the scale, the craft network, and the cost of making a prestige stool?",
+      "personal": "How does your own use of seats and furniture shape your expectation of what an object like this should do?",
+      "critical": "What obligations come with displaying objects that held social and political meaning, when their owners' voices are largely missing from the record?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Prestige stool with lion), classification (Wood-Furniture), object name (Stool), medium (wood), and tag (Lions) checked against the museum record (title, classification, object name, medium, tags).",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century wooden stool from the Akan peoples of Ghana. Stools hold important social meaning among the Akan, but this record does not explain what the lion meant, so avoid presenting any single explanation as fact.",
+    "vocabulary": [
+      "Akan",
+      "prestige",
+      "sculpture",
+      "carving",
+      "symbol",
+      "function"
+    ],
+    "directions": [
+      "Have students sketch the stool from the front and imagine a side view, then discuss what a 3D object shows that a flat photo cannot.",
+      "Ask students to design a personal stool or seat and choose one animal or symbol, and explain why they chose it.",
+      "Discuss how the same object can be both useful and meaningful, using other everyday objects as examples."
+    ]
+  }
+}

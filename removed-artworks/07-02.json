@@ -1,0 +1,151 @@
+{
+  "id": "met-318293",
+  "day": "07-02",
+  "title": "Water Jar",
+  "artist": "Artist unknown (Acoma Pueblo)",
+  "date": "about 1880",
+  "medium": "Ceramic",
+  "region": "Acoma Pueblo, United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP242328.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP242328.jpg",
+    "credit": "The Metropolitan Museum of Art, Museum Accession",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide-bodied ceramic water jar made at Acoma Pueblo, with a rounded shape and an opening at the top.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/318293",
+    "objectId": "318293",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Ceramics-Containers), objectName (Jar), public-domain flag, and image URLs read from the record. The record lists no tags, and its dimension fields were inconsistent, so no size is stated."
+  },
+  "context": "A ceramic water jar made at Acoma Pueblo in New Mexico, dated to about 1880. Acoma potters are widely known for thin-walled, hand-built jars. The record names the culture and date but no individual maker.",
+  "descriptions": {
+    "k": "This is a big clay jar for holding water. People at Acoma Pueblo in New Mexico made it by hand. It is round and wide, with an opening at the top. Can you trace its shape with your finger?",
+    "g12": "Potters at Acoma Pueblo in New Mexico made this jar to hold water. It is made of clay and has a round body. There is an opening at the top. A potter shaped it by hand without a wheel. How does a plain shape still look special?",
+    "g35": "This water jar was made at Acoma Pueblo, in what is now New Mexico, around 1880. Acoma potters are known for building jars by hand from coils of clay. The jar is wide and round, made to hold and carry water. Look at its outline and surface. Why might a useful object also be made beautiful?",
+    "g68": "Acoma Pueblo potters have a long tradition of hand-built jars, and this water jar, made about 1880, shows how a useful vessel can also be a work of art. The swelling body, narrowing neck, and balanced outline show control of form. The record does not name the maker, but Pueblo pottery is made within families and communities where skills are passed on. Looking closely at curve and surface can teach us how pots are shaped and finished.",
+    "g910": "Water jars like this one, made at Acoma Pueblo about 1880, combine function and design in a form built entirely by hand. The vessel's broad shoulder and curved profile create a strong silhouette, and the record's silence about the maker reminds us that Pueblo potters worked within a living tradition of shared knowledge. Pueblo pottery today is made by named artists, and museums increasingly emphasize their names and communities. How does a jar's shape express both practical need and aesthetic judgment?",
+    "g1112": "This Acoma Pueblo water jar, dated to about 1880, sits at the intersection of utility, tradition, and market. Pueblo pottery has been central to community life for centuries, and by the late 19th century it was also collected by outsiders, which influenced how it was made and recorded. The record gives no maker, an absence that reflects collecting practices rather than the potter's importance. Viewers can examine the vessel's form and surface carefully while recognizing that Acoma people continue this living art."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the big water jar. What do you notice about its shape?",
+      "emotion": "Does this jar feel strong, calm, or something else? What makes you think so?",
+      "observation": "What parts of the jar can you name? Find the opening, the body, and the bottom.",
+      "analysis": "Where do your eyes go first on this jar: the top, the middle, or the bottom?",
+      "line": "Trace the curve of the jar from the top to the bottom. Where does it get wider?",
+      "shape": "The jar is round like a ball. What other round things do you know?",
+      "color": "What colors do you see on the jar? Which one do you notice first?",
+      "texture": "How do you think the jar would feel if you rubbed it with your hand?",
+      "space": "This jar is made to hold water. How much room do you think is inside?",
+      "light": "Where does light touch the jar, and where does it look darker?",
+      "meaning": "Why do you think water was kept in a jar like this?",
+      "culture": "Potters at Acoma Pueblo in New Mexico made this jar. What do you use to carry or hold water at home?",
+      "technique": "This jar was made by hand from clay. How do you think someone built it so tall and round?",
+      "personal": "If you made a jar, what would you keep inside it?",
+      "critical": "How can you tell this jar was made to be used and not just to look at?"
+    },
+    "g12": {
+      "daily": "What makes this plain-looking jar special? Describe a detail that helped you decide.",
+      "emotion": "What feeling does the round shape give you: steady, calm, or proud? Why?",
+      "observation": "Describe the jar from its opening to its base. What do you see along the way?",
+      "analysis": "How does the shape of the jar show that it was made to hold and carry water?",
+      "line": "Follow the outline of the jar with your finger. Where does it curve most?",
+      "shape": "The jar has a wide body and a smaller opening. Why might that shape be good for water?",
+      "color": "Which colors do you see, and are they the same all over the jar?",
+      "texture": "Does the jar look smooth, rough, or both? What clues help you decide?",
+      "space": "How big do you think this jar is? Show with your arms how you would hold it.",
+      "light": "Imagine a lamp shining on the jar. Which part of the curve would look brightest?",
+      "meaning": "Why might a community care about making even a water jar beautiful?",
+      "culture": "Acoma Pueblo is in New Mexico, where it is dry. Why would water jars be important there?",
+      "technique": "A potter built this jar by hand, without a wheel. What might be hard about making the sides even?",
+      "personal": "What everyday object at home do you think is beautiful? Why?",
+      "critical": "The record does not give the potter's name. Why might a name be important to remember?"
+    },
+    "g35": {
+      "daily": "How does the jar's shape show that a useful object can also be a work of art?",
+      "emotion": "What feeling does the jar's outline give you? Which parts of the shape create that feeling?",
+      "observation": "Look closely for one minute. List the shapes, colors, and marks you can find on the jar.",
+      "analysis": "How do the neck, shoulder, and body of the jar work together to make it look balanced?",
+      "line": "How does the outline of the jar change from the opening to the base? Describe the curves.",
+      "shape": "Compare the jar's wide body with its narrower opening. How does this contrast help it hold water?",
+      "color": "How do the colors on the jar divide its surface into parts?",
+      "texture": "How would a hand-finished clay surface feel different from a store-bought plastic jug?",
+      "space": "Imagine the empty space inside the jar. How does a container's inside matter as much as its outside?",
+      "light": "How does the jar's curved body make light and shadow change from one side to the other?",
+      "meaning": "Why might a community make everyday objects with great care?",
+      "culture": "Acoma potters are known for hand-built jars. What does that tell you about skills passed on by families?",
+      "technique": "Potters build up walls in coils. Why does that take patience and skill?",
+      "personal": "Which objects in your home were made with care? What makes you think so?",
+      "critical": "Many museum objects do not name the maker. What might be lost when we do not know who made something?"
+    },
+    "g68": {
+      "daily": "How does this jar balance practical needs and artistic choices? Give evidence from its form.",
+      "emotion": "How does a symmetrical, rounded form shape the feeling of the object?",
+      "observation": "Describe the jar's profile and surface in order. Which features are easiest to see in the photograph?",
+      "analysis": "How do the proportions of neck, shoulder, and body create harmony?",
+      "line": "How does the outline function like a drawn line, defining the jar's character?",
+      "shape": "How does a swelling form suit a vessel made to hold liquid?",
+      "color": "How might surface color or finish affect how the jar's shape is read?",
+      "texture": "What might a potter do to smooth and finish a handbuilt clay surface?",
+      "space": "How do a jar's inner volume and outer shape work together?",
+      "light": "How does the curved body create a gradual shift from light to dark across the surface?",
+      "meaning": "Why might communities in dry regions value water jars as more than simple containers?",
+      "culture": "How does Pueblo pottery connect past and present, given that Acoma potters continue the tradition today?",
+      "technique": "How can a potter keep a large coil-built jar from collapsing while it is being shaped?",
+      "personal": "How do you decide when something you make deserves extra care?",
+      "critical": "How do museum labels like Museum Accession and no named maker shape how we see this jar?"
+    },
+    "g910": {
+      "daily": "How do silhouette, proportion, and surface together define this jar's presence?",
+      "emotion": "How does the vessel's mass and symmetry communicate stability and purpose?",
+      "observation": "Describe the jar's visual hierarchy: which features of form and surface draw attention first?",
+      "analysis": "Analyze how the jar's profile integrates function, such as carrying and pouring, with aesthetic refinement.",
+      "line": "How does the contour of the vessel function as its principal line, and how does it direct the eye?",
+      "shape": "How does the interplay of rounded body and narrower opening create tension and balance?",
+      "color": "How do surface color and finish enhance or simplify the reading of the jar's form?",
+      "texture": "How does a hand-finished surface convey the traces of making?",
+      "space": "How does the relationship of interior volume to exterior shape define a container's purpose?",
+      "light": "How does the vessel's curvature produce gradations of light that reinforce its volume?",
+      "meaning": "What distinguishes the artistic value of an everyday water jar from the value it holds for the community that made it?",
+      "culture": "How does knowledge of Pueblo continuity help us avoid treating this jar as a relic of the past?",
+      "technique": "What does coil-building reveal about the patience and judgment of a skilled potter?",
+      "personal": "How does using an object daily change the way you notice its design?",
+      "critical": "How did late 19th-century collecting shape which Pueblo objects entered museums and how they were documented?"
+    },
+    "g1112": {
+      "daily": "What can this jar teach us about the relationship between utility and artistry, and what limits does the record place on that lesson?",
+      "emotion": "How does the monumentality of a rounded form create presence, and how might that response differ between a museum and a household?",
+      "observation": "Describe the jar's construction and surface precisely. Which descriptions already include assumptions about use or origin?",
+      "analysis": "Analyze how the jar's proportions reflect a long tradition of form refinement within Acoma pottery.",
+      "line": "How does the vessel's silhouette communicate technical command, and how does it relate to conventions of Pueblo ceramic form?",
+      "shape": "How does the vessel's geometry reflect both practical needs and aesthetic ideals?",
+      "color": "How should we consider the interplay between surface treatment and form without assuming meanings the record does not provide?",
+      "texture": "How do surface finishing techniques register the maker's hand, and how does display in a museum change how we read them?",
+      "space": "How does a vessel meant to hold water embody ideas of containment and provision, and how careful must we be in claiming these as intentions?",
+      "light": "How do museum photography and lighting shape our impression of a hand-built form?",
+      "meaning": "How do we balance respect for community knowledge with the limits of what a museum record can state?",
+      "culture": "How did the late 19th-century market for Pueblo pottery affect its production, collection, and documentation?",
+      "technique": "What does the construction of a large, thin-walled jar suggest about training, tradition, and risk in firing?",
+      "personal": "How does your relationship to everyday objects shape how you read an object that was both used and valued?",
+      "critical": "How might attributions to named potters, where known, change the way institutions tell the story of Pueblo art?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Ceramics-Containers), objectName (Jar), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected, and painted decoration is not described in the record, so a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Acoma Pueblo, in New Mexico, has a continuing tradition of hand-built pottery. The record gives the date as about 1880 and does not name the maker.",
+    "vocabulary": ["Acoma Pueblo", "water jar", "coil building", "vessel", "silhouette", "tradition"],
+    "directions": [
+      "Have students shape a small coil pot from clay or dough and discuss what makes the walls even.",
+      "Ask students to sketch the jar's outline and label neck, shoulder, and body.",
+      "Discuss why naming makers and communities matters when museums describe objects."
+    ]
+  }
+}

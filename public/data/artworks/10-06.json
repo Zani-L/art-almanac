@@ -1,0 +1,158 @@
+{
+  "id": "met-312615",
+  "day": "10-06",
+  "title": "Tunic Fragment",
+  "artist": "Artist unknown (Wari)",
+  "date": "7th–9th century",
+  "medium": "Camelid hair, cotton",
+  "region": "Wari culture, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-45593-003.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-45593-003.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rectangular piece of woven cloth, about 33 by 53 centimeters, that is part of a larger tunic made by Wari weavers from camelid hair and cotton.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312615",
+    "objectId": "312615",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Textiles-Woven), objectName (Tunic fragment), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "A fragment of a tunic made by Wari weavers in the Andes of Peru between the 7th and 9th centuries, from camelid hair and cotton. It measures about 33 by 53 centimeters. The Wari were a powerful Andean society centuries before the Inca.",
+  "descriptions": {
+    "k": "This piece of cloth is part of a tunic, a kind of shirt. It was woven in Peru more than a thousand years ago. The weaver used soft hair from animals like llamas, and cotton. Part of the tunic is missing. What do you see?",
+    "g12": "This is a fragment, or piece, of a tunic made by Wari weavers in Peru. It is more than 1,100 years old. The threads come from llama-like animals and from cotton plants. The rest of the tunic is missing. What might the whole tunic have looked like?",
+    "g35": "This is a piece of a tunic woven by Wari artists in Peru between the 7th and 9th centuries. The Wari lived in the Andes long before the Inca. The threads are camelid hair, from animals such as llamas and alpacas, and cotton. Only a fragment survives. Look at the colors and the way the threads make patterns. What can a broken piece still tell us?",
+    "g68": "Wari weavers of the Andes made some of the most admired textiles of their time, and this tunic fragment from the 7th to 9th centuries is a small part of a larger garment. It combines camelid hair and cotton, and its design is built into the weave itself. Because only a piece survives, the cloth works like a clue: we can study color, structure, and skill, but we must imagine what is missing and avoid pretending to know too much.",
+    "g910": "This Wari tunic fragment, dated between the 7th and 9th centuries, reflects an Andean world in which textiles were a leading art form. Camelid hair and cotton were woven so that pattern and color are part of the cloth's structure. As a fragment, it raises questions of survival and loss: why do some pieces last, and what do we lose when a garment is cut or broken? The record gives no information about the design's meaning, so careful description comes before interpretation.",
+    "g1112": "Dating from the 7th to 9th century, this Wari tunic fragment represents a society whose textiles were produced with extraordinary technical sophistication and whose influence spread widely across the Andes. As a fragment, it exposes the edge of knowledge: what remains is evidence of materials, structure, and visual organization, while the original garment and wearer are absent. The record provides no iconographic reading, and so claims about status or symbolism should be framed as hypotheses. What can a fragment responsibly tell us?"
+  },
+  "questions": {
+    "k": {
+      "daily": "This is a piece of a tunic. What do you think the missing part looked like?",
+      "emotion": "Does this old piece of cloth feel cozy, quiet, or something else? Why?",
+      "observation": "What do you see on this piece of cloth? Name two colors or shapes.",
+      "analysis": "Where do your eyes go first on this cloth? Where do they go next?",
+      "line": "Can you find lines made by the threads? Trace one with your finger.",
+      "shape": "What shapes can you find in the woven design? Look for squares, steps, or lines.",
+      "color": "Which colors do you see in this cloth? Which is your favorite?",
+      "texture": "How do you think this woven cloth feels? Soft, scratchy, or bumpy?",
+      "space": "This cloth is about as wide as a big poster. Show with your arms how wide it is.",
+      "light": "Which parts of this old cloth look bright, and which look shadowy?",
+      "meaning": "Who do you think wore the whole tunic? Tell a story about them.",
+      "culture": "Wari weavers in Peru made this long, long ago. What clothes do you have that are woven?",
+      "technique": "The cloth is made from animal hair and cotton threads. How do you think someone wove them?",
+      "personal": "If you could weave a cloth, what colors would you choose?",
+      "critical": "Why do you think only a piece of this tunic is left?"
+    },
+    "g12": {
+      "daily": "What details can you find in this woven fragment? Tell about one that surprised you.",
+      "emotion": "What feeling does this very old cloth give you: calm, curious, or something else? Why?",
+      "observation": "Describe the fragment from one side to the other. What do you notice?",
+      "analysis": "How are the colors and shapes arranged in the weaving? Look for patterns or repeats.",
+      "line": "Find straight lines and stepped lines. Which ones are the longest?",
+      "shape": "What shapes repeat in the cloth? How do they fit together?",
+      "color": "Which colors sit next to each other? How do they make each other stand out?",
+      "texture": "Camelid hair and cotton feel different. Which parts of the cloth might feel softer?",
+      "space": "The fragment is about 53 centimeters wide. How much of a person might the whole tunic cover?",
+      "light": "Imagine light shining on the cloth. Which colors would look brightest?",
+      "meaning": "Why might a weaver spend so much time making a tunic?",
+      "culture": "The Wari lived in the Andes before the Inca. What do you think made their cloth important?",
+      "technique": "Weaving crosses threads over and under. Why does that make a strong cloth?",
+      "personal": "What would you want to know if you found a piece of ancient cloth?",
+      "critical": "A fragment is only part of the whole. What do we know from it, and what must we guess?"
+    },
+    "g35": {
+      "daily": "What can this woven fragment teach us about the Wari weavers, and what can it not tell us?",
+      "emotion": "What mood does the fragment give you? Which colors and patterns create it?",
+      "observation": "Look carefully for one minute. List the colors, patterns, and edges you can find.",
+      "analysis": "How are the colors and shapes arranged in the fragment? Describe the order or repeats.",
+      "line": "How do the lines made by the weave help create the design?",
+      "shape": "Look for shapes that repeat or change. How do they build the pattern?",
+      "color": "How do the colors in this cloth work together? Which stand out most?",
+      "texture": "How would camelid hair and cotton each add something different to the cloth?",
+      "space": "The fragment shows only part of the tunic. How would you picture the missing space?",
+      "light": "How does the woven surface scatter light compared with a smooth printed fabric?",
+      "meaning": "The record does not say what the design means. What can we say just from looking?",
+      "culture": "Cloth was very important in the Andes. What does this fragment suggest about how the Wari valued weaving?",
+      "technique": "In weaving, design is made as the cloth is built. Why is that different from painting designs on cloth afterward?",
+      "personal": "What would you do if you found an old broken object? How would you decide what to learn from it?",
+      "critical": "Why might museums keep fragments even when they are not complete?"
+    },
+    "g68": {
+      "daily": "How does this fragment show the weaver's skill even though part of the tunic is missing?",
+      "emotion": "How can an incomplete object create a sense of mystery or loss?",
+      "observation": "List what you can see in the fragment, from the edges to the center. What patterns repeat?",
+      "analysis": "How does the design organize the fragment into units? Describe how the eye moves.",
+      "line": "How do the woven lines build edges and steps in the pattern?",
+      "shape": "How do repeated shapes create rhythm across the cloth?",
+      "color": "How might the choice between camelid hair and cotton influence the color and richness of a design?",
+      "texture": "How do two fibers create variety on the cloth's surface?",
+      "space": "How does viewing a fragment flat differ from imagining a tunic worn on a body?",
+      "light": "How does light show the weave's structure?",
+      "meaning": "How can we study a design without claiming to know exactly what it meant?",
+      "culture": "What does the Wari reputation for fine textiles suggest about the value of cloth?",
+      "technique": "How might weavers plan and keep track of a complex pattern thread by thread?",
+      "personal": "How do you decide what part of a story is missing when you only have a piece of it?",
+      "critical": "How does the condition of a fragment affect what scholars can responsibly claim?"
+    },
+    "g910": {
+      "daily": "How do structure, color, and pattern show the weaver's choices in this fragment?",
+      "emotion": "How does the incomplete state of the textile shape the viewer's emotional response?",
+      "observation": "Describe the fragment's visual organization, including repetition, edges, and areas of wear.",
+      "analysis": "Analyze how the weave's grid structure supports the arrangement of color and form.",
+      "line": "How do vertical and horizontal threads create diagonals and steps in the design?",
+      "shape": "How does the design use repetition and variation to build visual rhythm?",
+      "color": "How do color contrasts articulate the pattern, and how might age have altered them?",
+      "texture": "How does a woven surface of camelid hair and cotton differ visually from a flat painted image?",
+      "space": "How does presenting a textile fragment on a flat plane differ from its original use on a body?",
+      "light": "How does fine weave structure respond to light, and how might that have affected the garment's appearance?",
+      "meaning": "How should scholars distinguish description from interpretation when the record gives no iconography?",
+      "culture": "How did Wari textile traditions influence later Andean weaving, and how can we study that from fragments?",
+      "technique": "What does complexity in weaving suggest about planning, labor, and shared knowledge?",
+      "personal": "How does knowing an object is a fragment change the kind of attention you give it?",
+      "critical": "How do fragmentary textiles shape the stories museums tell about ancient Andean societies?"
+    },
+    "g1112": {
+      "daily": "What is the strongest case you can make from this fragment about Wari textile art, and what are its limits?",
+      "emotion": "How does fragmentation contribute to an aesthetic of absence, and is that aesthetic a modern museum construction?",
+      "observation": "Describe the fragment precisely. Where does your description depend on imagining the missing whole?",
+      "analysis": "Analyze how the weave's structure becomes the framework of the image, and what that implies about the relationship between making and designing.",
+      "line": "How does the grid of warp and weft constrain and enable line in the design?",
+      "shape": "How might repeated or stepped forms operate as a visual language across Andean cloth, and how cautious should we be?",
+      "color": "How do fiber, dye, and aging interact to produce the color we see now, and how might it differ from the original?",
+      "texture": "In what ways do the fiber properties of cotton and camelid hair record trade, environment, and technique?",
+      "space": "How does the loss of the surrounding garment alter the proportions and reading of what remains?",
+      "light": "How do conservation requirements shape the way textile fragments are lit and displayed, and how does that affect interpretation?",
+      "meaning": "Evaluate how the Wari influence on the Andes is argued through textiles, and what role fragments play in such arguments.",
+      "culture": "How does the label Wari simplify a society that spanned a wide region, and what does that obscure?",
+      "technique": "What does the technical level of the weaving imply about specialist labor and the transmission of knowledge?",
+      "personal": "How does your own idea of beauty in an unfinished or broken object shape your response?",
+      "critical": "Why did this tunic become a fragment, and how might the histories of excavation and collecting have shaped it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Textiles-Woven), objectName (Tunic fragment), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Wari were an Andean society centered in the highlands of Peru from roughly the 7th to the 10th century and were known for fine textiles. This is a fragment of a tunic; the record gives no information about its pattern, wearer, or findspot.",
+    "vocabulary": [
+      "Wari",
+      "tunic",
+      "fragment",
+      "camelid",
+      "woven",
+      "Andes"
+    ],
+    "directions": [
+      "Have students draw what they imagine the whole tunic looked like, then explain which parts are evidence and which are imagination.",
+      "Ask students to weave paper strips and notice how pattern appears from the structure.",
+      "Discuss how fragments are used to study the past when whole objects are missing."
+    ]
+  }
+}

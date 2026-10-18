@@ -1,0 +1,158 @@
+{
+  "id": "artic-64818",
+  "day": "08-12",
+  "title": "Stacks of Wheat (End of Summer)",
+  "artist": "Claude Monet",
+  "date": "1890–91",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Arthur M. Wood, Sr. in memory of Pauline Palmer Wood",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "Two large rounded stacks of harvested wheat stand in a field in summer light, with trees, hills and a building behind them. The stacks glow in warm pinks and golds while the field is green.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/64818",
+    "objectId": "64818",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (seasons, nature, farm, trees, hills, building, wheat, summer, rural life, pink and green), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Claude Monet, dated 1890–91, one of several paintings of grain stacks he made near his home in Giverny. The Art Institute's subject terms list wheat, farm, trees, hills, a building and summer. Monet painted the same subject in different seasons and times of day.",
+  "descriptions": {
+    "k": "Two big piles of wheat stand in a field. It is summer. The sky is warm and the grass is green. Can you find the pink and gold colors? Do the stacks look warm or cool?",
+    "g12": "Claude Monet painted big stacks of wheat in a field. It is the end of summer. He painted the same stacks in other seasons too. Look for pink, gold, and green. Why do you think he painted them again and again?",
+    "g35": "Claude Monet painted Stacks of Wheat (End of Summer) in 1890–91 near his home in France. A stack of wheat is a pile of cut grain stored in a field. Monet painted these stacks many times in different light and seasons. Look at the pinks, golds, and greens. How does the light change how the stacks look?",
+    "g68": "In 1890–91 Monet painted a group of canvases of wheat stacks near Giverny. This one is called End of Summer. Instead of a dramatic subject, he picked a plain farm shape and studied how light and color changed it. Notice the warm glow on the stacks and the cooler shadows. Why might repeating one subject help show light more clearly than painting many different subjects?",
+    "g910": "Stacks of Wheat (End of Summer) belongs to the group of grain-stack paintings Monet made in 1890–91, among his early series. By repeating a humble farm motif under different conditions, he turned attention from subject to light, color, and the moment of seeing. Warm stacks and cool shadows structure the scene. How does the series approach change what a painting is about, compared with a single scene?",
+    "g1112": "Monet's wheat stacks (1890–91), including End of Summer, are often treated as a turning point toward serial painting: the motif remains constant while light, season, and atmosphere vary. The paintings reduce rural labor to quiet, mounded forms and make color relationships the subject. How does the series strategy complicate ideas of finish and originality, and what does it reveal about perception as Monet pursued it?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the two big stacks. What do they look like to you?",
+      "emotion": "Does this field feel warm or cool? What colors show you?",
+      "observation": "Find the stacks, the trees, and the hills. Which is nearest to you?",
+      "analysis": "Which colors can you see on the stacks? Point to pink, gold, or green.",
+      "line": "Monet used soft dabs of paint. Where do they look like fur or fluff?",
+      "shape": "The stacks look like big round mounds. What other round shapes can you spot?",
+      "color": "What colors do you see in the sky and the field?",
+      "texture": "Does the paint look smooth or bumpy? Tell us how you know.",
+      "space": "Which things are close and which are far away in this field?",
+      "light": "Where does the sun touch the stacks? Where are the shadows?",
+      "meaning": "People stored wheat in stacks like this long ago. Why do you think they did that?",
+      "culture": "Monet painted a farm in France. What food comes from a farm near you?",
+      "technique": "Monet painted these stacks again and again. What do you think changed each time?",
+      "personal": "If you painted something from your yard many times, what would it be?",
+      "critical": "What would you ask a farmer who built these stacks?"
+    },
+    "g12": {
+      "daily": "Look at the two stacks. What do they remind you of?",
+      "emotion": "Is the day sleepy and warm or cold and bright? Show us which colors tell you.",
+      "observation": "List five things you see: stacks, trees, hills, and more.",
+      "analysis": "How does Monet make the stacks the main part of the picture?",
+      "line": "Where are the brushstrokes short and where are they long?",
+      "shape": "Which shapes repeat in this picture: mounds, hills, or trees?",
+      "color": "Monet used pink and orange next to green. How do those colors help each other stand out?",
+      "texture": "How can you tell the grass from the stacks by how the paint looks?",
+      "space": "The hills are behind the stacks. How does Monet show they are farther away?",
+      "light": "Where does the light seem strongest? Where does it seem softest?",
+      "meaning": "End of summer is in the title. What clues show it is summer?",
+      "culture": "A wheat field is part of farm life. What do you know about how wheat becomes bread?",
+      "technique": "Why might Monet paint quickly outdoors instead of in his studio?",
+      "personal": "Choose a season. How would these stacks look different in snow?",
+      "critical": "Is a painting of a pile of wheat as interesting as one of a castle? Why?"
+    },
+    "g35": {
+      "daily": "What clues in the picture tell you about the season and the time of day? What can you not tell?",
+      "emotion": "What feeling does the late-summer light give the field, and which colors and strokes create it?",
+      "observation": "Look slowly from the stacks to the hills. What small details did you notice last?",
+      "analysis": "How does Monet place the stacks so they feel big and solid in the field?",
+      "line": "How do the soft, short strokes build the surface of the stacks and field?",
+      "shape": "How do the rounded shapes of the stacks compare to the shapes of the hills and trees?",
+      "color": "How do warm and cool colors in the stacks and shadows show sunlight?",
+      "texture": "How does the paint feel thick or thin in different places?",
+      "space": "How does the building and hills behind the stacks make the field feel deep?",
+      "light": "Where do the shadows fall, and what do they tell you about the sun's position?",
+      "meaning": "Monet painted wheat stacks in different seasons. Why might he do that?",
+      "culture": "What does the painting show about farm life near Paris in the 1890s?",
+      "technique": "Impressionists painted outdoors. How might that change how a painting looks?",
+      "personal": "What object near you could you study at different times of day?",
+      "critical": "Is a painting about wheat, about light, or about both? Explain."
+    },
+    "g68": {
+      "daily": "How does Monet make a plain farm object into a worthy subject, and what does the title tell you?",
+      "emotion": "What mood do the warm gold and pink light create, and how would different light change it?",
+      "observation": "Describe the stacks, the field, and the distant hills in order. Which area is most detailed?",
+      "analysis": "How does Monet arrange the stacks, trees, and hills so your eye moves into the distance?",
+      "line": "How do the directions of the brushstrokes help describe the surfaces of stacks and field?",
+      "shape": "How do the large mounded shapes contrast with the lines of the horizon?",
+      "color": "How does Monet use complementary colors, like pinks against greens, to make light glow?",
+      "texture": "How does the paint surface suggest the rough texture of cut wheat?",
+      "space": "How does the use of atmosphere make the distant hills softer than the stacks?",
+      "light": "How do warm lit sides and cool shadow sides make the stacks look three-dimensional?",
+      "meaning": "Why might painting one subject in many conditions be a better way to study light?",
+      "culture": "How does the painting reflect the French countryside around Giverny in the 1890s?",
+      "technique": "How does Monet's method of broken color differ from blending paint smoothly?",
+      "personal": "What series could you create to study how something changes through the day?",
+      "critical": "How would you argue that this painting is about time as much as about wheat?"
+    },
+    "g910": {
+      "daily": "How does Monet's choice of a simple farm subject shift your attention to light and color?",
+      "emotion": "How do the warm tones and soft atmosphere shape the mood of late summer?",
+      "observation": "Examine how detail changes from the foreground stacks to the distant hills. What does that suggest about his priorities?",
+      "analysis": "Analyze how the placement and scale of the stacks establish a central focus within the landscape.",
+      "line": "How does directional brushwork describe the form and surface of the stacks?",
+      "shape": "How does the massing of the stacks contrast with the horizontal bands of field and hills?",
+      "color": "Evaluate how warm and cool contrast creates a sense of glowing light without strong outlines.",
+      "texture": "What does the textured, layered paint suggest about the process of building color over time?",
+      "space": "How does atmospheric softening create depth despite a compressed composition?",
+      "light": "How does the treatment of shadow as colored, not dark, reflect Impressionist ideas?",
+      "meaning": "How does the serial approach change the meaning of a single canvas in the group?",
+      "culture": "How might the agricultural subject connect to Monet's life in Giverny and French rural identity?",
+      "technique": "How does Monet's technique anticipate abstraction while remaining tied to observation?",
+      "personal": "How do you respond to repetition in art, and does it increase or decrease value for you?",
+      "critical": "How would you defend the view that a humble motif can carry as much weight as a grand one?"
+    },
+    "g1112": {
+      "daily": "How does the series strategy reposition the painting from depiction of a scene to investigation of perception?",
+      "emotion": "To what degree does the glowing light produce serenity, and how might the same picture suggest the passing of the season?",
+      "observation": "Analyze the gradient of resolution from stack to hill, and what it implies about attention and distance.",
+      "analysis": "How does the compositional placement of the stacks establish both monumentality and intimacy?",
+      "line": "How does the facture register both the substance of the motif and the process of observation?",
+      "shape": "How do mass and horizon interact to structure an otherwise minimal subject?",
+      "color": "Evaluate Monet's use of complementary and adjacent hues to generate luminosity and how it relates to contemporary color theory.",
+      "texture": "What does the layering of paint suggest about the work's finishing over time, rather than in a single session?",
+      "space": "How does atmospheric perspective operate in a subject lacking conventional landmarks?",
+      "light": "How do colored shadows challenge earlier conventions of chiaroscuro?",
+      "meaning": "How does the group of grain-stack paintings anticipate later serial practices in modern art?",
+      "culture": "How might the depiction of agricultural abundance be read alongside the rapid modernization of France?",
+      "technique": "How do the stacks function as a bridge between Impressionist observation and later abstraction?",
+      "personal": "What do you make of the value attached to Monet's repetition in the art market and in museums?",
+      "critical": "How might one argue that the stack paintings are fundamentally about time, and what counterarguments exist?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (seasons, nature, farm, trees, hills, building, wheat, summer, rural life, pink and green) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1890–91 by Claude Monet, in oil on canvas, one of several grain-stack paintings. The museum record lists wheat, farm, trees, hills, a building and summer. Good for discussing series, light and season.",
+    "vocabulary": [
+      "Impressionism",
+      "series",
+      "broken color",
+      "complementary colors",
+      "atmosphere",
+      "motif"
+    ],
+    "directions": [
+      "Have students sketch the same object in morning and afternoon light and compare colors.",
+      "Ask students to find warm and cool colors in the painting and explain how they suggest sunlight.",
+      "Discuss why an artist might choose an everyday farm object as a main subject."
+    ]
+  }
+}

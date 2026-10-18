@@ -1,0 +1,159 @@
+{
+  "id": "met-436932",
+  "day": "06-18",
+  "title": "The Lacemaker",
+  "artist": "Nicolaes Maes",
+  "date": "ca. 1656",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145402.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145402.jpg",
+    "credit": "The Metropolitan Museum of Art, The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woman works on needlework or lace in a home interior, with a baby also in the scene, in a painting of quiet domestic life.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436932",
+    "objectId": "436932",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Nicolaes Maes was a Dutch painter who trained with Rembrandt and later became known for quiet scenes of women at work in the home. Lacemaking and other needlework were common skills in Dutch households. Pictures of domestic work were popular with Dutch buyers.",
+  "descriptions": {
+    "k": "A woman is making lace at home. A baby is in the room too. She uses her hands to make something small and fancy. What do you think she is making? How do you think she feels?",
+    "g12": "A woman sits in a home and works carefully with her hands on lace. A baby is nearby. The scene is quiet and calm. Maes painted this long ago in the Netherlands. What do you think the woman is thinking about while she works?",
+    "g35": "Nicolaes Maes painted this scene of a woman making lace around 1656. Lace is a fine fabric made from threads, and it takes patience. A baby is also in the room, so the woman may be caring for the child and working at the same time. Look at her hands, her face and the room. What do these details tell you about her day?",
+    "g68": "Maes, who studied with Rembrandt, specialized in quiet domestic scenes. In The Lacemaker (about 1656), a woman focuses on delicate needlework, and an infant also appears in the scene. The painting values ordinary work as a worthy subject, a theme common in Dutch genre painting. Notice how the composition draws attention to her concentration. What does the picture suggest about work and family life, and what might it be leaving out?",
+    "g910": "In The Lacemaker, Maes depicts domestic labor as a subject of calm concentration. A woman at needlework, with an infant nearby, fills a quiet interior shaped by controlled light. Dutch genre painting often presented women's household work in ways that could praise industriousness and care, though scholars debate how far such images show real life and how far they reflect ideals of the period. How do composition and light shape your sense of this woman's life, and whose view is it?",
+    "g1112": "Maes, a former pupil of Rembrandt, painted The Lacemaker around 1656 as part of a Dutch tradition of domestic scenes. The woman's focused work and the nearby infant are presented with calm and dignity. Historians note that such images may reflect ideals of virtue and industriousness as much as lived reality, and the pictures were made mostly by male painters for a market of buyers. How does the painting construct an image of women's work and care, and how would you test that against the evidence of the picture itself?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the woman is making with her hands? Tell your idea.",
+      "emotion": "Does she look busy, calm or sleepy? What shows you?",
+      "observation": "Can you find the woman and the baby? Point to each one.",
+      "analysis": "What are your eyes drawn to first, her face, her hands or something else?",
+      "line": "Trace the line of her arm with your finger. Where does it go?",
+      "shape": "What shapes can you find in her clothes or the room?",
+      "color": "What colors are in her clothes? Do they look bright or soft?",
+      "texture": "How would lace feel if you touched it? Soft, scratchy or lacy?",
+      "space": "Is the room small and cozy or big and empty? How can you tell?",
+      "light": "Where is the light brightest? What does it shine on?",
+      "meaning": "What do you think the woman wants to make with her lace?",
+      "culture": "Long ago, people made lace by hand. What things do people in your family make by hand?",
+      "technique": "Painting tiny threads takes small brushes. What other tiny things could you paint?",
+      "personal": "What do you like to do slowly and carefully, like she does?",
+      "critical": "Why would a painter choose to paint someone doing quiet work?"
+    },
+    "g12": {
+      "daily": "How does the painter show that the woman is concentrating on her work? Point to the clues.",
+      "emotion": "What feeling does the quiet room give you? Which part of the picture helps?",
+      "observation": "Describe three things about the woman and three things about the room.",
+      "analysis": "Where do your eyes travel after you look at her face? What leads them there?",
+      "line": "How do the lines of her arms and hands show that she is working carefully?",
+      "shape": "Look at the shapes of her clothes. Are they soft or sharp? What does that tell you?",
+      "color": "Which colors stand out most? How do they make you notice her?",
+      "texture": "How does the painter make cloth, skin and lace look different?",
+      "space": "How does the painter make you feel like you are standing close to her in the room?",
+      "light": "Where does the light seem to come from? How does it change how she looks?",
+      "meaning": "Why might the painter choose to show a woman at work and not a king or queen?",
+      "culture": "What does this painting tell you about how people at home lived in the Netherlands long ago?",
+      "technique": "The painter had to show tiny threads and soft cloth with paint. Why might this be hard?",
+      "personal": "When you are busy making something, how do you feel? Does she seem to feel the same?",
+      "critical": "Does this picture show real life exactly, or an idea of a good home? What do you think?"
+    },
+    "g35": {
+      "daily": "Maes shows the lacemaker's focus and the baby nearby. What details tell you about the work and the care in this home?",
+      "emotion": "What mood fills the lacemaker's room? Point to the details that help set it.",
+      "observation": "Look slowly across the painting. What objects, clothes and small details do you notice?",
+      "analysis": "How does the painter arrange the woman, the baby and the room so you understand the story?",
+      "line": "How do the lines of her hands, arms and body guide your eyes to her work?",
+      "shape": "What soft and sharp shapes do you see in the clothing and furniture? How do they balance?",
+      "color": "How do the colors in her clothes compare with the colors of the room?",
+      "texture": "How does Maes show the difference between fine lace, cloth and wood?",
+      "space": "How can you tell where the woman sits in the room and how far away the walls are?",
+      "light": "Where does light fall on her face and hands? Why might the painter choose that place?",
+      "meaning": "What might the artist want us to think about this woman and her work?",
+      "culture": "Lacemaking and needlework were often done by women at home. Why might people have liked paintings of this work?",
+      "technique": "Maes studied with Rembrandt, who used strong light and shadow. Where do you see that influence?",
+      "personal": "Think of someone who works carefully on a skill you admire. How is that like this painting?",
+      "critical": "Do you think this painting shows what home work was really like? What might be missing?"
+    },
+    "g68": {
+      "daily": "How does Maes make an ordinary task of handwork the focus of the painting? Identify the choices that lead your eye there.",
+      "emotion": "What emotional tone does the painting set through light and posture, and what does the presence of the infant add?",
+      "observation": "List the people, objects and details of the room. Which are easy to miss?",
+      "analysis": "How does the composition direct attention to the woman's hands and face, and what happens to the rest of the room?",
+      "line": "How do the lines of the arms, the head and the work form a pathway through the painting?",
+      "shape": "How do the large shapes of her clothing and the room's shapes create a feeling of enclosure?",
+      "color": "How does the color scheme help the figure stand out from the room?",
+      "texture": "Which textures are the most detailed, and how does Maes use them to make the scene believable?",
+      "space": "How does the close view place you in relation to the woman, and how does that affect empathy?",
+      "light": "How does Maes use light and shadow, possibly learned from Rembrandt, to focus attention and set mood?",
+      "meaning": "Some scholars connect images of women's work with ideas about virtue and industry. What evidence in the picture supports or complicates this reading?",
+      "culture": "What can a painting of domestic work tell us about values in the Dutch Republic, and who made and bought such paintings?",
+      "technique": "What skills would a painter need to show fine lace and soft cloth convincingly with oil paint?",
+      "personal": "How do the activities of care and craft in your life resemble or differ from those shown here?",
+      "critical": "Whose perspective might shape this picture, and how might the woman herself have represented her work?"
+    },
+    "g910": {
+      "daily": "How does Maes make quiet concentration the emotional center of the painting, and how does he use composition to achieve it?",
+      "emotion": "How does the interplay of subdued light, enclosed space and the figure's posture shape the painting's mood?",
+      "observation": "Describe the painting's visual hierarchy. What do you see first, and what do you notice after careful looking?",
+      "analysis": "Analyze the relationship between the woman, the infant and the surrounding space. What does the arrangement imply?",
+      "line": "How do the lines of figure and handwork create a flow of attention through the picture?",
+      "shape": "How do the broad shapes of clothing and setting unify the composition?",
+      "color": "How does the painter use color to establish focus and to connect the figure to her environment?",
+      "texture": "How does the handling of fine lace, textile and skin establish the painting's illusion of reality?",
+      "space": "How does the intimate scale of the space affect the viewer's sense of access to the scene?",
+      "light": "How does directional light model the figure and what mood does it create?",
+      "meaning": "How do ideals of domestic virtue in Dutch culture shape the way this picture might have been read, and how do we read it today?",
+      "culture": "How did Dutch genre painting present women's work, and what does that tell us about the painters' and buyers' expectations?",
+      "technique": "How might Maes' training in Rembrandt's circle be visible in the lighting and handling of paint?",
+      "personal": "What does your own experience of patient work or of caregiving bring to your reading of this scene?",
+      "critical": "How do we distinguish between a painting that honors women's work and one that idealizes a role women were expected to fill?"
+    },
+    "g1112": {
+      "daily": "What does the painting suggest about the dignity of women's work, and what might its calm surface leave unexamined?",
+      "emotion": "How does the painting manufacture intimacy through scale, light and posture, and what questions arise about the viewer's role?",
+      "observation": "Describe the figure, the infant and the setting as precisely as you can before interpreting. Which assumptions entered your description?",
+      "analysis": "How does the composition balance narrative and portrait-like focus, and how does that affect meaning?",
+      "line": "How does the line of the body and the handwork guide the viewer, and what hierarchy of attention does it create?",
+      "shape": "How do mass and silhouette unify figure and interior, and what might that unity imply?",
+      "color": "How does color support or complicate the picture's emotional register?",
+      "texture": "How does the representation of fine material detail reflect the value of craft, both depicted and enacted by the painter?",
+      "space": "How does the proximity of the viewpoint shape an ethical or emotional relation to the woman depicted?",
+      "light": "How does the use of chiaroscuro, a lighting approach associated with Rembrandt, serve the painting's meanings?",
+      "meaning": "How might historians test claims that Dutch images of domestic labor express moral ideals, and what would count as evidence?",
+      "culture": "What can this painting tell us about gender, work and the home in the Dutch Republic, and what are the limits of that evidence?",
+      "technique": "How do the demands of depicting fine lace and soft textiles in oil relate to the theme of skilled craft?",
+      "personal": "How might your own assumptions about gender and domestic work influence your interpretation?",
+      "critical": "Who is the intended viewer of this painting, and how does that shape the ideal of womanhood it presents?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Interiors, Infants, Women, Needlework) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A domestic scene by Nicolaes Maes, a pupil of Rembrandt, painted around 1656. The painting shows needlework, a typical household craft, and an infant is also in the scene.",
+    "vocabulary": [
+      "genre painting",
+      "lace",
+      "needlework",
+      "interior",
+      "chiaroscuro",
+      "composition"
+    ],
+    "directions": [
+      "Invite students to try a simple handcraft, such as braiding or finger knitting, and describe the concentration it takes.",
+      "Discuss which kinds of work are shown in art and which are rarely shown.",
+      "Compare with a photograph of someone working today."
+    ]
+  }
+}

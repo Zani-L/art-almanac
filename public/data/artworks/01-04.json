@@ -1,0 +1,159 @@
+{
+  "id": "met-436535",
+  "day": "01-04",
+  "title": "Wheat Field with Cypresses",
+  "artist": "Vincent van Gogh",
+  "date": "1889",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-42549-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, The Annenberg Foundation Gift, 1993",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A golden wheat field ripples in the foreground beneath a sky of swirling white and blue clouds. Dark, flame-shaped cypress trees rise from the field, and blue hills sit in the distance. The paint is thick and applied in short, curving strokes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436535",
+    "objectId": "436535",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Landscapes, Cypresses, Summer), credit line, and image URLs read from the record"
+  },
+  "context": "Vincent van Gogh painted this landscape in 1889, during his time in the south of France. He made more than one version of this scene, and this oil painting is known for its thick paint and rhythmic brushwork.",
+  "descriptions": {
+    "k": "Golden wheat blows in the wind. Tall dark trees point up like flames. The sky swirls with big white clouds. Can you follow the swirls with your finger? What does the wind feel like in this picture?",
+    "g12": "Vincent van Gogh painted this field in 1889. The paint is thick, and you can almost see each brush stroke. Short, curvy strokes make the wheat wave and the clouds swirl. Dark cypress trees reach up toward the sky. Does this place feel calm or full of energy? What shows you?",
+    "g35": "Van Gogh painted this summer scene in 1889, when he was living in the south of France. He used thick paint and bold strokes that follow the shapes they describe: the wheat ripples, the hills roll, and the clouds curl. The cypress trees, dark and tall, stand out against the bright sky. Find places where the strokes change direction. How do they make the picture feel alive?",
+    "g68": "In 1889 Van Gogh was living in Provence, and he painted this landscape more than once. Thick, directional brushstrokes, a technique called impasto, make the wheat, hills, and sky seem to move all at once. The dark cypresses anchor the composition, while the bright field and swirling clouds fill the rest. Compare the trees' shapes with the clouds' shapes. How might Van Gogh be expressing a feeling as well as showing a place?",
+    "g910": "Painted in 1889 during his stay in Provence, this canvas shows how Van Gogh turned observation into expressive form. Rhythmic, thickly applied strokes unify earth, plants, and sky, so nothing feels still. The upright, flame-like cypresses contrast with the sweep of the wheat and the churning clouds, creating both tension and balance. Consider how color and direction of stroke guide your eye. How might the picture express a feeling about nature rather than only record it?",
+    "g1112": "Wheat Field with Cypresses is often discussed as an example of Post-Impressionism's shift from recording appearances toward expressing sensation. Van Gogh's densely worked surface, with its rhythmic, directional marks, fuses the physical landscape with a vivid personal response. Interpretations vary: some viewers link the cypresses to mortality or endurance, while others stress formal concerns such as color, pattern, and surface. Because the artist's own comments are partial, how can we weigh biographical readings against what the painting itself shows?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you stood in this wheat field, what would you hear and feel? Point to what makes you think so.",
+      "emotion": "Do the swirly clouds make you feel sleepy, excited, or something else? Why?",
+      "observation": "Find the tall dark trees, the golden wheat, and the blue hills. Which one do you spot first?",
+      "analysis": "What is the biggest part of this picture, the field or the sky? How can you tell?",
+      "line": "Trace the curly lines in the clouds with your finger. Where else do you see curly lines?",
+      "shape": "The dark trees look a little like flames. What other shapes can you find in the hills or the clouds?",
+      "color": "Find the yellow, the blue, and the dark green. Which color do you think is the loudest?",
+      "texture": "The paint is thick and bumpy. How do you think the wheat would feel if you could touch the paint?",
+      "space": "What is close to you in this picture, and what is far away? Where do the hills sit?",
+      "light": "Is this a bright sunny day or a cloudy one? Point to the part that tells you.",
+      "meaning": "If the wind could talk in this picture, what would it say?",
+      "culture": "Wheat is used to make bread. What foods do you eat that might begin as a field like this?",
+      "technique": "The painter used lots of little brush strokes. Can you wiggle your finger the way his brush moved?",
+      "personal": "Have you ever stood in a windy place? Tell about what you saw and felt.",
+      "critical": "Do you think the trees are more important than the field? Show us what you notice."
+    },
+    "g12": {
+      "daily": "How does Van Gogh make a still painting feel like it is moving? Find two places to show us.",
+      "emotion": "Is the mood of this field peaceful, wild, or both? Which parts make you feel that way?",
+      "observation": "List five things you see, starting from the wheat at the bottom and moving up to the clouds.",
+      "analysis": "How do the dark trees help your eyes find their way through the bright, busy picture?",
+      "line": "Compare the lines in the wheat with the lines in the clouds. How are they alike and how are they different?",
+      "shape": "The cypresses are tall and pointed, and the hills are low and round. How do these shapes work together?",
+      "color": "Yellow and blue sit side by side here. What happens when you look at them together?",
+      "texture": "Where does the paint of the wheat look thickest and roughest, and where does the sky look smoother?",
+      "space": "How do the hills at the back help you feel how big this place is?",
+      "light": "Which parts of the field look brightest? How does the cloudy sky change the light?",
+      "meaning": "Van Gogh painted this scene more than once. Why might someone want to paint the same place again?",
+      "culture": "Farmers grow wheat in fields like this in the south of France. What do you think a farmer's day there is like?",
+      "technique": "Van Gogh piled paint up in thick strokes. How can you tell he did not blend it smooth?",
+      "personal": "Think of a place outdoors that feels big and windy to you. How would you paint it?",
+      "critical": "Is this a picture of what the field looked like, or how the artist felt about it? Give a reason from the painting."
+    },
+    "g35": {
+      "daily": "Look at how the wheat, trees, and sky are all painted with moving strokes. What does this tell you about the day Van Gogh was painting?",
+      "emotion": "Is the energy in this landscape joyful, restless, or something else? Use two details as evidence.",
+      "observation": "Spend one minute counting the different kinds of brushstrokes you can find. Which direction does each one travel?",
+      "analysis": "How do the dark cypresses balance the bright wheat and the swirling clouds? What would change if they were gone?",
+      "line": "Which lines in the sky echo the shapes of the hills or the wheat below? Find one pair that match.",
+      "shape": "How does the flame-like shape of the cypresses differ from the rolling shapes of the hills and clouds?",
+      "color": "Where do warm yellows meet cool blues, and how does that meeting make each color look stronger?",
+      "texture": "Imagine running your hand across this canvas. Which areas would feel the roughest, and why?",
+      "space": "How does Van Gogh lead your eye from the wheat at the front to the hills at the back?",
+      "light": "The sky is full of bright clouds, yet the trees are very dark. How does that contrast shape the feeling of light?",
+      "meaning": "Van Gogh once compared cypresses to ancient stone monuments. What might a tall dark tree add to a sunny wheat field?",
+      "culture": "This painting shows farmland in Provence, in southern France. What clues show that people grow food here?",
+      "technique": "Van Gogh used thick paint straight from the tube in places. How does that change the way light hits the surface?",
+      "personal": "Choose a weather condition you love, such as wind, fog, or hot sun. How would you paint it so others could feel it?",
+      "critical": "Some people say Van Gogh painted what he felt instead of what he saw. Which details support that idea?"
+    },
+    "g68": {
+      "daily": "How does the whole surface of this canvas, not just the subject, communicate energy?",
+      "emotion": "Where does the painting feel calm and where does it feel agitated? How are those two moods held together?",
+      "observation": "Map the picture in zones: foreground wheat, cypresses, hills, sky. What distinct marks do you see in each zone?",
+      "analysis": "How does Van Gogh create unity when the clouds, trees, and wheat are all so different in form?",
+      "line": "Describe how the direction of brushstrokes changes from wheat to hills to clouds. What effect does each direction create?",
+      "shape": "How does the vertical thrust of the cypresses play against the horizontal layers of field, hills, and sky?",
+      "color": "Van Gogh places strong yellows near deep blues and greens. How does this contrast affect your sense of heat and depth?",
+      "texture": "How does impasto create real texture on the canvas that also suggests the texture of wheat, leaves, and cloud?",
+      "space": "Which devices, such as overlapping, scale, and color temperature, push the hills back from the wheat?",
+      "light": "Van Gogh did not use a single clear light source here. How does he still make the field feel sunlit?",
+      "meaning": "Cypresses are often linked in European culture with cemeteries, though Van Gogh also admired them for their beauty. How might both ideas shape what you see?",
+      "culture": "Van Gogh was Dutch but painted in Provence. How might a visitor from the north see this landscape differently from a local farmer?",
+      "technique": "Why might an artist paint outdoors and rework a scene several times? What might change from one version to the next?",
+      "personal": "What landscape do you know well enough to paint from memory? What would you exaggerate to show how it feels?",
+      "critical": "Does the energy of this painting make the landscape seem more truthful or less truthful? Defend your view."
+    },
+    "g910": {
+      "daily": "How do the painting's marks, colors, and composition combine to turn an ordinary field into an intense experience?",
+      "emotion": "How does Van Gogh generate emotional intensity through brushwork alone, with no human figure in the scene?",
+      "observation": "Describe the visual hierarchy: which element dominates, and how do the surrounding forms support or challenge it?",
+      "analysis": "Analyze how the upright cypresses and horizontal bands of land and sky create structure within a seemingly wild surface.",
+      "line": "How does the curving, rhythmic line of the sky relate to the shorter strokes of the wheat? Does it unify or compete?",
+      "shape": "How do the flame-like silhouettes of the cypresses differ from the soft, rolling forms of hills and clouds, and what does that contrast accomplish?",
+      "color": "Evaluate how Van Gogh uses complementary and near-complementary colors to heighten vibration and depth.",
+      "texture": "How does the thickness of the paint shift between foreground and background, and what does that do to your sense of closeness?",
+      "space": "How does this painting balance a convincing recession into the hills with an insistent, flattened surface pattern?",
+      "light": "How does color, rather than shadow, convey the brightness of the day?",
+      "meaning": "How might the cypresses be read as symbols, and what in the painting itself supports or limits that reading?",
+      "culture": "How does a Dutch artist painting a Provençal wheat field in 1889 reflect broader European ideas about the countryside?",
+      "technique": "What does the visible handling of paint suggest about speed, decision, and revision in Van Gogh's process?",
+      "personal": "How does your own experience of weather or landscape shape the way you respond to the painting's movement?",
+      "critical": "Is expressive distortion a form of honesty or exaggeration? Use specific passages of the painting to argue a position."
+    },
+    "g1112": {
+      "daily": "What does this surface suggest about how Van Gogh looked at nature, and how much of that can be known from the painting alone?",
+      "emotion": "How does the painting resist a single emotional label? Where do calm and unease coexist, and what holds them in tension?",
+      "observation": "Describe the scene's formal organization precisely, then identify where your description already becomes interpretation.",
+      "analysis": "How does Van Gogh's compositional structure reconcile the recession of the landscape with the flattening effect of rhythmic mark-making?",
+      "line": "How does the painting's reliance on directional mark-making redefine line as something built from touch rather than contour?",
+      "shape": "How do the cypresses operate both as observed trees and as abstracted, almost sculptural forms that anchor the composition?",
+      "color": "In what ways does the painting's chromatic structure reflect Post-Impressionist concerns with expression rather than optical fidelity?",
+      "texture": "What are the stakes of a surface that insists on its own materiality? How does that shape the relationship between paint and the depicted world?",
+      "space": "How does the painting unsettle conventional landscape perspective while still reading as a place?",
+      "light": "How does the painting suggest light as a force or atmosphere rather than a measurable condition?",
+      "meaning": "Compare symbolic, biographical, and purely formal readings of the cypresses. Which is best supported, and which depends on outside assumptions?",
+      "culture": "How does the myth of the tormented artist influence how viewers read paintings like this, and how might that obscure the work's formal intelligence?",
+      "technique": "What might the existence of several versions of this scene suggest about the relation between direct observation and later reworking?",
+      "personal": "How do your own associations with fields, weather, or famous paintings shape what you notice here, and what might they hide?",
+      "critical": "What standards of evidence should govern claims about an artist's state of mind drawn from the look of a painting?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Landscapes, Cypresses, Summer), classification (Paintings), and medium checked against the museum record. The subject is a landscape with no figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1889 in southern France. Van Gogh made several versions of this subject, so students can compare how one scene can be painted more than once.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "impasto",
+      "cypress",
+      "brushstroke",
+      "complementary colors",
+      "landscape"
+    ],
+    "directions": [
+      "Have students copy the direction of three different brushstrokes with their arms in the air, then discuss what each stroke seems to describe.",
+      "Ask pairs to cover the sky, then the trees, and discuss how the mood changes each time.",
+      "Compare this landscape with the Bruegel landscape from earlier in the archive: how do two artists show a working countryside differently?"
+    ]
+  }
+}

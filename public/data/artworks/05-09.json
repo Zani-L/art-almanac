@@ -1,0 +1,159 @@
+{
+  "id": "met-451699",
+  "day": "05-09",
+  "title": "Planispheric Astrolabe",
+  "artist": "Muhammad Zaman al-Munajjim al-Asturlabi",
+  "date": "dated 1065 AH/1654–55 CE",
+  "medium": "Brass and steel; cast and hammered, pierced and engraved",
+  "movement": "Safavid scientific instruments",
+  "region": "Iran",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP170383.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP170383.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1963",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round metal instrument made of brass, with a ring at the top for holding it. Its face has pierced, lacy openings, engraved scales and lines, and a band of Arabic calligraphy.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451699",
+    "objectId": "451699",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, country, credit line, public-domain flag, classification and image URLs read from the record; museum page text read for the function and calligraphic faceplate"
+  },
+  "context": "A brass astrolabe made in Iran in 1654 to 1655 by Muhammad Zaman al-Munajjim al-Asturlabi. The Met describes it as a portable instrument used for telling time and for astronomical and other calculations, with a calligraphic faceplate typical of Safavid-period astrolabes.",
+  "descriptions": {
+    "k": "This is a tool for looking at the sky, made long ago. It is round and made of metal. It has a ring at the top for holding. See the tiny lines, the lacy holes, and the pretty writing. What could it measure?",
+    "g12": "An astrolabe is a tool people used to study the sky. This one was made in Iran a long time ago. It is round and made of brass, with a ring on top for holding it. The face has fine lines, cut-out shapes, and writing. How do you think someone used it to learn about stars or time?",
+    "g35": "This astrolabe, made in Iran in 1654 to 1655, is a portable tool for studying the sky and telling time. The maker cast and hammered the brass, then pierced openings and engraved fine lines and lettering. People could turn its parts to see where stars and planets would be. Look for the ring at the top and the careful decoration. Why would a scientific tool also be beautiful?",
+    "g68": "Astrolabes were instruments of the medieval and early modern Islamic world, used to find the time, track stars and planets, and, as the Met notes, help people find prayer times and the direction of prayer. This one was made by Muhammad Zaman al-Munajjim al-Asturlabi in 1654 to 1655. Its brass parts are cast, pierced, and engraved, and its face includes calligraphy typical of Safavid-period astrolabes. How does the object combine accuracy and artistry?",
+    "g910": "This astrolabe, signed by Muhammad Zaman al-Munajjim al-Asturlabi and dated 1654 to 1655, acts as a portable analog computer for timekeeping and astronomical calculation. The Met notes it was less precise for observation than for telling time, and that its calligraphic faceplate is typical of Safavid astrolabes. Brass was cast, hammered, pierced, and engraved, and the pierced openings reveal layers beneath. Consider how scientific function shapes the design while ornament and lettering make the instrument an object of prestige.",
+    "g1112": "As an analog computing device, the astrolabe encoded celestial geometry in brass. This example, dated 1654 to 1655 and attributed to Muhammad Zaman al-Munajjim al-Asturlabi in Iran, was portable, which the Met suggests made it better suited to timekeeping than to precise observation. Its cast, pierced, and engraved metalwork and calligraphic faceplate exemplify the Safavid tradition, where scientific, devotional, and aesthetic purposes overlapped. Such instruments invite questions about the relation between knowledge and beauty, and about how astronomy, astrology, and religious practice were intertwined in the period."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tool helped people look at the sky. Can you find the ring at the top for holding it?",
+      "emotion": "Does this tool feel like a toy, a treasure, or a machine? Why?",
+      "observation": "What do you see on the front of the astrolabe? Point to lines, holes, and writing.",
+      "analysis": "What is the first thing you notice on the astrolabe? Why did it stand out?",
+      "line": "The astrolabe has many thin lines. Can you follow one with your finger?",
+      "shape": "The astrolabe is mostly round. What other shapes can you find on it?",
+      "color": "The astrolabe is made of brass. What color is brass, and how does it make you feel?",
+      "texture": "Some parts are cut out like lace and some parts are smooth. Which would you like to touch?",
+      "space": "Some parts have holes so you can see through them. What do you see behind the holes?",
+      "light": "Metal can shine when light hits it. Which parts of the astrolabe might sparkle?",
+      "meaning": "If you looked at the stars with this tool, what would you hope to learn?",
+      "culture": "People in Iran made this tool long ago to study the sky. Why do people look at the sky?",
+      "technique": "The maker cut tiny holes and scratched fine lines in hard metal. Which job would be harder for you?",
+      "personal": "What do you like to look for in the night sky?",
+      "critical": "This is both a tool and a beautiful object. What makes it both?"
+    },
+    "g12": {
+      "daily": "An astrolabe helps people study stars and time. Which part of it do you think people turned or looked at?",
+      "emotion": "What feeling do you get from looking at such a careful, detailed tool?",
+      "observation": "Describe the astrolabe from the ring at the top to the middle of the face.",
+      "analysis": "How do the cut-out parts and engraved lines work together to make the front interesting?",
+      "line": "Find long curved lines and short straight marks. How might they help someone measure?",
+      "shape": "The astrolabe has circles inside circles. Where can you find them?",
+      "color": "The astrolabe is one metal color. How does that make you notice shapes and lines more?",
+      "texture": "Which parts look smooth, which look cut out, and which look scratched with lines?",
+      "space": "Some parts sit on top of others like layers. How can you tell which part is in front?",
+      "light": "How would light shining through the cut-out shapes change what you see?",
+      "meaning": "The astrolabe was used to find the time and look at the sky. Why might that have been important to people long ago?",
+      "culture": "The Met says this tool could help people find prayer times. How can a tool help with daily life?",
+      "technique": "The maker poured and hammered the brass, then cut holes and engraved lines. Which step do you think took the longest?",
+      "personal": "What tools do you use to find the time or find directions? How are they like this?",
+      "critical": "Is this astrolabe more like a clock, a map, or a work of art? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "How does the astrolabe show both science and artistry at the same time?",
+      "emotion": "What mood or feeling does the intricate, precise metalwork create for you?",
+      "observation": "Look for the ring, the engraved lines, the pierced openings, and the lettering. Which details do you notice most?",
+      "analysis": "How does the circular shape organize the parts of the astrolabe?",
+      "line": "How do engraved lines and cut-out spaces create different kinds of patterns on the face?",
+      "shape": "How do circles and curves repeat across the astrolabe, and why might that matter for a tool for studying the sky?",
+      "color": "Brass has a warm, golden look. How does that metal color affect the way you see the engraved details?",
+      "texture": "How might engraved lines and polished surfaces feel different from the pierced parts?",
+      "space": "How do the openings in the metal reveal what is behind them? Why might that be useful?",
+      "light": "How would the shine of brass change in candlelight or sunlight?",
+      "meaning": "The astrolabe was used to find time and to study the sky. What does this tell us about what people cared about?",
+      "culture": "This astrolabe was made in Iran in the 1600s. What does it suggest about the importance of science and learning there?",
+      "technique": "The maker used casting, hammering, piercing, and engraving. Why might one tool need so many skills?",
+      "personal": "Think of something you own that is both useful and beautiful. How is it like this astrolabe?",
+      "critical": "The Met says astrolabes were less exact for observing than for telling time. How can a tool still be valuable if it is not perfect?"
+    },
+    "g68": {
+      "daily": "What clues on the astrolabe show it was designed as a working instrument, and which show it was also meant to impress?",
+      "emotion": "How does the combination of precise lines and graceful openings create a sense of order and wonder?",
+      "observation": "List the parts you can see: ring, faceplate, scales, lettering, openings. Which seem to have a practical role?",
+      "analysis": "How does the arrangement of circles and lines make a complex device understandable to the eye?",
+      "line": "How does the maker use engraved lines to organize information without crowding the surface?",
+      "shape": "How do the openings and the circular outline suggest the sky and its movement?",
+      "color": "How does the warm brass color unify parts that are layered together?",
+      "texture": "What contrasts of finish do you see between polished areas, pierced openings, and engraved details?",
+      "space": "How do layered parts create depth in a device that is only about two inches thick?",
+      "light": "How might light passing through the pierced openings help a viewer or user see the layers?",
+      "meaning": "The Met says astrolabes helped with timekeeping and with finding prayer directions. How might science and daily life have connected?",
+      "culture": "Why might Safavid-period makers decorate an instrument with calligraphy as well as scientific scales?",
+      "technique": "Casting, hammering, piercing, and engraving require different skills. How might a workshop share these tasks?",
+      "personal": "How do tools you rely on every day, like phones or maps, combine usefulness and design?",
+      "critical": "Why is it difficult to separate science, craft, and religion when studying an object like this?"
+    },
+    "g910": {
+      "daily": "How does the astrolabe merge scientific function, calligraphy, and craftsmanship into one object?",
+      "emotion": "How does the dense, precise decoration convey a sense of authority or reverence for knowledge?",
+      "observation": "Describe the hierarchy of the faceplate: scales, openings, lettering. What draws attention first, and why?",
+      "analysis": "Analyze how the concentric organization of the astrolabe supports both its function and its beauty.",
+      "line": "How does engraved line serve as both measurement and ornament on this instrument?",
+      "shape": "How do the repeated circular and curved forms create a coherent visual system for describing the sky?",
+      "color": "How might the monochrome brass emphasize the clarity of line, pattern, and lettering?",
+      "texture": "How do cast, hammered, pierced, and engraved surfaces create a range of tactile and visual effects?",
+      "space": "How does the layering of plates and pierced parts create a spatial model of the heavens in a flat, portable device?",
+      "light": "How does the reflective metal surface interact with the pierced openings and engraved lines in changing light?",
+      "meaning": "The calligraphic faceplate is typical of Safavid astrolabes. What might lettering on a scientific tool communicate beyond information?",
+      "culture": "How does this astrolabe reflect the status of astronomers and instrument makers in 17th-century Iran?",
+      "technique": "What does the fusion of casting, hammering, piercing, and engraving reveal about the sophistication of instrument making?",
+      "personal": "How does your own use of devices for time and direction help you imagine how this tool shaped daily life?",
+      "critical": "The Met describes the astrolabe as an analog computing device. How useful is that analogy, and where does it break down?"
+    },
+    "g1112": {
+      "daily": "What does this astrolabe suggest about how knowledge, belief, and craftsmanship were entangled in 17th-century Iran?",
+      "emotion": "How might an object that models the heavens create awe, and how much of that depends on knowing how it works?",
+      "observation": "Describe the astrolabe's surface and structure precisely. Which features can you identify without knowing how the instrument works?",
+      "analysis": "Evaluate how the instrument's design balances the demands of geometry with those of ornament and legibility.",
+      "line": "How does line operate here as data, as pattern, and as writing, and where do those roles overlap?",
+      "shape": "How does the instrument translate the geometry of a celestial sphere into planar forms?",
+      "color": "How does the monochrome metal limit or sharpen the viewer's attention to structure?",
+      "texture": "In what ways might the finish of brass and the precision of engraving communicate trustworthiness or prestige?",
+      "space": "How does a device meant to model the sky compress cosmic space into a small, portable object?",
+      "light": "Consider how the reflectivity of brass and the open work of the plates might affect both use and display.",
+      "meaning": "The Met notes uses in astronomy, astrology, and religious practice. How should we think about categories like science and belief that overlap here?",
+      "culture": "How does the signed and dated astrolabe by a named maker illuminate the identity of specialist craftspeople in Safavid Iran?",
+      "technique": "What does the multi-step metalworking reveal about how technical skill and knowledge were transmitted?",
+      "personal": "How does your own understanding of the sky and of time shape what you assume this instrument was for?",
+      "critical": "How should we assess claims about an instrument's accuracy or purpose when we see only a museum object and not its use?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, maker, medium and classification (Metal) checked against the museum record, and the museum page text read: a brass scientific instrument with no figural subject matter.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Astrolabes were portable instruments for telling time and calculating the positions of stars and planets. This one was made in Iran in 1654 to 1655 by Muhammad Zaman al-Munajjim al-Asturlabi.",
+    "vocabulary": [
+      "astrolabe",
+      "brass",
+      "pierced",
+      "engraved",
+      "calligraphy",
+      "analog"
+    ],
+    "directions": [
+      "Have students look at a map of the night sky or planisphere and compare how it models the heavens.",
+      "Ask students to design an instrument that is useful and beautiful, labeling which features serve which purpose.",
+      "Discuss how science and craft worked together in different cultures, using other scientific objects in the archive if available."
+    ]
+  }
+}

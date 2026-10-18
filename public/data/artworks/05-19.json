@@ -1,0 +1,158 @@
+{
+  "id": "met-371503",
+  "day": "05-19",
+  "title": "The Goose Girl",
+  "artist": "Jean-François Millet",
+  "date": "1830–75",
+  "medium": "Drypoint on thin wove paper",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP827625.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP827625.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1922",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A drypoint print of a young girl tending geese, drawn in soft, scratchy dark lines on pale paper.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/371503",
+    "objectId": "371503",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tag (Girls), public-domain flag, and image URLs read from the record. Region is a well-established label for the artist, not a record field."
+  },
+  "context": "A drypoint by the French artist Jean-François Millet, dated 1830–75 in the Met record, titled The Goose Girl. Millet is best known for scenes of rural life in France, and he also made etchings and drypoints.",
+  "descriptions": {
+    "k": "This picture shows a girl and her geese. The artist made it with scratchy, soft lines. Can you find the girl? Can you find a goose? What do you think the girl does all day with her geese?",
+    "g12": "Jean-François Millet made this print of a girl with geese. He drew the lines straight into a piece of metal with a sharp point. The lines look soft and fuzzy. Look for the girl and her geese. What kind of day do you think this is?",
+    "g35": "Jean-François Millet was a French artist who often showed the lives of country people. In this drypoint, a girl takes care of geese. To make a drypoint, an artist scratches lines straight into a metal plate with a sharp tool, which leaves rough edges that hold extra ink. Look at the soft, velvety lines. What do they make you feel about her job?",
+    "g68": "Millet became known for images of rural working life, treating farm workers and herders with seriousness at a time when many artists favored grand subjects. Here, a girl who tends geese is the subject of a drypoint, a technique in which a sharp needle scratches directly into the metal. The raised edges of the scratch, called burr, catch ink and give the lines a soft, velvety look. Notice how the lines build her figure and the setting. What does Millet seem to value about everyday work?",
+    "g910": "In The Goose Girl, Millet gives a humble rural worker the full attention of an artist's hand. The drypoint technique, in which a needle scratches the plate and raises a ridge of metal called burr, produces rich, soft lines that differ from the crisper line of an etching. Millet's wider reputation rests on dignified images of peasant labor, and this print fits that interest, though the Met's wide date range of 1830–75 leaves its exact timing uncertain. Consider how line and subject together convey respect.",
+    "g1112": "The Goose Girl illustrates Millet's sustained interest in rural labor, a subject that some nineteenth-century critics found unworthy of fine art and others admired as honest and humane. Technically, drypoint produces velvety lines through burr, which wears down with printing, so impressions vary. The Met gives a broad date range, 1830–75, so we cannot pin the print to a specific moment in his career. How does the work balance sympathy for its young subject with the idealization that modern viewers often detect in images of rural life?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the girl and her geese. What do you think she says to them?",
+      "emotion": "Does the girl look happy, tired, or peaceful? What do you see that tells you?",
+      "observation": "What do you see in this picture? Point to the girl and then to a bird.",
+      "analysis": "Where do your eyes go first in this print? What do they find next?",
+      "line": "The lines look soft and scratchy. Find a place where the lines are close together and dark.",
+      "shape": "What shapes can you find in the girl and the geese? Look for rounds and curves.",
+      "color": "This picture is made of dark lines on pale paper. What do you notice when it has no bright colors?",
+      "texture": "How do you think a goose's feathers would feel? How does the artist show them?",
+      "space": "What is closest to you in this picture, and what is farther back?",
+      "light": "Which parts of the print are dark, and which parts are light?",
+      "meaning": "What do you think it is like to take care of geese all day?",
+      "culture": "Long ago, children in the countryside often helped with farm work. What do you help with at home or at school?",
+      "technique": "The artist scratched right into metal with a sharp point. How is that different from drawing with a pencil?",
+      "personal": "What animal would you like to take care of? What would you do each day?",
+      "critical": "Why might an artist choose to show a girl with geese instead of a king or a hero?"
+    },
+    "g12": {
+      "daily": "What story do you imagine for the goose girl on an ordinary day? Use details in the print.",
+      "emotion": "What mood does this print give you? Which lines or shapes help create it?",
+      "observation": "Describe the girl and her geese. How are they placed in the picture?",
+      "analysis": "How does Millet make the girl the most important part of the print?",
+      "line": "Compare the dark, thick lines with the thin, light ones. What does each kind of line show?",
+      "shape": "How do the shapes of the geese's bodies compare with the shape of the girl?",
+      "color": "The print uses dark ink on pale paper. What do you notice about light and dark parts?",
+      "texture": "Millet's lines look velvety and soft. Why might that suit a picture about feathers and fields?",
+      "space": "How does the picture show that some things are closer and some are farther away?",
+      "light": "Where does the print look brightest? How does that help you notice the girl?",
+      "meaning": "Why might Millet want people to look closely at a young farm worker?",
+      "culture": "Millet showed country life in France long ago. What parts of country life can you spot here?",
+      "technique": "Drypoint leaves rough edges on the metal that hold extra ink. How might that make the lines look soft?",
+      "personal": "What chore or job do you do carefully? How could an artist show it?",
+      "critical": "Some people might say that ordinary work is not special enough for art. What would you say?"
+    },
+    "g35": {
+      "daily": "What does Millet's print tell you about the goose girl's life, and which details give you that idea?",
+      "emotion": "What feelings do the soft lines and the quiet subject create?",
+      "observation": "Take one full minute of silent looking. What small details of the girl and geese do you notice?",
+      "analysis": "How does Millet arrange the girl and her geese to tell you about their relationship?",
+      "line": "How do the soft, rough drypoint lines make this print look different from a clean, sharp drawing?",
+      "shape": "How do the rounded shapes of the geese and the girl's figure work together?",
+      "color": "There is no color in this print. How does Millet use dark and light to show form?",
+      "texture": "How does the velvety quality of drypoint help show feathers, cloth, and ground?",
+      "space": "What clues in the print show where the girl stands and what is around her?",
+      "light": "Where do the darkest lines gather, and what does that do to the mood?",
+      "meaning": "Millet often portrayed people at work. What might he want viewers to understand about them?",
+      "culture": "How was a child's daily life in the French countryside different from yours, and what might be the same?",
+      "technique": "A drypoint's rough edge wears down as copies are printed. Why might each print look a little different?",
+      "personal": "When you do something for others, like caring for a pet, how would you want an artist to show it?",
+      "critical": "Is a picture of a poor or humble person always kind to that person? What would help you decide?"
+    },
+    "g68": {
+      "daily": "How does Millet give weight and dignity to a simple job like tending geese?",
+      "emotion": "What atmosphere do the soft, dark lines create, and how does it affect how you see the girl?",
+      "observation": "Describe the girl, the geese, and the setting in detail. Which details seem most deliberately chosen?",
+      "analysis": "How does the composition place the girl in relation to the geese and the space around them?",
+      "line": "How does the burr from the drypoint needle make the line softer than etched line?",
+      "shape": "How does the contrast between the upright girl and the lower, rounder geese shape the composition?",
+      "color": "How do dark lines and light paper alone make the figures feel solid?",
+      "texture": "How does Millet suggest different surfaces, such as feathers, cloth, and ground, using one kind of mark?",
+      "space": "How does Millet create a sense of outdoor space with so few lines?",
+      "light": "How does the balance of heavy and light marks suggest daylight or shadow?",
+      "meaning": "Why might an artist in the 1800s choose a goose girl as a serious subject?",
+      "culture": "How did scenes of rural life in France reflect changes as more people moved to cities?",
+      "technique": "Why might the soft lines of drypoint suit this subject better than the sharp lines of an etching?",
+      "personal": "What everyday work around you is rarely noticed? How could you honor it in a picture?",
+      "critical": "How can we tell whether an artist is respecting a subject or romanticizing it?"
+    },
+    "g910": {
+      "daily": "How does Millet use line to dignify a humble figure in The Goose Girl?",
+      "emotion": "How does the print's softness shape the emotional tone of the subject?",
+      "observation": "Describe the print's visual hierarchy and what guides your eye through it.",
+      "analysis": "Analyze how figure and animals are placed to suggest relationship and routine.",
+      "line": "How does the burr-rich line of drypoint differ in effect from precise contour?",
+      "shape": "How do upright and rounded forms interact to give the composition stability?",
+      "color": "How does the monochrome tonal range, from velvety darks to bare paper, build form and atmosphere?",
+      "texture": "How does the printmaker convert feathers, fabric, and earth into marks of different density?",
+      "space": "How does the print suggest an open outdoor setting while keeping attention on the figure?",
+      "light": "How do darks and open paper establish time of day or atmosphere?",
+      "meaning": "How might the goose girl be read as a symbol, a portrait of a type, or a simple record of labor?",
+      "culture": "How do Millet's rural subjects relate to debates in nineteenth-century France about class and the countryside?",
+      "technique": "How does the fragility of burr affect ideas of originality and edition in drypoint?",
+      "personal": "How do your own views about work and childhood shape your reading of this scene?",
+      "critical": "What might a depiction like this leave out about the realities of rural child labor?"
+    },
+    "g1112": {
+      "daily": "What can we reasonably claim about Millet's attitude to his young subject from the print itself, and what lies beyond the evidence?",
+      "emotion": "How does the print balance tenderness with the possibility of sentimentality?",
+      "observation": "Describe the print's formal structure carefully. Which observations already carry assumptions about class or age?",
+      "analysis": "Analyze how Millet organizes a modest scene into a coherent composition using minimal means.",
+      "line": "How does drypoint's velvety line shape the print's tone, and how does it differ from the line of etching?",
+      "shape": "How does the interplay of vertical figure and lower forms structure the image?",
+      "color": "How does the print rely on tonal contrast in the absence of color, and what does that reveal about the medium?",
+      "texture": "Where does the print most convincingly evoke physical textures, and where does it deliberately remain sketchlike?",
+      "space": "How does the print negotiate between a focused figure and an indistinct setting?",
+      "light": "How does the distribution of burr and open paper act as a language of light and mood?",
+      "meaning": "Evaluate readings of the print as realism, idealization, or social commentary. What evidence supports each?",
+      "culture": "How did Millet's peasant imagery shape and divide critical opinion in nineteenth-century France?",
+      "technique": "What does the wide date range in the record imply about our ability to place the print in Millet's development?",
+      "personal": "How do present-day assumptions about childhood and work shape your response to this image?",
+      "critical": "What weight should we give to an artist's biography when interpreting a work whose date and context are uncertain?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tag (Girls) read from the museum record; a rural child-with-animals subject with no nudity, violence, or frightening content indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Jean-François Millet is known for scenes of rural life in France. The Met record gives the date as 1830–75 and the medium as drypoint, so avoid assigning a precise year.",
+    "vocabulary": [
+      "drypoint",
+      "burr",
+      "plate",
+      "contour",
+      "rural",
+      "tone"
+    ],
+    "directions": [
+      "Let students scratch a design into a foam plate or scratch board and notice how the line looks.",
+      "Ask students to compare how an artist might show a farm worker in a heroic way versus an everyday way.",
+      "Discuss which jobs get shown in art and which do not."
+    ]
+  }
+}

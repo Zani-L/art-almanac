@@ -1,0 +1,158 @@
+{
+  "id": "met-337429",
+  "day": "04-25",
+  "title": "Cats",
+  "artist": "Edouard Manet",
+  "date": "1868–69",
+  "medium": "Etching on blue laid paper, only state",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815335.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815335.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1921",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small etching of cats drawn in fine dark lines on pale blue paper.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/337429",
+    "objectId": "337429",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tag (Cats), public-domain flag, and image URLs read from the record. Region is a well-established label for the artist, not a record field."
+  },
+  "context": "An etching titled Cats by the French artist Edouard Manet, dated 1868–69 and printed on blue laid paper, in a single state. Manet made a number of etchings alongside his paintings.",
+  "descriptions": {
+    "k": "These are cats! The artist drew them with tiny scratchy lines. The paper is light blue, not white. Can you find the cats' ears and tails? What do you think the cats might be doing?",
+    "g12": "Edouard Manet made this picture of cats in France long ago. He scratched thin lines into a metal plate, then printed them in dark ink on pale blue paper. Look at the lines that make fur and shape. Which cat would you like to pet? Why?",
+    "g35": "Edouard Manet is best known for paintings, but he also made etchings like this one. He drew lines into a metal plate, covered the plate in ink, and pressed paper against it. This print is on blue paper, which gives the cats a cool, quiet background. Look at how lines show fur and body shape. What do the cats seem to be thinking or doing?",
+    "g68": "Manet made this etching of cats in 1868–69. Unlike his large paintings of city life, this small print explores quick, flexible line. In etching, an artist draws through a protective coating and acid bites the lines into the metal, so every mark is a decision. Printing on blue paper changes how the ink reads. Notice how few lines suggest soft fur and living bodies. Why might an artist enjoy drawing animals as a subject?",
+    "g910": "In this 1868–69 etching, Manet turns an everyday subject, cats, into a study of line, gesture, and tone. The record notes a single state, meaning he did not revise the plate in later versions. The blue laid paper gives the print a cool tone that sets off the dark ink. Compared with his paintings, the lively, economical line shows another side of his work. Consider how a few marks can suggest fur, weight, and movement, and what this reveals about his approach.",
+    "g1112": "Cats (1868–69) shows Manet working in etching, a medium in which drawing and printing meet. The economy of the line, the choice of blue laid paper, and the single state suggest a spontaneous approach, though the Met record does not tell us his intentions. Cats were fashionable subjects in nineteenth-century French art and literature, and scholars have connected Manet's interest in them to his circle, though this particular print offers no narrative. How does the image balance observation with the sketchlike qualities of its medium?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the cats are doing in this print? Tell a tiny story.",
+      "emotion": "Do the cats look sleepy, playful, or something else? What shows you?",
+      "observation": "How many cats can you find? Point to their ears, tails, and paws.",
+      "analysis": "Which cat do your eyes find first? What helps it stand out?",
+      "line": "The cats are made of scratchy lines. Can you find a line that looks like fur? Trace it in the air.",
+      "shape": "Which shapes make up a cat's body in this picture? Look for circles, curves, and points.",
+      "color": "The paper is light blue. How does that change how the black lines look?",
+      "texture": "How do the lines make the cats look soft? Tell what you see.",
+      "space": "Which cat seems closest to you and which seems farthest away?",
+      "light": "Where is the paper lightest, and where are the lines darkest in this print?",
+      "meaning": "Why do you think an artist wanted to draw cats instead of people?",
+      "culture": "People in France in the 1860s kept cats as pets, too. What do you know about pets that is the same today?",
+      "technique": "The artist scratched the cats into metal first. Why might that be harder than drawing on paper?",
+      "personal": "Do you have a pet or an animal you love? What does it do that you could draw?",
+      "critical": "If these cats were drawn in bright colors, how would the picture change?"
+    },
+    "g12": {
+      "daily": "How do the lines make these cats feel alive? Show a place where you can see it.",
+      "emotion": "What mood does this small print of cats give you? What helps create it?",
+      "observation": "Describe the cats' bodies, tails, and faces as closely as you can.",
+      "analysis": "How does Manet arrange the cats so your eyes travel around the print?",
+      "line": "Find a thick line and a thin line. What does each one show about the cats?",
+      "shape": "Look at the overall shape of each cat. How do round and pointed shapes work together?",
+      "color": "The print is dark ink on blue paper. Why might an artist choose blue instead of white?",
+      "texture": "How do short, scratchy lines make fur look soft or fuzzy?",
+      "space": "There is a lot of blue paper around the cats. What does that empty space do?",
+      "light": "Where does the paper show through as light? How does it help you see the cats' shapes?",
+      "meaning": "Cats can be playful or calm. What does Manet seem to find interesting about them?",
+      "culture": "Manet lived in France, where artists often drew animals around them. Why might cats be a good subject for a quick drawing?",
+      "technique": "Manet scratched lines into a metal plate and then printed them. How is that like and unlike drawing with a pencil?",
+      "personal": "How would you draw your own pet in just a few lines?",
+      "critical": "A tiny drawing can be as important as a huge painting. What do you think?"
+    },
+    "g35": {
+      "daily": "How does Manet use only line and paper color to bring these cats to life?",
+      "emotion": "What feelings do the cats' shapes and the blue paper create together?",
+      "observation": "Take a full minute to look. What details of the cats' bodies stand out the longer you look?",
+      "analysis": "How are the cats placed on the page? How does that placement affect what you look at first?",
+      "line": "How does Manet use different kinds of lines to show fur, outline, and shadow?",
+      "shape": "How do the curving shapes of the cats' bodies compare with the sharper lines of ears or whiskers?",
+      "color": "The paper is blue and the ink is dark. How does that pair of colors change the mood compared with black on white?",
+      "texture": "The print is flat. How does Manet suggest soft fur with just lines?",
+      "space": "How does the empty paper around the lines help the cats stand out?",
+      "light": "Where does the pale paper act like light in the picture?",
+      "meaning": "What might these cats tell us about what Manet liked to look at in everyday life?",
+      "culture": "Many artists and writers in nineteenth-century France liked cats. Why might they appear in art?",
+      "technique": "The Met says this print has only one state. What does that tell you about whether Manet changed the plate?",
+      "personal": "When you watch an animal closely, what do you notice that you might miss at first glance?",
+      "critical": "Does a quick, simple drawing take less skill than a detailed one? Use this print to explain."
+    },
+    "g68": {
+      "daily": "How does Manet suggest the life of a cat with so few marks?",
+      "emotion": "What does the quietness of this print say about how Manet felt toward his subject?",
+      "observation": "List what you can see in the print from the most obvious feature to the smallest detail.",
+      "analysis": "How does the composition use the cats and the empty paper to balance the page?",
+      "line": "How does the variation of line quality, from firm to delicate, create form and movement?",
+      "shape": "How does Manet simplify cat bodies into curves and angles without losing their character?",
+      "color": "How does blue paper change the role of the ink compared with white paper?",
+      "texture": "Where does the line most convincingly suggest fur, and how does it do it?",
+      "space": "With little background detail, how does the print define where the cats are?",
+      "light": "How does the bare blue paper function as light, and how do dense lines function as shadow?",
+      "meaning": "Why might an artist known for large paintings of modern life spend time on a small print of cats?",
+      "culture": "How did printmaking let artists in 1860s France share their images more widely than a single painting could?",
+      "technique": "In etching, mistakes are hard to erase. How might that affect the freshness of the lines?",
+      "personal": "How do you choose what is worth drawing in your everyday life?",
+      "critical": "What does it mean to call a work of art 'minor' because of its size or subject, and does it apply here?"
+    },
+    "g910": {
+      "daily": "How does Manet convey character and presence in these cats through economy of line?",
+      "emotion": "How does the print generate warmth or humor without a narrative scene?",
+      "observation": "Describe the visual hierarchy of the print: what draws attention first, and how do the lines guide you onward?",
+      "analysis": "Analyze how the arrangement of the cats and the paper's blank areas create balance.",
+      "line": "How does the quick, varied line suggest spontaneity, and what does it share with drawing?",
+      "shape": "How do curves and angular marks define the animals' forms and movement?",
+      "color": "How does the blue laid paper change the print's mood and the relationship between ink and ground?",
+      "texture": "How does Manet convey fur, weight, and softness without tonal modeling?",
+      "space": "How does the print create space with so little setting, and why might he have left it open?",
+      "light": "How does the paper's tone act as light, and how does that give the image luminosity?",
+      "meaning": "How might this etching reflect Manet's interest in everyday subjects outside the grand themes of academic art?",
+      "culture": "What might cats have represented to French artists and writers at the time, and does this print engage that tradition?",
+      "technique": "The record lists a single state. What does that suggest about the plate's making and printing?",
+      "personal": "How does the intimacy of a small print affect the way you look at it?",
+      "critical": "How might we avoid reading too much into a modest subject like cats, and what evidence could support an interpretation?"
+    },
+    "g1112": {
+      "daily": "What can we argue about Manet's approach to line and subject from this print, and what must remain speculative?",
+      "emotion": "How does the print's lightness of touch complicate any attempt to assign it a single mood?",
+      "observation": "Describe the formal structure of the print in detail. Which observations depend most on your assumptions about cats or about etching?",
+      "analysis": "Analyze how the print's economy of means produces both a believable animal presence and an abstract arrangement.",
+      "line": "How does line operate here as contour, texture, and gesture at once?",
+      "shape": "How does the interplay of rounded masses and sharp marks keep the figures between description and abstraction?",
+      "color": "What is the effect of printing on blue laid paper, and how might it relate to the printmaking taste of the period?",
+      "texture": "How does the print reconcile a flat, linear medium with the suggestion of soft bodies?",
+      "space": "How does the generous blank paper shape the print's spatial ambiguity?",
+      "light": "How does the paper's tone stand in for light in a medium with no color, and what does that imply about etching's priorities?",
+      "meaning": "How do you weigh reading this print as a casual sketch against reading it as a deliberate statement about observation?",
+      "culture": "How does the nineteenth-century revival of etching in France shape the status of a print like this one?",
+      "technique": "What can a single-state etching tell us about the artist's working method, and what can it not?",
+      "personal": "How does your relationship to pets shape what you expect from a picture of cats, and how might that limit your reading?",
+      "critical": "What does the relative scarcity of documentation about such small works mean for how confident we should be in our interpretations?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tag (Cats) read from the museum record; an animal subject with no people, nudity, violence, or frightening content indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Edouard Manet made etchings and lithographs as well as paintings. The Met record dates this etching 1868–69, on blue laid paper, only state; it tags the subject simply as Cats.",
+    "vocabulary": [
+      "etching",
+      "state",
+      "laid paper",
+      "contour",
+      "line quality",
+      "printmaking"
+    ],
+    "directions": [
+      "Have students draw a pet or classroom animal in ten lines or fewer, then compare which lines mattered most.",
+      "Ask students to try drawing the same subject on white and on colored paper and describe the difference.",
+      "Discuss why artists make small prints as well as large paintings."
+    ]
+  }
+}

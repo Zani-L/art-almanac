@@ -1,0 +1,158 @@
+{
+  "id": "met-49368",
+  "day": "01-09",
+  "title": "Camel",
+  "artist": "Artist unknown",
+  "date": "8th century",
+  "medium": "Earthenware with three-color (sancai) glaze",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/67_43_1.JPG",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/67_43_1.JPG",
+    "credit": "The Metropolitan Museum of Art, Gift of Paul E. Manheim, 1967",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A pottery figure of a camel stands on a flat base. Its long neck rises above a rounded body, and its surface is covered in a mottled, glossy glaze in several colors.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/49368",
+    "objectId": "49368",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, creditLine, classification (Tomb Pottery), tags (Camels), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This glazed clay camel was made in China during the Tang dynasty (618-907). Figures like it were made for burials, and camels are closely linked with the long-distance caravans that carried goods along the Silk Road. Sancai means \"three colors,\" a style of lead-glazed pottery popular in the Tang period.",
+  "descriptions": {
+    "k": "This is a camel made from clay a very long time ago. Its glaze is shiny and splashed with colors. Look at its long neck and its big, round body. Can you stand like a camel?",
+    "g12": "Long ago in China, a potter made this camel out of clay. Then the potter covered it with shiny glaze in several colors that run and blend together. Look at the camel's long neck and sturdy legs. Why might people have loved camels? What could one carry on its back?",
+    "g35": "This camel was made in China in the 700s, during the Tang dynasty. The potter shaped clay, then added a glossy glaze called sancai, which means three colors. Camels carried goods across deserts on the Silk Road, so they were important and admired. Look at how the glaze drips and blends. What details of the animal's body did the potter choose to show?",
+    "g68": "Made in the 8th century, this camel is an example of Tang sancai ware, in which lead glazes in colors such as green, amber, and cream were allowed to flow and mix during firing. The Met classifies it as tomb pottery, and camels recall the Silk Road caravans that linked China with Central Asia. Notice how the potter simplifies the animal into strong curves of neck, body, and legs. How does the running glaze add life to a solid clay form?",
+    "g910": "This earthenware camel shows how Tang potters combined modeled form with the chance effects of glaze. Sancai glazes flow and bleed into one another in the kiln, so the surface seems to move even though the animal is still. Camels evoke Silk Road trade, a connection that made Tang China unusually open to goods and ideas from Central Asia. Consider how the figure's exaggerated, elegant curves of neck and body might express both everyday observation and admiration for the animal.",
+    "g1112": "As an 8th-century sancai tomb figure, this camel sits at the meeting point of ceramic technology, trade, and burial practice. The lead glazes, which run and mingle in the kiln, give a controlled yet unpredictable surface. Camels are often read as emblems of Silk Road exchange, though scholars caution that tomb figures served funerary needs and not only documentary ones. How far can we treat a small clay animal as evidence of a vast network of travel, and what remains uncertain about the beliefs behind such objects?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If this clay camel could walk, where would it go? What would it carry?",
+      "emotion": "Does the camel look proud, sleepy, or friendly to you? What part of it tells you?",
+      "observation": "Find the camel's neck, its body, and its legs. Which part is your favorite?",
+      "analysis": "Which part of the camel do your eyes go to first? Why do you think so?",
+      "line": "Trace the camel's long neck in the air with your finger. Is it straight or curvy?",
+      "shape": "Can you find a round shape on the camel? Where does the camel have long shapes?",
+      "color": "Which colors are splashed on the camel? Do they look like they are mixing?",
+      "texture": "The camel's glaze looks shiny. How might its smooth skin feel if you touched it?",
+      "space": "The camel is standing on a flat base. Why might the base help it stay up?",
+      "light": "Where does the shiny glaze catch the light? Point to the brightest spot.",
+      "meaning": "Camels walk through hot, dry places. What kind of trip could this camel be on?",
+      "culture": "People in China long ago made camels from clay. Why might they want a clay camel to keep?",
+      "technique": "The camel was made from clay and then baked in a very hot oven. How did that change the clay?",
+      "personal": "If you could ride a camel, where would you go? Tell about your trip.",
+      "critical": "This camel is not a real camel. What did the potter change or leave out?"
+    },
+    "g12": {
+      "daily": "What makes this camel look like it could start walking? Find three clues in its body.",
+      "emotion": "What feeling does this camel give you, calm or lively? What details make you feel that way?",
+      "observation": "Name five parts of the camel that you can find. Which one was hardest to notice?",
+      "analysis": "How did the potter make the camel's neck and body fit together into one strong shape?",
+      "line": "Follow the outline of the camel from its head down to its feet. Where does the line curve the most?",
+      "shape": "Which shapes make up the camel's body? Which are round and which are long?",
+      "color": "The glaze mixes several colors on the camel. Where do the colors blend, and where do they stay apart?",
+      "texture": "The camel looks glossy, like a glass coating. What other things have a shiny skin like this?",
+      "space": "The camel stands on a base. What do you think the base is for, and how does it help the camel look steady?",
+      "light": "Look at the glaze on the camel's back and sides. Where does it shine, and where is it darker?",
+      "meaning": "A camel can carry heavy loads across deserts. Why might a camel be a good animal to place in a tomb?",
+      "culture": "Camels were part of the Silk Road, a long trade path. What could this clay camel tell us about travel in Tang China?",
+      "technique": "A potter shaped clay, then painted on glaze and fired it. How might the heat make the colors run together?",
+      "personal": "Which animal would you make from clay if you wanted to honor a journey? Why that animal?",
+      "critical": "Is this camel more like a toy or more like a treasure? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "What makes this clay camel feel alive even though it is still? Point to details in its neck, body, and glaze.",
+      "emotion": "How would you describe the mood of this camel, calm, proud, or tired? Which details support your choice?",
+      "observation": "Look for one minute without talking. What small details of the glaze and the animal's body do you notice?",
+      "analysis": "How did the potter organize the camel's body so that its neck, back, and legs balance each other?",
+      "line": "How do the long curves of the camel's neck compare with the straighter lines of its legs?",
+      "shape": "Which basic shapes could you use to build this camel? How do they fit together?",
+      "color": "The sancai glaze blends several colors. How do the colors spread across the camel, and where do they seem to run?",
+      "texture": "How does the camel's glossy glazed skin differ from the rough clay beneath it? What can you tell from the picture?",
+      "space": "The camel is a three-dimensional figure on a base. How would it look different from the front, the side, and the back?",
+      "light": "Where does light bounce off the camel's glaze? What does that tell you about the glaze surface?",
+      "meaning": "Camels carried goods along the Silk Road. What might a camel in a tomb have meant to the people who placed it there?",
+      "culture": "China's Tang dynasty traded with distant lands. How might a camel figure show that connection?",
+      "technique": "Why do you think the potter used glaze instead of leaving the camel as plain clay?",
+      "personal": "Think of a long journey you took. What object would you pick to remember it, and why?",
+      "critical": "Is the camel realistic or simplified? Find evidence in the neck, body, and legs, and explain your thinking."
+    },
+    "g68": {
+      "daily": "How does this camel's glaze make a solid clay animal seem full of movement and energy?",
+      "emotion": "What character does this camel seem to have? Which choices in its pose and glaze create that impression?",
+      "observation": "Inspect the camel from base to head. Which details seem carefully shaped, and which seem left to chance?",
+      "analysis": "How does the camel's S-shaped neck balance the heavier mass of its body?",
+      "line": "How do the curves of the camel's neck and back guide your eye across the whole figure?",
+      "shape": "How does the potter combine rounded body forms with long, narrow legs, and what effect does that contrast have?",
+      "color": "How do the blended glaze colors on the camel create variety without separate painted details?",
+      "texture": "How does the thick, glassy glaze change the way you read the camel's surface compared with bare clay?",
+      "space": "How does the base ground the camel in space, and how does the figure invite you to walk around it?",
+      "light": "How does the glossy glaze reflect light differently from bare earthenware, and how does that shape the form?",
+      "meaning": "Why might a Tang burial include a camel, an animal tied to travel and trade, and what do scholars still debate about such choices?",
+      "culture": "How does a camel in a Chinese tomb reflect the connections between Tang China and the lands to the west?",
+      "technique": "Sancai glazes run in the kiln. How does the potter use that unpredictability to bring the camel to life?",
+      "personal": "What object would you place in a time capsule to show how people travel today, and what animal or thing would you choose to represent it?",
+      "critical": "Does a small clay camel offer reliable evidence about Silk Road life? What questions does it leave open?"
+    },
+    "g910": {
+      "daily": "How does the interplay of modeled form and running glaze give this camel its presence?",
+      "emotion": "How does the stately posture of the camel, as it appears in the photograph, shape the emotion or tone of the figure?",
+      "observation": "Describe the camel's visual hierarchy: which parts of the form and surface hold your attention, and what sets them apart?",
+      "analysis": "Analyze how the figure's proportions, with its long neck and compact body, create a rhythm of curve and mass.",
+      "line": "How does the sweeping contour of the camel's neck and back function as the main linear device?",
+      "shape": "How does the potter reduce the camel to a few bold volumes, and what is gained or lost by that simplification?",
+      "color": "How do the flowing, overlapping glaze colors create tonal variation across the camel without strict outlines?",
+      "texture": "How does the contrast between the glassy glaze and the earthenware body shape our sense of the object's materiality?",
+      "space": "How does this freestanding sculpture occupy space, and what vantage points does it reward?",
+      "light": "How does reflected light across the glaze complicate our reading of the camel's anatomy?",
+      "meaning": "In what ways might the camel have symbolized wealth, travel, or service to the dead, and where do those readings rest on assumption?",
+      "culture": "How does a camel made in Tang China register contact with Central Asia, and how might that cosmopolitanism be read through objects like this one?",
+      "technique": "How do firing and lead glazes shape both the practical and the aesthetic outcome of a sancai figure?",
+      "personal": "How do objects of travel, such as maps, tickets, or souvenirs, hold meaning for you in ways comparable to this camel?",
+      "critical": "What are the limits of reading a funerary object as a record of daily life, and how might this camel challenge or support that approach?"
+    },
+    "g1112": {
+      "daily": "What does the pairing of a controlled, modeled form and a partly unpredictable glaze suggest about how this camel was valued as an object?",
+      "emotion": "How does this camel create a sense of dignity or ease without any facial detail beyond what a small ceramic figure allows?",
+      "observation": "Describe the camel with precision. At what point does your description begin to interpret rather than simply record?",
+      "analysis": "Analyze how the contrast between the long curve of the neck and the compact torso structures the sculpture as a whole.",
+      "line": "How does the figure's flowing outline serve both naturalistic description and stylization?",
+      "shape": "How does the potter balance fidelity to the animal with the abstraction needed for a modeled, glazed figure?",
+      "color": "How does the fluid sancai palette operate between decoration and description, and how might kiln conditions have shaped the final effect?",
+      "texture": "How does the vitrified glaze surface alter the viewer's reception of the figure compared with unglazed earthenware tomb figures?",
+      "space": "How does a freestanding animal figure, made to be seen in the round, differ from a flat image of a camel in the way it engages space and the viewer?",
+      "light": "In what ways does the glaze's reflectivity change with viewing conditions, and what does that mean for how museum lighting shapes our reading?",
+      "meaning": "Consider competing readings of a camel in a burial: status, protection, travel for the afterlife, or trade. Which are best supported, and which remain speculative?",
+      "culture": "How might this camel complicate narratives of a closed China by pointing to a world of exchange, and what are the limits of that inference?",
+      "technique": "How does lead glazing as used in sancai ware inform interpretations of Tang technology, specialization, and market, and what questions about workshops remain open?",
+      "personal": "How do your own assumptions about animals, travel, or trade shape the way you read a camel made over a thousand years ago?",
+      "critical": "Given that this camel was made for burial, how should we weigh funerary purpose against its artistic qualities when judging it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Camel), classification (Tomb Pottery), medium (earthenware with sancai glaze), and tags (Camels) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Tang dynasty tomb figure, 8th century. The Met's record classifies it as tomb pottery; the glaze type, sancai, is a hallmark of Tang ceramics.",
+    "vocabulary": [
+      "Tang dynasty",
+      "sancai (three-color glaze)",
+      "earthenware",
+      "glaze",
+      "Silk Road",
+      "kiln"
+    ],
+    "directions": [
+      "Have students sketch the camel's outline first, then add color notes about where the glaze seems to blend.",
+      "Ask groups to trace a Silk Road route on a map and list goods a camel might carry along it.",
+      "Discuss why people made objects for burials, inviting respectful comparisons across cultures."
+    ]
+  }
+}

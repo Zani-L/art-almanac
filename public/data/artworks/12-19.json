@@ -1,0 +1,158 @@
+{
+  "id": "met-438132",
+  "day": "12-19",
+  "title": "Julie Le Brun (1780–1819) Looking in a Mirror",
+  "artist": "Elisabeth Louise Vigée Le Brun",
+  "date": "1787",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-26883-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-26883-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mrs. Charles Wrightsman, 2019",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A portrait of a young girl who holds a mirror and looks at her own reflection, painted in soft, glowing oil colors.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/438132",
+    "objectId": "438132",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Girls, Portraits, Mirrors) and image URLs read from the record"
+  },
+  "context": "A portrait painted in 1787 by the French artist Elisabeth Louise Vigée Le Brun. The title identifies the girl as Julie Le Brun, the artist's daughter, and gives her life dates as 1780–1819, so she was about seven. Vigée Le Brun was one of the most successful portrait painters of her time.",
+  "descriptions": {
+    "k": "A girl looks into a mirror. She sees herself! The painter is her mother. What do you think the girl sees? Is she smiling? What would you look at in a mirror?",
+    "g12": "Elisabeth Louise Vigée Le Brun painted her own daughter, Julie, looking in a mirror. Julie was about seven. She is looking at her own face. The painting feels soft and warm. What do you think Julie is thinking as she looks?",
+    "g35": "Elisabeth Louise Vigée Le Brun was a French painter who made portraits of many important people. This one shows her daughter, Julie, looking at herself in a mirror. A portrait of a person looking at a reflection makes us think about how we see ourselves. What do you think Julie sees, and what does her mother see?",
+    "g68": "In 1787, Vigée Le Brun painted her seven-year-old daughter Julie looking into a mirror. The mirror creates a picture within a picture: we watch a child looking at her own image. A mother painting her daughter adds a personal layer, and the soft handling of paint suits the intimate subject. How might the mirror suggest self-awareness, play, or growing up? What does a portrait by a parent show that a commissioned portrait might not?",
+    "g910": "Vigée Le Brun, a leading portraitist in late eighteenth-century France, paints her young daughter engaged in a private act of looking. The mirror doubles the theme of image-making: a girl studies her reflection while the artist studies the girl. The soft, fluid handling and warm light create intimacy. Mirrors in art can suggest vanity, identity, or self-discovery, but here the tone seems affectionate. How does the family relationship shape the way you read the picture?",
+    "g1112": "Painted in 1787, this portrait of the artist's daughter uses the mirror to stage a conversation about seeing and being seen. Mirrors in European art have carried associations ranging from vanity to self-knowledge, yet the affectionate informality here complicates any moralizing reading. The work also asks us to consider a woman artist's position in a profession dominated by men, and how a maternal portrait blurs private feeling and public display of skill. Competing interpretations remain open."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think Julie is looking at in the mirror, and how does she feel about it?",
+      "emotion": "Does Julie look happy, shy, or curious? Show her face with yours.",
+      "observation": "Find Julie's face, her hands, and the mirror. What else can you find?",
+      "analysis": "Where do you look first in this picture? What made you look there?",
+      "line": "Follow the curve of Julie's arm or the edge of the mirror with your finger.",
+      "shape": "The mirror has a shape. Can you find it and tell what it looks like?",
+      "color": "What colors do you see on Julie? Which one is your favorite?",
+      "texture": "How would Julie's clothes feel? How would the mirror feel?",
+      "space": "Is Julie close to you or far away? How can you tell?",
+      "light": "Where does the light shine on Julie's face? Where is it softer?",
+      "meaning": "The painter is Julie's mother. Why might a mother paint her child?",
+      "culture": "Julie lived in France long ago. What looks different from how a girl dresses today?",
+      "technique": "The painter used oil paint to make Julie's skin look soft. How does it look?",
+      "personal": "When do you look in a mirror? What do you like to see?",
+      "critical": "What do you think Julie would say if she saw herself? Make up a sentence."
+    },
+    "g12": {
+      "daily": "What is Julie doing, and what clues in the painting show how she feels?",
+      "emotion": "What feeling does the quiet moment with the mirror give you? Name the clues.",
+      "observation": "List five things you see in the picture, from Julie's hands to her clothes.",
+      "analysis": "How does the painter lead your eyes from Julie's face to the mirror?",
+      "line": "Find curved lines in Julie's arms, hair, and clothing. How do they make the picture feel soft?",
+      "shape": "How do the shapes of Julie's body and the mirror fit together?",
+      "color": "Which colors feel warm and gentle in this picture? Where do you see them?",
+      "texture": "Which parts look soft, like skin or cloth, and which look hard or shiny?",
+      "space": "How does the painter make Julie look close and real?",
+      "light": "How does the soft light make Julie's face glow?",
+      "meaning": "A mirror shows us ourselves. What idea might the painter be showing by choosing a mirror?",
+      "culture": "Vigée Le Brun was a woman painter in France long ago, which was not common. Why might her work be special?",
+      "technique": "Vigée Le Brun painted smoothly with soft edges. Where do you see no hard outlines?",
+      "personal": "What do you think about when you look at yourself in a mirror?",
+      "critical": "Is this a picture of vanity, curiosity, or something else? Use the picture to explain."
+    },
+    "g35": {
+      "daily": "What do you think is going through Julie's mind as she studies the mirror, and which details support your idea?",
+      "emotion": "What mood does this portrait have? Point to the light, colors, and pose that create it.",
+      "observation": "Look silently for one minute. What small details in Julie's face, hair, or clothing did you not notice at first?",
+      "analysis": "How does the mirror change the way we think about who is looking at whom?",
+      "line": "How do the soft curves of Julie's arms and the shape of the mirror guide your eyes?",
+      "shape": "How does the shape of the mirror relate to the shape of Julie's face and body?",
+      "color": "How do the soft, warm colors help make the portrait feel gentle?",
+      "texture": "How does the painter show the difference between skin, hair, fabric, and the mirror?",
+      "space": "How does the painter bring the viewer close to Julie?",
+      "light": "Where does the light seem to come from, and how does it make Julie look warm and alive?",
+      "meaning": "In art, mirrors can stand for many ideas. What ideas might a mirror suggest here?",
+      "culture": "Vigée Le Brun painted queens and also her own daughter. Why might each kind of portrait feel different?",
+      "technique": "How might oil paint help an artist blend colors softly to make skin look smooth?",
+      "personal": "Think of a time you studied yourself closely. How might that feel to Julie?",
+      "critical": "How is a portrait of your own child different from a portrait you are paid to paint? What might change?"
+    },
+    "g68": {
+      "daily": "How does the mirror turn a simple portrait of a child into a picture about looking itself?",
+      "emotion": "How does the intimate, quiet mood suit the relationship between painter and sitter?",
+      "observation": "Describe Julie, the mirror, and the space around them. Which details seem most carefully painted?",
+      "analysis": "How does the composition link Julie's gaze, the mirror, and the viewer?",
+      "line": "How do flowing lines in the clothing and arms add softness to the composition?",
+      "shape": "How does the shape of the mirror echo or contrast with other shapes in the portrait?",
+      "color": "How does the soft, warm palette support the affectionate tone?",
+      "texture": "How does the painter distinguish skin, hair, cloth, and the reflective surface?",
+      "space": "How do the closeness of the figure and the plain surroundings affect your feeling of intimacy?",
+      "light": "How does gentle light shape Julie's face and give her a sense of life?",
+      "meaning": "Mirrors can mean vanity, identity, or self-discovery. Which reading fits the evidence in this portrait best?",
+      "culture": "What might it have meant for a woman artist to build a successful career in eighteenth-century France?",
+      "technique": "How can a painter show a reflection in a mirror and keep the viewer's attention on the child?",
+      "personal": "How do the pictures people make of those they love differ from official portraits?",
+      "critical": "What can we learn from the title about how the museum identifies the sitter, and what does the title not tell us?"
+    },
+    "g910": {
+      "daily": "How does Vigée Le Brun use the motif of the mirror to explore both identity and affection?",
+      "emotion": "How does she create tenderness without sentimental excess?",
+      "observation": "Describe the visual hierarchy: what first draws the eye, and which devices produce it?",
+      "analysis": "Analyze how the doubling of looking, Julie at her reflection and the viewer at Julie, structures the portrait.",
+      "line": "How does the soft, continuous contour of the figure contribute to the portrait's gentle character?",
+      "shape": "How does the form of the mirror interact with the figure to shape the composition?",
+      "color": "How does a harmonious, warm palette enhance the sense of intimacy?",
+      "texture": "How does Vigée Le Brun's smooth blending of paint evoke skin and fabric?",
+      "space": "How does the shallow, close-up space focus attention on the child's private moment?",
+      "light": "How does diffused light unify the figure and create a soft atmosphere?",
+      "meaning": "How might the mirror be read in the long European tradition of vanity imagery, and how does this portrait depart from it?",
+      "culture": "How does Vigée Le Brun's status as a successful woman portraitist shape how we read a family portrait by her?",
+      "technique": "What does the soft finish suggest about the stylistic taste of late eighteenth-century French portraiture?",
+      "personal": "How do your own ideas about self-image influence how you read the child's act of looking?",
+      "critical": "How should we weigh the artist's relationship to the sitter when interpreting the work?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about how the painting stages looking, and what remains uncertain?",
+      "emotion": "How does the portrait sustain affection and reserve at once?",
+      "observation": "Describe the portrait's construction with precision. Where does description begin to imply a reading?",
+      "analysis": "Analyze how the mirror motif complicates the relation among artist, sitter, and viewer.",
+      "line": "How does the subordination of hard contour to tonal modeling shape the portrait's approach to form?",
+      "shape": "How do the curves of figure and mirror create a self-contained, enclosed composition?",
+      "color": "How might changes in pigment and varnish alter the delicacy of the original effect, and how would that affect interpretation?",
+      "texture": "How does the painter's treatment of varied surfaces relate to the period's ideals of softness and naturalness?",
+      "space": "How does the proximity of the figure position the viewer as intimate observer rather than public audience?",
+      "light": "In what ways does soft light function as both a descriptive and an emotional device?",
+      "meaning": "Weigh readings of the mirror as emblem of vanity, of self-discovery, or of maternal artistic self-reflection. Which does the evidence support best?",
+      "culture": "How does this portrait intersect with debates in the 1780s about childhood, nature, and women's roles in art?",
+      "technique": "What might the informality of the pose suggest about the portrait's function as a private or exhibited work?",
+      "personal": "How might your own experience of being portrayed, or of portraying others, shape your reading of the mother-daughter relationship here?",
+      "critical": "How do we separate interpretation grounded in the picture from biography imposed onto it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Girls, Portraits, Mirrors) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Elisabeth Louise Vigée Le Brun was one of the leading portrait painters of eighteenth-century France. This 1787 portrait shows her daughter Julie, about seven, looking in a mirror.",
+    "vocabulary": [
+      "portrait",
+      "reflection",
+      "intimacy",
+      "soft focus",
+      "oil paint",
+      "self-image"
+    ],
+    "directions": [
+      "Ask students to explain what the mirror adds to a portrait and how the picture would change without it.",
+      "Have students sketch a portrait of a friend looking at something and describe what their gaze says.",
+      "Discuss what it meant for a woman to be a professional painter in the 1700s."
+    ]
+  }
+}

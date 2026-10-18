@@ -1,0 +1,159 @@
+{
+  "id": "met-474317",
+  "day": "06-30",
+  "title": "Roundel with Human Face",
+  "artist": "Artist unknown",
+  "date": "5th century",
+  "medium": "Linen, Wool (Slip-loop knotted pile)",
+  "movement": "Coptic",
+  "region": "Byzantine Egypt",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/md/web-large/tr86112001s1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/md/original/tr86112001s1.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Bess Myerson, 2001",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round fragment of woven cloth with a human face worked in thick, looped wool threads on a linen base.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/474317",
+    "objectId": "474317",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, object name (Textile fragment), date, medium, culture (Coptic), country (Byzantine Egypt), classification (Textiles-Woven), tags (Faces), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A round textile fragment from Byzantine Egypt, made in the 5th century by Coptic weavers from linen and wool in a slip-loop knotted pile technique. It shows a human face. Egypt's dry climate helped many textiles of this era survive.",
+  "descriptions": {
+    "k": "This round piece of cloth has a face on it. It was made in Egypt very long ago. The threads are fuzzy and thick, made of wool. Look at the eyes. What do you think this face is thinking?",
+    "g12": "A weaver in Egypt made this round cloth over 1,500 years ago. It has a human face made from wool threads. The threads form little loops, so the cloth looks thick and fuzzy. Look at the face. How can threads show eyes and a nose? What do you think the person feels?",
+    "g35": "This round textile from Byzantine Egypt was made in the 5th century by Coptic weavers. It is made of linen and wool in a technique called slip-loop knotted pile, which makes a thick, soft surface of little loops. The record's tag for this piece is Faces, and the design shows a human face. Roundels like this were often sewn onto cloth such as clothing or hangings. How can a weaver turn thread into a face, and what do you notice about it?",
+    "g68": "Made in the 5th century in Byzantine Egypt, this roundel is part of a Coptic textile tradition known for woven decoration. Here the weaver used slip-loop knotted pile on a linen base, building a textured surface from looped wool. The subject is a human face, which the weaver had to translate into a grid of thread. Egypt's dry climate preserved many such textiles that would have disappeared elsewhere. How does the technique shape the face's look, and what are the challenges of making a portrait with thread?",
+    "g910": "This 5th-century roundel from Byzantine Egypt shows how Coptic weavers used technique as a visual language. The slip-loop knotted pile, a thick surface of wool loops on linen, creates a tactile effect unlike flat tapestry weave. The face is built from thread, so contour and feature are simplified into bold units, reflecting both the limits of the technique and a taste for expressive, frontal imagery. Because the object is a fragment, we do not know how it was originally used. What can its design alone tell us?",
+    "g1112": "A 5th-century fragment from Byzantine Egypt, this roundel in linen and wool pile sits at the meeting point of Roman, Egyptian, and early Christian visual cultures that scholars often discuss in Coptic textiles. Its face is created through slip-loop knotted pile, a technique that transforms thread into relief. As a fragment, it has lost its original context, so claims about use, identity, or meaning are tentative. Some viewers read such faces as portraits or ornamental heads, while others stress their simplified style. How do technique and fragmentation limit or open interpretation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "This round cloth has a face on it. What do you think the person is feeling?",
+      "emotion": "Does the face look happy, sleepy, or surprised? What shows it?",
+      "observation": "Find the eyes and the nose on the cloth. What else can you find in the face?",
+      "analysis": "What helps you see a face in all those threads? Point to two clues.",
+      "line": "Trace the round edge of the cloth. Where does it start and where does it end?",
+      "shape": "The cloth is a circle and the face is inside it. What other shapes can you find in the face?",
+      "color": "Which colors are the threads? Which one is easiest to see?",
+      "texture": "The threads make little loops. How do you think the cloth would feel under your fingers?",
+      "space": "Does the face fill the whole circle or is there space around it? Show where.",
+      "light": "Thick wool threads cast tiny shadows. Where might the cloth look lighter and darker?",
+      "meaning": "Why do you think someone put a face on a piece of cloth? Share your idea.",
+      "culture": "This cloth was made in Egypt more than 1,500 years ago. What cloth things do you wear or use today?",
+      "technique": "A weaver made this face using thread, not paint. How would you start making a face with yarn?",
+      "personal": "If you could weave your own face with yarn, what colors would you use?",
+      "critical": "The cloth is only a piece of a bigger object. What do you think the whole thing might have been?"
+    },
+    "g12": {
+      "daily": "How does the weaver make a face out of thread? Show the parts that help you see it.",
+      "emotion": "What feeling does the face give you? Which part makes you feel that way?",
+      "observation": "Describe the face. What shapes do the eyes, nose, and mouth make?",
+      "analysis": "How does the circle around the face make you look closely at it?",
+      "line": "Find lines made by the threads. Which ones are curved, and which are straight?",
+      "shape": "The face is round like the cloth. How do the shapes of the face and the circle match?",
+      "color": "Which colors do you see in the woven face? How do they help the features stand out?",
+      "texture": "The threads are looped and thick. How is that different from a smooth, flat cloth?",
+      "space": "Does the face look flat or does it look like it sticks out? What tells you?",
+      "light": "Which parts of the face might look bright and which parts darker because of the thick loops?",
+      "meaning": "People put pictures on cloth for decoration or meaning. What might this face tell people?",
+      "culture": "Egypt is very dry, which helped old cloth survive. Why is it special that this cloth is still here?",
+      "technique": "Slip-loop knotted pile makes a thick surface of loops. Why might a weaver choose this for a face?",
+      "personal": "Think of a patch or badge you have seen. How is this round cloth like it?",
+      "critical": "The cloth is a fragment. What questions would you ask to find out what it came from?"
+    },
+    "g35": {
+      "daily": "How does the weaver turn wool loops into a recognizable human face? Point to details that make it work.",
+      "emotion": "What expression do you read in the face, and which details create it?",
+      "observation": "Look closely at the roundel. What small details of the face and edge do you notice?",
+      "analysis": "How does the roundel shape help organize the face and any surrounding design?",
+      "line": "How do rows of woven loops act like lines to outline the eyes, nose, and mouth?",
+      "shape": "Which basic shapes make up the face, and how do they fit within the circle?",
+      "color": "How do contrasts of color between wool threads help the features read from a distance?",
+      "texture": "Pile weaving makes a thick, bumpy surface. How does that differ from the flat surface of a painting?",
+      "space": "How does the weaver create a face that feels frontal and close, with little background?",
+      "light": "How does the raised pile catch light differently from a flat woven area?",
+      "meaning": "Why might a face have been a good choice for decoration on a garment or hanging?",
+      "culture": "What can a Coptic textile from Byzantine Egypt tell us about how people dressed and decorated their homes?",
+      "technique": "In slip-loop knotted pile, wool loops are worked on a linen base. Why might a weaver use two fibers?",
+      "personal": "Where have you seen faces used as decoration, such as on clothing, toys, or buildings? Why do you think people like them?",
+      "critical": "The fragment has no label about who it shows. How does that change how we look at it?"
+    },
+    "g68": {
+      "daily": "How do the loops of the pile weave create a face that is both abstract and expressive?",
+      "emotion": "What mood does the frontal, simplified face create? Use visual evidence.",
+      "observation": "List what you can see in the roundel, from the center to the edge. Which areas have the most detail?",
+      "analysis": "How does the circular border frame the face, and how does the weaver balance the face with the space around it?",
+      "line": "How does the weaver use rows and clusters of loops as line to define features?",
+      "shape": "How are facial features simplified into repeated basic shapes?",
+      "color": "How might the contrast of wool colors on the linen base emphasize the face?",
+      "texture": "How does the thick pile give a sense of touch that images on flat surfaces lack?",
+      "space": "How does the roundel achieve depth with a technique that builds relief from thread?",
+      "light": "How might light and shadow on the pile change the face's expression as a viewer moves?",
+      "meaning": "Why might faces appear in textiles of late antique Egypt? What possible meanings are speculation?",
+      "culture": "How does Egypt's mix of Roman, Egyptian, and Christian traditions show up in Coptic art?",
+      "technique": "What are the advantages and difficulties of making an image with knotted loops?",
+      "personal": "What simple materials could you use to make a face with strong expression?",
+      "critical": "Is it a portrait or a decorative head? What evidence supports each reading?"
+    },
+    "g910": {
+      "daily": "How does the weaver make technique the main source of the face's expressive force?",
+      "emotion": "How does simplification of features shape the emotional presence of the face?",
+      "observation": "Describe the roundel's visual hierarchy. What draws your attention first, and why?",
+      "analysis": "Analyze how the circular format controls the composition and focuses the viewer on the face.",
+      "line": "How does the pile technique translate contour into rows of loops, and how does that affect line quality?",
+      "shape": "How does the weaver reduce facial structure to bold units that read at a distance?",
+      "color": "How does color contrast support the legibility of features in a coarse technique?",
+      "texture": "How does the pile surface shape the tactile and visual impact of the face compared with flat tapestry weave?",
+      "space": "How does a frontal, centered face create a sense of presence in a small roundel?",
+      "light": "How does raised pile interact with light to give a sculptural effect on a woven surface?",
+      "meaning": "What might faces have communicated in late antique textiles, and where do those readings become speculative?",
+      "culture": "How does a Coptic textile reflect the diverse visual traditions of Byzantine Egypt?",
+      "technique": "What does this technique imply about the weaver's planning and skill in managing loops and knots?",
+      "personal": "How does the face's directness affect your own sense of being looked at?",
+      "critical": "How do fragmentation and loss of context shape what we can claim about this object?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the roundel itself about its face and technique, and what depends on context we lack?",
+      "emotion": "How does a stylized face provoke a response, and why should we be careful about projecting emotions onto it?",
+      "observation": "Describe the roundel's structure with precision. Which features are secure and which are inferred from damage or wear?",
+      "analysis": "Analyze how pile weave shapes the relationship between image and material.",
+      "line": "How does line emerge from rows of loops rather than from drawn contour, and what does that reveal about the technique?",
+      "shape": "How might the stylization of the face reflect local conventions, available technique, or deliberate expressive choice?",
+      "color": "How might aging, dye change, and wear have altered the original color relationships?",
+      "texture": "How does the object's materiality complicate distinctions between image, ornament, and relief?",
+      "space": "How does the roundel's frontal address compare with other late antique conventions of representing faces?",
+      "light": "How does museum lighting shape our perception of a raised-pile surface compared with an original setting?",
+      "meaning": "Evaluate readings of the face as portrait, protective image, or ornament. What evidence would help?",
+      "culture": "How does the label Coptic simplify a complicated cultural situation in Byzantine Egypt?",
+      "technique": "What does slip-loop knotted pile reveal about specialization in textile workshops?",
+      "personal": "How do your experiences of being looked at or portrayed shape your reading of a face in cloth?",
+      "critical": "What does the survival of fragments in dry climates do to our picture of the past, and what is missing?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, object name (Textile fragment), classification (Textiles-Woven), culture and tag (Faces) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 5th-century Coptic roundel from Byzantine Egypt, made of linen and wool using slip-loop knotted pile. It is a fragment, so its original use is unknown.",
+    "vocabulary": [
+      "roundel",
+      "Coptic",
+      "pile weave",
+      "linen and wool",
+      "fragment",
+      "Byzantine Egypt"
+    ],
+    "directions": [
+      "Have students make a face with yarn glued onto cardboard, using loops to create texture.",
+      "Compare a woven face with a drawn or painted face and discuss what each medium makes easy or hard.",
+      "Discuss how climate affects what survives from the past."
+    ]
+  }
+}

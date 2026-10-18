@@ -1,0 +1,159 @@
+{
+  "id": "met-49021",
+  "day": "05-31",
+  "title": "Landscapes after Song and Yuan masters",
+  "artist": "Lan Ying",
+  "date": "1642",
+  "medium": "Album of twelve leaves; ink and color on paper",
+  "movement": "Ming dynasty landscape painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP161009.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP161009.jpg",
+    "credit": "The Metropolitan Museum of Art, The Sackler Fund, 1970",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small landscape painting from an album, in ink and soft color on paper, with trees and natural scenery. The brushwork is detailed, and the page shows one scene from a set of twelve.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/49021",
+    "objectId": "49021",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Ming dynasty), tags (Landscapes, Trees), public-domain flag, credit line and image URLs read from the record. The record covers a twelve-leaf album; the linked image shows one view and its exact contents were not described in the record."
+  },
+  "context": "An album of twelve leaves dated 1642 by Lan Ying, a Ming dynasty painter, in which landscapes are painted after the styles of earlier Song and Yuan masters. Painting in the manner of admired older artists was a respected practice in China. The image shown is a single view from the album.",
+  "descriptions": {
+    "k": "This is a small landscape painting from a set of twelve. There are trees and quiet nature. The painter used a fine brush and soft color. Look closely. What is the biggest tree you can find?",
+    "g12": "Lan Ying painted twelve small landscapes in a book, called an album. This is one view from it. He used ink and soft color to paint trees and nature. He copied the styles of older painters to learn from them. Which tree or shape do you notice first?",
+    "g35": "Lan Ying made this album in 1642, during the Ming dynasty. Its title says the landscapes are after Song and Yuan masters, which means he painted in the style of great artists from earlier times. Each page is a small scene with trees and scenery in ink and color. Why might an artist practice by copying older masters?",
+    "g68": "Painting in the style of earlier masters was not seen as copying in a negative sense in China; it was a way to honor tradition and show skill. Lan Ying's album of twelve leaves, dated 1642, reinterprets Song and Yuan landscape styles in ink and color on paper. The image shown is one scene with trees and scenery. How can an artist be both a follower of tradition and an individual?",
+    "g910": "Lan Ying's 1642 album belongs to a Ming practice of painting after earlier masters, a way of engaging history rather than merely reproducing it. Each leaf can be viewed up close, and ink and color on paper allow fine, controlled brushwork. Consider what the title promises, namely echoes of Song and Yuan landscapes, and how you can observe individual choices of tree, brush stroke, and space in the single view shown.",
+    "g1112": "The title, Landscapes after Song and Yuan masters, signals a conscious dialogue with earlier styles, a hallmark of late Ming painting. Scholars debate how much such works express fidelity to tradition and how much personal innovation, and the line is not always clear. Because the album has twelve leaves and only one is shown here, any reading should stay attentive to the specific image: its trees, brushwork, and space. How can a tradition be both inherited and reinvented?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the biggest tree in this little landscape. How is it different from the smaller trees?",
+      "emotion": "Does this scene feel peaceful or busy? What do you see that makes you say so?",
+      "observation": "Find three trees or plants in this painting. Point to each one.",
+      "analysis": "What part of this small painting do your eyes visit first? Why?",
+      "line": "Trace a branch or a hill line with your finger. Is it smooth or bumpy?",
+      "shape": "Find a round shape and a pointy shape in this landscape.",
+      "color": "What soft colors did the painter use? Which one do you like best?",
+      "texture": "Do the trees look fuzzy, rough, or smooth? What tells you?",
+      "space": "What is close to you in this scene? What is far away?",
+      "light": "Does the scene look bright or cloudy? What makes you think so?",
+      "meaning": "If you could walk into this landscape, where would you go first?",
+      "culture": "This is one page from a book of twelve paintings. Why might someone enjoy looking at a book of pictures?",
+      "technique": "The painter used a thin brush. Can you find a very small detail?",
+      "personal": "Have you ever copied a drawing to learn how it was made? What did you learn?",
+      "critical": "This painter copied the style of older artists. Is that fair? Why or why not?"
+    },
+    "g12": {
+      "daily": "Pick one tree in this album leaf and describe how the painter drew its branches and leaves.",
+      "emotion": "How does this small landscape make you feel? Point to what causes that feeling.",
+      "observation": "Describe five things you can find on this page of the album.",
+      "analysis": "How does the painter make the picture feel balanced even though it is small?",
+      "line": "Compare the lines of the trees with the lines of the land. How are they different?",
+      "shape": "What big shapes do you see in this landscape? How do the small shapes fit around them?",
+      "color": "The painter used ink and some color. Where does the color stand out most?",
+      "texture": "How does the painter show bark, leaves, and rocks so they do not look the same?",
+      "space": "Which parts look near and which look far? How can you tell?",
+      "light": "Where does the light seem strongest in this view? How did the painter show it?",
+      "meaning": "This album has twelve pictures. Why might someone paint a whole set of landscapes?",
+      "culture": "Lan Ying made these in 1642 after older masters. Why do you think he wanted to learn from them?",
+      "technique": "This painting is on paper with ink and color. How is a small album painting different from a big wall painting?",
+      "personal": "What would you want to learn by copying an artist you admire?",
+      "critical": "Is a painting that copies an old style still a new painting? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What details in this album page show that Lan Ying looked closely at older landscape paintings?",
+      "emotion": "What mood does this small landscape create? Which choices, such as color or open space, make that mood?",
+      "observation": "Look carefully for one minute. What details in the trees or scenery did you notice last?",
+      "analysis": "How does Lan Ying organize the trees and scenery so your eyes move across the leaf?",
+      "line": "How do the lines for tree trunks and branches differ from the lines for hills or rocks?",
+      "shape": "How do the shapes of trees repeat and change across the picture to create rhythm?",
+      "color": "How does the soft color help certain areas stand out from the ink lines?",
+      "texture": "How does the painter use small brush marks to show the surfaces of trees and ground?",
+      "space": "How does the painter suggest depth in a very small painting?",
+      "light": "How does the use of light and dark ink make some parts of the scene seem to catch the light?",
+      "meaning": "The title says the landscapes follow Song and Yuan masters. What might Lan Ying be saying about respect for the past?",
+      "culture": "In China, learning from past masters was a respected practice. What might this tell us about how artists were trained?",
+      "technique": "Ink and color on paper allow for fine details. Where in this leaf can you see the most delicate brushwork?",
+      "personal": "Think of a skill you learned by imitating someone first. How did you make it your own?",
+      "critical": "Does an album of twelve small paintings tell us more or less about an artist than one big painting? Give reasons."
+    },
+    "g68": {
+      "daily": "How can you tell, just by looking at this leaf, that the artist is working with ideas from earlier painting?",
+      "emotion": "How does the scale of this album leaf shape the viewer's feeling of intimacy with the scene?",
+      "observation": "Describe how the trees and scenery are arranged from the front of the picture to the back.",
+      "analysis": "How does the composition of this leaf direct attention, and what role do the trees play?",
+      "line": "How does Lan Ying vary line quality across the trees and the land to give them different characters?",
+      "shape": "How do the tree forms and other shapes form patterns of rhythm in the scene?",
+      "color": "How does the restrained use of color help unify the leaf and support its mood?",
+      "texture": "Which brush techniques stand out to you for showing bark, foliage, and rocks?",
+      "space": "How does the painter suggest distance in a small format using overlap, size, or tone?",
+      "light": "How does the contrast between darker and lighter areas imply daylight and atmosphere?",
+      "meaning": "Painting after the masters may be an act of homage, learning, or competition. What do you think is happening in this album, and what supports your view?",
+      "culture": "Why might Ming dynasty audiences have valued paintings that referred to Song and Yuan styles?",
+      "technique": "An album is held in the hands and viewed one page at a time. How might that affect how the painter plans each leaf?",
+      "personal": "When you create something inspired by another person's work, how do you decide what to keep and what to change?",
+      "critical": "Is the label after masters a limitation or a strength for this album? Argue for one side."
+    },
+    "g910": {
+      "daily": "Which visible choices in this leaf suggest dialogue with earlier landscape styles, and which suggest the artist's own voice?",
+      "emotion": "How does the intimate format of an album leaf shape the emotional tone of the landscape?",
+      "observation": "Describe the leaf's visual hierarchy. Which elements dominate, and which devices make them do so?",
+      "analysis": "Analyze how the tree forms, ground, and space interlock to produce a coherent composition.",
+      "line": "How does variation of line type and weight create differences among trees, rocks, and ground?",
+      "shape": "How do repeating and contrasting shapes create rhythm and unity in this small view?",
+      "color": "How does the relationship between ink and color wash organize the surface and focus attention?",
+      "texture": "What does the painter's handling of bark, foliage, and ground tell you about observation and borrowed convention?",
+      "space": "How does the leaf create depth within its limited scale, and what techniques does it borrow from the tradition?",
+      "light": "How is light implied through tonal contrast, and how does it influence the mood of the view?",
+      "meaning": "How might painting in the manner of earlier masters function as an act of respect, learning, and personal statement all at once?",
+      "culture": "How does this album reflect the late Ming art world's interest in connoisseurship and history?",
+      "technique": "What do ink and color on paper permit in terms of control and spontaneity, as seen in this leaf?",
+      "personal": "How does studying an inherited style help or limit creativity in your own experience?",
+      "critical": "The record describes twelve leaves, but we see one. How does that limit what we can conclude, and what would you want to see next?"
+    },
+    "g1112": {
+      "daily": "What does this one leaf allow us to argue about Lan Ying's relation to earlier styles, and what claims need the whole album?",
+      "emotion": "How does the intimate scale of an album leaf shape the emotional register of its landscape?",
+      "observation": "Describe the leaf with exact vocabulary for brushwork and composition. When does description turn to interpretation?",
+      "analysis": "Analyze how the leaf negotiates between descriptive observation and the conventions inherited from earlier masters.",
+      "line": "How does line function here as both structure and a signal of the style being cited?",
+      "shape": "How do repeated forms of trees and terrain generate a visual syntax tied to older landscape idioms?",
+      "color": "How does color support or soften the linear structure, and what might age have changed in its appearance?",
+      "texture": "How do texture strokes operate as a language of style, and how can viewers read quotation versus invention?",
+      "space": "How does the construction of space in a single leaf differ from the continuous experience of a handscroll or hanging scroll?",
+      "light": "How does the leaf imply atmosphere through tone, and what does this suggest about its models?",
+      "meaning": "How do concepts of homage, appropriation, and invention complicate the meaning of a painting made after earlier masters?",
+      "culture": "How did practices of imitation structure artistic training and prestige in late Ming China, and how might they differ from modern ideas of originality?",
+      "technique": "What does the album format imply about the working methods and audience of this painting?",
+      "personal": "How does your own sense of originality shape your response to an artist who openly states his models?",
+      "critical": "How should we assess a work whose title announces its dependence on earlier styles? What criteria best capture its achievement?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tags (Landscapes, Trees) in the Met record were checked; the subject is landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Lan Ying's album is dated 1642 and consists of twelve leaves painted after earlier masters. The image shows only one view, so ask students to base their answers on what they see on screen.",
+    "vocabulary": [
+      "album",
+      "leaf",
+      "landscape",
+      "after the masters",
+      "Ming dynasty",
+      "brush stroke"
+    ],
+    "directions": [
+      "Have students copy a small detail from the image, then discuss what copying taught them.",
+      "Discuss the difference between imitation as learning and imitation as cheating.",
+      "Ask students to design a second leaf in the album and describe what it would show."
+    ]
+  }
+}

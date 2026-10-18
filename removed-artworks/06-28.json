@@ -1,0 +1,151 @@
+{
+  "id": "met-553268",
+  "day": "06-28",
+  "title": "Game Box for Playing Senet and Twenty Squares",
+  "artist": "Artist unknown",
+  "date": "ca. 1580–1458 BCE",
+  "medium": "Ivory, copper alloy, modern wood",
+  "region": "Egypt, Second Intermediate Period–Early New Kingdom",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP160290.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP160290.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1916",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, long box made of pale ivory with metal fittings, designed for playing two ancient board games. Rows of small squares for the games are marked on its surfaces.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/553268",
+    "objectId": "553268",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Games), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A game box from ancient Egypt, made around 1580–1458 BCE, with surfaces for two board games: Senet and Twenty Squares. It is about 25 cm long and is made of ivory and copper alloy; the record notes that the wood is modern. Senet was one of the most popular board games in ancient Egypt.",
+  "descriptions": {
+    "k": "This little box was made for playing games! It is very, very old and comes from Egypt. It has two different games on it. Can you find the small squares where the game pieces would go?",
+    "g12": "People in ancient Egypt played games, just like we do. This small ivory box has two games on it, called Senet and Twenty Squares. The squares in rows are the game paths. It is about as long as a ruler. Who do you think played with it, and what would they say?",
+    "g35": "This ivory box was made in Egypt more than 3,400 years ago for playing two board games, Senet and Twenty Squares. Players moved pieces along rows of squares, and Senet was among the most popular games in Egypt. The box is small enough to hold, with metal fittings and a smooth, pale surface. What does it tell you about how ancient Egyptians relaxed and played?",
+    "g68": "Made around 1580–1458 BCE, this box combines two games in one portable object: Senet and Twenty Squares. Its ivory and copper-alloy materials suggest it was valued, and its small size means it could be carried or stored easily. Games like these show that Egyptians enjoyed play, competition, and perhaps ritual meaning too. How does a game box reveal daily life differently from a monument or a tomb painting?",
+    "g910": "This game box turns leisure into craft. Ivory, copper alloy, and a carefully laid-out grid transform simple play into a portable and prestigious object. Senet and Twenty Squares were widely enjoyed in ancient Egypt, and some scholars suggest Senet also took on symbolic roles, though the rules and meanings are not fully known. How does the design of the box balance use, portability, and display, and what do its materials say about the owner?",
+    "g1112": "The Senet and Twenty Squares box is evidence of how ordinary pleasures could be given luxurious form. Ivory and copper alloy, combined with a precise grid, make the object both functional and status-bearing. Egyptians played Senet across many periods, and scholars have suggested that the game acquired religious associations, but our knowledge of its rules is reconstructed and debated. The box asks us to consider play as culture: what people enjoy, how they signal wealth, and how historians interpret games whose rules were lost."
+  },
+  "questions": {
+    "k": {
+      "daily": "This little box was made for playing games. What game would you want to play first?",
+      "emotion": "Does this box look fun, fancy, or serious? What tells you that?",
+      "observation": "Find the rows of small squares. How many rows can you see?",
+      "analysis": "Where do your eyes start on the box, and where do they go next?",
+      "line": "Trace a straight row of squares with your finger. How long is it?",
+      "shape": "What shapes do you see on the box? Count the squares if you can.",
+      "color": "The ivory is pale and creamy. What other things are this color?",
+      "texture": "Does the ivory look smooth like a bone or rough like a rock? How can you tell?",
+      "space": "The box is long and thin. Where could the game pieces be kept?",
+      "light": "Where does the pale ivory look brightest?",
+      "meaning": "Why might someone take a game with them on a trip?",
+      "culture": "People in Egypt played games over three thousand years ago. What games do you play today that use squares?",
+      "technique": "The squares were measured and made to be even. How do you think the maker did that?",
+      "personal": "What is your favorite game to play with a friend? How is it like this one?",
+      "critical": "There are two games on one box. Why might it be handy to have both?"
+    },
+    "g12": {
+      "daily": "What game could you imagine playing on this box? Use details from the box to tell about it.",
+      "emotion": "Does this game box seem playful, special, or both? Which materials give you that feeling?",
+      "observation": "Describe the game grid and the other parts of the box.",
+      "analysis": "How do the rows of squares help you know where to move?",
+      "line": "Find the straight lines that make the grid. How do they keep things neat?",
+      "shape": "The squares repeat again and again. What does that repeating shape feel like to your eyes?",
+      "color": "The ivory is pale. How would colorful game pieces look against it?",
+      "texture": "The ivory and metal look different. Which looks smoother, and which looks harder?",
+      "space": "The box is small enough to carry. Why is that good for a game?",
+      "light": "How does the pale ivory catch the light compared with the darker metal parts?",
+      "meaning": "Why would someone make a game board out of a valuable material like ivory?",
+      "culture": "Egyptians loved to play games, just like people today. What does a game box tell you about their free time?",
+      "technique": "Making the squares even takes careful measuring. Which step do you think was hardest?",
+      "personal": "Do you have a game board at home? How is it different from this one?",
+      "critical": "We do not know every rule of these games. How can we learn about them from the box?"
+    },
+    "g35": {
+      "daily": "What can you learn about how Egyptians played from the grid and the shape of this box?",
+      "emotion": "Is this a box for serious or relaxed play? Which materials and details make you think so?",
+      "observation": "Spend a minute scanning the box. What details of the grid, metal parts, or surface did you notice last?",
+      "analysis": "How is the box organized so two different games can fit on one object?",
+      "line": "How do the straight lines divide the surface into squares? What would the games look like without them?",
+      "shape": "The grid of squares repeats across the box. How does repetition make the game easy to follow?",
+      "color": "The ivory is pale and the metal is darker. How does contrast help the parts of the box stand out?",
+      "texture": "Ivory is smooth and hard. How might it feel to slide a game piece across it?",
+      "space": "The box is long and narrow. How does that shape make it easy to hold and to store?",
+      "light": "Pale ivory reflects light. How might it have looked when new compared with now?",
+      "meaning": "Senet may have had spiritual meaning for some Egyptians. How might a game be about more than just winning?",
+      "culture": "Ivory was a costly material. What might it say about the status of the person who owned this box?",
+      "technique": "The maker used ivory and copper alloy. Why might they choose different materials for different parts?",
+      "personal": "Think of something that you play with friends that has rules. Why do you think rules matter in games?",
+      "critical": "The record says the wood is modern. How does that change what we can know about the original box?"
+    },
+    "g68": {
+      "daily": "How does this box combine function and luxury? Point to the evidence in its materials and design.",
+      "emotion": "What kind of mood does the box suggest, such as friendly competition or quiet focus? Which details support that?",
+      "observation": "List the parts of the box and the games it holds. Which details suggest how it was used?",
+      "analysis": "How does the grid organize the play surface, and how does that structure influence the player's moves?",
+      "line": "How do the straight lines and right angles create order and make the games readable?",
+      "shape": "How do repeating squares create rhythm, and where might that rhythm be interrupted?",
+      "color": "How does the contrast of pale ivory with metal fittings add emphasis to the box's design?",
+      "texture": "How might ivory's smooth, dense surface suit both a game surface and a prestige object?",
+      "space": "How does the box's small size relate to how and where it might have been used?",
+      "light": "How does ivory's glow add to the sense of value in this object?",
+      "meaning": "Why might a game like Senet have meaning beyond play for some Egyptians? How do we know what is uncertain?",
+      "culture": "What does the survival of game boxes suggest about leisure and social life in ancient Egypt?",
+      "technique": "What skills are needed to measure, cut, and finish an ivory surface with a precise grid?",
+      "personal": "How do games help people connect? Describe a time play brought you closer to others.",
+      "critical": "Since some rules are reconstructed, how reliable is our picture of how the games were played?"
+    },
+    "g910": {
+      "daily": "How do the materials and structure of this box turn a pastime into a prestige object?",
+      "emotion": "How does the controlled, orderly grid shape the tone of the object, from playfulness to formality?",
+      "observation": "Describe the box's organization and identify which features are structural and which are decorative or functional.",
+      "analysis": "Analyze how the object manages two game systems in one compact form.",
+      "line": "How does the linear precision of the grid express the order that games require?",
+      "shape": "How does the repetition of square units contribute to both aesthetics and function?",
+      "color": "How does the contrast between ivory and metal articulate the box's parts and add to its richness?",
+      "texture": "How do the polished ivory and metal create a tactile contrast that signals value?",
+      "space": "How does the slim, portable form relate the box to ideas of intimacy, privacy, and sociable play?",
+      "light": "How might the reflectivity of polished ivory affect how the box appears in different settings?",
+      "meaning": "Evaluate the claim that Senet carried spiritual significance. What evidence supports it, and what remains speculative?",
+      "culture": "What does a luxury game box suggest about elite leisure and the social uses of play in the New Kingdom?",
+      "technique": "What does the combination of ivory and copper alloy suggest about specialist craftsmanship and access to materials?",
+      "personal": "How do you balance function and beauty in the objects you use for play or leisure?",
+      "critical": "What does it mean for conservation that part of this box, the wood, is modern, and how should we describe it?"
+    },
+    "g1112": {
+      "daily": "How might this box have operated at once as a practical tool, a status object, and perhaps a carrier of cultural meaning?",
+      "emotion": "How might the cool precision of the grid and the warmth of ivory create a particular affective experience for players?",
+      "observation": "Describe the box's construction. At what point does description of the grid become interpretation of play?",
+      "analysis": "Analyze how the structure of the board encodes rules and expectations, and what is lost when the rules are not preserved.",
+      "line": "How does the linear layout function as a system of meaning as well as a design?",
+      "shape": "How does the modular repetition of the square reflect broader principles of order in Egyptian design?",
+      "color": "How does the natural palette of ivory and metal inflect the object's value, and how might its present condition differ from its original look?",
+      "texture": "How do the material properties of ivory and copper alloy shape the experience of handling and play?",
+      "space": "How does the box's scale suggest social and spatial uses, such as table play, travel, or storage?",
+      "light": "How does light on ivory contribute to modern perceptions of luxury, and how might ancient perceptions have differed?",
+      "meaning": "Compare readings of Senet as simple entertainment and as a game with religious symbolism. Which evidence is strongest?",
+      "culture": "How do games like Senet provide a window onto ancient Egyptian social life that monumental art often leaves out?",
+      "technique": "What does the use of ivory and metal imply about trade networks and specialized workshops?",
+      "personal": "How does your own relationship to games shape the way you interpret an ancient board?",
+      "critical": "How should museums present objects that are composites of ancient and modern parts, and what are the risks of overstating authenticity?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Games), medium (ivory, copper alloy, modern wood) and period checked against the museum record. Subject is a game box with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An ancient Egyptian game box with surfaces for Senet and Twenty Squares. The rules of these games are only partly known and have been reconstructed by modern scholars.",
+    "vocabulary": ["Senet", "ivory", "copper alloy", "grid", "New Kingdom", "reconstruct"],
+    "directions": [
+      "Have students invent rules for a game on a grid of squares and compare how rules shape play.",
+      "Ask students how we can know how a game was played when no rule book survives.",
+      "Discuss why people create beautiful versions of everyday objects."
+    ]
+  }
+}

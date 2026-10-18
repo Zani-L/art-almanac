@@ -1,0 +1,151 @@
+{
+  "id": "met-48430",
+  "day": "04-14",
+  "title": "Dish with fish",
+  "artist": "Artist unknown",
+  "date": "late 16th century",
+  "medium": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/23_95_5_52848.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/23_95_5_52848.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Edward S. Harkness, 1923",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A white porcelain dish painted in shades of blue with a fish as the main subject. The blue lines and washes stand out against the glossy white surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/48430",
+    "objectId": "48430",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Ming dynasty, Wanli period, 1573–1620), creditLine, classification (Ceramics), tags (Fish), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This porcelain dish was made at the Jingdezhen kilns in China during the Wanli period (1573-1620) of the Ming dynasty. It is blue-and-white ware: the design was painted in cobalt blue before the glaze was added and the dish was fired. The Met's record tags it Fish.",
+  "descriptions": {
+    "k": "This is a white dish with blue paint. A fish swims on it. Look at the fish. What shape is its body? Where do you think it is going?",
+    "g12": "A painter in China made this white dish about 400 years ago. The painter used blue paint to draw a fish. The blue is bright and the dish is shiny. Find the fish and its tail. Is the fish swimming fast or slow? How can you tell?",
+    "g35": "This dish was made in Jingdezhen, China, a city famous for porcelain, in the late 1500s. The fish was painted in cobalt blue before the glaze was added, so the blue stays under the shiny surface. Notice how the painter uses thick and thin lines. Fish were popular in Chinese art. What details of the fish did the painter choose to show?",
+    "g68": "Jingdezhen kilns produced blue-and-white porcelain in huge quantities, and this dish dates to the Wanli period of the Ming dynasty. Cobalt blue was painted onto the white body, then covered with a clear glaze and fired, which locks the color in. The fish is the star of the design, and the painter's brushwork can show how a few lines or washes suggest scales, fins, and movement. How does blue-and-white painting make a simple subject feel lively?",
+    "g910": "This Wanli-period dish demonstrates the economy of blue-and-white porcelain: one pigment, one glaze, and a brush create a complete image. Cobalt painted under the glaze gives a crisp contrast against white porcelain, and variations in how dilute or heavy the blue is create tone. Fish appear often in Chinese art and are sometimes linked with abundance, though meaning depends on context. Consider how the placement of the fish, brush rhythm, and open white space together produce movement and balance.",
+    "g1112": "As Ming-dynasty blue-and-white porcelain from Jingdezhen, this dish belongs to a ceramic tradition that circulated widely, within China and in international trade. Underglaze cobalt painting permits tonal range and brush-like drawing on a curved surface, and the fish motif offers an image of movement and perhaps auspicious meaning, as fish are sometimes linked with abundance through wordplay. Yet the symbolism may vary with context, and we should be cautious in assigning a single meaning. How do medium, motif, and market shape our reading of this dish?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the fish on this blue-and-white dish going? Tell a little story about it.",
+      "emotion": "Does the fish look happy or sleepy to you? Show me what makes you think so.",
+      "observation": "Find the fish's tail, fins, and eye on the dish. Point to each one.",
+      "analysis": "Where does your eye land first on this dish? Why?",
+      "line": "Trace the fish's body with your finger. Is the line curvy or straight?",
+      "shape": "What shape is the fish's body? What shape is the dish?",
+      "color": "The dish uses blue and white. Which color do you see more of?",
+      "texture": "The dish looks smooth and shiny. How do you think it would feel under your fingers?",
+      "space": "The fish is on a flat round dish. Is there a lot of empty white space around it? How does that feel?",
+      "light": "Where does the shiny glaze look brightest on the dish?",
+      "meaning": "People in China see fish as a sign of good luck. Why might someone want a fish on their dish?",
+      "culture": "Long ago, artists in China painted fish on dishes. What animals do you see on dishes you use?",
+      "technique": "The painter used blue paint under shiny glaze. Why might the blue stay bright after baking?",
+      "personal": "If you could paint any water animal on a dish, which would it be?",
+      "critical": "The artist used only blue paint. What do you see that still looks like a fish?"
+    },
+    "g12": {
+      "daily": "How does the blue paint on this dish show that the fish is moving through water?",
+      "emotion": "What feeling does this fish give you, calm or active? Which details help you decide?",
+      "observation": "Describe the fish on this dish. What parts of its body can you find?",
+      "analysis": "How does the painter place the fish so it fills the dish in a pleasing way?",
+      "line": "Find thick and thin blue lines on the fish. How do they make it look alive?",
+      "shape": "What shapes make up the fish's body, tail, and fins? How do they fit together?",
+      "color": "Only blue and white are used. How do light and dark blue make the fish look different?",
+      "texture": "The painter may have made scales or ripples with small marks. Where do you see lines that look like texture?",
+      "space": "The fish is the center of the dish. How does the white space around it change how it looks?",
+      "light": "The dish is shiny. How does the glaze make the blue look bright and glowing?",
+      "meaning": "Fish can mean good luck in Chinese art. What do you think this fish wishes people?",
+      "culture": "This dish was made in the city of Jingdezhen, which is famous for porcelain. What might the people there have been proud of?",
+      "technique": "The painter put blue paint on the dish before the glaze. Why might it be hard to fix a mistake?",
+      "personal": "What picture would you choose to paint on a dish to make someone smile?",
+      "critical": "Do you think this dish was made for everyday use or only for display? What clues do you see?"
+    },
+    "g35": {
+      "daily": "How does the painter use only blue paint to show a fish with energy and movement? Give evidence from the dish.",
+      "emotion": "What mood does the fish create, playful, peaceful, or something else? Support your answer with details.",
+      "observation": "Look carefully for one minute. What small brushstrokes do you notice in the fish or around it?",
+      "analysis": "How does the painter organize the fish, the empty space, and the round shape of the dish into one design?",
+      "line": "How do thick and thin brushlines show the fish's body and fins differently?",
+      "shape": "How does the fish's body shape fit the curve of the round dish?",
+      "color": "How do the different strengths of blue, dark and light, give the fish more depth?",
+      "texture": "How does the painter suggest scales or movement through brush marks, even though the surface is smooth?",
+      "space": "How does the empty white space around the fish help it stand out?",
+      "light": "How does the shiny glaze over the blue paint change the way light reflects from the dish?",
+      "meaning": "Fish are sometimes linked with abundance in Chinese art. What else might a fish represent in a picture like this?",
+      "culture": "Blue-and-white porcelain from Jingdezhen was traded far from China. What does that tell you about how people valued it?",
+      "technique": "The blue was painted under the glaze before firing. What do you think the painter had to plan carefully?",
+      "personal": "Think about a design you like on a plate or mug. What makes it appeal to you?",
+      "critical": "Is a one-color painting less complex than a many-colored one? Use the fish dish to explain."
+    },
+    "g68": {
+      "daily": "How does blue-and-white painting make this single fish feel fluid and alive?",
+      "emotion": "What qualities does the painted fish seem to have, and which brushwork choices create them?",
+      "observation": "Examine the fish's body. Which areas have dark, concentrated blue and which have pale washes?",
+      "analysis": "How does the placement of the fish within the round dish create balance or tension?",
+      "line": "How does the painter vary the width and flow of brush lines to define fins, tail, and body?",
+      "shape": "How do the curved shapes of the fish respond to the curve of the dish itself?",
+      "color": "How does a single pigment, cobalt blue, achieve a range of tones against white porcelain?",
+      "texture": "How does the painter suggest texture, such as scales, with brushwork on a smooth glazed surface?",
+      "space": "How does the white ground around the fish suggest water or open space without painting it?",
+      "light": "How does the clear glaze over the cobalt paint give the blue a glowing, wet-looking quality?",
+      "meaning": "Fish may symbolize abundance or good fortune through wordplay. How might that idea shape the way a family used a dish like this?",
+      "culture": "Blue-and-white porcelain from Jingdezhen reached many parts of the world. How does a fish dish reflect both Chinese values and global trade?",
+      "technique": "Painting under the glaze means the artist cannot easily correct mistakes. How might that affect the confidence of the brushwork?",
+      "personal": "What everyday object do you wish were decorated with an animal, and why that animal?",
+      "critical": "What can this dish tell us about Ming taste, and what questions about its purpose does it leave unanswered?"
+    },
+    "g910": {
+      "daily": "How does the economy of means, a single pigment and a single motif, give this dish its visual force?",
+      "emotion": "How does the fluidity of the brushwork create a sense of animation without color variety?",
+      "observation": "Describe the visual hierarchy: how do the fish, any secondary marks, and the white ground guide your attention?",
+      "analysis": "Analyze how the design of the fish responds to the circular format and the dish's curved surface.",
+      "line": "How does variation in line weight contribute to the illusion of volume and movement in the fish?",
+      "shape": "How does the silhouette of the fish interact with the circular outline of the dish?",
+      "color": "How do gradations of cobalt blue against white porcelain create a rich tonal range?",
+      "texture": "How does the painter evoke texture through brush technique, and how does that interact with the smooth glaze?",
+      "space": "How does negative space contribute to the sense of depth and water in the composition?",
+      "light": "How does the glaze influence the optical depth of the blue and the dish's overall luminosity?",
+      "meaning": "What are the strengths and limits of reading the fish as a symbol of abundance when the dish carries no inscription visible in the record?",
+      "culture": "How might a dish of this kind have functioned within Ming social life and in the broader porcelain trade?",
+      "technique": "How does underglaze cobalt painting demand planning, speed, and control compared with painting on a finished surface?",
+      "personal": "How do the objects you use every day carry designs that signal values or wishes, and how does this fish dish compare?",
+      "critical": "How should we evaluate mass-produced trade ceramics as art when many were made in large workshops by unnamed painters?"
+    },
+    "g1112": {
+      "daily": "What does the fish dish suggest about how Wanli-period workshops balanced individual brush skill with the demands of a large-scale industry?",
+      "emotion": "How does the interplay of spontaneity and control in the brushwork shape the emotional register of the fish?",
+      "observation": "Describe the dish as exactly as you can. Where does description of brushwork already imply a judgment of skill?",
+      "analysis": "Analyze the relationship between the painted fish and the dish's circular field as a case of figure-ground design.",
+      "line": "How does the calligraphic quality of the blue line link porcelain painting with other Chinese brush traditions?",
+      "shape": "How does the dish treat the fish as both a naturalistic form and a decorative device?",
+      "color": "How might variations in cobalt quality and firing have influenced both the color we see and the value placed on such wares?",
+      "texture": "How does the glaze's vitreous surface affect our reception of the painted marks, and what might be lost in photographs?",
+      "space": "How does the empty white ground function as water, air, or pure surface, and does the ambiguity matter?",
+      "light": "How does the luminous quality of porcelain alter the way pictorial space is read compared with painting on paper or silk?",
+      "meaning": "How might the fish's meanings (abundance, wealth, harmony, or simple delight in nature) shift depending on who used the dish and where?",
+      "culture": "In what ways does Jingdezhen blue-and-white complicate the categories of Chinese art, global commodity, and local craft?",
+      "technique": "What can underglaze painting, a one-chance technique, tell us about workshop skill and division of labor in Ming porcelain production?",
+      "personal": "How does your own sense of what counts as fine art shape how you respond to a dish that was likely made for use?",
+      "critical": "Without a visible inscription or documented patron in the record, what claims about this dish's purpose are well supported, and which remain speculation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Dish with fish), classification (Ceramics), medium (porcelain with underglaze cobalt blue), and tags (Fish) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Ming dynasty (Wanli period, 1573-1620) blue-and-white porcelain dish from Jingdezhen. Students should confirm from the image whether the fish stands alone or has plants or waves around it.",
+    "vocabulary": ["porcelain", "underglaze", "cobalt blue", "Jingdezhen", "Ming dynasty", "negative space"],
+    "directions": [
+      "Have students paint a fish on a paper plate using only blue, practicing thick, thin, and pale strokes.",
+      "Compare this dish with the Xuande dragon dish elsewhere in the archive, discussing how animal choice changes mood.",
+      "Discuss trade: map how porcelain traveled from China to other regions and ask students what else moved along the same routes."
+    ]
+  }
+}

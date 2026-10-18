@@ -1,0 +1,152 @@
+{
+  "id": "met-48932",
+  "day": "05-07",
+  "title": "Orchid and rock",
+  "artist": "Ma Shouzhen",
+  "date": "dated 1572",
+  "medium": "Hanging scroll; ink on paper",
+  "movement": "Ming dynasty ink painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DT8794.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DT8794.jpg",
+    "credit": "The Metropolitan Museum of Art, Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1982",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A hanging scroll in black ink on paper showing orchid plants with long, arching leaves growing beside a rock. Lines of handwritten inscription appear on the paper beside the plants.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/48932",
+    "objectId": "48932",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Ming dynasty), tag (Orchids), public-domain flag, credit line and image URLs read from the record; the Met object page's label text and inscription note were also read"
+  },
+  "context": "A hanging scroll of orchids and a rock, dated 1572, by Ma Shouzhen, a woman painter and poet of Nanjing in the Ming dynasty who was especially known for her orchid paintings. The scroll carries written inscriptions as well as the painting. In Chinese culture the orchid is admired for its quiet fragrance.",
+  "descriptions": {
+    "k": "This picture shows orchid plants next to a rock. The leaves are long and curve like ribbons. A woman painter made it with black ink. There is also writing on the paper. Can you find a leaf that curls?",
+    "g12": "Ma Shouzhen painted these orchids in China more than 450 years ago. She used black ink on paper. The long leaves curl and cross, and a rock sits beside them. Writing is on the paper too. Do the leaves look fast and loose, or slow and careful?",
+    "g35": "Ma Shouzhen was a woman painter and poet in the Ming dynasty, and she was famous for painting orchids. This scroll from 1572 shows orchids beside a rock, drawn with ink on paper. The long leaves sweep in graceful curves. Writing on the scroll adds words to the picture. How do the soft plant and the hard rock look different?",
+    "g68": "Ma Shouzhen, a woman painter and poet from Nanjing, was celebrated for orchid paintings, a subject that scholars valued as a sign of refinement because the flower grows quietly in hidden places. In this 1572 scroll, ink strokes make leaves curve like calligraphy beside a rock. Inscriptions join the image, so poetry, writing, and painting share one surface. Why might a plant, a rock, and words make a good set?",
+    "g910": "Orchid and rock belongs to a scholar-painting tradition in which brushwork resembles calligraphy and plants carry associations of integrity and quiet fragrance. Ma Shouzhen, a woman artist of Nanjing, was particularly known for orchids, and inscriptions on the scroll add poetry and the voice of another writer. Study how the arching leaves, the solid rock, and the written columns share the page. How might image and text shape one another?",
+    "g1112": "Ma Shouzhen's scroll enters a tradition dominated by male scholar-painters and still holds a distinctive place in it. Orchid painting, with its calligraphic leaves, allowed artists to display refined brushwork and cultivated sensibility, while the paired rock suggests steadiness. Inscriptions, including one by another writer, expand the painting into a collaborative object. Consider how reputations of women artists were framed historically, and how to read the work on its own visual terms."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the rock and the orchid leaves. Which is soft, and which is hard?",
+      "emotion": "Do these orchids feel calm or busy? Show what you see that makes you think so.",
+      "observation": "Look for the long leaves. Can you follow one from the bottom to the tip?",
+      "analysis": "What do you see first, the leaves, the rock, or the writing? Why?",
+      "line": "Trace an orchid leaf in the air. Does it swing, curl, or cross another?",
+      "shape": "The leaves are long and thin. What shape does the rock make next to them?",
+      "color": "This picture uses black ink on paper. Which parts look darkest and which look lightest?",
+      "texture": "The rock looks bumpy and the leaves look smooth. Can you find the bumpy part?",
+      "space": "Where is there empty paper in the picture? What do you think the empty space is for?",
+      "light": "Which leaves seem to glow because the ink is pale?",
+      "meaning": "Orchids smell sweet but grow quietly. What does that tell you about the plant?",
+      "culture": "A woman made this painting a long time ago in China. How is her art like or unlike what you make at school?",
+      "technique": "She painted each leaf with one swoosh of the brush. Try a swoosh in the air.",
+      "personal": "What plant do you like that grows quietly? Tell about it.",
+      "critical": "Why might the painter put a rock next to a soft flower?"
+    },
+    "g12": {
+      "daily": "Look at how the orchid leaves cross and curve. Which leaf seems to move with the most energy?",
+      "emotion": "What feeling do the soft leaves and the solid rock give you together?",
+      "observation": "Describe the orchids, the rock, and the writing. Where is each in the picture?",
+      "analysis": "How does the painter use the rock to hold the picture steady?",
+      "line": "Compare the long, swinging leaf lines with the shape of the rock. How are they different?",
+      "shape": "Look at the long leaf shapes. How do they cross and overlap to make a pattern, and where does the rock break that pattern?",
+      "color": "Only black ink is used. How does the painter show darker and lighter leaves?",
+      "texture": "How does the painter show that the rock is rough and the leaves are smooth?",
+      "space": "Why do you think the painter left so much of the paper empty?",
+      "light": "Which leaves look darker, and which look as if they catch light? How does that help the picture?",
+      "meaning": "The writing is part of the picture. How might words and flowers go well together?",
+      "culture": "In China, orchids are loved for their sweet smell and quiet look. How can a flower stand for a person's character?",
+      "technique": "Each leaf was made with a quick stroke of the brush. Where can you tell the brush moved fast?",
+      "personal": "If you wrote a few words next to your own drawing, what would you say?",
+      "critical": "Does it matter that a woman made this painting long ago? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What details show that Ma Shouzhen painted these leaves with a confident, practiced hand?",
+      "emotion": "What mood do the swaying leaves and the quiet rock create together?",
+      "observation": "Look for a full minute. What small differences in ink darkness or leaf direction do you notice?",
+      "analysis": "How does Ma Shouzhen balance the plants, the rock, and the writing on the same piece of paper?",
+      "line": "How do the long, curved leaf lines move differently from the lines that outline the rock?",
+      "shape": "How do the thin, pointed leaf shapes contrast with the larger shape of the rock?",
+      "color": "With only black ink, how does the painter make some leaves look near and others look farther away?",
+      "texture": "How does the painter show the difference between a hard rock and a flexible, thin leaf?",
+      "space": "How does the empty paper help you focus on the orchids and the rock?",
+      "light": "No sun is shown. How does the painter use darker and paler ink to give the plants a sense of light?",
+      "meaning": "Orchids were thought to stand for quiet goodness. How could a rock added to the scene change that message?",
+      "culture": "Ma Shouzhen was a woman who became a respected painter in the Ming dynasty. What does that tell you about the arts in her time?",
+      "technique": "Chinese painters often practiced one stroke for each leaf. How can you see that in these orchids?",
+      "personal": "Think of something you do quietly that you are proud of. How might you show it in a picture?",
+      "critical": "The scroll includes writing from more than one person. How does that change the way you think about who made it?"
+    },
+    "g68": {
+      "daily": "How does Ma Shouzhen create a whole scene using only leaves, a rock, and ink?",
+      "emotion": "How do the sweeping leaf lines and the solid rock together create a feeling of calm confidence?",
+      "observation": "Trace the path of three leaves from their roots to their tips. What do you notice about their directions?",
+      "analysis": "How does the composition use diagonals and curves to build rhythm, and how does the rock anchor it?",
+      "line": "In Chinese painting, line is often compared with calligraphy. Where do you see the leaf strokes behave like handwriting?",
+      "shape": "How do the repeated crossing leaf shapes produce a pattern, and where does the rock interrupt it?",
+      "color": "How can varied ink tones substitute for color in showing depth and volume?",
+      "texture": "Which brush techniques help separate the stone from the plant?",
+      "space": "How does the empty paper contribute to a sense of quiet and to the placement of the inscription?",
+      "light": "How do the contrasts of dark and pale ink create a sense of air around the leaves?",
+      "meaning": "Orchids growing in a hidden valley were treated as a sign of integrity. How might a viewer read this scroll as a portrait of character?",
+      "culture": "Ma Shouzhen lived in Nanjing, a lively cultural center. What could the combination of painting, poetry, and writing tell us about the world of educated people there?",
+      "technique": "Ink on paper absorbs quickly, so strokes cannot be fixed. How can you see decisions and confidence in the brushwork?",
+      "personal": "What is a quality you hope people notice about you without you having to announce it? How might a plant show it?",
+      "critical": "Women artists were less often recorded in history. What questions would you ask about how Ma Shouzhen's work was valued then and now?"
+    },
+    "g910": {
+      "daily": "How do the leaf strokes demonstrate a link between painting and calligraphy, and what evidence in this scroll supports that link?",
+      "emotion": "How does the interplay of arching, yielding leaves and a solid rock create emotional tone without narrative?",
+      "observation": "Describe the visual hierarchy of the orchids, rock, and inscription. Which formal cues control where you look?",
+      "analysis": "Analyze how the composition balances dense and open areas, curved and angular forms, and image and text.",
+      "line": "How does variation in speed, width, and direction in the leaf strokes give them character?",
+      "shape": "How does the contrast between the elongated leaf forms and the compact mass of the rock produce balance?",
+      "color": "How does tonal variation in a single ink build distance, emphasis, and softness?",
+      "texture": "How are the contrasting materials of stone and leaf distinguished through brush handling?",
+      "space": "How does empty paper function as both atmosphere and a place for text in this composition?",
+      "light": "Without shadow, how does tonal gradation create a sense of illumination and depth?",
+      "meaning": "How could the pairing of orchid and rock be read as symbolizing refinement and firmness, and where does that interpretation stay tentative?",
+      "culture": "How does a woman painter's participation in the orchid tradition complicate or extend the scholar-painter ideal of the time?",
+      "technique": "How does the single-stroke leaf technique show training and spontaneity working together?",
+      "personal": "How does knowing that written inscriptions are part of this work alter your sense of what a picture can include?",
+      "critical": "How should we consider the roles of Ma Shouzhen and the other writer on the scroll when we credit the artwork? What does collaboration add or complicate?"
+    },
+    "g1112": {
+      "daily": "What can the scroll's formal evidence tell us about Ma Shouzhen's skill, and what do we need outside context to claim?",
+      "emotion": "How does the painting's refinement and restraint invite readings that exceed what the image directly shows?",
+      "observation": "Describe the scroll with precise terms for brushwork, composition, and inscription. Where does description begin to interpret?",
+      "analysis": "Analyze how the integration of image and inscription expands the painting into a collaborative object.",
+      "line": "How does the calligraphic character of the leaf strokes blur categories of drawing, writing, and expression?",
+      "shape": "How do the fluid arcs of the leaves and the weightier mass of the rock produce a dialogue between motion and stability?",
+      "color": "In monochrome ink, how does tonal range create distinctions of depth and emphasis, and how might age have altered it?",
+      "texture": "How does the painter evoke the physical contrast of stone and leaf with minimal means, and what does that show about the economy of ink painting?",
+      "space": "How does the interplay of void and filled areas serve visual and poetic functions in the scroll?",
+      "light": "How does the painting suggest atmosphere and clarity without a defined source of light?",
+      "meaning": "How do competing readings of the orchid as moral emblem, personal self-image, or aesthetic subject affect interpretation of a woman's painting from this period?",
+      "culture": "How does Ma Shouzhen's place in Nanjing's cultural life complicate the labels often applied to women artists in Ming history?",
+      "technique": "What does the spontaneity of orchid painting suggest about how skill was displayed and judged within scholar circles?",
+      "personal": "How do your own assumptions about authorship and gender shape how you read a work like this?",
+      "critical": "How should historians balance the Met's label information, the inscriptions, and the visible evidence when interpreting this scroll?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, period, tag (Orchids) and the Met object page's label text were checked; the subject is orchids with a rock and handwritten inscriptions. Label text about the artist's social background was reviewed and left out of student text as not suitable for this age range. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Ma Shouzhen worked in Nanjing and was known for orchids; the Met notes an inscription by the scholar Wang Zhideng on the scroll. The Met's label text also discusses the artist's social position, which teachers may wish to read in advance and introduce at a level suited to their students.",
+    "vocabulary": ["hanging scroll", "orchid", "inscription", "brushwork", "Ming dynasty", "calligraphy"],
+    "directions": [
+      "Have students practice single swooping strokes with a brush pen, then combine several into an orchid cluster.",
+      "Discuss why words and images are placed together in Chinese painting.",
+      "Ask students to research another woman artist from history and compare how her work was recorded."
+    ]
+  }
+}

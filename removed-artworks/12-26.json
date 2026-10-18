@@ -1,0 +1,151 @@
+{
+  "id": "met-446979",
+  "day": "12-26",
+  "title": "Necklace",
+  "artist": "Artist unknown",
+  "date": "14th–15th century",
+  "medium": "Gold",
+  "region": "Spain",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/LC-17_190_152.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/LC-17_190_152.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A gold necklace made of linked gold elements, laid out against a plain background. Its pieces have fine twisted-wire decoration.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/446979",
+    "objectId": "446979",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, country Spain, dimensions, weight, credit line, classification Jewelry, public-domain flag, image URLs) and the Met object page text on pyramid-shaped and trumpet-shaped elements with paired twisted wire"
+  },
+  "context": "A gold necklace made in Spain in the 14th or 15th century and held in the Met's Islamic Art collection. The Met notes that its pyramid-shaped and trumpet-shaped elements have designs made only in paired twisted wire, highlighted with pierced areas. It is about 22 centimeters wide and weighs about 18 grams.",
+  "descriptions": {
+    "k": "This is a necklace made of gold. It was made in Spain a very long time ago. It has little pieces shaped like pyramids and trumpets. They are decorated with tiny twisted wires. Can you find a twist?",
+    "g12": "This gold necklace was made in Spain over 500 years ago. It has pieces shaped like little pyramids and trumpets. The patterns are made from thin gold wires twisted together in pairs. Some parts have tiny holes cut through them. How do the patterns make the gold look lacy?",
+    "g35": "This necklace was made in Spain in the 1300s or 1400s. It is made only of gold, and it is about 22 centimeters wide but weighs only about 18 grams. The Met says it has pyramid-shaped and trumpet-shaped parts, with patterns made from pairs of twisted wire and decorated with pierced areas, which are small cutouts. How do the twists and cutouts add detail to the gold?",
+    "g68": "This Spanish necklace of the 14th or 15th century shows how much a goldsmith could do with very little material. At about 22 centimeters wide it weighs only about 18 grams, yet it is covered with decoration: pyramid and trumpet shaped elements with designs formed only from paired twisted wire, highlighted by pierced openings. Light passes through the openings and plays across the wire. How does the maker create richness through pattern rather than weight?",
+    "g910": "The Met places this gold necklace in its Islamic Art collection and records that it was made in Spain in the 14th or 15th century. Its pyramid and trumpet shaped elements are decorated solely with paired twisted wire and pierced areas, so pattern is built from line and openings rather than gems or enamel. At 18 grams, it is light for its width. Consider how such restrained means can produce complexity, and how the necklace may have been worn.",
+    "g1112": "This necklace, made in Spain in the 14th or 15th century and held in the Met's Islamic Art collection, exemplifies a jeweler's art built on technique rather than additive materials: forms ornamented solely by paired twisted wire and pierced areas. Such work belongs to a wider Mediterranean tradition of goldsmithing, though who made or wore this piece is not documented. The object invites us to think about how craft traditions cross cultural boundaries, and how museum categories shape what we expect to see."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the tiny twisted wires on this gold necklace. What do they look like to you?",
+      "emotion": "Does this necklace feel fancy, quiet, or magical to you? Why?",
+      "observation": "Find a piece shaped like a pyramid and a piece shaped like a trumpet. What else do you see?",
+      "analysis": "Which part of the necklace catches your eyes first?",
+      "line": "Trace a twisted wire with your finger in the air. Does it go straight or spin?",
+      "shape": "How many pointed pyramid shapes can you find? Where are the trumpet shapes?",
+      "color": "The necklace is all gold. How many different shades of gold can you find?",
+      "texture": "Twisted wire looks bumpy and gold looks smooth. Which parts would feel bumpy?",
+      "space": "Where are the holes in the gold? What could you see through them?",
+      "light": "Where does the gold shine the brightest, and where does it look darker?",
+      "meaning": "Why might someone wear a necklace with so many tiny details?",
+      "culture": "This necklace was made in Spain more than 500 years ago. What jewelry do you see people wear today?",
+      "technique": "A maker twisted wires in pairs to make patterns. How do you think they did that without breaking the gold?",
+      "personal": "What small, careful pattern have you ever made? Tell about it.",
+      "critical": "This necklace is all gold with no stones. Do you think it is as special as one with jewels? Tell why."
+    },
+    "g12": {
+      "daily": "Pick one small part of the necklace and describe the pattern on it to a friend.",
+      "emotion": "How does the delicate wire pattern make you feel, calm or amazed?",
+      "observation": "List five details you can see on the necklace, from its shapes to its patterns.",
+      "analysis": "How do the pyramid and trumpet shapes make the necklace feel like one design?",
+      "line": "Find twisted lines and straight lines on the necklace. How do they make a pattern?",
+      "shape": "Pyramids and trumpets are both shaped to a point or a wide mouth. How do they repeat along the necklace?",
+      "color": "Everything is gold. How can the necklace still look full of different light and dark spots?",
+      "texture": "Which parts look smooth and which look twisted or bumpy?",
+      "space": "Some parts of the gold have little holes. How do the holes change the way the necklace looks?",
+      "light": "Imagine candlelight shining through the pierced areas. What might it look like?",
+      "meaning": "Gold has been valued in many places. Why might a family treasure a gold necklace?",
+      "culture": "The Met keeps this necklace in its Islamic Art collection and says it was made in Spain. What might that tell us about how cultures shared ideas?",
+      "technique": "Gold wire is very thin and soft. What skills do you think a goldsmith needed to twist it into patterns?",
+      "personal": "What is the most carefully made thing you own? Tell about it.",
+      "critical": "Does a necklace need jewels to be beautiful? Give a reason."
+    },
+    "g35": {
+      "daily": "Imagine a goldsmith making this necklace. Which part do you think was the hardest to make, and why?",
+      "emotion": "What feeling does the necklace's lacy gold pattern give you?",
+      "observation": "Look slowly along the necklace for one minute. What details repeat and what changes?",
+      "analysis": "How do the repeated shapes organize the necklace into a pattern?",
+      "line": "How do the twisted wires create lines that are different from the smooth gold surfaces?",
+      "shape": "How do the pyramid-shaped and trumpet-shaped pieces make the necklace look balanced?",
+      "color": "A gold object can look many different ways in light. Where does the gold look brightest or darkest?",
+      "texture": "How would the twisted wire feel compared with the smooth gold?",
+      "space": "The Met says some parts are pierced. How does empty space become part of the design?",
+      "light": "How might light move through the pierced areas as the necklace moves?",
+      "meaning": "The necklace has no gems. What does the pattern of wire suggest the maker wanted people to notice?",
+      "culture": "The necklace is from Spain in the 1300s or 1400s. What can an object like this tell us about the skills and tastes of its time?",
+      "technique": "The necklace weighs only about 18 grams but is 22 centimeters wide. How might a maker use thin wire to make something large but light?",
+      "personal": "Think of something you have seen with a repeated pattern. How is it like this necklace?",
+      "critical": "Why might a museum place a Spanish necklace in an Islamic art collection? What might that show about the period?"
+    },
+    "g68": {
+      "daily": "How does this necklace achieve richness through technique rather than gemstones?",
+      "emotion": "How do the fine details and glowing gold create a mood of elegance?",
+      "observation": "Describe the necklace's elements from one end to the other. Which details are repeated, and which vary?",
+      "analysis": "How do pyramid and trumpet forms alternate or combine to create rhythm in the necklace?",
+      "line": "How do paired twisted wires create strong decorative lines on the surface?",
+      "shape": "How do three-dimensional shapes like pyramids and trumpets differ from a flat band of gold?",
+      "color": "In a necklace made only of gold, how do light and shadow create variety?",
+      "texture": "How do twisted wire and polished metal create contrast in texture?",
+      "space": "How do the pierced areas let light and background show through, and how does that change the object's weight and appearance?",
+      "light": "Why might a goldsmith add pierced areas to an object that will catch moving light?",
+      "meaning": "What might wearing a gold necklace like this have said about wealth, taste, or identity, and what is unknown?",
+      "culture": "The necklace is in the Met's Islamic Art collection and was made in Spain. How does that show that cultures and regions overlap?",
+      "technique": "How might a goldsmith twist two wires together and attach them to a form without melting the pattern?",
+      "personal": "What do you value more in a object: its materials or the skill used to make it? Why?",
+      "critical": "How should we describe an object whose maker and wearer are unknown?"
+    },
+    "g910": {
+      "daily": "How does the necklace turn a limited vocabulary of materials and techniques into a complex design?",
+      "emotion": "How does the delicacy of wire and openwork shape the necklace's mood?",
+      "observation": "Describe the pattern's structure. What repeats, what varies, and how do you read it?",
+      "analysis": "How do the geometric elements and linear decoration work together to form an overall rhythm?",
+      "line": "How does paired twisted wire function as a drawing in gold, and how does it contrast with smooth surfaces?",
+      "shape": "How do the pyramid and trumpet forms provide a three-dimensional geometry to which wire patterns respond?",
+      "color": "Without enamel or gems, how does the necklace use gold's own variation to create contrast?",
+      "texture": "How do twisted wire and pierced areas expand the range of textures available within a single metal?",
+      "space": "How does openwork bring negative space into the design?",
+      "light": "How would moving light interact with the necklace's twists and openings differently from a solid surface?",
+      "meaning": "How might the design communicate status through skill, and where must interpretation remain tentative?",
+      "culture": "How does a necklace made in Spain and held in an Islamic art collection illustrate the exchange of design traditions around the Mediterranean?",
+      "technique": "What does the use of twisted wire and piercing reveal about the goldsmith's technical repertoire?",
+      "personal": "How does an ornament that depends on tiny detail change the way you look and the pace at which you look?",
+      "critical": "How do museum classifications, such as department and region, shape how we understand an object like this?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the necklace's technique about its makers and context, and what remains conjecture?",
+      "emotion": "How does a design based on repetition and delicacy produce a sense of order or restraint, and how may that be culturally conditioned?",
+      "observation": "Describe the necklace's technical vocabulary precisely. Where does description begin to implicate interpretation?",
+      "analysis": "Analyze how form and pattern interact in the necklace, and what the combination reveals about design priorities.",
+      "line": "How does line, in the form of twisted wire, operate as the primary decorative language here?",
+      "shape": "How do repeated three-dimensional forms structure the necklace as a series, and how does that relate to wearing?",
+      "color": "How does the monochrome palette of gold challenge assumptions about color in luxury objects?",
+      "texture": "How do material and technique together define sensory qualities that photographs only partly convey?",
+      "space": "How does openwork integrate the wearer's body and surroundings into the visual effect of the necklace?",
+      "light": "How might the object have performed in different lighting, and how does museum lighting change that?",
+      "meaning": "How can we responsibly discuss social meaning when neither wearer nor maker is documented?",
+      "culture": "How do the Met's classification of the necklace and its Spanish origin complicate simple divisions between Islamic, Christian, and Mediterranean art?",
+      "technique": "What does a technique based only on paired twisted wire and piercing suggest about regional workshop traditions and their transmission?",
+      "personal": "How do your own expectations about jewelry, such as gems and bright color, affect your response to this object?",
+      "critical": "How do museums balance celebrating technical virtuosity with acknowledging gaps in provenance?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Jewelry), objectName (Necklace), medium (gold), and absence of tags checked against the museum record and object page: no flagged terms. The image file itself was not visually inspected in this build, and the layout of the necklace is described only from the Met's text. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A gold necklace made in Spain in the 14th or 15th century and held in the Met's Islamic Art collection. According to the Met, its pyramid-shaped and trumpet-shaped elements are decorated only with paired twisted wire and pierced areas.",
+    "vocabulary": ["goldsmith", "twisted wire", "pierced (openwork)", "pattern", "negative space", "Mediterranean"],
+    "directions": [
+      "Have students twist two pieces of thin wire or yarn together and draw a pattern from it.",
+      "Discuss how an object can belong to more than one culture's history.",
+      "Compare this necklace with the Indian gold pendant in the archive and discuss how different jewelers use gold."
+    ]
+  }
+}

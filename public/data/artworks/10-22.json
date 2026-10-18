@@ -1,0 +1,159 @@
+{
+  "id": "met-11020",
+  "day": "10-22",
+  "title": "Santa Maria della Salute, Sunset",
+  "artist": "William Stanley Haseltine",
+  "date": "1870–85",
+  "medium": "Oil on canvas",
+  "movement": "Hudson River School",
+  "region": "United States (painted in Italy)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT229630.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT229630.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Helen Haseltine Plowden, in memory of the artist, 1954",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A view across the water of the domed church of Santa Maria della Salute in Venice at sunset, with a glowing sky, calm canals and boats on the water.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11020",
+    "objectId": "11020",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Buildings, Canals, Boats) and image URLs read from the record"
+  },
+  "context": "An oil painting made between 1870 and 1885 by the American artist William Stanley Haseltine, who spent much of his career in Italy. It shows Santa Maria della Salute, a domed church beside the water in Venice that was built in the 1600s.",
+  "descriptions": {
+    "k": "A big church with a dome stands by the water in Venice. The sky glows at sunset. Boats rest on the water. Can you see the church? What colors does the sunset make?",
+    "g12": "William Haseltine painted a church in Venice at sunset. A round dome rises by the water, and boats float nearby. The sky glows with warm colors. Look at how the light touches the building and the water. How does sunset change the way the place looks?",
+    "g35": "William Haseltine was an American artist who lived in Italy and painted its views. Here he shows Santa Maria della Salute, a church in Venice, glowing at sunset. Look at the domes, the boats, and the calm water that shows the colors of the sky. How does the light make the church look beautiful? Why might someone want to remember this view?",
+    "g68": "Haseltine, born in Philadelphia, spent years in Italy and sold views of its landmarks to American and European visitors. This scene shows a Venetian church built in the 1600s, set against water and a sunset sky. The painter's careful attention to light and atmosphere makes the old buildings seem to glow. For travelers, such pictures worked like souvenirs. What details make you feel you are in Venice at the end of the day?",
+    "g910": "In Santa Maria della Salute, Sunset, Haseltine pairs a famous Venetian landmark with the changing light of evening. The church, the water, and the glowing sky are carefully balanced, and the reflections give the scene a hush. American artists traveling in Italy found a market for views like this among tourists and collectors. The painting can be read as a record of place, an exercise in light, or an image of travel and memory, but its meaning is not fixed by the record.",
+    "g1112": "Painted between 1870 and 1885 by an American working in Italy, this view of Venice's Santa Maria della Salute belongs to a tradition of picturesque landmark painting aimed at travelers and collectors. Haseltine's handling of sunset light, reflection, and atmosphere makes the baroque church a vehicle for mood as much as description. The painting invites discussion of the Grand Tour, of American artists abroad, and of how Venice was packaged as a romantic image. The record gives limited detail about the commission or purpose, so interpretations remain tentative."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you rode a boat toward this church at sunset, what would you see and hear?",
+      "emotion": "Does this scene feel peaceful or busy? Tell what you see that says so.",
+      "observation": "What can you find in this picture? Name the church, the water, and a boat.",
+      "analysis": "What do your eyes look at first, the church or the sky?",
+      "line": "Can you find a flat line where the water meets the buildings?",
+      "shape": "Look at the round dome on the church. Can you find other round shapes?",
+      "color": "Which colors does the sunset make in the sky and on the water?",
+      "texture": "Does the water look smooth or splashy? How about the stone church?",
+      "space": "Which things are closest to you? Which things are far away?",
+      "light": "Where is the brightest light in the picture? What does it touch?",
+      "meaning": "Why do you think the painter chose the sunset time to paint this church?",
+      "culture": "This church is in Venice, a city with canals instead of streets. What would it be like to travel by boat every day?",
+      "technique": "The painter used oil paint to make the sky glow. How do you think he blended the colors?",
+      "personal": "Have you seen a sunset you loved? Tell about where you were.",
+      "critical": "Why might someone buy a painting of a famous place instead of taking a photo?"
+    },
+    "g12": {
+      "daily": "What is it like to be in Venice at sunset? Use the picture to describe it.",
+      "emotion": "What feeling do the sunset colors give you? Which parts add to that feeling?",
+      "observation": "Describe five things you see, from the church to the water to the sky.",
+      "analysis": "How does the artist help you notice the church first?",
+      "line": "Find straight lines and curved lines in the buildings. How do they make the church look strong?",
+      "shape": "Look at the dome and the buildings. Which shapes repeat?",
+      "color": "Which warm colors and which cool colors do you see? How do they work together?",
+      "texture": "Which parts look smooth, like water, and which look solid, like stone?",
+      "space": "How does the artist show that the church is far across the water?",
+      "light": "How does the setting sun change how the buildings look?",
+      "meaning": "Why might travelers have wanted paintings of famous places like this one?",
+      "culture": "Venice has canals and boats instead of busy roads. How might life there be different from where you live?",
+      "technique": "Look at the soft sky and the sharper buildings. How did the painter use brushstrokes differently for each?",
+      "personal": "What place do you want to remember, and how would you show it in a painting?",
+      "critical": "Does a painting show a place exactly as it is, or as the artist felt it? How can you tell?"
+    },
+    "g35": {
+      "daily": "What do you think Haseltine wants you to feel about Venice at sunset, and what evidence in the painting supports your idea?",
+      "emotion": "How do the glowing sky, the calm water, and the quiet boats create a mood together?",
+      "observation": "After one minute of silent looking, what small details do you notice around the church and on the water?",
+      "analysis": "How does Haseltine arrange the church, the water, and the sky to make a balanced picture?",
+      "line": "How do the horizontal line of the waterfront and the curves of the dome work together?",
+      "shape": "How does the large dome act as the main shape, and how do the smaller shapes support it?",
+      "color": "How do warm pinks and oranges in the sky compare with the cooler water and shadows?",
+      "texture": "How does Haseltine paint the smooth water so that it looks different from the stone of the church?",
+      "space": "How can you tell the church is across the water from you? What shows the distance?",
+      "light": "How does the low evening light change the color and shape of the buildings?",
+      "meaning": "Travelers bought pictures like this to remember their trips. What might this painting have meant to them?",
+      "culture": "Haseltine, an American, lived in Italy and painted its views. Why might Americans have been interested in Italy then?",
+      "technique": "Haseltine drew careful sketches of places and then painted in a studio. How might that help him paint this view?",
+      "personal": "Think of a view you would like to keep as a painting. What would you want the light to look like?",
+      "critical": "A painting like this makes a place look calm and beautiful. What might a busy day in Venice look like instead?"
+    },
+    "g68": {
+      "daily": "How does Haseltine use light to turn a famous landmark into a memorable mood?",
+      "emotion": "How do the sunset colors and quiet water create a feeling of calm or longing?",
+      "observation": "Scan from the foreground water to the church to the sky. Which parts are painted most carefully?",
+      "analysis": "How does the composition balance the weight of the building against the open sky and water?",
+      "line": "How do horizontal lines of the water and skyline contrast with the vertical rise of the church?",
+      "shape": "How does the dome work as a focal shape within the pattern of buildings?",
+      "color": "How does Haseltine unite the scene with warm sunset colors reflected in the water?",
+      "texture": "How does he show the difference between the hard architecture and the soft, glowing sky?",
+      "space": "How do reflections and atmospheric haze create depth across the water?",
+      "light": "How does low evening light flatten some details and sharpen others?",
+      "meaning": "How might this view have served as a souvenir or a memory for travelers in the nineteenth century?",
+      "culture": "How did American artists and tourists in Italy shape the market for views of places like Venice?",
+      "technique": "How do clear outlines for the building and softer treatment of the sky show different painting methods?",
+      "personal": "What does your own experience of travel or memory tell you about why people keep pictures of places?",
+      "critical": "Is a landmark painted at its most beautiful moment an honest view of a place? Explain."
+    },
+    "g910": {
+      "daily": "How does Haseltine transform a recognizable landmark into an image of mood and memory?",
+      "emotion": "How does the interplay of warm sky and cooler water shape the emotional tone?",
+      "observation": "Describe the visual hierarchy: what draws attention first, and what devices produce that effect?",
+      "analysis": "Analyze how the building, water, and sky are balanced to create stability and calm.",
+      "line": "How do horizontals and the curve of the dome structure the composition?",
+      "shape": "How does the monumental form of the church anchor the picture against the open spaces around it?",
+      "color": "How does the color harmony of the sunset unify the elements and create atmosphere?",
+      "texture": "How does the contrast between solid stone and reflective water contribute to the painting's illusion?",
+      "space": "How do reflection and diminishing detail create depth while maintaining a flat, calm surface?",
+      "light": "How does evening light function as both description and an emotional device?",
+      "meaning": "How might the painting be read as an expression of nostalgia, travel, or aesthetic pleasure, and where does that reading become speculative?",
+      "culture": "How does the painting reflect nineteenth-century American interest in European travel and the Grand Tour tradition?",
+      "technique": "How might Haseltine's precise draftsmanship and atmospheric painting combine in this view?",
+      "personal": "How does your own idea of an ideal place influence how you read this image?",
+      "critical": "In what ways may paintings of famous destinations shape, rather than just record, our idea of a place?"
+    },
+    "g1112": {
+      "daily": "What claims can be made about this painting's purpose and meaning from visual evidence, and what remains uncertain?",
+      "emotion": "How does the painting's serenity complicate any reading of its mood as simply cheerful or melancholy?",
+      "observation": "Describe the painting's construction with precision. Where does careful description start to imply an interpretation?",
+      "analysis": "Analyze how Haseltine balances accuracy of place with the demands of mood and composition.",
+      "line": "How do strong horizontals and the baroque curves of the church define the painting's structure?",
+      "shape": "How does the massing of the church register as both architecture and compositional anchor?",
+      "color": "How does the color scheme shape atmosphere, and how might the work's age and varnish affect it?",
+      "texture": "How does the treatment of surface, from stone to water to sky, serve the picture's illusion of light?",
+      "space": "How does the picture position the viewer on the water, and what experience of travel does that imply?",
+      "light": "In what ways does sunset light operate as both observed condition and symbolic or romantic device?",
+      "meaning": "Evaluate readings of the painting as souvenir, as meditation on light, or as romantic image of Venice. Which is best supported, and which is speculative?",
+      "culture": "How does the painting fit into the Grand Tour and the market for views of Italy among American and European travelers?",
+      "technique": "What does the painting suggest about the relation between sketching on site and finishing in the studio?",
+      "personal": "How does your own relationship to travel and place influence the expectations you bring to a landmark painting?",
+      "critical": "Given the broad date range in the record, what can we responsibly say about when and why this painting was made?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Buildings, Canals, Boats), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The subject is an architectural view of Venice.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "William Stanley Haseltine was an American painter who lived in Rome and painted views of Italy. Santa Maria della Salute is a domed church in Venice that was built in the 1600s. The Met record gives a date range of 1870 to 1885.",
+    "vocabulary": [
+      "landmark",
+      "reflection",
+      "atmosphere",
+      "horizon",
+      "dome",
+      "Grand Tour"
+    ],
+    "directions": [
+      "Have students list what they would change in the painting to make it a morning scene.",
+      "Ask students to design a postcard of a favorite local place at sunset.",
+      "Discuss why artists traveled to Italy and what travelers wanted to bring home."
+    ]
+  }
+}

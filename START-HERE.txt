@@ -1,0 +1,9 @@
+ART ALMANAC v12 - 354 of 366 days filled, all approved.
+1. Unzip and copy everything into your project folder, replacing old files.
+2. Empty public/images (keep the folder).
+3. node scripts/fetch-images.mjs   (on your own computer)
+4. node scripts/build-index.mjs
+5. node scripts/validate.mjs       (says INCOMPLETE: 12 days still empty, expected)
+6. node scripts/serve.mjs, open http://localhost:3000
+7. Commit everything incl. public/images, push to GitHub; Vercel deploys.
+NEW in v12: classroom view magnifier (hover over the artwork; scroll wheel changes zoom).

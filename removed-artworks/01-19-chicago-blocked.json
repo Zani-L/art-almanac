@@ -1,0 +1,158 @@
+{
+  "id": "artic-20684",
+  "day": "01-19",
+  "title": "Paris Street; Rainy Day",
+  "artist": "Gustave Caillebotte",
+  "date": "1877",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Charles H. and Mary F. S. Worcester Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A very large painting of a wet city street corner in Paris. Well-dressed people walk with umbrellas along wide, gray cobblestone streets lined with tall buildings, and a couple in the foreground strolls toward the viewer.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/20684",
+    "objectId": "20684",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1848-1894), date, place of origin (Paris), medium, dimensions (212.2 x 276.2 cm), credit line, style (Impressionism), subject terms (urban life, hat, building, couples, figures, Paris, rain, street, umbrellas, cityscapes, leisure, everyday life), short description, description, is_public_domain true and image_id read from the record"
+  },
+  "context": "Painted in 1877 by Gustave Caillebotte, this is described by the Art Institute as his largest and most ambitious work. It shows a Paris intersection with Impressionist subject matter but a precise, Realist technique. The museum notes that the dramatic cropping may reflect the influence of photography, and that rain is suggested through umbrellas and reflections on wet cobblestones rather than painted raindrops.",
+  "descriptions": {
+    "k": "It is a rainy day in Paris. People walk down the street with umbrellas. The ground is wet and shiny. Some people are walking toward you! Count the umbrellas. How do you stay dry on a rainy day?",
+    "g12": "This big painting shows a rainy street corner in Paris long ago. People in hats and coats hold umbrellas and walk past tall buildings. The artist painted the wet stones so they shine. Find the couple closest to you. Where do you think they are going?",
+    "g35": "Gustave Caillebotte painted this city street in Paris in 1877. The painting is more than 8 feet wide, so the people look almost life-size. Notice that the artist does not paint raindrops. Instead, rain shows in the umbrellas and the shiny wet stones. Why might the people seem to walk right toward you? What clues tell you about the weather?",
+    "g68": "Caillebotte shows a Paris intersection on a gray, rainy day. He paints no raindrops; wet cobblestones and a crowd of umbrellas suggest the weather instead. The figures are cropped at the edges, a choice the museum says may reflect photography, and the wide streets show a newly modern Paris. How do the cool grays and careful details make this feel different from a quick, sketchy impression of a street? What do you think the artist wanted you to notice first?",
+    "g910": "Though shown with the Impressionists in 1877, Caillebotte paints with a precision closer to Realism. Umbrellas, wet stones, and a strongly cropped composition convey rain without a single painted drop, and the figures seem to move toward the viewer. The museum suggests the framing may reflect photography. Consider how the painting balances casual city life with careful, almost staged order. What does the scale of the canvas ask of the person standing before it?",
+    "g1112": "Caillebotte's canvas sits between Impressionism and Realism: its subject is modern urban leisure, yet its drawing is crisp and its perspective deep. The record notes that the cropping may reflect photography and that rain is conveyed by umbrellas and reflections. Scholars and viewers read the passersby's mutual indifference in different ways, as a portrait of city life, a study of alienation, or simply a composition. Which reading does the visual evidence support best, and what would complicate it?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Count the umbrellas you can see. Where is the biggest one?",
+      "emotion": "How does this rainy day feel to you: cozy, gloomy, or calm? What do you see that makes you say so?",
+      "observation": "Find a hat, an umbrella, and a building. Point to each one.",
+      "analysis": "Which people look closest to you, and which look far away? How can you tell?",
+      "line": "Follow a line of the street with your finger. Where does it take your eyes?",
+      "shape": "Look at the tall buildings. What shapes can you find in their windows and walls?",
+      "color": "Most of the colors are gray and soft. Which color stands out to you?",
+      "texture": "Imagine touching the wet street stones. What would they feel like?",
+      "space": "Some people are close and some are far down the street. Who would you walk up to first?",
+      "light": "The street shines because it is wet. Where do you see shiny places?",
+      "meaning": "Pick one person and make up a story. Where are they going in the rain?",
+      "culture": "People long ago wore tall hats and long coats. What do you see that is different from what people wear now?",
+      "technique": "The painter used paint to make rain without drawing raindrops. What do you see that tells you it is raining?",
+      "personal": "What do you like to do on a rainy day? Tell a partner.",
+      "critical": "The picture is very big. How might it look different if it were the size of a postcard?"
+    },
+    "g12": {
+      "daily": "Look at the couple walking in front. What do you notice about how they walk and what they wear?",
+      "emotion": "What feeling does this gray, rainy city give you? Point to the part that makes you feel that way.",
+      "observation": "Name five things you can see on this street, from the ground to the sky.",
+      "analysis": "How did the painter place people near and far so the street feels deep?",
+      "line": "Which lines in the buildings and street lead your eyes into the picture?",
+      "shape": "How are the shapes of the umbrellas like or unlike the shapes of the buildings?",
+      "color": "The painting uses mostly soft grays and browns. How does that help it feel like a rainy day?",
+      "texture": "Where does the street look smooth and wet, and where does it look bumpy like cobblestones?",
+      "space": "Some people are cut off by the edge of the painting. How does that make you feel like you are standing there?",
+      "light": "Where does the light bounce off the wet ground? How does the painter show it?",
+      "meaning": "Why do you think so many people are out walking in the rain? Tell a story about one of them.",
+      "culture": "This is Paris in 1877, with horse-drawn carriages instead of cars. What other old-time things can you look for?",
+      "technique": "The painter did not paint raindrops. How did he show rain in another way?",
+      "personal": "Imagine you were walking down this street. Which person would you want to meet, and why?",
+      "critical": "Why might a painter pick a rainy day instead of a sunny day to paint?"
+    },
+    "g35": {
+      "daily": "Where do your eyes land first in this big street scene, and what choices by Caillebotte pulled them there?",
+      "emotion": "How would you describe the mood of this city moment? Use details of color and posture as evidence.",
+      "observation": "Take a slow look. What small detail did you notice only after a minute or two?",
+      "analysis": "How does the artist arrange the crowd so that people overlap and no two seem to repeat?",
+      "line": "How do the edges of the buildings and the lines of the pavement lead you deeper into the street?",
+      "shape": "How do the rounded umbrellas contrast with the straight, tall shapes of the buildings?",
+      "color": "The painting is full of grays. How do small touches of other colors make certain spots stand out?",
+      "texture": "Caillebotte paints cobblestones to look wet and hard. What details make the surface feel like stone, not soft grass?",
+      "space": "How does the artist show that some people are near and others are far down the street?",
+      "light": "Rain clouds block sunshine. How does the painter make the light feel soft and even, and where does it still shine?",
+      "meaning": "What story might the closest couple be part of? Use clues from their clothes and how they walk.",
+      "culture": "Paris was rebuilt with wide new streets around the time this was painted. What clues of a modern city can you find?",
+      "technique": "The painter shows rain with umbrellas and shiny stones rather than drops. Why is that clever?",
+      "personal": "Think about a rainy day you remember. What is similar and what is different from this scene?",
+      "critical": "Some people say the picture looks like a photograph. What do you see that supports that idea, and what do you see that does not?"
+    },
+    "g68": {
+      "daily": "How does Caillebotte's cropping of figures and buildings change your sense of where you stand in the scene?",
+      "emotion": "How do the muted colors and the strangers walking past each other shape the mood of this city moment?",
+      "observation": "Separate what is clearly painted from what you infer. What details lead you to understand that it is raining?",
+      "analysis": "How does Caillebotte balance the large foreground couple with the crowd behind them to create a unified composition?",
+      "line": "How do the lines of buildings, curbs, and paving stones create strong perspective and guide the viewer?",
+      "shape": "How do repeated umbrella shapes create rhythm against the rigid geometry of the architecture?",
+      "color": "How does a limited palette of grays and browns, with spots of warmer tones, direct attention and set the mood?",
+      "texture": "How does the smooth, controlled paint handle wet stone differently from the loose brushwork of other Impressionists?",
+      "space": "How does Caillebotte use scale and overlap to build deep space on a flat canvas?",
+      "light": "How does the soft, overcast light affect shadows and reflections, and why might the artist have chosen this kind of light?",
+      "meaning": "What might the passersby's lack of interaction suggest about modern city life, and what other readings could be possible?",
+      "culture": "How does this view of broad, newly built boulevards reflect changes in Paris in the 1870s?",
+      "technique": "Why might a painter who wanted to show rain choose reflections and umbrellas over painted streaks? What does this say about observation?",
+      "personal": "How does your own experience of crowded streets affect how you read this scene?",
+      "critical": "The museum says the cropping may reflect photography. What evidence in the composition would support or challenge that idea?"
+    },
+    "g910": {
+      "daily": "How do Caillebotte's decisions about framing, scale, and perspective shape your first interpretation of the scene?",
+      "emotion": "How does the muted palette, combined with the figures' separation from each other, create a particular emotional atmosphere?",
+      "observation": "Analyze the visual hierarchy: which figures, shapes, or contrasts lead the eye, and which recede?",
+      "analysis": "How does the dominant vertical element, the central post, divide the canvas, and what effect does that division have on balance?",
+      "line": "How do receding lines in the street and building edges establish a one- or two-point perspective system?",
+      "shape": "Examine how geometric architecture and curved umbrellas play against one another to organize the picture plane.",
+      "color": "How does a near-monochrome range of grays and ochres heighten the effect of the few warmer or darker accents?",
+      "texture": "In what ways does the precise handling of paint distinguish cobblestones, clothing, and facades from one another?",
+      "space": "How does the sharp foreground detail compared to the softer distant street create atmospheric depth?",
+      "light": "How does diffuse light under a clouded sky affect shadow, reflection, and the sense of time of day?",
+      "meaning": "Evaluate readings of the painting as celebration, critique, or neutral observation of modern urban life. What visual evidence supports each?",
+      "culture": "How does the painting engage with the transformation of Paris and the Impressionist circle's interest in modern subject matter?",
+      "technique": "How does Caillebotte suggest rain through reflection and umbrellas, and what does this reveal about his priorities as a painter?",
+      "personal": "How does your reaction to the figures' anonymity compare with your experience of public spaces today?",
+      "critical": "To what extent does the painting's photographic-seeming framing alter claims that it is 'documentary'? Cite specific visual details."
+    },
+    "g1112": {
+      "daily": "Construct an argument about what this painting claims about modern urban experience, grounded in specific formal evidence.",
+      "emotion": "How do the cool, restrained palette and the figures' mutual indifference complicate any single reading of the mood as melancholy or serene?",
+      "observation": "Describe the scene precisely, then identify which parts of your description are observation and which are interpretation.",
+      "analysis": "Analyze how the painting resolves tension between a strongly planned geometry and the apparent spontaneity of a crowd.",
+      "line": "How does the orchestration of orthogonals and intersecting diagonals create both stability and a sense of movement toward the viewer?",
+      "shape": "Consider how the interplay of curved umbrellas and rectilinear facades functions as a formal argument about order and chance.",
+      "color": "How does the restricted tonal range challenge the assumption that Impressionist color must be bright or broken?",
+      "texture": "How does the disciplined finish of the surface position this canvas relative to the looser facture of his Impressionist contemporaries?",
+      "space": "How might the photographic cropping and the shallow foreground plane alter the viewer's position, and what does that imply about observation?",
+      "light": "Discuss how reflected light on wet surfaces substitutes for depicted rain, and what that choice suggests about perception.",
+      "meaning": "Evaluate competing interpretations of the figures' isolation, such as alienation, leisure, or class display, and weigh the available evidence.",
+      "culture": "What does the painting suggest about the relationship between modernization of Paris and the visual language of Impressionism?",
+      "technique": "How does the scale of the canvas and its exhibition among Impressionist works in 1877 affect how we understand the artist's ambitions?",
+      "personal": "How do your own assumptions about the city shape the narrative you build for these strangers?",
+      "critical": "What kinds of evidence, beyond the image itself, would you need to decide whether this painting is celebratory or critical?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (urban life, hat, building, couples, figures, Paris, rain, street, umbrellas, cityscapes, leisure, everyday life, water), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1877 in Paris and shown at the third Impressionist exhibition. The Art Institute describes it as Caillebotte's largest and most ambitious work, combining an Impressionist subject with a Realist technique.",
+    "vocabulary": [
+      "Impressionism",
+      "Realism",
+      "cropping",
+      "perspective",
+      "reflection",
+      "cityscape"
+    ],
+    "directions": [
+      "Have students sketch a rainy scene without drawing raindrops, using only umbrellas, reflections, and posture, then compare solutions.",
+      "Ask students to sketch the main lines of the street and buildings to discover how perspective pulls the eye inward.",
+      "Discuss how a camera frame and a painting frame differ, using the cropped figures as a starting point."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-543890",
+  "day": "03-24",
+  "title": "Relief fragment with king Khufu's cattle",
+  "artist": "Artist unknown",
+  "date": "ca. 2551–2528 BCE",
+  "medium": "Limestone",
+  "region": "Egypt, Old Kingdom",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT244362.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DT244362.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, low block of pale limestone carved in shallow relief with cattle. The animals are shown in profile, side by side along the band.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/543890",
+    "objectId": "543890",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Animals), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A limestone relief from the Old Kingdom, dated to about 2551–2528 BCE, which is the time of King Khufu according to the record's title. It is about 137 cm wide and only 46 cm high, so the scene unfolds in a long, narrow band. The subject is cattle, an important animal in Egyptian life.",
+  "descriptions": {
+    "k": "This is a stone picture of cows, carved a very long time ago in Egypt. The animals are in a line, like they are walking. The picture is wider than it is tall. Can you count them?",
+    "g12": "More than 4,000 years ago, a carver in Egypt cut cattle into a block of stone. The stone is long and low, so the animals seem to walk across it. This kind of carving is called relief, because the shapes rise from the flat surface. Which animal do you look at first?",
+    "g35": "This limestone relief shows cattle and is linked in its title to King Khufu, who ruled Egypt about 4,500 years ago. A relief is a carving where shapes stand out from a flat background. The block is very wide and low, so the scene feels like a long parade. Look at how the cattle are placed. What do their sizes and poses tell you about why the carver made this?",
+    "g68": "Dated to roughly 2551–2528 BCE, this Old Kingdom relief shows cattle on a block of limestone that is about 137 cm wide but only 46 cm tall. The wide band encourages the eye to read the animals like a procession. Cattle meant food, work, and wealth in ancient Egypt, so images of herds could show prosperity. How does the format guide the way you move across the scene?",
+    "g910": "This relief fragment turns a herd of cattle into a frieze, a long horizontal band suited to continuous reading. Carved in limestone in the time of Khufu, it reflects Old Kingdom conventions in which animals are shown clearly in profile. Cattle were central to wealth and offerings, and such imagery may have expressed abundance, though the original setting of this fragment matters for interpretation. What do the proportions and repetition suggest about the artist's priorities?",
+    "g1112": "Fragments such as this one present a methodological challenge: we see a carefully ordered band of cattle, but the original architectural setting and its full program are only partly recoverable. The wide, low format favors rhythm and continuous reading, while the profile views reflect Old Kingdom conventions for clarity and permanence. Cattle plausibly signified wealth, sustenance, and offering, yet specific meanings depend on context. How does a fragment shape our reading when the whole is missing, and what can careful looking still establish?"
+  },
+  "questions": {
+    "k": {
+      "daily": "These cattle are carved in stone. Which animal do you want to look at first?",
+      "emotion": "Do the cattle look busy or calm? What do you see that tells you?",
+      "observation": "Count the animals you can see. Which one is the biggest?",
+      "analysis": "The picture is long and wide. Which way do your eyes travel across it?",
+      "line": "Find a line that shows the back of an animal. Trace it in the air.",
+      "shape": "The cattle have big bodies and small legs. What shapes do you see in them?",
+      "color": "The stone is pale. What color do you see most in this carving?",
+      "texture": "Is the stone smooth or bumpy in this picture? Where does it look different?",
+      "space": "The animals stand side by side. Which ones look close and which look far?",
+      "light": "Where does the stone look lighter, and where does it look darker in the carved places?",
+      "meaning": "Cows gave people milk and meat. Why might a king want a picture of his cattle?",
+      "culture": "This was carved about 4,500 years ago. What things in daily life do you think were the same, and what was different?",
+      "technique": "The shapes were cut out of stone. How do you think the carver made the animals rise up?",
+      "personal": "If you carved a picture of something you care for, what would you choose?",
+      "critical": "Why would an artist show animals from the side instead of from the front?"
+    },
+    "g12": {
+      "daily": "What do you notice about how the cattle are lined up across the stone?",
+      "emotion": "Does this scene feel peaceful, lively, or serious? Point to details that help you decide.",
+      "observation": "Describe three cattle and what makes each one different from the others.",
+      "analysis": "The stone is much wider than it is tall. How does that shape help show the animals?",
+      "line": "Follow the outline of one cow from its horns to its tail. Where does the line curve the most?",
+      "shape": "What shapes make up one cow's body? How do those shapes repeat in the next cow?",
+      "color": "The carving is mostly one pale stone color. How does it still show the animals clearly?",
+      "texture": "Where does the stone look rough, and where does it look smooth? How might that help the carved animals?",
+      "space": "Which animals overlap or stand behind others? How does that make the scene feel deeper?",
+      "light": "Shadows fall in the cuts of a carving. Where do you think the shadows would be darkest?",
+      "meaning": "Cattle were very valuable in ancient Egypt. What might this picture say about the king?",
+      "culture": "People in Egypt carved scenes like this in stone to last a very long time. Why might they want that?",
+      "technique": "This is a relief, where shapes rise out of a flat surface. How is that different from a statue?",
+      "personal": "Which animal in your life would you like to see carved in stone? Why?",
+      "critical": "Part of this carving may be missing. What could you guess about the rest, and what could you not guess?"
+    },
+    "g35": {
+      "daily": "What can you learn about the cattle by looking at their poses, sizes, and positions in the relief?",
+      "emotion": "What mood does the line of cattle create? Which details support your idea?",
+      "observation": "Look slowly from one end of the block to the other. What small details do you find that you missed on the first look?",
+      "analysis": "How does the carver arrange the animals to make you read the scene from one side to the other?",
+      "line": "How do the carved outlines show the horns, backs, and legs of the cattle?",
+      "shape": "Which shapes repeat from animal to animal? How does repeating them help the scene feel orderly?",
+      "color": "The limestone is pale. How does a single material color make you focus on shape and line?",
+      "texture": "How do the smooth areas and the carved edges feel different? How can you tell from the picture?",
+      "space": "The relief is shallow, but the animals still seem to overlap. How does the carver suggest depth with little thickness?",
+      "light": "Relief carving depends on light and shadow. How might the cattle look different in morning sunlight and at night by lamp?",
+      "meaning": "Cattle meant food and wealth in ancient Egypt. What might this scene show about the king who owned them?",
+      "culture": "Reliefs like this were part of buildings. What might that tell us about the purposes of art in ancient Egypt?",
+      "technique": "A carver cut away stone around each animal. What skills would this take, and what mistakes would be hard to fix?",
+      "personal": "Think of a time you saw many animals together, such as a herd or flock. How is your memory like or unlike this relief?",
+      "critical": "Because the record gives only a fragment, what are the limits of what we can say about the whole scene?"
+    },
+    "g68": {
+      "daily": "How does the wide, low format shape the way you experience this scene of cattle?",
+      "emotion": "How does the arrangement of the cattle create a mood of order or calm abundance? Identify the choices that do so.",
+      "observation": "Make a list of what you see from left to right. Which animals or details seem most carefully carved?",
+      "analysis": "How does repetition of similar animal forms create rhythm, and where might variation keep the scene from looking mechanical?",
+      "line": "How do the carved contours of backs, horns, and legs organize the scene? Compare long lines with short ones.",
+      "shape": "How do the sturdy shapes of the cattle suggest strength and weight, even in a shallow carving?",
+      "color": "With so little color, what carries the information in this relief? What might paint have added if it once existed?",
+      "texture": "How do the carver's cut edges and smooth surfaces contrast, and how does that help the animals stand out?",
+      "space": "How does the carver use overlapping and shallow depth to suggest a group in space rather than a single flat row?",
+      "light": "How does relief carving use light and shadow to define forms instead of color?",
+      "meaning": "Why might images of cattle matter for a king's reputation or memory? Offer two possible explanations.",
+      "culture": "How might a society that depended on farming and herding use art to show wealth and care for animals?",
+      "technique": "How does carving limestone differ from carving harder stone? What might that mean for fine detail?",
+      "personal": "What would a picture of your community's most valued resources look like? How would you arrange it?",
+      "critical": "How should we read a fragment whose original setting is only partly known?"
+    },
+    "g910": {
+      "daily": "How does the frieze format of this relief turn a group of cattle into a rhythm of repeated forms?",
+      "emotion": "How does the controlled rhythm of the animals create an atmosphere of stability and abundance instead of everyday bustle?",
+      "observation": "Describe the arrangement of the cattle and note how the composition leads the eye along the block.",
+      "analysis": "Analyze how repetition and variation create hierarchy among the animals, if any exists.",
+      "line": "How do contours and carved edges give the animals their identity in a shallow-relief system?",
+      "shape": "How does the artist condense animal anatomy into clear, readable masses while keeping each animal distinct?",
+      "color": "How would the loss or absence of paint affect our reading of the relief, and what does the pale limestone emphasize?",
+      "texture": "How does the stone's finish and the depth of the carving contribute to the work's sense of permanence?",
+      "space": "How does shallow relief reconcile the flatness of the wall with the volume of animals?",
+      "light": "How does low relief depend on raking light, and how would the viewer's experience change with the time of day?",
+      "meaning": "How might the depiction of a king's cattle express abundance, authority, or provision for the afterlife, and which readings are better supported?",
+      "culture": "What does the Old Kingdom's attention to animals and resources suggest about how rulers presented their role?",
+      "technique": "What does the relief reveal about workshop practice, including how designs were planned and executed in limestone?",
+      "personal": "How do you read images of wealth and plenty from your own culture, and how might that influence your response to this one?",
+      "critical": "What would we need to know about the relief's original location before drawing firm conclusions about its meaning?"
+    },
+    "g1112": {
+      "daily": "What interpretive claims about this relief rest on what we can see, and what depend on information the record cannot give us?",
+      "emotion": "How does restraint in gesture and background shape the emotional tone of the scene, and is that tone a product of the original or of fragmentation?",
+      "observation": "Describe the block's formal organization. At what point does describing the arrangement start to imply a narrative?",
+      "analysis": "Analyze how the frieze format, repetition, and profile conventions together structure a visual argument about order and plenty.",
+      "line": "How does line function as the main expressive tool in a low-relief carving, and how might it relate to Old Kingdom drawing conventions?",
+      "shape": "How does the translation of animal anatomy into stylized masses reflect the goals of Old Kingdom representation?",
+      "color": "What do we lose when a relief that may have been painted is seen today in plain stone, and how should that influence our conclusions?",
+      "texture": "How might the physical presence of carved limestone have shaped its authority within a built setting?",
+      "space": "How does the relief negotiate illusionistic depth and architectural flatness, and what are the implications for how viewers read the scene?",
+      "light": "How might natural or artificial light in the original setting have affected how this relief was perceived?",
+      "meaning": "Consider cattle as symbols of wealth, nourishment, and ritual offering. How might each reading change the relief's purpose?",
+      "culture": "How does a royal association such as Khufu's complicate any reading of the relief as ordinary daily life?",
+      "technique": "What can the carving's execution tell us about specialization, planning, and the conventions that guided Old Kingdom workshops?",
+      "personal": "How might your own assumptions about animals and work shape what you notice in this relief?",
+      "critical": "What are the ethical and scholarly challenges of interpreting a reused or displaced fragment, and how might a museum present that uncertainty?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Animals), medium (limestone) and period checked against the museum record. Subject is cattle in relief with no people named in the title or tags. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An Old Kingdom limestone relief fragment whose title connects it to King Khufu. Cattle were important in Egyptian farming and economy, and relief carving was common in tombs and temples.",
+    "vocabulary": ["relief", "frieze", "limestone", "Old Kingdom", "profile", "fragment"],
+    "directions": [
+      "Have students lay out a long strip of paper and draw an animal procession, thinking about repetition and variation.",
+      "Ask students to list what a fragment can and cannot tell us, and how historians avoid over-claiming.",
+      "Compare relief and sculpture in the round by having students model a shape in both ways."
+    ]
+  }
+}

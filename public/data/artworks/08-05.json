@@ -1,0 +1,159 @@
+{
+  "id": "met-437914",
+  "day": "08-05",
+  "title": "Calm Sea",
+  "artist": "Simon de Vlieger",
+  "date": "after 1640",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP147592.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP147592.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1906",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small seascape of boats on quiet water beneath a large sky, with the horizon low in the picture.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437914",
+    "objectId": "437914",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Simon de Vlieger was a Dutch painter of seascapes. This small painting on wood is dated only as made after 1640. Many Dutch marine painters of this period turned from busy battles and fleets toward quieter views of sea and sky.",
+  "descriptions": {
+    "k": "The sea is calm and quiet. Boats float on the water. The sky is big above them. Nothing is rushing. Can you take a slow, deep breath like the sea? What do you hear?",
+    "g12": "This small painting shows a calm sea. Boats rest on the quiet water, and a big sky stretches above. Simon de Vlieger painted it in the Netherlands long ago. How does the picture feel peaceful? Which part helps you feel that way?",
+    "g35": "Simon de Vlieger was a Dutch painter of the sea. This small painting after 1640 is called Calm Sea, and it shows boats on smooth water under a large sky. The Dutch depended on the sea for trade and fishing. Look at where the horizon sits and how much sky there is. Why might the painter have chosen a quiet day and not a storm?",
+    "g68": "In Calm Sea (after 1640), de Vlieger paints boats on still water beneath an open sky. Dutch marine painters often showed stormy seas and naval pride, so a quiet scene is a choice. The low horizon gives the sky a large role, and soft light spreads across the water. Because the picture is small, you must look closely. What mood does stillness create, and how do the boats and sky work together?",
+    "g910": "De Vlieger's Calm Sea turns attention from drama to atmosphere. Boats rest on smooth water, and the sky occupies much of the panel, so weather and light become the real subjects. Dutch seascape painting developed rapidly in the 1600s, and artists such as de Vlieger helped shift it toward tonal, atmospheric views. The small scale invites close viewing. How does restraint, with few events and a gentle palette, shape the emotional effect of the picture?",
+    "g1112": "Calm Sea, dated only as after 1640, exemplifies a move in Dutch marine painting from detailed ship portraits toward tonal atmosphere. By lowering the horizon and giving the sky and light a leading role, de Vlieger makes stillness itself the subject. Interpretations differ: it may be read as an image of peaceful trade, of nature's quiet power, or simply as an exercise in observation. How does the painting's small scale and restraint encourage or limit those readings?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you were in one of the boats, what would you hear and feel?",
+      "emotion": "Does the sea look sleepy, sad or happy? What shows you?",
+      "observation": "Can you find the boats, the water and the sky? Point to each one.",
+      "analysis": "Is there more water or more sky in this picture? How can you tell?",
+      "line": "Find the flat line where the sea meets the sky. Trace it with your finger.",
+      "shape": "What shapes do the sails and boats make?",
+      "color": "Which soft colors do you see in the water and sky?",
+      "texture": "Would the water feel smooth or bumpy if you could touch it?",
+      "space": "Which boat is closest to you? Which is far away? How do you know?",
+      "light": "Where does the sky look brightest? How does it shine on the water?",
+      "meaning": "Where do you think the boats are going? Tell your story.",
+      "culture": "Long ago, people in the Netherlands traveled on boats a lot. How do you travel to places?",
+      "technique": "This painting is very small. What would be hard about painting tiny boats?",
+      "personal": "Have you ever been somewhere very quiet by the water? Tell about it.",
+      "critical": "Why might a painter choose a calm day and not a stormy one?"
+    },
+    "g12": {
+      "daily": "How does the painter make this sea feel calm? Point to one thing that helps.",
+      "emotion": "What feeling does the quiet sea give you? Which part of the picture makes you feel it?",
+      "observation": "Describe three things about the boats, the water and the sky.",
+      "analysis": "Where do your eyes rest in this picture? What helped them settle there?",
+      "line": "How does the straight line of the horizon make the picture feel still?",
+      "shape": "Compare the boats with the clouds. Which shapes are pointy and which are soft?",
+      "color": "What colors fill the water and the sky? How do they match each other?",
+      "texture": "How does the painter show smooth water and soft clouds?",
+      "space": "How does the painter show that the sea goes far away?",
+      "light": "Where does the light seem strongest? How do the boats look because of it?",
+      "meaning": "What kind of day is it? What clues in the picture tell you?",
+      "culture": "The Dutch used the sea for fishing and trade. What clues in the picture show people use the sea?",
+      "technique": "The painter used a wood panel. How might a smooth panel help in painting a smooth sea?",
+      "personal": "Where would you go on a quiet boat ride?",
+      "critical": "Is a picture where almost nothing happens boring or peaceful to you? Why?"
+    },
+    "g35": {
+      "daily": "De Vlieger chose to paint a calm sea. What details make the water seem quiet and still?",
+      "emotion": "What mood does the picture create? Name two details that help set it.",
+      "observation": "Look slowly at the boats, water and sky. What small details do you find?",
+      "analysis": "How does the painter place the boats so your eyes move across the water?",
+      "line": "How does the low horizon line affect how big the sky feels?",
+      "shape": "How do the shapes of the boats compare to the shapes of the clouds?",
+      "color": "How does a soft, limited set of colors help create a peaceful mood?",
+      "texture": "How does the painter suggest the surface of still water and the softness of the sky?",
+      "space": "How does the painter use size and haze to show distance over the water?",
+      "light": "Describe where the light comes from and how it spreads across the sea.",
+      "meaning": "What might a calm sea mean to people whose lives depended on the water?",
+      "culture": "Why might Dutch buyers have liked paintings of the sea, even when it was peaceful?",
+      "technique": "Oil paint can be blended smoothly. Where might the painter have blended to make soft clouds and water?",
+      "personal": "Think of a quiet moment in your life. How does this painting match that feeling?",
+      "critical": "What does the painter choose to leave out, and how does that change the picture?"
+    },
+    "g68": {
+      "daily": "How does de Vlieger use a low horizon, a wide sky and a few boats to make stillness the subject?",
+      "emotion": "What mood does the stillness create, and how would a stormy sky change it?",
+      "observation": "List what appears on the water and in the sky. Which details are easy to overlook in such a small painting?",
+      "analysis": "How does the composition balance boats against the large area of sky?",
+      "line": "How does the horizontal horizon work with the vertical masts to structure the picture?",
+      "shape": "How do the small shapes of the boats contrast with the broad shapes of the sky and water?",
+      "color": "How does the narrow range of soft colors unify the painting and support its mood?",
+      "texture": "How does the painter distinguish between the surface of water and the softness of cloud?",
+      "space": "Which cues, such as size, overlap and haze, create depth over the water?",
+      "light": "How does diffused light shape the mood and unify the sea and sky?",
+      "meaning": "A quiet sea might suggest peaceful trade, or the calm before change. What evidence supports each reading?",
+      "culture": "Why did marine painting flourish in the Dutch Republic, and what might a quiet scene add to that tradition?",
+      "technique": "How does painting on a small wooden panel affect the level of detail and the viewing experience?",
+      "personal": "How does your own sense of calm connect to the stillness in this painting?",
+      "critical": "Does a painting with little action ask us to look differently? What does it ask of the viewer?"
+    },
+    "g910": {
+      "daily": "How does de Vlieger turn an absence of drama into the content of a painting?",
+      "emotion": "How do the horizontal calm of the sea and the presence of small boats shape the emotional tone?",
+      "observation": "Describe the visual hierarchy of this seascape. What does the eye find first, and what keeps it looking?",
+      "analysis": "Analyze how the proportions of sky, sea and boats organize the composition.",
+      "line": "How do horizontal and vertical elements produce stability, and where does the composition allow slight variation?",
+      "shape": "How do the contrast between compact boat forms and expansive atmospheric forms create tension or harmony?",
+      "color": "How does a tonal palette shape the sense of atmosphere, and what might a brighter palette do?",
+      "texture": "How does the painter evoke the sheen of water and the vaporous quality of sky through paint handling?",
+      "space": "How does the low viewpoint and open expanse affect the viewer's sense of position?",
+      "light": "How does the treatment of light create a unified atmosphere across the whole panel?",
+      "meaning": "How do you weigh readings of the painting as peaceful, melancholy or simply observational?",
+      "culture": "How did Dutch marine painting change in the mid-1600s, and where does this painting fit?",
+      "technique": "How does restraint in subject demand greater control of tone and edge?",
+      "personal": "What does the stillness of this image ask of you as a viewer, and how do you respond?",
+      "critical": "Can an image of nature's quiet be neutral, or does it also express a human attitude?"
+    },
+    "g1112": {
+      "daily": "What argument about the sea does this painting make through stillness, and how persuasive do you find it?",
+      "emotion": "How does the painting generate feeling through tone and emptiness, and how reliable is that reading across viewers?",
+      "observation": "Describe the painting's formal organization precisely before interpreting. Which observations were hardest to hold back from interpretation?",
+      "analysis": "How does the painting reconcile its small scale with a sense of immense space?",
+      "line": "How do the horizon and vertical accents establish a framework, and what role does subtle variation play?",
+      "shape": "How do the relations of compact and expansive forms structure the visual experience?",
+      "color": "How does tonal unity serve both naturalistic atmosphere and compositional harmony?",
+      "texture": "How does the painter achieve convincing surfaces with limited means, and what does that imply about the genre?",
+      "space": "How does the low horizon shape the relationship between viewer, boats and sky?",
+      "light": "How does light function as the true subject of the painting, and what are the implications for how we see?",
+      "meaning": "How might the meaning of a calm sea shift for audiences familiar with the dangers of maritime life?",
+      "culture": "What might the shift toward atmospheric seascapes reveal about Dutch taste and self-image in the mid-1600s?",
+      "technique": "What does the small oil-on-panel format reveal about the intended viewing conditions and market for this work?",
+      "personal": "How do your own associations with water and stillness affect your reading, and how might they differ from those of a 17th-century viewer?",
+      "critical": "How should we assess the work of a painting that withholds narrative, and what does its restraint ask us to reconsider about value in art?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Seascapes, Boats) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small seascape on wood by Simon de Vlieger, dated by the Met only as after 1640. Dutch marine painting of the 1600s increasingly explored atmosphere and light.",
+    "vocabulary": [
+      "seascape",
+      "horizon",
+      "atmosphere",
+      "panel",
+      "tone",
+      "composition"
+    ],
+    "directions": [
+      "Have students paint a sky and sea using only three colors and compare moods.",
+      "Move the horizon line on a copy of the picture (with paper strips) to see how the feeling changes.",
+      "Discuss why artists might paint quiet scenes."
+    ]
+  }
+}

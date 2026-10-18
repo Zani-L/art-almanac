@@ -1,0 +1,151 @@
+{
+  "id": "met-70538",
+  "day": "09-29",
+  "title": "Five-Clawed Dragon Robe",
+  "artist": "Artist unknown",
+  "date": "18th century",
+  "medium": "Silk",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/1973_28_3_F_sf.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/1973_28_3_F_sf.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Duchesse de Richelieu, 1972",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long silk robe laid flat, with wide sleeves and a pattern of embroidered dragons and other ornament across the fabric.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/70538",
+    "objectId": "70538",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Qing dynasty, 1644–1911), creditLine, classification (Costumes-Embroidered), tags (Dragons), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This silk robe was made in China during the Qing dynasty (1644-1911). Dragon robes were worn at the Qing court, and the number of claws on the dragons was part of a system of rank, with the five-clawed dragon reserved for the highest levels. The title of this robe refers to that five-clawed dragon design.",
+  "descriptions": {
+    "k": "This is a long silk robe with dragons on it. The dragons are stitched with thread. Find a dragon. Count its claws if you can. Is the robe plain or fancy?",
+    "g12": "This robe was made in China a few hundred years ago. It is made of silk and has dragons stitched on it. Dragons in this robe stand for power and good luck. Look for the dragons and the pattern around them. What would it be like to wear it?",
+    "g35": "This is a dragon robe from Qing dynasty China, made of silk. Court robes had dragons stitched on them, and the number of claws mattered: the five-clawed dragon was linked to the highest rank. Look for the dragons and other patterns on the robe. How do the dragons fill the shape of the robe? Why might clothing show rank this way?",
+    "g68": "Dragon robes were formal court dress in Qing China. The five-clawed dragon in the title refers to a rule of rank in which the number of claws helped signal who could wear a design. Embroiderers stitched dragons and symbolic patterns in silk thread, and the robe's wide shape displays them. How do the dragons guide your eye across the robe? What does clothing tell us about power and identity?",
+    "g910": "This 18th-century robe shows how clothing could communicate rank. In Qing court dress, dragon designs, including the five-clawed dragon, were regulated, so the garment is both costume and a visual code. The embroidered or woven patterns spread across a large silk surface, balancing dragons and other symbolic ornament. Consider how scale, repetition, and placement turn the robe into a statement of authority, and how wearing it differs from viewing it flat in a museum.",
+    "g1112": "As a Qing dragon robe, this garment belongs to a system of dress in which pattern functioned as rank. The five-clawed dragon of the title suggests high status, though the record gives no wearer, and sumptuary rules were not always applied rigidly. The robe thus raises questions about authority, display, and textile labor: what meanings were encoded in the dragons, who made and wore such garments, and how does displaying a robe flat change its meaning compared with a body in motion?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think wore this dragon robe? Where might they go in it?",
+      "emotion": "Does this robe feel grand or cozy to you? What shows it?",
+      "observation": "Find a dragon on the robe. What shapes can you see around it?",
+      "analysis": "Which dragon on the robe do your eyes find first? Why?",
+      "line": "Trace a dragon's curvy body in the air. Does it twist a lot?",
+      "shape": "The robe is long with wide sleeves. What shapes can you see in its outline?",
+      "color": "What colors do you see on the robe? Which one stands out most?",
+      "texture": "The robe is made of silk threads. How would the silk feel to touch?",
+      "space": "How big do you think this robe is compared with a person?",
+      "light": "Silk can shimmer. Where do you think the robe would sparkle?",
+      "meaning": "Dragons can mean strength and luck. Why might someone wear dragons?",
+      "culture": "People in China wore robes like this at the court. What special clothes do people wear for big days today?",
+      "technique": "The dragons were stitched with thread. Why would stitching a big robe take a long time?",
+      "personal": "If you had a special robe, what animal would you put on it?",
+      "critical": "A robe is something you wear. Why might it also be called art?"
+    },
+    "g12": {
+      "daily": "How do the stitched dragons make this robe look special?",
+      "emotion": "What feeling does the robe give you, grand or friendly? Which parts show it?",
+      "observation": "List five things you see on the robe, such as dragons, patterns, or sleeves.",
+      "analysis": "How are the dragons placed on the robe so they fit its shape?",
+      "line": "Follow the curving body of a dragon. What lines make it look like it is moving?",
+      "shape": "The robe has a long shape with wide sleeves. How do the dragons fit inside that shape?",
+      "color": "Which colors are used in the robe? How do they make the dragons stand out?",
+      "texture": "Silk is smooth and stitched thread has tiny bumps. Where might the robe feel different?",
+      "space": "The robe is shown flat, but it was worn on a body. How would it look different on a person?",
+      "light": "Silk catches light. Where might the robe look bright or shiny?",
+      "meaning": "Dragons showed power and importance. Why might a robe show that?",
+      "culture": "At the Qing court, robes showed rank. What clothes show a job or role today?",
+      "technique": "Someone stitched or wove the dragons with silk thread. What part do you think took the most skill?",
+      "personal": "What do you wear that shows who you are or what group you belong to?",
+      "critical": "Is a robe like this just clothing, or is it also a message? Use clues to decide."
+    },
+    "g35": {
+      "daily": "What message do the dragons on this robe send about the person who wore it? Use details to explain.",
+      "emotion": "What mood does the robe give, and which details create it?",
+      "observation": "Look for one minute. What small details in the dragons or the patterns around them did you notice?",
+      "analysis": "How are the dragons arranged on the robe so the pattern looks balanced?",
+      "line": "How do the curved lines of the dragons contrast with the straight edges of the robe?",
+      "shape": "How does the shape of the robe shape where the artist puts the dragons?",
+      "color": "How do the colors help the dragons stand out from the background cloth?",
+      "texture": "How might embroidered silk feel different from plain silk? What clues do you see?",
+      "space": "How does the pattern cover the large surface of the robe?",
+      "light": "How do silk threads reflect light differently from cotton or wool?",
+      "meaning": "In Qing China, the number of claws on a dragon showed rank. Why would a society use a symbol like that?",
+      "culture": "What does this robe tell you about how the Qing court used clothing to show order?",
+      "technique": "Why would making a robe covered in dragons take many hours and workers?",
+      "personal": "Think of a uniform or special outfit. What does it say about the person wearing it?",
+      "critical": "Is it fair to use clothing to show who has more power? Give reasons from this robe."
+    },
+    "g68": {
+      "daily": "How does the robe combine clothing, pattern, and symbolism to communicate rank?",
+      "emotion": "What impression of authority does the robe create, and which design choices build it?",
+      "observation": "Scan the robe from collar to hem. How does the pattern change, and where are the dragons clearest?",
+      "analysis": "How does the arrangement of dragons organize the surface of the robe?",
+      "line": "How do the sinuous bodies of the dragons contrast with the robe's straight seams and edges?",
+      "shape": "How does the garment's shape influence the placement of its main motifs?",
+      "color": "How does the color scheme support the visual impact of the dragons?",
+      "texture": "How does the contrast between smooth silk and raised stitching create a rich surface?",
+      "space": "How would the dragons look different when the robe is worn and moving, compared with this flat view?",
+      "light": "How does silk's sheen add to the luxury of the robe?",
+      "meaning": "What does the title's reference to five claws suggest about the power of symbols in dress?",
+      "culture": "How did Qing court clothing reflect ideas about hierarchy and order?",
+      "technique": "How much planning would a design that covers an entire garment require?",
+      "personal": "What does your clothing communicate about you to others, intentionally or not?",
+      "critical": "How should museums present clothes that were designed to be worn and moved in but are now displayed flat?"
+    },
+    "g910": {
+      "daily": "How does the robe use pattern as a language of rank and power?",
+      "emotion": "How does the scale and repetition of the dragons contribute to a sense of authority?",
+      "observation": "Describe the visual hierarchy of motifs on the robe, from major dragons to supporting patterns.",
+      "analysis": "Analyze how the garment's structure and its decoration work together.",
+      "line": "How does the sinuous line of the dragons animate a largely rectilinear garment?",
+      "shape": "How does the T-shaped silhouette of the robe frame its ornament?",
+      "color": "How does color separate and unify the components of the design?",
+      "texture": "How do the textures of woven or embroidered silk create depth on a flat surface?",
+      "space": "How does the patterning cover the garment as a continuous field, and what happens at seams and folds?",
+      "light": "How does the sheen of silk shift with movement and viewing angle?",
+      "meaning": "How do regulations on dragon designs show clothing as an instrument of social control?",
+      "culture": "How does a dragon robe reflect Qing ideas about imperial authority and its display?",
+      "technique": "What does the production of an elaborately patterned silk garment suggest about workshops and labor?",
+      "personal": "How do dress codes or uniforms in your own world communicate status or belonging?",
+      "critical": "What is lost when a worn garment is displayed flat, and how might curators address that?"
+    },
+    "g1112": {
+      "daily": "How does a robe function as both portable art and instrument of political display?",
+      "emotion": "How might the robe's grandeur have affected both its wearer and those who saw it?",
+      "observation": "Describe the robe precisely. Where does naming it a five-clawed dragon robe rely on the Met's title rather than observation?",
+      "analysis": "Analyze the robe as a designed surface in which ornament, structure, and symbolism interlock.",
+      "line": "How does line operate in textile ornament compared with drawing or painting?",
+      "shape": "How does the interplay of flat garment shape and body-oriented design complicate reading the robe as an image?",
+      "color": "How might aging, dye stability, and conservation have altered the colors we see today?",
+      "texture": "How does the robe's material presence, which we cannot touch, shape our understanding of its luxury?",
+      "space": "How does display flat versus worn reshape the robe's visual logic?",
+      "light": "How does museum lighting for fragile textiles affect our experience of silk's sheen?",
+      "meaning": "How rigid were rank symbols in practice, and what does the lack of a recorded wearer imply for interpreting this robe?",
+      "culture": "How does a Qing dragon robe complicate narratives of a closed court by connecting to trade, tribute, and global collecting?",
+      "technique": "What does the labor behind elaborately patterned silk say about the economy of Qing textile production?",
+      "personal": "How do your own responses to symbols of authority shape your reading of this robe?",
+      "critical": "How should we evaluate claims about rank when a robe survives without documentation of its wearer?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Five-Clawed Dragon Robe), classification (Costumes-Embroidered), medium (silk), and tags (Dragons) checked against the museum record; a decorative ornamental dragon design on a court garment is not in itself frightening, but the image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty (18th century) silk dragon robe. The Met's title refers to five-clawed dragons, associated with the highest rank; the specific wearer is not recorded. Confirm visible colors and motifs from the image.",
+    "vocabulary": ["Qing dynasty", "silk", "embroidery", "rank", "motif", "sumptuary rules"],
+    "directions": [
+      "Have students design a robe or banner using one animal to show a role, and explain their symbol.",
+      "Discuss how clothing communicates identity in schools, teams, and traditions around the world.",
+      "Compare this robe with the lotus robe in the archive to contrast dragon and flower imagery."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-251241",
+  "day": "09-09",
+  "title": "Necklace, chain",
+  "artist": "Artist unknown",
+  "date": "1st century CE",
+  "medium": "Gold",
+  "region": "Roman",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/SF2213969.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/SF2213969.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1922",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Roman necklace made as a gold chain, a row of linked gold parts that could be worn around the neck.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/251241",
+    "objectId": "251241",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A gold chain necklace made in the Roman world in the 1st century CE. Gold chains were a common form of Roman jewelry, and goldsmiths made them by joining many small links or elements into a flexible strand.",
+  "descriptions": {
+    "k": "This is a gold chain from ancient Rome. It is made of many little pieces linked together. People wore it around the neck. How do you think it moved when someone walked?",
+    "g12": "This gold necklace was made in ancient Rome about 2,000 years ago. It is a chain made of many small gold pieces joined together. The chain can bend and swing like a snake. Look closely at the links. How do you think a goldsmith made so many matching pieces?",
+    "g35": "A Roman goldsmith made this necklace as a chain of many small gold parts joined together. Because the parts link, the necklace bends and drapes around the neck. Look for how the pieces repeat. The pattern makes the necklace beautiful and flexible at once. How might someone have made so many matching parts by hand?",
+    "g68": "Roman gold chains were made by joining many small elements into a flexible strand, which required patience and precision. This necklace dates to the 1st century CE, when gold jewelry marked wealth and taste across the Roman world. Because it is a chain, its appeal comes from repetition and movement as much as from any single shape. How does repetition make a simple design rich, and why might Romans have valued such objects?",
+    "g910": "A gold chain necklace puts pattern, material, and movement at the center. Repeated links create rhythm, and gold's shine and weight make the strand feel luxurious. Unlike a pendant, the necklace has no single focal point, so its beauty depends on consistency and craftsmanship along its entire length. Consider how a flexible object that was made to move and catch light differs from a static sculpture. What does the choice of a chain suggest about Roman ideas of elegance?",
+    "g1112": "This Roman gold chain shows how a modest-looking form can embody technical skill and social display. The record gives limited information about its construction and wearer, so inferences about technique, status, or gender should be cautious. A chain is defined by repetition, flexibility, and movement, qualities that museum display largely freezes. Consider how the necklace's meaning changes between its function on a body in the 1st century CE and its role as a preserved object today, and what the absence of figural imagery reveals about luxury."
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think wore this gold chain?",
+      "emotion": "How would you feel wearing a shiny gold necklace?",
+      "observation": "What do you see? Point to the small parts of the chain.",
+      "analysis": "Where do your eyes go first on the chain? Where do they go next?",
+      "line": "Can you find a line that curves? Trace it in the air.",
+      "shape": "What shapes can you find in the chain?",
+      "color": "What color is the chain? What else is that color?",
+      "texture": "How do you think the chain would feel on your neck? Smooth, heavy, or light?",
+      "space": "The chain makes a long shape. How long do you think it is?",
+      "light": "Where does the gold shine? Where does it look darker?",
+      "meaning": "If this chain could tell a story, what would it say?",
+      "culture": "People in Rome wore chains like this. What do people wear around their necks today?",
+      "technique": "A goldsmith made each piece by hand. What do you think they needed?",
+      "personal": "If you could make a chain, what would you make it from?",
+      "critical": "Why would a person want a chain made of gold?"
+    },
+    "g12": {
+      "daily": "How do you think this chain was worn? What clues help you decide?",
+      "emotion": "What feeling does a gold chain give you? Why?",
+      "observation": "Describe the chain. What do you notice about the pieces?",
+      "analysis": "How does the repeating pattern lead your eyes along the chain?",
+      "line": "Find curving lines in the chain. How do they make it look like it can move?",
+      "shape": "Look at the small shapes that repeat. Can you describe one?",
+      "color": "Why might people long ago have loved the color of gold?",
+      "texture": "Which parts of the chain might feel smooth and which might feel bumpy?",
+      "space": "How can you tell this chain is meant to go around something?",
+      "light": "Where does the gold look brightest? What does the light do on the chain?",
+      "meaning": "Why might a Roman person wear a chain without a pendant?",
+      "culture": "The Romans lived long ago. What does the chain tell you about their jewelry?",
+      "technique": "The chain is made of many small pieces. Why might that be hard?",
+      "personal": "What small piece could you add to this necklace to make it your own?",
+      "critical": "Does a plain chain feel special or ordinary to you? Explain."
+    },
+    "g35": {
+      "daily": "What details show this chain was made with care?",
+      "emotion": "What mood does the chain create, elegant or simple? Which details support your answer?",
+      "observation": "Look closely for one minute. What new details do you see in how the pieces fit together?",
+      "analysis": "How does the repetition of the links organize the necklace?",
+      "line": "How do the curves of the chain compare with the straighter parts of each piece?",
+      "shape": "How do repeated shapes create a pattern along the chain?",
+      "color": "Gold stays bright for thousands of years. How might that change how we see this chain today?",
+      "texture": "How might the surface of the links look different from the spaces between them?",
+      "space": "A necklace is worn on the body. How does that change how it needs to be designed?",
+      "light": "How would moving light change the way this gold chain looks?",
+      "meaning": "Why might a family choose a gold chain instead of a heavy, stiff ornament?",
+      "culture": "What can this necklace tell us about the Roman Empire and its goldsmiths?",
+      "technique": "A goldsmith had to make many parts that matched. What problems might they have solved?",
+      "personal": "What simple objects do people wear to show who they are? How are they like this chain?",
+      "critical": "Why might a simple chain survive better than something more delicate?"
+    },
+    "g68": {
+      "daily": "How does the goldsmith turn a repeating pattern into an object worth looking at closely?",
+      "emotion": "What mood does the necklace create, and which details support your idea?",
+      "observation": "List what you notice from one end of the chain to the other. Which details were easy to miss?",
+      "analysis": "How does repetition create unity along the whole length of the necklace?",
+      "line": "How do curves and linked lines create a sense of flexibility and movement?",
+      "shape": "How do the repeating shapes create rhythm, and where might variety break it?",
+      "color": "How does the warm color of gold shape the necklace's mood?",
+      "texture": "How might fine surface detail on small links make a chain richer?",
+      "space": "How does a necklace occupy space differently from a statue? Think about how it drapes.",
+      "light": "How would sunlight, firelight, or movement change how the gold looks?",
+      "meaning": "What might a gold chain have signaled about the wearer in Roman society?",
+      "culture": "How could Roman trade and conquest have supplied gold and spread jewelry styles?",
+      "technique": "What skills, such as making links and joining them, would a goldsmith need?",
+      "personal": "How do objects you wear show your taste? Compare them with this necklace.",
+      "critical": "What can we say about this necklace with confidence, and what remains uncertain about its owner or maker?"
+    },
+    "g910": {
+      "daily": "How does repetition become the main artistic idea of this chain, and what does that achieve?",
+      "emotion": "What effect might gold have had on the wearer and on those who saw it?",
+      "observation": "Describe the visual hierarchy of the necklace: without a pendant, what organizes your attention?",
+      "analysis": "Analyze how rhythm and repetition unify the necklace's composition.",
+      "line": "How do the lines of the links define the chain's structure and flexibility?",
+      "shape": "How do small shapes build a larger form when linked together?",
+      "color": "How does gold's color and shine shape the object's meaning compared with other metals?",
+      "texture": "How does the fineness of links affect how the chain reads from far and near?",
+      "space": "How does designing for the body, which curves and moves, shape the structure of a necklace?",
+      "light": "How does the way a flexible gold chain catches moving light differ from a rigid object?",
+      "meaning": "What might a chain without figural imagery communicate about status and taste in Roman culture?",
+      "culture": "How does gold jewelry illustrate Roman wealth, trade, and craft specialization?",
+      "technique": "What technical skill is needed to make hundreds of matching parts by hand?",
+      "personal": "How do modern chains and ancient chains both communicate identity? Where do they differ?",
+      "critical": "What evidence could connect this chain to a particular region, workshop, or wearer?"
+    },
+    "g1112": {
+      "daily": "What can be argued about this necklace's meaning from its form and material alone, and what goes beyond the evidence?",
+      "emotion": "How might ornamentation without figures convey social meaning, and how can we reason about that for an ancient culture?",
+      "observation": "Describe the chain's construction and form precisely. Where does description require assumptions?",
+      "analysis": "Analyze how repetition and flexibility operate as formal principles in this object.",
+      "line": "How does the chain's structure create a kind of drawing in metal, and what does this suggest about line in jewelry?",
+      "shape": "How does the modular logic of linked shapes relate to the ways other Roman arts, such as mosaics, use repeated units?",
+      "color": "How does gold's cultural value interact with its visual qualities in shaping the necklace's meaning?",
+      "texture": "How does the museum's static display change the experience of an object designed to move?",
+      "space": "How does the necklace's relation to the body complicate the idea of a work as an independent object?",
+      "light": "How might ancient lighting conditions and movement have been part of the necklace's intended effect?",
+      "meaning": "How might gender, class, and ritual have shaped the wearing of gold in Roman society, and how certain can we be about this object?",
+      "culture": "How does Roman jewelry reflect contacts across the Empire and beyond, and how do we distinguish local and imported styles?",
+      "technique": "What do the technical demands of chain making imply about workshops, tools, and training?",
+      "personal": "How do museum classifications such as gold and silver shape the way we value jewelry in relation to sculpture or painting?",
+      "critical": "How should scholars handle objects without recorded makers or owners when writing about ancient adornment?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a gold chain necklace; the record lists no figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Roman gold chain necklace of the 1st century CE. Gold jewelry was widely worn in the Roman Empire, and chains were a common way to display skill and wealth.",
+    "vocabulary": [
+      "chain",
+      "link",
+      "goldsmith",
+      "repetition",
+      "ornament",
+      "Roman Empire"
+    ],
+    "directions": [
+      "Have students make a paper chain and discuss how repeating one small unit builds a larger pattern.",
+      "Compare this necklace with a modern chain: what has stayed the same and what has changed?",
+      "Discuss why gold, which does not rust, is found in museums from so long ago."
+    ]
+  }
+}

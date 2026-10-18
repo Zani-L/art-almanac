@@ -1,0 +1,159 @@
+{
+  "id": "met-467642",
+  "day": "07-08",
+  "title": "The Unicorn Rests in a Garden (from the Unicorn Tapestries)",
+  "artist": "Artist unknown",
+  "date": "1495–1505",
+  "medium": "Wool warp with wool, silk, silver, and gilt wefts",
+  "movement": "Late Gothic tapestry",
+  "region": "Southern Netherlands (woven); French design",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/cl/web-large/DP118991.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/cl/original/DP118991.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of John D. Rockefeller Jr., 1937",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large woven tapestry of a white unicorn sitting inside a small round fence in a field thick with flowers, with a fruit tree beside it.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/467642",
+    "objectId": "467642",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (French cartoon / South Netherlandish woven), classification (Textiles-Tapestries), tags (Unicorns, Flowers, Plants, Trees), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tapestry from the Unicorn Tapestries, designed in a French style and woven in the Southern Netherlands about 1495–1505, now at The Cloisters. It is often called The Unicorn in Captivity. It shows a unicorn resting in an enclosed garden, surrounded by flowers and plants.",
+  "descriptions": {
+    "k": "A white unicorn rests in a garden. A little fence goes around it. Flowers cover the ground. A tree grows beside it. This big picture is made from thread. How many flowers can you find?",
+    "g12": "This big woven picture is called a tapestry. It was made over 500 years ago. A white unicorn rests inside a small round fence in a garden full of flowers. A tree grows nearby. Weavers made the picture from wool, silk, and shiny silver and gold threads. Which flowers can you find?",
+    "g35": "This tapestry was woven between 1495 and 1505 in the Southern Netherlands from a French design. It is the last of the seven Unicorn Tapestries at The Cloisters and is often called The Unicorn in Captivity. A unicorn rests inside a low fence, in a field of flowers, with a tree nearby. Weavers used wool, silk, and threads of silver and gilt. Look for the plants. Why might the weavers have filled the ground with so many different flowers?",
+    "g68": "The Unicorn Rests in a Garden, often called The Unicorn in Captivity, is part of the Unicorn Tapestries, designed in a French style and woven in the Southern Netherlands around 1495–1505. A unicorn sits within a circular fence beside a fruit-bearing tree, set against a field of many flowers, a style often called millefleurs, meaning a thousand flowers. Wool, silk, and silver and gilt threads give the surface a rich glow. Is the unicorn captive or at rest, and what details support each reading?",
+    "g910": "Often called The Unicorn in Captivity, this tapestry of about 1495–1505 was woven in the Southern Netherlands from a French design and is the last in the Unicorn Tapestries series. The unicorn sits within a fence in a dense field of flowers, with a fruit tree beside it. Scholars have proposed many readings: Christian symbolism, a courtly image of love or marriage, or a more general reference to nature, with its meaning debated. The weavers' rich surface of wool, silk, and metal threads adds status. How do the details support or complicate a single reading?",
+    "g1112": "The Unicorn Rests in a Garden, long known as The Unicorn in Captivity, closes the Unicorn Tapestries series. Designed in a French style and woven in the Southern Netherlands around 1495–1505, it shows a unicorn enclosed by a fence beside a fruit tree, within a field of many flowers. Interpretations include Christian allegory, marriage symbolism, and nature imagery, and the original patron and meaning remain debated. Its ambiguity, a captive that looks content, invites both formal and symbolic analysis. What evidence supports each interpretation, and how far should we trust symbolic readings of a luxury object with an unknown commission?"
+  },
+  "questions": {
+    "k": {
+      "daily": "The unicorn is resting in a garden. What do you think it is dreaming about?",
+      "emotion": "Does the unicorn look happy, sleepy, or sad? What shows it?",
+      "observation": "Find the fence around the unicorn. Then find the tree. What else is in the garden?",
+      "analysis": "What makes the white unicorn stand out from all the flowers?",
+      "line": "Trace the round fence with your finger. Does your finger go all the way around?",
+      "shape": "The fence makes a circle. What other shapes do you see in the flowers and leaves?",
+      "color": "The garden has many colors. Which flower color do you like best?",
+      "texture": "Woven wool and silk can feel soft. Which part of the picture would you most like to touch?",
+      "space": "The unicorn is inside the fence. What is outside it?",
+      "light": "Silver and gold threads sparkle in the light. Where do you think they sparkle?",
+      "meaning": "Is the unicorn trapped or resting? Tell what you think and what you see.",
+      "culture": "People long ago filled tapestries with flowers like these. What flowers grow near your home?",
+      "technique": "Weavers wove each flower thread by thread. How would you make a flower out of yarn?",
+      "personal": "What would you do in a garden like this?",
+      "critical": "The garden has so many flowers. Why might the weavers have put in so many?"
+    },
+    "g12": {
+      "daily": "How does the artist make the unicorn the star of a garden full of flowers?",
+      "emotion": "What feeling does this quiet garden give you? Which parts help you feel it?",
+      "observation": "Describe the unicorn, the fence, and the tree. What else do you notice?",
+      "analysis": "How does the circle fence help the unicorn stand out?",
+      "line": "Look at the stems and leaves. How do curved lines help the garden feel alive?",
+      "shape": "Find shapes of flowers, leaves, and fruit. Which shapes repeat?",
+      "color": "The unicorn is white and the garden is colorful. How do the colors help you see the unicorn?",
+      "texture": "The tapestry is woven from threads. Which parts look soft, and which look shiny?",
+      "space": "Some plants look close and others look farther away. How can you tell?",
+      "light": "Silver and gold threads were woven into this tapestry. What might it look like by candlelight?",
+      "meaning": "The unicorn sits inside a fence but looks calm. What do you think the picture is saying?",
+      "culture": "Tapestries like this were hung in large homes. Why would people want a flower garden on their wall?",
+      "technique": "A weaver uses a loom to cross threads. Why is a picture with so many flowers a lot of work?",
+      "personal": "What is your favorite place that feels safe and quiet?",
+      "critical": "Is this unicorn captive or content? Use details to explain your idea."
+    },
+    "g35": {
+      "daily": "Is the unicorn trapped or at rest? Use details such as the fence and the unicorn's pose to support your answer.",
+      "emotion": "What mood does this garden create, peaceful, mysterious, or something else? Which details support your idea?",
+      "observation": "Take a minute to look for different flowers and plants. Which small details did you miss at first?",
+      "analysis": "How does the weaver arrange the unicorn, the fence, and the tree to focus your attention?",
+      "line": "How do the lines of stems, leaves, and the fence guide your eyes across the tapestry?",
+      "shape": "How do the repeated shapes of flowers and leaves create pattern across the whole picture?",
+      "color": "How does the unicorn's pale body contrast with the colorful field?",
+      "texture": "Wool, silk, and metal threads feel and shine differently. Where might each be used in this picture?",
+      "space": "The flowers seem to rise up the picture rather than recede. How does that change the way you see the garden?",
+      "light": "How might silver and gilt threads change how the tapestry looks in a dim room?",
+      "meaning": "The fence, the tree, and the unicorn may all have meanings. Which detail do you think is most important, and why?",
+      "culture": "This tapestry was made in the Southern Netherlands from a French design. What does that tell you about how art traveled?",
+      "technique": "Weavers built the picture one thread at a time. Why might it take many months to weave so many flowers?",
+      "personal": "Think of a garden or park you like. What does it have that this one has?",
+      "critical": "The same tapestry can be read as captivity or as peace. Which details support each idea?"
+    },
+    "g68": {
+      "daily": "How does the design make a captive creature appear both confined and calm?",
+      "emotion": "What emotional tone do the garden, the fence, and the unicorn's pose create together?",
+      "observation": "List the plants, tree, and fence you can identify. Which are most detailed?",
+      "analysis": "How does the circular fence frame the unicorn within a dense field of flowers?",
+      "line": "How do stems, leaves, and the fence create rhythm across the tapestry?",
+      "shape": "How does repetition of small flower shapes create a pattern that does not hide the central figure?",
+      "color": "How does the pale unicorn stand out against saturated flower colors?",
+      "texture": "How does the woven surface give a different feel to flowers and fur?",
+      "space": "In millefleurs designs, flowers seem to rise rather than recede. How does that affect the sense of space?",
+      "light": "How might metal threads catch light and change the appearance of the scene?",
+      "meaning": "What might the fence, the tree, and the flowers symbolize? Which readings are supported and which are guesses?",
+      "culture": "Why might wealthy owners in the late Middle Ages commission tapestries with gardens and legendary animals?",
+      "technique": "How does weaving flowers in wool and silk differ from painting them?",
+      "personal": "When have you felt both safe and held back? How does that connect to this picture?",
+      "critical": "Because the original patron is unknown, how should we treat symbolic readings of the tapestry?"
+    },
+    "g910": {
+      "daily": "How does the tapestry balance narrative, symbol, and decoration within a single image of a unicorn at rest?",
+      "emotion": "How does the contrast between enclosure and the garden's richness create ambiguity of mood?",
+      "observation": "Describe the visual hierarchy. What do you notice first, and which devices produce it?",
+      "analysis": "Analyze how the fence and tree structure the composition in a densely patterned field.",
+      "line": "How do contours of plants and animals contribute to a unified decorative surface?",
+      "shape": "How does the interplay of circular fence and scattered flowers produce order and variety?",
+      "color": "How does a palette achievable with natural dyes shape the tapestry's glow?",
+      "texture": "How does weaving translate texture, such as fur, fruit, and petals, into thread?",
+      "space": "How does the tapestry combine flat decoration with hints of spatial depth?",
+      "light": "How might metal threads and silk enhance the sense of luminosity compared with wool alone?",
+      "meaning": "How might the unicorn in an enclosure be read as Christian, courtly, or natural symbolism, and where is the evidence uncertain?",
+      "culture": "How does a tapestry designed in France and woven in the Southern Netherlands show international workshop networks?",
+      "technique": "How much labor and money do the size and detail of this fenced-garden panel suggest went into making it?",
+      "personal": "What do you gain from studying symbols whose meanings are debated?",
+      "critical": "How do the tapestry's history as part of a series and its later display affect how we interpret a single panel?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the panel itself about captivity, love, or nature, and what depends on assumptions about the whole series?",
+      "emotion": "How does the tapestry's combination of enclosure and abundance shape a viewer's response, and how might that differ from its first audience's?",
+      "observation": "Describe the tapestry's composition with precision. Which identifications are certain and which are inferred?",
+      "analysis": "Analyze how the tapestry negotiates between a central symbolic figure and the ornamental field.",
+      "line": "How does weaving force the contours of petals, fence, and fur into a grid of threads, and what does that do to line?",
+      "shape": "How does the dense scatter of flowers complicate distinctions between foreground and background?",
+      "color": "How might fading, repair, and the chemistry of natural dyes have shifted the garden’s original colors?",
+      "texture": "How does the combination of wool, silk, and metal thread define the tapestry's status as a luxury object?",
+      "space": "How does millefleurs space differ from the perspectival space developing in contemporary painting?",
+      "light": "How would the intended viewing conditions, such as candlelit interiors, have affected how the tapestry was understood?",
+      "meaning": "Evaluate readings of the panel as Christian allegory, marriage symbolism, or nature imagery. What evidence supports each?",
+      "culture": "How does the tapestry's international making complicate national labels in medieval art?",
+      "technique": "What does the split between designer, dyer, and weaver imply about who counts as the author of this garden scene?",
+      "personal": "How does your familiarity with unicorns in modern culture shape what you see and assume?",
+      "critical": "What are the scholarly risks of building a story about an unknown patron from a single panel?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Textiles-Tapestries), medium and tags (Unicorns, Flowers, Plants, Trees) checked against the Met Collection API record. This panel shows a unicorn resting in an enclosed garden and was chosen over the hunt scenes of the series. Nothing in the metadata points to nudity, violence or frightening content; a reviewer should check that the red marks on the unicorn's body, which scholars read as pomegranate juice, are not upsetting. The image file itself was not visually inspected in this build.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The seventh of the Unicorn Tapestries at The Cloisters, woven about 1495–1505 and often called The Unicorn in Captivity. The series includes hunting scenes; this panel shows a unicorn resting in a fenced garden.",
+    "vocabulary": [
+      "tapestry",
+      "millefleurs",
+      "warp and weft",
+      "cartoon (design)",
+      "symbol",
+      "Southern Netherlands"
+    ],
+    "directions": [
+      "Have students identify five plants or flowers and sketch them, then discuss why weavers included so many.",
+      "Ask students to argue whether the unicorn is captive or at rest, citing visible details.",
+      "Compare with The Unicorn Purifies Water in the archive and discuss how each scene organizes its space."
+    ]
+  }
+}

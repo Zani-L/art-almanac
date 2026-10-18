@@ -1,0 +1,159 @@
+{
+  "id": "met-11737",
+  "day": "03-17",
+  "title": "Still Life with Cake",
+  "artist": "Raphaelle Peale",
+  "date": "1818",
+  "medium": "Oil on wood",
+  "movement": "American still life",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT64.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT64.jpg",
+    "credit": "The Metropolitan Museum of Art, Maria DeWitt Jesup Fund, 1959",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A still life of food and tableware arranged on a tabletop: a cake, fruit including grapes, and a glass holding wine, painted in careful detail against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11737",
+    "objectId": "11737",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Fruit, Grapes, Wine, Still Life, Cakes) and image URLs read from the record"
+  },
+  "context": "A small still life painted in oil on a wood panel by Raphaelle Peale in 1818. Peale belonged to a Philadelphia family of artists and is often described as one of the first American painters to specialize in still life.",
+  "descriptions": {
+    "k": "A cake sits on a table with fruit and grapes. There is also a glass. Everything is painted very carefully. Which food would you taste first? Can you tell why the cake looks so real?",
+    "g12": "Raphaelle Peale painted this table of treats long ago. There is a cake, some fruit, and grapes. A glass sits nearby. The artist painted each thing carefully, so it looks real enough to touch. What do you notice first? Which part looks most delicious?",
+    "g35": "Raphaelle Peale was part of a famous family of painters in Philadelphia. In 1818 he painted this still life, a picture of objects set on a table. Look at the cake, the fruit, the grapes, and the glass. Notice how he shows the shine of glass and the softness of cake. Why do you think he chose to paint everyday things so carefully?",
+    "g68": "A still life lets an artist choose and arrange objects, and Raphaelle Peale did so with great care here. The cake, fruit, grapes, and glass are set close to us, each painted with convincing texture and shine. Peale belonged to a family of artists in Philadelphia, and he was among the first American painters to focus on still life. The quiet scene may seem plain, yet the arrangement makes viewers look slowly. What might the choice and placement of each object suggest?",
+    "g910": "In Still Life with Cake, Peale arranges food and tableware on a plain surface and renders them with close observation. The composition is simple, so differences in texture, from frosting to fruit skin to glass, become the focus. Still life was a modest category in early American art, and Peale helped establish it. Some scholars connect such paintings to ideas about abundance or the passing of time, while others see careful observation as the main goal. The painting does not settle the question.",
+    "g1112": "Raphaelle Peale's 1818 still life belongs to the early history of American still-life painting, a genre then considered minor next to portraiture. Its restrained composition invites attention to material difference: cake, fruit, and glass each demand a distinct touch of paint. Interpretations vary. Some readers see abundance and domestic pleasure, others see reflections on transience or the display of skill, and Peale left little to confirm any of them. The work is best approached as evidence of both close looking and an emerging American market for pictures of everyday things."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could eat one thing from this table, which would it be? Why?",
+      "emotion": "Does this picture make you feel hungry, calm, or something else? Tell about it.",
+      "observation": "What foods can you find on this table? Point to each one.",
+      "analysis": "What is the biggest thing in this picture? What is the smallest?",
+      "line": "Can you find an edge that is round, like a circle? Trace it in the air.",
+      "shape": "The grapes are tiny circles. Can you find other round shapes?",
+      "color": "What colors do you see on the table? Which color looks tastiest?",
+      "texture": "Which thing looks smooth and shiny? Which looks soft or crumbly?",
+      "space": "Which thing is closest to you? Which is behind the others?",
+      "light": "Where is the light shining? Which parts look bright?",
+      "meaning": "Who do you think might eat this cake? Make up a little story.",
+      "culture": "This cake was painted over two hundred years ago. How is it like or unlike a cake today?",
+      "technique": "The artist painted the cake with oil paint on a wood board. How did he make it look so real?",
+      "personal": "What is your favorite treat? Tell about the last time you ate it.",
+      "critical": "Why would an artist choose to paint a table of food instead of people?"
+    },
+    "g12": {
+      "daily": "Which object do you think is most important on the table? Use your eyes to explain.",
+      "emotion": "How does this table of food make you feel? Which things help you feel that way?",
+      "observation": "Look closely at the cake. What details can you find on it and around it?",
+      "analysis": "How did the artist arrange the objects? Do they feel spread out or close together?",
+      "line": "Find the edges of the plate or dish and the glass. How do their lines help you see their shapes?",
+      "shape": "Look at the round grapes, the cake, and the glass. Which shapes repeat in the picture?",
+      "color": "Which colors in the picture feel warm? Which feel cool? How do they work together?",
+      "texture": "Show how you can tell the soft cake from the shiny glass. What clues do you use?",
+      "space": "How does the artist show that some things sit in front of others?",
+      "light": "Where do you see bright spots of shine? Why do they make things look real?",
+      "meaning": "A cake on a table can stand for a party or a special day. What might the cake say about the people who set this table?",
+      "culture": "People in Philadelphia in 1818 made and ate cakes. What can this painting tell us about their meals?",
+      "technique": "Peale painted tiny details with a small brush. Where do you see the most careful details?",
+      "personal": "If you could set up your own table to paint, what three things would you pick?",
+      "critical": "Could a photograph show this table better than a painting? Why or why not?"
+    },
+    "g35": {
+      "daily": "What do you think Peale wants you to notice about this table, and which details support your idea?",
+      "emotion": "What mood does this quiet table create? Which choices of color, light, and arrangement build it?",
+      "observation": "After one minute of silent looking, what small details do you notice in the cake, fruit, and tableware?",
+      "analysis": "How does Peale arrange the objects so that your eyes travel from one to another?",
+      "line": "How do the curved edges of the dish and fruit compare with the straighter lines of the table?",
+      "shape": "Round shapes repeat in the grapes, the fruit, and the glass. How does this repetition help the picture feel connected?",
+      "color": "How does Peale use warm cake colors and darker backgrounds to make the objects stand out?",
+      "texture": "How does Peale make frosting, fruit skin, and glass each feel different from one another?",
+      "space": "How does the artist use overlapping and placement near the front of the table to create depth?",
+      "light": "Where does the light shine on the glass and fruit, and how does this make them look three-dimensional?",
+      "meaning": "Food, wine, and a cake on a table can suggest a feast. What might the painting say about plenty and enjoyment?",
+      "culture": "Peale worked in a family of painters in Philadelphia. Why might a picture like this have appealed to people in 1818?",
+      "technique": "Peale painted on a wood panel with oil paint. How might a smooth panel help him show tiny details?",
+      "personal": "Think of a table at a special meal you remember. What would you include if you painted it?",
+      "critical": "Why might early American viewers have thought portraits more important than still lifes? Do you agree?"
+    },
+    "g68": {
+      "daily": "How does Peale turn a simple table of food into something worth studying closely?",
+      "emotion": "How does the stillness of the arrangement affect the mood, and which elements create it?",
+      "observation": "Scan the table from left to right. Which objects get the most detailed treatment?",
+      "analysis": "How does the arrangement of objects at different heights and depths build the composition?",
+      "line": "How do the edges of plates, glassware, and fruit form lines that organize the picture?",
+      "shape": "How do repeated circles and curves, such as grapes and rims, give the composition rhythm?",
+      "color": "Which colors are most saturated, and which are muted? How does that influence your attention?",
+      "texture": "How does Peale distinguish soft, crumbly, and glossy surfaces using differences in highlights and brush handling?",
+      "space": "How does placing the objects close to the front edge shape our relationship to the table?",
+      "light": "How do highlights and shadows contribute to the three-dimensional look of the glass and fruit?",
+      "meaning": "Some still lifes hint at ideas such as abundance or time passing. What details would support or challenge such readings here?",
+      "culture": "What might the foods and objects tell us about the household goods and tastes of early nineteenth-century Philadelphia?",
+      "technique": "What does the small, polished surface suggest about the time and patience required for this kind of painting?",
+      "personal": "If you were to compose your own still life, what objects would you choose to tell something about you?",
+      "critical": "Is a painting of food less meaningful than a painting of a historic event? Make an argument either way."
+    },
+    "g910": {
+      "daily": "How does Peale's calm arrangement of cake, fruit, and glass ask the viewer to slow down?",
+      "emotion": "How does the absence of people shape the emotional tone of the scene?",
+      "observation": "Describe the visual hierarchy: which objects dominate and what devices achieve that?",
+      "analysis": "Analyze how placement, scale, and overlap create a stable but varied arrangement.",
+      "line": "How does the interplay of curved and straight edges define volume and contribute to the painting's order?",
+      "shape": "How do repeated spherical and cylindrical forms unify the composition?",
+      "color": "How does Peale use a limited, harmonious palette to focus attention on the objects?",
+      "texture": "How does the painting use highlight and edge handling to differentiate cake, fruit, and glass?",
+      "space": "How does the shallow space and close viewpoint influence the viewer's sense of access to the table?",
+      "light": "How does a controlled light source model the objects and create contrast with the background?",
+      "meaning": "How might a table set with food and drink suggest time, use, or the people who are absent, and where do such readings become speculative?",
+      "culture": "How does a still life like this reflect the tastes of a growing American market for art in the early republic?",
+      "technique": "How do Peale's panel support and fine brushwork contribute to the illusion of reality?",
+      "personal": "How does your own sense of what makes a meal or table memorable influence the way you read this painting?",
+      "critical": "Does the painting's modest subject limit its significance, or does it challenge hierarchies of subject matter? Defend your view."
+    },
+    "g1112": {
+      "daily": "What can be argued about this picture from visual evidence, and what remains open to doubt?",
+      "emotion": "How does the painting's emotional restraint complicate attempts to name a single mood, and what might that ambiguity do for the viewer?",
+      "observation": "Describe the arrangement with precision. Where does careful description already begin to interpret?",
+      "analysis": "Analyze how Peale constructs order through placement, repetition, and the interval between objects.",
+      "line": "How does the emphasis on contour and edge shape the painting's approach to form and illusion?",
+      "shape": "How does the tension between roundness and flatness on the table produce a sense of both stability and fragility?",
+      "color": "How does the color harmony contribute to atmosphere, and how might the work's age and surface affect what we see now?",
+      "texture": "How does the simulation of diverse materials relate to the status of illusion and skill in early American art?",
+      "space": "How does the closeness of the viewpoint shape the viewer's implied relationship to the objects?",
+      "light": "In what ways does light operate as both description of objects and organizing force in the painting?",
+      "meaning": "Evaluate competing readings, such as abundance, domestic pleasure, or transience. Which is best supported by the image, and which is speculative?",
+      "culture": "How does the picture reflect the early national taste for still life, and how might it relate to the Peale family's wider interest in natural history?",
+      "technique": "What might the painting's modest scale and careful finish indicate about the working methods and market for still-life painters of the period?",
+      "personal": "How does your own sense of what counts as important subject matter shape your reading of a painting of cake and fruit?",
+      "critical": "Given how little documentation survives about Peale's intentions, what standards of evidence should govern interpretation of this work?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Fruit, Grapes, Wine, Still Life, Cakes), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The tags include wine as a depicted still-life object only; a teacher may wish to note this.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Raphaelle Peale painted this still life in 1818 in Philadelphia. His father, Charles Willson Peale, was a well-known painter and museum founder, and several family members were artists.",
+    "vocabulary": [
+      "still life",
+      "composition",
+      "texture",
+      "highlight",
+      "oil paint",
+      "illusion"
+    ],
+    "directions": [
+      "Have students arrange 4 to 5 objects on a desk and discuss why they placed each one where they did.",
+      "Ask students to compare a quick phone photo of their arrangement with this painting, looking at light and detail.",
+      "Note that the painting includes a glass of wine as one of the objects, and decide in advance how your class will discuss it."
+    ]
+  }
+}

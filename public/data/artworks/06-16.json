@@ -1,0 +1,158 @@
+{
+  "id": "met-50827",
+  "day": "06-16",
+  "title": "Spring Play in a Tang Garden",
+  "artist": "Unidentified artist",
+  "date": "18th century",
+  "medium": "Handscroll; ink and color on silk",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP201318_CRD.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP201318_CRD.jpg",
+    "credit": "The Metropolitan Museum of Art, From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long Chinese handscroll painted on silk with a garden scene of spring play, where figures spend leisure time among plants, with birds and cats among the details.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/50827",
+    "objectId": "50827",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, period (Qing dynasty), public-domain flag, credit line, tags (Birds, Cats) and image URLs read from the record"
+  },
+  "context": "A handscroll in ink and color on silk, dated by the Met to the 18th century (Qing dynasty). Its title refers to a Tang garden, so it imagines an earlier age, and the record's tags mention birds and cats.",
+  "descriptions": {
+    "k": "This picture is very long, like a story you unroll. It shows a garden in spring. People play there. Birds and cats are in it too. What can you find? What would you play?",
+    "g12": "This painting is a handscroll, which is a long picture you open a little at a time. It shows play in a spring garden in China. Look for birds and cats among the plants. What do you think the people are doing? Which part do you want to look at longest?",
+    "g35": "A handscroll is a long painting kept rolled up, and a person unrolls only a small part at a time. This one, made in China in the 1700s, shows spring play in a garden from the Tang dynasty, a time long before. The artist is unknown. Look for the birds and cats in the garden. How does a scroll make you look differently than a framed picture?",
+    "g68": "Made in the 18th century, this handscroll imagines a garden of the much earlier Tang dynasty, a common move in Chinese painting that looked back to a celebrated past. A scroll is viewed in sections, so the scene unfolds like a journey rather than all at once. The record notes birds and cats among its details. How does this way of viewing change your experience, and why might artists revisit an earlier age?",
+    "g910": "This Qing dynasty handscroll presents leisure in a garden that is set in the Tang period, which suggests that the picture is as much about an idea of the past as about observed life. The format controls how we see it: sections appear one at a time, so time and movement become part of the experience. Small details, such as birds and cats, reward patient looking. What does a long, unrolled format do that a single view cannot?",
+    "g1112": "Spring Play in a Tang Garden reflects how Qing-period painters used scenes of the Tang past to explore ideals of leisure, elegance and refinement. The handscroll format turns viewing into a sequence, shaped by the viewer's pace, and the unidentified artist invites questions about workshop practice and the market for such paintings. Interpretations of such scrolls vary, and the image alone cannot settle them. How do format, subject and attribution frame what claims we can responsibly make?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could walk into this spring garden, what would you do first?",
+      "emotion": "Does this garden feel quiet or busy? What do you see that tells you?",
+      "observation": "Look for a bird and a cat. Can you find them both?",
+      "analysis": "Where does your eye go first in the long picture? What makes it go there?",
+      "line": "Use your finger to trace a path a person could stroll through the garden. Where does it lead?",
+      "shape": "What shapes do the plants and rocks make? Point to one round shape.",
+      "color": "Which colors say it is spring? Point to them.",
+      "texture": "How would the leaves and flowers feel? How would the silk feel?",
+      "space": "What is near and what is far in the garden? How can you tell?",
+      "light": "Is it a bright day or a gray day in the garden? How can you tell?",
+      "meaning": "Why do you think the artist put cats and birds in the garden?",
+      "culture": "This painting is from China. What do you like to do in a garden or park?",
+      "technique": "This picture was painted on silk with ink and color. How is that different from paper?",
+      "personal": "What is your favorite place to play outside in spring?",
+      "critical": "This scroll is very long. Why might an artist choose a long picture?"
+    },
+    "g12": {
+      "daily": "What do you think is the most fun thing happening in the garden? Show where you see it.",
+      "emotion": "What feeling does this spring garden give you? Point to the part that makes you feel that way.",
+      "observation": "Find three living things in the garden. Describe each one.",
+      "analysis": "A scroll shows only a little at a time. How does that change the way you look?",
+      "line": "Follow a path, a branch, or a stem with your eyes. How do the lines lead you?",
+      "shape": "Look at the plants and rocks. Which shapes repeat in the scroll?",
+      "color": "Which colors are bright and which are quiet? How do they work together?",
+      "texture": "Which parts of the garden look soft? Which look hard? Show how you know.",
+      "space": "How can you tell which parts of the garden are closer to you?",
+      "light": "This scroll has no strong sun or shadows. How does the artist still show a bright day?",
+      "meaning": "Why might a painter show a happy, peaceful garden?",
+      "culture": "The title says a Tang garden, but this scroll was made much later. Why might people paint a time long ago?",
+      "technique": "Silk paintings use thin lines and soft color. Where can you find thin lines?",
+      "personal": "What would you want to play in a spring garden, and with whom?",
+      "critical": "Is this a real place or an imagined one? What makes you think so?"
+    },
+    "g35": {
+      "daily": "What story could you tell as you unroll this scroll one section at a time?",
+      "emotion": "How do the garden, the animals and the play create a mood of springtime?",
+      "observation": "After a minute of silent looking, what tiny detail did you notice last?",
+      "analysis": "How does the artist arrange people, plants and animals so your eye keeps moving along the scroll?",
+      "line": "How do the lines of branches, rocks and paths help guide you through the scene?",
+      "shape": "How do the shapes of the plants and garden elements repeat across the scroll?",
+      "color": "How do the colors suggest spring and keep the scene lively?",
+      "texture": "How does the painter suggest the softness of petals or fur using fine lines and color?",
+      "space": "How does the artist show a garden that goes on and on, even though the scroll shows only part at a time?",
+      "light": "How does the artist suggest a bright day without strong shadows?",
+      "meaning": "Why might the artist have chosen a spring garden to show play and ease?",
+      "culture": "A painter in the 1700s imagined a Tang garden. What does that tell you about how people looked at the past?",
+      "technique": "Why might an artist choose silk for fine details, and how is a handscroll viewed differently from a framed picture?",
+      "personal": "Think of a spot where you like to relax. How would you show it in a long scroll?",
+      "critical": "How can we learn about people's lives from a painting that imagines an earlier time?"
+    },
+    "g68": {
+      "daily": "How does a handscroll turn a garden scene into an experience that unfolds over time?",
+      "emotion": "How do the garden, play and small animals create a mood of ease and delight?",
+      "observation": "List the elements in the garden you can find. Which seem to be there to reward close looking?",
+      "analysis": "How does the composition lead the viewer along the scroll, section by section?",
+      "line": "How do fine lines of branches, rocks and clothing show form in ink and color?",
+      "shape": "How do repeated organic shapes of plants and rocks create rhythm along the scroll?",
+      "color": "How does a limited, soft palette of ink and color on silk shape the springtime mood?",
+      "texture": "How are textures like fur, petals and rock suggested with line and wash?",
+      "space": "How does the painter build depth without the single-point perspective common in European painting?",
+      "light": "How is daylight suggested when there are no cast shadows?",
+      "meaning": "What might a scene of leisure in a past age suggest about the ideals of the painter's own time?",
+      "culture": "Why might Qing-period painters have enjoyed imagining Tang court or garden life?",
+      "technique": "How does painting on silk influence the fineness of detail and the colors available?",
+      "personal": "If you were to make a scroll about your own neighborhood, what sections would it have?",
+      "critical": "How can an unidentified artist and a later date change the way we use this scroll as evidence about the Tang?"
+    },
+    "g910": {
+      "daily": "How does the handscroll format change the experience of looking at a scene of garden leisure?",
+      "emotion": "How does the painting build atmosphere through color, detail and pacing rather than dramatic action?",
+      "observation": "Describe the visual rhythm of the scroll: where does it speed up or slow down for the eye?",
+      "analysis": "Analyze how the composition coordinates figures, plants and animals across a long horizontal format.",
+      "line": "How does fine line work define form and set the tone of refinement?",
+      "shape": "How do repetitions and variations of shapes create continuity across the scroll?",
+      "color": "How do soft mineral colors on silk contribute to the work's refined, decorative mood?",
+      "texture": "How does the painter differentiate surfaces such as rock, plants and animals with controlled line and color?",
+      "space": "How does the painting create a believable garden space through overlapping and placement?",
+      "light": "How does the treatment of light compare with painting traditions that rely on cast shadows?",
+      "meaning": "How might the scroll's setting in the Tang period express ideas of an ideal past?",
+      "culture": "How does a Qing painting of Tang leisure reflect the later period's relationship to earlier traditions?",
+      "technique": "What does the use of silk and the handscroll format suggest about how and where such works were viewed?",
+      "personal": "How do you decide the pace at which to look at a long image, and how does this scroll depend on that choice?",
+      "critical": "What are the limits of using an imagined scene as evidence of how people lived in the past?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visible evidence about the scroll's idea of leisure, and what remains uncertain?",
+      "emotion": "How does the scroll's serene surface complicate any attempt to assign it a single emotion?",
+      "observation": "Describe the work's formal organization precisely. At what point does description become interpretation?",
+      "analysis": "Analyze how the scroll's sequential format shapes the viewer's relationship to its content.",
+      "line": "How does the reliance on line and wash, rather than modeling, define the work's approach to form?",
+      "shape": "How does the repetition of motifs across a continuous format create unity and variety?",
+      "color": "How might the age and fragility of silk and pigment affect the colors we see, and how should that temper interpretation?",
+      "texture": "How does the painter evoke material difference with a restricted technical vocabulary, and what does that suggest about visual conventions?",
+      "space": "How does the scroll's construction of space differ from single-viewpoint perspective, and what consequences follow for the viewer's role?",
+      "light": "How does the absence of cast shadow shape the work's mood, and what does that reveal about differing traditions of picturing light?",
+      "meaning": "Evaluate competing readings of the scroll as nostalgia for the Tang, courtly ideal or decorative entertainment. Which does the evidence best support?",
+      "culture": "How might a Qing work set in the Tang reflect cultural attitudes toward the past, and what additional evidence would you seek?",
+      "technique": "What might an unidentified artist and a silk handscroll suggest about workshop practice and the market for such works?",
+      "personal": "How does your own sense of pacing and attention shape what you notice in a sequential image?",
+      "critical": "Given an unknown artist and a date later than its subject, what standards of evidence should govern claims about this scroll's meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Birds, Cats), medium and classification (Paintings) read from the Met record: a garden leisure scene on a handscroll. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty handscroll that imagines a Tang garden. Handscrolls are viewed a section at a time rather than all at once.",
+    "vocabulary": [
+      "handscroll",
+      "Tang dynasty",
+      "Qing dynasty",
+      "silk",
+      "sequence",
+      "composition"
+    ],
+    "directions": [
+      "Have students make a mini scroll from a long strip of paper and draw a scene that unfolds across it.",
+      "Ask students to describe only one section aloud and see if others can guess the rest.",
+      "Discuss why artists painted earlier eras and compare with another artwork that looks to the past."
+    ]
+  }
+}

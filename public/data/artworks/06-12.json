@@ -1,0 +1,158 @@
+{
+  "id": "met-348593",
+  "day": "06-12",
+  "title": "Fly Fishing, Saranac Lake",
+  "artist": "Winslow Homer",
+  "date": "1889",
+  "medium": "Etching",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP119117.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP119117.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1924",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An etching of a man fly fishing from a boat on a lake, drawn in fine dark lines with trees or hills at the water's edge.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/348593",
+    "objectId": "348593",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Men, Fishing, Lakes, Boats), public-domain flag, and image URLs read from the record. Region is a well-established label for the artist and the place named in the title, not a record field."
+  },
+  "context": "An etching by the American artist Winslow Homer, dated 1889, with a title naming Saranac Lake, a lake in the Adirondack Mountains of New York. Homer is best known as a painter of outdoor life, and he also made a small number of etchings.",
+  "descriptions": {
+    "k": "A man is fishing on a lake. He is in a boat with a fishing rod. The artist drew it with many little lines. Can you find the water? What do you think the man hopes to catch?",
+    "g12": "Winslow Homer made this print of a man fishing from a boat on Saranac Lake. He drew with thin lines scratched into metal, then printed them in black ink. Look for the boat, the man, and the water. How do you think it would feel to fish here on a quiet day?",
+    "g35": "Winslow Homer was an American artist who loved painting and drawing the outdoors. In this etching from 1889, a man fishes from a boat on Saranac Lake in New York. Homer scratched his drawing into a metal plate, and acid bit the lines so they could hold ink. Look at how he uses lines for water, boat, and man. What do the lines tell you about the day?",
+    "g68": "Homer made this etching in 1889, a period when he spent time painting and sketching the outdoors in the Adirondacks and elsewhere. The title tells us the place, Saranac Lake in New York, and the activity, fly fishing. Notice how a small number of lines build water, boat, and figure, and how the empty paper can read as light or air. What does Homer seem to value about a quiet moment in nature? How does the medium of etching shape that mood?",
+    "g910": "Fly Fishing, Saranac Lake translates Homer's interest in outdoor leisure and work into the language of line. In etching, the artist draws through a protective ground and acid bites the metal; Homer's economy of marks lets blank paper suggest light and water. The 1889 date places it in a period when sport fishing was growing in popularity in the Adirondacks. Consider how the print balances human activity with the larger setting of lake and landscape, and what role quiet plays in the picture.",
+    "g1112": "Homer's etching of fishing on Saranac Lake (1889) belongs to a body of work in which he treated outdoor recreation and labor with unsentimental attention to light and weather. The medium compresses his painterly concerns into line and tone, using reserved paper to suggest sky and water. The leisure it records was increasingly associated with growing tourism to the Adirondacks, a context that adds social dimensions to what seems a simple scene. How does the image negotiate between observation, mood, and the cultural meaning of sport in nature?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the fisherman is waiting for? Tell what might happen next.",
+      "emotion": "Does the lake feel calm or busy? What do you see that tells you?",
+      "observation": "What can you find in this picture? Point to the man, the boat, and the water.",
+      "analysis": "Where do your eyes look first? Where do they go next?",
+      "line": "Find the lines that show water. Do they go up and down, or side to side? Trace them in the air.",
+      "shape": "What shape is the boat? How does it sit on the lake?",
+      "color": "This picture is only dark lines on pale paper. How does the water look without blue?",
+      "texture": "Does the water look smooth or rough in this picture? How do the lines show it?",
+      "space": "What is closest to you in the picture? What is farther away on the lake?",
+      "light": "Which parts of the print are dark and which are bright? Where do you see the sky or the sun?",
+      "meaning": "Why do you think people like to fish on a lake? What is fun or peaceful about it?",
+      "culture": "People have fished in lakes for a very long time. What do people do for fun near water where you live?",
+      "technique": "The artist drew the lines into metal and then printed them. What do you think he needed to make this picture?",
+      "personal": "Where is your favorite quiet place outdoors? What do you do there?",
+      "critical": "Is the man doing a job or relaxing? What clues in the print help you decide?"
+    },
+    "g12": {
+      "daily": "What is happening in this fishing scene? Use the man, the boat, and the water to explain.",
+      "emotion": "What mood does this lake scene give you? Which parts of the print help create it?",
+      "observation": "List four things you notice in the print, from closest to farthest.",
+      "analysis": "How does Homer help you see the man first? What does he do with the lines?",
+      "line": "Find thick lines and thin lines. Which ones show the man and which ones show the water?",
+      "shape": "Look at the shapes of the boat, the man, and the rod. How do they fit together?",
+      "color": "The print has no color. How can light and dark still show you a lake?",
+      "texture": "How do the little lines in the water make it look rippled or still?",
+      "space": "Lakes are wide and open. How does Homer show that space in a small print?",
+      "light": "Where is the paper left white or pale? What does that remind you of?",
+      "meaning": "Fishing can be work or fun. What do you think it means to the man in the boat?",
+      "culture": "Saranac Lake is in New York, in the Adirondack Mountains. Why might people have visited a place like that in the 1880s?",
+      "technique": "Homer scratched his picture into a metal plate. How is that like and unlike drawing with a pencil?",
+      "personal": "What would you want to bring if you were fishing from a boat for a day?",
+      "critical": "Does the print show the whole lake or only one small part? What might be outside the edges?"
+    },
+    "g35": {
+      "daily": "What does Homer want you to notice about the man and the lake? Support your idea with details from the print.",
+      "emotion": "What feeling do the lines of the water and boat create together?",
+      "observation": "Take a minute to look closely. What small details of the boat, rod, or water appear the longer you look?",
+      "analysis": "How does Homer arrange the boat, the man, and the water so your eyes move across the print?",
+      "line": "How do the lines for water differ from the lines for the boat and the man?",
+      "shape": "How does the long shape of the boat connect with the long, flat shape of the water?",
+      "color": "Etchings are made in one color of ink. How does Homer use dark and light to show shade and sunlight?",
+      "texture": "How does Homer suggest ripples, wood, and clothing using only lines?",
+      "space": "What clues, like size and overlapping, tell you how far across the lake the scene reaches?",
+      "light": "How does Homer use the blank paper to suggest light on the lake?",
+      "meaning": "Why might Homer choose a quiet moment of fishing instead of something dramatic?",
+      "culture": "In the late 1800s, many city people traveled to the Adirondacks to relax in nature. How is that like or unlike what people do today?",
+      "technique": "In etching, acid bites into the lines the artist scratched. Why might an artist need to plan the picture before printing?",
+      "personal": "Think of a time you spent a quiet hour outside. How would you show it using only lines?",
+      "critical": "Does a picture of a person fishing tell the whole story of the person? What else would you want to know?"
+    },
+    "g68": {
+      "daily": "How does Homer turn a simple fishing trip into a carefully built composition?",
+      "emotion": "How does the print create a mood of stillness or patience? Cite particular marks.",
+      "observation": "List what you see from foreground to background. Which parts are drawn in detail and which are suggested?",
+      "analysis": "How does Homer balance the figure and boat against the open space of the lake?",
+      "line": "How does the variety of line, from dense to sparse, shape form and mood?",
+      "shape": "How do horizontal and diagonal shapes, such as the water, boat, and fishing line, create tension and calm?",
+      "color": "Without color, how does Homer use contrasts of dark and pale to create atmosphere?",
+      "texture": "How does the printmaker suggest the different surfaces of water, wood, and clothing?",
+      "space": "How does a small print suggest a wide lake, and how does the lack of detail help?",
+      "light": "How do areas of bare paper suggest sunlight, sky, or reflection?",
+      "meaning": "What might the quiet figure in nature suggest about how Homer viewed people and the outdoors?",
+      "culture": "How did tourism and sport in the Adirondacks shape the kinds of outdoor scenes artists made in the late 1800s?",
+      "technique": "Homer is best known as a painter. How might etching change what he can express about a landscape?",
+      "personal": "What does your ideal quiet outdoor moment look like, and how would you convey it in a print?",
+      "critical": "How do we decide whether a picture like this celebrates leisure, nature, or both?"
+    },
+    "g910": {
+      "daily": "How does Homer use line and reserved paper to evoke a particular place and a particular quiet?",
+      "emotion": "How does the print generate a mood of patience and absorption without any dramatic event?",
+      "observation": "Describe the print's visual hierarchy and the devices that guide attention to the fisherman.",
+      "analysis": "Analyze the relationship between the figure and the lake in terms of scale and placement.",
+      "line": "How does Homer's economical line differentiate figure, boat, and water, and where does it become expressive rather than descriptive?",
+      "shape": "How do the long horizontals of the water and boat stabilize the composition, and what interrupts them?",
+      "color": "How does the restriction to black ink and pale paper heighten the importance of tonal contrast?",
+      "texture": "How does the etcher translate the optical qualities of water into patterns of line?",
+      "space": "How does the print produce depth with minimal detail, and what does that imply about his attention to atmosphere?",
+      "light": "How does untouched paper operate as luminous space in the print?",
+      "meaning": "How might the scene be read as a meditation on solitude, or as a record of leisure? What supports each?",
+      "culture": "How does the rise of sport fishing and Adirondack tourism contextualize the subject?",
+      "technique": "How does the discipline of etching, with its careful planning and irreversible marks, relate to the print's calm?",
+      "personal": "How does your own relationship to leisure and nature shape how you read this image?",
+      "critical": "What does the image include and exclude about who gets to enjoy leisure in nature in the 1880s?"
+    },
+    "g1112": {
+      "daily": "What can we argue about Homer's view of leisure and landscape from this print, and what is beyond the evidence?",
+      "emotion": "How does the print's restraint produce feeling, and why might attributing an emotion to the figure be risky?",
+      "observation": "Describe the print's formal construction before interpreting it. Which of your observations rely on assumptions about the setting?",
+      "analysis": "Analyze how figure, boat, and water are integrated into a unified whole by line and tone.",
+      "line": "How does the vocabulary of etched line allow Homer to translate his painterly interest in light and weather into a graphic medium?",
+      "shape": "How does the horizontal organization of the scene frame the figure's activity as part of a larger order?",
+      "color": "What does the absence of color imply about the print, and how does tonal contrast compensate for it?",
+      "texture": "Where does the print pursue naturalistic effect, and where does it rely on conventional marks?",
+      "space": "How does the print reconcile the intimacy of a single figure with the breadth of the lake?",
+      "light": "How is light constructed through absence in this print, and what does that suggest about the medium?",
+      "meaning": "Evaluate interpretations of the print as celebration of leisure, record of local work, or study of solitude. Which does the evidence best support?",
+      "culture": "How do the economics and culture of late-nineteenth-century Adirondack tourism complicate the apparent simplicity of this scene?",
+      "technique": "How does Homer's turn to etching relate to the broader late-nineteenth-century revival of the medium among American artists?",
+      "personal": "How do your own assumptions about solitude in nature shape the story you attach to this print?",
+      "critical": "What standards of evidence should we use when connecting an artist's travels to the meaning of a small print?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Men, Fishing, Lakes, Boats) read from the museum record; a recreational outdoor scene with no nudity, violence, or frightening content indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Winslow Homer is best known for paintings of outdoor life. The Met record dates this etching 1889 and its title names Saranac Lake; the tags are Men, Fishing, Lakes, Boats.",
+    "vocabulary": [
+      "etching",
+      "composition",
+      "foreground and background",
+      "reserved paper",
+      "line",
+      "Adirondacks"
+    ],
+    "directions": [
+      "Have students draw water using only three kinds of line and compare the effects.",
+      "Ask students to compare this print with a photograph of a lake and list what each shows best.",
+      "Discuss how a quiet scene can still be interesting to look at."
+    ]
+  }
+}

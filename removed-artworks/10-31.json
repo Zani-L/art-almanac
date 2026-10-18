@@ -1,0 +1,152 @@
+{
+  "id": "met-323929",
+  "day": "10-31",
+  "title": "Stamp seal (scaraboid with pointed top) with animal",
+  "artist": "Artist unknown",
+  "date": "7th–6th century BCE",
+  "medium": "Flawed neutral Chalcedony (Quartz)",
+  "movement": "Neo-Assyrian / Neo-Babylonian",
+  "region": "Mesopotamia",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/an/web-large/ss41_160_541.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/an/original/ss41_160_541.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of W. Gedney Beatty, 1941",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny pale stone seal with a rounded, slightly pointed back and a flat face carved with a single animal, a deer.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/323929",
+    "objectId": "323929",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Assyro-Babylonian), region, period (Neo-Assyrian / Neo-Babylonian), dimensions, tags (Deer, Scarabs), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tiny stamp seal of chalcedony, made in Mesopotamia in the 7th–6th century BCE. Its face is about 1.8 by 1.35 centimeters and is carved with an animal, tagged by the museum as a deer. The scaraboid shape is named for its likeness to the scarab beetle seals of Egypt.",
+  "descriptions": {
+    "k": "This is a tiny stone stamp. It is smaller than a coin. An animal is carved on its flat bottom. It looks like a deer. If you pressed it in clay, what picture would you get?",
+    "g12": "This tiny stone seal was made in Mesopotamia about 2,600 years ago. Its top is rounded, and its flat bottom has a deer carved into it. People pressed seals like this into clay to make a mark. It is smaller than a coin. Why might someone pick a deer for their mark?",
+    "g35": "This stamp seal was carved in Mesopotamia in the 7th to 6th century BCE. Its flat face is only about 1.8 by 1.35 centimeters, yet the carver fit an animal, a deer, into it. The shape is called scaraboid because it resembles the beetle-shaped scarab seals of Egypt. A stamp seal was pressed into clay, not rolled like a cylinder. The stone is chalcedony, a kind of quartz. How can a very small carving still tell a clear story?",
+    "g68": "This scaraboid stamp seal, from Mesopotamia in the 7th to 6th century BCE, is made of chalcedony, a hard quartz. Its flat face, about 1.8 by 1.35 centimeters, carries a carved deer. Unlike a cylinder seal, a stamp seal makes one picture when pressed into clay, so the design must work as a single image in a tiny space. The carving is cut in reverse so it prints the right way. How does the carver turn a small oval into a balanced design, and what might a deer have meant to its owner?",
+    "g910": "Made in Mesopotamia in the 7th to 6th century BCE, this scaraboid stamp seal is shaped like an Egyptian scarab beetle but carries a deer on its flat face, showing how forms traveled between cultures. Chalcedony is hard, so carving fine detail required patience and skill. The design is cut in reverse so that pressing it into clay yields a positive image. The record describes the culture as Assyro-Babylonian, a label that reflects overlapping traditions. How does reduction to a single animal in a small oval affect the image's clarity and meaning?",
+    "g1112": "This stamp seal, dated to the 7th–6th century BCE, belongs to a period when Neo-Assyrian and Neo-Babylonian traditions overlapped, which is why the museum uses the label Assyro-Babylonian. Its scaraboid form recalls Egyptian scarabs, suggesting wide exchange of shapes, while the deer on its face is a Mesopotamian subject. Like many small seals, it was both an administrative tool and a personal emblem, though its owner and exact use are unknown. How do we read an image when the only evidence is the object itself and comparisons with similar seals?"
+  },
+  "questions": {
+    "k": {
+      "daily": "A deer is carved on this tiny stone. What do you think the deer is doing?",
+      "emotion": "Does the deer look calm, shy, or ready to run? What shows it?",
+      "observation": "Find the deer's body. What parts of the deer can you see?",
+      "analysis": "The deer is small, but your eyes find it. What helps it stand out on the stone?",
+      "line": "Trace the deer's shape in the air with your finger. Is the line smooth or bumpy?",
+      "shape": "The stone's face is an oval. How does the deer fit inside that shape?",
+      "color": "The stone is a pale kind of quartz. What colors do you see in it?",
+      "texture": "The stone is hard and smooth. How do you think it would feel in your palm?",
+      "space": "The seal is smaller than a coin. How can such a little stone hold a whole animal?",
+      "light": "Light can shine into this stone a little. Where does it look lighter or darker?",
+      "meaning": "Why might someone choose a deer to be their special mark?",
+      "culture": "People in Mesopotamia pressed stamps into clay. What do you stamp or sign to show something is yours?",
+      "technique": "A carver cut a deer into hard stone with tiny tools. What do you think makes that hard?",
+      "personal": "What animal would you carve on a tiny stamp for yourself?",
+      "critical": "The carver left some parts of the stone plain. How does that help us see the deer?"
+    },
+    "g12": {
+      "daily": "How does the carver show a whole deer on a stone smaller than a coin? Point to the details.",
+      "emotion": "What mood does the lone deer have, peaceful or alert? Which details help you decide?",
+      "observation": "Describe the deer. What parts of its body and legs can you find?",
+      "analysis": "How is the deer placed on the oval face? Does it fill the space?",
+      "line": "Find curved lines that make the deer's back and legs. How do they show an animal standing or moving?",
+      "shape": "The seal has a rounded top and an oval face. How do those shapes help it fit in a hand?",
+      "color": "Chalcedony is a kind of quartz. How would its color change how the carving looks?",
+      "texture": "The top of the seal is rounded and the face is carved. How do the two parts differ?",
+      "space": "A flat face holds a flat picture. How does the carver suggest the deer has a body?",
+      "light": "Where does light show the carved lines best?",
+      "meaning": "A deer is a quick, gentle animal. Why might that make a good mark for a person?",
+      "culture": "A seal was pressed in clay to show who owned something. How do people show ownership today?",
+      "technique": "Chalcedony is very hard. Why would carving it take a lot of time?",
+      "personal": "If you had a stamp, what picture would you want it to print?",
+      "critical": "The seal is shaped like a beetle but has a deer on it. Why might the maker mix ideas?"
+    },
+    "g35": {
+      "daily": "What details of the deer tell you the carver observed animals closely? Use evidence from the carving.",
+      "emotion": "What feeling does a single, still deer give you? Which details support your idea?",
+      "observation": "Look closely at the face of the seal. What small details of the deer can you find?",
+      "analysis": "How does the carver place the deer to use the whole oval face?",
+      "line": "How do carved lines show the deer's neck, body, and legs?",
+      "shape": "How does the shape of the seal's face affect the shape of the deer's pose?",
+      "color": "Chalcedony is often pale and a little cloudy. How might that affect the way the carving shows?",
+      "texture": "Compare the smooth, rounded back of the seal with the carved flat face. How might each feel?",
+      "space": "The deer is carved into a flat surface. How does the carver suggest space around it?",
+      "light": "How do shadows in the carved lines help the deer stand out?",
+      "meaning": "Why might a person choose a deer as a personal emblem, and what other animals might they choose?",
+      "culture": "The seal's shape is named after Egyptian scarabs. What does that tell you about contact between cultures?",
+      "technique": "A stamp seal prints one picture, not a repeating band. How would that change the way a carver plans a design?",
+      "personal": "What simple picture could stand for you on a note or package?",
+      "critical": "The record calls the culture Assyro-Babylonian. Why might museums use a combined label?"
+    },
+    "g68": {
+      "daily": "How does the carver make a single animal into a complete and memorable design on a tiny oval?",
+      "emotion": "What attitude does the deer's posture suggest, and which details support your idea?",
+      "observation": "List the features of the deer and the seal's shape. Which details are most carefully carved?",
+      "analysis": "How does the composition use empty space around the deer?",
+      "line": "How does incised line define the deer's anatomy at such a small scale?",
+      "shape": "How does the carver adapt a natural animal form to the oval face?",
+      "color": "How does the natural color of chalcedony contribute to the seal's character?",
+      "texture": "How do the polished surface of the stone and the cut carving create contrast?",
+      "space": "How does a design made for a stamp differ in space from a rolled cylinder design?",
+      "light": "How does raking light improve a viewer's ability to see a shallow carving?",
+      "meaning": "What might a deer have symbolized, such as speed, grace, or hunting game? How would you tell?",
+      "culture": "How do shared forms like the scaraboid show how ideas moved around the ancient Near East?",
+      "technique": "Why does a hard stone like chalcedony demand different tools and patience than soft stone?",
+      "personal": "How do you decide on a symbol or logo that is small but meaningful?",
+      "critical": "What does the title's plain label with animal reveal, and what does it leave out?"
+    },
+    "g910": {
+      "daily": "How does the carver balance naturalism and economy in a single animal image?",
+      "emotion": "How does the isolation of one deer create a mood of stillness or alertness?",
+      "observation": "Describe the visual hierarchy within the tiny oval. What draws attention first?",
+      "analysis": "Analyze how the deer's posture and the oval frame interact.",
+      "line": "How does the incised contour create legibility on a hard, tiny surface?",
+      "shape": "How does the carver abstract the deer's anatomy to fit the format?",
+      "color": "How might the translucent look of chalcedony affect how its carving is read?",
+      "texture": "How do different surface treatments, polished and cut, contribute to the seal's function?",
+      "space": "How does a single motif use negative space within the oval?",
+      "light": "How does carving depth determine the clarity of the impression?",
+      "meaning": "Which interpretations of the deer rely on comparison with other seals and which are guesses?",
+      "culture": "What does the scarab-like form tell us about cross-cultural exchange in the first millennium BCE?",
+      "technique": "What does carving chalcedony reveal about the technology of stone working at that time?",
+      "personal": "How do you think a small personal emblem can express identity differently from a large public image?",
+      "critical": "How does the label Assyro-Babylonian reflect scholars' attempts to describe overlapping traditions?"
+    },
+    "g1112": {
+      "daily": "What can this seal's single image tell us, and what depends on comparison with other seals and texts?",
+      "emotion": "How can an animal image on a tiny object evoke feeling, and how careful should we be with projecting emotion onto ancient imagery?",
+      "observation": "Describe the seal's form and image with precision. Which details are secure from the record?",
+      "analysis": "Analyze how a single-motif design makes use of a stamp's format.",
+      "line": "How does incision on hard stone constrain the line of the deer?",
+      "shape": "How does stylization of the deer reflect conventions of seal carving in this period?",
+      "color": "How does the natural variety of chalcedony affect the way modern viewers perceive the carving?",
+      "texture": "What does the interplay of polish and carving suggest about the seal's handling?",
+      "space": "How does a stamp seal complicate the idea of a picture's frame?",
+      "light": "How does museum photography shape what we can see in a tiny intaglio?",
+      "meaning": "Evaluate readings of the deer as emblem of its owner, a protective image, or a decorative motif. What evidence would help?",
+      "culture": "How does a scaraboid shape in Mesopotamia complicate neat divisions between Egyptian and Mesopotamian art?",
+      "technique": "What might the survival of such seals say about production, trade, and reuse?",
+      "personal": "How does your own sense of what a personal symbol should look like shape your reading of this seal?",
+      "critical": "How should museums label objects whose cultures blend, and what do labels risk hiding?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, object name (Stamp seal), medium, culture, period and tags (Deer, Scarabs) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tiny Mesopotamian stamp seal of the 7th–6th century BCE, shaped like a scarab but carved with a deer. Its face is about 1.8 by 1.35 centimeters. The label Assyro-Babylonian reflects overlapping traditions.",
+    "vocabulary": ["stamp seal", "scaraboid", "chalcedony", "intaglio", "Mesopotamia", "emblem"],
+    "directions": [
+      "Have students carve a simple animal into a potato or eraser and stamp it in clay or ink, noticing that the print is reversed.",
+      "Compare a stamp seal with the cylinder seals in the archive and discuss one picture versus a repeating band.",
+      "Discuss why a small stone could serve as an owner's signature."
+    ]
+  }
+}

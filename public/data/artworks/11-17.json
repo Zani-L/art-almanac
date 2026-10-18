@@ -1,0 +1,158 @@
+{
+  "id": "met-309304",
+  "day": "11-17",
+  "title": "Stirrup Spout Bottle with Cat",
+  "artist": "Artist unknown (Moche)",
+  "date": "4th–7th century",
+  "medium": "Ceramic, slip",
+  "region": "Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/65.266.6.JPG",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/65.266.6.JPG",
+    "credit": "The Metropolitan Museum of Art, Gift of Nathan Cummings, 1965",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A clay bottle from ancient Peru with a cat as part of its shape. A looped handle rises from the vessel and ends in a single spout, in the form known as a stirrup spout.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/309304",
+    "objectId": "309304",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture (Moche), country (Peru), date, medium, classification (Ceramics-Containers), public-domain flag, credit line, tag (Cats), and image URLs read from the record"
+  },
+  "context": "A ceramic bottle made by Moche artists on the north coast of Peru, dated by the Met to the 4th through 7th century. The Moche made many vessels in the shapes of animals, people, and plants, and the stirrup-shaped spout is typical of the region.",
+  "descriptions": {
+    "k": "This is a clay bottle made in Peru a very long time ago. It has a cat on it! There is a loop on top with a spout. What would you pour from a bottle like this? Can you find the cat?",
+    "g12": "People called the Moche made this clay bottle in Peru long ago. A cat is part of the bottle's shape. On top is a loop that ends in a spout, like a stirrup on a horse. Why would an artist turn a bottle into a cat? What do you notice about the cat's face and body?",
+    "g35": "The Moche lived on the coast of Peru and made clay vessels in the shapes of animals, people, and plants. This bottle has a cat and a looped handle with a single spout, called a stirrup spout. The artist used slip, a runny mixture of clay and water, to add color and patterns. Look at how the cat and the useful bottle fit together. Why might the Moche have liked animal-shaped vessels?",
+    "g68": "Moche potters made lively vessels like this bottle in the shape of a cat, and the stirrup spout is one of the best-known features of ancient Peruvian pottery. Slip, a liquid clay, was used to add color and detail. Animals appear often in Moche art and may have had meanings that scholars are still studying. What do the cat's form and the bottle's practical spout suggest about the role of art in daily or ceremonial life?",
+    "g910": "This Moche vessel merges sculpture and function: a cat shapes the body of a bottle, and a stirrup-shaped handle with a single spout provides a way to hold and pour. Slip decoration adds color and linear detail. Because the Moche left no deciphered writing, scholars interpret their art through the objects themselves and through archaeology. Consider how the form balances realism and stylization, and what questions the cat raises about the animal's role in Moche life.",
+    "g1112": "As a Moche stirrup-spout bottle shaped like a cat, this vessel combines sculptural modeling, slip painting, and a distinctive pouring form. Moche ceramics are central evidence for a society without deciphered writing, so interpretations of animals, including felines, depend on comparison across objects and on archaeological context, and they remain debated. The Met dates the bottle broadly to the 4th through 7th century, which cautions against precise claims. What can the object's form, surface, and function support, and what must stay open?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the cat on this bottle? Show me with your finger.",
+      "emotion": "Does the cat look friendly, sleepy, or serious? Show with your face.",
+      "observation": "Find the loop and the spout. What does the loop look like?",
+      "analysis": "What part of the bottle do your eyes see first? Why?",
+      "line": "Find a curved line on the bottle. Trace it in the air.",
+      "shape": "This bottle has round shapes and a loop. Which shapes can you find?",
+      "color": "What colors did the artist use on the bottle? Which is your favorite?",
+      "texture": "Is the bottle smooth or rough? How might it feel in your hands?",
+      "space": "Hold your hands like the bottle. Where is the cat and where is the spout?",
+      "light": "Where does the light shine on the bottle? Where does it look dark?",
+      "meaning": "What do you think someone kept in a bottle like this?",
+      "culture": "This bottle was made in Peru a very long time ago. What things at home are shaped like animals?",
+      "technique": "The artist shaped clay with their hands. How would you make a cat from clay?",
+      "personal": "If you could make a bottle in the shape of an animal, which would you choose?",
+      "critical": "Why might someone make a bottle shaped like a cat instead of a plain bottle?"
+    },
+    "g12": {
+      "daily": "How does the artist turn a bottle into a cat?",
+      "emotion": "Does the cat seem playful, calm, or watchful? Point to what shows it.",
+      "observation": "Describe the cat and the loop-shaped handle. Which part has the most detail?",
+      "analysis": "How are the cat and the spout joined together as one object?",
+      "line": "Where do you see painted lines or patterns on the bottle? What do they add?",
+      "shape": "How does the loop on top look next to the round body of the cat?",
+      "color": "Which colors are used for the cat and which for the rest of the bottle?",
+      "texture": "Which parts of the bottle look smooth? Which parts look carved or marked?",
+      "space": "If you walked around this bottle, what parts do you think you would see from behind?",
+      "light": "Which parts of the cat catch the light? Which are in shadow?",
+      "meaning": "Why might the Moche people have wanted a cat on a bottle?",
+      "culture": "The Moche lived in Peru and made many animal-shaped bottles. What does that tell you about the animals they noticed?",
+      "technique": "The artist painted the clay with slip, a runny mix of clay and water. Where do you think slip was used?",
+      "personal": "What object in your home would you turn into an animal shape?",
+      "critical": "Is this bottle more of a useful object or a piece of art? Explain with clues you see."
+    },
+    "g35": {
+      "daily": "How does the artist combine a useful bottle with a lively cat in one object?",
+      "emotion": "What mood or personality does the cat have? Which details support your idea?",
+      "observation": "Take a quiet minute to find all the details on the cat's face and body. What did you notice?",
+      "analysis": "How does the stirrup handle and spout relate to the shape of the cat below it?",
+      "line": "What do painted lines add to the cat's face, body, or markings?",
+      "shape": "How do the loop of the handle and the rounded cat form create a balanced shape?",
+      "color": "How does slip color help separate the cat's features from the rest of the bottle?",
+      "texture": "How might the smooth clay and painted details feel different from one another?",
+      "space": "This bottle is three-dimensional. How is looking at it different from looking at a flat painting?",
+      "light": "How do light and shadow help show the cat's rounded forms?",
+      "meaning": "Animals appear often in Moche art. What might that tell us about what mattered to the people who made this?",
+      "culture": "The Moche lived on the coast of Peru long ago. Why might a bottle with an animal on it have been valued?",
+      "technique": "Moche potters used slip to add color and detail. How does that technique help an artist show a cat's markings?",
+      "personal": "Think of an everyday object that has a design from nature. Why might designers use animals?",
+      "critical": "We cannot read Moche writing, so we study their objects. What can this bottle tell us, and what can it not tell us?"
+    },
+    "g68": {
+      "daily": "How does the form of this bottle blend sculpture, painting, and practical use?",
+      "emotion": "What attitude or character does the cat have, and which choices suggest it?",
+      "observation": "Describe the bottle from the spout down to the cat. Which details seem most carefully made?",
+      "analysis": "How does the stirrup spout work with the cat's form to create a unified object?",
+      "line": "How do painted or incised lines define the cat's features and give the surface rhythm?",
+      "shape": "How do the loop and the rounded body of the cat contrast, and how do they balance?",
+      "color": "How might slip colors create contrast and make important parts of the cat stand out?",
+      "texture": "How does the maker vary surface, such as smooth areas and detailed areas, to show form?",
+      "space": "As a sculptural vessel, how does the bottle ask the viewer to move around it?",
+      "light": "How does the rounded form catch light, and how does that give the cat volume?",
+      "meaning": "Scholars are still studying what animals meant to the Moche. Why is it risky to assume one meaning for the cat?",
+      "culture": "How might ceramics have played a role in Moche daily or ceremonial life?",
+      "technique": "How might shaping clay and adding slip allow potters to produce both a useful container and a detailed animal?",
+      "personal": "How does an object that is both useful and beautiful change the way you think about everyday things?",
+      "critical": "How can we learn about a culture without deciphered writing? What are the limits?"
+    },
+    "g910": {
+      "daily": "How do the sculptural, painted, and functional aspects of this bottle work together?",
+      "emotion": "How does the vessel give the cat a sense of presence and character within a utilitarian form?",
+      "observation": "Describe the vessel's visual hierarchy. What do you notice first, and which devices produce that effect?",
+      "analysis": "How does the stirrup spout structure the bottle's silhouette and relate to the animal form?",
+      "line": "How do painted and modeled lines clarify the cat's features while decorating the surface?",
+      "shape": "How does the contrast between the open loop and solid animal mass create balance?",
+      "color": "How might the use of slip color and contrast highlight the cat's features?",
+      "texture": "How do variations in surface treatment articulate different parts of the cat?",
+      "space": "How does the bottle's three-dimensionality shape the viewer's experience compared with a flat image?",
+      "light": "How does the rounded modeling catch light to emphasize the cat's volume?",
+      "meaning": "What might it mean that a feline, an animal often present in Moche imagery, was turned into a pouring vessel, and where does that interpretation become speculative?",
+      "culture": "How does this vessel reflect the importance of ceramic art in a society that did not leave deciphered writing?",
+      "technique": "How do slip decoration and the form of a stirrup spout show the technical sophistication of Moche potters?",
+      "personal": "How does an animal-shaped container change the way we relate to the thing it holds?",
+      "critical": "What risks arise in using modern ideas about cats to interpret an ancient Moche object?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the form, surface, and function of this bottle, and what must remain uncertain?",
+      "emotion": "How does the fusion of animal and vessel affect the viewer's sense of the cat's presence or character?",
+      "observation": "Describe the vessel's formal construction with precision. At what point does description begin to imply interpretation?",
+      "analysis": "Analyze how the stirrup spout and sculpted cat form a single composition that is both useful and expressive.",
+      "line": "How does the interplay of modeled contour and applied slip lines generate both clarity and decoration?",
+      "shape": "How does the negative space of the stirrup loop interact with the solid mass of the animal form?",
+      "color": "How might slip color have worked within Moche visual codes, and how might age and burial affect what we see today?",
+      "texture": "How does the manipulation of surface within the same material produce differences between functional and expressive areas?",
+      "space": "How does the object's three-dimensionality shape its possible modes of display, handling, and use?",
+      "light": "How does the object's modeling interact with light to create a changing appearance as the viewer moves?",
+      "meaning": "Evaluate readings of the cat as a symbol, a portrait of a real animal, or a decorative motif. Which, if any, can the evidence support?",
+      "culture": "How do scholars use ceramics to understand a culture without deciphered writing, and what are the limits of such inference?",
+      "technique": "What do the stirrup form and slip decoration suggest about the organization and skills of Moche workshops?",
+      "personal": "How does your own relationship to cats shape what you notice here, and where might it distort your reading of an ancient object?",
+      "critical": "Given the Met's broad date range, what standards of evidence should govern claims about this bottle's specific use or meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ceramics-Containers), culture (Moche), country (Peru), and tag (Cats) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Moche ceramic bottle with a cat, from the north coast of Peru and dated by the Met to the 4th through 7th century. The Moche did not leave deciphered writing, so objects like this are key evidence.",
+    "vocabulary": [
+      "Moche",
+      "stirrup spout",
+      "slip",
+      "ceramic",
+      "vessel",
+      "sculpture"
+    ],
+    "directions": [
+      "Have students shape a small clay animal that also works as a container, then explain which parts are decoration and which are functional.",
+      "Discuss what we can and cannot know about a culture from its objects alone.",
+      "Compare this animal-shaped vessel with another vessel in the archive."
+    ]
+  }
+}

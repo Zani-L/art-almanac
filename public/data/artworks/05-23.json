@@ -1,0 +1,158 @@
+{
+  "id": "met-435774",
+  "day": "05-23",
+  "title": "A Peasant Girl Knitting",
+  "artist": "Jules Breton",
+  "date": "ca. 1870",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23347-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-23347-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An oil painting of a young girl from the countryside absorbed in knitting, her hands busy with needles and yarn.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435774",
+    "objectId": "435774",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Girls, Knitting), classification (Paintings) and image URLs read from the record; the record gives no country, so France rests on Breton's well-established nationality"
+  },
+  "context": "An oil painting from about 1870 by Jules Breton, a French painter known for scenes of rural life. The record's tags list a girl and knitting.",
+  "descriptions": {
+    "k": "A girl is knitting. Her hands are busy with yarn and needles. She is looking at her work. What do you think she is making? Can you pretend to knit with your hands?",
+    "g12": "A young girl in the countryside of France is knitting. Jules Breton painted her long ago. Her hands and her eyes are busy with the work. Look at her clothes and her face. What do you think she is making, and who might it be for?",
+    "g35": "Jules Breton painted people of the French countryside and the work they did. Here a girl is knitting, which means making cloth from yarn with needles. Look closely at her hands and face. What does the way she holds herself tell you about her mood? Why might a painter choose to show an ordinary, quiet task?",
+    "g68": "Breton, a French painter of rural life, made this image of a girl knitting around 1870. Instead of a grand story, the painting gives dignity to a small, steady task. Pay attention to how the figure is posed and lit, and to what the painter chooses to emphasize: hands, face or clothing. Why might city buyers in the 1800s have liked pictures of country work? What might such images leave out?",
+    "g910": "A Peasant Girl Knitting reflects a nineteenth-century taste for idealized rural labor. Breton, trained in the academic tradition, presents a quiet task with careful drawing and a calm, composed figure. Consider how pose, light and focus on the hands elevate everyday work. Critics have long debated whether such paintings honor country people or romanticize them. What does this image invite you to feel, and what does it keep out of view?",
+    "g1112": "Breton's painting belongs to the nineteenth-century vogue for scenes of rural life, shaped by academic training and an urban market. Its calm figure and focus on work can be read as respect for labor, as nostalgia for a simplified countryside, or as a refined image made for patrons far from the fields. These readings coexist, and the picture alone cannot settle them. How do pose, handling and subject support each, and what outside evidence would help you decide?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this girl is making with her yarn?",
+      "emotion": "Does she look happy, sleepy, or busy? What do you see that shows you?",
+      "observation": "Find her hands. What are they holding?",
+      "analysis": "Where do your eyes go first? What helps your eyes go there?",
+      "line": "Can you find a line that goes from her face to her hands? Trace it.",
+      "shape": "What shape does her whole body make? Is it round, tall, or small?",
+      "color": "What colors are in her clothes? Which one is your favorite?",
+      "texture": "How would the yarn feel in your fingers? How would her clothes feel?",
+      "space": "Is the girl close to you or far away? What else is in the picture?",
+      "light": "Which part of the girl is brightest? Why do you think so?",
+      "meaning": "Who do you think the knitting might be for?",
+      "culture": "People knitted warm things long ago in France. What warm things do you wear?",
+      "technique": "This is a painting made with oil paint. How do you think the artist made her face look real?",
+      "personal": "What do you like to make with your hands?",
+      "critical": "What would you ask the girl if she could talk?"
+    },
+    "g12": {
+      "daily": "What do you think the girl is thinking about while she works? Use her face and pose to explain.",
+      "emotion": "What mood does the painting have: peaceful, sad, or proud? Point to something that shows it.",
+      "observation": "Describe three things about the girl: her clothes, her hands, and her face.",
+      "analysis": "How does the painter make you look at her hands and face? What helps?",
+      "line": "Find the curved lines in her pose. How do they make her seem calm?",
+      "shape": "Look at the shape her body makes. Does it feel steady or ready to move?",
+      "color": "Name the colors in her clothing. Are they bright or soft? How do they make you feel?",
+      "texture": "Which parts of the painting look soft, like wool or cloth? How can you tell?",
+      "space": "What is in front and what is behind the girl? How does the painter show it?",
+      "light": "Where does the light fall on her? How does it help you see her face?",
+      "meaning": "Why might a painter show a girl doing a small, quiet job instead of something exciting?",
+      "culture": "Knitting was a common skill in many places in the 1800s. Why do you think so many people learned it?",
+      "technique": "A painter uses small brush strokes to paint wool and skin differently. Where can you find a difference?",
+      "personal": "What task do you do slowly and carefully? How does it make you feel?",
+      "critical": "Do you think this girl is posing for the painter or working as usual? Why?"
+    },
+    "g35": {
+      "daily": "What story could you tell about this girl and her knitting? Use details from the painting.",
+      "emotion": "How do the girl's pose and expression set the mood of the painting?",
+      "observation": "After a minute of silent looking, what small detail in her clothing or hands did you notice last?",
+      "analysis": "How does Breton draw your eye to the girl's face and hands?",
+      "line": "How do the curves of her arms, shoulders and clothing guide your eyes around the figure?",
+      "shape": "How does the overall shape of the girl's figure help make the painting feel calm?",
+      "color": "How do the colors of her clothes and the background work together to set the mood?",
+      "texture": "How does the painter make skin, cloth and yarn look different from each other?",
+      "space": "How does Breton place the girl in the picture space so she feels close and personal?",
+      "light": "How does the light shape her face and clothing, and what mood does it create?",
+      "meaning": "What might the painting suggest about the value of ordinary work?",
+      "culture": "Breton painted people of the French countryside. What might a painting like this tell us about their daily lives, and what might it leave out?",
+      "technique": "Oil paint can be blended smoothly. Where do you see smooth blending in this painting?",
+      "personal": "Think of a skill you learned from someone older. How is it like the girl's knitting?",
+      "critical": "Is the painter showing the girl as she really was, or as an idea of a country girl? What clues support your view?"
+    },
+    "g68": {
+      "daily": "How does Breton make a simple moment of work into a painting worth looking at closely?",
+      "emotion": "How does the painter create a calm, absorbed mood without any action or story?",
+      "observation": "List the details of the girl's clothing, pose and expression. Which seem most carefully chosen?",
+      "analysis": "How does the composition place the girl and focus on her hands and face?",
+      "line": "How do the soft curves of the girl's figure and the straighter lines of her work create a quiet balance?",
+      "shape": "How does the figure's overall shape make her seem stable and self-contained?",
+      "color": "How do restrained colors support the peaceful tone, and where does the painter allow a brighter note?",
+      "texture": "How does Breton paint skin, cloth and wool differently to make them convincing?",
+      "space": "How does the amount of space around the girl affect how close or private the scene feels?",
+      "light": "How does the painter use light to shape the figure and set the emotional tone?",
+      "meaning": "How might a picture of a girl knitting express ideas about patience, skill or the value of work?",
+      "culture": "Why might city buyers in the 1800s have wanted paintings of rural life?",
+      "technique": "How does academic training show in the careful drawing and smooth finish of the figure?",
+      "personal": "How does the painting make you think about work you do that nobody else notices?",
+      "critical": "How might this image differ from the real experience of a girl doing farm and household work?"
+    },
+    "g910": {
+      "daily": "How does the painting dignify an ordinary task through pose, light and focus?",
+      "emotion": "How does Breton create emotional tone through restraint and focus rather than drama?",
+      "observation": "In this painting of a girl at her handwork, what do you notice first, and which choices of light, pose or focus steer you there?",
+      "analysis": "Analyze how the arrangement of figure, pose and light supports the painting's calm purpose.",
+      "line": "How does the quality of line and contour reflect academic drawing, and how does it give the figure stability?",
+      "shape": "How does the silhouette of the figure create a compact, self-contained form?",
+      "color": "How does a restrained palette support the painting's idealized, composed mood?",
+      "texture": "How does the painter distinguish skin, fabric and handwork through handling and tone?",
+      "space": "How does the figure's position in the picture space relate her to the viewer?",
+      "light": "How does the treatment of light model form and contribute to the painting's mood?",
+      "meaning": "How might the painting present rural labor as virtue, and where does that become a romantic view?",
+      "culture": "How does the painting reflect nineteenth-century urban tastes for pictures of country life?",
+      "technique": "What does the smooth finish tell you about the painter's training and the market he worked for?",
+      "personal": "How do your own ideas about work shape how you read a painting that honors quiet labor?",
+      "critical": "Does the painting honor country people or romanticize them? What evidence from the picture supports each view?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about how the painting treats labor, and what remains uncertain?",
+      "emotion": "How does the figure's composed absorption complicate any attempt to name a single emotion in the painting?",
+      "observation": "Describe the painting's formal construction with precision. Where does careful description become interpretation?",
+      "analysis": "Analyze how pose, light and focus on handwork produce the painting's mood.",
+      "line": "How does the academic emphasis on controlled contour and modeling shape the figure's presence?",
+      "shape": "How does the figure's compact form produce both stability and a sense of enclosure?",
+      "color": "How might the work's age affect the color we see, and how should that temper interpretation?",
+      "texture": "How does the painter's technique simulate different materials, and what does that say about illusion in academic painting?",
+      "space": "How does the treatment of space position the viewer in relation to the figure, and what ethical questions does that raise about looking at laboring people?",
+      "light": "In what ways does light function as both description and a device for idealizing the figure?",
+      "meaning": "Evaluate competing readings of the work as respect for labor, nostalgia, or a product for urban patrons. Which is best supported by the evidence?",
+      "culture": "How does the painting relate to the nineteenth-century market for rural subjects, and what further evidence would test that link?",
+      "technique": "What does the finish suggest about studio practice and the expectations of exhibition painting in the period?",
+      "personal": "How does your own distance from or closeness to manual work shape how you read this painting?",
+      "critical": "What responsibilities do we have when reading images made by one social group about another's labor?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Girls, Knitting), medium and classification (Paintings) read from the Met record: a girl doing handwork. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Jules Breton was a French painter of rural life. Pictures like this were popular with nineteenth-century buyers and are sometimes seen as idealizing country labor.",
+    "vocabulary": [
+      "genre painting",
+      "academic painting",
+      "idealize",
+      "oil paint",
+      "modeling",
+      "labor"
+    ],
+    "directions": [
+      "Ask students to mime the girl's pose and describe how it feels to hold it.",
+      "Have students debate whether the painting honors work or romanticizes it, using visual evidence.",
+      "Compare with another work in the archive that shows labor and discuss who the picture was made for."
+    ]
+  }
+}

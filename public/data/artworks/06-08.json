@@ -1,0 +1,158 @@
+{
+  "id": "met-205102",
+  "day": "06-08",
+  "title": "Parure",
+  "artist": "Artist unknown",
+  "date": "ca. 1840–50",
+  "medium": "Gold, enamel, and glass paste",
+  "region": "Switzerland (probably)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/DP-35014-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/DP-35014-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of the Robert and Hermine Popper Foundation Inc., 1969",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A matching set of gold jewelry laid out together against a plain background, including a necklace, a choker, a brooch, and earrings, decorated with enamel and glass stones.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/205102",
+    "objectId": "205102",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, dimensions, credit line, classification, public-domain flag, image URLs) and the Met object page (culture 'probably Swiss', list of components)"
+  },
+  "context": "A parure is a matching set of jewelry worn together. This one, made about 1840–50 and described by the Met as probably Swiss, includes a necklace, a choker, a brooch, a pair of earrings, a buckle, and a choker ornament with attachments, made of gold, enamel, and glass paste.",
+  "descriptions": {
+    "k": "A parure is a set of jewels that match. This set has a necklace, earrings, a brooch, and more. They are made of gold, colored glass, and shiny stones. Can you find two pieces that look alike?",
+    "g12": "This is a parure, a set of jewelry made to be worn together. It has a necklace, a choker, a brooch, earrings, a buckle, and a decoration for the choker. They are made of gold, enamel, and glass. Look for the parts that match. How do they make the set feel like one family?",
+    "g35": "A parure is a matching set of jewelry. This one was probably made in Switzerland around 1840 to 1850. It includes a necklace that is about 42 centimeters long, a choker, a brooch, earrings, a buckle, and a choker ornament. The pieces are gold, enamel, and glass paste, which is glass made to look like gems. What patterns repeat among the pieces?",
+    "g68": "A parure was designed so all the pieces looked like members of one family, with repeated materials, colors, and motifs. This set, probably Swiss and made about 1840 to 1850, includes a necklace, choker, brooch, earrings, buckle, and choker ornament in gold, enamel, and glass paste. Glass paste imitates gemstones at a lower cost. How does the set create unity while giving each piece its own job?",
+    "g910": "This parure of about 1840 to 1850 shows how jewelry could be planned as an ensemble. Gold provides structure, enamel adds color, and glass paste supplies the sparkle of gems, so each piece shares a visual language while serving a different part of the body. The set demonstrates that status and fashion could be communicated through design rather than only through precious stones. Consider how repetition creates unity and how the set might have been worn.",
+    "g1112": "As an ensemble of at least six components, this probably Swiss parure illustrates how nineteenth-century jewelry was conceived as a system. Repetition of materials and motifs unifies necklace, choker, brooch, earrings, and buckle, while glass paste raises questions about value, imitation, and display, since it offers the look of gems without their cost. The Met's record does not tell us who wore it. How do sets like this reveal fashion, class, and ideas of authenticity in the mid-nineteenth century?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Pretend you are dressing for a party and you can wear every piece in this set. Where would each piece go?",
+      "emotion": "Do these jewels make you feel fancy, shy, or sparkly? Why?",
+      "observation": "Count how many different pieces you can find in the set. Which is your favorite?",
+      "analysis": "Which piece of the set do your eyes go to first? Why do you think so?",
+      "line": "Trace the curve of the necklace with your finger. How does it hang?",
+      "shape": "Find a piece that is long and a piece that is small and round. What other shapes do you see?",
+      "color": "Which colors do you see in the set besides gold?",
+      "texture": "Gold is smooth and glass stones are shiny. Which would feel colder?",
+      "space": "Some pieces go around the neck and some go on the ears. Which pieces hang down and which sit flat?",
+      "light": "Where do the jewels sparkle the most?",
+      "meaning": "Why might someone want jewels that all match?",
+      "culture": "This set was probably made in Switzerland almost 200 years ago. What matching sets do you know, like uniforms or outfits?",
+      "technique": "Someone made each tiny piece by hand. Which part do you think took the longest?",
+      "personal": "If you could make a set of matching things, what would you choose?",
+      "critical": "Is it better for jewelry to match or to be all different? Tell why."
+    },
+    "g12": {
+      "daily": "If you wore this whole set, which piece would you notice first on yourself and why?",
+      "emotion": "How does a full set of matching jewels make you feel?",
+      "observation": "Describe five pieces in the set and one detail on each.",
+      "analysis": "What repeated parts help you see that these pieces belong together?",
+      "line": "Find swirling lines and straight lines among the pieces. Where do they repeat?",
+      "shape": "Look at the earrings and the brooch. What shapes do they share with the necklace?",
+      "color": "Gold, enamel colors, and glass sparkle are used together. How do they make the set feel rich?",
+      "texture": "Enamel is smooth like glass. Which parts look smooth and which look like they have small bumps?",
+      "space": "The set goes from the neck to the ears to the clothing. How does it fill the space around a person?",
+      "light": "Imagine candlelight on this set. Which parts would glow and which would sparkle?",
+      "meaning": "Why did people wear sets of jewelry to special events?",
+      "culture": "The Met says this set is probably Swiss and from about 1840 to 1850. What does a parure tell us about fashion then?",
+      "technique": "Glass paste is glass made to look like gems. Why might a maker use it instead of real gems?",
+      "personal": "Do you have a favorite outfit that has matching parts? Tell about it.",
+      "critical": "Is jewelry still special if the stones are glass? Give a reason."
+    },
+    "g35": {
+      "daily": "Choose two pieces from this parure and imagine wearing them. How do they work together?",
+      "emotion": "What feelings do you get from the colors and shine of this matching set?",
+      "observation": "Take a minute to compare the pieces. What small details repeat between them?",
+      "analysis": "How does the maker use repeated designs to make several different objects feel like one set?",
+      "line": "How do curved lines and straight lines appear across the necklace, brooch, and earrings?",
+      "shape": "Which shapes repeat in the set, and how do they change from piece to piece?",
+      "color": "How does the enamel add color to what would otherwise be only gold?",
+      "texture": "How might gold, enamel, and glass paste look and feel different from one another?",
+      "space": "The necklace is about 42 centimeters long. How would the pieces be placed on a person's body?",
+      "light": "Glass paste is cut to catch the light. Where might it sparkle most in the set?",
+      "meaning": "Why might a family choose a parure for a special occasion instead of one single jewel?",
+      "culture": "A parure suggests that people planned their whole outfits. What does that tell you about the culture that made it?",
+      "technique": "The set has glass paste, not real gems. How might that change the cost and the look of the set?",
+      "personal": "Think of something you own in a matching set. How do the pieces work together?",
+      "critical": "Does it matter that glass paste imitates gems? What reasons might people have for choosing it?"
+    },
+    "g68": {
+      "daily": "How does a parure transform separate jewels into one coordinated design?",
+      "emotion": "How does a matching set create a feeling of completeness or formality?",
+      "observation": "Describe the pieces from largest to smallest. Which details do they share?",
+      "analysis": "How does each piece in the set have its own role while supporting the whole?",
+      "line": "How do repeating lines and patterns tie the necklace, choker, and brooch together?",
+      "shape": "How do shapes scale up and down among the larger necklace and smaller earrings?",
+      "color": "How do enamel and glass paste add color accents to the gold?",
+      "texture": "What textural differences might you notice between enamel, glass, and polished gold?",
+      "space": "Jewelry is designed to sit on a body. How might each piece in the set be positioned on a person?",
+      "light": "Why might a designer combine reflective gold with colored enamel and sparkling glass?",
+      "meaning": "What might a full set of matching jewels have said about its wearer in public?",
+      "culture": "The Met calls this set probably Swiss. Why might the exact origin of a jewelry set be hard to be sure about?",
+      "technique": "Glass paste imitates gems. How do makers use imitation materials to create a luxurious look?",
+      "personal": "What would you want your own set of matching items to say about you?",
+      "critical": "How should we value jewelry that uses imitation stones alongside gold?"
+    },
+    "g910": {
+      "daily": "How does the parure create a coherent visual identity across several differently shaped ornaments?",
+      "emotion": "How does the formality of a matching ensemble shape the mood of the jewelry?",
+      "observation": "Describe how the set builds a hierarchy among its pieces, such as necklace, brooch, and earrings.",
+      "analysis": "How do repeated motifs unify the set while allowing variation in scale and function?",
+      "line": "How do linear patterns and outlines guide the eye across pieces designed for different parts of the body?",
+      "shape": "How do the shapes of the pieces adapt a shared design vocabulary to varied forms?",
+      "color": "How does enamel color, combined with metallic gold and glass sparkle, produce a layered palette?",
+      "texture": "How do the different finishes of gold, enamel, and glass paste create contrast within a single ensemble?",
+      "space": "How would the pieces together frame the face and neck, and how does that shape the design?",
+      "light": "How do materials with different ways of handling light, metallic, translucent, and faceted, work together?",
+      "meaning": "What might an ensemble signal about wealth, taste, or occasion in the 1840s, and what remains uncertain?",
+      "culture": "How does a coordinated set reflect mid-nineteenth-century fashion's emphasis on matching accessories?",
+      "technique": "What does the combination of gold work, enameling, and glass paste suggest about production and cost?",
+      "personal": "How does coordinating your own clothing and accessories shape how others read you?",
+      "critical": "How does the use of glass paste complicate the idea that value lies in precious materials?"
+    },
+    "g1112": {
+      "daily": "What can be inferred from this ensemble's design about its intended wearer, and what must remain uncertain?",
+      "emotion": "How does the idea of a complete matching set shape the emotional register of luxury and propriety?",
+      "observation": "Describe the ensemble's repeated forms with precision. Where does description begin to interpret?",
+      "analysis": "Analyze the parure as a system in which individual pieces take meaning from relation to one another.",
+      "line": "How does the linear language of the set translate across scales from necklace to earring?",
+      "shape": "How do formal correspondences among the pieces produce coherence, and how might variations signal function?",
+      "color": "How does the interplay of enamel and metallic color reflect period taste, and how may aging have changed it?",
+      "texture": "How do surface differences among gold, enamel, and glass paste form a hierarchy of illusion and material?",
+      "space": "How does a set meant to be worn on the body challenge static display in a museum?",
+      "light": "How would different lighting settings, from candlelight to museum light, alter the interplay of materials?",
+      "meaning": "How might a parure have signaled status, and how does the use of glass paste complicate those signals?",
+      "culture": "How does the attribution 'probably Swiss' illustrate the difficulty of locating decorative arts in networks of trade and workshop exchange?",
+      "technique": "What does a set of at least six components suggest about workshop planning and division of labor?",
+      "personal": "How do your own ideas about authenticity and imitation shape the value you place on this set?",
+      "critical": "What questions should a viewer ask about imitation and value when looking at nineteenth-century jewelry?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Jewelry), objectName (Parure), medium (gold, enamel, glass paste), and the absence of tags checked against the museum record and object page: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A parure is a matching set of jewelry. This one, from about 1840–50 and described by the Met as probably Swiss, contains six listed components in gold, enamel, and glass paste. The record does not describe the motifs, so students should describe what they see.",
+    "vocabulary": [
+      "parure",
+      "enamel",
+      "glass paste",
+      "choker",
+      "motif",
+      "ensemble"
+    ],
+    "directions": [
+      "Have students design a three-piece matching set using one repeating motif and explain how the motif changes at different scales.",
+      "Discuss imitation materials: when does a copy have value of its own?",
+      "Compare this set with the pendant in the archive and discuss how jewelry shows different values in different places."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-438817",
+  "day": "02-21",
+  "title": "The Dance Class",
+  "artist": "Edgar Degas",
+  "date": "1874",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20101-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-20101-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mrs. Harry Payne Bingham, 1986",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "Young ballet students in pale dresses with colored sashes wait and rest in a long rehearsal room with a polished wooden floor. An older man stands near the center leaning on a tall staff, and tall windows let in light along one side.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/438817",
+    "objectId": "438817",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Girls, Men, Women, Students, Dancers, Ballet), credit line, and image URLs read from the record"
+  },
+  "context": "Edgar Degas painted this ballet rehearsal in Paris in 1874, the year of the first Impressionist exhibition. Instead of showing a performance, he chose the quiet, in-between moments of a class.",
+  "descriptions": {
+    "k": "Young dancers are in a big room. Some stand. Some rest. Some wait for class to start. A teacher holds a tall stick. What do you think happens next in this dance class?",
+    "g12": "Edgar Degas painted a ballet class in Paris. The girls wear light dresses with colorful sashes. Some stretch, some rest, and some wait their turn. The floor stretches far back. Look for the dancer who is not paying attention. What might she be thinking?",
+    "g35": "Edgar Degas often painted what happens behind the scenes. Here, young ballet students rehearse in Paris in 1874. Not all of them stand in neat rows: some chat, stretch, or look away. The floor slants sharply back into the room, and light comes from tall windows. Why might Degas show the waiting moments instead of a perfect dance?",
+    "g68": "Degas painted this rehearsal room in 1874, when Paris was home to a famous ballet. Instead of a polished performance, he shows tired, distracted, and waiting students. The steep angle of the floor and the off-center arrangement make the scene feel like a quick glance rather than a posed portrait. How might this casual look influence the way you imagine a dancer's life?",
+    "g910": "Degas shifts attention from the stage spectacle to the labor behind it. His composition seems casual: figures scatter across a steeply receding floor, some cut off or turned away, as if glimpsed rather than staged. This reflects Impressionist interests in modern life and unposed moments, though Degas carefully planned his paintings. Consider how the asymmetry and the waiting poses shape your sense of discipline, boredom, and effort.",
+    "g1112": "In The Dance Class, Degas turns a rehearsal into a study of modern urban life, labor, and observation. The oblique viewpoint, asymmetrical grouping, and absorbed or restless poses suggest a candid glimpse, yet the effect is meticulously constructed. Interpretations differ: some emphasize the work and discipline of young dancers, others the viewer's detached, even voyeuristic, position. How does the painting balance spontaneity and control, and what does it ask of its audience?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the dancers who are waiting. What do you think they are thinking about?",
+      "emotion": "Do the dancers look excited, tired, or shy? Point to one and tell us why.",
+      "observation": "Find the teacher with the tall stick. Then find two dancers who are doing different things.",
+      "analysis": "Where do you think the class is about to start? What makes you think so?",
+      "line": "Follow the lines of the floor boards with your finger. Where do they go?",
+      "shape": "The dancers' skirts look puffy and light. What shapes do they make?",
+      "color": "Find the colorful sashes on the dancers. What colors can you spot?",
+      "texture": "How do you think the dancers' light skirts would feel to touch? How would the wooden floor feel?",
+      "space": "Which dancer is closest to you? Which dancer is farthest away?",
+      "light": "Where does the light come into the room? What does it touch?",
+      "meaning": "If you were a dancer in this room, what would you do while you waited?",
+      "culture": "These students are learning ballet. Have you ever seen dancing like this? Tell about it.",
+      "technique": "The painter used oil paint to make the dresses look soft. Where do the dresses look the lightest?",
+      "personal": "Have you ever waited for your turn at something? What did you do?",
+      "critical": "Why do you think the painter chose a class instead of a big show?"
+    },
+    "g12": {
+      "daily": "Who in the room do you notice first, and what details make you look there?",
+      "emotion": "Some dancers look tired and some look bored. What clues in their bodies tell you this?",
+      "observation": "Look for three different poses among the dancers. Describe each one.",
+      "analysis": "The teacher stands near the middle and dancers are all around him. How does this help you understand the class?",
+      "line": "The wooden floor has long lines that stretch back. What do they make you feel about the size of the room?",
+      "shape": "The dancers' dresses are light and puffy, and the windows are tall and straight. How are these shapes different?",
+      "color": "Most of the dresses are pale. How do the colorful sashes stand out?",
+      "texture": "Which parts of this room look soft and which look hard? Show how you know.",
+      "space": "The floor runs far into the room. How does it make you feel like you are looking down at it?",
+      "light": "How does light from the windows change the way the dresses look?",
+      "meaning": "This is not a performance. Why might the artist want us to see the in-between moments?",
+      "culture": "Ballet students in Paris practiced for years. What does this picture show about the work behind a dance?",
+      "technique": "Degas used oil paint with soft dabs. Where do the dresses look like dabs of light?",
+      "personal": "What is something you practice again and again? How is it like or unlike what these dancers do?",
+      "critical": "Does this look like a posed photograph or a quick glance? What details make you think that?"
+    },
+    "g35": {
+      "daily": "Degas could have painted a performance. What do you learn about these students from seeing them in a rehearsal?",
+      "emotion": "Which dancers seem focused, and which seem tired or restless? Describe two figures and their body language.",
+      "observation": "Spend a minute looking only at the edges of the picture. What do you find that you missed in the center?",
+      "analysis": "The figures are not arranged in neat rows. How does this arrangement shape the feeling of the scene?",
+      "line": "How do the lines of the floor boards lead your eye into the room, and where do they lead you?",
+      "shape": "How do the repeating shapes of the pale skirts create rhythm across the picture?",
+      "color": "The dresses are soft and light while the room is warm and dim. How does that contrast guide where you look?",
+      "texture": "How does Degas show the difference between gauzy fabric, polished wood, and skin?",
+      "space": "Degas uses a steep floor and objects cut off at the edges. How do these choices change how close you feel to the scene?",
+      "light": "Where does the strongest light fall, and how does that shape where your attention goes?",
+      "meaning": "Why might Degas have chosen to show the waiting and fidgeting instead of the dancing? What might he want us to think about?",
+      "culture": "What does this painting suggest about the training of ballet dancers in Paris in the 1870s?",
+      "technique": "Degas planned this scene from many sketches. Why might an artist make a scene look casual even when it is carefully planned?",
+      "personal": "Think of a time when you practiced something with others. Which person in the painting is most like you?",
+      "critical": "Does the picture respect the students or just watch them? Use details to support your view."
+    },
+    "g68": {
+      "daily": "Why would Degas choose a rehearsal over a performance? What does this choice tell us about how he saw modern life?",
+      "emotion": "How does the painting create a mood of waiting and fatigue instead of glamour?",
+      "observation": "Scan the room zone by zone. Which small details, such as gestures and sashes, add personality to the dancers?",
+      "analysis": "How does Degas guide the viewer's eye across a scene with no single clear center?",
+      "line": "How do the strong diagonals of the floor affect the energy and depth of the room?",
+      "shape": "Compare the clusters of dancers to the empty areas of floor. How does that balance affect the composition?",
+      "color": "How do pale dresses, warm wood, and touches of brighter color work together to organize the painting?",
+      "texture": "How do the soft touches of paint on fabric differ from the treatment of the floor, and what does that tell you about materials?",
+      "space": "What effect does the high viewpoint and the steep floor have on how you imagine standing in this room?",
+      "light": "How does the light from the windows model the figures without creating heavy shadows?",
+      "meaning": "Some viewers see this as a tribute to hard work, others as a quiet critique of the demands placed on young dancers. What evidence supports each reading?",
+      "culture": "How might the world of Paris ballet in the 1870s, with its audiences and its students, shape the way we read this scene?",
+      "technique": "Degas often built scenes from sketches and rearranged them in the studio. How might that affect the feeling of spontaneity?",
+      "personal": "What does practice look like in your life, and how would you capture its in-between moments in a picture?",
+      "critical": "Is it fair to look at young students as subjects for art? Consider the viewer's position."
+    },
+    "g910": {
+      "daily": "How does the apparent casualness of this scene serve Degas's larger purpose in painting a ballet class?",
+      "emotion": "How does the painting convey fatigue, patience, and discipline without any dramatic action?",
+      "observation": "Describe the arrangement of figures and architecture. Which devices create the sense of a quick glance?",
+      "analysis": "Analyze how asymmetry and cropped figures structure the composition and direct attention.",
+      "line": "How do the converging floor lines and vertical window frames provide a framework for the more fluid shapes of the dancers?",
+      "shape": "How does repetition of pale, bell-shaped skirts create rhythm while individual poses introduce variety?",
+      "color": "How does a restrained palette of pale fabric against warm wood and shadow shape the painting's atmosphere?",
+      "texture": "How does Degas distinguish delicate fabric from the hard floor through handling of paint?",
+      "space": "How does the steeply tilted floor create a space that feels both deep and flattened, and why might that matter?",
+      "light": "How does the diffused window light build forms and mood in a way typical of Impressionist interests?",
+      "meaning": "What might this painting suggest about labor, observation, or discipline, and where does interpretation become speculation?",
+      "culture": "How does Degas's focus on modern urban subjects reflect the concerns of the Impressionist circle in the 1870s?",
+      "technique": "What does the combination of careful planning and fresh brushwork reveal about the idea of the 'spontaneous' in Impressionism?",
+      "personal": "How does your experience of practice and being observed influence how you read the students' poses?",
+      "critical": "Does the painting's viewpoint invite empathy, detachment, or both? What visual evidence supports your answer?"
+    },
+    "g1112": {
+      "daily": "What do you notice when a painting about training and waiting is composed so deliberately to look unplanned?",
+      "emotion": "How do the dancers' postures complicate any single emotional reading of the room?",
+      "observation": "Provide a precise formal description of the composition, then identify where description has already become interpretation.",
+      "analysis": "How do cropping, asymmetry, and off-center emphasis create an effect of immediacy while remaining a constructed image?",
+      "line": "How does the strong perspectival structure of the floor serve as a stable grid against which the figures' gestures are measured?",
+      "shape": "How does the interplay between clustered forms and open floor create rhythm, tension, and a sense of time?",
+      "color": "How does the painting's low-key, pale-and-warm palette position it within Impressionist and Realist traditions?",
+      "texture": "How does the treatment of fabric, wood, and skin test the relation between illusion and visible handling of paint?",
+      "space": "How does the painting's steep, oblique space position the viewer, and what social relationship does that position imply?",
+      "light": "How does the light treatment connect Degas to Impressionism while distinguishing his methods from outdoor painters?",
+      "meaning": "Compare readings of the painting as a record of labor, a study of observation, and a view of institutional power. Which can the evidence best support?",
+      "culture": "How does the painting reflect and shape the image of ballet in Paris, and who is depicted versus who is watching?",
+      "technique": "How might Degas's practice of making many studies and recomposing them bear on the claim that Impressionism sought immediacy?",
+      "personal": "How does your own position as a viewer, whether admirer, critic, or participant, affect how you read these young figures?",
+      "critical": "What ethical or critical questions arise when viewing images of young performers made by an observer, and how should historical context inform them?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Girls, Men, Women, Students, Dancers, Ballet), classification (Paintings), and medium checked against the museum record. Dancers are fully clothed ballet students in a rehearsal room.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Paris in 1874. Degas returned to ballet subjects throughout his career, usually showing rehearsals and waiting rather than performances.",
+    "vocabulary": [
+      "Impressionism",
+      "rehearsal",
+      "asymmetry",
+      "perspective",
+      "cropping",
+      "oil paint"
+    ],
+    "directions": [
+      "Have students strike three poses from the painting and talk about what each says about how a dancer feels.",
+      "Ask students to sketch the floor lines first, then discuss how they create depth.",
+      "Discuss with sensitivity how artists show young people at work, and what makes an image respectful."
+    ]
+  }
+}

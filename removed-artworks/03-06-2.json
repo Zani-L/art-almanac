@@ -1,0 +1,155 @@
+{
+  "id": "artic-79021",
+  "day": "03-06",
+  "title": "Dahlia and Daisies in a Vase",
+  "artist": "Henri Rousseau",
+  "date": "c. 1904",
+  "medium": "Oil on canvas",
+  "movement": "Naive art",
+  "region": "France",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A still life painting of a bouquet of dahlias and daisies arranged in a vase, painted in the plain, carefully outlined style of Henri Rousseau.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/79021",
+    "objectId": "79021",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Henri Rousseau, French, 1844-1910), date, medium, place of origin, credit line, subject terms (flowers, plants, vases, daisies, dahlias) and public-domain flag (false) read from the record. The record has no description. No image linked because the work is not marked public domain in the record."
+  },
+  "context": "Painted around 1904 by the French artist Henri Rousseau. The museum record lists oil on canvas and the subjects flowers, plants, vases, daisies and dahlias, and gives no description. Rousseau is widely known as a self-taught painter who worked as a toll collector before painting full time.",
+  "descriptions": {
+    "k": "Here is a bunch of flowers in a vase. The museum says there are dahlias and daisies. The flowers are painted with careful shapes. Which flower would you pick? What colors do you see?",
+    "g12": "Henri Rousseau painted a vase of flowers. The museum says they are dahlias and daisies. Rousseau taught himself to paint, and he painted each part carefully. Can you find the vase? Can you find a daisy? Which flowers look the biggest?",
+    "g35": "Henri Rousseau was a French painter who taught himself to paint. Around 1904 he painted Dahlia and Daisies in a Vase, a still life of flowers in a vase. A still life shows objects that stay still. Rousseau's style is plain and careful, with clear shapes. What details do you see in the petals and leaves? How do the flowers feel arranged?",
+    "g68": "Rousseau, a self-taught French painter, made this still life around 1904. The museum lists dahlias, daisies, plants, and a vase as subjects. His style is often called naive: clear outlines, simple shapes, and careful placement rather than blended realism. How do the flowers' shapes and arrangement create a pattern, and what makes a bouquet worth painting?",
+    "g910": "Dahlia and Daisies in a Vase (c. 1904) gives a familiar still-life subject Rousseau's distinctive plainness: clear contours and carefully placed forms. The museum records only the subjects and medium, so interpretation depends on visual evidence. Consider how arrangement, repetition of petal shapes, and the vase's role create order, and how the label 'naive' shapes our expectations of a self-taught artist.",
+    "g1112": "Rousseau's flower still life takes up a traditional genre with the deliberate, flattened clarity associated with his untrained approach. The museum record gives only subject terms and technical data, so claims must rest on what the canvas shows: contour, repetition, and arrangement. Critics have debated whether 'naive' describes Rousseau's art or a prejudice about it. How does the painting's order and simplicity complicate the hierarchy between trained and untrained artists?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which flower would you pick first? Point to it.",
+      "emotion": "Do the flowers look happy, quiet, or sleepy? What do you see that tells you?",
+      "observation": "Find a daisy and a dahlia if you can. Where are they?",
+      "analysis": "Which flower do your eyes land on first, and why?",
+      "line": "Find a line that goes around a petal. Where is it?",
+      "shape": "Look for round shapes and long shapes. Where do you find them?",
+      "color": "Which colors do the flowers have? Which one pops out?",
+      "texture": "Do the petals look soft or hard? How can you tell?",
+      "space": "Is the vase near or far? How can you tell?",
+      "light": "Where does the picture look brighter?",
+      "meaning": "Why do people put flowers in a vase?",
+      "culture": "What flowers grow near where you live?",
+      "technique": "How would you paint the tiny parts of a flower?",
+      "personal": "If you gave this bouquet to someone, who would it be?",
+      "critical": "Why might an artist paint flowers instead of people?"
+    },
+    "g12": {
+      "daily": "What story could this bouquet tell? Who might have picked the flowers?",
+      "emotion": "What feeling do the flowers give you? Show us a spot.",
+      "observation": "List the colors, shapes, and objects you see. What did you notice last?",
+      "analysis": "How are the flowers arranged in the vase? Which are in front?",
+      "line": "How do the outlines of the petals and leaves look?",
+      "shape": "Which shapes repeat in the flowers and leaves?",
+      "color": "How does the artist use color to make some flowers stand out?",
+      "texture": "How can you tell the paint is careful and neat?",
+      "space": "Where does the vase sit? How do the flowers fill the space?",
+      "light": "Where is the light on the flowers, and where are shadows?",
+      "meaning": "Why might a painter choose to paint a bouquet that will fade?",
+      "culture": "Rousseau lived in France. What flowers do people give to each other in your family?",
+      "technique": "Rousseau taught himself to paint. What have you taught yourself?",
+      "personal": "How would you arrange flowers if you were the painter?",
+      "critical": "Does a simple picture of flowers have to be boring? Explain with this one."
+    },
+    "g35": {
+      "daily": "What details help you tell the dahlias from the daisies?",
+      "emotion": "What is the mood of the painting, and which colors and shapes create it?",
+      "observation": "Look slowly. What small detail, such as a leaf or petal, did you notice late?",
+      "analysis": "How does Rousseau arrange the flowers so the bouquet feels balanced?",
+      "line": "How do clear outlines affect the way you see each flower?",
+      "shape": "How do round flowers and long leaves contrast?",
+      "color": "How does he use color to separate petals, leaves, and background?",
+      "texture": "What does the smooth paint tell you about how he worked?",
+      "space": "How does he suggest depth in a bouquet?",
+      "light": "How does light help the flowers stand out?",
+      "meaning": "Still lifes often show objects the artist loves or wants to remember. Why might he have painted these?",
+      "culture": "Rousseau had no art school training. How might that affect the way he painted flowers?",
+      "technique": "What would change if the flowers were painted with loose, quick strokes?",
+      "personal": "What flowers or objects would you choose for a still life of your own?",
+      "critical": "Why do you think artists have painted flowers for hundreds of years?"
+    },
+    "g68": {
+      "daily": "How does Rousseau make an ordinary bouquet feel carefully designed?",
+      "emotion": "What mood does the careful, plain style create?",
+      "observation": "What can you tell for sure about the flowers, and what is a guess?",
+      "analysis": "How does the composition organize the flowers and vase?",
+      "line": "How do crisp edges and flattened shapes affect depth?",
+      "shape": "How do repeated petal shapes create pattern?",
+      "color": "How do colors work together or contrast across the bouquet?",
+      "texture": "How does the smooth finish differ from loose Impressionist brushwork?",
+      "space": "How does he use overlapping to show which flowers are in front?",
+      "light": "How does light, or its absence, shape the flowers' look?",
+      "meaning": "The museum offers no description. What questions would you ask to understand the painting better?",
+      "culture": "Why might self-taught artists develop a style different from trained ones?",
+      "technique": "What does the term 'naive' suggest, and is it fair to this painting?",
+      "personal": "How would you stage a still life to make an interesting composition?",
+      "critical": "Why might a modest subject still be a serious painting?"
+    },
+    "g910": {
+      "daily": "How does Rousseau turn a familiar subject into a distinctive, ordered design?",
+      "emotion": "How does the restrained, clear style shape the mood?",
+      "observation": "Analyze how the arrangement of blossoms and leaves creates visual hierarchy.",
+      "analysis": "How do contours and flattened forms contribute to the painting's clarity?",
+      "line": "How does repetition of petal shapes build rhythm?",
+      "shape": "How does color separate and unify the bouquet?",
+      "color": "How does the smooth handling contrast with Impressionist technique of the same era?",
+      "texture": "How does he balance flatness with hints of volume?",
+      "space": "How does light work in a still life that seems evenly lit?",
+      "light": "How might a flower still life carry ideas about time and fading even without symbols?",
+      "meaning": "The museum gives no interpretation. What evidence from the painting supports your reading?",
+      "culture": "How does the label 'naive' reflect assumptions about training and taste?",
+      "technique": "How does Rousseau's approach alter the tradition of flower painting?",
+      "personal": "How does your own response change if you consider the painter's lack of formal training?",
+      "critical": "What criteria would you use to evaluate a modest still life?"
+    },
+    "g1112": {
+      "daily": "How does the painting transform a conventional genre through its plain clarity?",
+      "emotion": "What range of moods, from tenderness to formality, can the visual evidence support?",
+      "observation": "Separate the visible evidence from the biography commonly attached to Rousseau.",
+      "analysis": "How does the arrangement of forms construct an ordered, almost emblematic bouquet?",
+      "line": "How does contour operate as a structuring device rather than descriptive record?",
+      "shape": "How does repetition of petal and leaf shapes align the painting with decorative tendencies?",
+      "color": "How does the palette distinguish forms while maintaining unity?",
+      "texture": "How does the finish of the surface position Rousseau relative to avant-garde brushwork?",
+      "space": "How does the shallow space conform to or resist the conventions of still-life perspective?",
+      "light": "How does the even lighting contribute to a sense of timelessness?",
+      "meaning": "With so little museum commentary, how can interpretation remain responsible?",
+      "culture": "How have terms like 'naive' shaped the reception and market of Rousseau's work?",
+      "technique": "How does the work challenge or reinforce distinctions between amateur and professional painters?",
+      "personal": "How do your assumptions about skill influence your judgment of this picture?",
+      "critical": "What would it mean to value Rousseau without reference to later avant-garde artists?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (flowers, plants, vases, daisies, dahlias) and medium checked against the Art Institute of Chicago record; no concerning terms. The record has no description, so student text relies on the title and subject terms. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A c. 1904 still life by the self-taught French painter Henri Rousseau in the Art Institute of Chicago. The record gives subjects and technical data but no description, so discussion should rest on what students see. The work is not marked public domain in the record, so no image is linked yet.",
+    "vocabulary": [
+      "still life",
+      "self-taught",
+      "naive art",
+      "contour",
+      "arrangement",
+      "pattern"
+    ],
+    "directions": [
+      "Have students arrange real or paper flowers and paint them with careful outlines.",
+      "Discuss what 'self-taught' means and how it might shape style.",
+      "Compare close-up and far-away views of a bouquet and discuss which details matter."
+    ]
+  }
+}

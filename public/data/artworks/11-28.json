@@ -1,0 +1,158 @@
+{
+  "id": "met-211525",
+  "day": "11-28",
+  "title": "Standing cup (coupe Chenavard)",
+  "artist": "Sèvres Manufactory",
+  "date": "1837",
+  "medium": "Hard-paste porcelain",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/DP104402.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/DP104402.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Friends of European Sculpture and Decorative Arts Gifts, 2003",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large, glossy porcelain standing cup, a wide bowl-like vessel raised on a base. It is about as wide as it is tall.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/211525",
+    "objectId": "211525",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, dimensions (height 32.7 cm, diameter 33.3 cm), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A large porcelain standing cup made at the Sèvres manufactory, the French state porcelain factory, in 1837. The Met gives its height as about 12 7/8 inches (32.7 cm) and its diameter as about 13 1/8 inches (33.3 cm). The name coupe Chenavard refers to this model of cup; the Met record does not explain it further.",
+  "descriptions": {
+    "k": "This is a very big cup made of shiny porcelain. It stands on a base. It is as wide as it is tall. It is too big for a drink. It may have been made to be looked at. What would you put in it?",
+    "g12": "This big cup was made in France in 1837 at a famous porcelain factory called Sèvres. It is wider than a dinner plate. It stands on a foot. It is shiny and smooth. What do you think people did with a cup this big?",
+    "g35": "This standing cup was made in 1837 at Sèvres, the French factory known for fine porcelain. It is about 33 centimeters tall and just as wide, which is much larger than a drinking cup. Look at its wide bowl and the base that lifts it. Why would a factory make something so large and so shiny? What do you think it was used for?",
+    "g68": "Sèvres was a French government porcelain factory, and in 1837 it made showpieces to display skill as well as tableware. This standing cup, about 33 centimeters in both height and diameter, is far too large for drinking. Its name, coupe Chenavard, identifies a model. How does a big, glossy form show off the factory's technical skill? What does it mean that a cup can be an object to admire rather than use?",
+    "g910": "This Sèvres standing cup of 1837 is a display object, with a height and diameter of about 33 centimeters. Hard-paste porcelain of this size is difficult to shape, fire, and finish without cracks, so scale itself is a statement of mastery. The wide, bowl-like body on a raised foot gives the form a monumental presence. Consider how a factory supported by the state used showpieces to promote national craft and taste.",
+    "g1112": "The coupe Chenavard of 1837 shows how Sèvres used large, technically demanding porcelain as a form of cultural display. At roughly 33 centimeters in both height and diameter, the cup belongs to the tradition of showpiece vessels that signal skill, patronage, and prestige rather than daily use. Its model name points to a design history the Met record leaves undeveloped. Ask how scale, material, and form communicate national ambition, and how museums read such objects when their original ceremonial contexts have vanished."
+  },
+  "questions": {
+    "k": {
+      "daily": "This cup is as wide as it is tall. Hold your hands apart to show how big you think it is.",
+      "emotion": "Does this big cup look grand, silly, or quiet? Why?",
+      "observation": "Find the bowl and the base of this cup. Point to each part.",
+      "analysis": "How does the base help the cup stand? What would happen without it?",
+      "line": "Trace the outline of the cup in the air. Where does it curve out and in?",
+      "shape": "What shape is the big bowl part of the cup? Can you find a circle?",
+      "color": "What colors do you see on the cup? Which one stands out to you?",
+      "texture": "Porcelain is smooth and hard. How would this big cup feel if you hugged it?",
+      "space": "Imagine this cup on a table. What would it be next to?",
+      "light": "Where does the cup look shiny where light touches it?",
+      "meaning": "Why would someone make a cup that is too big to drink from?",
+      "culture": "This cup was made in France almost two hundred years ago. What things do people put on display in their homes today?",
+      "technique": "Making a big porcelain cup is very hard. What do you think could go wrong?",
+      "personal": "If you could have a giant cup, what would you put in it?",
+      "critical": "Is a cup you cannot drink from still a cup? What do you think?"
+    },
+    "g12": {
+      "daily": "What do you notice about the size and shape of this cup that makes it unusual?",
+      "emotion": "What feeling does a very large, shiny cup give you?",
+      "observation": "Describe the cup from the base to the rim. What parts can you name?",
+      "analysis": "How do the wide bowl and the base work together?",
+      "line": "Follow the outline of the cup from the base to the rim. What happens to the line along the way?",
+      "shape": "The cup is almost as wide as it is tall. How does that change how it looks?",
+      "color": "What colors or tones do you see in the cup? How do they work together?",
+      "texture": "Porcelain has a hard, glassy surface. How does it look different from a wooden bowl?",
+      "space": "The cup is about the size of a large mixing bowl. How would it fill space on a table?",
+      "light": "Where on the cup do you think the light would be the brightest?",
+      "meaning": "The cup is too big to drink from. What else might it be for?",
+      "culture": "The Sèvres factory was run by the French government. Why might a government want a factory that makes showpieces?",
+      "technique": "A big porcelain object must be made carefully so it does not crack. How could a maker plan for that?",
+      "personal": "What big object have you seen that was made to impress people?",
+      "critical": "Is an object made to be admired less useful than one made for daily life? Explain how you decide."
+    },
+    "g35": {
+      "daily": "What features of this big cup make it stand out from an ordinary cup?",
+      "emotion": "What mood does the cup's size and shiny surface create?",
+      "observation": "Look at the cup for one minute. What details of the bowl and base do you notice?",
+      "analysis": "How do the bowl, stem or base, and rim fit together to form a balanced shape?",
+      "line": "How does the outline of the cup sweep from the base to the rim?",
+      "shape": "How does the roundness of the bowl contrast with the base that supports it?",
+      "color": "How does the color of the porcelain help the cup look clean and fine?",
+      "texture": "How does glossy glaze change the look of the cup compared to plain clay?",
+      "space": "The cup is about as wide as it is tall. How does that make it feel stable and large?",
+      "light": "How does the glossy surface reflect light, and where might the shine be strongest?",
+      "meaning": "Why might a factory make a cup that is meant to be seen instead of used?",
+      "culture": "Sèvres was supported by the French state. What does that tell you about why showpieces were made?",
+      "technique": "Why is it hard to make a large porcelain object that stays smooth and uncracked?",
+      "personal": "What would you design if you could make a giant showpiece? Why?",
+      "critical": "Should a museum treat a showpiece like this as art, craft, or something else? Give your reasons."
+    },
+    "g68": {
+      "daily": "How does the size of this cup change what it means?",
+      "emotion": "How does the cup's scale shape the way it feels to look at?",
+      "observation": "Examine the cup from rim to base. Which parts look most carefully shaped?",
+      "analysis": "How does the cup balance a wide bowl with a supporting foot, and what does that do for its stability?",
+      "line": "How do the curves of the outline create a flowing or monumental effect?",
+      "shape": "How does the equal height and width create a feeling of balance?",
+      "color": "How does the porcelain's surface color shape the impression of refinement?",
+      "texture": "How does a glossy glaze communicate luxury and precision?",
+      "space": "How would such a large cup command a table or shelf in a room?",
+      "light": "How does the cup's glaze react to light, and why would a display object need that?",
+      "meaning": "What might the cup's size say about the power and pride of the state that supported its making?",
+      "culture": "How did factories like Sèvres use showpieces to display French skill?",
+      "technique": "What risks come with firing a large hard-paste porcelain object, and how does that raise its value?",
+      "personal": "What do you think makes an object worth showing off?",
+      "critical": "Does an object lose meaning when it is separated from the place where it was first displayed?"
+    },
+    "g910": {
+      "daily": "How does scale turn this cup from a vessel into a monument?",
+      "emotion": "How do size and gloss together create a mood of formality and display?",
+      "observation": "Describe the visual hierarchy of bowl, foot, and rim. What draws the eye first?",
+      "analysis": "Analyze how the proportions of the cup produce stability and visual weight.",
+      "line": "How does the sweep of the cup's contour create rhythm from foot to rim?",
+      "shape": "How does the near equality of height and diameter affect the form's presence?",
+      "color": "How does the porcelain's surface quality shape the cup's perceived refinement?",
+      "texture": "How does glaze provide both protection and a luminous finish?",
+      "space": "How does the cup occupy space as a sculptural object?",
+      "light": "How does the cup's glossy surface connect it to its surroundings through reflection?",
+      "meaning": "How might a large vessel symbolize the technical and cultural ambitions of a state factory?",
+      "culture": "How did nineteenth-century France use luxury crafts to express national prestige?",
+      "technique": "What does the successful making of a large hard-paste object indicate about technical control?",
+      "personal": "How does your sense of value change when an object is too large or fragile to be used?",
+      "critical": "How should museums interpret a showpiece when little is recorded about its original use?"
+    },
+    "g1112": {
+      "daily": "What does a showpiece cup reveal about how technical skill, scale, and state patronage could serve as cultural statements?",
+      "emotion": "How might the combination of monumental scale and the cup form create a tension between function and display?",
+      "observation": "Describe the cup's form and surface precisely. Where does description begin to imply judgments about quality?",
+      "analysis": "Analyze how proportion, scale, and material combine to produce the cup's presence.",
+      "line": "How does the cup's contour negotiate between classical references and a distinctive profile?",
+      "shape": "How might the nearly equal height and width be read as a deliberate emphasis on volume?",
+      "color": "How does the material identity of porcelain, as a luminous surface, shape the object's claims to refinement?",
+      "texture": "How might glaze work as both a protective layer and a vehicle for the object's display value?",
+      "space": "How might the cup have defined a space such as a salon or exhibition, and how does the museum recast that?",
+      "light": "How does reflection tie the cup's appearance to its environment, and how might this have mattered in its original setting?",
+      "meaning": "How might a ceremonial or decorative cup be read as an emblem of institutional and national identity?",
+      "culture": "How does the existence of a named model, coupe Chenavard, point to design practices and workshop collaboration that the museum record only hints at?",
+      "technique": "What does large-scale porcelain imply about the organization of labor, resources, and risk in a state manufactory?",
+      "personal": "How do your own ideas about usefulness and beauty shape your view of an object made to be admired?",
+      "critical": "What do we need to know about an object's original use before deciding whether it is art, craft, or propaganda?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, maker, medium, department and dimensions read from the Met record; the record lists no subject tags. A large porcelain standing cup, so no sensitive content is expected. Its decoration is not described by the record and was not seen.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Sèvres was the French state porcelain manufactory, known for luxury wares and showpieces. The Met record dates this cup to 1837 and gives its height and diameter as about 33 cm.",
+    "vocabulary": [
+      "porcelain",
+      "hard-paste",
+      "manufactory",
+      "showpiece",
+      "standing cup",
+      "glaze"
+    ],
+    "directions": [
+      "Have students compare the cup's dimensions (about 33 cm tall and wide) with a classroom object and discuss why a cup would be this big.",
+      "Ask students to sketch a showpiece for their school or town and say what it should communicate.",
+      "Discuss the difference between objects made to be used and objects made to be admired."
+    ]
+  }
+}

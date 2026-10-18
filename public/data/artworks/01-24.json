@@ -1,0 +1,158 @@
+{
+  "id": "met-10590",
+  "day": "01-24",
+  "title": "Skating on the Wissahickon",
+  "artist": "Johan Mengels Culverhouse",
+  "date": "1875",
+  "medium": "Oil on canvas",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap1974.263.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap1974.263.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Rogers, Morris K. Jesup and Maria DeWitt Jesup Funds, and Charles and Anita Blatt Gift, 1974",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A winter scene in which children, men and women skate together on a frozen waterway. Small figures glide across the ice in a shared outdoor pastime.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/10590",
+    "objectId": "10590",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Children, Men, Women, Skating) and image URLs read from the record"
+  },
+  "context": "An oil painting dated 1875 by Johan Mengels Culverhouse, an American artist. Its title names the Wissahickon, a creek and valley near Philadelphia, and the record's tags list children, men, women and skating.",
+  "descriptions": {
+    "k": "It is a cold winter day. Lots of people are skating on the ice. Some are big and some are small. Can you find a child? What do you think they are saying to each other?",
+    "g12": "Long ago, people in the United States skated on frozen creeks, just like this. The painter shows children, women and men all out on the ice together. Look for the small figures. Who looks like they are skating fast? Who looks like they are going slowly? How can you tell it is cold?",
+    "g35": "Johan Mengels Culverhouse painted this winter scene in 1875. The title tells us the place: the Wissahickon, a creek near Philadelphia. When the water froze, it became a place for the whole community to gather. Find the children, the women and the men. How does the painter show that the ice is wide and the people are small? What season clues can you find?",
+    "g68": "In 1875, Culverhouse painted a crowd skating on a frozen creek. Unlike a formal portrait, this is a scene of shared leisure, where ages and families mix on the ice. Notice how the artist groups small figures to suggest movement and sociability, and how the winter setting shapes the mood. What does the painting suggest about how a community spent its free time, and what might it leave out?",
+    "g910": "Culverhouse's 1875 canvas treats winter recreation as a communal event. Rather than singling out a hero, he spreads many small figures across the ice, so the subject is the gathering itself. Consider how scale, grouping and the cold setting organize your attention, and how the painting presents leisure as part of everyday American life in the 1870s. What would change if the figures were larger and closer?",
+    "g1112": "Skating on the Wissahickon belongs to a long tradition of winter genre scenes, but it places that tradition in 1870s America. Think about what the picture asks us to value: shared leisure, the mixing of generations, the outdoors as common ground. Also consider what it may idealize or omit. How does Culverhouse's choice of many small figures, rather than a central subject, shape the way we read the scene as social history and as composition?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who on the ice would you like to skate with? Point to them.",
+      "emotion": "Do these skaters look happy, sleepy, or excited? What shows you?",
+      "observation": "Count the skaters you can find. Which one is the smallest?",
+      "analysis": "Where do your eyes go first on this icy picture? What pulled them there?",
+      "line": "Trace with your finger the path a skater might glide across the ice. Where does it end?",
+      "shape": "The skaters are tiny shapes on a big ice space. Find a shape that looks like a person.",
+      "color": "Which colors help you feel the cold? Which colors feel warmer?",
+      "texture": "How would the ice feel under your hand? How would it feel under your boots?",
+      "space": "Which skaters are closer to you and which are farther away? How can you tell?",
+      "light": "Does the light feel bright or soft on this winter day? Show where.",
+      "meaning": "If these skaters were your neighbors, what do you think they would say about this day?",
+      "culture": "People in this town skated on the creek for fun. What do you and your family do together outside?",
+      "technique": "The painter used oil paint to make many tiny people. How do you think he made such small figures?",
+      "personal": "Have you ever slid on ice or snow? Tell about it with your hands and face.",
+      "critical": "What is one thing the painter left out of this picture that you might want to see?"
+    },
+    "g12": {
+      "daily": "If you stepped onto this ice, who would you join first? Use something you see to explain.",
+      "emotion": "What is the mood on the ice: calm, playful, or busy? Point to one clue.",
+      "observation": "Find a child, a woman and a man on the ice. What is each one doing?",
+      "analysis": "How does the painter show that this is a crowd and not just one person? Use two details.",
+      "line": "Find the lines made by the edges of the creek. How do they lead your eye across the picture?",
+      "shape": "Look at the small skaters. What simple shapes could you use to draw them?",
+      "color": "Which colors in the picture tell you it is winter? Name two.",
+      "texture": "Ice is smooth and slippery. How does the painter make the surface look smooth?",
+      "space": "How can you tell some skaters are far away? Look at their size and where they stand.",
+      "light": "Where does the light seem strongest in the picture? How does it make the ice look?",
+      "meaning": "Why might people from the whole town come to one frozen creek? What might it mean to them?",
+      "culture": "This painting is from the United States in 1875. How is skating then like or unlike skating today?",
+      "technique": "Painters build tiny people with small brush marks. Where can you see the smallest marks?",
+      "personal": "What outdoor winter game do you like best? How is it like skating on the creek?",
+      "critical": "Do you think the painter wants us to feel the cold or the fun more? Give one reason."
+    },
+    "g35": {
+      "daily": "What story could a family tell about this day on the Wissahickon? Support your idea with details from the painting.",
+      "emotion": "What feelings do you pick up from the skaters, and which parts of the painting create them?",
+      "observation": "Spend a minute looking only at the smallest figures. What do their poses and groups tell you?",
+      "analysis": "How does Culverhouse arrange the groups of skaters so your eye travels around the scene?",
+      "line": "How do the edges of the ice and the paths of the skaters create lines that guide you across the painting?",
+      "shape": "How does the artist use small, simple shapes for people against the wide shape of the frozen creek?",
+      "color": "How do cool and warm colors work together to describe a winter afternoon in this picture?",
+      "texture": "How does the painter suggest the hard, slippery ice compared with the clothing of the skaters?",
+      "space": "How does Culverhouse make the creek seem to stretch back into the distance? Look at size and placement.",
+      "light": "How does the light affect the look of the ice and the figures, and what time of day does it suggest?",
+      "meaning": "Why might a painter choose a crowd of ordinary people instead of one famous person as the subject?",
+      "culture": "The title names a real place near Philadelphia. What can a place name teach us about where and how people lived?",
+      "technique": "Oil paint lets an artist add small details on top of broad areas of color. Where do you see that in this painting?",
+      "personal": "Think of a place in your community where everyone gathers. How is it like this frozen creek?",
+      "critical": "Does this painting feel like an exact record of a day or a carefully arranged picture? What makes you think so?"
+    },
+    "g68": {
+      "daily": "What does this painting suggest about how a community in 1875 enjoyed its winter free time?",
+      "emotion": "How does Culverhouse create a mood of shared enjoyment without giving any single face the spotlight?",
+      "observation": "Scan the picture left to right and note how the people are grouped. Which groups seem closest to one another?",
+      "analysis": "How does the artist balance the many small figures against the wide, open surface of the ice?",
+      "line": "How do the banks of the creek and the gliding paths of skaters work together to lead your eye through the scene?",
+      "shape": "How do small, repeated human shapes create rhythm across the broad ice, and where does the rhythm break?",
+      "color": "How does the cool palette of a winter day affect the feeling of the scene, and where do warmer accents appear?",
+      "texture": "How are the hard, glassy ice and the soft layers of winter clothing distinguished by brushwork?",
+      "space": "How do scale and overlapping figures build depth across the frozen water?",
+      "light": "What clues in the shadows and highlights tell you about the time of day and the weather?",
+      "meaning": "How might a scene of mixed ages skating together express ideas about community, family or leisure?",
+      "culture": "How might skating on a local creek differ from entertainment in a big city of the 1870s, and what does that suggest about daily life?",
+      "technique": "How might Culverhouse have used layers of oil paint to build both the wide ice and the tiny figures?",
+      "personal": "How does your own idea of a perfect winter day compare with the one this painter chose to show?",
+      "critical": "What viewpoints or people might be missing from this picture of community leisure? How could you find out?"
+    },
+    "g910": {
+      "daily": "How does this painting turn a casual winter outing into a statement about community life?",
+      "emotion": "How does the painting build a mood of shared pleasure through grouping and scale rather than through expressive faces?",
+      "observation": "Describe the visual hierarchy: does any figure or group dominate, or is attention deliberately spread out?",
+      "analysis": "How do the compositional choices distribute the viewer's attention across the many figures and the open ice?",
+      "line": "How do edges, banks and the implied trajectories of skaters create movement without strong outlines?",
+      "shape": "How does the contrast between small, vertical human forms and the broad horizontal ice shape the composition?",
+      "color": "How does a restrained wintry palette support the theme of shared leisure, and where might color accents direct attention?",
+      "texture": "How does the painter differentiate cold, smooth ice from clothing and landscape using handling and tone?",
+      "space": "How does Culverhouse use scale and recession to make a modest creek feel like a stage for many people?",
+      "light": "How does the quality of winter light help unify the scene and define the mood?",
+      "meaning": "In what ways could the painting present leisure as a shared civic value, and where might that reading idealize?",
+      "culture": "How does a scene of mixed generations on a local creek reflect social life in the United States in the 1870s?",
+      "technique": "What does the handling of tiny figures suggest about the balance between observation and arrangement in genre painting?",
+      "personal": "How do your own habits of gathering with others compare with the community pastime shown here?",
+      "critical": "How might the painting's cheerful view of a crowded creek reflect the choices of the artist and the market for such images?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the painting about the role of seasonal leisure in a community, and what remains an assumption?",
+      "emotion": "How does the absence of a single dominant face complicate any claim about the painting's emotional center?",
+      "observation": "Describe the painting's construction precisely. At what point does careful description of the crowd begin to interpret it?",
+      "analysis": "Analyze how the picture reconciles the sprawl of a crowd with the unity of a composed scene.",
+      "line": "How does the reliance on implied paths and edges, rather than firm contour, shape the viewer's reading of movement?",
+      "shape": "How do the interplay of horizontal expanse and small vertical figures structure the viewer's eye and sense of scale?",
+      "color": "How does the cool tonal range contribute to a reading of the scene as both observed and idealized?",
+      "texture": "How does the painter's handling convey material difference while keeping the figures small, and what does this reveal about priorities?",
+      "space": "How does the construction of a wide, receding surface position the viewer as a spectator rather than a participant?",
+      "light": "In what ways does light in the painting function as both description of weather and a means of unifying the crowd?",
+      "meaning": "Evaluate competing readings of the scene as nostalgic recreation, social documentation or quiet civic ideal. Which is best supported?",
+      "culture": "How might this image of shared recreation relate to the broader place of genre painting in the United States in the 1870s, and what context would you need to say more?",
+      "technique": "What does the treatment of figures and surface suggest about the artist's method, and what limits are there in judging it from a reproduction?",
+      "personal": "How does your own context shape what you notice first in a picture of communal leisure, and where might this narrow your reading?",
+      "critical": "Given what a single painting can and cannot document, what standards of evidence should shape claims about the community it shows?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Children, Men, Women, Skating), medium and classification read from the Met record: a winter recreation scene. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Culverhouse's 1875 painting shows people skating on the Wissahickon, a creek near Philadelphia. Leisure scenes like this record how ordinary communities spent their time.",
+    "vocabulary": [
+      "genre painting",
+      "composition",
+      "scale",
+      "recession",
+      "oil paint",
+      "leisure"
+    ],
+    "directions": [
+      "Have students sketch the scene as a map: where is the ice, where are the groups, where does the eye enter?",
+      "Ask students to write a short caption for one small group of skaters and share what in the painting supports it.",
+      "Compare with a winter scene from another culture in the archive and discuss how each artist treats crowds."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-435704",
+  "day": "03-19",
+  "title": "A Limier Briquet Hound",
+  "artist": "Rosa Bonheur",
+  "date": "ca. 1856",
+  "medium": "Oil on canvas",
+  "movement": "Realism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123961.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP123961.jpg",
+    "credit": "The Metropolitan Museum of Art, Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An oil portrait of a single hound dog by the French painter Rosa Bonheur. The dog's coat and features are painted with careful, lifelike detail.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435704",
+    "objectId": "435704",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, classification (Paintings), tag (Dogs), and image URLs read from the record"
+  },
+  "context": "An oil painting of a single hound by the French artist Rosa Bonheur, made around 1856. The title names a limier briquet, a type of French hound, and Bonheur was celebrated in her lifetime for her close studies of animals.",
+  "descriptions": {
+    "k": "This is a picture of one dog. It is a hound, a kind of dog with a great nose. The artist painted it very carefully. Look at its ears and eyes. What do you think the dog is thinking?",
+    "g12": "Rosa Bonheur painted this hound, a kind of dog that follows smells. She looked at animals very carefully before painting them. Look at the dog's ears, eyes, and coat. Which parts look soft? What kind of dog personality do you see? Does it seem friendly, calm, or watchful?",
+    "g35": "Rosa Bonheur, a French painter, was famous for making animals look alive. This portrait shows a hound of the kind called a limier briquet, a type of French scent hound. Look at the dog's face, ears, and coat. How does Bonheur show its character, and what does the way it looks out make you think the dog is feeling?",
+    "g68": "Bonheur gave animals the same serious attention that portrait painters gave to people. In this oil painting from about 1856, a single hound is the whole subject. Notice how fine brushwork builds the coat, how light models the head, and how the dog's expression invites you to wonder about its feelings. How does treating a dog like a portrait sitter change the way we think about animals?",
+    "g910": "A Limier Briquet Hound presents a single working breed with the attention of a formal portrait. Bonheur's training in animal anatomy and her habit of close observation appear in the modeling of head, coat, and expression. The painting invites questions about how artists convey personality in animals without human features, and about how a breed associated with work in the field is presented here as an individual subject. How do light, pose, and detail create presence?",
+    "g1112": "In this portrait of a limier briquet hound, Bonheur applies Realist habits of close observation to an animal subject, offering a counterpart to the grand scale of her horse and cattle pictures. The painting asks viewers to weigh anatomical fidelity against the sense of character that painters, and viewers, often read into animals. Because the title identifies a breed type used in working contexts, the picture also invites reflection on how animals are valued in 19th-century France. What does the visual evidence support?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think this hound is thinking about?",
+      "emotion": "Does the dog look happy, calm, or sad? Show with your face.",
+      "observation": "Find the dog's ears, eyes, and nose. Which one do you like best?",
+      "analysis": "What part of the dog do your eyes see first? Why?",
+      "line": "Trace the line of the dog's back or ears in the air with your finger.",
+      "shape": "What shapes make up the dog's head? Look at the nose and ears.",
+      "color": "What colors is the dog? Where do you see dark and light parts?",
+      "texture": "How would the dog's coat feel to pet? Is it soft, smooth, or rough?",
+      "space": "Is the dog close to you or far away? How do you know?",
+      "light": "Where does the light shine on the dog? Where is it shadowy?",
+      "meaning": "Make up a name and a story for this dog.",
+      "culture": "This dog was painted in France long ago. What jobs do dogs do for people today?",
+      "technique": "The artist used oil paint. How did she make the dog look so real?",
+      "personal": "Do you know a dog? How is it like this one?",
+      "critical": "Why do you think someone painted a portrait of a dog, like a portrait of a person?"
+    },
+    "g12": {
+      "daily": "What personality does this hound seem to have? Show a clue from the painting.",
+      "emotion": "Does the dog feel relaxed, alert, or gentle? Point to what shows that.",
+      "observation": "Describe the dog's face, ears, and coat in as much detail as you can.",
+      "analysis": "How does the artist make the dog the most important thing in the picture?",
+      "line": "Find the curved lines in the dog's ears or body. What do they show?",
+      "shape": "What big shapes make up the dog's body? How do they fit together?",
+      "color": "Which colors are in the dog's coat? How do they help show its shape?",
+      "texture": "How does the painter show fur? Where does it look softest?",
+      "space": "Does the background feel close to the dog or far behind it? How can you tell?",
+      "light": "Where is the brightest spot on the dog? How does the light make it look round?",
+      "meaning": "What kind of work do you think a hound might do? What clues in the dog's look support your idea?",
+      "culture": "People in France long ago kept special kinds of dogs for different jobs. Why might a painter choose a working dog as a subject?",
+      "technique": "The artist studied animals closely before painting them. How might that help her paint a dog?",
+      "personal": "What would you want to tell this dog if you met it?",
+      "critical": "Is this picture more like a photograph or more like a painting? Explain what you see."
+    },
+    "g35": {
+      "daily": "What details in the dog's face and body show its character?",
+      "emotion": "What mood does the hound's expression create? Which features suggest it?",
+      "observation": "Take one quiet minute to look at the dog's eyes, nose, and ears. What did you notice that you missed at first?",
+      "analysis": "How does Bonheur arrange the dog and its surroundings so the dog stands out?",
+      "line": "How do the lines of the dog's ears, back, and legs show its shape and pose?",
+      "shape": "How do the long ears and rounded head make the dog look like a hound?",
+      "color": "How do the dog's coat colors stand out against the rest of the painting?",
+      "texture": "How does Bonheur paint fur so that it looks soft, and how is that different from other surfaces?",
+      "space": "How does the artist suggest depth, such as the dog being in front of a background?",
+      "light": "How does light on the dog's head and body make it look real and solid?",
+      "meaning": "Bonheur treated a dog like a portrait subject. What might that say about how she felt about animals?",
+      "culture": "A limier briquet is a type of French hound. Why might people in France have valued dogs like this?",
+      "technique": "Bonheur studied animals carefully and painted in oil. How could close study help her paint a lifelike dog?",
+      "personal": "Think of an animal you know well. What makes it different from others of its kind?",
+      "critical": "Can an animal have a personality in a painting? What evidence in this picture supports your answer?"
+    },
+    "g68": {
+      "daily": "How does Bonheur make a single hound feel like an individual with a personality?",
+      "emotion": "What emotional tone does the hound's expression and posture convey? Which choices create it?",
+      "observation": "Describe the painting from the dog's head to its body. Which details seem most carefully studied?",
+      "analysis": "How does the composition keep the dog as the unmistakable focus?",
+      "line": "How do contour and edge qualities help define the dog's form against its setting?",
+      "shape": "How do the large shapes of head, body, and ears organize the dog's anatomy?",
+      "color": "How does the range of tones in the coat suggest form and keep the painting unified?",
+      "texture": "How does brushwork distinguish fur from other parts of the painting?",
+      "space": "How does the painter position the dog in space so that it seems both present and independent?",
+      "light": "How does the modeling of light on the head show structure and mood?",
+      "meaning": "What might it say about 19th-century attitudes that an artist gave a working dog a portrait?",
+      "culture": "How might dogs like this hound have fit into life and work in France in Bonheur's time?",
+      "technique": "How does Bonheur's animal study, including observation of anatomy, appear in the painting's convincing details?",
+      "personal": "How is observing a pet carefully different from just living with it?",
+      "critical": "Do we read feelings into animals because they are there, or because we project them? Use the painting to discuss."
+    },
+    "g910": {
+      "daily": "What formal choices give this hound the presence of a portrait sitter?",
+      "emotion": "How does Bonheur convey temperament through posture, gaze, and light rather than human features?",
+      "observation": "Identify the visual hierarchy: which parts of the dog draw the eye first, and how?",
+      "analysis": "How does the arrangement of the dog relative to the canvas edges and background create focus?",
+      "line": "How do contour and edges vary, and what does that variation suggest about form and softness?",
+      "shape": "How do the major masses of the dog's head and body create stability and character?",
+      "color": "How does a restrained range of coat tones support both realism and mood?",
+      "texture": "How does Bonheur evoke fur through brush handling, and how does it contrast with smoother passages?",
+      "space": "How does the shallow or limited setting direct focus to the subject?",
+      "light": "How does the modeling of light contribute to the sculptural quality of the head?",
+      "meaning": "What does depicting a working breed as an individual suggest about relationships between people and animals?",
+      "culture": "How do portraits of animals connect to 19th-century ideas about breeds, work, and companionship?",
+      "technique": "How might anatomical study and extended observation of living animals shape Bonheur's technique?",
+      "personal": "How does your experience with animals shape what you expect to see in a picture like this?",
+      "critical": "How does Bonheur's reputation as a leading woman animal painter affect the ways viewers might approach this work?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence on the canvas about how Bonheur constructs character in a non-human subject?",
+      "emotion": "How does the painting both invite and complicate the attribution of human emotion to an animal?",
+      "observation": "Describe the painting's formal construction with precision. When does description start to imply interpretation?",
+      "analysis": "Analyze how placement, lighting, and surrounding space structure the viewer's relationship to the hound.",
+      "line": "How does the balance between defined contour and softer edges contribute to the sense of life?",
+      "shape": "How does the grouping of large masses make the animal both anatomically convincing and compositionally stable?",
+      "color": "How might the painting's tonal harmony serve a Realist aim, and how could aging pigments or varnish change what we see?",
+      "texture": "How does the painting simulate varied surfaces, and what does this say about the status of illusion in animal painting?",
+      "space": "How does the treatment of space position the viewer as observer or companion, and why does that matter?",
+      "light": "How does the painting treat light as both descriptive tool and source of mood?",
+      "meaning": "Evaluate readings of the work as a study of breed, a portrait of an individual, or a statement about animal character. Which does the evidence best support?",
+      "culture": "How does the painting situate working dogs within mid-19th-century French society, and what ethical or social questions might it raise today?",
+      "technique": "What does the painting's finish suggest about Bonheur's methods and how animal paintings were produced and sold?",
+      "personal": "How does your own relationship with animals shape what you notice here, and where might it limit your reading?",
+      "critical": "How might the context of Bonheur's career and gender shape interpretation of this work, and what evidence should such claims rest on?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Paintings), and tag (Dogs) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Rosa Bonheur's hound portrait of about 1856. The title names a limier briquet, a type of French scent hound; Bonheur was one of the best-known animal painters of her era.",
+    "vocabulary": [
+      "portrait",
+      "Realism",
+      "breed",
+      "anatomy",
+      "oil paint",
+      "modeling"
+    ],
+    "directions": [
+      "Have students describe a pet or class animal's personality using only visual evidence, then compare with this hound.",
+      "Discuss the difference between a portrait of a person and a portrait of an animal.",
+      "Pair this with another Bonheur work in the archive and compare how she treats a single animal versus a crowd."
+    ]
+  }
+}

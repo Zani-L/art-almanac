@@ -1,0 +1,158 @@
+{
+  "id": "met-6015",
+  "day": "03-30",
+  "title": "Dish",
+  "artist": "Artist unknown (Dutch)",
+  "date": "1704",
+  "medium": "Tin-glazed earthenware",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP207243.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP207243.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1938",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round, shallow ceramic dish with a painted scene of a house in a landscape. The painting covers the glazed surface of the dish.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/6015",
+    "objectId": "6015",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture (Dutch), date, medium, tags (Houses, Landscapes), diameter, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A dish made in the Netherlands and dated 1704 in the Met record. It is tin-glazed earthenware, a kind of pottery with an opaque white glaze that was widely made in the Dutch Republic and is often called Delftware. The dish is about 9 inches (22.9 cm) across.",
+  "descriptions": {
+    "k": "This is a round dish made of clay. Someone painted a picture on it. You can see a house and land. It was made in the Netherlands a very long time ago. What do you see in the picture?",
+    "g12": "This dish was made of clay in the Netherlands in 1704. It has a smooth, shiny white surface. A painter added a picture of a house and land. The dish is about as wide as a big dinner plate. Look closely at the picture. What do you think life was like there?",
+    "g35": "This dish was made in the Netherlands in 1704 from clay covered with a white glaze that contains tin. This kind of pottery was made in many Dutch towns, and one famous example is called Delftware. A painter has decorated the dish with a house in a landscape. Look for the lines the painter used to show buildings and land. Why would a family want a picture on a plate?",
+    "g68": "Tin-glazed earthenware like this dish was a major Dutch product in the 1600s and 1700s, partly because it offered a cheaper way to imitate the look of imported porcelain. The 1704 dish carries a painted landscape with a house. How does the artist fit a picture onto a round, shallow shape? Think about what the scene suggests about Dutch life, and why a country that traded widely would want pictures of home on its tableware.",
+    "g910": "This Dutch dish of 1704 turns a household object into a small painted landscape. Tin glaze creates a bright white surface that works like a canvas, and the Met's tags identify houses and landscapes as the subject. The round format forces choices about composition, since the painter must fit scenery to a circle. Consider how the dish connects Dutch ceramic production to global trade, since tin-glazed pottery developed partly in response to imported porcelain.",
+    "g1112": "Dutch tin-glazed earthenware occupies a fascinating position between luxury and everyday use. Developed in part to rival imported porcelain, it carried painted scenes of houses and landscapes into ordinary homes, as this 1704 dish does. Its place in the Met's American Wing collection invites further questions about how Dutch goods circulated and what such objects meant to those who used them. Ask how the circular format shapes the painter's composition, and how domestic imagery relates to a trading culture."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you see painted on this dish? Tell about the house and the land.",
+      "emotion": "Does this dish look busy or peaceful? What makes you think so?",
+      "observation": "Can you find the house on the dish? What is near it?",
+      "analysis": "What is the first thing you see on the dish? Why do your eyes go there?",
+      "line": "Trace a line that makes the shape of the house with your finger.",
+      "shape": "The dish is a circle. What shapes do you see inside it?",
+      "color": "What colors did the painter use on the dish? Which one stands out?",
+      "texture": "The dish has a smooth, shiny glaze. How do you think it would feel?",
+      "space": "Which parts of the picture are close to you and which are far away?",
+      "light": "Where does the dish look brightest? What part looks shiniest?",
+      "meaning": "Why do you think someone painted a house on a dish?",
+      "culture": "This dish is from the Netherlands, a country in Europe. What food would you put on a dish like this?",
+      "technique": "The painter made a picture on a curved dish. What would be tricky about that?",
+      "personal": "If you could paint a picture of your home on a dish, what would you include?",
+      "critical": "Would you eat from this dish or hang it on a wall? Explain your idea."
+    },
+    "g12": {
+      "daily": "What small scene is painted on this dish, and what do you notice about the house?",
+      "emotion": "What feeling does the picture of a house in the countryside give you?",
+      "observation": "List three things you see in the painted scene on this dish.",
+      "analysis": "How has the painter placed the house and the land so they fit inside the round dish?",
+      "line": "Look for lines that make the house, the ground, and the plants. Which are straight and which are curved?",
+      "shape": "Find the round shape of the dish and the boxy shape of the house. How do they work together?",
+      "color": "Which colors in the painted picture stand out against the white glaze?",
+      "texture": "The glaze is smooth and glassy. How does it look different from the painted lines?",
+      "space": "Which parts of the scene look nearer and which look farther away? How can you tell?",
+      "light": "Where does the dish look shiniest? What does that tell you about the glaze?",
+      "meaning": "Why might a family choose a dish with a house on it?",
+      "culture": "In the Netherlands, many people made dishes like this from clay with a white glaze. What dishes do you see used in your community?",
+      "technique": "A painter used a brush on a white glaze before the dish was baked in a hot oven. What problems could that cause?",
+      "personal": "Think of a dish or bowl that is special to you. What does it show or remind you of?",
+      "critical": "Could a dish like this be both useful and a work of art? What do you think?"
+    },
+    "g35": {
+      "daily": "What details of the painted house and landscape reward a closer look?",
+      "emotion": "What mood does the painted scene give the dish, and which details create it?",
+      "observation": "Look at the dish for one minute. Which small painted details can you find in the landscape?",
+      "analysis": "How does the painter arrange the house and landscape so that the circle of the dish feels full?",
+      "line": "How do the painted lines show the shape of the house and the shape of the land?",
+      "shape": "How does the round shape of the dish affect where the painter put the house and landscape?",
+      "color": "How does the painted color stand out against the white tin glaze?",
+      "texture": "How would the shiny glaze and the painted details feel different if you touched them?",
+      "space": "How does the painter make the scene look deep on a flat, round dish?",
+      "light": "How does the white glaze reflect light, and how does that change the look of the painted picture?",
+      "meaning": "A house in a landscape can stand for home. Why might a Dutch family want that picture on a dish?",
+      "culture": "Dutch potters made tin-glazed dishes for many families in the early 1700s. What does that tell you about everyday life then?",
+      "technique": "Tin glaze makes a bright white surface that is good for painting on. Why might that be useful for a potter?",
+      "personal": "What place would you want painted on a dish for your family? Why?",
+      "critical": "Is a painted scene on a dish less important than a painting on canvas? Use details to explain your thinking."
+    },
+    "g68": {
+      "daily": "How does the painter turn a plain dish into a small picture of home and landscape?",
+      "emotion": "How does a calm, painted landscape affect the way the dish feels as an object for the table?",
+      "observation": "List the parts of the painted scene. Which details seem most carefully placed?",
+      "analysis": "How does the composition adapt to a circular format, and where does the eye travel across the dish?",
+      "line": "How do the painted lines suggest buildings, ground, and plants, and which lines are strongest?",
+      "shape": "How does the dish's circular shape shape the way the painter arranges the house and the landscape?",
+      "color": "How does the contrast between the painted color and the white glaze organize the picture?",
+      "texture": "How do the glassy glaze and the line of paint under it create a different look from a painting on canvas?",
+      "space": "How does the painter suggest distance in the landscape, and where does the scene feel flat?",
+      "light": "How does the reflective surface of the glaze change the way we see the painted scene?",
+      "meaning": "What might a house in a landscape suggest about security, property, or national pride in the Netherlands?",
+      "culture": "Why might tin-glazed pottery have become popular in a trading nation that also imported porcelain?",
+      "technique": "Painters worked on the glaze before firing, which makes mistakes hard to fix. How might that affect their style?",
+      "personal": "What would a dish that tells your family's story look like?",
+      "critical": "Does the dish's age and rarity change how we should value it, or is it only worth what it shows?"
+    },
+    "g910": {
+      "daily": "How does a household dish become a vehicle for a small painted landscape?",
+      "emotion": "How does the domestic subject matter shape the emotional tone of the dish?",
+      "observation": "Describe how the viewer's attention is guided across the dish, from rim to center.",
+      "analysis": "Analyze how the painter fits house and landscape into a circular field, and what that format requires.",
+      "line": "How does line, rather than shading, define forms in the painted scene?",
+      "shape": "How do the circular dish and the angular house interact to form a composition?",
+      "color": "How does the strong contrast between painted color and white glaze create focus?",
+      "texture": "How do the smooth, reflective glaze and the painted decoration create two different surface qualities?",
+      "space": "How does the scene balance a flat decorative surface with suggestions of distance?",
+      "light": "How does a shiny glaze complicate the viewer's perception of the painted image?",
+      "meaning": "How might the imagery of houses and landscapes express ideas about home, property, and place in the early 1700s?",
+      "culture": "How did tin-glazed Dutch pottery respond to the market for imported porcelain, and how does this dish reflect that context?",
+      "technique": "What does painting on an unfired glaze demand from the decorator, and how might that influence the style of line?",
+      "personal": "How does the idea of painting your own surroundings on a household object connect with your own sense of home?",
+      "critical": "What does it mean to treat a utilitarian dish as a work of art, and how does the museum frame that choice?"
+    },
+    "g1112": {
+      "daily": "What does a painted domestic landscape on a tin-glazed dish suggest about the intersection of art, trade, and home life in the Dutch world?",
+      "emotion": "How might the contrast between a humble, usable object and a carefully painted scene shape the viewer's feeling?",
+      "observation": "Describe the painted image and the dish's surface with precision. Where does description start to involve interpretation?",
+      "analysis": "Analyze how the painter negotiates between the picture and the object's circular form.",
+      "line": "How does the dish rely on line and contour in place of modeled shading, and what effect does that have?",
+      "shape": "How does the circular frame of the dish impose limits on the composition, and how are they used?",
+      "color": "How does the white ground, whatever the palette of the painted scene, define how the image reads?",
+      "texture": "How does the layering of glaze over paint complicate our sense of surface and image?",
+      "space": "How does a landscape image on a curved, functional object differ from the spatial illusion of a framed painting?",
+      "light": "How might gloss and reflection have mattered to the object's original users, and how do museum conditions change that?",
+      "meaning": "How might the depiction of houses and landscapes on tableware be read as an expression of domestic values, national identity, or simple decorative preference?",
+      "culture": "The Met's American Wing holds this Dutch dish. What does that suggest about the circulation of Dutch ceramics and how museums categorize them?",
+      "technique": "How does the process of painting under or on glaze shape the visual vocabulary of Dutch tin-glazed ware?",
+      "personal": "How do your assumptions about everyday objects shape how you read this dish: as art, craft, or document?",
+      "critical": "What evidence would you need to understand the dish's original use and meaning, and which of our assumptions might be mistaken?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, culture, medium, department and tags (Houses, Landscapes) read from the Met record. A painted ceramic dish with a house and landscape, so no sensitive content is expected.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Tin-glazed earthenware, often called Delftware when made in the Netherlands, was a major Dutch product that competed with imported Asian porcelain. The Met record dates this dish to 1704 and tags it Houses and Landscapes.",
+    "vocabulary": [
+      "earthenware",
+      "tin glaze",
+      "Delftware",
+      "composition",
+      "firing",
+      "landscape"
+    ],
+    "directions": [
+      "Have students plan a painted scene that fits inside a circle and explain how they placed their main subject.",
+      "Ask students to discuss why a country that imported porcelain might develop its own tin-glazed pottery.",
+      "Compare this dish with another plate or bowl in the archive and discuss how shape affects the picture."
+    ]
+  }
+}

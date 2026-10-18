@@ -1,0 +1,158 @@
+{
+  "id": "met-312608",
+  "day": "01-16",
+  "title": "Tuber-inspired stirrup-spout bottle with monkeys",
+  "artist": "Moche artist(s)",
+  "date": "200-800 CE",
+  "medium": "Ceramic, slip",
+  "region": "Moche culture, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-32943-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-32943-001.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A ceramic bottle whose rounded body is inspired by a tuber, with monkeys shown on it. A looped, stirrup-shaped handle rises from the top to a single spout.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312608",
+    "objectId": "312608",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, credit line, classification, tag (Monkeys), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A ceramic bottle made by Moche artists on the coast of Peru between about 200 and 800 CE. Its body is inspired by a tuber, and monkeys appear on it. The stirrup-shaped spout is a form closely associated with Moche pottery.",
+  "descriptions": {
+    "k": "This clay bottle looks like a root vegetable. Monkeys are part of it. A loop of clay curves over the top like a handle. Can you find the spout? Artists in Peru made it long ago.",
+    "g12": "Moche artists in Peru made this clay bottle over a thousand years ago. Its round body is inspired by a tuber, a plant part that grows underground, like a potato. Monkeys are shown on it. A loop of clay rises to a spout. Which part do you notice first?",
+    "g35": "This bottle was made by Moche artists on the coast of Peru between about 200 and 800 CE. Its body is inspired by a tuber, a plant part that grows underground, and monkeys appear on it. A loop of clay called a stirrup rises to a single spout. Look closely at how the artist joined plant and animal. Why might they have blended these two things?",
+    "g68": "Moche potters of coastal Peru shaped this stirrup-spout bottle, a form closely associated with their pottery. Instead of a plain jar, the body takes the shape of a tuber, with monkeys joining the design. The mix of plant and animal shows how closely Moche artists looked at their world, though scholars are careful about guessing what any one image meant. The loop handle and single spout may also have made the bottle easier to hold and pour.",
+    "g910": "This stirrup-spout bottle blends three ideas: a tuber, monkeys, and the looped form that identifies much Moche pottery. Moche potters often used molds and hand modeling to turn everyday subjects, including plants and animals, into sculptural vessels. Notice how the stirrup spout adds a strong vertical to the rounded body. Scholars debate whether images like these carried symbolic meanings tied to food, fertility, or story, so it helps to separate what we can see from what we can only suggest.",
+    "g1112": "Made between about 200 and 800 CE, this bottle shows how Moche potters turned a staple of food culture, the tuber, into sculpture and gave it monkeys. Moche ceramics are often discussed as a rich visual record because makers modeled and painted plants, animals, and people in great variety. Yet interpretation needs care: no Moche writing survives to explain these images, so claims about symbolism rest on comparison and context. How might a viewer separate observation from inference when reading a vessel like this?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many monkeys can you find on this clay bottle? Point to each one.",
+      "emotion": "Do the monkeys on this bottle look playful, sleepy, or something else? Show us why.",
+      "observation": "What parts can you name on this bottle: the round body, the loop, the spout? Point to each.",
+      "analysis": "Where do your eyes go first, to the monkeys or to the loop handle? Why?",
+      "line": "Trace the curved loop of the handle in the air. Where does it start and stop?",
+      "shape": "The body is inspired by a tuber. What food does its shape remind you of?",
+      "color": "What colors do you see on this bottle? Which one stands out most?",
+      "texture": "How do you think the monkeys would feel if you touched them? Smooth or bumpy?",
+      "space": "Which part of the bottle is highest? Which part would touch the table?",
+      "light": "Where does the bottle look bright? Where does it look darker?",
+      "meaning": "Why do you think the maker put monkeys on a bottle shaped like a plant?",
+      "culture": "Moche artists in Peru made this long ago. What animals near your home could an artist add to a bottle?",
+      "technique": "This bottle is made of clay. How do you think someone shaped the little monkeys by hand?",
+      "personal": "If you made a bottle shaped like your favorite food, which animal would you add?",
+      "critical": "What clues tell you this bottle was made to be held and poured from?"
+    },
+    "g12": {
+      "daily": "What is the most surprising part of this bottle? Describe it and tell why it caught your eye.",
+      "emotion": "What feeling do the monkeys give this bottle: funny, calm, or busy? Point to something that shows it.",
+      "observation": "Describe the bottle from the bottom to the top. What do you see along the way?",
+      "analysis": "How does the loop connect the round body to the spout? Trace the path with your finger.",
+      "line": "Find curved lines on the monkeys and on the stirrup loop. Which curve is the longest?",
+      "shape": "A tuber can be lumpy and uneven. How is the bottle's body different from a perfect circle?",
+      "color": "Which colors did the artist use on the slip, the thin coat of liquid clay? Where are they strongest?",
+      "texture": "Which parts of the bottle look smooth and which look bumpy? How can you tell?",
+      "space": "Where on the bottle do you find the monkeys: near the bottom, the middle, or the top?",
+      "light": "Imagine a lamp shining on the bottle. Which parts would catch the light and which would fall into shadow?",
+      "meaning": "Tubers grow underground and monkeys live in trees. Why might an artist put them together?",
+      "culture": "The Moche lived on the coast of Peru. What do the tuber and the monkeys tell you about the plants and animals they knew?",
+      "technique": "Why do you think the potter made the spout part of a loop instead of a plain tube?",
+      "personal": "Which animal would you put on a bottle that is yours? Why?",
+      "critical": "Is this bottle a toy, a tool, or art? What evidence from its shape supports your idea?"
+    },
+    "g35": {
+      "daily": "How did the maker combine a plant shape and monkeys into one object? Which details show this best?",
+      "emotion": "What mood do the monkeys bring to a bottle that is also a tuber? Which details support your answer?",
+      "observation": "Study the bottle for one minute. List five details, from the stirrup spout to the monkeys.",
+      "analysis": "How do the loop, the spout, and the rounded body work together to make one balanced object?",
+      "line": "How does the curve of the stirrup handle compare with the curves of the monkeys' bodies?",
+      "shape": "Compare the body's tuber shape with the thin loop on top. How do the two shapes create contrast?",
+      "color": "How do the colors of the slip help the monkeys stand out from the bottle's body?",
+      "texture": "A tuber's skin is often uneven. Where do you see the maker suggesting that on this bottle?",
+      "space": "Imagine walking around the bottle. What might you see on the far side, and why does a 3D object change your view?",
+      "light": "How does light sliding across the rounded body change the way the monkeys look?",
+      "meaning": "Moche artists often showed animals and plants from their world. What might the monkeys and the tuber tell us about what mattered to them?",
+      "culture": "The Moche have no known writing system. How can objects like this bottle help us learn about them?",
+      "technique": "Moche potters shaped clay by hand and sometimes with molds. Which parts of this bottle look hand-modeled, and why?",
+      "personal": "Think of a favorite food from your family. How would you design a bottle inspired by it?",
+      "critical": "We can see this bottle but cannot ask its maker. What can we say for sure, and what is only a guess?"
+    },
+    "g68": {
+      "daily": "What choices did the maker make to turn a tuber into a sculpture with monkeys? Which one surprises you most?",
+      "emotion": "Does the bottle feel playful, serious, or both? Use details of shape to support your idea.",
+      "observation": "Describe the bottle's three main parts: body, stirrup, and spout. What changes as your eyes move from bottom to top?",
+      "analysis": "How does the stirrup spout balance the rounded body? What would change if the spout were a simple tube?",
+      "line": "How do the long, smooth curve of the stirrup and the shorter curves of the monkeys create rhythm?",
+      "shape": "An uneven, organic body meets a crisp loop in this vessel. How does that contrast shape your impression?",
+      "color": "How do the slip colors separate the monkeys from the body? Which edges are clearest?",
+      "texture": "Which surfaces look polished and which look rougher? What might a potter do to create that difference?",
+      "space": "A sculpture like this has to work from every side. How might the monkeys and stirrup look different as you turn the bottle?",
+      "light": "How might the bottle's curved surfaces catch light differently from a flat painting of the same subject?",
+      "meaning": "Why might Moche potters unite a food plant with animals? Offer two possible explanations and the evidence for each.",
+      "culture": "How might a bottle that holds liquid also show ideas about food and animals in Moche daily life?",
+      "technique": "What does a stirrup-spout design suggest about problems potters solved, such as carrying, pouring, or sealing a liquid?",
+      "personal": "How do you decide when an everyday object, such as a bottle or cup, deserves to be decorated?",
+      "critical": "Without written Moche records, how confident can we be about what the monkeys mean? What counts as good evidence?"
+    },
+    "g910": {
+      "daily": "How does this vessel unite function and imagery, and which formal choices make that union convincing?",
+      "emotion": "How does the pairing of animals with a plant form shape the emotional tone of the bottle?",
+      "observation": "Describe the visual hierarchy of the vessel: what draws attention first, second, and third, and why?",
+      "analysis": "Analyze the relationship between the stirrup and the body. How does each define the other?",
+      "line": "How does the contour of the stirrup carry the eye upward, and how do the monkeys interrupt or continue that movement?",
+      "shape": "How do the tuber's irregular volumes and the stirrup's precise arc create tension within one object?",
+      "color": "How does slip color define figure and ground on the surface of this bottle?",
+      "texture": "How do differences between smooth slipped surfaces and modeled forms shape the vessel's tactile appeal?",
+      "space": "How does a three-dimensional vessel invite circling, and what might each angle reveal about the monkeys?",
+      "light": "How would changing light, such as dim lamplight versus daylight, alter how the volumes of this vessel read?",
+      "meaning": "What are the risks of reading the monkeys symbolically, and what comparative evidence could strengthen such readings?",
+      "culture": "How does studying a culture through its pottery, rather than its texts, change what questions we can ask?",
+      "technique": "How might mold-making and hand finishing together allow a workshop to produce complex forms like this tuber-and-monkey bottle?",
+      "personal": "How does an object designed to be held and poured from differ from a painting on a wall in the way you respond to it?",
+      "critical": "Museums display Moche bottles as art. What is gained and what might be lost when a functional vessel is viewed as sculpture?"
+    },
+    "g1112": {
+      "daily": "How does this bottle resist a single interpretation, and what evidence should guide any reading of the monkeys and the tuber?",
+      "emotion": "If you find humor or strangeness here, how might that response vary across time and cultures?",
+      "observation": "Describe the vessel's construction precisely before proposing meanings. Which of your descriptions already carry assumptions?",
+      "analysis": "Analyze how stirrup, tuber body, and animals form a hierarchy of parts, and what that hierarchy might suggest about the maker's priorities.",
+      "line": "How does the interplay of the stirrup's clean arc and the body's organic contours stage a tension between order and nature?",
+      "shape": "How does the tuber form, a plant that grows hidden, complicate the vessel's relationship to the animals depicted on it?",
+      "color": "How does slip, as a surface treatment applied before firing, shape what color can and cannot do on a vessel like this?",
+      "texture": "Where does surface treatment shift between description and abstraction, and what does that choice imply about the maker's aims?",
+      "space": "How does the vessel's sculptural space differ from the flat narrative space of painted pottery, and what viewing practices does it assume?",
+      "light": "How might the intended settings for such a vessel, whether a household or a burial, have shaped how it was seen?",
+      "meaning": "Evaluate competing readings of the monkeys, such as observation of nature, food symbolism, or narrative. Which are best supported here?",
+      "culture": "How do museum labels like Moche or Peru simplify a society that lasted centuries and covered many valleys?",
+      "technique": "What can the vessel's construction tell us about workshop organization, and what remains unknowable from the object alone?",
+      "personal": "How do your own food and animal associations shape what you expect this bottle to mean, and where might they mislead you?",
+      "critical": "Who gets to decide what an ancient object means: scholars, descendants, or viewers? What responsibilities come with each role?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Ceramics-Containers), objectName (Vessel), medium, and tag (Monkeys) read from the museum record; no sacred or restricted flag, human remains, nudity, or weapons indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Moche people lived on the north coast of Peru roughly between 200 and 800 CE and are known for modeled and painted ceramics. This bottle's tuber-inspired body and monkeys invite close looking; interpretations of Moche imagery are still debated.",
+    "vocabulary": [
+      "Moche",
+      "stirrup spout",
+      "tuber",
+      "slip",
+      "ceramic",
+      "modeled"
+    ],
+    "directions": [
+      "Have students sketch the bottle from the side and name each part: body, stirrup, spout.",
+      "Ask students to list what we can see versus what we can only guess about the monkeys.",
+      "Connect to science: where do tubers such as potatoes originate, and how are they grown?"
+    ]
+  }
+}

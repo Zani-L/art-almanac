@@ -1,0 +1,158 @@
+{
+  "id": "met-268827",
+  "day": "11-06",
+  "title": "Sir John Herschel",
+  "artist": "Julia Margaret Cameron",
+  "date": "1867",
+  "medium": "Carbon Print",
+  "region": "England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ph/web-large/DP295233.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP295233.jpg",
+    "credit": "The Metropolitan Museum of Art, David Hunter McAlpin Fund, 1943",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A close portrait photograph of an older man, printed in deep tones, with strong contrasts of light and shadow.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/268827",
+    "objectId": "268827",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Men, Portraits), public-domain flag, and image URLs read from the record. Region is a well-established label for the photographer, not a record field."
+  },
+  "context": "A portrait photograph by Julia Margaret Cameron dated 1867, printed as a carbon print. The sitter, Sir John Herschel, was a British scientist who made important contributions to astronomy and to the early history of photography.",
+  "descriptions": {
+    "k": "This is a photograph of an older man. It was taken a long time ago. The picture is dark and light, with a close look at his face. What do you think he is like? What would you ask him?",
+    "g12": "Julia Margaret Cameron took this close-up photograph of a man named Sir John Herschel. He was a scientist who studied the stars and helped invent ways to make photographs. Look at the dark and light parts of the picture. What do they tell you about him?",
+    "g35": "Sir John Herschel was a British scientist who studied the stars and worked on early photography. His friend Julia Margaret Cameron photographed him in 1867. She stood close and used strong light and shadow, which makes the portrait feel serious and powerful. This is a carbon print, a kind of photograph made with pigment. What do you notice about his face and the lighting?",
+    "g68": "Julia Margaret Cameron photographed her friend Sir John Herschel in 1867, near the end of his life. Herschel was an astronomer who also helped develop photographic methods, so the portrait links a scientist to the medium that Cameron was turning into an art. She framed him closely and used dramatic light, and the carbon print process, which uses pigment, gives deep tones. How do these choices shape the way you see him?",
+    "g910": "Cameron's portrait of Sir John Herschel brings together a scientist and an artist who both shaped early photography. Made in 1867, it uses close framing and strong contrasts of light and dark to give the sitter a monumental presence. The carbon print process, based on pigment rather than the silver of albumen prints, yields rich, stable tones. Consider how Cameron presents Herschel: as a portrait of a man, a symbol of intellect, or both, and how the photographic choices support that reading.",
+    "g1112": "Cameron's 1867 portrait of Sir John Herschel pairs an artist who expanded photography's expressive range with a scientist who helped shape its early methods. Close framing, dramatic light, and the carbon print's deep tonal range grant the sitter a monumental presence that critics have often compared to painted portraits of great thinkers. Interpretations differ on whether the image flatters or simply records, and the photograph offers little narrative to settle the question. How do these formal choices participate in constructing an image of intellectual authority?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What would you like to ask this man if you could meet him?",
+      "emotion": "Does he look kind, serious, or something else? What do you see?",
+      "observation": "What parts of his face and head can you find? Point to three.",
+      "analysis": "Where do your eyes go first in this portrait? Why?",
+      "line": "Look at the edges of his head and shoulders. Are they sharp or soft? Trace one in the air.",
+      "shape": "What big shape does his head make in the picture?",
+      "color": "This photograph is mostly dark and light. How does that make him seem?",
+      "texture": "What parts look soft, like hair, and what parts look rough? How do you know?",
+      "space": "He is very close to the camera. How does that make you feel?",
+      "light": "Which part of his face is brightest? Where is it darkest?",
+      "meaning": "He studied the stars and helped with photography. How do you think a person like that spends the day?",
+      "culture": "This man lived long ago in England. What do you think was different about his life from yours?",
+      "technique": "Cameras were new then. Why do you think people had to sit very still for a portrait?",
+      "personal": "What would you like people to see when they look at a photograph of you?",
+      "critical": "A photograph is made by a person who chooses how to take it. What choices can you notice here?"
+    },
+    "g12": {
+      "daily": "What does this portrait tell you about Sir John Herschel? Use details to explain.",
+      "emotion": "How would you describe the mood of the portrait? Which light and dark parts help?",
+      "observation": "Describe five things you notice about the man and how he is shown.",
+      "analysis": "How does the photographer make his face the most important part?",
+      "line": "Follow the outline of his head and shoulders. How does the line make him look strong or soft?",
+      "shape": "Look at the large shapes of dark and light. How do they make the picture feel serious?",
+      "color": "The picture is made of deep dark tones and bright lights. How does the contrast change how you feel?",
+      "texture": "How does the picture show soft hair or rough cloth? What do you see?",
+      "space": "There is very little empty space around him. What does that do?",
+      "light": "Where does the light come from? How does it shape his face?",
+      "meaning": "He was a scientist. Do you think the photograph shows that? What might show it?",
+      "culture": "Cameron and Herschel were friends who both cared about photography. What might they have talked about?",
+      "technique": "This is a carbon print, made with pigment. Why might someone want a picture that lasts a long time?",
+      "personal": "Who is someone you admire? How would you show them in a photograph?",
+      "critical": "A portrait can make someone look strong, or kind, or wise. What does this one do?"
+    },
+    "g35": {
+      "daily": "How does Cameron use light, shadow, and closeness to show who Herschel was?",
+      "emotion": "What feeling or impression do the strong lights and darks give you about the man?",
+      "observation": "Take one minute of silent looking. What small details of his face, hair, or clothing appear?",
+      "analysis": "How does Cameron frame the portrait so that you focus on his face?",
+      "line": "How do the soft edges and strong shapes help you see his features?",
+      "shape": "How do the large masses of dark and light give the portrait weight?",
+      "color": "Carbon prints have deep, rich tones. How might this picture feel different if the tones were pale?",
+      "texture": "How does the photograph suggest soft hair and the surface of skin and clothing?",
+      "space": "How does the closeness of the camera change what you feel about the man?",
+      "light": "How does the direction of light help you see his features?",
+      "meaning": "Why might Cameron have photographed a scientist friend in such a powerful way?",
+      "culture": "In the 1860s, some people thought photography was just a tool, not an art. How could this portrait argue against that idea?",
+      "technique": "A carbon print is made from pigment instead of silver. Why might that make it last longer?",
+      "personal": "If you were to photograph someone important to you, how close would you stand? Why?",
+      "critical": "Does a dramatic photograph show the truth about a person, or an idea about them? Explain."
+    },
+    "g68": {
+      "daily": "How does Cameron present Sir John Herschel as more than a simple likeness?",
+      "emotion": "What atmosphere does the dramatic lighting create around the sitter?",
+      "observation": "Describe the portrait in detail without interpretation. Which parts are sharp and which are soft?",
+      "analysis": "How does the cropping and placement of the head create impact?",
+      "line": "How do the edges and contours of the head and shoulders guide your eye?",
+      "shape": "How do large masses of tone give the portrait a sculptural quality?",
+      "color": "How does the deep tonal range of the carbon print enhance the drama of the image?",
+      "texture": "How does selective sharpness shape your sense of texture?",
+      "space": "How does the shallow space and tight cropping affect the sense of intimacy?",
+      "light": "How does the pattern of light and shadow model the face?",
+      "meaning": "How might this portrait suggest the idea of the thinker or the scientist?",
+      "culture": "How did Cameron's friendships with scientists, artists, and writers shape her subjects?",
+      "technique": "How does the carbon process differ from albumen printing, and what visual effects does it create?",
+      "personal": "How do you want to be remembered in images, and who decides?",
+      "critical": "How can a portrait of a famous person be both a record and an interpretation?"
+    },
+    "g910": {
+      "daily": "How does this portrait construct an image of intellectual presence through formal means?",
+      "emotion": "How does Cameron generate gravity through light and framing alone?",
+      "observation": "Describe the portrait's visual hierarchy. What dominates the frame, and what recedes?",
+      "analysis": "Analyze how cropping, light, and tone combine to produce the portrait's monumentality.",
+      "line": "How does the softening of contour affect the relationship between figure and ground?",
+      "shape": "How do the large forms of head and shoulders create a stable, sculptural mass?",
+      "color": "How does the tonal richness of the carbon print contribute to the portrait's seriousness?",
+      "texture": "How does selective focus differentiate hair, skin, and clothing?",
+      "space": "How does the shallow depth enhance a feeling of confrontation with the sitter?",
+      "light": "How does the contrast of light and shadow shape the sitter's character?",
+      "meaning": "How might the portrait participate in Victorian ideas of genius and scientific authority?",
+      "culture": "How did Cameron's circle of friends and the Victorian cult of the great man shape this portrait?",
+      "technique": "How does a pigment-based carbon print compare with silver-based processes in permanence and tone?",
+      "personal": "How does your knowledge that the sitter was a scientist influence your reading of the portrait?",
+      "critical": "How do we separate the sitter's real character from the character the photograph constructs?"
+    },
+    "g1112": {
+      "daily": "What can be argued about Cameron's aims from the formal evidence of this portrait, and where does speculation begin?",
+      "emotion": "How does the portrait elicit awe, and how might this response be shaped by historical ideas of genius?",
+      "observation": "Describe the portrait's formal construction precisely. Which observations already imply interpretation?",
+      "analysis": "Analyze how Cameron balances likeness, abstraction, and symbolic presence.",
+      "line": "How does the dissolution of contour in places complicate the distinction between figure and atmosphere?",
+      "shape": "How does the massing of tone convert a face into an almost architectural form?",
+      "color": "How does the deep tonal register of the carbon process alter the portrait's affect compared with the warm albumen tone of Cameron's other work?",
+      "texture": "How do the portrait's textural contrasts support a reading of the sitter as both intellectual and physical presence?",
+      "space": "How does the compression of space implicate the viewer in a confrontation with the sitter?",
+      "light": "How does light operate as both a physical phenomenon and a symbol of enlightenment in the portrait?",
+      "meaning": "Evaluate readings of the portrait as homage, as record, or as image-making in service of scientific reputation.",
+      "culture": "How does the friendship between Cameron and Herschel complicate the line between portraiture and tribute?",
+      "technique": "What does the use of carbon printing suggest about the period's concerns with the permanence of photographs?",
+      "personal": "How does your own admiration for or skepticism about scientific authority affect your reading of this image?",
+      "critical": "What evidence would be needed to claim that this portrait reveals the sitter's character instead of the photographer's vision?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Photographs), medium, and tags (Men, Portraits) read from the museum record; a formal portrait of an older man with no nudity, violence, or frightening subject indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Julia Margaret Cameron photographed Sir John Herschel in 1867. Herschel (1792–1871) was a British scientist known for astronomy and for early contributions to photography; the Met record lists this impression as a carbon print.",
+    "vocabulary": [
+      "portrait",
+      "carbon print",
+      "contrast",
+      "cropping",
+      "sitter",
+      "exposure"
+    ],
+    "directions": [
+      "Have students photograph a classmate in soft window light from close up and discuss how closeness changes the portrait.",
+      "Ask students to compare this portrait with the other Cameron portrait in the archive.",
+      "Connect to science: Herschel helped name 'photography' and used light-sensitive chemistry; discuss how art and science overlap."
+    ]
+  }
+}

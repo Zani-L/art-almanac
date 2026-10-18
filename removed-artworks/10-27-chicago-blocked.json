@@ -1,0 +1,158 @@
+{
+  "id": "artic-81555",
+  "day": "10-27",
+  "title": "Lunch at the Restaurant Fournaise (The Rowers' Lunch)",
+  "artist": "Pierre-Auguste Renoir",
+  "date": "1875",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/1a1b74fe-ff2a-8991-0581-5d420f0b840e/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Potter Palmer Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A group of men and women relax at a table on a shaded outdoor terrace by a river, with vines overhead, food and bottles before them and boats on the water. Dappled light plays over the figures.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/81555",
+    "objectId": "81555",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (leisure, dining, food, river, boats, vines, foliage, women, men, wine), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Pierre-Auguste Renoir, dated 1875. The Art Institute's subject terms list leisure, dining, food, a river, boats and vines. Renoir was a leading Impressionist who often painted friends enjoying leisure time by the Seine.",
+  "descriptions": {
+    "k": "Friends are having lunch outside by a river. They sit under leaves. There is food on the table. There are boats on the water. Can you find the river? What do you think they are talking about?",
+    "g12": "Pierre-Auguste Renoir painted friends having lunch outdoors by a river. They sit under leafy vines and there are boats nearby. The light looks spotty, like sunshine through leaves. Find the people. What do you think they are saying?",
+    "g35": "Pierre-Auguste Renoir painted this lunch scene in 1875. Men and women relax around a table outdoors beside a river, with boats nearby and vines overhead. Renoir liked to paint people having fun. Look for the patches of sunlight through the leaves. How does the painting make you feel part of the group?",
+    "g68": "Renoir painted Lunch at the Restaurant Fournaise (The Rowers' Lunch) in 1875, showing people at leisure on a terrace by a river. The museum lists dining, food, boats, vines, and people. Dappled light through the leaves and loose brushwork make the scene lively. How does Renoir's way of painting light and friends together capture a moment of ordinary enjoyment, and what clues show it was painted quickly?",
+    "g910": "In Lunch at the Restaurant Fournaise (1875), Renoir applies loose brushwork and dappled light to a scene of social leisure on the Seine. Boats and a shaded terrace evoke the recreation available to many Parisians by the 1870s. The informal groupings give the sense of a single moment caught in time. How do Impressionist techniques turn conviviality into the central subject, and what does the scene suggest about modern life?",
+    "g1112": "Lunch at the Restaurant Fournaise (1875) is an early example of Renoir's conviviality painting: the fluid brushwork and flickering light unify figures, table, vines, and river. The picture captures the new culture of weekend leisure along the Seine, available to a widening urban public. Critics have debated whether such scenes celebrate modernity or idealize it. How does the painting's handling shape that debate?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the table. What do you see on it?",
+      "emotion": "Do the people look happy or grumpy? What shows you?",
+      "observation": "Find the river, the boats, and the leaves. Which one is easiest to find?",
+      "analysis": "Who in the painting is closest to you? Who is farthest?",
+      "line": "Look for a curvy line in the vines. Trace it with your finger.",
+      "shape": "Find a round shape in the picture. Where is it?",
+      "color": "What bright colors can you find in the clothes and the table?",
+      "texture": "Do the leaves look hard or soft? How can you tell?",
+      "space": "Where are the boats compared with the table?",
+      "light": "Where does the sun shine through the leaves?",
+      "meaning": "What do you think the friends are talking about at lunch?",
+      "culture": "People in France had lunch outside by the river. Where do you like to eat outside?",
+      "technique": "Renoir used quick dabs of paint. How might that help show sunlight on leaves?",
+      "personal": "Who would you invite to a lunch like this?",
+      "critical": "What food would you bring to a picnic by a river?"
+    },
+    "g12": {
+      "daily": "Look at the people's faces and how they sit. How do they feel?",
+      "emotion": "Is this a quiet lunch or a lively one? Show us what tells you.",
+      "observation": "List five things you see: food, boats, leaves, and people.",
+      "analysis": "How does Renoir show that the friends are together?",
+      "line": "Which lines are curved and which are straight in the vines and boats?",
+      "shape": "How do the round shapes of hats and plates repeat?",
+      "color": "Which colors in the clothes and table stand out?",
+      "texture": "How did the painter make leaves and cloth look different?",
+      "space": "How can you tell the river is behind the table?",
+      "light": "Where do you see spots of light and shadow on the people?",
+      "meaning": "Why might Renoir paint a lunch with friends?",
+      "culture": "People rowed boats for fun on the river. What do you do for fun outdoors?",
+      "technique": "Renoir painted fast. Why might that help show a moment with friends?",
+      "personal": "Describe a lunch with friends you remember. How would you paint it?",
+      "critical": "Does a painting of ordinary fun matter? Explain."
+    },
+    "g35": {
+      "daily": "What details in the poses show how the people relate to one another? What can't you tell?",
+      "emotion": "What feeling does the sunny terrace give you, and which colors and strokes create it?",
+      "observation": "Look slowly around the whole table. What small details did you notice last?",
+      "analysis": "How does Renoir place the table, people, vines, and river to show the whole scene?",
+      "line": "How do the curves of vines and hats make the picture lively?",
+      "shape": "How do the big shapes of people compare with small shapes of bottles and plates?",
+      "color": "How do the colors of the clothes pop against the green leaves?",
+      "texture": "How does Renoir paint cloth, skin, and leaves so they feel different?",
+      "space": "How does the background river show the space behind the table?",
+      "light": "How does the dappled light change the faces and clothes?",
+      "meaning": "Why might the painter choose a restaurant by the river rather than a palace?",
+      "culture": "What does the painting say about how city people spent weekends in the 1870s?",
+      "technique": "Why might Impressionists paint outdoors scenes with quick strokes?",
+      "personal": "What gathering in your life would you paint?",
+      "critical": "Is a lively painting of friends a good record of history? Explain."
+    },
+    "g68": {
+      "daily": "What do the groupings and poses suggest about friendships and chatting, and what is unclear?",
+      "emotion": "What mood do the warm light and mixed colors create, and what might change that mood?",
+      "observation": "Describe the foreground table, the middle people, and the background river. Which area has more detail?",
+      "analysis": "How does Renoir arrange groups so your eye moves between conversations?",
+      "line": "How do the diagonals of the vines and table edge create movement?",
+      "shape": "How do repeated rounded shapes unify the scene?",
+      "color": "How does Renoir use warm and cool colors in the dappled light on skin and cloth?",
+      "texture": "How does the loose paint surface suggest movement and breeze?",
+      "space": "How does the overlap of people and objects create depth?",
+      "light": "How does the speckled light on figures show filtering through leaves?",
+      "meaning": "How might Renoir's choice of friends at leisure reflect Impressionism's interest in modern life?",
+      "culture": "How did weekend leisure along the Seine change life for Parisians in the 1870s?",
+      "technique": "How does painting from direct observation shape what the picture looks like?",
+      "personal": "How would you paint the feeling of a shared meal without showing every detail?",
+      "critical": "How do you decide if a painting celebrates a moment or hides other realities?"
+    },
+    "g910": {
+      "daily": "How do poses, glances, and groupings construct a sense of shared leisure while leaving individuals unspecified?",
+      "emotion": "How do warm tones and flickering light produce conviviality, and could idealization be at work?",
+      "observation": "Examine how the table and surrounding figures organize the foreground. What do they reveal about priorities?",
+      "analysis": "Analyze how the compositional layout provides several focal points rather than a single center.",
+      "line": "How do the diagonals of the awning, vines, and table edges create movement?",
+      "shape": "How do repeating curves and ovals link figures, plates, and hats?",
+      "color": "Evaluate how the interplay of warm and cool tones in the dappled light creates atmosphere.",
+      "texture": "What does the loose brushwork suggest about Impressionist technique and the aim to capture a moment?",
+      "space": "How does the layered space connect foreground and river background?",
+      "light": "How is shifting light rendered through color rather than solid shadow?",
+      "meaning": "How does the scene reflect an emerging culture of leisure, and which groups might it exclude?",
+      "culture": "How might the painting's tone differ from images of labor, and why does that matter?",
+      "technique": "How does Renoir's emphasis on conviviality differ from Degas's emphasis on observation?",
+      "personal": "How does your own experience of shared meals shape your response?",
+      "critical": "How reliable is a cheerful painting as evidence about everyday life?"
+    },
+    "g1112": {
+      "daily": "How does the painting's dispersed structure and shifting light produce social intimacy without fixed narrative?",
+      "emotion": "To what extent does flickering light and warm color idealize leisure, and what may be omitted?",
+      "observation": "Analyze how the dense foreground and open river vista set up contrasts of proximity and distance.",
+      "analysis": "How does the multiple-focus composition reflect Impressionist rejection of hierarchical centering?",
+      "line": "How do the diagonal elements and overhanging foliage structure a shifting, ephemeral space?",
+      "shape": "How do repeated elliptical forms mediate between figure, object, and setting?",
+      "color": "Assess how color temperature and broken touch communicate the dissolution of solid form in light.",
+      "texture": "What does the technique reveal about the balance between immediacy and studio refinement?",
+      "space": "How does the shallow space and layering challenge academic perspective?",
+      "light": "How does the painting render light as an atmospheric event rather than a property of objects?",
+      "meaning": "How does Renoir's depiction of suburban leisure relate to class, mobility, and modernization in the 1870s?",
+      "culture": "How have changing attitudes to Renoir's reputation affected the reading of his genial subjects?",
+      "technique": "How does the painting model Impressionism's claim that modern life is a legitimate subject for high art?",
+      "personal": "How might your response differ if you consider the labor that made such leisure possible?",
+      "critical": "What are the limits of a painting of pleasure as historical testimony?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (leisure, dining, food, river, boats, vines, foliage, women, men, wine) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1875 by Pierre-Auguste Renoir, in oil on canvas. The museum record lists leisure, wine, vines, river, food, dining, boats, women and men. Wine is part of the museum's subject terms; teachers may want to note that the painting shows a social meal.",
+    "vocabulary": [
+      "Impressionism",
+      "dappled light",
+      "leisure",
+      "genre painting",
+      "composition",
+      "brushwork"
+    ],
+    "directions": [
+      "Have students sketch a group at a table, focusing on how people lean toward each other.",
+      "Ask students to find three places where sunlight and shadow mix and explain what colors the artist used.",
+      "Discuss how an artist's choice of everyday subjects can record history."
+    ]
+  }
+}

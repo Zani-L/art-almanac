@@ -1,0 +1,158 @@
+{
+  "id": "artic-16487",
+  "day": "09-06",
+  "title": "The Bay of Marseille, Seen from L'Estaque",
+  "artist": "Paul Cezanne",
+  "date": "c. 1885",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A view across a blue bay toward a town and hills, with trees or rooftops in the foreground. The landscape is built from patches of blue, green and orange-red.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/16487",
+    "objectId": "16487",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (coastal scenes, sea, townscapes, towns, mountain, hills, water, landscapes), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Paul Cezanne, dated about 1885, showing the Mediterranean coast near Marseille in the south of France. The Art Institute's subject terms list the sea, a town, a mountain and hills. Cezanne painted views from the village of L'Estaque several times.",
+  "descriptions": {
+    "k": "Look across the blue sea. There are houses and hills far away. The picture has patches of blue, green, and orange. Can you find the water? Can you find the town? Where would you like to stand?",
+    "g12": "Paul Cezanne painted a bay in the south of France with the sea, a town, and hills. The colors are in patches of blue, green, and orange. Look for the water and the hills. How do the patches of color help you see far away?",
+    "g35": "Paul Cezanne painted The Bay of Marseille, Seen from L'Estaque around 1885. He looked across the sea toward a town, hills, and the shore. He built the scene with patches of color instead of thin lines. Find the places where blue, green, and orange meet. How do they help you feel the space, from near to far?",
+    "g68": "Cezanne painted this view of the Bay of Marseille from L'Estaque around 1885, one of several versions of the subject. The sea, the town, and the hills are built from patches of cool blue and green with warm oranges and reds. How do these color patches create both depth and a flat pattern, and why might Cezanne choose this method over detailed outlines?",
+    "g910": "In The Bay of Marseille, Seen from L'Estaque (c. 1885), Cezanne constructs space through contrasts of warm and cool color rather than conventional perspective or line. The sea, shoreline, and hills lock into a tightly woven surface. The subject returned repeatedly in his work, inviting comparison among versions. How does color-based construction hold depth and flatness in tension, and what does this suggest about Cezanne's aims?",
+    "g1112": "The Bay of Marseille, Seen from L'Estaque (c. 1885) epitomizes Cezanne's constructive method: modulated color patches build volume and space, with a high horizon and compressed layers that foreground the picture plane. The L'Estaque views became touchstones for later painters exploring Cubism and abstraction. How does the tension between landscape and structure shape the painting's meaning, and why have artists found this approach so generative?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look across the water. What do you see far away?",
+      "emotion": "Does this place feel calm or busy? What shows you?",
+      "observation": "Find the sea, the town, and the hills. Which is easiest to spot?",
+      "analysis": "What is near you and what is far away in this picture?",
+      "line": "Follow the shore with your finger. Which way does it go?",
+      "shape": "Houses look like blocks. Where do you see blocky shapes?",
+      "color": "Where do you see blue? Where do you see orange or red?",
+      "texture": "Does the paint look like little patches or like smooth lines? Tell us.",
+      "space": "How big do you think the bay is? What makes you think so?",
+      "light": "Where does the sunlight seem to touch the land?",
+      "meaning": "What would it be like to live in a town by the sea?",
+      "culture": "Cezanne painted this in France. What places near water have you seen?",
+      "technique": "Cezanne used patches of color. How is that different from drawing with a pencil?",
+      "personal": "If you painted a view from your window, what would you show?",
+      "critical": "What would you ask someone who lives in this town?"
+    },
+    "g12": {
+      "daily": "Look at the sea and the town. What feeling do you get?",
+      "emotion": "Is the day quiet or busy? Show us which colors tell you.",
+      "observation": "List five things you see: water, hills, houses, and more.",
+      "analysis": "How does Cezanne help you see the sea first and the hills after?",
+      "line": "Which edges look straight and which look curved?",
+      "shape": "Which shapes look like blocks or boxes in the town?",
+      "color": "Warm orange next to cool blue pops out. Where do you see this?",
+      "texture": "How can you tell the paint was put on in separate patches?",
+      "space": "Cezanne painted far-away hills smaller. How does that make the picture feel big?",
+      "light": "Where does the light seem to land on the roofs and hills?",
+      "meaning": "Why might a painter come back to the same view again and again?",
+      "culture": "Cezanne lived in southern France, where it is warm. What clues show that?",
+      "technique": "How does painting in patches help build solid shapes?",
+      "personal": "What view could you paint over and over to learn something new?",
+      "critical": "Does a painting need small details to feel real? Explain."
+    },
+    "g35": {
+      "daily": "What details show how far the bay stretches? What is hard to tell?",
+      "emotion": "How would you describe the mood, and which colors and shapes create it?",
+      "observation": "Look slowly from the foreground to the hills. What small details did you notice last?",
+      "analysis": "How does Cezanne arrange the shore, town, sea, and hills in layers?",
+      "line": "How do the lines of the shore and rooftops lead your eye across the picture?",
+      "shape": "How do the box-like houses compare with the rounder hills?",
+      "color": "How do warm oranges and cool blues work together here?",
+      "texture": "How do the visible patches of paint build up the landscape?",
+      "space": "How does the high horizon change how you see the bay?",
+      "light": "Where does light fall on the buildings and hills?",
+      "meaning": "Cezanne painted the Bay of Marseille more than once. Why might he return to it?",
+      "culture": "What does the painting tell you about a coastal town in France in the 1880s?",
+      "technique": "Why might he use color patches instead of outlines?",
+      "personal": "What is a landscape near you that you could study from the same place several times?",
+      "critical": "Is this painting more about a place or about how to see? Explain."
+    },
+    "g68": {
+      "daily": "How do the arrangement of sea, town, and hills show distance, and where does the space feel flat?",
+      "emotion": "What mood do the cool blue sea and warm land patches create together?",
+      "observation": "Describe the foreground, the water, and the far hills. What detail surprised you?",
+      "analysis": "How does the composition lead your eye across the bay to the far shore?",
+      "line": "How do the edges of the shore and buildings create lines that divide the picture into zones?",
+      "shape": "How does Cezanne simplify houses and hills into geometric shapes?",
+      "color": "How do warm and cool colors help forms look solid without strong shading?",
+      "texture": "How do small patches of paint build up the surface into a pattern?",
+      "space": "How does the high horizon compress the space?",
+      "light": "How does light show up in color changes rather than in dark shadows?",
+      "meaning": "Why might Cezanne have wanted to paint the same view more than once?",
+      "culture": "How might living in the south of France have shaped his choice of subject?",
+      "technique": "How does this approach differ from Impressionists painting quick impressions?",
+      "personal": "How would you decide whether a painting is about its subject or about the way it is made?",
+      "critical": "What makes a painted landscape feel more like construction than like a photo?"
+    },
+    "g910": {
+      "daily": "How does Cezanne's reduction of buildings and hills to simplified forms alter your sense of the place?",
+      "emotion": "How do cool blues and warm accents produce a mood of calm order, and could they also feel austere?",
+      "observation": "Examine the relationship between foreground and horizon. How is depth created and limited?",
+      "analysis": "Analyze how the layered bands of shore, sea, and hills organize the composition.",
+      "line": "How do edges and directional strokes link the planes of the landscape?",
+      "shape": "How does geometric simplification connect to the later development of Cubism?",
+      "color": "Evaluate how modulation of color replaces tonal modeling in building volume.",
+      "texture": "What does the visible patchwork of strokes reveal about Cezanne's slow, deliberate process?",
+      "space": "How does the compressed, tilted space emphasize the surface of the canvas?",
+      "light": "How does light appear in the painting as color relationships rather than as cast shadow?",
+      "meaning": "How do repeated versions of the L'Estaque view change the way we think about a single painting?",
+      "culture": "How does the Mediterranean landscape contribute to Cezanne's interest in structure and clarity?",
+      "technique": "How does this painting stand between Impressionism and modern abstraction?",
+      "personal": "How does your understanding of the painting shift once you see it as an argument about seeing?",
+      "critical": "How might viewers who prefer realistic painting respond, and what could they learn from the work?"
+    },
+    "g1112": {
+      "daily": "How does the tension between observed Mediterranean motif and constructed pictorial order define the painting's ambition?",
+      "emotion": "To what extent does the tightly woven color surface produce serenity or restraint, and how might that differ among viewers?",
+      "observation": "Analyze how stacked planes and the high horizon negotiate recession and flatness.",
+      "analysis": "How does the compositional armature of shore, sea, and hills operate as a structural grid?",
+      "line": "How do directional, constructive strokes serve as both description and abstract structure?",
+      "shape": "How do reduced, quasi-geometric masses foreshadow Cubist treatments of landscape?",
+      "color": "Assess how warm-cool modulation substitutes for chiaroscuro in establishing volume.",
+      "texture": "What does the accumulation of patches suggest about the temporality of Cezanne's looking?",
+      "space": "How does the spatial compression challenge Renaissance perspective, and with what consequences for later painting?",
+      "light": "How does light become a function of color relationships rather than of a single source?",
+      "meaning": "How does the serial return to L'Estaque complicate notions of the unique masterpiece?",
+      "culture": "How might Cezanne's relation to his native Provence inform the seriousness of his landscape project?",
+      "technique": "How does the painting resist both Impressionist spontaneity and academic finish?",
+      "personal": "How does appreciating the painting as a thought process, rather than a depiction, change your viewing?",
+      "critical": "What arguments could support or challenge the claim that Cezanne is the father of modern painting?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (coastal scenes, sea, townscapes, towns, mountain, hills, water, landscapes) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted c. 1885 by Paul Cezanne, in oil on canvas, showing a coastal view near Marseille in southern France. The museum record lists the sea, a town, a mountain and hills. He painted views from L'Estaque several times.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "landscape",
+      "warm and cool colors",
+      "picture plane",
+      "geometric simplification",
+      "horizon"
+    ],
+    "directions": [
+      "Have students paint a view from a window using only patches of color, no outlines.",
+      "Ask students to identify where the painting feels deep and where it feels flat.",
+      "Discuss why an artist might return to the same view more than once."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-452684",
+  "day": "06-07",
+  "title": "Quadruped Oil Lamp",
+  "artist": "Artist unknown",
+  "date": "11th–12th century",
+  "medium": "Earthenware; applied, incised, cut, glazed",
+  "region": "Egypt (attributed to)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-43874-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-43874-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Anonymous Gift, 1974",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small glazed clay oil lamp shaped like a four-legged animal, shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/452684",
+    "objectId": "452684",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, geography type, classification, tags (Animals), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A small oil lamp of glazed earthenware, attributed to Egypt and dated to the 11th to 12th century. The title describes it as a quadruped, meaning a four-footed animal form. It is only about 9 centimeters long. In the 11th century Egypt was ruled by the Fatimid dynasty, and lamps like this burned oil to give light.",
+  "descriptions": {
+    "k": "This is a little lamp made of clay. It is shaped like an animal with four legs. People in Egypt used it to make light a very long time ago. It is about as long as your hand. What animal could it be?",
+    "g12": "This tiny lamp was made in Egypt almost a thousand years ago. It is shaped like an animal with four legs. People put oil inside it to make light. It is made of clay with a shiny coating called a glaze. Why would someone make a lamp look like an animal?",
+    "g35": "This small lamp was made in Egypt about a thousand years ago. It is shaped like a four-legged animal, and it is only about 9 centimeters long. The maker shaped clay, added details, and covered it with a glaze, a glassy coating. People burned oil in lamps like this for light. Look at the shape. Why might the maker turn an everyday object into an animal?",
+    "g68": "Oil lamps were everyday objects in medieval Egypt, but this one has been shaped into a four-footed animal. The museum lists applied, incised, and cut decoration plus glaze, which means the maker added pieces of clay, scratched lines, and cut details before coating it. At about 9 centimeters long, it is small enough to hold in a hand. The record does not say what animal it shows, so we can look for clues. How does making a useful object playful change how people might notice it?",
+    "g910": "This glazed earthenware lamp, attributed to Egypt in the 11th to 12th century, shows how everyday ceramics could carry sculpture. The maker built an animal form, added features with applied clay, incised lines, and cut openings, then glazed the surface. Animal-shaped vessels were made in many parts of the medieval Islamic world. The record names it only as a quadruped, so the specific animal remains uncertain. How do function and playfulness coexist in this small object?",
+    "g1112": "This small lamp fuses utility and sculpture. Its quadruped form, built with applied, incised, and cut details under a glaze, reflects a ceramic tradition in medieval Egypt that valued skilled surface work even in everyday objects. The museum record does not specify which animal is represented or how the lamp was used in a home, so claims about symbolism should be tentative. How can we treat common objects as evidence of ordinary life without reducing them to simple tools?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What animal do you think this lamp is? What clues do you see?",
+      "emotion": "Does this little lamp look funny, friendly, or something else? Why?",
+      "observation": "What parts of the animal can you find? Point to the legs.",
+      "analysis": "Where do your eyes go first on the lamp? Where do they go next?",
+      "line": "Can you find a curved line on the lamp? Trace it in the air.",
+      "shape": "What shapes make up the lamp? Look for round and long shapes.",
+      "color": "What colors do you see on the lamp? Which one do you see the most?",
+      "texture": "Clay with a glaze can feel smooth. Which parts of the lamp look smooth?",
+      "space": "The lamp is small. Can you show its size with your hands?",
+      "light": "A lamp makes light. Where do you think the flame would go?",
+      "meaning": "Why do you think someone made a lamp look like an animal? Tell your idea.",
+      "culture": "People in Egypt used lamps like this long before electric lights. What do you use for light at home?",
+      "technique": "The maker shaped clay with their hands. What parts do you think were hard to shape?",
+      "personal": "If you made a lamp, what shape would it be?",
+      "critical": "How can you tell this object is old? What clues do you see?"
+    },
+    "g12": {
+      "daily": "How does the maker turn a lamp into an animal? Point to details that show it.",
+      "emotion": "What feeling does this little animal lamp give you? What shows it?",
+      "observation": "Describe three details you can find on the lamp, from top to bottom.",
+      "analysis": "How do the legs, body, and other parts fit together to make one animal shape?",
+      "line": "Find lines scratched or cut into the clay. Where are they, and what do they show?",
+      "shape": "What big shape is the body? What smaller shapes are attached to it?",
+      "color": "How does the glaze color make the lamp look? Is it bright, soft, or dark?",
+      "texture": "Which parts look shiny and smooth? Which parts look scratched or bumpy?",
+      "space": "The lamp is only about as long as a finger or two. Why might small objects need careful details?",
+      "light": "Where do you see shiny spots on the glaze? What makes them shine?",
+      "meaning": "People use animal shapes on many things. Why do people like animals in art?",
+      "culture": "Egypt has a very long history of making clay objects. Why might people keep making them for thousands of years?",
+      "technique": "The maker added bits of clay and scratched lines before glazing. Why add details in steps?",
+      "personal": "What small object at home has a fun shape? Tell about it.",
+      "critical": "This lamp was used for work, to make light. Why might the maker make it fun to look at too?"
+    },
+    "g35": {
+      "daily": "How does the maker turn a useful lamp into a little animal sculpture? Use details to explain.",
+      "emotion": "What mood does the lamp have, and which details create it?",
+      "observation": "Look carefully for one minute. Which small details did you notice only after looking longer?",
+      "analysis": "How are the parts of the animal arranged so the lamp still stays steady?",
+      "line": "The museum says some lines are incised, or scratched into clay. Where do you see lines and what do they add?",
+      "shape": "How do the rounded body and the smaller attached parts work together?",
+      "color": "How does the glaze affect the color and brightness of the lamp?",
+      "texture": "How does glaze make the surface different from plain clay? Where can you tell?",
+      "space": "This lamp is a 3D object that fits in a hand. How would it look from the back or the side?",
+      "light": "A lamp gives off light, but this lamp also reflects light. How does the glaze play with light?",
+      "meaning": "The record names the lamp a quadruped but does not say which animal. What clues might help you guess?",
+      "culture": "People in medieval Egypt used lamps for light at home. What can an ordinary object tell us about daily life?",
+      "technique": "The maker used clay, glaze, and firing. Why do you think each step needs care?",
+      "personal": "What everyday object in your home could be made more fun or beautiful?",
+      "critical": "Can a lamp be art if it was made to be used? Give reasons for your answer."
+    },
+    "g68": {
+      "daily": "How does the animal form change the way we think about a simple oil lamp?",
+      "emotion": "Is the lamp's character playful, serious, or something else? Support your answer with details.",
+      "observation": "List the lamp's features from the legs to the top. Which details are easy to miss?",
+      "analysis": "How does the maker balance the body, legs, and opening so the lamp stands and holds oil?",
+      "line": "How do incised and cut lines define features, and what do they add to the clay form?",
+      "shape": "How does the maker simplify the animal into basic shapes? What do you gain and lose?",
+      "color": "How might glaze have changed the lamp's color compared with plain clay?",
+      "texture": "How do the glossy glaze and any scratched or applied details create contrasting textures?",
+      "space": "How does the lamp's small three-dimensional form change when you rotate it, compared with a flat image?",
+      "light": "How would the light of the flame and the shine of the glaze interact at night?",
+      "meaning": "What are the risks of assigning symbolic meaning to an animal shape when the record does not say what it shows?",
+      "culture": "What does a common object like an oil lamp tell us about life in medieval Egypt?",
+      "technique": "What steps are involved in making a glazed ceramic lamp, from shaping to firing?",
+      "personal": "What small, everyday objects in your life are more thoughtfully designed than they need to be?",
+      "critical": "Why might museums collect everyday objects like lamps and not only grand works?"
+    },
+    "g910": {
+      "daily": "How does this lamp use sculptural form to elevate an everyday object?",
+      "emotion": "How does the animal form give a utilitarian object character and humor?",
+      "observation": "Describe the visual hierarchy of the lamp. What does the maker emphasize, and how can you tell?",
+      "analysis": "Analyze how the animal form is shaped by the practical needs of a lamp.",
+      "line": "How do incised and cut lines articulate features such as limbs or surface pattern?",
+      "shape": "How does the abstraction of the animal's body into a few solid forms suit both clay and function?",
+      "color": "How does the glaze affect color and surface, and how might the effect have differed when the lamp was new?",
+      "texture": "What contrasts of surface does the combination of applied, incised, and glazed areas create?",
+      "space": "How does the small scale of the lamp affect how a viewer relates to it?",
+      "light": "How might glaze reflect and diffuse the light of a flame in a dim room?",
+      "meaning": "How can we responsibly discuss an animal image when the species is uncertain?",
+      "culture": "How did ceramic production in medieval Egypt connect everyday needs with decorative skill?",
+      "technique": "How do applied, incised, and cut techniques each contribute to the finished lamp?",
+      "personal": "How do the design choices in everyday objects around you reflect their makers' attitudes?",
+      "critical": "What does a small, ordinary object like this reveal that a grand monument cannot?"
+    },
+    "g1112": {
+      "daily": "What can an object as modest as an animal-shaped lamp reveal about the culture that made and used it?",
+      "emotion": "How does humor or playfulness operate in a functional object, and how does it change our emotional relation to it?",
+      "observation": "Describe the lamp in formal terms. Where does description begin to require assumptions about use?",
+      "analysis": "Analyze how the lamp's form satisfies both functional and sculptural demands.",
+      "line": "How do incised lines function to create surface articulation without disrupting the glaze?",
+      "shape": "How does the stylization of the quadruped fit into broader traditions of animal-shaped vessels?",
+      "color": "How might glaze chemistry and firing have determined the color, and what does that say about workshop knowledge?",
+      "texture": "How does the contrast between glaze and unglazed or cut areas show the sequence of making?",
+      "space": "How does the lamp's small scale and portability shape how it participates in domestic space?",
+      "light": "How might the lamp have functioned both to provide illumination and to display its surface in flame light?",
+      "meaning": "How should we weigh the evidence for symbolism in an animal-shaped lamp against the possibility that it was mainly decorative?",
+      "culture": "How do everyday ceramics, such as lamps, complicate narratives of art history that focus on rulers and monuments?",
+      "technique": "What does the use of applied, incised, and cut decoration suggest about workshop practices and the division of labor?",
+      "personal": "How does the survival of ordinary household objects change your sense of the people who used them?",
+      "critical": "What are the challenges of dating and attributing everyday objects when records give only a century range and a region?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Quadruped Oil Lamp), classification (Ceramics), object name (Oil lamp), medium (earthenware, glazed), and tag (Animals) checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small glazed earthenware oil lamp attributed to Egypt, 11th to 12th century. The record does not say which animal is shown or how it was used, so treat both as open questions.",
+    "vocabulary": [
+      "earthenware",
+      "glaze",
+      "incised",
+      "oil lamp",
+      "quadruped",
+      "firing"
+    ],
+    "directions": [
+      "Have students shape a small animal from clay or play dough and add one scratched (incised) detail.",
+      "Compare this lamp to a modern lamp: what stayed the same about the need for light, and what has changed?",
+      "Ask students to choose another everyday object and imagine how a maker could make it playful without losing its function."
+    ]
+  }
+}

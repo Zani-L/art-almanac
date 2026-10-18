@@ -1,0 +1,158 @@
+{
+  "id": "met-444413",
+  "day": "07-27",
+  "title": "Napkin or Hand Towel",
+  "artist": "Artist unknown",
+  "date": "18th century",
+  "medium": "Linen, silk; plain weave, embroidered",
+  "region": "Albania",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-17247-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-17247-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A piece of plain-woven linen cloth with silk embroidery. Birds are among the stitched designs.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/444413",
+    "objectId": "444413",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, classification, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "An embroidered cloth from Albania, dated to the 18th century, that the Met catalogues as a napkin or hand towel. It is plain-woven linen embroidered with silk, and the record lists birds among its imagery.",
+  "descriptions": {
+    "k": "This cloth is from Albania. It is made of linen. Someone stitched it with silk thread. Look for the birds. Where is a bird? What do you think it is doing?",
+    "g12": "This linen cloth comes from Albania and is about 300 years old. The Met says it may have been a napkin or a hand towel. Someone stitched designs on it with silk thread, and birds are part of the pattern. Find a bird. What colors and shapes make it?",
+    "g35": "People in Albania stitched this cloth in the 1700s. It is plain linen decorated with silk embroidery, and the Met calls it a napkin or hand towel. Birds appear among the designs. A useful object like this was also made beautiful. Look at how the birds are placed. Why might a maker decorate something used every day?",
+    "g68": "The Met catalogues this 18th-century object from Albania as a napkin or hand towel, which tells us that museum experts are not certain of its exact use. It is plain-woven linen with silk embroidery, and birds are among its motifs. Embroidered cloths in this region were often made for households. Study how the stitched birds are placed on the linen. What does decoration add to an object that could simply be practical?",
+    "g910": "Made in Albania in the 18th century, this linen cloth with silk embroidery shows how everyday textiles could carry rich decoration. The Met's label, napkin or hand towel, reflects uncertainty about use, a reminder that museum categories are interpretations. Birds appear among the motifs, and the contrast between plain-woven linen and silk thread gives the stitched forms emphasis. Consider how a utilitarian object might also communicate hospitality, skill, or status, while recognizing what the record does not tell us.",
+    "g1112": "An Albanian embroidered linen of the 18th century, catalogued by the Met as a napkin or hand towel, this object illustrates how domestic textiles blur boundaries of use and display. Its silk embroidery and bird imagery sit within a broader Balkan and Ottoman-era tradition of decorated household linens, though the record offers no information on its maker or context. Interpretation should therefore remain tentative, focusing on observable relationships between ground, thread, and motif while questioning how museum labels frame function."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a bird stitched on this cloth. What colors is it, and where does it sit?",
+      "emotion": "Does this cloth feel happy or quiet? Point to what makes you feel that way.",
+      "observation": "How many birds can you find? Point to each one.",
+      "analysis": "Where do your eyes go first on this linen cloth? What do you look at next?",
+      "line": "Find a stitched line that wiggles or curls near a bird. Trace it in the air.",
+      "shape": "What shape is a bird's body? What shapes are its wings and tail?",
+      "color": "What colors of silk thread did the stitcher use? Which is your favorite?",
+      "texture": "The cloth is plain linen and the stitches are silk. Which do you think is softer?",
+      "space": "Is the cloth full of stitches or does it have plain places? Show where.",
+      "light": "Silk thread shines a little. Which stitches look the shiniest to you?",
+      "meaning": "Why might someone stitch birds on a cloth that people use at the table or the sink?",
+      "culture": "This cloth is from Albania. Do you know any things at home that have birds on them?",
+      "technique": "A needle carries silk thread through linen. How do you think the stitcher made a bird?",
+      "personal": "What animal would you stitch on a towel for your home?",
+      "critical": "Nobody is sure if this cloth was a napkin or a towel. What clue in the picture could help you guess?"
+    },
+    "g12": {
+      "daily": "How do the stitched birds make this simple linen cloth special? Point to one example.",
+      "emotion": "What feeling do the birds give this cloth? Which stitches help you feel it?",
+      "observation": "Describe a bird on the cloth. What shapes and colors do you see?",
+      "analysis": "How are the birds placed on the linen? Do they feel planned, and how can you tell?",
+      "line": "Look for lines made of stitches. Which are straight, and which are curved?",
+      "shape": "Find a bird shape. Which parts are round, and which are pointed?",
+      "color": "How do the silk thread colors look against the pale linen cloth?",
+      "texture": "Linen is plain and slightly rough. How does that make the silk stitches look different?",
+      "space": "Where did the stitcher leave bare linen? How does it help the birds show?",
+      "light": "Silk is shinier than linen. Where can you see that difference?",
+      "meaning": "Birds can remind people of freedom, spring, or home. What might they mean on this cloth?",
+      "culture": "Albania has a long history of making decorated cloth for homes. What cloth things at your home are decorated?",
+      "technique": "The Met says the cloth was woven in a plain weave. Why do you think a plain base is good for embroidery?",
+      "personal": "How would you decorate a napkin to make a meal feel special?",
+      "critical": "The Met says napkin or hand towel because experts are not sure. How might you decide what it was used for?"
+    },
+    "g35": {
+      "daily": "What details of the stitched birds show that someone took great care with an everyday object?",
+      "emotion": "What mood do the stitched birds create on the plain linen? Which details contribute?",
+      "observation": "Look slowly across the cloth. What small details in the birds or stitches do you notice after a first look?",
+      "analysis": "How does the stitcher arrange the birds and other designs so the cloth looks balanced?",
+      "line": "How do the lines in the embroidery change from one part of a bird to another?",
+      "shape": "How do simple shapes combine to make a bird? Which shapes repeat in other parts of the design?",
+      "color": "How does silk thread contrast with the linen ground, and which colors stand out most?",
+      "texture": "How would the embroidered parts feel different from the plain woven parts?",
+      "space": "How does the stitcher use plain cloth around the designs? What would change if all the cloth were covered?",
+      "light": "How might the silk look different in bright and dim light?",
+      "meaning": "Why might a family want a decorated cloth for their home, even if it was used every day?",
+      "culture": "This cloth was made in Albania in the 1700s. What might it tell us about how people there valued handwork?",
+      "technique": "Embroidery adds thread on top of woven cloth. How is that different from weaving a pattern into the cloth?",
+      "personal": "Think of something you use every day that is also decorated. Why do you think someone decorated it?",
+      "critical": "Why is it hard to know how old textiles were used? What clues in this one might help?"
+    },
+    "g68": {
+      "daily": "How does the embroidery turn a practical linen cloth into something decorative? Use details to explain.",
+      "emotion": "How does the contrast of plain linen and colored stitches shape the cloth's mood?",
+      "observation": "List the motifs and materials you find. Which details are easy to overlook?",
+      "analysis": "How are the birds and other motifs arranged so the cloth feels organized? Where does the arrangement change?",
+      "line": "How do stitched lines outline forms and give detail? Compare outer and inner lines on a bird.",
+      "shape": "How are birds simplified into pattern shapes, and what details of real birds are kept?",
+      "color": "How do the silk thread colors create emphasis against the neutral linen?",
+      "texture": "How do raised silk stitches and the linen weave create two different surfaces?",
+      "space": "How does empty cloth work as part of the design rather than as leftover space?",
+      "light": "How does silk's sheen help the embroidery stand out from the matte linen?",
+      "meaning": "What might birds have represented in this tradition, and why should we be careful about being certain?",
+      "culture": "How do decorated household linens connect everyday life and celebration in the region?",
+      "technique": "What skills are needed to embroider on a plain-woven cloth so the stitches are even?",
+      "personal": "How do you decorate or personalize things you use every day?",
+      "critical": "Why might a museum's label, such as napkin or hand towel, reflect uncertainty rather than fact?"
+    },
+    "g910": {
+      "daily": "How does the embroidery negotiate between function and display on this textile?",
+      "emotion": "How do rhythm, delicacy, and contrast create a tone that suits a household linen?",
+      "observation": "Describe the cloth's visual hierarchy. What do you notice first, and how does the stitching create that effect?",
+      "analysis": "Analyze how the birds and other motifs are arranged on the cloth and how that arrangement guides the eye.",
+      "line": "How does the embroiderer use line to define birds, and where does outline give way to filled areas?",
+      "shape": "How do stylized bird shapes interact with other motifs to build a decorative structure?",
+      "color": "How does the palette of silk against undyed linen build contrast and cohesion?",
+      "texture": "How does the pairing of silk and linen communicate value and practical use at once?",
+      "space": "How does the linen ground serve as active negative space?",
+      "light": "Silk is reflective and linen is matte. How does that physical contrast enrich the design?",
+      "meaning": "How might bird imagery on a household cloth connect to hospitality or good fortune, and where does that become speculation?",
+      "culture": "How does this Albanian textile fit within the broader Balkan and Ottoman-era traditions of decorated linens?",
+      "technique": "What does the combination of plain weave and silk embroidery imply about the stages of production?",
+      "personal": "How do the objects you use daily communicate care or identity?",
+      "critical": "How does the museum's uncertainty about use affect the way we should read the object?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the stitched birds and materials, and what cannot be known without further evidence of use?",
+      "emotion": "How does delicate embroidery on a utilitarian cloth generate feeling, and how might cultural context change that response?",
+      "observation": "Describe the cloth precisely. How do assumptions about napkins or towels influence what you notice?",
+      "analysis": "Analyze the relationship between stitched motifs and open ground, and what it implies about how the cloth was meant to be seen.",
+      "line": "How does embroidered line compare with drawn or woven line in defining a bird?",
+      "shape": "How does stylization of birds negotiate between observation and inherited pattern?",
+      "color": "How might fading of silk dyes and aging of linen alter the object's original colors?",
+      "texture": "How do the cloth's textures carry information about labor, cost, and use?",
+      "space": "How does the arrangement of ornament on a household textile differ from the framed space of a painting?",
+      "light": "How does the reflectivity of silk make the object's appearance dependent on viewing conditions?",
+      "meaning": "Consider competing readings of bird motifs as decorative, symbolic, or auspicious. What evidence supports each?",
+      "culture": "How do textiles from the Balkans challenge hierarchies that rank painting above domestic arts?",
+      "technique": "What does the technique imply about craft knowledge passed through households or workshops?",
+      "personal": "How does your cultural background shape how you read decorated everyday objects?",
+      "critical": "How do museum classifications such as 'napkin or hand towel' shape what we expect, and what alternatives might be more honest?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Embroidered), medium, country, and tags (Birds) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An 18th-century Albanian embroidered linen catalogued by the Met as a napkin or hand towel. The record gives no maker or use, so it is a useful example of how museums label objects under uncertainty.",
+    "vocabulary": [
+      "embroidery",
+      "plain weave",
+      "linen",
+      "silk",
+      "motif",
+      "domestic textile"
+    ],
+    "directions": [
+      "Ask students to list everyday objects that are decorated and discuss why.",
+      "Have students draw a bird using only straight and curved stitch-like marks.",
+      "Discuss the uncertainty in the label 'napkin or hand towel' and how to reason from evidence."
+    ]
+  }
+}

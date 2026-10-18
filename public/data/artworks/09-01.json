@@ -1,0 +1,159 @@
+{
+  "id": "met-11050",
+  "day": "09-01",
+  "title": "Approaching Thunder Storm",
+  "artist": "Martin Johnson Heade",
+  "date": "1859",
+  "medium": "Oil on canvas",
+  "movement": "Luminism",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP248013.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP248013.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Erving Wolf Foundation and Mr. and Mrs. Erving Wolf, in memory of Diane R. Wolf, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide landscape under a darkening sky, where heavy storm clouds gather above calm water. Boats sit on the water, and the light across the scene looks still and strange just before the storm.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11050",
+    "objectId": "11050",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Landscapes, Storms, Boats) and image URLs read from the record"
+  },
+  "context": "An oil painting of 1859 by Martin Johnson Heade, an American painter who returned again and again to the subjects of storms, marshes, and coastal light. The scene captures the moments before a thunderstorm arrives, not the storm itself.",
+  "descriptions": {
+    "k": "Dark clouds are coming. The water is still and quiet. Boats wait below the sky. The storm has not hit yet. Can you feel how everything is holding its breath? What will happen next?",
+    "g12": "Martin Johnson Heade painted the quiet moment before a thunderstorm. Dark clouds fill the sky, and the water below looks still. Boats rest on the water. Everything seems to wait. How can you tell a storm is coming? What do you think the boats will do?",
+    "g35": "Martin Johnson Heade often painted storms and coastal scenes. In 1859 he showed the quiet moment just before a thunderstorm, when clouds have gathered but the rain has not yet come. Look at the dark sky, the calm water, and the boats. How does the stillness make you feel? What clues tell you that a storm is on its way?",
+    "g68": "Heade is known for pictures of weather and light, and this one is about waiting. Heavy clouds loom over a calm landscape, and small boats suggest how fragile human plans can seem. The glowing, quiet light makes the pause before the storm feel strangely still. Painters later grouped many works like this under the name Luminism, which stresses calm surfaces and light. How does Heade build suspense without showing the storm itself?",
+    "g910": "Approaching Thunder Storm, 1859, turns anticipation into the subject. Heade balances a heavy, darkening sky against calmer land and water and places small boats beneath the clouds, which invites us to consider scale and risk. The still surface and glowing light are often linked to Luminism, a term applied later to painters who emphasized quiet atmosphere. Scholars debate how far such storm pictures express anxiety, awe, or the era's tensions before the Civil War; the painting does not state a message.",
+    "g1112": "Painted in 1859, Approaching Thunder Storm exemplifies Heade's long interest in the charged moment before weather breaks. The composition sets a dark, weighty sky against a hushed, light-struck surface, producing a tension between stillness and threat. It is often associated with Luminism, a modern label for painters of calm, glowing atmosphere. Some have read such storm scenes as reflections on national anxiety shortly before the Civil War, though this is an interpretive claim that the image itself does not prove. The painting rewards close attention to how mood is built from light, scale, and waiting."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think will happen to the boats when the storm arrives?",
+      "emotion": "Does the quiet water feel calm or a little bit spooky? Tell why.",
+      "observation": "What do you see in the sky? What do you see on the water?",
+      "analysis": "Where do your eyes go first, to the sky or to the boats?",
+      "line": "Can you find the flat line where the land and sky meet?",
+      "shape": "The clouds make big, puffy shapes. What do they look like to you?",
+      "color": "Which colors are in the dark sky? Which colors are in the light places?",
+      "texture": "Does the water look smooth like glass or rough like waves?",
+      "space": "Which boats are closer to you? How far does the water go?",
+      "light": "Where does the light shine through the dark clouds?",
+      "meaning": "Why do you think the painter chose the moment before the storm?",
+      "culture": "People who worked on boats had to watch the sky. What signs of weather do you look for?",
+      "technique": "The artist used oil paint to make heavy clouds. How do you think he made them look so thick and dark?",
+      "personal": "Have you ever waited for a storm to start? What did you feel or hear?",
+      "critical": "The storm is not here yet. Would the picture be better or worse with rain and lightning?"
+    },
+    "g12": {
+      "daily": "What clues in the painting tell you that a storm is coming soon?",
+      "emotion": "How do the dark sky and the still water make you feel? Which parts cause that feeling?",
+      "observation": "Describe five things you see in the sky, on the water, and on the land.",
+      "analysis": "How does the artist show the sky is the most important part of the picture?",
+      "line": "Look at the long, flat lines of the water and land. How do they feel next to the stormy sky?",
+      "shape": "How do the large cloud shapes compare with the small boats?",
+      "color": "Which colors are dark and which are light? How do they make the storm feel close?",
+      "texture": "Which parts look smooth and which look thick and heavy? How can you tell?",
+      "space": "How can you tell the water stretches far into the distance?",
+      "light": "Where is the strangest, brightest light in the picture? Why might it feel odd?",
+      "meaning": "Why might the painter show the quiet before a storm instead of the storm itself?",
+      "culture": "Long ago, people sailed small boats and watched the weather closely. What might they think when they saw this sky?",
+      "technique": "Heade used oil paint to show light and dark clouds. Where do you see the biggest difference between light and dark?",
+      "personal": "What do you do when weather turns bad? How is it like or unlike what the boats might do?",
+      "critical": "Do you think the painter wants you to feel scared, calm, or curious? What evidence supports your idea?"
+    },
+    "g35": {
+      "daily": "How does Heade make you feel that something is about to happen, even though nothing dramatic is shown yet?",
+      "emotion": "How do the dark clouds, the still water, and the odd light work together to create a mood of waiting?",
+      "observation": "After one minute of silent looking, what small details do you notice in the water, boats, and horizon?",
+      "analysis": "How does Heade organize the sky, water, and boats so that your eyes keep moving across the painting?",
+      "line": "Compare the strong horizontal lines of the water with the heavy, billowing forms of the clouds. How do they create tension?",
+      "shape": "How do the small shapes of the boats help you feel how large the sky is?",
+      "color": "How does Heade use dark grays and bright patches to make the storm feel near but not yet here?",
+      "texture": "How do the smooth water and the thick clouds feel different, and how does Heade paint that difference?",
+      "space": "How does the wide stretch of water and land help create a feeling of a huge, open space?",
+      "light": "Where is the light coming from, and how does it make the scene look both calm and unusual?",
+      "meaning": "Why might an artist choose to paint the quiet moment before a storm? What might it say about waiting or risk?",
+      "culture": "In 1859 many people traveled and worked by boat. How might this painting have felt to them?",
+      "technique": "Heade painted stormy skies many times. How might repeating a subject help an artist get better at capturing it?",
+      "personal": "Think of a time when you felt something big was about to happen. How is that like this painting?",
+      "critical": "Do the boats look in danger or safe? What evidence supports your view?"
+    },
+    "g68": {
+      "daily": "How does Heade build suspense in a painting where the storm has not yet broken?",
+      "emotion": "How do the weight of the clouds and the stillness of the water together shape the mood?",
+      "observation": "Scan from the water to the horizon to the sky. Which parts get the most careful treatment?",
+      "analysis": "How does the composition give the sky most of the visual power, and why might that matter?",
+      "line": "How do horizontal lines in the land and water contrast with the vertical heaviness of the clouds?",
+      "shape": "How do the small boats and larger shapes of land and cloud create a sense of scale?",
+      "color": "How do dark storm tones and areas of glowing light create drama and tension?",
+      "texture": "How does smooth water contrast with the thick, dense clouds in terms of paint handling?",
+      "space": "How do the horizon line and the wide expanse of water create a sense of depth?",
+      "light": "How can light be strange or glowing before a storm, and how does Heade capture it?",
+      "meaning": "Some viewers see storms in paintings as signs of nervous times. What evidence in the picture supports or challenges that idea?",
+      "culture": "Why might Americans in 1859 have found pictures of dramatic weather and nature compelling?",
+      "technique": "How might Heade's focus on light and calm surfaces connect to the later label Luminism?",
+      "personal": "What does this painting make you think about how people prepare for something they cannot control?",
+      "critical": "The storm itself is absent. What difference does it make to show anticipation instead of action?"
+    },
+    "g910": {
+      "daily": "How does Heade turn anticipation into the subject of the painting?",
+      "emotion": "How does the tension between calm water and heavy sky produce an unsettled mood?",
+      "observation": "Describe the visual hierarchy: what dominates the picture and which devices create that effect?",
+      "analysis": "Analyze how the composition balances the weight of the sky against the lower landscape.",
+      "line": "How do long horizontals and the shapes of clouds create a sense of pressure and stillness?",
+      "shape": "How do the small forms of the boats function against the large masses of cloud and land?",
+      "color": "How does Heade's palette of dark tones and glowing areas shape the mood of impending storm?",
+      "texture": "How does the contrast between smooth water and dense clouds support the painting's illusion of atmosphere?",
+      "space": "How do atmospheric effects and the broad expanse of water create depth while emphasizing isolation?",
+      "light": "How does the unusual, filtered light shape both realism and symbolism in the painting?",
+      "meaning": "How might the storm be read as a metaphor for national tension or personal uncertainty, and where does that reading become speculative?",
+      "culture": "How does the painting connect to mid-nineteenth-century American fascination with landscape and weather?",
+      "technique": "How does Heade's smooth surface and careful tonal control contribute to the sense of stillness?",
+      "personal": "How do your own feelings about storms shape your reading of this painting?",
+      "critical": "Is the painting's meaning located in its subject, its mood, or its viewer? Support your answer."
+    },
+    "g1112": {
+      "daily": "What can be argued from visual evidence about this painting's emotional and symbolic work, and what remains uncertain?",
+      "emotion": "How does the painting sustain an ambiguous mood in which calm and menace coexist?",
+      "observation": "Describe the painting's formal construction with precision. Where does careful description begin to shade into interpretation?",
+      "analysis": "Analyze how the relation of sky, water, and boats produces equilibrium and tension.",
+      "line": "How does the dominance of horizontal structure shape the painting's sense of stillness and pressure?",
+      "shape": "How do the contrasts in scale among clouds, land, and boats shape the viewer's sense of vulnerability?",
+      "color": "How does the interplay of dark and luminous areas create atmosphere, and how might the work's age and varnish affect what we see?",
+      "texture": "How does the near-glassy treatment of the water contrast with the heavier handling of the sky, and what does this suggest?",
+      "space": "How does the painting position the viewer at a distance that is both safe and exposed?",
+      "light": "In what ways does the unusual light operate as description of weather and as expressive structure?",
+      "meaning": "Evaluate readings of the painting as reflections on nature's power, on national anxiety before the Civil War, or on waiting. Which is best supported, and which is speculative?",
+      "culture": "How does the painting engage with American landscape traditions, and how does the term Luminism both help and limit its interpretation?",
+      "technique": "What does the picture suggest about Heade's methods of observing weather and composing from memory and study?",
+      "personal": "How do your own experiences of tension and calm shape the meaning you assign to the scene?",
+      "critical": "Given that the term Luminism was applied to such paintings long after they were made, how should we treat historical labels in interpreting them?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Landscapes, Storms, Boats), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The work shows the calm before a thunderstorm rather than a shipwreck or disaster; reviewers should confirm that the sky is not frightening for the youngest students.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1859 by Martin Johnson Heade, who returned often to storms and coastal light. The painting shows the stillness before a storm rather than the storm itself.",
+    "vocabulary": [
+      "landscape",
+      "Luminism",
+      "atmosphere",
+      "horizon line",
+      "contrast",
+      "anticipation"
+    ],
+    "directions": [
+      "Ask students to describe the sound and smell of the moment before a storm, then link those senses to visual choices in the painting.",
+      "Have students sketch what they think happens one minute later and compare their ideas.",
+      "Discuss how the word Luminism was applied to artists after they worked, and why labels like this can change over time."
+    ]
+  }
+}

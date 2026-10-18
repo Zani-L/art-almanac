@@ -1,0 +1,159 @@
+{
+  "id": "met-450358",
+  "day": "09-06",
+  "title": "Luster Star-Shaped Tile",
+  "artist": "Artist unknown",
+  "date": "dated 608 AH/1211–12 CE",
+  "medium": "Stonepaste; luster-painted on opaque glaze with inglaze painting",
+  "movement": "Kashan luster ceramics",
+  "region": "Iran (Kashan)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/sf40-181-1a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/sf40-181-1a.jpg",
+    "credit": "The Metropolitan Museum of Art, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A glazed ceramic tile in the shape of an eight-pointed star. A ruler is shown among members of his court, with birds and a leopard, and lines of poetry in Persian script frame the scene, all painted in a metallic shimmer.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/450358",
+    "objectId": "450358",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tags (Birds, Kings, Women) and image URLs read from the record; museum page text read for the scene, the quatrains, and the Kashan attribution"
+  },
+  "context": "A star-shaped ceramic tile dated 1211 to 1212 and attributed to Kashan, Iran. The Met describes a sultan surrounded by members of the court, with a leopard and birds, framed by three quatrains of Persian poetry.",
+  "descriptions": {
+    "k": "This shiny tile is shaped like a star with eight points. Inside is a king with people from his court. Birds and an animal are there too. Writing goes around the edge. Can you count the points of the star?",
+    "g12": "A potter in Iran made this star-shaped tile about 800 years ago. It shows a ruler with people from his court, plus birds and an animal. Lines of poetry frame the scene. The paint shimmers like metal. Which part of the picture would you look at first?",
+    "g35": "This tile was made in Kashan, Iran, in 1211 to 1212, and is shaped like an eight-pointed star. It shows a sultan with members of his court, a leopard, and birds, framed by three short poems in Persian. The painting uses luster, a shimmering metallic finish. Look at how the scene fits inside the star. Why might a potter put a royal scene on a tile?",
+    "g68": "Kashan was the finest and most prolific center for luster ceramics in Iran. This star-shaped tile, dated 1211 to 1212, shows a sultan surrounded by members of the court, with a leopard and birds, framed by three quatrains of Persian poetry. Tiles like this probably formed wall decoration, possibly as part of a larger arrangement. How does the potter fit people, animals, and writing into the points and curves of a star?",
+    "g910": "This luster tile combines image, poetry, and architectural form. The Met describes a sultan with court members, a leopard, and birds, possibly in an outdoor setting, surrounded by three Persian quatrains. Luster, a metallic painted finish, was a specialty of Kashan, which the museum calls the finest and most prolific producer in Iran. The eight-pointed star shape suggests that tiles of this type were meant to be combined with others. Consider how the composition negotiates figure, text, and ornament within a fixed shape.",
+    "g1112": "Dated 1211 to 1212 and attributed to Kashan, this luster tile reflects a tradition in which pottery carried courtly imagery and verse. The Met describes a sultan among members of his court with a leopard and birds, framed by three Persian quatrains. Such scenes may express ideals of rule and leisure rather than record actual events, and the tile's original architectural setting is not fully documented. Its use of luster, which the museum says became dominant in medieval Iran, invites questions about technological exchange, patronage, and how literary and visual culture interacted."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tile is shaped like a star. Can you find the king and the people near him?",
+      "emotion": "Does this tile look like a party, a quiet day, or a busy day? What makes you think so?",
+      "observation": "What animals can you find on the tile? Look for birds and a big cat.",
+      "analysis": "Where do you see the king in the star? Is he in the middle or on the side?",
+      "line": "Trace a line of writing around the edge of the tile. Where does it turn?",
+      "shape": "This tile has eight points. Can you count them with your finger?",
+      "color": "The paint shines like metal. What color do you think it looks like?",
+      "texture": "The tile is smooth and glassy. How would it feel to touch?",
+      "space": "The scene is crowded inside a star. Do the people have room to move?",
+      "light": "Shiny paint can sparkle as you move. Which parts of this tile might sparkle?",
+      "meaning": "What do you think the people in the tile are doing together? Tell a short story.",
+      "culture": "A king with his court is shown here. Who are the important people in your school or town?",
+      "technique": "The painter made tiny pictures on a tile. Why is it tricky to paint small?",
+      "personal": "Which animal on the tile would you most like to meet? Why?",
+      "critical": "How can you tell the person in the middle is important?"
+    },
+    "g12": {
+      "daily": "A ruler sits with people from his court on this star-shaped tile. Who else and what else can you find?",
+      "emotion": "What mood does this scene have? Look at the people and animals for clues.",
+      "observation": "Describe the people, animals, and writing you can find on the tile.",
+      "analysis": "How does the potter make the scene fit inside a star shape?",
+      "line": "The Met says the writing is poetry. How do the lines of poetry frame the picture?",
+      "shape": "The star has eight points and the picture inside is round and busy. How do those shapes fit together?",
+      "color": "The paint looks like shimmering metal. How does that make the tile look special?",
+      "texture": "How do the glassy surface and the painted details feel different to your eyes?",
+      "space": "Which parts of the scene are in the middle and which are near the edges?",
+      "light": "Shiny paint changes as you move. Imagine holding the tile near a window. What would you see?",
+      "meaning": "The tile has poems around it. Why might someone put poems on a tile?",
+      "culture": "The Met says Kashan was famous for tiles like this. What does a famous craft tell us about a place?",
+      "technique": "The potter painted with a shimmery paint called luster. Why might shimmer make a tile feel like treasure?",
+      "personal": "If you had a tile with your own picture, what would it show?",
+      "critical": "Is this a picture of a real day or an idea of a royal court? What clues help you decide?"
+    },
+    "g35": {
+      "daily": "How does the tile tell you who is important without using words?",
+      "emotion": "What feeling of ceremony or ease do you sense in the scene? Which details support it?",
+      "observation": "Take a minute to find each person and animal. What details do you see on their clothing or poses?",
+      "analysis": "How does the potter arrange the sultan, courtiers, animals, and poems inside the star shape?",
+      "line": "How do the lines of writing around the scene compare with the outlines of the people and animals?",
+      "shape": "How does an eight-pointed star shape control the way the artist can arrange the scene?",
+      "color": "Luster is mostly one metallic color on a light glaze. How does that affect which details stand out?",
+      "texture": "How does the shiny glaze affect the way painted details look?",
+      "space": "A leopard and birds fill the space around people. How does the artist use these animals to fill gaps?",
+      "light": "Luster looks different in firelight and daylight. How might the tile look in each?",
+      "meaning": "The tile combines poems and a royal scene. What might the poems add to the picture?",
+      "culture": "Tiles like this were made in Kashan about 800 years ago. What might they tell us about how rulers wanted to be seen?",
+      "technique": "The Met notes luster painting and inglaze painting. Why might combining techniques give richer detail?",
+      "personal": "How would you design a tile to show your family or your friends?",
+      "critical": "Is the scene meant to be a snapshot of a real event? What evidence in the tile helps you think about it?"
+    },
+    "g68": {
+      "daily": "How does the tile combine image and poetry to show a court scene as an ideal?",
+      "emotion": "What atmosphere of leisure or authority does the composition create? Which details build it?",
+      "observation": "Inventory the tile: figures, animals, writing, borders. Which are most prominent?",
+      "analysis": "How does the arrangement around the central figure establish hierarchy?",
+      "line": "How do outlines and decorative lines differentiate figures from background in a single-color luster painting?",
+      "shape": "How do the star's points shape the composition, and where does the artist work around them?",
+      "color": "With one metallic tone and a pale ground, how does the artist create contrast and emphasis?",
+      "texture": "How can a single-color painted design suggest the different surfaces of clothing, fur, and feathers?",
+      "space": "How does the scene's lack of deep perspective affect how you read relationships among figures?",
+      "light": "How does luster behave under light and what effect does that give a wall of tiles?",
+      "meaning": "The Met says the scene is framed by three Persian quatrains. How could reading the poems alongside the image change its meaning?",
+      "culture": "Why would Kashan potters have made tiles with court imagery for buildings in this period?",
+      "technique": "Luster painting requires a second firing under special conditions. How might that affect planning the design?",
+      "personal": "How do poems, songs, or sayings shape the way you see an image?",
+      "critical": "The museum suggests the scene may be outdoors. How confident can we be, given the evidence on the tile?"
+    },
+    "g910": {
+      "daily": "How does this tile use a small star-shaped field to project an image of courtly harmony?",
+      "emotion": "How does the interplay of royal imagery and poetry shape the tile's atmosphere of dignity or leisure?",
+      "observation": "Describe the hierarchy of the scene: who or what draws the eye first, and how?",
+      "analysis": "Analyze how figure, animal, and text are balanced within a fixed geometric shape.",
+      "line": "How does line quality in the painted figures compare with the line quality of the calligraphy?",
+      "shape": "How does the tile's star form relate to its function as part of a larger arrangement?",
+      "color": "How does a monochrome metallic palette create clarity and luxury at once?",
+      "texture": "How does the shimmer of luster stand in for the richness of textiles and gold in the depicted court?",
+      "space": "How does the scene use flat, layered space typical of Persian painting rather than illusionistic depth?",
+      "light": "How might luster give the tile a changing appearance, almost as if the figures were lit by candlelight?",
+      "meaning": "What messages about kingship might the combination of sultan, court, animals, and verse convey, and where is interpretation uncertain?",
+      "culture": "How does the Kashan tradition reflect connections between ceramic workshops, courtly taste, and literature?",
+      "technique": "What does the combination of luster and inglaze painting suggest about specialized craft knowledge?",
+      "personal": "How do you respond to images of rulers made for those rulers' world, and how do they differ from modern portraits?",
+      "critical": "How should we distinguish between idealized imagery and historical record when we read a tile like this?"
+    },
+    "g1112": {
+      "daily": "What can this tile tell us about the visual language of medieval Iranian court culture, and what are the limits of that reading?",
+      "emotion": "How does the tile's blend of poetry, ceremony, and shimmer construct an affective atmosphere that may differ from our own response?",
+      "observation": "Describe the tile precisely, then identify which parts of your description rely on the museum's text rather than on your own seeing.",
+      "analysis": "Evaluate how the composition resolves the competing demands of narrative, text, and the star-shaped frame.",
+      "line": "How does the interplay of figural drawing and calligraphy in one monochrome medium produce unity?",
+      "shape": "Discuss the star as a unit in a modular system, and how that affects the meaning of an image on a single tile.",
+      "color": "How does the limited palette of luster privilege contour and pattern over naturalistic coloring?",
+      "texture": "In what ways does the luster's sheen make the surface itself part of the meaning of the object?",
+      "space": "How does flattened pictorial space reflect conventions of Persian painting, and how do those conventions differ from European perspective?",
+      "light": "How does the dependence of luster on viewing conditions complicate the way museums and publications present it?",
+      "meaning": "How might the three quatrains and the picture work together, and what would we need to know about the poems to decide?",
+      "culture": "How does the tile illustrate the Met's point that luster moved from Iraq through Egypt and Syria to medieval Iran?",
+      "technique": "What does the dated, signed tradition of Iranian luster ware suggest about the status of potters?",
+      "personal": "How does your own idea of what a ruler or a court should look like affect your reading of this scene?",
+      "critical": "How should we weigh a museum's description of an outdoor setting against what is visible on the tile?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, classification (Ceramics-Tiles) and tags (Birds, Kings, Women) checked against the museum record, and the museum page text read: a court scene with a leopard and birds and Persian verses; no violence or nudity described. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Kashan was the finest and most prolific producer of luster ceramics in Iran, according to the Met. This tile is dated 1211 to 1212 and combines a court scene with Persian poetry.",
+    "vocabulary": [
+      "luster",
+      "stonepaste",
+      "quatrain",
+      "sultan",
+      "court",
+      "inglaze"
+    ],
+    "directions": [
+      "Have students design a star-shaped tile with a scene and a border of words, then discuss how the shape shapes the composition.",
+      "Compare this tile's luster technique with the luster bowl in the archive from Iraq.",
+      "Discuss how images of rulers are shaped by the people who commission them."
+    ]
+  }
+}

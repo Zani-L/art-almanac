@@ -1,0 +1,159 @@
+{
+  "id": "met-51543",
+  "day": "02-25",
+  "title": "Peony Flower and Leaves",
+  "artist": "Unidentified artist",
+  "date": "Song dynasty (?) (960–1279)",
+  "medium": "Album leaf; ink and color on silk",
+  "movement": "Song dynasty flower painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP154552.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP154552.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1923",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small painting on silk of a peony flower with its leaves, drawn with fine ink outlines and soft color. The blossom is shown up close against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/51543",
+    "objectId": "51543",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist (Unidentified artist), medium, period (Song dynasty (?), 960-1279; objectDate field is blank so the period is used as the date), tag (Peonies), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small album leaf of a peony and its leaves, painted in ink and color on silk. The Met lists the artist as unidentified and gives the period as Song dynasty with a question mark, so the date is not certain. In China the peony is a much-loved flower often linked with good fortune.",
+  "descriptions": {
+    "k": "This is a flower called a peony. It has many soft petals and green leaves. The painter used a very thin brush. Count the leaves you can see. Which part of the flower would you smell first?",
+    "g12": "A painter in China made this tiny picture of a peony flower with its leaves. The petals are soft and ruffled. The leaves have thin lines for their veins. We do not know the painter's name. Look slowly. How many different petals can you find?",
+    "g35": "This album leaf, painted on silk, shows a single peony with its leaves. We do not know who painted it, and the Met says it may be from the Song dynasty. Look at the fine outlines, the layers of petals, and the veins in the leaves. How did the painter make the flower look soft while the leaves look firm? Why paint just one blossom?",
+    "g68": "Peonies are among the best-loved flowers in China and were often linked with prosperity and good fortune. This small leaf focuses on one bloom and its foliage, rendered with thin ink outlines and delicate color on silk. The artist is unidentified, and the Met suggests a Song date with some uncertainty. How does careful observation of a plant become a kind of respect? What details show how closely the artist looked?",
+    "g910": "Close observation drives this album leaf: layered petals, branching leaf veins, and outlined forms are built from fine brushwork on silk. Peonies carried associations with wealth and honor in Chinese culture, though this leaf does not tell us whether the painter meant such symbolism. The artist is unknown and the Song date is uncertain. Consider how the single plant, isolated against a plain ground, encourages study of structure, softness, and delicate color.",
+    "g1112": "This anonymous leaf presents the peony in isolation, inviting both botanical looking and cultural reading. The flower's associations with abundance and rank are well established in Chinese art, yet an unsigned small leaf cannot confirm whether symbolism, scientific interest, or pure delight guided the painter. The Song attribution is itself provisional. Weigh how the careful outlines, delicate color, and silk support create meaning, and how uncertainty about authorship shapes what we can claim."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the peony. How many petal layers can you find, and which one is nearest to you?",
+      "emotion": "Does this flower feel gentle or strong? Tell what you see that makes you say so.",
+      "observation": "Find the flower and the leaves. How many leaves can you count?",
+      "analysis": "Which part of this painting do your eyes visit first, the flower or the leaves? Why?",
+      "line": "Trace one thin line on a leaf with your finger. Does it go straight or curve?",
+      "shape": "The petals make a round, ruffled shape. What other shapes can you find in the leaves?",
+      "color": "What colors did the painter use for the flower and for the leaves? Which do you like best?",
+      "texture": "Would the petals feel soft or rough? Would the leaves feel the same?",
+      "space": "Is the peony close to you or far away? What is around the flower?",
+      "light": "Which parts of the flower look the lightest? Which look darker?",
+      "meaning": "If this flower could give a message to someone, what would it say?",
+      "culture": "In China, people have loved peonies for a very long time. Why do you think people love flowers so much?",
+      "technique": "The painter used a very tiny brush. Where do you think the thinnest lines are?",
+      "personal": "What is your favorite flower? How is it like this peony?",
+      "critical": "No one knows the name of the painter of this peony. What can the picture still tell you about that person?"
+    },
+    "g12": {
+      "daily": "Look closely at the peony. What is the most delicate thing you can find, and how did the painter make it?",
+      "emotion": "How does this flower make you feel, calm or excited? Which parts help you feel that?",
+      "observation": "Describe the peony from the center of the flower out to the edges of the leaves.",
+      "analysis": "How does the painter show that some petals are in front and some are behind?",
+      "line": "Compare the lines around the petals with the lines inside the leaves. How are they different?",
+      "shape": "Find curved petal shapes and pointed leaf shapes. How do they work together in the picture?",
+      "color": "How does the painter use color on the petals so they look soft instead of flat?",
+      "texture": "Which parts look soft like petals and which look firmer like leaves? What clues tell you?",
+      "space": "The flower sits in a plain space with nothing else around it. How does that help you look at it?",
+      "light": "Where do you see darker and lighter color on the petals? What does this do?",
+      "meaning": "A peony can stand for good luck. If you were giving this painting as a gift, what wish would it carry?",
+      "culture": "This picture was made on silk in China long ago. Why might people have wanted small paintings of flowers?",
+      "technique": "Look for the finest lines in the picture. What would be hard about making such thin lines with a brush on silk?",
+      "personal": "Have you ever looked closely at a flower? What did you notice that others might miss?",
+      "critical": "Would the picture feel different if it showed a whole garden instead of one peony? Explain."
+    },
+    "g35": {
+      "daily": "What details prove that the painter looked very closely at a real peony?",
+      "emotion": "What mood does this single flower create? Which choices in color and line build it?",
+      "observation": "Take one quiet minute. What small details in the leaf veins or the petal edges did you notice only at the end?",
+      "analysis": "How does the painter arrange the flower and the leaves so that the picture feels balanced?",
+      "line": "How do the thin outlines make the peony look sharp and clear? Where do the lines change from strong to light?",
+      "shape": "How do the round, layered shapes of the petals contrast with the pointed shapes of the leaves?",
+      "color": "How does the painter use soft changes of color to show the roundness of the petals?",
+      "texture": "How does the painter make petals look silky and leaves look slightly tougher, using only brush and color?",
+      "space": "Why might the painter leave the background plain? What does that do for the flower?",
+      "light": "Where does the flower look brightest? How does the painter suggest gentle light on the petals?",
+      "meaning": "The peony was linked with prosperity in China. How might knowing that change your feeling about this small painting?",
+      "culture": "The Met says this may be from the Song dynasty. What does a painting of one flower suggest about what people valued then?",
+      "technique": "Painting on silk with ink and color requires patience. Which parts of this peony look as if they took the longest?",
+      "personal": "If you painted one plant that matters to you, what would you choose, and why?",
+      "critical": "We do not know the name of the artist. What can the painting tell us about this person anyway?"
+    },
+    "g68": {
+      "daily": "What does this leaf teach you about how long and carefully someone must look in order to paint a flower well?",
+      "emotion": "How does the painter produce a feeling of delicacy? Name two choices of line or color.",
+      "observation": "Describe the arrangement of the flower and leaves. Which details are the most detailed and which are simplified?",
+      "analysis": "How does the layered structure of the petals create the impression of a full, rounded bloom?",
+      "line": "How does the painter use outlines to give structure, and where do soft areas of color take over?",
+      "shape": "How do repeated curves in the petals create rhythm, and how do the leaves interrupt it?",
+      "color": "How might the gentle gradations of color in the blossom show the roundness of the flower?",
+      "texture": "Which brush techniques seem to separate soft petals from thin leaf veins?",
+      "space": "How does the plain silk ground push the peony forward and make it the only subject?",
+      "light": "Without cast shadows, how does the painter still suggest depth and volume in the blossom?",
+      "meaning": "The peony is often linked with wealth and honor in China. How could the image carry that meaning, and how might it also be simply a study of beauty?",
+      "culture": "Why might a Song-era viewer have treasured a small album leaf of a single flower instead of a large scene?",
+      "technique": "Silk is woven cloth, so strokes can look different than on paper. How can you see its influence on this painting?",
+      "personal": "What does it feel like to look at one object for a long time? How might this painting reward that kind of attention?",
+      "critical": "With an unknown artist and an uncertain date, how confident can we be about its meaning? What would you want to learn?"
+    },
+    "g910": {
+      "daily": "How does this leaf use description and restraint together to make a single flower feel complete?",
+      "emotion": "How does the painter generate quiet, intimate feeling through scale, softness of color, and isolation of the subject?",
+      "observation": "Describe the visual hierarchy of bloom, leaves, and ground. Which formal devices give the bloom priority?",
+      "analysis": "Analyze how the leaf's structure of overlapping petals and radiating veins creates unity.",
+      "line": "How do outline and internal line carry description of form, and where does color take over the job of modeling?",
+      "shape": "How does the contrast between the compact, layered blossom and the more open leaf shapes create visual balance?",
+      "color": "How do subtle shifts in hue and value convey volume in the petals while keeping the surface delicate?",
+      "texture": "How does the painter differentiate the delicate fabric-like petals from the firmer, veined leaves?",
+      "space": "How does the near absence of setting heighten attention to the flower's structure and encourage a study-like looking?",
+      "light": "How is gentle illumination implied through tone alone, in the absence of strong shadows?",
+      "meaning": "Peonies were associated with prosperity in Chinese culture. How can we tell whether this painting is symbolic, observational, or both?",
+      "culture": "How might flower painting of the Song period reflect values of close observation and refined taste?",
+      "technique": "How do the fine outline and layered color on silk show the painter's patience and control?",
+      "personal": "What does it say about attention that an artist might spend hours on a single blossom? How do you apply that attention in your own life?",
+      "critical": "What are the limits of interpreting an anonymous, possibly Song work? Which claims would you avoid?"
+    },
+    "g1112": {
+      "daily": "What can the leaf's visual evidence support about its purpose, and what must remain speculation given its anonymity?",
+      "emotion": "How does the painting's delicacy invite an emotional response while giving little narrative information?",
+      "observation": "Describe the leaf's rendering of the flower with precision. Where does close description shade into interpretation?",
+      "analysis": "Analyze how structure, outline, and color work together to create both botanical credibility and decorative harmony.",
+      "line": "How does the use of controlled outline reflect conventions of Song-era flower painting, and where might it be individually expressive?",
+      "shape": "How do the layered curves of the blossom and the shapes of the leaves generate a balance between organic fullness and graphic clarity?",
+      "color": "How might the ageing of silk and pigment alter our impression of the color, and what does that mean for interpretation?",
+      "texture": "How does the painter's handling of silk as a support affect the perceived softness and the precision of line?",
+      "space": "How does the isolation of the bloom on a plain ground blur the boundary between specimen study and symbolic emblem?",
+      "light": "How does the painting evoke volume with minimal tonal contrast, and how does this compare with Western ideas of modeling?",
+      "meaning": "How should viewers weigh the cultural associations of the peony against the absence of inscription or context in this leaf?",
+      "culture": "How do the practices of collecting and mounting album leaves shape the way we encounter this flower, centuries after it was made?",
+      "technique": "What does the combination of outline and color wash suggest about the working method and the training of the artist?",
+      "personal": "How does your own relationship to flowers, gardens, or gifts shape your reading of the peony as a subject?",
+      "critical": "How does uncertainty about the artist and date affect the weight of art-historical claims about this work? What standards of evidence would you apply?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tag (Peonies) in the Met record were checked; the subject is a flower and its leaves.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Met's record lists the artist as unidentified and the period as Song dynasty with a question mark. It is a good example of how museums handle uncertainty about authorship and date.",
+    "vocabulary": [
+      "peony",
+      "album leaf",
+      "silk",
+      "outline",
+      "Song dynasty",
+      "unidentified artist"
+    ],
+    "directions": [
+      "Ask students to sketch one real flower slowly for five minutes, then compare how much they noticed.",
+      "Discuss how we can know about a work without knowing who made it.",
+      "Have students write a short note to accompany the painting as a gift, naming one wish."
+    ]
+  }
+}

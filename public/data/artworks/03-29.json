@@ -1,0 +1,159 @@
+{
+  "id": "met-437749",
+  "day": "03-29",
+  "title": "Merry Company on a Terrace",
+  "artist": "Jan Steen",
+  "date": "ca. 1670",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146455.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP146455.jpg",
+    "credit": "The Metropolitan Museum of Art, Fletcher Fund, 1958",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A lively group of men, women and children gathered around food, with musicians, a dog and toys, in an outdoor terrace scene.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437749",
+    "objectId": "437749",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Jan Steen was a Dutch painter from Leiden, famous for lively scenes of family gatherings and festivities. Pictures of cheerful groups, called merry companies, were a popular type of Dutch genre painting. This large canvas was made around 1670.",
+  "descriptions": {
+    "k": "Look at this big, happy party! There are grown-ups and kids. There is food, music and a dog. There are toys too. What is your favorite thing to find? What sound do you hear?",
+    "g12": "A big family party is happening outside. Grown-ups and children sit together with food. Some people play music, and a dog is near. There are toys, too. Jan Steen painted lively crowds in the Netherlands long ago. Who looks like they are having the most fun?",
+    "g35": "Jan Steen was known for painting busy, cheerful gatherings. This painting from about 1670 shows men, women and children on a terrace, with food, musicians, a dog and toys. A scene of everyday people enjoying themselves is called a genre painting. Look at the faces, hands and objects. Who is doing what? What small story can you find within the big party?",
+    "g68": "Jan Steen of Leiden painted crowded, humorous scenes of family and festivity. In Merry Company on a Terrace (about 1670), adults and children share food and music with a dog and toys close by. Each group seems to be doing something different, so your eyes jump around the canvas. Scholars note that Steen's parties can be both fun and a gentle warning about overindulgence. What details look joyful to you, and which hint at disorder?",
+    "g910": "Steen was a master of the lively genre scene, and Merry Company on a Terrace gathers adults, children, musicians, food, a dog and toys into a busy, shifting composition. Dutch viewers enjoyed his humor, and some of his pictures may also carry moral messages about excess or about how children learn from adults. Because those meanings are debated, the painting rewards close looking at gestures, expressions and details. How does the arrangement of figures and objects create both energy and a story?",
+    "g1112": "Painted around 1670, Merry Company on a Terrace shows Steen's skill at orchestrating many figures and details into a lively whole. His work is often read through two lenses: as affectionate comedy of family life and as moral commentary on pleasure, disorder and education. Scholars disagree about how strongly any one painting leans either way, and the phrase 'a Jan Steen household' later entered Dutch as a joke about messiness. How do the details of food, music, children and toys support or complicate these readings?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What is happening at this party? Find three things and tell about them.",
+      "emotion": "Does this party look happy, silly or loud? What do you see that tells you?",
+      "observation": "Can you find the dog, the toys and the food? Point to each one.",
+      "analysis": "Who do you look at first? What makes your eyes go there?",
+      "line": "Find someone who is reaching or pointing. Which way does their arm go?",
+      "shape": "What shapes do the people make when they sit close together?",
+      "color": "Which bright colors do you see in the clothes? Where are they?",
+      "texture": "Which things look soft, like cloth? Which look hard, like dishes?",
+      "space": "Are the people crowded close or spread far apart? How can you tell?",
+      "light": "Where is the brightest spot? Who or what is shining there?",
+      "meaning": "What do you think the children are learning from the grown-ups?",
+      "culture": "Long ago, Dutch families gathered for big meals and music. How does your family celebrate together?",
+      "technique": "The painter put many things in one picture. How do you think he planned where to put everyone?",
+      "personal": "What is your favorite thing to do at a party? Is it in this picture?",
+      "critical": "Is this party exactly how a family would act, or did the painter make it extra funny? Why do you think so?"
+    },
+    "g12": {
+      "daily": "Which small story in this party do you like the best? Point to the people and objects that tell it.",
+      "emotion": "What feelings can you find on the faces? Choose two people and compare them.",
+      "observation": "Describe the people, the animals, the toys and the food. What do you find first?",
+      "analysis": "How does the painter group the people so that you see many small scenes in one big one?",
+      "line": "Find the arms and hands. How do they point or reach to connect the people?",
+      "shape": "How do the groups of people form shapes, like triangles or circles?",
+      "color": "Which colors make the clothes stand out? How do they help you tell people apart?",
+      "texture": "How does the painter make cloth, food and fur look different?",
+      "space": "How does the painter show who is in front and who is behind?",
+      "light": "Where does the light fall strongest, and which people does it help you notice?",
+      "meaning": "What do you think the children are noticing, and what might they learn?",
+      "culture": "Music and food are part of many celebrations. What do they tell you about this one?",
+      "technique": "Steen painted lots of tiny details, like objects on the table. Why might details make a picture more fun?",
+      "personal": "Which person at the party would you want to sit next to? Why?",
+      "critical": "Is the party a little messy? What clues tell you so?"
+    },
+    "g35": {
+      "daily": "Steen packs many small stories into one picture. Which tiny story can you find, and what details tell it?",
+      "emotion": "What mood fills the scene? Point to faces, actions and objects that help set it.",
+      "observation": "Look slowly across the whole terrace. What details of food, music, toys and clothing can you find?",
+      "analysis": "How does Steen arrange so many people so that the picture does not look like a jumble?",
+      "line": "How do the arms, instruments and table edges create lines that tie the groups together?",
+      "shape": "What overall shape do the groups of people make? How does it keep the picture balanced?",
+      "color": "How do colors in the clothing spread across the picture to keep your eye moving?",
+      "texture": "How does Steen show the difference between fabric, food, instruments and the dog's fur?",
+      "space": "How can you tell which people are nearer to you and which are farther away?",
+      "light": "Describe how light moves across the figures. Which areas stay in shadow?",
+      "meaning": "Some people think Steen wanted viewers to smile and also to think about behavior. Where could you find a clue for each?",
+      "culture": "Why might Dutch families in the 1600s have enjoyed hanging a painting of a party in their homes?",
+      "technique": "Painting many figures takes planning. What might a painter do before starting to place everyone?",
+      "personal": "Think of a gathering you remember. What is similar to or different from the one painted here?",
+      "critical": "What clues suggest that the painter exaggerated the fun? What clues suggest it is realistic?"
+    },
+    "g68": {
+      "daily": "How does Steen guide the viewer through a crowded scene so that individual stories stand out?",
+      "emotion": "What range of emotions can you find among the figures, and how does that variety affect the overall mood?",
+      "observation": "List the activities taking place on the terrace. Which did you notice last?",
+      "analysis": "How are figures grouped and linked by gesture and glance, and where does the composition pause?",
+      "line": "How do diagonals and gestures lead the viewer's eye from group to group?",
+      "shape": "How do clusters of figures form larger shapes that organize the canvas?",
+      "color": "How does color repeat across the picture, and what effect does that have on unity?",
+      "texture": "Which materials, such as cloth, food or metal, does the painter render most convincingly?",
+      "space": "How does the layering of figures from front to back create depth in a crowded setting?",
+      "light": "How does the distribution of light and shadow emphasize some actions over others?",
+      "meaning": "Steen's cheerful scenes might offer a moral lesson about behavior. What evidence in this painting suggests or challenges that reading?",
+      "culture": "What does a merry company painting suggest about how Dutch families and communities enjoyed leisure?",
+      "technique": "What does it take to control so many figures and details in a single oil painting?",
+      "personal": "Where do you see ordinary family life in this picture, and where does it seem exaggerated?",
+      "critical": "How does humor in art shape the way we judge the people it depicts?"
+    },
+    "g910": {
+      "daily": "How does Steen combine humor, observation and possible moral commentary in this single scene?",
+      "emotion": "How do the varied expressions and gestures create an emotional tone that is joyful yet unsettled?",
+      "observation": "Describe the visual hierarchy of the scene. Where does the eye begin, and how does the painter keep it traveling?",
+      "analysis": "Analyze the relationships among the adult and child figures. What does the arrangement imply about family and example?",
+      "line": "How do gestural lines connect the figures, and how do they help organize a crowded canvas?",
+      "shape": "How does the grouping of figures into overlapping masses give the composition structure?",
+      "color": "How does the distribution of color accents establish rhythm across the canvas?",
+      "texture": "How does Steen's handling of surface detail contribute to the painting's sense of lively abundance?",
+      "space": "How does the terrace setting create a stage-like space for the action?",
+      "light": "How does light articulate groups of figures and shape the scene's mood?",
+      "meaning": "How do scholars' competing views of Steen's work, as affectionate comedy or warning, shape how you weigh the details?",
+      "culture": "How did Steen's reputation as a humorous painter relate to Dutch ideas about domestic order and festivity?",
+      "technique": "How might Steen's approach to staging figures and objects resemble theatrical composition?",
+      "personal": "How does the portrayal of children in the scene connect to your own understanding of how young people learn from adults?",
+      "critical": "How should we interpret ambiguity in a painting that invites both laughter and judgment?"
+    },
+    "g1112": {
+      "daily": "What does the painting ask you to do with its crowded detail: to laugh, to judge, or to look for a larger lesson? Support your view with evidence.",
+      "emotion": "How does the painting combine warmth and disorder, and how stable is the emotional register you assign to it?",
+      "observation": "Describe the figures, objects and setting as precisely as possible before interpreting. Where did interpretation creep in?",
+      "analysis": "How does the composition orchestrate many simultaneous actions into a coherent whole, and what does that coherence imply?",
+      "line": "How do gesture and glance work as structural lines, and how does Steen exploit them for narrative effect?",
+      "shape": "How do grouping and silhouette shape the viewer's reading of social relations among the figures?",
+      "color": "How does color unify a busy scene, and where does it signal difference or emphasis?",
+      "texture": "How does the rendering of varied materials contribute to the painting's illusion of abundance and sensory richness?",
+      "space": "How does the staging of the terrace position the viewer relative to the party, as guest, observer or judge?",
+      "light": "How does light direct narrative emphasis, and how might it shape moral or comic readings?",
+      "meaning": "How do you evaluate the claim that Steen's paintings are moral warnings, given that the same details can read as comedy or celebration?",
+      "culture": "What can this painting and the later Dutch phrase tied to Steen's name suggest about how images shape reputation and cultural memory?",
+      "technique": "How do the demands of managing many figures, props and a coherent light source test a painter's skill, and what does Steen's solution reveal?",
+      "personal": "What does your response to the scene reveal about your own assumptions concerning family, play and discipline?",
+      "critical": "How should we weigh the possibility that a painting celebrates the very behavior it appears to criticize?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Food, Children, Men, Women, Dogs, Dining, Musicians, Toys) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A large genre painting by Jan Steen of Leiden, made around 1670. Steen is known for lively domestic scenes, and the Dutch phrase 'a Jan Steen household' later came to mean a messy home.",
+    "vocabulary": [
+      "genre painting",
+      "merry company",
+      "composition",
+      "gesture",
+      "terrace",
+      "moral lesson"
+    ],
+    "directions": [
+      "Assign each student one figure or group to describe, then piece together the whole scene.",
+      "Discuss the difference between a picture that is funny and a picture that teaches a lesson.",
+      "Compare with a photograph of a modern family gathering."
+    ]
+  }
+}

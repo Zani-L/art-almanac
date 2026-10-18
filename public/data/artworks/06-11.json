@@ -1,0 +1,158 @@
+{
+  "id": "met-371553",
+  "day": "06-11",
+  "title": "Peasants Going to Work",
+  "artist": "Jean-François Millet",
+  "date": "1863",
+  "medium": "Etching in brown ink on laid paper; seventh state of seven",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP827909.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP827909.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1924",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A brown-ink etching of country people, a man and a woman, walking out together to their work, drawn with fine, crisscrossing lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/371553",
+    "objectId": "371553",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Men, Women), classification (Prints) and image URLs read from the record; the record gives no country, so France rests on Millet's well-established nationality"
+  },
+  "context": "An etching in brown ink made in 1863 by Jean-François Millet, a French artist known for scenes of rural labor. The Met's record describes this impression as the seventh and final state of the plate.",
+  "descriptions": {
+    "k": "Two people walk to work in the countryside. This picture is not made with paint. It is made with lots of tiny lines in brown ink. Can you find the people? Where do you think they are going?",
+    "g12": "Jean-François Millet made this print in France. It shows country people walking out to do their work. The picture is made of many tiny brown lines. Look closely at how lines make shadows and shapes. What kind of work do you think they are going to do?",
+    "g35": "Millet was a French artist who made art about the lives of farm workers. This is an etching: the artist scratched lines into a metal plate, covered it in ink, and pressed it on paper. The brown ink and fine lines show people heading out to work. Look at how the lines create dark and light. Why might Millet show the walk to work, not the work itself?",
+    "g68": "In 1863, Millet made this etching of country people on their way to labor. An etching builds images from lines scratched into a plate, so the artist controls tone through the density of those lines. The brown ink gives a warm, earthy feel. Millet is known for treating rural work with dignity. How does choosing the walk to work, a moment between tasks, shape the way we see these people?",
+    "g910": "Peasants Going to Work shows how Millet used the economy of etching, with crosshatching and varied line, to create tone and mood without color. Choosing a moment of passage rather than of labor itself keeps the focus on routine and endurance. Critics in the 1800s debated whether his rural subjects honored workers or unsettled urban viewers. How does the medium's restraint affect your reading, and what does the title ask you to assume?",
+    "g1112": "Millet's etching belongs to a body of work that brought rural labor into serious art in nineteenth-century France, and it was received in sharply different ways: as respectful, as sentimental, or as politically unsettling. The medium itself matters. Line density builds tone, and an impression described as a final state shows how an image is refined over time. How do medium, subject and the viewpoint of a buyer shape what this print can claim to show?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where do you think these people are walking to? What will they do there?",
+      "emotion": "Do the people look tired, happy, or ready to work? What shows you?",
+      "observation": "Find the people in this picture. What are they doing?",
+      "analysis": "Where do your eyes go first in this brown picture? What pulls them there?",
+      "line": "This picture is made of tiny lines. Can you find places where the lines are close together?",
+      "shape": "What shapes do the people make? Are they tall, wide, or round?",
+      "color": "This picture is only one color. What color is it, and how does it feel?",
+      "texture": "How do the little lines make some parts look rough or soft?",
+      "space": "Are the people close to you or far away? How can you tell?",
+      "light": "Which parts of the picture are dark and which are light?",
+      "meaning": "Why do you think the artist drew people walking to work?",
+      "culture": "People in France long ago worked outdoors in the countryside. What kinds of jobs do you see people do near you?",
+      "technique": "This picture was made by scratching a metal plate and pressing it on paper. How do you think the lines were scratched?",
+      "personal": "What do you do to get ready for your day?",
+      "critical": "What would you add to the picture to show more about the day?"
+    },
+    "g12": {
+      "daily": "What do you think the people are going to do today? Use clues from the picture.",
+      "emotion": "What mood does this brown picture have: calm, tired, or hopeful? Point to a clue.",
+      "observation": "Describe the people you see and what they might be carrying or wearing.",
+      "analysis": "How does the artist make you look at the people? What helps?",
+      "line": "Look at the many tiny lines. Where do they look like shadows?",
+      "shape": "Look at the shapes of the people's bodies. What do the shapes tell you about how they walk?",
+      "color": "The picture is only brown ink on paper. How does that change how it feels?",
+      "texture": "Where do the lines make the ground or clothes look rough?",
+      "space": "How can you tell which parts of the picture are close and which are far?",
+      "light": "Where is the picture darkest? Where is the paper left light?",
+      "meaning": "Why might the artist show the walk to work instead of the work?",
+      "culture": "Millet showed country life in France in the 1800s. How is work then like or unlike work today?",
+      "technique": "An etching is made with lines scratched into metal. Where are the thickest and thinnest lines?",
+      "personal": "What helps you start a busy day?",
+      "critical": "Does this picture look happy, sad, or both? Explain."
+    },
+    "g35": {
+      "daily": "What story could you tell about these people and their day, using details from the etching?",
+      "emotion": "How do the poses and the brown tone set the mood of the print?",
+      "observation": "Pick one figure and study the lines around it for a minute. What small detail did you notice last?",
+      "analysis": "How does Millet use light and dark areas to help you read the scene?",
+      "line": "How do the lines in the figures differ from the lines in the ground and the background?",
+      "shape": "How do the shapes of the figures show how they move together?",
+      "color": "The ink is one warm brown. How does that single color affect the mood?",
+      "texture": "How does Millet use many small lines to suggest rough ground and cloth?",
+      "space": "How does the artist suggest distance in a picture made only with lines?",
+      "light": "How does the contrast between dark lines and bare paper suggest light in this print?",
+      "meaning": "What might the print say about the importance of everyday work?",
+      "culture": "What can this print teach us about daily life for people in the French countryside in the 1860s?",
+      "technique": "An etching can show many tones by changing how close the lines are. Where do you see that?",
+      "personal": "Think of someone you know who works hard. How would you show them in a print?",
+      "critical": "Does the print show how work really felt, or an artist's idea of it? What makes you think so?"
+    },
+    "g68": {
+      "daily": "How does Millet turn a walk to work into a meaningful image?",
+      "emotion": "How does the artist create a serious but dignified mood using only brown lines?",
+      "observation": "List what you can see of the people's clothing, tools and posture. Which details seem most important?",
+      "analysis": "How does the composition emphasize the figures and the sense of moving forward?",
+      "line": "How does the variety of line, from thick to thin and open to dense, build tone and form?",
+      "shape": "How do the shapes of the figures create a sense of purpose and weight?",
+      "color": "How does the choice of brown ink, rather than black, change the mood?",
+      "texture": "How does the density of line suggest different textures in clothing, earth and plants?",
+      "space": "How does the print build depth using only line, and where is it most convincing?",
+      "light": "How are light and shadow suggested by the density of lines?",
+      "meaning": "What ideas about labor, dignity or routine might the print express?",
+      "culture": "Why might nineteenth-century city viewers have been interested in prints of rural workers?",
+      "technique": "How does the etching process, scratching lines into a plate, shape the look of this print?",
+      "personal": "How is your own daily routine like or unlike the one this print shows?",
+      "critical": "What does the title lead you to assume, and what might the picture leave unsaid?"
+    },
+    "g910": {
+      "daily": "How does the print make the ordinary act of heading to work into a serious subject?",
+      "emotion": "How does Millet create a grave, steady atmosphere through line density and restraint?",
+      "observation": "In this etching, which figures or areas of tone claim attention first, and which devices of line cause that?",
+      "analysis": "Analyze how line, tone and placement of the figures give the print its sense of purpose.",
+      "line": "How does varied linework, including hatching and open areas, produce both form and atmosphere?",
+      "shape": "How do the forms of the figures balance weight and movement within the sheet?",
+      "color": "How does the monochrome brown ink focus attention on tone and line?",
+      "texture": "How does Millet differentiate surfaces through the density and direction of marks?",
+      "space": "How does the print create spatial recession with a limited tonal range?",
+      "light": "How does the print use the paper's own light as a tonal element?",
+      "meaning": "How might the print present labor as dignified, and where might that view be idealizing?",
+      "culture": "How did images of rural labor figure in nineteenth-century French debates about class and the countryside?",
+      "technique": "What does an impression described as a final state suggest about the artist's reworking of the plate?",
+      "personal": "How do your own ideas about work influence how you read a picture of laborers?",
+      "critical": "Whose perspective does the print adopt, and how might a worker have pictured the same walk differently?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the print about how Millet represents rural labor, and what remains uncertain?",
+      "emotion": "How does the print's restraint complicate any attempt to name a single emotional tone?",
+      "observation": "Describe the formal construction of the etching with precision. Where does description begin to interpret?",
+      "analysis": "Analyze how Millet's economy of means produces both a sense of routine and of weight.",
+      "line": "How does the reliance on line density, rather than color or wash, define form and tone?",
+      "shape": "How do the figures' silhouettes and arrangement convey collective purpose, and what alternative readings are possible?",
+      "color": "How does the monochrome ink shape the print's reception, and how might the paper's age affect what we see?",
+      "texture": "How does a purely linear medium suggest material difference, and what limits does it impose?",
+      "space": "How does the print negotiate depth and flatness within the conventions of etching?",
+      "light": "In what ways does the interplay of paper and ink function as both description of light and a device of mood?",
+      "meaning": "Evaluate competing readings of the print as homage to labor, sentimental idealization, or social critique. Which is best supported?",
+      "culture": "How did the reception of Millet's rural subjects intersect with class and politics in nineteenth-century France, and what further evidence would you need?",
+      "technique": "What does the existence of several states of a plate suggest about authorship, revision and the status of a single impression?",
+      "personal": "How does your own relationship to manual work shape the way you read this image, and where might it limit it?",
+      "critical": "Given that the print was made by an artist outside the laboring class, what standards should we use when treating it as evidence of workers' lives?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Men, Women), medium and classification (Prints) read from the Met record: a rural labor scene in etching. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Millet made paintings, drawings and etchings of French rural labor. An etching is made by scratching lines into a coated metal plate, which is then inked and pressed on paper.",
+    "vocabulary": [
+      "etching",
+      "state (of a print)",
+      "hatching",
+      "line density",
+      "tone",
+      "rural labor"
+    ],
+    "directions": [
+      "Have students make a small drawing using only line, building dark and light with hatching.",
+      "Ask students to write what happens next, then discuss which visual evidence they used.",
+      "Compare with a colorful work from the archive and discuss what color adds or removes."
+    ]
+  }
+}

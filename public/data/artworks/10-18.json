@@ -1,0 +1,159 @@
+{
+  "id": "met-435802",
+  "day": "10-18",
+  "title": "Portrait of a Young Man",
+  "artist": "Bronzino (Agnolo di Cosimo di Mariano)",
+  "date": "1530s",
+  "medium": "Oil on wood",
+  "movement": "Mannerism",
+  "region": "Italy (Florence)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-011.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-011.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A young man stands in an elegant room, holding a book with his finger tucked between the pages. A table and chair beside him are decorated with carved faces.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435802",
+    "objectId": "435802",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page description"
+  },
+  "context": "An oil portrait by Bronzino, a Florentine court painter and poet, made in the 1530s. The sitter's name is not known, though the Met suggests he may have belonged to Bronzino's circle of literary friends. The carved faces on the furniture are a decorative style called grotesques.",
+  "descriptions": {
+    "k": "A young man stands in a room. He holds a book and keeps his finger in the pages. Funny carved faces decorate the table and the chair. What do you think he was reading?",
+    "g12": "Bronzino painted this young man in Florence, Italy, long ago. He holds a book with his finger saving his place. Strange carved faces decorate the table and the chair beside him. We do not know his name. What do the book and the faces tell you about him?",
+    "g35": "Bronzino was a painter and a poet in Florence in the 1530s. His young man holds a book, probably poetry, and stands with a calm, proud pose. The table and chair are decorated with grotesques, odd faces from an ancient Roman decorating style. We do not know who the young man was. What do you think he wants us to notice about him? What do the carved faces add?",
+    "g68": "Bronzino painted this portrait in the 1530s, when he often portrayed friends in his literary circle. The Met describes the sitter as carefully crafted in appearance and holding a book, probably of poetry. Around him are grotesques, monstrous heads in an ancient Roman decorative style; the Met suggests their contrast with his handsome looks may hint that his polished appearance is a kind of mask. The sitter's name is unknown. How do pose, book, and decoration shape our impression of him?",
+    "g910": "Bronzino's Portrait of a Young Man (1530s) presents a carefully controlled image of elegance. The sitter displays a book, probably poetry, and the Met notes his conspicuous poise. Around him, grotesques, monstrous heads in an ancient Roman decorative style, appear on the furniture; the Met suggests that their contrast with his handsome looks may imply that his polished appearance is itself a mask. Because Bronzino was a poet who painted members of his own literary circle, the portrait may belong to a world of shared taste and wit. Consider what the painting asks us to see, and what it holds back.",
+    "g1112": "Bronzino's Portrait of a Young Man, from the 1530s, is a study in cultivated self-presentation. The sitter's poise, the book that suggests poetry, and the Roman-inspired grotesques that surround him all point to a courtly literary milieu. The Met proposes that the grotesque heads, set against his handsome features, may suggest his polished appearance is a mask. That is an interpretation, not a certainty: the sitter is unidentified, and Bronzino's cool, controlled surface deliberately withholds psychological access. The portrait invites weighing evidence for wit, irony, and display."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the young man was reading?",
+      "emotion": "Does he look friendly, proud, or serious? What do you see that makes you say so?",
+      "observation": "Find the man, the book, and the carved faces. Point to each one.",
+      "analysis": "Look at the man's face, then at the carved faces. Which one do you look at longer?",
+      "line": "Trace the line of his arm from his shoulder to the book with your finger in the air.",
+      "shape": "What shapes do you see in the chair, table, and book?",
+      "color": "Which colors do you see in the man's clothes? Which colors do you see around him?",
+      "texture": "Which things look smooth and which look carved? How would they feel to touch?",
+      "space": "Is the man in a big room or a small room? How can you tell?",
+      "light": "Where does the light touch his face and hands? Point to it.",
+      "meaning": "The carved faces are strange. What story could you make up about them?",
+      "culture": "This man lived in Florence, Italy, long ago. What do you think a day in his life was like?",
+      "technique": "The painter used oil paint on wood. What do you think he needed to paint a smooth face?",
+      "personal": "What book would you hold in a portrait of you? Why?",
+      "critical": "Why might a painter make fancy furniture with funny faces?"
+    },
+    "g12": {
+      "daily": "What does the way the man stands and holds the book tell you about him?",
+      "emotion": "What mood does his face give you: proud, calm, or something else? Which clues help?",
+      "observation": "Describe five details you see in the man's clothes, hands, and surroundings.",
+      "analysis": "How does the painter make the man the star of the picture?",
+      "line": "Follow the lines of his arms and shoulders. Are they smooth or sharp? What do they show?",
+      "shape": "Look at the man's shape and the shapes of the table and chair. How do they fit together?",
+      "color": "Which colors are strong and which are quiet? How do they help his face stand out?",
+      "texture": "Find things that look soft, hard, or carved. How does the painter show each?",
+      "space": "How does the painter show that the man is in a room?",
+      "light": "Where does the light fall on the man? How does it make him look?",
+      "meaning": "Why might the painter add odd carved faces to the table and chair?",
+      "culture": "Bronzino was a painter and also wrote poems. Why might a man in his group want a portrait with a book?",
+      "technique": "Oil paint can make smooth skin and shiny cloth. Where do you see smooth painting?",
+      "personal": "What would you hold or wear in a portrait to show who you are?",
+      "critical": "Does the man look friendly or distant? What clues did you use?"
+    },
+    "g35": {
+      "daily": "What does this portrait want us to think about the young man? Which details support your idea?",
+      "emotion": "What mood does the portrait create? Which details, like his pose and the quiet room, add to it?",
+      "observation": "Take one minute of silent looking. What small details do you notice in his clothes, hands, and the furniture?",
+      "analysis": "How does Bronzino use the figure, the book, and the furniture to organize the picture?",
+      "line": "How do the smooth, graceful lines of the man compare with the busy carved faces beside him?",
+      "shape": "How does the shape of the man's body create a calm, steady feeling?",
+      "color": "How do the colors help the face and hands stand out from the rest of the picture?",
+      "texture": "How does Bronzino make skin, cloth, and carved furniture look different?",
+      "space": "How does the man's position in the room make him seem important?",
+      "light": "How does the light make the man's face look smooth and almost polished?",
+      "meaning": "The Met says the carved faces might suggest his polished look is a kind of mask. What do you think about that idea?",
+      "culture": "Bronzino worked for the Medici court in Florence. How might that world shape how people wanted to appear in portraits?",
+      "technique": "Bronzino made his surfaces smooth and cool. How does that choice change the feeling of the portrait?",
+      "personal": "How do you decide how to look when someone takes your picture?",
+      "critical": "We do not know the man's name. How does that change what we can say about him?"
+    },
+    "g68": {
+      "daily": "How do pose, book, and decoration work together to shape our impression of the sitter?",
+      "emotion": "Is the sitter's attitude confident, cold, or something else? Support your view with visual evidence.",
+      "observation": "Describe the portrait without interpreting. Which details seem most carefully placed?",
+      "analysis": "How does the composition place the sitter, the book, and the furniture to guide your eye?",
+      "line": "How do the elegant contours of the figure contrast with the busy forms of the grotesques?",
+      "shape": "How does the sitter's upright shape create dignity and stability?",
+      "color": "How does the controlled palette support the portrait's cool, polished mood?",
+      "texture": "How does Bronzino create a smooth, almost enamel-like surface? What effect does it have?",
+      "space": "How does the interior setting add to the sitter's status and mood?",
+      "light": "How does the even, cool light contribute to the sense of control?",
+      "meaning": "Grotesques are odd, monstrous faces. How might they comment on the sitter's handsome appearance?",
+      "culture": "How did Renaissance ideas about poetry, learning, and good manners influence portraits like this?",
+      "technique": "What does the polished surface suggest about the artist's skill and the sitter's image?",
+      "personal": "How do people use clothes, objects, or posts to present an image of themselves today?",
+      "critical": "How can a portrait both reveal and hide a person? Where do you see each here?"
+    },
+    "g910": {
+      "daily": "How does Bronzino construct an image of cultivated self-possession through pose, props, and surface?",
+      "emotion": "How does the portrait convey emotion through restraint, and what does it withhold?",
+      "observation": "Describe the visual hierarchy of the portrait. What draws attention first, and how is that achieved?",
+      "analysis": "Analyze how the figure and furniture, with the grotesques, create tension between order and strangeness.",
+      "line": "How does Bronzino's precise contour contribute to the sitter's elegance?",
+      "shape": "How do the sitter's poised silhouette and the angular furniture structure the composition?",
+      "color": "How does the cool, controlled palette contribute to the portrait's air of detachment?",
+      "texture": "How does the polished, almost enamel-like finish contrast with the carved ornament?",
+      "space": "How does the shallow, architectural setting frame the sitter as a figure of status and learning?",
+      "light": "How does the even light serve the portrait's emphasis on surface and finish?",
+      "meaning": "What does the contrast between the sitter's good looks and the grotesques suggest, and how far can we push that reading?",
+      "culture": "How does the portrait reflect the courtly and literary culture of Medici Florence in the 1530s?",
+      "technique": "How does the artist's cool, polished handling relate to Mannerist taste for refinement?",
+      "personal": "Where in your own life do you see a gap between a polished image and a more complex reality?",
+      "critical": "How might the sitter's anonymity change what we assume about his status and character?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the portrait about the sitter's self-presentation, and what remains uncertain?",
+      "emotion": "How does the portrait's coolness complicate the idea that portraits reveal inner life?",
+      "observation": "Describe the young man's portrait precisely, including pose, props, and setting. Where does description begin to shade into interpretation?",
+      "analysis": "Analyze how the portrait's formal control and its grotesque ornament create ambiguity.",
+      "line": "How does the portrait's emphasis on contour and surface relate to Mannerist ideals of grace?",
+      "shape": "How do the elongated, poised figure and the angular setting create tension and elegance?",
+      "color": "How might the portrait's restrained palette contribute to its air of aloofness?",
+      "texture": "How does the enamel-like finish of the painted surface contrast with the implied carving of the ornament?",
+      "space": "How does the controlled interior space communicate social position and intellectual identity?",
+      "light": "How does the even, unthreatening light serve a portrait that withholds psychological access?",
+      "meaning": "Evaluate readings of the grotesques as playful decoration, a comment on masks and appearance, or a reference to the sitter's literary taste. What would support each?",
+      "culture": "How does a portrait of a member of Bronzino's literary circle connect painting and poetry in Florentine court culture?",
+      "technique": "What might Bronzino's polished technique suggest about the relation between artifice and nature in Mannerism?",
+      "personal": "How do your assumptions about confidence and arrogance shape your reading of the sitter's pose?",
+      "critical": "How should we handle an interpretation like the 'mask' idea that is plausible but cannot be proven?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Men, Portraits) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Florence in the 1530s by Bronzino, who was a court painter and a poet. The Met describes the sitter as unidentified, holding a book probably of poetry, and notes the grotesque heads on the furniture.",
+    "vocabulary": [
+      "portrait",
+      "Mannerism",
+      "grotesque",
+      "oil paint",
+      "pose",
+      "court artist"
+    ],
+    "directions": [
+      "Have students strike the sitter's pose and describe how it feels, then discuss what the pose communicates.",
+      "Ask students to list what they would include in a portrait to hint at their personality without showing it directly.",
+      "Discuss the idea of a 'mask' in portraits and in everyday life."
+    ]
+  }
+}

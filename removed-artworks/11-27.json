@@ -1,0 +1,158 @@
+{
+  "id": "met-13644",
+  "day": "11-27",
+  "title": "Coverlet",
+  "artist": "Artist unknown",
+  "date": "1836",
+  "medium": "Wool, woven",
+  "region": "United States (Mid-Atlantic)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT7403.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT7403.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Dr. and Mrs. Kenneth H. Fried and the Friends of the American Wing, 1982",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woven wool bed coverlet with a decorative pattern that includes birds and flowers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/13644",
+    "objectId": "13644",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, region, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A woven wool coverlet dated 1836 from the Mid-Atlantic United States. The Met's record lists birds and flowers among its imagery and does not name the weaver.",
+  "descriptions": {
+    "k": "This bed cover is woven from wool. It was made in America in 1836. Look for birds and flowers in the pattern. Which one do you see first?",
+    "g12": "This woven bed cover was made from wool in America in 1836. A loom wove the birds and flowers right into the cloth. Look for one bird and one flower. How are their shapes alike? How are they different?",
+    "g35": "This coverlet was woven from wool in the Mid-Atlantic United States in 1836. Instead of being painted or stitched, its birds and flowers were made by crossing threads on a loom. We do not know the weaver's name. Look at how birds and flowers are placed. Why might a weaver choose birds and flowers for a bed?",
+    "g68": "Dated 1836 and woven entirely of wool in the Mid-Atlantic United States, this coverlet has birds and flowers built into the cloth by the weave. Because the weaver is unnamed and the record is brief, our evidence is the object itself: how motifs repeat, how colors define shapes, and how thread limits curves. How does weaving force a designer to simplify a bird or flower, and what is gained by that simplification?",
+    "g910": "This 1836 wool coverlet from the Mid-Atlantic United States shows how the logic of the loom shapes imagery. Birds and flowers, familiar decorative subjects, are translated into woven units whose edges reflect the grid of threads. The weaver is anonymous, but choices of arrangement, repetition, and color remain legible. Consider how a nature-based pattern might have suited a household bed, and how much of its meaning we can claim without further documentation.",
+    "g1112": "A wool coverlet dated 1836 from the Mid-Atlantic United States, this object presents birds and flowers as woven rather than painted or stitched forms, making structure and image inseparable. The record does not identify the weaver, loom type, or original owners, so claims about pattern books, symbolism, or market should be tentative. The coverlet still supports careful formal analysis of repetition, contrast, and stylization, and prompts reflection on how domestic textiles enter art-historical narratives."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a bird woven into this wool cover. What do you think it might sing?",
+      "emotion": "Does this wool cover feel warm and safe? What makes you say so?",
+      "observation": "Find two flowers and one bird. Where are they?",
+      "analysis": "Do your eyes go to the birds or the flowers first? Why?",
+      "line": "Find a woven line that makes the edge of a wing or leaf. Trace it in the air.",
+      "shape": "Which shapes in the pattern look like little blocks or steps?",
+      "color": "How many colors of wool can you find? Which is your favorite?",
+      "texture": "Wool is thick and a little fuzzy. How would this cover feel on your arm?",
+      "space": "Are the birds and flowers close together or spread out?",
+      "light": "Which parts of the cover look light, and which look dark?",
+      "meaning": "If the birds could talk, what would they say to the person in bed?",
+      "culture": "This cover was woven in America in 1836. What do you pull over yourself when it is cold?",
+      "technique": "A weaver crosses many threads to make birds. Why do you think this takes patience?",
+      "personal": "Which bird or flower from outside your window would you weave?",
+      "critical": "Birds and flowers are woven into this wool cover. How can you tell which shapes are birds?"
+    },
+    "g12": {
+      "daily": "How does the weaver make birds and flowers from wool thread? Point to one place that shows it.",
+      "emotion": "Does the wool coverlet feel peaceful or lively? Which parts help you decide?",
+      "observation": "Describe one bird and one flower on the coverlet. What do you notice about their edges?",
+      "analysis": "How do the birds and flowers repeat across the coverlet? Where do you see a pattern?",
+      "line": "Are the edges of the shapes smooth or stepped? Why might woven shapes look that way?",
+      "shape": "Compare a bird shape with a flower shape. What simple shapes make each one?",
+      "color": "How do the wool colors help the birds stand out from the background?",
+      "texture": "All of this coverlet is wool. How does that make it different from a quilt of mixed cloth?",
+      "space": "How much of the coverlet is covered in pattern? How does that change how you see it?",
+      "light": "Where is the strongest contrast of light and dark? What does it do?",
+      "meaning": "Birds and flowers show up on many household objects. Why do you think people like them?",
+      "culture": "Wool bed covers were made by weavers long ago. How do we get blankets today?",
+      "technique": "A loom lifts some threads and lowers others. How can that make a bird?",
+      "personal": "If you could weave any animal into a blanket, which would you pick?",
+      "critical": "We do not know who wove this. What can we learn from the coverlet itself?"
+    },
+    "g35": {
+      "daily": "How do the weaver's birds and flowers show planning and skill? Use details from the cloth.",
+      "emotion": "What mood do woven birds and flowers set for a bedroom? Which details add to it?",
+      "observation": "Look carefully across the coverlet. What small details in the birds or flowers did you notice later?",
+      "analysis": "How does the weaver arrange birds and flowers so the pattern does not feel crowded or empty?",
+      "line": "How do woven lines for wings and petals differ from lines in a drawing?",
+      "shape": "Which shapes repeat in the pattern, and how do small changes keep it interesting?",
+      "color": "How do the wool colors create contrast between birds, flowers, and the background?",
+      "texture": "How might a woven wool coverlet feel different from a smooth cotton sheet?",
+      "space": "How does the pattern use the coverlet's whole surface? What would change with more empty space?",
+      "light": "How does the contrast between light and dark areas make the birds easier to find?",
+      "meaning": "People often choose nature images for their homes. What do birds and flowers add to a bedroom?",
+      "culture": "In 1836, many families used handwoven wool for warmth. What does this coverlet suggest about the value of both use and beauty?",
+      "technique": "A woven picture is built from crossings of thread. Why must the weaver plan the entire design in advance?",
+      "personal": "What pattern in your home do you like looking at the most? How is it like this coverlet?",
+      "critical": "The record names no weaver. What clues might help us learn more about who made it?"
+    },
+    "g68": {
+      "daily": "How does the weave itself shape the birds and flowers, and what does that tell us about the weaver's choices?",
+      "emotion": "How does the repetition of familiar natural motifs influence the mood of the coverlet?",
+      "observation": "List the kinds of motifs and the colors you see. Which details were hard to spot?",
+      "analysis": "How do repetition and variation organize the surface, and where might your eye pause?",
+      "line": "How do stepped woven outlines create energy compared with drawn curves?",
+      "shape": "How are birds and flowers reduced to simple units, and what recognition remains?",
+      "color": "How do the colors of wool create figure and ground, and what might fading have done?",
+      "texture": "What does the all-wool material add to the coverlet's warmth and appearance?",
+      "space": "How does a pattern for a bed differ from a picture designed for a wall?",
+      "light": "How does value contrast help the pattern read from across a room?",
+      "meaning": "What cautions should we take when explaining why birds and flowers were chosen for this coverlet?",
+      "culture": "How does a handwoven coverlet reflect the skills and trade networks of the Mid-Atlantic in the 1830s?",
+      "technique": "How might a weaver plan and set up a loom to repeat birds and flowers across a coverlet?",
+      "personal": "How do you decide what patterns to bring into your own space?",
+      "critical": "Is a woven coverlet more craft or art? What would change in your answer if you knew the weaver's name?"
+    },
+    "g910": {
+      "daily": "How does the woven structure transform birds and flowers into a coherent, repeatable design?",
+      "emotion": "How do repetition and natural motifs establish a domestic, comforting tone?",
+      "observation": "Describe the pattern's hierarchy. Which motifs lead, and what devices guide the eye?",
+      "analysis": "Analyze how scale and spacing unify the coverlet's field.",
+      "line": "How does the loom's grid determine the outlines of the birds, and how do weavers work within it?",
+      "shape": "How do positive and negative forms interlock, and what role does the ground play?",
+      "color": "How does the limited palette of wool produce clarity and contrast?",
+      "texture": "How does all-wool construction affect the coverlet's appearance and function?",
+      "space": "How does the coverlet's flat, repeating field relate to ideas of domestic order?",
+      "light": "How does contrast of light and dark wool substitute for shading in creating legible figures?",
+      "meaning": "How might birds and flowers signal comfort or nature in a domestic setting, and what limits our certainty?",
+      "culture": "What does an anonymous coverlet reveal about a region's craft traditions and market for household goods?",
+      "technique": "How does weaving differ from embroidery as a way of producing a motif?",
+      "personal": "How do you see structure shape the objects around you, such as buildings, clothes, or screens?",
+      "critical": "How might the term 'folk art' help or hinder our understanding of a woven coverlet?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the coverlet's design and structure, and what depends on missing documentation?",
+      "emotion": "How can a repeating natural pattern evoke domestic comfort, and why should that response not be assumed universal?",
+      "observation": "Describe the coverlet with precision. Where do terms from weaving change how you see its imagery?",
+      "analysis": "Analyze how structure and image are inseparable in a woven textile, using this coverlet as evidence.",
+      "line": "How does woven line, constrained by the thread grid, compare with drawn line in the depiction of birds?",
+      "shape": "How does stylization of birds and flowers negotiate between nature and the demands of the loom?",
+      "color": "How might aging of wool and dye have changed the coverlet's contrasts since 1836?",
+      "texture": "How does a bed covering's tactile function complicate its display as a pictorial object?",
+      "space": "How does the coverlet's all-over field compare with pictorial space in contemporary American painting?",
+      "light": "How should museums consider light exposure and conservation when presenting woolen textiles?",
+      "meaning": "Evaluate readings of birds and flowers as decoration, domestic ideal, or market-driven convention. What evidence would help?",
+      "culture": "How do anonymous woven coverlets challenge narratives that center named artists in American art?",
+      "technique": "What does the technique tell us about the specialization and equipment of a weaver in 1836?",
+      "personal": "How does your own familiarity with mass-produced textiles shape the value you assign to this one?",
+      "critical": "What research could move this coverlet from 'artist unknown' to a richer account of its making?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, culture, region, and tags (Birds, Flowers) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A woven wool coverlet dated 1836 from the Mid-Atlantic United States. The Met's record lists birds and flowers and does not identify the weaver; confirm motif details in the image.",
+    "vocabulary": [
+      "coverlet",
+      "weave",
+      "loom",
+      "motif",
+      "figure and ground",
+      "wool"
+    ],
+    "directions": [
+      "Have students weave paper strips of two colors to make a simple pattern, then talk about why curves become steps.",
+      "Ask students to choose one bird and one flower and simplify them into a grid design.",
+      "Compare with an embroidered coverlet in the archive to see how weaving and stitching make images differently."
+    ]
+  }
+}

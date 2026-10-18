@@ -1,0 +1,151 @@
+{
+  "id": "met-501788",
+  "day": "01-19",
+  "title": "Grand Piano",
+  "artist": "Bartolomeo Cristofori",
+  "date": "1720",
+  "medium": "Cypress, boxwood, paint, leather, fir",
+  "region": "Italy (Florence)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP300941.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP300941.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, wing-shaped wooden keyboard instrument in a plain wooden case, with a row of keys along one side and a raised lid. It looks much simpler than a modern concert piano.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501788",
+    "objectId": "501788",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, classification, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "Bartolomeo Cristofori, a Florentine instrument maker, is credited with inventing the piano around 1700. This instrument, dated 1720, is one of only three of his pianos known to survive. Its strings are struck by small hammers, so a player can make a note softer or louder by changing how hard a key is pressed.",
+  "descriptions": {
+    "k": "This is one of the first pianos ever made. It has a row of keys. Pressing a key moves a tiny hammer inside. The case is long and made of wood. Can you picture a hand pressing the keys softly, then hard?",
+    "g12": "This piano was made in Florence, Italy, over 300 years ago. It is one of the first pianos in the world. Inside, little hammers hit strings when a player presses the keys. The wooden case is long and plain. How is it different from a piano you have seen?",
+    "g35": "Bartolomeo Cristofori built this piano in Florence in 1720, only a few years after he invented the instrument. Earlier keyboards, like the harpsichord, pluck strings, and the sound is always about the same loudness. Cristofori added hammers, so a player's touch can change how soft or loud a note is. Look at the keys and the long wooden case. What clues show it is not a modern piano?",
+    "g68": "Cristofori's 1720 piano is one of only three of his instruments known to survive. He called his invention an instrument with soft and loud, because hammers striking strings let a player vary the volume by touch, unlike plucked harpsichords. The record lists cypress, boxwood, paint, leather and fir, and the case looks modest beside later pianos. Notice the wing-like outline and the keyboard. What might this design tell you about how it was meant to be played and where?",
+    "g910": "This instrument records a turning point in keyboard history. Working at the Medici court in Florence, Cristofori developed a hammer mechanism that let players shade volume by touch, a change from the plucked harpsichord. Only three of his pianos survive, which makes this 1720 example important evidence for how the piano began. Its simple cypress case is far from the grand cabinets of later centuries. Consider how the object shows invention as a gradual process of testing, not a single moment of genius.",
+    "g1112": "Cristofori's piano of 1720 is among the earliest surviving evidence of an instrument that would reshape Western music. Made in Florence, it combines plucked-keyboard case traditions with a new action in which hammers strike strings. Because only three of his pianos survive, scholars rely on them, and on later alterations and repairs, to reconstruct his ideas, and some questions remain open. The restrained case invites comparison with the ornate harpsichords of the period and raises the question of what musicians in 1720 expected from a quieter, more expressive keyboard."
+  },
+  "questions": {
+    "k": {
+      "daily": "This piano has a long wooden case. What shape does it make you think of?",
+      "emotion": "Does this old piano look quiet and gentle, or loud and bold? What do you see that makes you think so?",
+      "observation": "Look at the keys. What do you notice about how they are lined up?",
+      "analysis": "Which part of this piano do your eyes look at first? Why do you think that is?",
+      "line": "Can you find long straight lines on the case? Trace one in the air.",
+      "shape": "The case is long and has a curve at one end. Where can you see that curve?",
+      "color": "What colors do you see on this piano? Are they bright or soft?",
+      "texture": "If you touched the wood case, how would it feel? Smooth, rough, or something else?",
+      "space": "The keys are in front. What do you think is hiding inside the case?",
+      "light": "Where does the wood look lighter, and where does it look darker?",
+      "meaning": "Who do you imagine played this piano long ago? What song might they play?",
+      "culture": "This piano was made in Italy over 300 years ago. What do you think people used it for?",
+      "technique": "Someone built this by hand from wood. What tools do you think they needed?",
+      "personal": "Have you ever pressed piano keys softly and then loudly? Tell how it felt.",
+      "critical": "This is one of the first pianos. What looks different from pianos you have seen?"
+    },
+    "g12": {
+      "daily": "Cristofori wanted a keyboard that could be soft or loud. What parts of this piano might help the player do that?",
+      "emotion": "What feeling does this plain wooden piano give you? Point to the part that makes you feel it.",
+      "observation": "Describe the keys, the case, and the lid. What do you notice about each?",
+      "analysis": "How do the keys at the front connect to the long case behind them?",
+      "line": "Find straight lines and curved lines on this piano. Where does each kind appear?",
+      "shape": "The case is long and narrow with a curved side. How is that different from a box?",
+      "color": "The record says the piano is made of woods, paint, and leather. Which colors in the picture come from those materials?",
+      "texture": "Wood can show grain. What surfaces on this piano do you imagine feel smooth, and which might feel rough?",
+      "space": "The case holds strings and hammers you cannot see. How does the shape make room for them?",
+      "light": "Look for shiny and dull places on the case. What do they tell you about the surface?",
+      "meaning": "Why might a maker want a keyboard that can play both soft and loud?",
+      "culture": "Cristofori worked in Florence, Italy. How could you find out what kind of music people played there in 1720?",
+      "technique": "Hammers hit the strings when keys are pressed. Why might this be different from plucking?",
+      "personal": "What would you most want to play on this piano, and why?",
+      "critical": "This piano looks plain next to many fancy old instruments. Why might the maker have kept it simple?"
+    },
+    "g35": {
+      "daily": "Cristofori's hammers let a player change the volume by touch. How might the simple case and keyboard reflect an instrument that was still brand new?",
+      "emotion": "What mood does this restrained wooden instrument create, and which details cause it?",
+      "observation": "Describe the keyboard, the case outline, and the lid from front to back. What is easy to miss?",
+      "analysis": "How does the long outline of the case guide your eye from the keys to the far end?",
+      "line": "Compare the straight edges of the keys with the curve of the case. How do the two kinds of line work together?",
+      "shape": "The case is sometimes compared to a wing. Which edges of its shape support that idea?",
+      "color": "The record names cypress, boxwood, fir, paint and leather. How do the natural wood tones affect the feeling of the piano?",
+      "texture": "Which surfaces of this piano look smooth and polished, and which look more natural or rough?",
+      "space": "Most of the piano's workings are hidden inside. How does the case suggest the space beneath the lid?",
+      "light": "Where does light seem to fall on the wood? How does it show the curve of the case?",
+      "meaning": "This instrument was a new invention in 1720. What might it mean for an object to be a first of its kind?",
+      "culture": "The piano began in Florence, where rulers supported musicians and instrument makers. Why might such a place encourage new inventions?",
+      "technique": "A maker had to fit hammers, strings, and keys into one wooden case. What problems might he have faced?",
+      "personal": "Think of a tool or toy you use that changed over time. How is it like this early piano?",
+      "critical": "Only three Cristofori pianos survive. What might get lost when an invention is known from so few objects?"
+    },
+    "g68": {
+      "daily": "How does the plain wooden design of this 1720 piano make you think about its purpose compared with a decorated harpsichord?",
+      "emotion": "What emotional tone do the proportions and materials set? Use two details as evidence.",
+      "observation": "List the visible parts, from the keys to the case edge, before deciding what any of them mean.",
+      "analysis": "How does the arrangement of keyboard, case, and lid show where the player sits and where the sound comes from?",
+      "line": "How do the repeating vertical lines of the keys contrast with the long horizontal lines of the case?",
+      "shape": "The wing-like outline is a practical shape for long strings. How does form follow function here?",
+      "color": "The surface colors seem restrained. What would change about the instrument if it were painted brightly?",
+      "texture": "The record lists leather among the materials. How might different materials create different surfaces in the same object?",
+      "space": "A piano's action is hidden inside. How does the outside of the case suggest the space it contains?",
+      "light": "Soft or loud is the piano's special feature. Does the lighting on the wood suggest quiet or strength to you?",
+      "meaning": "Cristofori's name for the invention meant soft and loud. What does that name tell you about what players wanted?",
+      "culture": "Why might court musicians in Florence have wanted a keyboard that could respond to touch?",
+      "technique": "Compare striking a string with a hammer and plucking it. How might that change the way a player thinks about music?",
+      "personal": "When have you changed how you did something to be more expressive? How does that connect to this invention?",
+      "critical": "Is it fair to call Cristofori the sole inventor of the piano? What other people or earlier instruments might have mattered?"
+    },
+    "g910": {
+      "daily": "How does the modest appearance of this 1720 piano shape your sense of what the invention was meant to do?",
+      "emotion": "What atmosphere does the restrained design create, and how does it differ from the ornate keyboard instruments of the same era?",
+      "observation": "Describe the instrument's visual hierarchy: keyboard, case, lid. What draws attention first, and why?",
+      "analysis": "How do the proportions of the case reflect the demands of long strings and a hidden hammer mechanism?",
+      "line": "Analyze how the strict repetition of the key lines sets rhythm against the sweeping edge of the case.",
+      "shape": "How does the wing-like outline combine practical engineering with a graceful form?",
+      "color": "Consider how limited surface color and natural wood tones present the piano as a tool rather than a display piece.",
+      "texture": "How might the mix of cypress, boxwood, fir, paint and leather have produced different surfaces and different touches for the player?",
+      "space": "How does the closed case make you think about an interior you cannot see, and what does this suggest about the instrument's design?",
+      "light": "How does lighting reveal the volume of the case and the grain of the wood in photographs of this object?",
+      "meaning": "What does it suggest about innovation that this early piano looks relatively unassuming?",
+      "culture": "How did patronage at the Medici court in Florence support experiments in instrument making?",
+      "technique": "How might the shift from plucking to hammering change both the maker's craft and the player's technique?",
+      "personal": "What invention of your own era do you think will one day seem as simple as this piano seems to us?",
+      "critical": "Museums keep few early pianos. How does having only three surviving examples shape what historians can claim about Cristofori's work?"
+    },
+    "g1112": {
+      "daily": "What can this single instrument, one of only three surviving, support as evidence about the origins of the piano, and what must remain uncertain?",
+      "emotion": "How does the instrument's restraint shape the feelings it invites, and what assumptions about early music might that challenge?",
+      "observation": "Describe the instrument's outward structure precisely. Which features can you confirm from the image, and which depend on outside knowledge?",
+      "analysis": "How does the exterior form of the case negotiate between older plucked-keyboard conventions and a new hammer action?",
+      "line": "How do the rhythm of the keys and the contour of the case reflect different priorities, function and form, within one object?",
+      "shape": "Examine the relation between the wing-like case and the acoustics of long strings. Where does engineering shape aesthetics?",
+      "color": "How might the restrained palette of woods and paint position this piano relative to the ornate keyboards of Italian courts?",
+      "texture": "Given the combination of cypress, boxwood, fir, paint and leather, how does material variety complicate a single sense of surface?",
+      "space": "The most important mechanism is hidden. How do museum displays handle objects whose essential workings cannot be seen?",
+      "light": "How does photography of a polished wooden object shape what we perceive as its character or condition?",
+      "meaning": "How might the instrument be read as a symbol of Enlightenment-era experiment, and what risks come with that reading?",
+      "culture": "How did court patronage, craft knowledge, and musical taste together make the piano possible in Florence?",
+      "technique": "Consider the technical challenge of designing a hammer that strikes and then falls away. How does this problem shape the history of keyboard making?",
+      "personal": "How does your own experience of learning an instrument or tool influence how you imagine early players encountering it?",
+      "critical": "How does the narrative of the inventor as a lone genius help or hinder our understanding of this object?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Zither-struck-piano), medium, culture, and tags (none listed) checked against the museum record; a musical instrument with no figural subject listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Made in Florence in 1720 by Bartolomeo Cristofori, who is credited with inventing the piano around 1700. It is one of three of his pianos known to survive. Its hammer action allows variation in volume by touch.",
+    "vocabulary": ["piano", "harpsichord", "hammer action", "keyboard", "patron", "invention"],
+    "directions": [
+      "Compare a piano with a harpsichord: how does each make sound, and what can a player control?",
+      "Link to science: what is vibration, and how does string length affect pitch?",
+      "Ask students to design a simple diagram of how a key might move a hammer, then check it against a reliable source."
+    ]
+  }
+}

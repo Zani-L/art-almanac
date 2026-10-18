@@ -1,0 +1,158 @@
+{
+  "id": "met-700109",
+  "day": "04-01",
+  "title": "Attitudes of Animals in Motion",
+  "artist": "Eadweard Muybridge",
+  "date": "1879, printed 1881",
+  "medium": "Albumen silver print",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ph/web-large/DP-2597-211.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP-2597-211.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Joyce F. Menschel, 2015",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A photograph print showing horses in motion, presented as a series of small pictures that catch different positions of their movement.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/700109",
+    "objectId": "700109",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tag (Horses), public-domain flag, and image URLs read from the record. Region is a well-established label for Muybridge's California work, not a record field."
+  },
+  "context": "A photographic print by Eadweard Muybridge, made in 1879 and printed in 1881, from his studies of animals in motion. Muybridge used a row of cameras to capture the stages of a horse's movement, work he did in California in the late 1870s.",
+  "descriptions": {
+    "k": "These are photographs of horses running. Each little picture shows the horse in a new pose. Together they show how a horse moves, step by step. Can you find a picture where the horse looks like it is flying?",
+    "g12": "Eadweard Muybridge wanted to see how horses move. A horse runs too fast for our eyes to follow. So he used many cameras to take a row of quick pictures. Each picture freezes one moment. Look at the legs. How do they change from picture to picture?",
+    "g35": "In the late 1870s, Eadweard Muybridge used a row of cameras to photograph horses as they ran. Each camera caught one split second, so the pictures could freeze movements too quick for people to see. Compare the horses' legs from one photo to the next. What do you notice, and what surprises you about how a horse moves?",
+    "g68": "Muybridge's pictures of horses in motion answered a question that people could not settle by eye: how does a running horse place its legs? He set up a line of cameras triggered one after another, so each frame caught a different moment. Seen side by side, the sequence turns movement into a series of still poses. Notice what you can see in the sequence that you could not see by watching a horse gallop. How might this have changed art and science?",
+    "g910": "Attitudes of Animals in Motion belongs to Muybridge's pioneering work of the late 1870s, in which a row of cameras recorded successive phases of a horse's gait. The resulting print is both scientific evidence and a visual rhythm, with repeated forms changing slightly from frame to frame. These images corrected assumptions that artists had made for centuries about how animals move, and they influenced later developments in photography and moving pictures. Consider how breaking motion into stills changes what we see.",
+    "g1112": "Muybridge's motion studies sit at the intersection of science, art, and technology. Made in 1879 and printed in 1881, this albumen silver print presents a sequence that served as visual evidence about animal locomotion while also functioning as a rhythmic, almost abstract arrangement of repeated forms. The work challenged long-standing conventions in painting and prefigured cinema, though scholars debate how directly his sequences led to film. It invites questions about objectivity: does a sequence of frames show motion as it is, or a particular way of looking at it?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the horse in each little picture. Which pose do you like best, and why?",
+      "emotion": "Do the running horses make you feel excited or calm? What do you see that makes you say so?",
+      "observation": "How many different horse poses can you find? Point to three that look different.",
+      "analysis": "What do you notice when you look from the first picture to the last?",
+      "line": "Find the horse's legs. Are they straight, bent, or both? Trace one in the air.",
+      "shape": "What shape does a running horse make with its legs? Draw it in the air.",
+      "color": "This old photograph is brown and cream, not full color. What do you think the horse's real color might be?",
+      "texture": "How do you think a horse's coat would feel if you could touch it?",
+      "space": "In these pictures, is the horse close to the camera or far away? How can you tell?",
+      "light": "Where does the light look bright on the horses? Where do you see shadow?",
+      "meaning": "Why do you think someone wanted to take so many pictures of a running horse?",
+      "culture": "People used horses for travel and work long ago. What do we use today to move from place to place?",
+      "technique": "The photographer used many cameras in a row. Why would one camera not be enough?",
+      "personal": "What animal do you love to watch move? Tell what it does.",
+      "critical": "Does a still photo show everything about how a horse runs? What might be missing?"
+    },
+    "g12": {
+      "daily": "What do the horse's legs do from one photograph to the next? Describe the change.",
+      "emotion": "What feeling does a horse at full speed give you? Which poses show it best?",
+      "observation": "Pick one photograph. Describe everything you see about the horse in it.",
+      "analysis": "How does the arrangement of many small pictures help you understand the horse's motion?",
+      "line": "Follow the lines of the horse's body in two different pictures. How do the lines change?",
+      "shape": "Look at the shape of the horse's whole body as it runs. What shapes do the legs make?",
+      "color": "The print is soft brown and cream. How might the picture feel different in full color?",
+      "texture": "How does the picture show the horse's smooth coat or its thin legs? What do you see?",
+      "space": "The horses seem to move across the picture from side to side. How does that help you follow them?",
+      "light": "Where is the picture brightest? How do the shadows help you see the horse's shape?",
+      "meaning": "Before these photographs, artists painted running horses with legs out like a rocking horse. Why might this picture be surprising?",
+      "culture": "Muybridge made these for people interested in horses and science in the 1870s. What would they want to learn?",
+      "technique": "A row of cameras took each picture one after the other. How is that like making a flip book?",
+      "personal": "If you could photograph a moving animal in many steps, which one would you choose?",
+      "critical": "Why can a photograph show things our eyes cannot see? Use the horses to explain."
+    },
+    "g35": {
+      "daily": "What can you discover about how a horse moves by comparing the poses side by side?",
+      "emotion": "What feelings do you have looking at an animal's movement frozen into stills?",
+      "observation": "Choose two pictures in the series and list every difference you can find between them.",
+      "analysis": "How does repeating the same subject across many frames help you notice change over time?",
+      "line": "How do the angles of the horses' legs change from picture to picture? Describe at least two.",
+      "shape": "How does the horse's overall shape change from a stretched pose to a gathered pose?",
+      "color": "This albumen print has warm brown tones. How might the color affect the way you see the age and seriousness of the pictures?",
+      "texture": "The photograph is a flat print. How does it still show muscle and coat on the horses?",
+      "space": "How does the arrangement of the frames, one after another, help you imagine the horse moving through space?",
+      "light": "How does the light on the horse's body help you see where its muscles bend and stretch?",
+      "meaning": "How could pictures like these help scientists and artists understand motion better?",
+      "culture": "Why might people in the late 1800s have been so interested in seeing movement stopped in a photograph?",
+      "technique": "Each camera took a picture at a different instant. Why must the timing of the cameras be so exact?",
+      "personal": "When have you tried to catch a fast movement in a photo or video? What did you learn?",
+      "critical": "Can a series of still pictures show the true motion of an animal? Use evidence to support your answer."
+    },
+    "g68": {
+      "daily": "How does breaking one gallop into many frames change the way you understand the horse?",
+      "emotion": "What is the effect of seeing powerful motion divided into quiet, still images?",
+      "observation": "Describe what happens to the horse's body across the sequence. Which phase surprised you most?",
+      "analysis": "How does the arrangement of repeated frames create a rhythm for the viewer's eyes?",
+      "line": "How do the changing angles of the horse's limbs create lines of motion across the sequence?",
+      "shape": "How does the silhouette of the horse change across frames, and what does that tell you about its movement?",
+      "color": "How do the monochrome brown tones focus attention on form and motion rather than on color?",
+      "texture": "How does the detail captured at a fast shutter speed show the horse's muscles and coat?",
+      "space": "How does the consistent camera view make it easier to compare the horse's position from frame to frame?",
+      "light": "Why would an early photographer need bright light to freeze fast movement?",
+      "meaning": "How did Muybridge's sequence challenge what artists and viewers thought they knew about animals in motion?",
+      "culture": "How did the growth of science and industry in the late 1800s encourage experiments like this one?",
+      "technique": "A line of cameras was triggered in order. How did this setup make it possible to study movement?",
+      "personal": "What everyday motion would you like to slow down and study frame by frame? Why?",
+      "critical": "What assumptions do we make when we trust a photograph as evidence of motion?"
+    },
+    "g910": {
+      "daily": "How does Muybridge turn a single fast gesture into a sequence you can study?",
+      "emotion": "How does the contrast between the horse's speed and the stillness of each frame shape your response?",
+      "observation": "Describe the print's structure. What patterns emerge as you move from frame to frame?",
+      "analysis": "Analyze how repetition with variation organizes the whole sheet as a visual and scientific document.",
+      "line": "How does the line of the horse's limbs and back create rhythm across the series?",
+      "shape": "How do the repeated silhouettes create visual pattern while documenting changing form?",
+      "color": "How does the restrained brown palette support the print's scientific character?",
+      "texture": "How much surface and material detail does the print preserve, and why does that matter for evidence?",
+      "space": "How does a fixed viewpoint establish a stable space so that the horse's motion becomes the main variable?",
+      "light": "How does lighting support the legibility of the horses' forms in each frame?",
+      "meaning": "How might this print be read both as evidence about locomotion and as an aesthetic object?",
+      "culture": "How did Muybridge's sequences intersect with the interests of horse owners, scientists, and artists in the 1870s and 1880s?",
+      "technique": "How do the technical demands of fast exposure and multiple cameras shape the look and limits of the print?",
+      "personal": "How has slow motion or freeze-frame in modern media shaped your way of seeing movement?",
+      "critical": "What does a sequence of stills reveal that continuous motion hides, and what might it distort?"
+    },
+    "g1112": {
+      "daily": "What does this print suggest about the relationship between seeing and knowing, and where does that argument have limits?",
+      "emotion": "How does the sequence generate a distinctive affect, somewhere between scientific detachment and fascination?",
+      "observation": "Describe the print's organization precisely. Which observations already imply claims about motion?",
+      "analysis": "Analyze how seriality and variation produce meaning here, both as documentation and as visual form.",
+      "line": "How does the sequence turn the contour of a moving body into a rhythmic structure?",
+      "shape": "How does the repeated figure function between individual image and abstract pattern?",
+      "color": "How does the tonal range of an albumen print mediate between document and image?",
+      "texture": "What does the print's level of detail imply about photography's growing claim to evidence in the 1870s?",
+      "space": "How does the fixed viewpoint construct an objective-seeming grid, and how might that objectivity be constructed rather than found?",
+      "light": "How do exposure and illumination decide what the sequence can and cannot show?",
+      "meaning": "Evaluate competing accounts of this work as scientific proof, art, entertainment, or technological prelude to cinema. Which is best supported?",
+      "culture": "How does the circulation of such prints connect photography to patronage, science, and popular spectacle in the late 1800s?",
+      "technique": "How does the logistics of multiple cameras and timing mechanisms shape what we count as a single photograph?",
+      "personal": "How does your habit of recording and replaying video shape your sense of what seeing 'accurately' means?",
+      "critical": "How should we weigh claims that Muybridge 'invented' motion pictures against the evidence in prints like this one?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Photographs), medium, and tag (Horses) read from the museum record; the title and tag indicate animals only, with no people, nudity, violence, or frightening subject indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Eadweard Muybridge photographed horses in motion in California in the late 1870s using a row of cameras. The Met record dates this print 1879, printed 1881, and tags it only with 'Horses'; confirm the exact arrangement of frames when viewing the image.",
+    "vocabulary": [
+      "sequence",
+      "albumen print",
+      "exposure",
+      "locomotion",
+      "silhouette",
+      "still image"
+    ],
+    "directions": [
+      "Have students make a simple flip book of a moving object and compare it with this sequence.",
+      "Ask students to pose through a step of a gallop or a hop in slow motion and describe each stage.",
+      "Discuss how seeing a motion in parts changes what we notice."
+    ]
+  }
+}

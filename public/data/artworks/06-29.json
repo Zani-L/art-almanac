@@ -1,0 +1,158 @@
+{
+  "id": "met-437053",
+  "day": "06-29",
+  "title": "The Afternoon Meal (La Merienda)",
+  "artist": "Luis Meléndez",
+  "date": "ca. 1772",
+  "medium": "Oil on canvas",
+  "region": "Spain",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1570.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1570.jpg",
+    "credit": "The Metropolitan Museum of Art, The Jack and Belle Linsky Collection, 1982",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A still life of an afternoon snack arranged on a table, including bread, grapes, and peaches along with other foods and containers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437053",
+    "objectId": "437053",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Food, Bread, Grapes, Peaches, Still Life) and image URLs read from the record"
+  },
+  "context": "A still-life oil painting by the Spanish artist Luis Meléndez, made around 1772. Meléndez is admired for still lifes of food and kitchen objects painted with close attention to shape and surface. La merienda is a Spanish word for an afternoon snack.",
+  "descriptions": {
+    "k": "This is a snack on a table. There is bread. There are grapes and peaches too. They look so real! Which food would you eat first? What does the bread feel like?",
+    "g12": "Luis Meléndez painted this snack in Spain long ago. The picture is called La Merienda, which means an afternoon meal. You can find bread, grapes, and peaches, all very round and real looking. Which food looks the tastiest? How did the painter make them look so real?",
+    "g35": "Luis Meléndez was a Spanish painter of still lifes, which are pictures of objects arranged on a table. This one shows an afternoon snack, or merienda, with bread, grapes, and peaches. Look at how he paints different surfaces, like a crusty loaf or a soft fruit skin. How does he make ordinary food look important?",
+    "g68": "Painted around 1772, La Merienda arranges simple foods, including bread, grapes, and peaches, as if on display. Meléndez was known for painting everyday food with great precision, giving each object its own shape, texture, and weight. Notice how the arrangement creates balance and how light picks out the surfaces. Why might a painter treat humble food with so much care?",
+    "g910": "Meléndez builds La Merienda from familiar foods, treating bread, grapes, and peaches with careful attention to form, light, and surface. The arrangement is deliberate, balancing curves and masses, and the light gives each item a believable weight. Still life was ranked low in academic hierarchies, yet this painting shows how much skill and design it can contain. How does careful arrangement turn an ordinary meal into a composed picture?",
+    "g1112": "Meléndez's La Merienda belongs to a Spanish tradition of still life in which humble food is treated with unusual dignity and clarity. The painter orchestrates form, texture, and light so that bread, grapes, and peaches appear both tangible and carefully staged. Interpretations vary, from celebration of everyday abundance to display of virtuosity for patrons, and the genre's lowly rank in academic theory complicates how we read its seriousness. The picture invites close looking at how illusion is produced."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which food in this snack would you pick up first, and why?",
+      "emotion": "Does this picture make you feel hungry, sleepy, or happy? Why?",
+      "observation": "Find the bread, the grapes, and the peaches. Which one do you spot first?",
+      "analysis": "How many different foods can you count? Which one is the biggest?",
+      "line": "Trace the curve of a peach or the bunch of grapes with your finger.",
+      "shape": "Peaches and grapes are round. What other round shapes do you see?",
+      "color": "Which fruit has the brightest color? What colors does the bread have?",
+      "texture": "How does the bread feel? How does a peach feel? Are they the same?",
+      "space": "Which foods are in front and which are behind? How can you tell?",
+      "light": "Where is the light shining on the fruit? Where is it darker?",
+      "meaning": "What do you think happened before this snack was put on the table?",
+      "culture": "A merienda is a snack in Spain. What snacks do you eat in the afternoon?",
+      "technique": "The painter used paint to make food look real. Which food looks the most real to you?",
+      "personal": "What is your favorite afternoon snack? Tell about it.",
+      "critical": "Why would a painter want to paint a snack instead of a person?"
+    },
+    "g12": {
+      "daily": "If you were sitting at this table, what would you eat first and how would it taste?",
+      "emotion": "What feeling does a quiet snack on a table give you? Explain which parts help.",
+      "observation": "List five foods or objects you can find, and tell one detail about each.",
+      "analysis": "How did the painter arrange the bread, grapes, and peaches so the picture feels balanced?",
+      "line": "Look for curved lines in the fruit and straight lines in the table. How do they work together?",
+      "shape": "Which shapes repeat in the picture? How do the round fruits fit with the bread?",
+      "color": "How do the warm colors of the peaches and bread stand out?",
+      "texture": "Which food looks soft, which looks crusty, and which looks smooth? Show how you know.",
+      "space": "How can you tell the table is flat and the foods sit on top of it?",
+      "light": "Show where the light is strongest. How does it make the fruit look round?",
+      "meaning": "Why might someone want a painting of food on their wall?",
+      "culture": "Meléndez lived in Spain, where an afternoon snack is called merienda. What does a snack show about daily life?",
+      "technique": "Meléndez painted tiny details such as shine on fruit. Where do you see the most careful painting?",
+      "personal": "How would you arrange your favorite foods to paint them?",
+      "critical": "Why might a painter paint a snack instead of a king or a queen?"
+    },
+    "g35": {
+      "daily": "Imagine you are about to enjoy this merienda. What details in the painting make it feel real to you?",
+      "emotion": "What mood does this still life have, and what choices by the painter create it?",
+      "observation": "Look silently for one minute. What small details, like highlights or tiny marks on the fruit, do you notice?",
+      "analysis": "How does Meléndez arrange the foods so that your eyes move around the picture?",
+      "line": "How do curved lines of fruit and straighter edges of the table add variety?",
+      "shape": "How does the artist use round, oval, and blocky shapes to create balance?",
+      "color": "How do the warm colors of the peaches and bread contrast with the cooler or darker areas?",
+      "texture": "How does the painter show the difference between crusty bread, fuzzy peach skin, and smooth grapes?",
+      "space": "How do overlapping foods and the table edge show where each object sits?",
+      "light": "Where does the light seem to come from, and how does it help the objects look solid?",
+      "meaning": "A snack is a simple everyday thing. What might the painter want you to appreciate about it?",
+      "culture": "Still lifes were popular with Spanish painters for a long time. Why might people have liked to look at pictures of food?",
+      "technique": "What would be hard about painting the surface of a fuzzy peach with oil paint?",
+      "personal": "Think of a meal or snack you remember well. How would you paint it so others could feel it?",
+      "critical": "Is this picture only about food, or could it also be about something else? Explain your thinking."
+    },
+    "g68": {
+      "daily": "How does Meléndez turn a simple snack into a picture worth studying slowly?",
+      "emotion": "How does the stillness of the objects affect the mood of the painting?",
+      "observation": "Describe each food from left to right. Which details are painted with the most precision?",
+      "analysis": "How does the arrangement of the objects create balance and direct the eye?",
+      "line": "How do outlines and edges help each food keep its own shape?",
+      "shape": "How do repeated round forms create unity, and where does variety come in?",
+      "color": "How does the range of warm earth tones and fruit colors give the painting harmony?",
+      "texture": "Which surfaces seem most convincing, and what painting methods might create that effect?",
+      "space": "How does the painting create a shallow but believable space for the objects?",
+      "light": "How does light give each object volume and weight?",
+      "meaning": "Does the painting seem to celebrate abundance, simplicity, or skill? Support your view.",
+      "culture": "What can still lifes of food tell us about daily life and taste in eighteenth-century Spain?",
+      "technique": "How might an artist keep a very detailed painting from looking stiff?",
+      "personal": "How does looking closely at ordinary objects change how you see them?",
+      "critical": "Why might still life have been considered a lesser kind of painting, and do you agree?"
+    },
+    "g910": {
+      "daily": "How does careful composition elevate a humble meal into a serious work of art?",
+      "emotion": "How does the controlled stillness of the objects create a contemplative mood?",
+      "observation": "Describe the visual hierarchy: what attracts the eye first, and which devices direct it?",
+      "analysis": "Analyze how Meléndez balances clustered forms and open spaces in the arrangement.",
+      "line": "How does contour define the individual objects while still allowing them to relate to each other?",
+      "shape": "How do repeating curves of fruit and bread establish a rhythm across the canvas?",
+      "color": "How does a warm, harmonious palette encourage a feeling of ease and abundance?",
+      "texture": "How does Meléndez differentiate soft, crisp, and glossy surfaces through paint handling?",
+      "space": "How does the shallow stage-like space present objects as if displayed for study?",
+      "light": "How does focused light shape the volume and surface qualities of each item?",
+      "meaning": "What do viewers read in a still life of simple foods, such as comfort, abundance, or the pleasures of daily life, and how firmly can we support each?",
+      "culture": "How does Spanish still-life painting treat food with a clarity and dignity often compared with more formal subjects?",
+      "technique": "What does the precision of surface rendering suggest about the demands of a still-life specialist?",
+      "personal": "What does your own relationship to food and daily routine bring to your reading of the painting?",
+      "critical": "What does it mean that a genre of everyday objects was ranked below history painting in academies, and does this picture challenge that ranking?"
+    },
+    "g1112": {
+      "daily": "What visual evidence supports reading the painting as a display of skill, a celebration of everyday life, or both?",
+      "emotion": "How does the painting generate quiet intensity from unassuming subject matter?",
+      "observation": "Describe the painting's construction with precision. Where does description begin to implicate judgment?",
+      "analysis": "Analyze how the arrangement produces both naturalness and calculation.",
+      "line": "How does the treatment of contour contribute to the sense of weight and distinctness of each object?",
+      "shape": "How do the geometries of the objects, round and rectilinear, create a structured balance?",
+      "color": "How might changes in pigments and varnish over time alter the harmony that Meléndez intended?",
+      "texture": "How does the rendering of varied surfaces test the limits of illusion as an aim of painting?",
+      "space": "How does the shallow, theater-like space position the viewer in relation to the objects?",
+      "light": "In what ways does light serve to elevate ordinary objects, and what are the limits of that effect?",
+      "meaning": "Compare readings of the still life as a celebration of abundance, a record of daily habits, and an exercise in artistic virtuosity. What evidence differentiates them?",
+      "culture": "How does a still life of this kind relate to Spanish traditions of painting food and domestic objects, and to Enlightenment interest in natural things?",
+      "technique": "What might the finish and scale of the work suggest about patronage and the market for still lifes in Madrid?",
+      "personal": "How do your own habits around food and eating shape how you receive such an image?",
+      "critical": "Is the apparent neutrality of a still life itself a form of argument? Defend or challenge that idea."
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Food, Bread, Grapes, Peaches, Still Life) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Luis Meléndez was a Spanish artist famous for still lifes of food and kitchen objects. La merienda means an afternoon snack in Spanish, and this painting from about 1772 shows bread, grapes, and peaches.",
+    "vocabulary": [
+      "still life",
+      "composition",
+      "texture",
+      "highlight",
+      "illusion",
+      "merienda"
+    ],
+    "directions": [
+      "Have students arrange a small still life with three foods, sketch it, and describe light and shadow.",
+      "Ask students to compare how different foods in the painting show texture and why that is hard to paint.",
+      "Discuss why artists have painted food for centuries and what such pictures tell us about daily life."
+    ]
+  }
+}

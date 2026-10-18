@@ -1,0 +1,159 @@
+{
+  "id": "met-391031",
+  "day": "12-05",
+  "title": "Holy Family with a Dragonfly",
+  "artist": "Albrecht Dürer",
+  "date": "ca. 1495",
+  "medium": "Engraving",
+  "movement": "Northern Renaissance",
+  "region": "Germany",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815298.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815298.jpg",
+    "credit": "The Metropolitan Museum of Art, Fletcher Fund, 1919",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black-and-white engraving of Mary, Joseph, and the child Jesus in a finely detailed scene, with a dragonfly among the details. The picture is built from many thin engraved lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/391031",
+    "objectId": "391031",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, and image URLs read from the record"
+  },
+  "context": "An engraving by Albrecht Dürer of Nuremberg, made around 1495 when he was in his twenties. Engraving means cutting fine lines into a metal plate, which is inked and pressed onto paper. The title names a dragonfly, and scholars have debated what small creatures in works like this may symbolize.",
+  "descriptions": {
+    "k": "This is a picture of a mother, a father, and a baby. The title says there is a dragonfly. Can you find it? The whole picture is made of thin lines. What else is hiding in the picture?",
+    "g12": "Albrecht Dürer made this picture of Mary, Joseph, and the baby Jesus in Germany over 500 years ago. It is printed in black ink from a metal plate with thousands of thin lines cut into it. The title says there is a dragonfly. Can you find it? What other tiny things do you spot?",
+    "g35": "Albrecht Dürer made this engraving around 1495, when he was in his twenties. He cut thin lines into a copper plate, inked it, and pressed it onto paper, so many copies could be printed. The scene shows the Holy Family, and the title points to a dragonfly. Look closely at the small details of plants and creatures. Why might Dürer have taken such care with small things?",
+    "g68": "Dürer made this engraving around 1495. In engraving, a sharp tool cuts lines into a metal plate; the plate is inked and pressed on paper, and many copies can be made. The subject is the Holy Family, a common Christian subject, but Dürer is known for adding closely observed details of nature, such as the dragonfly named in the title. Scholars debate whether small insects in works like this carry symbolic meaning. How might fine details change the way a familiar story feels?",
+    "g910": "Holy Family with a Dragonfly, engraved around 1495, shows how Dürer combined a traditional religious subject with close observation of nature. The title draws attention to a small insect, and while scholars have proposed symbolic readings for such creatures, firm conclusions are hard to draw. Engraving, in which a burin cuts lines into a metal plate, allowed Dürer to build tone and texture with fine, controlled marks and to produce many impressions. Consider how the print balances devotional focus and attention to the natural world.",
+    "g1112": "Dürer's Holy Family with a Dragonfly, c. 1495, belongs to the young artist's early engravings, in which a conventional devotional subject is enriched by acute observation of nature. The dragonfly named in the title has invited symbolic interpretation, but such readings are speculative and should be weighed against the possibility that observation itself was the point. Engraving permitted fine tonal gradation and wide circulation; the print's popularity helped spread Dürer's reputation across Europe. The work raises questions about how naturalism and symbolism coexist in northern Renaissance art."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the dragonfly? Where is it?",
+      "emotion": "Does this picture feel calm, busy, or sleepy? What do you see that makes you say so?",
+      "observation": "Find the mother, the father, and the baby. Point to each one.",
+      "analysis": "Where do your eyes stop first, on the people or on the tiny things? Why?",
+      "line": "This picture is made of thin lines. Can you find short lines and long lines?",
+      "shape": "What shapes do you see in the people and the plants?",
+      "color": "This picture is made with black ink on paper. What do the dark and light parts show?",
+      "texture": "How do the leaves and plants look? How would they feel to touch?",
+      "space": "What is close to you in this picture? What is farther away?",
+      "light": "Which parts of the picture are light? Which are dark?",
+      "meaning": "What do you think the family is doing? Tell a story about it.",
+      "culture": "This picture was made in Germany long ago. What things in it do you see in the world today?",
+      "technique": "The artist cut lines into metal to make this picture. Why might that take a long time?",
+      "personal": "What small thing in nature do you like to look at, like an insect or a leaf?",
+      "critical": "Why might an artist add tiny animals and plants to a picture about a family?"
+    },
+    "g12": {
+      "daily": "What tiny details can you find? Why might the artist add them?",
+      "emotion": "What feeling do you get from this scene? Which part helps you feel that way?",
+      "observation": "Describe five things you see, from the front of the picture to the back.",
+      "analysis": "How does the artist guide your eyes around the picture?",
+      "line": "Find thick, dark lines and thin, light lines. How do they make things look round or flat?",
+      "shape": "How do the people's shapes fit together to show that they belong together?",
+      "color": "There is only black ink. How does the artist show dark and light parts?",
+      "texture": "How does the artist show cloth, plants, and skin with only lines?",
+      "space": "How can you tell what is in front and what is behind?",
+      "light": "Where do you see the lightest parts of the picture? What are they next to?",
+      "meaning": "The title mentions a dragonfly. Why might an artist put a tiny insect in a picture of a family?",
+      "culture": "Dürer made this in Germany. Why might people long ago want pictures of the Holy Family at home?",
+      "technique": "An engraving is made from lines cut into metal. Why can many copies come from one plate?",
+      "personal": "What would you draw if you wanted to show a calm moment with your family?",
+      "critical": "Which is more interesting to you, the family or the tiny details? Why?"
+    },
+    "g35": {
+      "daily": "How do the small details help the scene feel real and special?",
+      "emotion": "What mood does the engraving create? Which details help?",
+      "observation": "Take one minute of silent looking. What tiny details do you notice that you missed at first?",
+      "analysis": "How does Dürer arrange the family and the natural details so that your eyes keep moving?",
+      "line": "How do lines that curve and lines that cross each other show different things in the picture?",
+      "shape": "How does the shape of the family group work with the shapes of the plants and background?",
+      "color": "The print uses only dark lines on pale paper. How can crossing lines make some places look shadowy and others bright?",
+      "texture": "How does Dürer use tiny marks to show different textures such as cloth, leaves, and skin?",
+      "space": "How does the artist show that some things are close and others are far away?",
+      "light": "Compare the areas of bare paper with places where the lines crowd together. What does each tell you about light?",
+      "meaning": "The title names a dragonfly. What ideas could a small insect add to a picture of a family?",
+      "culture": "Prints let many people own pictures. How might that have changed who could see artworks like this?",
+      "technique": "Engraving needs strong control because cut lines are hard to fix. How might this affect how an artist works?",
+      "personal": "Think of a small detail in nature you noticed recently. How could you draw it?",
+      "critical": "How do you decide which details in a picture are important and which are just decoration?"
+    },
+    "g68": {
+      "daily": "How does Dürer use close observation of nature to bring a traditional religious scene to life?",
+      "emotion": "Is the mood peaceful, quiet, or something else? Support your view with visual evidence.",
+      "observation": "List what you see from foreground to background. Which tiny details reward slow looking?",
+      "analysis": "How does the composition balance the family with the surrounding natural details?",
+      "line": "How do hatching and cross-hatching create tone and form in an engraving?",
+      "shape": "How do the groupings of figures and plants create rhythm across the picture?",
+      "color": "With no color, how does the engraving use contrast between light and dark to organize attention?",
+      "texture": "How does Dürer distinguish textures of plants, cloth, and skin using only line?",
+      "space": "How does the engraving use overlapping and changes in detail to create depth?",
+      "light": "How does the balance of dark and light give the scene focus and mood?",
+      "meaning": "Scholars debate whether small creatures in works like this have symbolic meaning. What are the arguments for and against?",
+      "culture": "How might prints by Dürer have spread ideas and styles across Europe?",
+      "technique": "How is an engraving made, and how does that process affect the kind of line it can have?",
+      "personal": "How does noticing small details change how you feel about a familiar scene?",
+      "critical": "How should we decide whether a detail is symbolic or simply observed?"
+    },
+    "g910": {
+      "daily": "How does Dürer combine devotion and naturalism in a single, carefully constructed image?",
+      "emotion": "How does the engraving create intimacy and quiet through line and composition?",
+      "observation": "Describe the visual hierarchy of the engraving. Do the people or the small details catch you first, and why?",
+      "analysis": "Analyze how the arrangement of the family and the natural setting balance focus and detail.",
+      "line": "How does the engraver's line, cut with a burin, differ in character from drawn or painted line?",
+      "shape": "How do the figures' grouped shapes contrast with the more irregular forms of plants and ground?",
+      "color": "How does tonal contrast replace color in establishing mood and depth?",
+      "texture": "How does Dürer translate differences of texture into differences of line?",
+      "space": "How does the engraving create a convincing space for the figures to inhabit?",
+      "light": "How is light suggested through patterns of line rather than a single obvious source?",
+      "meaning": "What evidence would we need to claim that the dragonfly is symbolic, and why might that evidence be hard to find?",
+      "culture": "How did Dürer's prints contribute to his fame and to the spread of Renaissance ideas north of the Alps?",
+      "technique": "How do the demands of engraving, where mistakes are hard to correct, affect the confidence of the finished image?",
+      "personal": "How does your attention to small details shape your sense of what a picture means?",
+      "critical": "How should we separate what the image shows from what later viewers or scholars have read into it?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the print about how Dürer balances observation and symbolism, and what remains uncertain?",
+      "emotion": "How does the print produce a quiet, intimate atmosphere through technique alone? What are the risks of overreading mood?",
+      "observation": "Describe the engraving's construction as exactly as you can. Which parts of your description already involve interpretation?",
+      "analysis": "Analyze how the print organizes the human figures and natural details into a coherent composition.",
+      "line": "How does engraving's disciplined, systematic line shape the relationship between description and ornament?",
+      "shape": "How do the print's grouped figures and irregular natural forms create unity and variety?",
+      "color": "How does the restriction to black ink on paper shape the print's expressive range?",
+      "texture": "How does the printmaker convert observed surface into a system of marks, and what is lost or gained?",
+      "space": "How does the print negotiate the relationship between sacred figures and a detailed natural environment?",
+      "light": "How does tonal structure substitute for light in an engraving, and what are its limits?",
+      "meaning": "Evaluate possible symbolic readings of the dragonfly. What would count as sufficient evidence, and what would remain speculative?",
+      "culture": "How did the circulation of engravings affect the status of printmaking as an art form in the late 15th century?",
+      "technique": "What does the difficulty of correcting an engraved line imply about planning and authorship in printmaking?",
+      "personal": "How do your own expectations about symbolism shape how you look at small details in a picture?",
+      "critical": "How do we avoid projecting modern meanings onto 15th-century imagery while still engaging with it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Christ, Holy Family, Saint Joseph, Virgin Mary) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An engraving by Albrecht Dürer made around 1495 of the Holy Family with a dragonfly named in the title. Because the museum record gives only the title and tags, the visual details here are described cautiously and a teacher should look closely with students.",
+    "vocabulary": [
+      "engraving",
+      "burin",
+      "impression",
+      "hatching",
+      "Northern Renaissance",
+      "naturalism"
+    ],
+    "directions": [
+      "Give each student a magnifier or zoomed image and ask them to find and sketch three small details.",
+      "Have students try making a drawing using only lines (no shading by smudging) and compare it with Dürer's approach.",
+      "Discuss the difference between a detail that is observed and a detail that is symbolic."
+    ]
+  }
+}

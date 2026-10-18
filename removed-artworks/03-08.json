@@ -1,0 +1,151 @@
+{
+  "id": "met-268716",
+  "day": "03-08",
+  "title": "Julia Herschel",
+  "artist": "Julia Margaret Cameron",
+  "date": "1865",
+  "medium": "Albumen silver print from glass negative",
+  "region": "England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ph/web-large/DP295230.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP295230.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1941",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A close, softly focused portrait photograph of a woman, printed in warm brown and cream tones.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/268716",
+    "objectId": "268716",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Portraits, Women), public-domain flag, and image URLs read from the record. Region is a well-established label for the photographer, not a record field."
+  },
+  "context": "A portrait photograph by Julia Margaret Cameron dated 1865, printed as an albumen silver print from a glass negative. Cameron took up photography in the 1860s in England and became known for close, softly focused portraits.",
+  "descriptions": {
+    "k": "This is a photograph of a woman. It was taken a very long time ago, so it is brown and cream, not full color. The picture looks soft, like a dream. What do you think she is thinking?",
+    "g12": "Julia Margaret Cameron took this portrait in 1865. The picture is brown and soft, and the woman is very close to the camera. Cameron did not want every detail sharp. She wanted a gentle mood. Look at the soft edges. What feeling do they give the portrait?",
+    "g35": "Julia Margaret Cameron made this portrait in England in 1865, only a few years after she started taking photographs. She worked with glass negatives and printed on albumen paper, which gives the warm brown color. Many of her pictures are close up and a little soft instead of sharp. How does that softness change the way you feel about the person?",
+    "g68": "Cameron began photographing in her late forties and quickly developed a style unlike most portrait studios of the 1860s. Instead of crisp, formal poses, she moved close and often let the focus soften, giving her portraits a quiet, painterly mood. This one is an albumen print from a glass negative. Consider how the closeness, the soft edges, and the warm tones shape the way you read the sitter, and why she might have broken the usual rules.",
+    "g910": "Julia Margaret Cameron's 1865 portrait shows her distinctive approach: tight framing, soft focus, and dramatic tonal contrasts that depart from the sharp, formal studio photographs of her day. Critics at the time sometimes judged her work technically flawed, while later viewers have praised it as expressive and intimate. Printed as an albumen silver print from a glass negative, it asks how a photograph can suggest personality and mood rather than only record a likeness. How do closeness and softness shape your response?",
+    "g1112": "Cameron's portraits provoked debate from the start: contemporaries sometimes criticized her soft focus and long exposures as careless, while later critics have treated them as deliberate artistic choices that made photography a medium of feeling and imagination. This 1865 albumen print from a glass negative shows a woman at close range, her presence conveyed through tone and mood more than detail. The title gives a name, but the image itself offers little narrative, leaving viewers to weigh what a portrait can reveal. How does that tension between likeness and atmosphere shape your reading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the woman in this soft photograph is thinking about?",
+      "emotion": "Does her portrait feel calm, sad, or something else? What do you notice that tells you?",
+      "observation": "What parts of her face, hair, or clothing can you find? Point to three.",
+      "analysis": "Where do your eyes go first in this portrait? What do they do next?",
+      "line": "Find a soft edge, like the line of her hair or shoulder. Does it look sharp or fuzzy?",
+      "shape": "What big shape does her head and shoulders make in the picture?",
+      "color": "This photograph is made of browns and creams. How does that make it feel old or gentle?",
+      "texture": "Look at her hair or clothing. How do you think it would feel if you could touch it?",
+      "space": "How close is she to the camera? How does that make you feel about her?",
+      "light": "Which side of her face is brightest? Where might the light be coming from?",
+      "meaning": "Why might someone ask a photographer to make a portrait like this long ago?",
+      "culture": "People in the 1860s had to sit still for a long time to have a photograph made. How could you sit still that long?",
+      "technique": "The photographer made the picture soft on purpose. How does a soft picture feel different from a sharp one?",
+      "personal": "How do you like to look when someone takes your photo? Why?",
+      "critical": "Does a photograph show who someone really is? Tell what you think."
+    },
+    "g12": {
+      "daily": "What mood does this soft portrait give you? Show the details that create it.",
+      "emotion": "How would you describe the woman's expression or mood? What do you see that helps you decide?",
+      "observation": "Describe four things you notice about the woman and how she is shown.",
+      "analysis": "How does the photographer fill the picture so your eyes stay on the woman?",
+      "line": "Trace the edges of her face and shoulders. Are they sharp or soft, and how does that change the feeling?",
+      "shape": "Look at the overall shape she makes in the frame. What does that shape feel like: steady, curved, or something else?",
+      "color": "The photograph is warm brown and cream. Why might those tones feel different from a black-and-white picture?",
+      "texture": "Which parts look smooth and which look rough or fuzzy? How does the softness affect this?",
+      "space": "She is close to the camera and there is little else around her. What does that closeness do?",
+      "light": "Where is the light brightest on her? How does the shadow make the portrait feel quiet?",
+      "meaning": "Cameron wanted portraits to show feeling, not only looks. What feeling do you think this one shows?",
+      "culture": "Cameron made this in England in 1865, when cameras were new. How might people then have felt about seeing a photograph of someone?",
+      "technique": "Cameron used glass negatives and made her pictures slightly soft. Why might she choose to do that?",
+      "personal": "What would you want people to feel when they see a portrait of you?",
+      "critical": "Some people in the 1860s said Cameron's soft photographs were mistakes. What would you say?"
+    },
+    "g35": {
+      "daily": "How does Cameron's close, soft style shape what you think about the woman in this portrait?",
+      "emotion": "What emotions or quiet moods can you find in this portrait? Which details support your idea?",
+      "observation": "Look carefully for one full minute. What details of face, hair, or clothing stand out, and which blend away?",
+      "analysis": "How does Cameron use closeness and a plain surrounding space to focus your attention?",
+      "line": "How does the softness of the edges change the way lines and outlines look in this portrait?",
+      "shape": "What simple shapes make up the portrait, and how do they give it balance?",
+      "color": "An albumen print has a warm brown color. How might this photograph feel different if it were gray or blue?",
+      "texture": "The photograph is a flat paper print. How does Cameron suggest soft hair, cloth, or skin?",
+      "space": "How does the way the woman fills the picture make you feel close to her?",
+      "light": "How does the way light falls on her face help you notice her expression?",
+      "meaning": "A title gives only a name. What else would you like to know about her, and what does the picture suggest?",
+      "culture": "Photography was a new art in the 1860s. How might a portrait like this have felt different from a painted portrait?",
+      "technique": "Cameron made long exposures on glass negatives. Why might a soft look be a result of that, or a choice, or both?",
+      "personal": "If someone made a soft portrait of you, what would you want it to show about you?",
+      "critical": "Is a soft, slightly blurry photograph better, worse, or just different from a sharp one? Defend your view."
+    },
+    "g68": {
+      "daily": "How do closeness, softness, and tone work together to give this portrait its mood?",
+      "emotion": "What emotional atmosphere does the portrait create, and which formal choices make it?",
+      "observation": "Describe the portrait in detail without interpreting. Which features are clear and which are blurred?",
+      "analysis": "How does Cameron compose the figure within the frame to direct and hold your attention?",
+      "line": "How do soft contours differ from the crisp outlines of a studio photograph, and what effect do they have?",
+      "shape": "How does the overall silhouette of the figure create a calm or dynamic form?",
+      "color": "How do the warm brown tones from albumen printing affect how we read the age and mood of the image?",
+      "texture": "How does soft focus change how we perceive the textures of skin, hair, and fabric?",
+      "space": "With little background detail, how does the portrait define the space around the sitter?",
+      "light": "How does the pattern of light and shadow on the face and clothing shape the mood?",
+      "meaning": "What might the portrait say about how Cameron saw her sitters: as individuals, as types, or as characters in a picture?",
+      "culture": "How might a woman photographer working in the 1860s have been viewed, and how does this portrait reflect her independence?",
+      "technique": "Why might Cameron choose soft focus and close framing when sharper photographs were common? Weigh the effects.",
+      "personal": "How do you decide how to present yourself in a photograph, and who is in control of the result?",
+      "critical": "What does a portrait reveal and what does it hide? Use this photograph as evidence."
+    },
+    "g910": {
+      "daily": "How does this portrait use closeness and softness to suggest an inner life rather than a documentary likeness?",
+      "emotion": "How does Cameron generate emotional weight through tone and framing instead of expression or gesture alone?",
+      "observation": "Describe the visual hierarchy of the portrait. What commands attention, and what recedes?",
+      "analysis": "Analyze how Cameron structures the frame, including crop, placement, and background, to present the sitter.",
+      "line": "How does the softening of contour change the relationship between figure and ground?",
+      "shape": "How do the larger masses of dark and light in the portrait create a stable or expressive structure?",
+      "color": "How does the monochrome brown tonality of the albumen print contribute to the portrait's period feel and mood?",
+      "texture": "How does selective sharpness shape the tactile impression of the surfaces?",
+      "space": "How does the shallow depth of the image flatten or intensify the sense of intimacy?",
+      "light": "How do tonal contrasts model the form and create atmosphere?",
+      "meaning": "How might this portrait participate in the idea that photography can be an art of feeling and imagination?",
+      "culture": "How did Cameron's methods challenge Victorian expectations for portrait photography?",
+      "technique": "How do glass negatives, long exposures, and albumen printing shape the physical qualities of this image?",
+      "personal": "How does your response to a soft or imperfect image differ from your response to a perfectly sharp one?",
+      "critical": "How should we weigh the views of critics who called Cameron's work flawed against those who call it innovative?"
+    },
+    "g1112": {
+      "daily": "What can we reasonably claim about the sitter or the photographer's aims from this image, and what must remain uncertain?",
+      "emotion": "How does the image elicit feeling through tonal and compositional means, and what risks come with naming the sitter's emotion?",
+      "observation": "Describe the formal construction of the portrait precisely. Where does description already begin to interpret?",
+      "analysis": "Analyze how the portrait balances likeness and abstraction through cropping, focus, and tone.",
+      "line": "How does the dissolving of contour complicate the distinction between figure and atmosphere?",
+      "shape": "How does the massing of form in the frame produce meaning independent of the sitter's identity?",
+      "color": "How might the aging of albumen prints alter what we now see, and how should that inform interpretation?",
+      "texture": "In what ways does the soft rendering of surfaces align with contemporary painterly ideals and diverge from studio photography?",
+      "space": "How does the compressed pictorial space implicate the viewer's position relative to the sitter?",
+      "light": "How does light operate here as both a record of a physical moment and an expressive device?",
+      "meaning": "How do titles that name only a sitter shape what we expect of a portrait, and what does the image add or withhold?",
+      "culture": "How do Cameron's gender, class, and social circle shape the opportunities and constraints visible in her photographs?",
+      "technique": "How does the technical history of the collodion and albumen era inform debates over whether Cameron's softness was error or artistry?",
+      "personal": "How do contemporary habits of photographic perfection shape the way you read an image like this?",
+      "critical": "What evidence would be needed to argue that a photograph captures character rather than constructing it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Photographs), medium, and tags (Portraits, Women) read from the museum record; a formal portrait with no nudity, violence, or frightening subject indicated. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Julia Margaret Cameron took up photography in the 1860s and is known for close, softly focused portraits. The Met record gives only the sitter's name in the title; avoid assuming further biographical details.",
+    "vocabulary": ["portrait", "albumen print", "glass negative", "soft focus", "exposure", "sitter"],
+    "directions": [
+      "Have students look at a sharp school photo and this soft portrait and list how each makes them feel.",
+      "Ask students to write a short caption from the sitter's point of view, then discuss how much the image supports it.",
+      "Discuss why a photographer might break the rules of a new technology."
+    ]
+  }
+}

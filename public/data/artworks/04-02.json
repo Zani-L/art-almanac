@@ -1,0 +1,157 @@
+{
+  "id": "met-812212",
+  "day": "04-02",
+  "title": "Deer in Windsor Forest",
+  "artist": "Thomas Girtin",
+  "date": "1793–94",
+  "medium": "Watercolor over graphite",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP882763.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP882763.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Connie Simmons and James D. Krugman Gift, 2018",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A soft watercolor landscape of deer among trees in a forest, painted in muted greens and browns over pencil lines. The trees and foliage fill much of the scene.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/812212",
+    "objectId": "812212",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Deer, Trees), classification, and image URLs read from the record"
+  },
+  "context": "A watercolor over graphite by Thomas Girtin, an English landscape painter (1775–1802) who died young. The Met's record dates it to 1793–94 and tags it with deer and trees. Windsor Forest is a royal woodland west of London.",
+  "descriptions": {
+    "k": "Deer rest among tall trees in a forest. The paint is soft and gentle. Can you find the deer? What do you think they hear? Be very quiet, like they are.",
+    "g12": "Thomas Girtin painted these deer in Windsor Forest, in England. He used watercolor over pencil lines. The trees and leaves seem to fill the space like a cozy room. Can you find the animals? What mood do the soft colors give the forest?",
+    "g35": "Thomas Girtin was an English artist who painted landscapes. This watercolor from 1793 or 1794 shows deer in Windsor Forest, an old royal woodland near London. He first drew in pencil, then added thin layers of watercolor. Look at how the trees surround the animals. How does the artist make the forest feel quiet and shady?",
+    "g68": "Girtin made this watercolor when he was still a teenager, a fact that makes its control of trees and animals more striking. He drew first with graphite, then built up the forest with transparent layers of watercolor. Notice how the deer are small within a large, leafy world. How does scale shape the way we feel about animals in nature, and how might a painter of 1793 have seen a royal forest?",
+    "g910": "In Deer in Windsor Forest, Girtin balances animal study with landscape. The deer appear within a dense mass of trees, so the composition places them as part of the setting rather than as portraits. Transparent washes over graphite allow layered greens and browns that suggest shade and depth. Consider how British artists of the late eighteenth century used watercolor to explore landscape, and how the title's emphasis on place shapes our reading.",
+    "g1112": "Girtin's early sheet, dated 1793–94, shows how watercolor was being developed into a serious landscape medium in late eighteenth-century Britain. The deer are integrated into a woodland setting through tonal harmony rather than sharp contrast, which invites a reading of the work as both animal observation and study of atmosphere. Because the record gives only title, date, and technique, claims about his aims should stay cautious. Consider how royal forests were managed landscapes, and how a seemingly natural scene may carry cultural assumptions."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the deer among the trees? Tell us how you found them.",
+      "emotion": "Would it feel calm or scary to be in this forest? What makes you say that?",
+      "observation": "What can you see in this forest besides deer? Name three things.",
+      "analysis": "Are the deer big or small compared to the trees? What does that tell you?",
+      "line": "Find a line that looks like a tree trunk or branch. Draw it in the air.",
+      "shape": "What shapes do the leaves make together? Are they big blobs or tiny bits?",
+      "color": "Which greens and browns can you find? Which one is darkest?",
+      "texture": "How would the leaves feel if you could touch them? Soft, rough, or fluffy?",
+      "space": "Where could you walk into this forest? What is near you and what is far?",
+      "light": "Where is it shady and where is there more light in the forest?",
+      "meaning": "What do you think the deer are doing right now? Tell a short story.",
+      "culture": "This forest is in England. What animals live in a forest or park near you?",
+      "technique": "The artist used watery paint over pencil. Can you see any pencil lines? Where?",
+      "personal": "Have you ever seen a wild animal quietly standing nearby? How did you feel?",
+      "critical": "Why might the artist have painted the deer small instead of very big?"
+    },
+    "g12": {
+      "daily": "How does Girtin help you notice the deer in a forest full of leaves and trees?",
+      "emotion": "Is this forest peaceful or mysterious to you? Which colors help you decide?",
+      "observation": "Describe three kinds of things you see: animals, plants, and the ground. What do you notice about each?",
+      "analysis": "Where do your eyes travel from the deer? Do the trees guide you anywhere?",
+      "line": "Where do tree trunks and branches make lines? Are they straight, curved, or both?",
+      "shape": "The leaves are like big, soft clouds of shape. How do they make a feeling of being surrounded?",
+      "color": "How many shades of green and brown do you see? How do they help make shade?",
+      "texture": "How does the artist show that leaves are soft and tree bark is rough?",
+      "space": "Which trees seem close and which seem far? How can you tell?",
+      "light": "Where does light sneak into the forest? Point to the brighter places.",
+      "meaning": "What do you think it would be like to see these deer in real life?",
+      "culture": "Windsor Forest was a place kept by England's rulers for a long time. Why might people want to protect forests?",
+      "technique": "Girtin drew first in pencil and then used watercolor. What might the pencil help him plan?",
+      "personal": "Where is a quiet green place you like to go? How is it like this forest?",
+      "critical": "The painter shows animals as part of the forest, not just by themselves. Why might that matter?"
+    },
+    "g35": {
+      "daily": "What details help you find the deer and understand how they belong in the forest?",
+      "emotion": "How would you describe the mood in this woodland, and which choices by Girtin help build it?",
+      "observation": "Spend a minute looking carefully. What details in the trees and the ground did you miss at first?",
+      "analysis": "How does Girtin arrange trees and animals so you notice the deer without them being the biggest thing?",
+      "line": "How do the lines of trunks and branches compare with the soft masses of leaves?",
+      "shape": "Which shapes repeat in the forest, and how do they help the picture feel natural and connected?",
+      "color": "How does Girtin use different greens and browns to show shade, depth, and different parts of the forest?",
+      "texture": "How does he use watery paint to suggest rough bark, soft leaves, and the ground?",
+      "space": "How does Girtin make a flat piece of paper feel like a forest you could walk into?",
+      "light": "Where do you think the light enters the forest, and how does it change the colors of leaves and ground?",
+      "meaning": "Deer appear small in this big forest. What idea about animals and nature might the artist be sharing?",
+      "culture": "Windsor Forest was a royal forest. How might a place like that be different from wild forest?",
+      "technique": "Girtin used graphite first and then watercolor. How can a pencil drawing help an artist plan a watercolor?",
+      "personal": "Think of a time you were quiet in nature. How does this painting match or differ from your memory?",
+      "critical": "Is this picture mainly about the deer or about the forest? Use details to support your choice."
+    },
+    "g68": {
+      "daily": "How does Girtin make animals and forest feel like one connected world?",
+      "emotion": "What kind of atmosphere do the muted colors and enclosing trees create? Give evidence from the sheet.",
+      "observation": "Describe the picture from the foreground to the background. Where do the deer appear in that order?",
+      "analysis": "How does the composition place the deer within the trees without making them stand apart?",
+      "line": "How do vertical trunks and drooping foliage create rhythm and a sense of enclosure?",
+      "shape": "How do masses of leaves and open gaps balance each other across the sheet?",
+      "color": "How does the narrow range of greens and browns create harmony, and what would change with brighter colors?",
+      "texture": "Which brush marks suggest foliage and which suggest ground or bark? How can you tell them apart?",
+      "space": "How does Girtin create layers of depth with trees, and where does the space feel closed or open?",
+      "light": "How do lighter and darker areas of wash create the sense of shade in a dense forest?",
+      "meaning": "What might a late eighteenth-century viewer have valued in a scene of deer in a royal forest?",
+      "culture": "Why might wealthy owners of landscape drawings in Britain have valued scenes of managed woodland like Windsor Forest?",
+      "technique": "How do transparent layers help build depth in a forest scene, and what risks do they create?",
+      "personal": "How would you capture the feeling of a quiet natural place using only a few colors?",
+      "critical": "Girtin was young when he made this. Should the artist's age matter when we judge the work? Why or why not?"
+    },
+    "g910": {
+      "daily": "How do the picture's compositional choices make the deer feel integrated with, rather than separate from, the forest?",
+      "emotion": "How does tonal restraint create an emotional register of quiet and enclosure?",
+      "observation": "Describe the visual hierarchy: what leads the eye, and how do the deer figure within it?",
+      "analysis": "Analyze how the relation between vertical trunks and horizontal bands of foliage structures the scene.",
+      "line": "How does visible graphite complement or contrast with painted edges in defining trees and animals?",
+      "shape": "How does Girtin balance dense masses against smaller, defined forms like the deer?",
+      "color": "How does the controlled palette support atmosphere and depth, and how might the paper tone influence what we see?",
+      "texture": "How does he differentiate foliage, bark, and ground through wash density and brushwork alone?",
+      "space": "How do overlapping trees and tonal shifts build recession in a closed woodland setting?",
+      "light": "How do patches of lighter wash and darker shade give the forest a sense of weather and time?",
+      "meaning": "Does the sheet suggest wildness, order, or both? Which visual evidence supports your view?",
+      "culture": "How might the idea of a royal forest influence the way viewers understand animals in a picture like this?",
+      "technique": "How do transparent washes over graphite support the effects of depth and light, and what are their limits?",
+      "personal": "How does a small, quiet image hold your attention compared with a dramatic one?",
+      "critical": "What assumptions do we make when we call a landscape natural, and how might this picture question them?"
+    },
+    "g1112": {
+      "daily": "How does the sheet position itself between animal study and landscape, and what visual evidence supports each reading?",
+      "emotion": "How does the sheet create mood through tone and density rather than anecdote?",
+      "observation": "Describe the sheet's visible facts, such as graphite, washes, and the placement of the deer, before interpreting. Where does description start to claim more?",
+      "analysis": "How do the sheet's tonal and structural decisions subordinate the animals to place, and with what consequences?",
+      "line": "How does the coexistence of graphite and wash reflect developing practices in British watercolor?",
+      "shape": "How does the interplay of mass and void shape the viewer's reading of enclosure and openness?",
+      "color": "How does a restrained palette serve both naturalistic observation and picturesque conventions?",
+      "texture": "How might wash handling reveal the working sequence, and what remains uncertain without technical analysis?",
+      "space": "How does the sheet construct recession through overlapping and tonal gradation instead of linear perspective?",
+      "light": "How does the treatment of light here relate to the wider emerging interest in atmosphere in British landscape art?",
+      "meaning": "Given that the record offers only title, date, and technique, what interpretive claims are justified and which are speculative?",
+      "culture": "How does a royal forest as a subject interact with ideas of nature, ownership, and leisure in late eighteenth-century Britain?",
+      "technique": "What does an early work by a young artist reveal, and what cannot be inferred, about the development of his later handling of watercolor?",
+      "personal": "How does your own experience of woodland shape your sense of what is natural or constructed in this scene?",
+      "critical": "How should we weigh biography, such as the artist's youth and early death, against what the sheet itself shows?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Deer, Trees), medium, and classification (Drawings) checked against the Met record; no sensitive tags present and no hunting or violence terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Thomas Girtin (1775–1802) helped make watercolor a major medium for British landscape. This early sheet is dated 1793–94 in the Met's record.",
+    "vocabulary": [
+      "watercolor",
+      "graphite",
+      "wash",
+      "foliage",
+      "landscape",
+      "atmosphere"
+    ],
+    "directions": [
+      "Have students paint a group of trees using only three greens and look for places to show shade.",
+      "Ask students to find where the animals are camouflaged and discuss why artists may hide a subject in its surroundings.",
+      "Discuss the difference between a wild forest and a managed one."
+    ]
+  }
+}

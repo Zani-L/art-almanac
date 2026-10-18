@@ -1,0 +1,159 @@
+{
+  "id": "met-451480",
+  "day": "06-26",
+  "title": "\"Fable of the Lion and the Hare\", Folio from a Kalila wa Dimna",
+  "artist": "Artist unknown",
+  "date": "dated 733 AH/1333 CE",
+  "medium": "Opaque watercolor and gold on paper",
+  "movement": "Persian manuscript painting",
+  "region": "Iran (Shiraz)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/sf59-7r.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/sf59-7r.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1959",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small painted scene on a manuscript page showing a lion and a hare beside a well, both looking at their reflections. The small, wide painting comes from a handwritten manuscript.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451480",
+    "objectId": "451480",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tags (Lions, Rabbits) and image URLs read from the record; museum page text read for the subject, the manuscript, and the painting size"
+  },
+  "context": "A painted page from a manuscript of Kalila wa Dimna, a collection of animal fables, copied in Shiraz, Iran, in 1333. The Met says the painting shows the Lion and the Hare at a well, looking at their reflections.",
+  "descriptions": {
+    "k": "A lion and a hare stand by a well. They are looking at their own reflections! The picture is small and was painted in a book long ago. Which animal is bigger? What do you think each one is thinking?",
+    "g12": "This picture comes from an old book of animal stories. A lion and a hare are looking into a well and see their reflections. The picture is small and wide, painted with bright paint and gold. The hare is much smaller than the lion. How could a small animal outsmart a big one?",
+    "g35": "This small painting illustrates a fable from Kalila wa Dimna, a book of animal stories, made in Shiraz, Iran, in 1333. The Met says it shows the Lion and the Hare at a well, looking at their reflections. Fables often teach a lesson through animals who talk and think like people. Look at the two animals and how they face the water. What lesson could a clever small animal teach a strong one?",
+    "g68": "Kalila wa Dimna is a set of moralizing tales with personified animals, with Sanskrit versions going back to at least the fourth century and a popular Persian translation in the twelfth. This folio, from a manuscript copied in Shiraz in 1333, shows the Lion and the Hare at a well, looking at their reflections. In the best-known telling, the hare uses a reflection to outwit the lion. How do the artist's choices help the viewer follow the story at a glance?",
+    "g910": "This 1333 folio from Shiraz illustrates a fable from Kalila wa Dimna, whose animal characters let storytellers discuss power, cleverness, and judgment. The Met describes the scene as the Lion and the Hare looking at their reflections in a well. The painting is small and sits within a page of text, so image and story work together. Consider how the artist stages a narrative climax using only two animals and a well, and how gold and opaque color shape its tone.",
+    "g1112": "Kalila wa Dimna traveled from Sanskrit sources through Persian and Arabic versions, and its animal fables were often read as indirect commentary on rulers and counselors. This folio from a Shiraz manuscript of 1333 shows, according to the Met, the Lion and the Hare at a well, looking at their reflections. The scene condenses the story's logic: strength is undone by deception and self-regard. Because such fables could be read as entertainment, moral teaching, or political advice, the image invites several readings, and the painting alone does not decide among them."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the lion and the hare by the well. Which one is bigger? Which one do you think is smarter?",
+      "emotion": "Does the lion look proud, scared, or surprised? What do you see that tells you?",
+      "observation": "What is the hare doing? What is the lion doing? Point to each.",
+      "analysis": "Where are the two animals in the picture? Are they close together or far apart?",
+      "line": "Use your finger to trace the outline of the lion. Where does the line curve?",
+      "shape": "The lion is big and the hare is small. How are their shapes different?",
+      "color": "What colors do you see? Which color makes the lion stand out?",
+      "texture": "Does the lion's fur look soft or rough? What about the hare's fur?",
+      "space": "The picture is wide and short, like a window. What is on each side of the well?",
+      "light": "The picture has bits of gold. Where do you think gold shines the most?",
+      "meaning": "A fable is a short story with a lesson. What lesson could a hare teach a lion?",
+      "culture": "People in Iran read animal stories like this in books long ago. Do you have a favorite animal story?",
+      "technique": "The painter used tiny brushes to paint small animals. Why do you need a steady hand for that?",
+      "personal": "Have you ever seen your reflection in water? What did you do?",
+      "critical": "Why do you think the painter showed the animals looking at their reflections and not doing something else?"
+    },
+    "g12": {
+      "daily": "A lion and a hare look at their reflections in a well. What do you think is going to happen next?",
+      "emotion": "What feelings can you see in the animals' faces and bodies?",
+      "observation": "Describe the lion, the hare, and the well, and tell what you see around them.",
+      "analysis": "How does the artist show that the lion is the more powerful animal?",
+      "line": "Find the outline of the lion's body. How does it look different from the hare's outline?",
+      "shape": "The painting is a wide rectangle. How does that shape help the artist tell the story?",
+      "color": "Which colors in the picture stand out most? Why do you think the artist used them?",
+      "texture": "How can you tell the lion and the hare have fur when this is flat paint?",
+      "space": "How does the artist show the animals standing at the well and not floating?",
+      "light": "This picture used gold paint. How does gold make a picture feel special?",
+      "meaning": "This is a story where a smart small animal fools a big one. What lesson might it teach?",
+      "culture": "Books like this were copied by hand long ago in Shiraz, Iran. Why do you think people made pictures for a book?",
+      "technique": "The picture was painted on paper with opaque paint. Do you think that means you can see through it?",
+      "personal": "Tell about a time you were small but clever. What did you do?",
+      "critical": "This story is about animals but teaches people. Why might people tell stories about animals?"
+    },
+    "g35": {
+      "daily": "How does this small painting tell the story of the lion and the hare without using many characters?",
+      "emotion": "What mood do you sense at this moment of the story? Use the animals' poses to explain.",
+      "observation": "Take one minute to look at the animals' bodies and faces. What do you notice?",
+      "analysis": "How does the artist place the lion, the hare, and the well to guide your eye through the scene?",
+      "line": "How do the lines of the animals' bodies show their different characters?",
+      "shape": "How does the size difference between the lion and the hare add to the story?",
+      "color": "How do colors separate the animals from the background so the story is clear?",
+      "texture": "How does the painter suggest the fur of the animals using paint?",
+      "space": "The picture is small and wide. How does the artist use that space to show the well and animals?",
+      "light": "Gold is used in many Persian paintings. How might it change the way light seems to play in this picture?",
+      "meaning": "The Met says the animals are looking at their reflections. Why is that a good moment to paint in this story?",
+      "culture": "Kalila wa Dimna has been told in many languages. What does that tell you about the stories people love?",
+      "technique": "This folio is a page from a handwritten book. Why might a painter work on a small scale for a manuscript?",
+      "personal": "Which character do you most connect with, the lion or the hare? Why?",
+      "critical": "Fables use animals to teach people. What are the advantages of teaching a lesson with animals instead of people?"
+    },
+    "g68": {
+      "daily": "How does the painter condense a story into one frozen moment at the well?",
+      "emotion": "What emotional tension is created between a powerful lion and a small hare at the water's edge?",
+      "observation": "List the elements of the scene: animals, well, background, and any text or border. Which are most detailed?",
+      "analysis": "How does the arrangement of the animals around the well communicate the idea of reflection, literally and figuratively?",
+      "line": "How does the painter use contour to make the lion look strong and the hare look alert?",
+      "shape": "How does the contrast between the large lion and small hare drive the visual story?",
+      "color": "How do the colors of the animals and setting establish focus within a small painting?",
+      "texture": "How does opaque watercolor allow the artist to show detail in fur and surfaces?",
+      "space": "In many Persian paintings, space is flattened. How does that affect how you read the scene?",
+      "light": "Gold in the manuscript can give a luxurious shimmer. How might it affect the way the story is presented?",
+      "meaning": "In the best-known version, the hare tricks the lion with the reflection. Why is a reflection a clever tool for a trick?",
+      "culture": "How might a Shiraz audience in 1333 have valued a book of fables with illustrations?",
+      "technique": "A manuscript painter worked within a small rectangle on a page of text. What challenges does that create?",
+      "personal": "When have you been fooled by something that looked real, such as a mirror or illusion? How did you realize it?",
+      "critical": "Fables can be read as simple stories or as commentary on rulers and advisers. What evidence in the picture supports a simple reading?"
+    },
+    "g910": {
+      "daily": "How does the painting use two animals and a well to stage a story about power and cleverness?",
+      "emotion": "How does the image create suspense or irony at the moment the animals see their reflections?",
+      "observation": "Describe the visual hierarchy: which figure dominates, and how does the composition complicate that?",
+      "analysis": "Analyze how the painter coordinates image and text on the page to support the narrative.",
+      "line": "How does line quality differentiate the lion's strength from the hare's agility?",
+      "shape": "How do the contrasting masses of the two animals create a dynamic relationship within the painting?",
+      "color": "How might the color relationships guide attention to the lion, the hare, and the well?",
+      "texture": "How does the artist describe fur and surfaces within the limits of a small, opaque painting?",
+      "space": "How does the painter treat space around the well, and what does that suggest about priorities in manuscript illustration?",
+      "light": "What does the use of gold imply about the book's intended audience and its status as an object?",
+      "meaning": "How might the reflection motif work as a symbol of self-regard, deception, or illusion?",
+      "culture": "How does the transmission of Kalila wa Dimna across languages and centuries show the value placed on fables?",
+      "technique": "What does a hand-copied, hand-painted manuscript reveal about workshop collaboration between scribes and painters?",
+      "personal": "How do you respond when a weaker character outwits a stronger one in a story? What does that say about your values?",
+      "critical": "Why might a fable using animals have been a safer way to discuss rulers and advisers than a story with human figures?"
+    },
+    "g1112": {
+      "daily": "What can this single painted scene tell us about how images carry narrative, and what must we supply from the story?",
+      "emotion": "How does the painting rely on the viewer's prior knowledge of the fable to create tension or irony?",
+      "observation": "Describe the scene precisely, then separate what the image shows from what the story tells you is about to happen.",
+      "analysis": "Evaluate how the composition condenses a narrative climax into a static image, and what it leaves out.",
+      "line": "How does the draftsmanship of the animals balance naturalism with stylization in a Persian painting tradition?",
+      "shape": "Discuss the formal relationship between predator and prey, and how it sets up a reversal of expectation.",
+      "color": "How does color work to isolate and clarify figures within a small rectangle, and how may time have altered it?",
+      "texture": "How does the painting evoke surface quality within the constraints of a flat, opaque medium?",
+      "space": "How does the manuscript context, a small painting within a page of text, shape the way space is organized?",
+      "light": "What can the use of gold tell us about the status and cost of the manuscript, and its place in elite culture?",
+      "meaning": "Kalila wa Dimna is often read as advice literature. How might this scene be read as a commentary on power, and how might that reading be challenged?",
+      "culture": "How does the book's journey from Sanskrit to Persian and Arabic illustrate cultural exchange, and how does this folio fit in?",
+      "technique": "What can we infer about workshop practice in Shiraz in 1333 from a dated, illustrated manuscript?",
+      "personal": "How does your familiarity with similar fables in other traditions shape how you read this scene?",
+      "critical": "How reliable is a museum's description of an image for interpreting a scene we cannot fully verify, and how might you test it against the picture?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices) and tags (Lions, Rabbits) checked against the museum record, and the museum page text read: the scene is a lion and a hare at a well looking at their reflections.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Kalila wa Dimna is a collection of animal fables that traveled from Sanskrit into Persian and Arabic. This page comes from a manuscript copied in Shiraz in 1333.",
+    "vocabulary": [
+      "fable",
+      "manuscript",
+      "folio",
+      "personified",
+      "opaque watercolor",
+      "illustration"
+    ],
+    "directions": [
+      "Read a short version of the lion and hare fable aloud, stopping before the ending, and ask students to predict what happens next from the image.",
+      "Have students write and illustrate a short fable in which a small character solves a problem with cleverness.",
+      "Compare how a fable and a painting each tell a story using different tools."
+    ]
+  }
+}

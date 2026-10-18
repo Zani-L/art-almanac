@@ -1,0 +1,159 @@
+{
+  "id": "met-436749",
+  "day": "12-02",
+  "title": "Portrait of a Man",
+  "artist": "Lucia Anguissola",
+  "date": "ca. 1560",
+  "medium": "Oil on copper",
+  "movement": "Italian Renaissance",
+  "region": "Italy (Cremona)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/EP483.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/EP483.jpg",
+    "credit": "The Metropolitan Museum of Art, The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A very small round portrait of a man, painted in oil on a copper disk.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436749",
+    "objectId": "436749",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page text on attribution and support"
+  },
+  "context": "A tiny oil portrait on copper, only about 12 centimeters across, attributed by the Met to Lucia Anguissola of Cremona, Italy. She was probably trained by her older sister, the famous portraitist Sofonisba Anguissola. The sitter's name is not known, and the attribution to Lucia is recent.",
+  "descriptions": {
+    "k": "This is a very small, round painting of a man. It is painted on a shiny piece of copper metal. It is only as wide as your hand. A woman artist named Lucia made it. Who might he be?",
+    "g12": "Lucia Anguissola painted this tiny portrait of a man in Italy about 460 years ago. It is round and only about as wide as a hand. She painted it on a flat piece of copper metal, not on canvas. We do not know who the man is. What do you think he was like?",
+    "g35": "This portrait is tiny, only about twelve centimeters across, and it is painted on a disk of copper. Lucia Anguissola, an artist from Cremona in Italy, probably learned to paint from her older sister Sofonisba, a famous portrait painter. We do not know who the man was. Small copper portraits like this were treasured keepsakes of someone you loved. Why might someone want such a small picture?",
+    "g68": "This small portrait on copper, from about 1560, is attributed to Lucia Anguissola, who was probably trained by her older sister Sofonisba. The attribution is recent and rests on similarities of handling to other works by Lucia. The Met notes that small copper portraits were treasured keepsakes among the European elite. The sitter is unnamed, so the painting asks us to rely on what we can see. How does an artist suggest character in a portrait that is only a few centimeters wide?",
+    "g910": "Lucia Anguissola painted this round portrait of about 1560 on a copper support only about 12 centimeters wide. The Met's recent attribution to her draws on resemblances to her self-portrait of 1557 and her portrait of her sister Europa. Small portraits on copper were treasured keepsakes among elites, standing in for people who were absent. The sitter remains unidentified, which turns the picture into a study of presence without a name. Consider what is gained when a sixteenth-century woman painter's work is recognized in its own right, alongside her more famous sister's.",
+    "g1112": "Attributed to Lucia Anguissola, this miniature-scale portrait raises questions about attribution, gender, and intimacy. The Met connects its handling to other portraits by Lucia and notes that small copper portraits were keepsakes valued by elites, a function that depended on likeness and portability. The sitter's identity is lost, so the image's meaning is shaped by absence. The Met describes the attribution to Lucia as recent, which illustrates how scholarship can reshape which women artists are recognized, and how provisional an attribution can be."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the man's face. What do you think he is thinking about?",
+      "emotion": "Does he look kind, serious, or something else? What do you see that makes you say so?",
+      "observation": "This painting is as small as your hand. What can you find in it?",
+      "analysis": "What part of the little circle do your eyes find first? Why?",
+      "line": "Trace the outline of the man's head with your finger in the air.",
+      "shape": "This picture is round. What other shapes can you find inside it?",
+      "color": "Which colors do you see in the little circle? Which one is the quietest?",
+      "texture": "The painting is on shiny metal. How do you think the painted surface feels?",
+      "space": "How much of the man can you see? Does he seem close to you or far away?",
+      "light": "Which parts of his face look light? Which look dark?",
+      "meaning": "Why do you think someone would keep a tiny picture of this man?",
+      "culture": "People long ago did not have cameras. How did they keep pictures of people they loved?",
+      "technique": "The painter used a flat piece of copper instead of canvas. What is different about painting on metal?",
+      "personal": "Who would you want a tiny picture of? Tell about them.",
+      "critical": "We do not know the man's name. What can we still learn from looking?"
+    },
+    "g12": {
+      "daily": "What can you tell about this man from his face and the way he is shown? Point to clues.",
+      "emotion": "What feeling do you get from his face? Which part helps you feel that?",
+      "observation": "Describe five details you can see on his face, clothes, or around him.",
+      "analysis": "How does the painter make the man the center of the little picture?",
+      "line": "Follow the lines of his face and shoulders. Are they soft or sharp?",
+      "shape": "The painting is a circle. How does the man fit inside the circle?",
+      "color": "Which colors stand out, and which are quieter? How do they help you look at his face?",
+      "texture": "Which things look soft, like cloth or hair, and which look smooth, like skin?",
+      "space": "How does the painter make you feel close to this man?",
+      "light": "Where is the light brightest? How does it help his face look real?",
+      "meaning": "Why might someone want a tiny portrait they could hold in their hand?",
+      "culture": "Lucia Anguissola lived in Italy about 460 years ago. Why was it special for a woman to be a painter then?",
+      "technique": "Painting such a tiny picture needs tiny brushes. What would be hard about it?",
+      "personal": "If you had a tiny picture of someone to keep with you, who would it be?",
+      "critical": "We do not know who the man is. Does the picture still feel like a real person? Why?"
+    },
+    "g35": {
+      "daily": "How does this tiny portrait make you feel as if you are meeting a real person?",
+      "emotion": "What mood does this tiny portrait have? Which details give you that feeling?",
+      "observation": "Take one minute of silent looking. What small details do you notice in the face and clothes?",
+      "analysis": "How does Lucia Anguissola arrange the man inside the round frame so that your eyes stay on his face?",
+      "line": "How do the lines of the face, hair, and collar help show who he is?",
+      "shape": "How does the round shape of the copper disk affect how the man is placed?",
+      "color": "How do the colors of the man's face and clothes work together on a small surface?",
+      "texture": "How does the painter show the difference between skin, hair, and fabric on such a small scale?",
+      "space": "This portrait is only about as wide as a hand. How does its small size change how close you feel to the man?",
+      "light": "How does light help give the man's face a rounded, lifelike look?",
+      "meaning": "The Met says small copper portraits were treasured keepsakes. What might it mean to carry a picture like this?",
+      "culture": "Lucia probably learned to paint from her sister Sofonisba. Why might it be important to remember women artists from the past?",
+      "technique": "A smooth copper surface can hold very fine detail. Why might that help in a portrait this small?",
+      "personal": "What small objects do you keep to remember people or places? Why are they special?",
+      "critical": "Why might a museum change the name of the artist it credits for a painting? What kinds of evidence could help?"
+    },
+    "g68": {
+      "daily": "How does the artist suggest a whole personality in a portrait only a few centimeters wide?",
+      "emotion": "What emotion, if any, do you read in the sitter's face? What visual evidence supports it?",
+      "observation": "Describe the tiny portrait without interpreting. Which parts seem to have taken the most patience to paint?",
+      "analysis": "How does the composition use the round format to focus attention on the head and shoulders?",
+      "line": "How do outlines and small marks shape the face's structure?",
+      "shape": "How does the circular frame change the way the figure is cropped and balanced?",
+      "color": "With a limited surface, how does color help give the sitter weight and presence?",
+      "texture": "How does painting on smooth copper change how skin, hair, and cloth look?",
+      "space": "How does the close-up view create intimacy between sitter and viewer?",
+      "light": "How does light shape the sitter's features and help suggest volume?",
+      "meaning": "Small copper portraits stood in for absent people. What does that tell us about what a portrait was for?",
+      "culture": "What difficulties might a woman painter in 16th-century Italy have faced, and how might her sister's fame have helped or hidden her?",
+      "technique": "The Met compares the handling of this portrait with Lucia's other known works. What would you compare to attribute a painting?",
+      "personal": "How is a keepsake image on a phone like or unlike a copper portrait from 1560?",
+      "critical": "The attribution to Lucia is recent. What does that tell us about how art history can change?"
+    },
+    "g910": {
+      "daily": "How does the miniature scale intensify the encounter between sitter and viewer?",
+      "emotion": "How does the portrait generate presence and feeling with such restricted space?",
+      "observation": "Describe the visual hierarchy of the portrait. What draws the eye first, and how is that achieved?",
+      "analysis": "Analyze how the artist balances detail and economy in a work the size of a palm.",
+      "line": "How does line, as contour and as fine detail, build the sitter's likeness?",
+      "shape": "How does the circular format impose constraints on pose and composition, and how does the artist respond?",
+      "color": "How does the painter use color relationships to model the head within a limited field?",
+      "texture": "How does the copper support affect the smoothness of paint and the effect of fine detail?",
+      "space": "How does the shallow, close space contribute to the portrait's intimacy and portability?",
+      "light": "How does light model the face to make a small image feel three-dimensional?",
+      "meaning": "How does the loss of the sitter's name change the portrait's meaning compared with a known figure?",
+      "culture": "How do women artists such as Lucia Anguissola complicate a history of Renaissance art centered on men?",
+      "technique": "How does the Met's attribution rely on comparing handling, and what are the limits of such evidence?",
+      "personal": "How do the images you carry of people you care about function like keepsakes from earlier times?",
+      "critical": "Why might the work of a woman painter who died young be hard to identify, and what changes when it is recognized?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the portrait itself about Lucia Anguissola's skill and purpose, and what remains uncertain?",
+      "emotion": "How can a tiny image convey the weight of presence, and what is lost when the sitter is anonymous?",
+      "observation": "Describe the portrait's construction precisely. Which observations are affected by its tiny scale?",
+      "analysis": "Analyze how a miniature scale changes the relation among viewer, object, and likeness.",
+      "line": "How does the artist use contour and delicate detail to produce individuality within portrait conventions?",
+      "shape": "How does the circular support shape composition and viewing, and how does it relate to the portrait's use as a keepsake?",
+      "color": "How might the copper support and the age of the paint affect the portrait's present appearance?",
+      "texture": "How does the choice of copper reflect technical and market conditions for portrait miniatures in the 16th century?",
+      "space": "How does the close, compressed space heighten the work's address to a private viewer?",
+      "light": "How does the modeling of light on the face construct volume and, perhaps, character?",
+      "meaning": "How does anonymity transform a portrait from a record of a person to a more open question about presence and absence?",
+      "culture": "How does the attribution of this work to Lucia, a sister trained by Sofonisba, reflect broader efforts to recover women artists?",
+      "technique": "How do technical comparisons, such as handling and paint, support attributions, and what uncertainty remains?",
+      "personal": "How do your own habits of keeping and sharing images affect how you interpret a portrait made as a keepsake?",
+      "critical": "What responsibilities do museums have when revising attributions, especially for artists whose names were long overlooked?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Men, Portraits) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small portrait on copper, about 12.4 cm across, made around 1560. The Met attributes it to Lucia Anguissola (about 1536/38 to about 1565), probably trained by her sister Sofonisba, and notes that the attribution is recent.",
+    "vocabulary": [
+      "portrait",
+      "attribution",
+      "copper support",
+      "keepsake",
+      "Renaissance",
+      "likeness"
+    ],
+    "directions": [
+      "Have students trace a circle and draw a head-and-shoulders portrait that fits inside it.",
+      "Ask students to research another woman artist from the 1500s and compare her opportunities with Lucia's.",
+      "Discuss how and why a museum might change who it credits for an artwork."
+    ]
+  }
+}

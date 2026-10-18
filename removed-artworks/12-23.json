@@ -1,0 +1,151 @@
+{
+  "id": "met-504532",
+  "day": "12-23",
+  "title": "Pottery Rattle",
+  "artist": "Aztec (artist unknown)",
+  "date": "1200–1521",
+  "medium": "Clay",
+  "region": "Mexico (Aztec)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS1132A2.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/MUS1132A2.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, rounded clay rattle about the size of a ping-pong ball, shown on a plain background. Its surface is the dull, earthy color of fired pottery.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/504532",
+    "objectId": "504532",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification (Idiophone-Shaken-rattle), dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "The Met catalogues this small clay rattle as Aztec, from Mexico, and dates it broadly to 1200–1521. It measures about 4.4 cm (1 3/4 in.) on each side and weighs about 39 grams, so it is small enough to close a hand around. The record classifies it as a shaken rattle, but does not describe its contents or how it was used.",
+  "descriptions": {
+    "k": "This is a tiny rattle made of clay. It is about as big as a small ball. You shake a rattle to make a sound. Long ago, Aztec people in Mexico made it. What do you think is inside?",
+    "g12": "This little rattle is made of clay. Aztec people in Mexico made it long ago. It is only about four and a half centimeters wide, small enough to hold in your hand. A rattle makes sound when you shake it. What could be inside to make the sound?",
+    "g35": "This pottery rattle comes from the Aztec world in Mexico. The Met dates it between 1200 and 1521. It is small, about 4.4 centimeters on each side, and it weighs only 39 grams. A rattle is a shaken instrument, so it probably holds small hard bits inside, though the record does not say. What can the shape tell you about how it was made and held?",
+    "g68": "This clay rattle, catalogued as Aztec and dated 1200–1521, is small enough to fit in a closed hand. The Met classifies it as a shaken rattle, an instrument that makes sound when something inside it moves, but the record does not describe what is inside or how it was used. The broad date range also means we cannot say exactly when it was made. How can a very small, plain object still give us information about a culture's relationship with sound?",
+    "g910": "A small clay rattle like this one, catalogued as Aztec and dated 1200–1521, raises the question of how much a modest object can tell us. At roughly 4.4 centimeters, it is intimate in scale. The record classifies it as a shaken rattle but offers no information on its maker, contents or role, which could have ranged from daily to ceremonial. Think about how to interpret an object responsibly when much of its context is missing, and how pottery skills served sound making as well as vessels and figures.",
+    "g1112": "This 1200–1521 clay rattle, catalogued as Aztec, is a reminder that museum categories such as Musical Instruments can gather objects whose original roles were varied and are only partly known. The record gives its size, weight and classification as a shaken rattle, but not its contents, decoration or use. Scholars interpret such objects through excavation, comparison and colonial-era writings, each of which has limits. The object invites reflection on scale, on the uncertainty carried by a wide date range, and on how Indigenous heritage is interpreted by institutions far from its source."
+  },
+  "questions": {
+    "k": {
+      "daily": "This clay rattle is tiny! What do you think you would hear if you shook it?",
+      "emotion": "Does this little rattle look playful or serious to you? What do you see?",
+      "observation": "What can you see on the rattle? Point to one thing you notice.",
+      "analysis": "Which part of the rattle do your eyes see first?",
+      "line": "Can you find a curved line around the rattle? Trace it in the air.",
+      "shape": "Is the rattle round, square, or something else? Tell what you see.",
+      "color": "What color is the clay? Does it look like something in nature?",
+      "texture": "If you could hold the rattle, would it feel smooth or bumpy?",
+      "space": "The rattle may be hollow. What small things could fit inside?",
+      "light": "Where is the clay lighter, and where is it darker?",
+      "meaning": "Why do you think someone made such a small rattle?",
+      "culture": "This rattle was made in Mexico long ago. What would you ask the person who made it?",
+      "technique": "Clay is shaped and baked in fire. What do you think the maker did first?",
+      "personal": "What is a small thing you shake or tap to make a sound?",
+      "critical": "How can we know this is a rattle when a picture cannot make sound?"
+    },
+    "g12": {
+      "daily": "This rattle is only about four and a half centimeters wide. What does its tiny size make you wonder?",
+      "emotion": "What feeling does this small clay object give you? Point to the detail that makes you feel it.",
+      "observation": "Describe the shape of the rattle and two things you notice about its surface.",
+      "analysis": "How does the rattle's shape tell you how you might hold it?",
+      "line": "Find the outline of the rattle. Is it smooth, wavy or something else?",
+      "shape": "The rattle is small and compact. How is it different from a long flute?",
+      "color": "The color comes from fired clay. How does that color make the rattle look old?",
+      "texture": "Does the surface look smooth or rough? What details tell you?",
+      "space": "A rattle makes sound when something moves inside. Why must there be empty space?",
+      "light": "How do light and shadow show the shape of the rattle?",
+      "meaning": "Why might someone want a rattle that is small enough to hold in one hand?",
+      "culture": "Aztec people lived in what is now Mexico. What can a tiny object tell us about them?",
+      "technique": "Clay objects are baked to make them hard. Why does a rattle need to be hard?",
+      "personal": "If you made a clay rattle, how would you shape and decorate it?",
+      "critical": "We cannot hear this rattle. What can we learn by looking only?"
+    },
+    "g35": {
+      "daily": "The Met describes this as a shaken rattle, 4.4 centimeters on each side. How does its size and shape fit that description?",
+      "emotion": "What mood does this plain clay object create, and which details cause it?",
+      "observation": "Describe the rattle from top to bottom. What details do you notice on its surface?",
+      "analysis": "How do the parts of the rattle fit together as one shape?",
+      "line": "How do the outline and any marks help you understand how the rattle was made?",
+      "shape": "A rattle is often hollow and compact. How does this one's shape suit being held in the hand?",
+      "color": "The medium is clay. How does the natural color affect the way we see this object?",
+      "texture": "Fired clay can show smoothing or tool marks. Which textures can you imagine from the image?",
+      "space": "The rattle probably has an empty space inside. How does the outside shape hint at it?",
+      "light": "How does light on the clay show whether the surface is polished or rough?",
+      "meaning": "We do not know how this rattle was used. Why is it important not to guess too quickly?",
+      "culture": "The date range of 1200 to 1521 covers the time before and during the Spanish arrival. How might that range limit what we can say?",
+      "technique": "How would a potter make an object that is hollow but still strong enough to be shaken?",
+      "personal": "Have you ever made something small by hand? What did you learn from making it?",
+      "critical": "Museums put rattles and flutes together as Musical Instruments. What might be lost if an object had other uses too?"
+    },
+    "g68": {
+      "daily": "How does the small scale of this rattle shape the way you imagine it being held and used?",
+      "emotion": "What tone does the simple clay surface set? Support your answer with evidence from the image.",
+      "observation": "Describe the rattle's surface before you decide how it was used. Which small details could be hiding in the clay?",
+      "analysis": "How does the design join compactness and hollowness in a single object?",
+      "line": "How does the outline of the rattle suggest both handwork and planning?",
+      "shape": "How does a compact, closed form suit an instrument that must hold something loose inside?",
+      "color": "What might the plain, earthy color of this rattle suggest about the clay and the fire that hardened it?",
+      "texture": "Look at the rattle's rounded surface. Which marks or smooth areas hint at how a potter's hands worked it?",
+      "space": "How does the hidden interior define what makes this a rattle?",
+      "light": "How does lighting in the photograph affect what you notice about the clay's surface?",
+      "meaning": "Because the record says little about use, how can we form careful ideas without overclaiming?",
+      "culture": "Why is it important that the Met names the Aztec culture and Mexico instead of using a general label?",
+      "technique": "How might making a tiny, hollow clay object require different skills from making a large vessel?",
+      "personal": "What small objects do people use to mark rhythm or celebration in your community?",
+      "critical": "What questions would you want to ask Nahua descendants about this rattle before drawing conclusions?"
+    },
+    "g910": {
+      "daily": "How does this small rattle show that significance is not tied to size or decoration?",
+      "emotion": "A rattle this small can close inside one hand. What feeling does that scale create for you, and does its age add to it?",
+      "observation": "Describe the rattle's form and surface in detail. Which observations are secure from the image alone?",
+      "analysis": "How does the object's form integrate hand, sound and clay into one design?",
+      "line": "How do the contours of the rattle reflect decisions about holding and shaking?",
+      "shape": "How does a closed, hollow form link pottery traditions with sound-making?",
+      "color": "How does the earth tone of fired clay affect how we read the object as ancient?",
+      "texture": "What can the rattle's surface tell you about the maker's shaping of a sealed clay form, and what might handling have worn away?",
+      "space": "Whatever moves inside a rattle is hidden from us. How does that hidden part make the object a rattle?",
+      "light": "This rattle is photographed against a plain background. How does that choice affect what you notice about its surface?",
+      "meaning": "What are the risks of attributing ritual meaning to a small rattle when the record is silent?",
+      "culture": "How does the broad date range of 1200–1521 shape the claims we can reasonably make about Aztec music?",
+      "technique": "How does firing clay into a sealed hollow shape differ from making an open vessel?",
+      "personal": "What small objects in your life make sound, and what do they mean to you?",
+      "critical": "How do 19th-century collecting practices, like the 1889 Crosby Brown collection, shape what we know about this rattle?"
+    },
+    "g1112": {
+      "daily": "What can this small rattle support as evidence of Aztec sound-making, and what claims would go beyond the record?",
+      "emotion": "A rattle is made to be shaken, yet here it is still. How does that stillness shape your feelings about it, and what do you assume?",
+      "observation": "The record gives size, weight and a classification as a rattle. Which ideas about this object come from the record, and which are only guesses?",
+      "analysis": "How do material, form and function interact in this object, and what remains unknown?",
+      "line": "How does the contour of the rattle reflect the demands of both ceramics and shaken instruments?",
+      "shape": "How does the shaken rattle classification complicate neat distinctions between instruments, toys and ritual objects?",
+      "color": "Does the plain clay color of this rattle lead viewers to expect something simple or humble, and why might that expectation be misleading?",
+      "texture": "If this rattle spent centuries in the ground before reaching a museum, how might that have changed the surface you see?",
+      "space": "How does presenting a tiny object in a large museum change our understanding of its intimacy?",
+      "light": "Without a hand or ruler beside it, how reliable is a photograph for judging how tiny this rattle really is?",
+      "meaning": "What kinds of evidence could help explain what a clay rattle meant to the people who shook it, and whose knowledge should count?",
+      "culture": "How does the museum category Musical Instruments frame an object that may have had other roles as well?",
+      "technique": "How do the technical constraints of ceramic firing and loose contents shape the possibilities for form?",
+      "personal": "How does your own cultural background shape what you expect a rattle to look like?",
+      "critical": "What responsibilities does a museum have toward the descendants of those who made a small, everyday-looking rattle like this one?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Idiophone-Shaken-rattle), medium (clay), culture, and tags (none listed) checked against the museum record; the record does not say whether the rattle is modeled as an animal or figure, so the image should be confirmed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small clay rattle catalogued as Aztec, from Mexico, and dated 1200–1521. The record gives size and weight only, so avoid stating what is inside or how it was used as fact.",
+    "vocabulary": ["rattle", "idiophone", "fired clay", "Aztec", "Mesoamerica", "artifact"],
+    "directions": [
+      "Make a simple shaker with a sealed container and compare how different contents change the sound.",
+      "Discuss what a wide date range means for how confident we can be.",
+      "Compare this rattle with the clay flute and ocarina from the collection."
+    ]
+  }
+}

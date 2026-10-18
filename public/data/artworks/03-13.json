@@ -1,0 +1,159 @@
+{
+  "id": "met-356497",
+  "day": "03-13",
+  "title": "The Rhinoceros",
+  "artist": "Albrecht Dürer",
+  "date": "1515",
+  "medium": "Woodcut",
+  "movement": "Northern Renaissance",
+  "region": "Germany",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DT241450.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DT241450.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Junius Spencer Morgan, 1919",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black-and-white print of a rhinoceros seen from the side. Its thick skin is drawn like overlapping plates of armor, and it has a horn on its nose.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/356497",
+    "objectId": "356497",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A woodcut by Albrecht Dürer of Nuremberg, dated 1515. Dürer is generally understood to have worked from a written description and a sketch by someone else rather than from seeing the animal himself, which helps explain its armor-like skin. Prints like this could be made in large numbers from the same woodblock.",
+  "descriptions": {
+    "k": "This is a rhinoceros! It has a big horn on its nose. Its skin looks like armor, with lots of plates. The artist, Albrecht Dürer, drew it long ago. He had never seen a real one. What do you notice?",
+    "g12": "Albrecht Dürer made this print of a rhinoceros in Germany in 1515. Its skin looks like shiny armor with bumps and plates. Dürer probably had not seen a real rhinoceros. He used a description and a drawing from someone else. What parts of this animal look real to you? What parts look surprising?",
+    "g35": "Albrecht Dürer, an artist from Nuremberg in Germany, made this woodcut in 1515. Few people in Europe had seen a rhinoceros, and Dürer is thought to have worked from a description and a sketch rather than from the animal itself. That may be why the skin looks like plates of armor. Look closely at the lines. How do they make the animal look heavy and tough? What might a real rhinoceros look like instead?",
+    "g68": "Dürer made this woodcut in 1515 after a rhinoceros arrived in Portugal, but he worked from a description and sketch, not from the animal itself. The result mixes careful observation with guesswork: the skin is drawn like layered armor with rivet-like bumps, and a small extra horn appears on the back. Because a woodcut is printed from a carved block, many copies could be sold, and the image spread widely across Europe. What do you think makes it so convincing even though it is not accurate?",
+    "g910": "Dürer's Rhinoceros shows how an image can be persuasive without being accurate. Working from secondhand information about an animal that reached Lisbon in 1515, he turned thick folds of skin into a pattern of armor-like plates and added details such as a small horn on the back. The medium matters: a woodcut's bold lines suited mass reproduction, and the image circulated for generations, shaping European ideas of the animal. Consider how line, pattern, and imagination combine to make this both a natural-history image and a work of art.",
+    "g1112": "Dürer's Rhinoceros, dated 1515, is a case study in how images travel and acquire authority. The artist is generally understood to have worked from a verbal account and another person's sketch, and the animal's armor-like plating, ornamental pattern, and extra horn reflect both observation and inherited expectation. Because it was printed from a woodblock, impressions circulated widely and the model was copied well into later centuries, often treated as fact. The print raises questions about evidence, translation between media, and the line between description and invention in early modern natural history."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you notice about this rhinoceros? Tell us three things.",
+      "emotion": "Does this animal look gentle or tough? What do you see that makes you say so?",
+      "observation": "What can you find on the rhinoceros? Point to its horn, its skin, and its feet.",
+      "analysis": "Start at the horn and move your eyes along the animal to its tail. What do you pass on the way?",
+      "line": "Can you find short lines and long lines? Trace one in the air.",
+      "shape": "What shapes do you see in the animal's skin? Are they round, square, or something else?",
+      "color": "This picture is made in black ink on paper. What do the light and dark parts show?",
+      "texture": "The skin looks like armor. How do you think it would feel to touch?",
+      "space": "Is the rhinoceros looking at you or turned to the side? How can you tell?",
+      "light": "Which parts of the animal look dark and which look light?",
+      "meaning": "If you were seeing a rhinoceros for the first time, what would you think?",
+      "culture": "People in Germany in 1515 had never seen a rhinoceros. What animals have you only seen in pictures?",
+      "technique": "This picture was printed from a block of carved wood. How do you think the artist made the lines?",
+      "personal": "What animal do you love most? Tell about it.",
+      "critical": "Dürer had never seen a real rhinoceros. What do you think he did to make this picture?"
+    },
+    "g12": {
+      "daily": "How did Dürer make this animal look strong and heavy? Show us a detail that helps.",
+      "emotion": "How does this animal make you feel: amazed, scared, curious? What helps you feel that way?",
+      "observation": "Describe five things you see on this rhinoceros, from nose to tail.",
+      "analysis": "How does the artist help your eyes move across the animal's body?",
+      "line": "Find thick lines and thin lines. How do they make the skin look like armor?",
+      "shape": "The skin looks like plates. What shapes do you see, and how do they fit together?",
+      "color": "There is only black ink on light paper. How does the artist still show dark and light?",
+      "texture": "How does the artist make the skin look hard and bumpy? What do you see that helps?",
+      "space": "The rhinoceros is seen from the side. How does that help us see its whole body?",
+      "light": "Where are the darkest parts of the print? How do they help the animal look solid?",
+      "meaning": "Why do you think people long ago wanted pictures of a faraway animal?",
+      "culture": "A rhinoceros came to Portugal in 1515 and people in Europe were amazed. What new things make you amazed?",
+      "technique": "A woodcut is made by carving a block of wood. Why can many copies come from one block?",
+      "personal": "If you could meet any animal for the first time, which would it be? Why?",
+      "critical": "Some parts of this rhinoceros look real and some look made up. Which parts could be real? Which parts might be guesses?"
+    },
+    "g35": {
+      "daily": "Dürer drew this animal from a description and a sketch, not from life. What choices did he make to make it look real?",
+      "emotion": "What feeling does the print give you about the animal? Which lines or patterns create that feeling?",
+      "observation": "Look slowly from the horn to the feet to the tail. What details do you notice that you might have missed?",
+      "analysis": "How does Dürer use the whole page to make the rhinoceros look large and important?",
+      "line": "How do the many short and long lines work together to show skin, folds, and shadow?",
+      "shape": "The skin is drawn with shapes like plates. How do they make the animal feel protected or heavy?",
+      "color": "The print uses only dark ink on light paper. How does the artist show shadow without any other colors?",
+      "texture": "How does Dürer make the skin look rough and armored using only lines?",
+      "space": "The animal fills most of the page. What does that choice tell us about what Dürer wanted us to notice?",
+      "light": "How do areas of thick lines and areas of open paper show light and shadow?",
+      "meaning": "Why might people in 1515 have wanted to see a picture of an animal they had never seen?",
+      "culture": "A live rhinoceros was sent to Portugal in 1515 and caused great excitement. How do people today share news of rare animals?",
+      "technique": "A woodcut is carved so that the lines stay raised and the rest is cut away. How might this method affect how detailed the lines can be?",
+      "personal": "Have you ever drawn something you had only heard about? How did you decide what it would look like?",
+      "critical": "If many people saw only this picture, what might they believe about rhinoceroses? What could be wrong?"
+    },
+    "g68": {
+      "daily": "How does this print mix careful observation and imagination to create a convincing animal?",
+      "emotion": "Does the rhinoceros seem threatening, dignified, or something else? What details support your view?",
+      "observation": "List the animal's features from head to tail. Which details seem real, and which seem invented?",
+      "analysis": "How does the composition show the animal's size and strength using a simple side view?",
+      "line": "How do hatching and curved lines show the folds and ridges of the skin?",
+      "shape": "How does the pattern of plates and bumps turn the animal into something like a suit of armor?",
+      "color": "There is no color here. How does the contrast between dark ink and bright paper shape what we notice?",
+      "texture": "How does Dürer suggest rough, thick skin on a flat paper surface?",
+      "space": "There is little background. How does that focus attention, and what is lost?",
+      "light": "How do areas of dense line and bare paper work like light and shadow?",
+      "meaning": "This image was based on secondhand information. What does that tell us about how people learned about distant places?",
+      "culture": "A rhinoceros was sent to Portugal in 1515. Why might rare animals have been important gifts between rulers?",
+      "technique": "How did printing from woodblocks change who could own pictures like this?",
+      "personal": "Think of a time when you had to describe something you could not see. How did you decide what to say?",
+      "critical": "Dürer's rhinoceros was copied for hundreds of years even though it was inaccurate. Why might a wrong image still be trusted?"
+    },
+    "g910": {
+      "daily": "How does Dürer transform a secondhand description into a convincing, memorable image?",
+      "emotion": "How does the print balance awe and menace? Which formal choices create each?",
+      "observation": "Describe the print's visual hierarchy. What do you notice first, second, and third, and what causes that order?",
+      "analysis": "Analyze how the side view and the large scale on the page give the animal monumentality.",
+      "line": "How do the density and direction of lines build volume without color or tone washes?",
+      "shape": "How does the repeated pattern of armor-like plates abstract and organize the animal's body?",
+      "color": "How does the limited palette of black ink and paper affect the clarity and drama of the image?",
+      "texture": "How does the printmaker use line to translate the texture of thick skin into a pattern?",
+      "space": "What does the near absence of background suggest about the print's purpose compared with a landscape or narrative scene?",
+      "light": "How do tonal contrasts compensate for the absence of a clear light source?",
+      "meaning": "How does the image show the gap between observation and assumption in early scientific illustration?",
+      "culture": "How did the circulation of prints in early 16th-century Europe shape what ordinary people could know about distant places?",
+      "technique": "How does the woodcut process, in which lines stay raised, shape the look of the image compared with engraving?",
+      "personal": "Where have you accepted an image or description as true that you later found to be inaccurate?",
+      "critical": "How should we judge a historical image that is beautiful but factually wrong? What is its value?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the print itself about how Dürer balanced description and invention, and what remains uncertain?",
+      "emotion": "How does the print generate wonder, and how might that wonder have encouraged viewers to overlook inaccuracies?",
+      "observation": "Describe the print's formal construction precisely. Where does careful description start to feel like interpretation?",
+      "analysis": "Analyze how Dürer organizes the animal's body into a system of repeated forms, and what that system accomplishes.",
+      "line": "How does the use of line in a woodcut contrast with the way engraving could render fine detail, and what does the artist gain?",
+      "shape": "How does the ornamental regularity of the animal's plating blur the line between natural history and decoration?",
+      "color": "How does the restriction to black ink affect how viewers might have judged the animal's realism?",
+      "texture": "How does pattern replace surface description in the rendering of skin, and what does that say about early modern conventions of representation?",
+      "space": "How does the print's isolation of the animal from any setting support its role as an object of display or study?",
+      "light": "In what ways does tonal structure in a woodcut substitute for observed light, and what are the limits of that substitution?",
+      "meaning": "How can a print that mixes fact and invention be understood as both evidence and artwork?",
+      "culture": "How do the rhinoceros's journey to Portugal and the print's circulation illustrate early global networks of exchange and knowledge?",
+      "technique": "How do reproduction and wide distribution complicate ideas of originality and authority for this image?",
+      "personal": "How do your own assumptions about authority and accuracy shape your response to an image that is persuasive but incorrect?",
+      "critical": "What standards of evidence would you use to decide how much of this image comes from reports, sketches, and tradition rather than direct observation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Rhinoceros) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A woodcut dated 1515 by Albrecht Dürer of Nuremberg. A live rhinoceros reached Lisbon that year, and Dürer is generally understood to have worked from a description and sketch rather than from the animal itself.",
+    "vocabulary": [
+      "woodcut",
+      "print",
+      "impression",
+      "hatching",
+      "natural history",
+      "Renaissance"
+    ],
+    "directions": [
+      "Compare the print with a photograph of a rhinoceros and list the differences and the possible reasons for them.",
+      "Have students draw an animal from a spoken description given by a partner, then compare results.",
+      "Discuss how copying and sharing images can spread mistakes as well as knowledge."
+    ]
+  }
+}

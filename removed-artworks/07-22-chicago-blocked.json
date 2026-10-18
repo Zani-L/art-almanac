@@ -1,0 +1,151 @@
+{
+  "id": "artic-64001",
+  "day": "07-22",
+  "title": "Apples",
+  "artist": "Henri Matisse",
+  "date": "1916",
+  "medium": "Oil on canvas",
+  "movement": "Modernism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/b2bc0fc2-8d17-1fcd-8cae-8626421c11ef/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Florene May Schoenborn and Samuel A. Marx",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A still life of apples on a table, painted in simplified shapes with flat areas of color. Bright yellow and strong black are important in the picture, and the fruit is not shown in fine detail.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/64001",
+    "objectId": "64001",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, subjects (apples, tables, food, fruit, still life, yellow), is_public_domain true and image_id read from the record"
+  },
+  "context": "Henri Matisse, a French artist, painted Apples in 1916 in oil on canvas. The Art Institute of Chicago notes that he made both an abstract and a representational version of the composition and used black as a color of light in the background.",
+  "descriptions": {
+    "k": "Look at the apples on the table. They are round and simple. The painter used bright yellow and a strong black. Which color do you see first? Which apple would you pick up?",
+    "g12": "Henri Matisse painted apples on a table in France more than one hundred years ago. He did not paint every tiny detail. He used simple round shapes and strong colors like yellow and black. Find the apples. How do the bright colors and the dark black make you feel?",
+    "g35": "Henri Matisse was a French painter who loved bold color. In Apples, from 1916, the fruit on a table is made of simple shapes and flat patches of paint instead of tiny details. Yellow brightens the picture, and black is used like a color, not only for shadows. Look closely: where do the apples seem to glow, and what makes them stand out?",
+    "g68": "In 1916 Matisse painted a familiar subject, apples on a table, but treated it as an experiment in simplification. Shapes are flattened, edges are clear, and large areas of color replace careful shading. The museum notes that he used black as a color of light, which reverses the usual idea that black means darkness. He also made both an abstract and a representational version, showing how he tested how much a picture could leave out.",
+    "g910": "Apples shows Matisse reducing a still life to structure and color. Rounded fruit, table, and background are organized as areas of tone more than as objects modeled by light and shadow. Black is not a void here; the Art Institute describes it as a color of light, so it energizes the yellows around it. Matisse also painted abstract and representational versions of this composition, which suggests that he was testing how far design could go before the apples stopped reading as apples.",
+    "g1112": "Painted in 1916, Apples sits within Matisse's long inquiry into how color and pattern can build space without conventional perspective or modeling. The museum's observation that black functions as a color of light complicates the assumption that dark tones recede or describe shadow. Matisse's parallel abstract and representational versions invite questions about where recognition ends and design begins. Because the painting depends on simplified forms rather than description, viewers can reasonably disagree about whether its power lies in the apples themselves or in the relationships among shapes."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which apple would you pick up first? Show where it is in the picture.",
+      "emotion": "Do the apples look cheerful or serious to you? What colors make you feel that?",
+      "observation": "How many apples can you count? Point to the biggest one.",
+      "analysis": "Where does your eye land first, on the yellow or the black? Why do you think so?",
+      "line": "Trace the edge of one apple with your finger. Is it curvy or straight?",
+      "shape": "Apples are round. What other shapes can you find around them?",
+      "color": "Find the yellow. Then find the black. How do they look next to each other?",
+      "texture": "The apples are painted flat and smooth. How would a real apple feel in your hand?",
+      "space": "Are the apples sitting on the table or floating? What tells you?",
+      "light": "Which part of the picture looks like it is glowing? Why do you think that?",
+      "meaning": "Imagine who put these apples here. What happened just before this picture?",
+      "culture": "Fruit is a food people share all over the world. When do you eat apples?",
+      "technique": "The painter used thick, flat patches of paint. Which part do you think he painted first?",
+      "personal": "What is your favorite fruit? How would you paint it with just three colors?",
+      "critical": "The apples are not painted with tiny details. Does the picture still seem like apples to you? Why?"
+    },
+    "g12": {
+      "daily": "Matisse used simple shapes for these apples. Which shape looks most like a real apple to you, and why?",
+      "emotion": "How does the mix of bright yellow and dark black make you feel? Point to the part that causes that feeling.",
+      "observation": "List five things you see in this painting, from the apples to the table to the background.",
+      "analysis": "How does Matisse make your eyes move from one apple to the next?",
+      "line": "Look at the edges around the apples. Are they thick, thin, soft, or sharp? How do they change the look of the fruit?",
+      "shape": "The apples are round, but the table and background have other shapes. How do the shapes fit together like a puzzle?",
+      "color": "Yellow and black are very different. What happens to the yellow when it sits near the black?",
+      "texture": "The apples look smooth in this painting. What clues show smooth paint or smooth skin?",
+      "space": "Do the apples look close to you or far away? Which parts overlap to help you decide?",
+      "light": "In this painting, black helps the colors glow. Where does the light seem to come from?",
+      "meaning": "If these apples could tell a story about the room, what would they say?",
+      "culture": "Still life paintings of fruit have been made in many places. What does a painting of food say about daily life?",
+      "technique": "Matisse left out tiny details on purpose. What do you notice that he kept?",
+      "personal": "If you arranged apples on a table to paint, how would you set them up? Draw or describe it.",
+      "critical": "Matisse painted this picture two ways, one more abstract. Which way do you think looks more like apples, and why?"
+    },
+    "g35": {
+      "daily": "How can a few simple shapes and colors still make us believe we are looking at apples? Use details from the painting.",
+      "emotion": "What mood does the strong contrast between yellow and black create? Which parts of the painting cause it?",
+      "observation": "Spend a minute with the painting. What do you notice now that you did not see in the first few seconds?",
+      "analysis": "How are the apples, the table, and the background arranged to lead your eye through the picture?",
+      "line": "How do the outlines of the apples differ from the lines that make up the table and background?",
+      "shape": "How does Matisse repeat round shapes, and how do other shapes balance them?",
+      "color": "Black is used like a color here. How does it change the way the yellow and other colors look?",
+      "texture": "Matisse uses flat patches of paint instead of showing every bump. How does that change the feel of the fruit?",
+      "space": "This painting does not use deep, realistic perspective. How does Matisse still show where the apples sit?",
+      "light": "Instead of using shadows, how does Matisse suggest light? Point to places where it seems to shine.",
+      "meaning": "Matisse chose an ordinary subject, apples on a table. What might a simple subject let him explore?",
+      "culture": "Matisse was a French artist working in the early 1900s. What do you think artists of that time wanted to try that was new?",
+      "technique": "Matisse made abstract and realistic versions of this composition. What might he have learned from doing both?",
+      "personal": "Think of an ordinary object you see every day. How could you make it look special in a painting?",
+      "critical": "Does a painting need small, careful details to be good? Give evidence from Apples for your opinion."
+    },
+    "g68": {
+      "daily": "How does Matisse turn a plain still life into a lesson in color and design? Cite specific parts of the painting.",
+      "emotion": "What feeling comes from the strong contrast of yellow and black, and which decisions by Matisse create it?",
+      "observation": "Describe the painting from top to bottom as if to someone who cannot see it. What parts are hardest to describe?",
+      "analysis": "How do the placement and size of the apples organize the composition, and what would change if one apple were removed?",
+      "line": "How do clear edges and simplified outlines affect the way you read the fruit and table?",
+      "shape": "How does Matisse balance repeating round forms against the flatter shapes around them?",
+      "color": "The museum says black acts as a color of light. Where do you see black working that way, and what does it do for the yellow?",
+      "texture": "How does Matisse suggest the feel of fruit and wood without painting every detail? Is the result convincing?",
+      "space": "How can the painting feel flat and deep at the same time? Look at how objects overlap and where edges meet.",
+      "light": "How does Matisse create a sense of glow without conventional shading? Compare this with a painting that uses strong shadows.",
+      "meaning": "Why might an artist in 1916 choose a calm subject like apples to experiment with abstraction?",
+      "culture": "Still life has a long history in European art. How does Matisse both continue and break from that tradition?",
+      "technique": "Matisse painted both abstract and representational versions. How might working both ways change the decisions he made?",
+      "personal": "Which choice in this painting would you copy in your own art, and which would you change?",
+      "critical": "At what point does simplification make a painting lose its subject? Where does Apples sit on that line?"
+    },
+    "g910": {
+      "daily": "How does Matisse make color and pattern carry the picture, so that the apples feel important without detailed realism?",
+      "emotion": "How do the painting's contrasts, especially yellow against black, generate energy or tension?",
+      "observation": "Describe the visual hierarchy of the painting. Which areas lead and which support, and by what means?",
+      "analysis": "Analyze how the apples relate to the table and background as a structure rather than as separate objects.",
+      "line": "How do the edges of forms function in the absence of heavy modeling? Where is outline strongest?",
+      "shape": "How does the interplay of rounded fruit and surrounding planes create rhythm across the canvas?",
+      "color": "The Art Institute describes black as a color of light. How does that idea challenge the usual associations of black with shadow?",
+      "texture": "How does Matisse communicate material differences between fruit and surroundings through paint handling rather than detail?",
+      "space": "How does the painting compress depth while preserving a sense of objects resting on a surface?",
+      "light": "If light is created by color relationships rather than shadows, how does that change what we mean by illumination in a painting?",
+      "meaning": "What might the choice of an everyday subject allow Matisse to say about looking itself?",
+      "culture": "How does Apples reflect the early twentieth-century shift in French art from describing the world to constructing images from color and form?",
+      "technique": "Why might a painter produce abstract and representational versions of the same composition, and what does each reveal?",
+      "personal": "How does your own response to the painting change when you stop looking for apples and look only at shapes and color?",
+      "critical": "Is a modernist still life more or less honest than a realistic one? Support your position with evidence from this painting."
+    },
+    "g1112": {
+      "daily": "What does Apples suggest about the relationship between recognizable subject matter and the structure of color and form?",
+      "emotion": "How does the painting generate affect through contrast and economy rather than through narrative or expression? Is that response stable across viewers?",
+      "observation": "Describe the formal construction of the painting precisely. At what point does description depend on interpretation?",
+      "analysis": "Analyze the painting as a system of relations among fruit, table, and ground. Which relationships carry the most weight?",
+      "line": "How does the reduced, planar handling of edges shape the painting's position between representation and design?",
+      "shape": "How do repeated and contrasting forms generate rhythm, and how does that rhythm operate independently of the apples as subject?",
+      "color": "If black can operate as a color of light, what does that imply about the conventions it overturns? Where in this work is the reversal most convincing?",
+      "texture": "In a painting that minimizes descriptive surface detail, how is material presence still conveyed, if at all?",
+      "space": "How does Matisse reconcile surface flatness with the cues that place objects in a room? What does he gain by refusing a single viewpoint's logic?",
+      "light": "Consider light as an effect of color relationships here. How does this approach differ from the tonal modeling of earlier European still life?",
+      "meaning": "Evaluate the claim that Apples is about painting itself rather than about fruit. What evidence supports and complicates that reading?",
+      "culture": "How might the painting's dual abstract and representational versions position Matisse within debates about modern art in early twentieth-century Paris?",
+      "technique": "What might the existence of two versions of one composition reveal about Matisse's process and his attitude to completion?",
+      "personal": "How do your expectations about what a painting should show affect your judgment of this one, and where might they limit your reading?",
+      "critical": "Given limited documentation of Matisse's intentions for this specific picture, what claims about its meaning can be defended, and which are speculative?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (apples, tables, food, fruit, still life, yellow), classification, and medium checked against the Art Institute of Chicago record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1916 by Henri Matisse. The museum notes that he made abstract and representational versions of the composition and used black as a color of light.",
+    "vocabulary": ["still life", "modernism", "flat color", "contrast", "abstraction", "composition"],
+    "directions": [
+      "Have students arrange three fruits and draw them twice: once as realistically as possible and once with only flat shapes and bold colors.",
+      "Ask students to cover the black areas with paper and describe how the yellow changes, then uncover and compare.",
+      "Discuss with pairs: what can a painter leave out and still make a viewer see apples?"
+    ]
+  }
+}

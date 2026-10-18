@@ -1,0 +1,160 @@
+{
+  "id": "met-10497",
+  "day": "02-22",
+  "title": "View from Mount Holyoke (The Oxbow)",
+  "recordTitle": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm—The Oxbow",
+  "artist": "Thomas Cole",
+  "date": "1836",
+  "medium": "Oil on canvas",
+  "movement": "Hudson River School",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-12550-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP-12550-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Russell Sage, 1908",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide landscape seen from a high hilltop. On the left, dark storm clouds hang over a wild, wooded slope. On the right, sunlit farm fields and a big curving bend of a river stretch into the distance, and a tiny painter with an easel can be found among the rocks in the lower part of the picture.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/10497",
+    "objectId": "10497",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Rivers, Mountains, Landscapes, Pastoral, Storms) and image URLs read from the record"
+  },
+  "context": "An oil painting by Thomas Cole, dated 1836, showing the bend of the Connecticut River seen from Mount Holyoke in Massachusetts after a thunderstorm. Cole was born in England and became a leading figure of the Hudson River School of American landscape painting.",
+  "descriptions": {
+    "k": "A big river bends through green land. On one side, dark storm clouds hang over wild trees. On the other, the sun shines on farms. Can you find the tiny painter hiding in the picture?",
+    "g12": "Thomas Cole painted the view from a high hill after a thunderstorm. On the left, the land is wild and the sky is dark. On the right, farms glow in the sun. A river bends like a big letter U. Look closely for a tiny painter with an easel. Why might the artist show himself so small?",
+    "g35": "Thomas Cole painted this view in 1836 from Mount Holyoke in Massachusetts. A storm is passing on the left, while on the right the sun lights farm fields and a wide bend of the Connecticut River called an oxbow. Look in the lower part of the picture for a tiny artist painting among the rocks. What differences do you see between the wild side and the farmed side?",
+    "g68": "Cole divides this view like two worlds: a dark, untamed slope and storm clouds on the left, and bright, orderly farmland on the right, joined by the winding river. Many viewers read it as a comment on wilderness and settlement, though Cole does not tell us which he prefers. Notice the tiny figure of the artist in the lower part of the scene, which shows how small people can seem next to nature. Cole was a founder of the Hudson River School, which celebrated American scenery.",
+    "g910": "In The Oxbow, Cole organizes the American landscape around a dramatic contrast: a wild, storm-struck slope at left against sunlit, cultivated fields at right, linked by the curving river. The viewer looks down and across from a high vantage point, which creates a sense of grandeur. A tiny self-portrait of Cole at his easel adds a human scale. Scholars debate whether the painting praises progress, warns about losing wilderness, or tries to balance both, and it invites you to weigh the visual evidence.",
+    "g1112": "Painted in 1836 for an audience in a rapidly changing young nation, The Oxbow stages the American landscape as a drama of light and weather. The storm-darkened wilderness at left and the sunlit, farmed valley at right can be read as opposing ideals, or as parts of one view held together by the river's sweeping curve. The tiny figure of the artist at his easel complicates the picture further by making the act of looking part of the subject. Interpretations range from celebration of settlement to elegy for wilderness; the painting rewards close reading without offering a single definitive meaning."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the tiny painter in the picture? Where is he hiding?",
+      "emotion": "Which side of this picture feels scary and which feels calm? Point to each side.",
+      "observation": "What do you see on the right side of the picture? Name three things.",
+      "analysis": "Where do your eyes go first? What did you notice next?",
+      "line": "Trace the river with your finger. Does it go straight or does it bend?",
+      "shape": "The river makes a big curve like a hook. What other things have a curve like that?",
+      "color": "Which side has darker colors? Which side has brighter colors?",
+      "texture": "Do the trees on the left look rough or smooth? What do you think the green fields would feel like?",
+      "space": "What is closest to you in this picture? What is far, far away?",
+      "light": "Where is the sun shining on the land? Where is it still dark?",
+      "meaning": "The storm is passing. What do you think will happen to the land next?",
+      "culture": "Farmers have worked this land by a river for a long time. What do you think a farmer there might grow?",
+      "technique": "The painter used oil paint to make clouds. How do the clouds look soft and heavy?",
+      "personal": "Have you ever stood on a high hill or in a tall building and looked down? What did you see?",
+      "critical": "The artist made himself very small. Why do you think he did that?"
+    },
+    "g12": {
+      "daily": "What do you notice first about the wild side and the farm side? What differences can you find?",
+      "emotion": "How does the stormy side of this painting make you feel? How does the sunny side feel?",
+      "observation": "Describe five things you can find in the picture, from the clouds to the river.",
+      "analysis": "How does the river lead your eyes from the front of the picture to the back?",
+      "line": "Follow the winding line of the river. How does it help the picture feel peaceful?",
+      "shape": "Look at the neat patches of fields on the right. How are their shapes different from the trees on the left?",
+      "color": "Which colors show the storm and which show the sunny fields? How do they work together?",
+      "texture": "How do the artist's brushstrokes show what is leafy, rocky, or smooth?",
+      "space": "How does the artist show that the valley is very wide and far away?",
+      "light": "Where does the sunlight break through the clouds? How does it make the land glow?",
+      "meaning": "Why might Cole put a tiny painter into a huge landscape? What could that say about people and nature?",
+      "culture": "The river bend is in Massachusetts. How might people who lived near it have used the land?",
+      "technique": "Cole made the clouds look heavy using paint. Where can you see lighter and darker paint?",
+      "personal": "What is your favorite place in nature? How is it like or different from this view?",
+      "critical": "Do you think the wild side or the farm side is more beautiful? What parts of the painting help you decide?"
+    },
+    "g35": {
+      "daily": "What story do you think Cole tells by putting a storm on one side of the painting and sunlight on the other?",
+      "emotion": "How do the storm clouds, the bright valley, and the quiet river combine to give this painting its mood?",
+      "observation": "After one minute of silent looking, what small details do you find in the farm fields and in the foreground?",
+      "analysis": "How does Cole use the curve of the river and the high viewpoint to organize the whole landscape?",
+      "line": "Compare the sweeping curve of the river with the jagged, broken trees on the left. How do these lines affect the mood?",
+      "shape": "The land on the right is divided into patches. How do these tidy shapes differ from the shapes on the wild slope?",
+      "color": "How do the dark greens and grays on one side contrast with the light yellows and greens on the other?",
+      "texture": "Which parts of the painting look thick and tangled, and which look smooth and neat? How does Cole show the difference?",
+      "space": "Cole paints from a high place looking down and out. How does that choice make the valley look huge?",
+      "light": "Where does the light fall, and where is the shadow? What does the light tell you about the weather?",
+      "meaning": "The painting includes both wild nature and farmland. What might Cole be saying about how people change the land?",
+      "culture": "In 1836 more people were settling and farming across the United States. How might this painting reflect that time?",
+      "technique": "Cole made studies outdoors and then painted the large canvas in his studio. Why might that help him?",
+      "personal": "Think of a time you climbed up to see a big view. What did you feel, and how is it like this painting?",
+      "critical": "The tiny painter is easy to miss. Why might Cole have hidden himself in the scene instead of making himself bigger?"
+    },
+    "g68": {
+      "daily": "How does the painting set up a contrast between two halves of the landscape, and what does it ask you to think about?",
+      "emotion": "How does Cole use weather to shape feeling, moving from storm on one side to calm on the other?",
+      "observation": "Scan the picture from the foreground to the horizon. Which details are painted in the most careful detail?",
+      "analysis": "How does the diagonal slope on the left and the river's curve on the right organize the composition?",
+      "line": "How does the winding line of the river guide your eye, and how do the diagonals of the hillside work against it?",
+      "shape": "How does the large oxbow curve dominate the landscape, and how do smaller shapes of fields and trees support it?",
+      "color": "How does Cole use dark storm colors against fresh, bright greens to create drama and focus?",
+      "texture": "How does he paint the tangled foreground trees differently from the smooth distant fields?",
+      "space": "How do foreground, middle ground, and background combine with the high vantage point to produce a sense of vast space?",
+      "light": "The light breaks through behind the storm. How does it make the valley seem like a stage lit from above?",
+      "meaning": "What different messages might viewers take from a scene that shows both wilderness and farms?",
+      "culture": "How might Cole's painting have shaped the way Americans saw their own landscape in the 1830s?",
+      "technique": "How might Cole's work from sketches and memory in a studio help him combine a real view with a dramatic mood?",
+      "personal": "What would you want to do if you stood at the artist's place on that hill?",
+      "critical": "The painting shows only farms and trees. What questions might you ask about the people who lived on this land before and during this time?"
+    },
+    "g910": {
+      "daily": "How does Cole's high vantage point and divided composition turn a regional view into an argument about the American landscape?",
+      "emotion": "How does the interplay of storm and sunlight produce an emotional charge that goes beyond simple description?",
+      "observation": "Describe the visual hierarchy: what first draws your attention, and what rewards a longer look?",
+      "analysis": "Analyze how diagonals, curves, and light combine to structure the painting's depth and drama.",
+      "line": "How does the sinuous curve of the river function as a unifying device in the face of the picture's strong contrasts?",
+      "shape": "How do the jagged forms of the broken trees compare with the geometric grid of the fields in terms of meaning?",
+      "color": "How do cool, shadowed tones on the left and warm, bright tones on the right create an emotional axis across the canvas?",
+      "texture": "How does Cole differentiate foliage, rock, and distant fields through the handling of paint?",
+      "space": "How does the combination of high viewpoint and atmospheric haze create both a sense of grandeur and a sense of distance?",
+      "light": "How does the beam of light across the valley act as a dramatic and symbolic device?",
+      "meaning": "How might the tiny figure of the painter shift the painting from a landscape alone to a statement about observation and artistic vision?",
+      "culture": "How does the picture reflect ideas about nature, progress, and national identity in the United States of the 1830s?",
+      "technique": "How does Cole's practice of combining outdoor sketches with studio composition show in the painting's balance of fact and invention?",
+      "personal": "How does your relationship to wild or cultivated places shape which side of the painting you find more compelling?",
+      "critical": "Does the painting celebrate settlement, mourn the loss of wilderness, or leave the question open? What visual evidence supports your reading?"
+    },
+    "g1112": {
+      "daily": "What competing readings does this landscape allow, and which visual evidence most strongly supports each?",
+      "emotion": "How does the painting use the sublime and the pastoral, two different emotional registers, within a single view?",
+      "observation": "Describe the painting's formal construction with precision. Where does careful description begin to imply a judgment?",
+      "analysis": "Analyze how the picture's division into wilderness and cultivation is both emphasized and softened by the river and light.",
+      "line": "How does the painting's dependence on the sweeping curve of the river and the long diagonal of the slope shape the viewer's reading path?",
+      "shape": "How does the contrast of organic wilderness forms with the patchwork of fields frame the picture's central tension?",
+      "color": "How do color temperature and tonal range convey narrative as well as description in the passage from storm to sun?",
+      "texture": "How do varied degrees of finish between the foreground and the distance reflect conventions of landscape painting at the time?",
+      "space": "How does the elevated viewpoint position the viewer in relation to the land, and what ideology of looking might that imply?",
+      "light": "In what ways does the clearing storm function as both observed weather and as dramatic, possibly symbolic, structure?",
+      "meaning": "Evaluate readings of the painting as a celebration of settlement, a warning about its costs, or a balance of both. Which is best supported, and which is speculative?",
+      "culture": "What perspectives on this landscape and its earlier and current inhabitants are absent from the painting, and how does that shape its claims?",
+      "technique": "What does Cole's method of studio composition from studies reveal about the relationship between observation and invention in the Hudson River School?",
+      "personal": "How does your own cultural position shape your reaction to a picture that frames land as scenery, and how might it limit your interpretation?",
+      "critical": "Given that Cole left few explicit statements about this picture's meaning, what standards of evidence should govern interpretation of it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Rivers, Mountains, Landscapes, Pastoral, Storms), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The storm is a passing thunderstorm in a landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1836 by Thomas Cole, who was born in England and became a leading painter of the Hudson River School. The view is from Mount Holyoke in Massachusetts and shows a bend in the Connecticut River.",
+    "vocabulary": [
+      "Hudson River School",
+      "landscape",
+      "oxbow",
+      "pastoral",
+      "vantage point",
+      "foreground and background"
+    ],
+    "directions": [
+      "Ask students to divide a sheet in half and list what belongs to the wild side and what belongs to the farmed side.",
+      "Have students find the tiny painter and discuss why an artist might include himself in a landscape.",
+      "Discuss whose perspectives landscape paintings of this period may leave out, such as the Native peoples who lived in the region."
+    ]
+  }
+}

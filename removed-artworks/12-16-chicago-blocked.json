@@ -1,0 +1,158 @@
+{
+  "id": "artic-60294",
+  "day": "12-16",
+  "title": "New York Street",
+  "artist": "Childe Hassam",
+  "date": "1902",
+  "medium": "Oil on canvas",
+  "movement": "American Impressionism",
+  "region": "United States (New York City)",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/8ed7e389-dbe7-ed35-ade2-fe7743943479/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Bequest of Edna H. Loewenstein",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A winter city street scene painted in quick, dabbed brushstrokes, mostly in gray tones with bright touches of red and yellow, showing Fifth Avenue beside Central Park in New York.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/60294",
+    "objectId": "60294",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1980.289, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting made in 1902 by Childe Hassam, an American artist who learned to paint in Paris and brought French Impressionist methods to American cities. The Art Institute describes it as a winter view of Fifth Avenue beside Central Park, painted with quick, dabbed strokes and bright red and yellow accents that add color and motion to a mostly gray street.",
+  "descriptions": {
+    "k": "This is a street in a big city in winter. Most of the colors are gray, but there are bright dots of red and yellow. Can you find them? Where do you think the people are going?",
+    "g12": "Childe Hassam painted a busy winter street in New York City. Most of the colors are gray and cold, but little spots of red and yellow pop out. He used quick dabs of paint. What do the bright spots remind you of?",
+    "g35": "Childe Hassam painted this winter scene of Fifth Avenue beside Central Park in New York in 1902. He used quick, dabbed strokes and mostly gray colors, with bright red and yellow accents that add life and motion. Why might a few bright colors matter so much in a gray scene?",
+    "g68": "In New York Street (1902), Childe Hassam applied the Impressionist methods he learned in Paris to an American city. The view of Fifth Avenue beside Central Park in winter is mostly gray, but quick, dabbed strokes and red and yellow accents bring color and motion. How does Hassam use small touches of bright color to give a cold city scene energy?",
+    "g910": "Hassam's New York Street (1902) transposes French Impressionist technique onto a winter Fifth Avenue beside Central Park. Dabbed strokes keep the surface lively, while accents of red and yellow animate a palette of grays. The painting treats the American city as a subject for modern painting. How do restraint and accent together express the rhythm of urban life?",
+    "g1112": "Hassam's New York Street (1902), a winter view of Fifth Avenue along Central Park, adapts French Impressionist handling to the American metropolis, enlivening a gray palette with dabs of red and yellow. The surface registers motion, weather, and atmosphere rather than architectural detail. How does the picture balance tonal restraint with chromatic accent, and what does it suggest about how modern painters might represent the experience of the city?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many bright red or yellow spots can you find?",
+      "emotion": "Does this street feel cold, busy, or cozy? What do you see that tells you?",
+      "observation": "Look at the street. What do you think is happening on it?",
+      "analysis": "Why do you think the painter added bright colors to a gray day?",
+      "line": "Trace a street line with your finger. Where does it lead?",
+      "shape": "What shapes do you see in the buildings and the trees?",
+      "color": "Which colors are the most common? Which are the surprises?",
+      "texture": "Does the paint look dabbed, smooth, or both? What tells you?",
+      "space": "Is the street close to you or far away? How can you tell?",
+      "light": "Where does the picture look the lightest?",
+      "meaning": "Why do people walk through parks in a big city?",
+      "culture": "What do you like to see on a walk in winter?",
+      "technique": "The painter used quick little dabs. How is that different from long, smooth lines?",
+      "personal": "If you stepped into this street, which way would you walk?",
+      "critical": "What would you add to this winter street?"
+    },
+    "g12": {
+      "daily": "How many red or yellow spots can you find? Point to them.",
+      "emotion": "Does this street feel chilly, busy, or friendly? Show us what you see that tells you.",
+      "observation": "Describe what you think is on the street. Who might be there?",
+      "analysis": "Why do you think most of the picture is gray?",
+      "line": "Follow the line of the street with your finger. Where does it end?",
+      "shape": "Which tall shapes do you see? Which short shapes?",
+      "color": "Which two bright colors stand out the most against the gray?",
+      "texture": "The paint looks like little dabs. Does the picture feel smooth or bumpy?",
+      "space": "Which parts seem close to you and which seem far down the street?",
+      "light": "Where is the picture the lightest?",
+      "meaning": "Why do you think people like to walk in a park in the city?",
+      "culture": "What do you wear when it is cold outside?",
+      "technique": "The painter dabbed the paint quickly. How might that be like drawing with dots?",
+      "personal": "If you walked down this street, what would you want to see?",
+      "critical": "What would you change to make the street warmer?"
+    },
+    "g35": {
+      "daily": "Which spots of color catch your eye first in the gray street?",
+      "emotion": "What kind of weather do you think it is? What shows you?",
+      "observation": "Name three things you can find on this city street.",
+      "analysis": "Why do you think the painter made most of the picture gray?",
+      "line": "Follow the lines of the street and the buildings with your eyes. Where do they take you?",
+      "shape": "Which shapes are tall and which are short?",
+      "color": "How do the red and yellow spots look against the gray?",
+      "texture": "How can you see the painter's small dabs of paint?",
+      "space": "How does the street seem to go back into the distance?",
+      "light": "Where does the light seem softest or brightest?",
+      "meaning": "What might the painter have enjoyed about a winter day in the city?",
+      "culture": "This street is in New York City. What can you tell about a big city from the painting?",
+      "technique": "Why might the painter paint quickly instead of drawing every detail?",
+      "personal": "Think of a busy place you know. What bright spots would you paint there?",
+      "critical": "Do you think a gray picture can still feel full of life? Explain your thinking."
+    },
+    "g68": {
+      "daily": "What do you notice first, and what pulls your eye there?",
+      "emotion": "How do the cold grays and warm accents create a mood?",
+      "observation": "Describe the street scene. What do you think is happening here?",
+      "analysis": "How does the painter organize the street, buildings, and sky?",
+      "line": "How do lines of the street and buildings create depth and movement?",
+      "shape": "How do large shapes of buildings contrast with small touches of detail?",
+      "color": "How do small red and yellow dabs make the gray tones feel different?",
+      "texture": "How can you tell the paint was applied quickly in small touches?",
+      "space": "How does the painter create a feeling of a deep street on a flat canvas?",
+      "light": "How does winter light affect the colors and shadows?",
+      "meaning": "Why might an American painter in 1902 want to paint a city street instead of a country scene?",
+      "culture": "What does the painting show about how American artists used ideas from French Impressionism?",
+      "technique": "How does the lively surface make the city seem alive?",
+      "personal": "What would you notice if you walked along this street?",
+      "critical": "How is a busy city represented differently here than in a photograph?"
+    },
+    "g910": {
+      "daily": "How does the composition organize street, buildings, and park into a coherent urban view?",
+      "emotion": "How do the subdued grays and accents of red and yellow shape the emotional tone of the scene?",
+      "observation": "Examine how the figures and movement of the street are suggested rather than detailed. What effect does this have?",
+      "analysis": "Analyze how the perspective of the avenue guides the eye into the distance.",
+      "line": "How do the diagonals of the street and the verticals of buildings create dynamic structure?",
+      "shape": "How does the dabbed handling turn architecture and trees into patterns of marks?",
+      "color": "How do small bright accents function as visual punctuation within a restrained palette?",
+      "texture": "What does the visible, broken brushwork reveal about the artist's interest in atmosphere and movement?",
+      "space": "How does the winter atmosphere affect the sense of space and distance?",
+      "light": "How does diffused light unify the scene while allowing color accents to stand out?",
+      "meaning": "How did Hassam's training in Paris shape the way he approached an American city?",
+      "culture": "How does this painting position New York as a worthy subject for modern art?",
+      "technique": "What might the painter be saying about energy and motion in modern urban life?",
+      "personal": "How does the painting suggest rather than describe the crowd and traffic of the street?",
+      "critical": "To what extent does a quickly handled painting capture the experience of a city more truthfully than a detailed one?"
+    },
+    "g1112": {
+      "daily": "How does the arrangement of avenue, buildings, and park establish a legible urban space while privileging atmosphere over description?",
+      "emotion": "In what ways do tonal restraint and sparse chromatic accents produce a mood that is both subdued and animated?",
+      "observation": "What interpretive possibilities arise from figures and traffic registered only as touches of color within the gray?",
+      "analysis": "Evaluate how the perspective of the avenue organizes recession while the surface remains insistently painterly.",
+      "line": "How do the interplay of diagonals and verticals create a tension between order and flux?",
+      "shape": "How does the translation of architecture and trees into fields of dabs reflect Impressionist priorities?",
+      "color": "How does the logic of accent, a few saturated notes in a muted field, function as a kind of visual rhythm?",
+      "texture": "What does the broken facture suggest about the temporality of perception in the modern city?",
+      "space": "How does the atmospheric treatment of winter space relate to the conception of the city as an environment rather than a collection of buildings?",
+      "light": "How does Hassam's handling of diffused light reconcile unity of tone with variety of touch?",
+      "meaning": "How did the transfer of French Impressionist technique to American subjects shape perceptions of national identity in art?",
+      "culture": "How does the painting contribute to the emergence of the American city as a subject for serious painting?",
+      "technique": "What does the picture suggest about the relationship between motion, color, and the experience of modernity?",
+      "personal": "How does the work challenge the idea that realism requires detail, and what does it propose instead?",
+      "critical": "To what extent does this painting present the city as inviting, indifferent, or both? Defend your view."
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (city street, winter, Fifth Avenue, Central Park, from the museum description) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1902 by Childe Hassam, an American artist who learned to paint in Paris and brought French Impressionist methods to American cities. The Art Institute describes it as a winter view of Fifth Avenue beside Central Park, painted with quick, dabbed strokes and bright red and yellow accents that add color and motion to a mostly gray street.",
+    "vocabulary": [
+      "Impressionism",
+      "cityscape",
+      "accent color",
+      "brushstroke",
+      "Fifth Avenue",
+      "winter scene"
+    ],
+    "directions": [
+      "Have students paint a gray street scene and add only two or three bright accent colors, then discuss how they change the picture.",
+      "Ask students to find the places where the painter used red and yellow and talk about why they stand out.",
+      "Discuss how artists show movement and energy in a place with traffic and crowds."
+    ]
+  }
+}

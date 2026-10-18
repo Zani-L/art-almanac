@@ -1,0 +1,158 @@
+{
+  "id": "artic-243872",
+  "day": "06-29",
+  "title": "A Boy Blowing on a Firebrand",
+  "artist": "Gerrit van Honthorst",
+  "date": "1621-22",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age (Utrecht Caravaggisti)",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/a151afcd-71e5-2c5b-abc9-f7e3167dd237/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Purchased with funds provided by the Old Masters Society, Julius Lewis and the Rhoades Foundation, Patrick G. and Shirley W. Ryan, and other donors (full credit line at artic.edu)",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A young boy in a feathered cap blows on a glowing firebrand, an ember on a stick, so that the red-orange light falls warmly on his face in an otherwise dark room.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/243872",
+    "objectId": "243872",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2018.135, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting made in the Netherlands in 1621-22 by Gerrit van Honthorst, shortly after he returned to Utrecht from studying in Rome. The Art Institute lists light, candles, children, feathers, costume and fire among its subjects. The scene belongs to a long tradition of images of a boy blowing on an ember, used by painters to study light, and goes back to a lost painting described by the ancient writer Pliny.",
+  "descriptions": {
+    "k": "A boy is blowing on a glowing stick of fire to make it brighter. The light makes his face warm and orange. Everything around him is dark. Can you puff your cheeks like him? Where is the light brightest?",
+    "g12": "Gerrit van Honthorst painted a boy blowing on a glowing ember. The fire is the only light in the dark room, so it lights up his face. He wears a cap with feathers. How does the glow change the way the boy looks?",
+    "g35": "Gerrit van Honthorst painted this boy in the Netherlands around 1621. He blows on a firebrand, a glowing stick, and the ember lights his face while the room stays dark. Painters loved this scene because it let them study how light works. Why would a painter want to paint a face lit by a tiny flame?",
+    "g68": "Honthorst painted A Boy Blowing on a Firebrand in 1621-22, soon after returning to Utrecht from studying in Rome. The glowing ember is the main light source, brightening the boy's face against a dark space. This subject has a long history, going back to a lost painting described by the Roman writer Pliny. How does lighting a face from one small source create drama?",
+    "g910": "In this 1621-22 painting, Honthorst, newly returned to Utrecht from Rome, shows a boy fanning an ember whose glow is the scene's only light. The subject echoes a lost ancient painting described by Pliny, and artists used it to test their command of light and shadow. A tiny flame becomes a large artistic claim. What does the picture suggest about the connection between light, attention, and skill?",
+    "g1112": "Honthorst's A Boy Blowing on a Firebrand (1621-22), painted soon after he returned to Utrecht from Rome, belongs to a long tradition tracing back to a lost painting described by Pliny. The ember is the sole source of illumination, so the entire image becomes an exercise in controlled light. How does a seemingly simple genre scene operate as a demonstration of artistic virtuosity, and how does its single light source shape intimacy, tension, and the viewer's attention?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What is the boy doing with his cheeks and mouth? Try it!",
+      "emotion": "Does this picture feel warm or cold? What do you see that tells you?",
+      "observation": "Find the glowing stick. Where is it?",
+      "analysis": "Why do you think the boy blows on the ember?",
+      "line": "Trace the line from the boy's mouth to the glow. What do you notice?",
+      "shape": "What shapes can you find in his hat and feathers?",
+      "color": "Which colors are brightest in the picture? Where are the dark colors?",
+      "texture": "Does his face look soft or rough? What about the stick?",
+      "space": "Is the boy close or far from you? How can you tell?",
+      "light": "Which part of the boy's face glows the most from the fire?",
+      "meaning": "Why might a painter choose to paint fire?",
+      "culture": "Candles and fires help people see in the dark. Where do you see glowing light at home?",
+      "technique": "The painter used oil paint to make a glow. How might that be tricky?",
+      "personal": "If you were holding the ember, what would you do next?",
+      "critical": "What would you change to make the room brighter?"
+    },
+    "g12": {
+      "daily": "What is the boy holding? Where is the glow coming from?",
+      "emotion": "Does the boy seem happy, serious, or sneaky? Show us what tells you.",
+      "observation": "Describe the boy's hat and what is on it.",
+      "analysis": "Why do you think the boy blows on the ember?",
+      "line": "Follow the line from the boy's mouth to the glowing end. What do you notice?",
+      "shape": "Which round shapes can you find on his face?",
+      "color": "Which colors glow? Which colors are hiding in the dark?",
+      "texture": "Does the boy's face look soft or rough in the firelight?",
+      "space": "Is the boy close to you or far back in the dark? How do you know?",
+      "light": "Which part of the boy's face is the lightest?",
+      "meaning": "Why do you think the painter chose a boy with a little fire?",
+      "culture": "Where do you see small flames at home, like candles or a stove?",
+      "technique": "The painter used smooth oil paint to make the glow. Why might that be tricky?",
+      "personal": "If you were next to the boy, what would you say?",
+      "critical": "What would you change to make this room less dark?"
+    },
+    "g35": {
+      "daily": "How can you tell the glowing stick is the only light in the picture?",
+      "emotion": "What mood does the warm glow against the dark give you?",
+      "observation": "Describe the boy's clothing and what he is holding.",
+      "analysis": "Why do you think the painter put the glow right near the boy's face?",
+      "line": "How do the lines of his arms and the stick lead your eye toward the light?",
+      "shape": "How do the shapes of his face and cap look when the light hits them?",
+      "color": "How do warm colors in the glow compare with the dark colors around it?",
+      "texture": "How did the painter make the skin look soft in the firelight?",
+      "space": "How does the dark space make the boy seem close to you?",
+      "light": "Where do the shadows fall, and how do they change his face?",
+      "meaning": "What might the painter want us to notice by painting something as simple as a boy and a glowing stick?",
+      "culture": "This painting is about 400 years old and from the Netherlands. How would people have lit their homes then?",
+      "technique": "Why might painters of this time love to paint candlelight and firelight?",
+      "personal": "What would it feel like to be in the dark room with the boy?",
+      "critical": "Is it harder to paint light or dark objects? Explain your thinking."
+    },
+    "g68": {
+      "daily": "Where does your eye go first, and what makes the composition lead it there?",
+      "emotion": "How does the contrast between glow and darkness create mood?",
+      "observation": "Describe the boy's expression and pose. What do they show about his concentration?",
+      "analysis": "How does the painter arrange the glowing ember, the face, and the cap to focus the scene?",
+      "line": "How do the diagonal lines of the boy's arms and the firebrand direct attention to the glow?",
+      "shape": "How do the rounded forms of the face contrast with the angular feathers of the cap?",
+      "color": "How does Honthorst use a limited range of warm colors to unify the painting?",
+      "texture": "How does the smooth blending of paint suggest the softness of skin lit from below?",
+      "space": "How does the lack of background detail affect your sense of space?",
+      "light": "How does lighting from a single small source affect the drama of the scene?",
+      "meaning": "The painter had studied in Rome before returning to Utrecht. How might travel have influenced the way he used light?",
+      "culture": "This subject goes back to a lost painting described by Pliny. Why might artists return to the same subject for centuries?",
+      "technique": "How does painting a simple everyday action turn it into something special?",
+      "personal": "Why might a scene with so little action still hold your attention?",
+      "critical": "How would the painting change if the ember were hidden from view?"
+    },
+    "g910": {
+      "daily": "How does the extreme contrast of light and dark structure the composition and the viewer's attention?",
+      "emotion": "How does the warm, localized glow create intimacy while the surrounding darkness introduces a note of unease?",
+      "observation": "Examine the boy's posture and expression. What does the act of blowing reveal about effort and attention?",
+      "analysis": "Analyze how the painter positions the ember to function as the pivot of the entire composition.",
+      "line": "How do the diagonals of the arms and the firebrand establish a directional flow toward the light?",
+      "shape": "How do the soft modeling of the face and the more angular feathers differ in the way they respond to light?",
+      "color": "How does a restricted palette dominated by warm tones unify the painting and heighten its glow?",
+      "texture": "What does the smooth finish tell you about the painter's technical control over gradations of light?",
+      "space": "How does the compressed, nearly empty background flatten space and intensify focus?",
+      "light": "How is illumination from below used to alter the boy's features and heighten theatrical effect?",
+      "meaning": "What does the return to Utrecht from Rome after studying contemporary painters suggest about how new ideas about light spread?",
+      "culture": "Why would a subject known from Pliny's description of a lost painting appeal to artists seeking to prove their skill?",
+      "technique": "How does the painting turn a modest genre scene into a statement about the power of painting itself?",
+      "personal": "In what ways might this image comment on seeing, attention, and the fragility of light?",
+      "critical": "To what extent is this painting a portrait of a boy and to what extent a demonstration of the painter's mastery? Defend your view."
+    },
+    "g1112": {
+      "daily": "How does the single light source organize the entire pictorial economy, subordinating space, anecdote, and color to a study of illumination?",
+      "emotion": "In what ways does the tension between the ember's warmth and the encroaching dark generate an affect that is both tender and precarious?",
+      "observation": "What does the boy's concentrated effort suggest about the relationship between labor, attention, and the sustaining of light?",
+      "analysis": "Evaluate how the placement of the glow, the face, and the feathered cap forms a compact, self-sufficient composition.",
+      "line": "How do the diagonals created by the arms and the firebrand shape the movement of the viewer's eye toward the point of maximum luminosity?",
+      "shape": "How does Honthorst contrast the soft modeling of flesh with the more textured treatment of costume to demonstrate range?",
+      "color": "How does the limited palette contribute to the painting's unity, and what does it leave unsaid about the surrounding world?",
+      "texture": "What does the seamless transition from brilliance to shadow reveal about the artist's training in Caravaggesque tenebrism?",
+      "space": "How does the indeterminate background place the figure in a psychological rather than a specified physical space?",
+      "light": "How does under-lighting intensify theatricality while complicating the picture's claim to naturalism?",
+      "meaning": "How might the lineage of this motif, from Pliny's lost painting to seventeenth-century Utrecht, illustrate the competitive dimension of imitation and invention?",
+      "culture": "How does the picture align with the Dutch fascination with the effects of artificial light?",
+      "technique": "How does the subject's apparent simplicity function as a deliberate test of painting's capacity to render the intangible?",
+      "personal": "What does your attention to a single tiny light source suggest about the way you focus when you look closely at anything?",
+      "critical": "To what extent does the work reflect on its own premises, making light the real protagonist?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (light, candles, children, feathers, costume, fire, firebrand) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release. The scene shows a small glowing ember held by a child; it is a calm, non-violent image.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in the Netherlands in 1621-22 by Gerrit van Honthorst, shortly after he returned to Utrecht from studying in Rome. The Art Institute lists light, candles, children, feathers, costume and fire among its subjects. The scene belongs to a long tradition of images of a boy blowing on an ember, used by painters to study light, and goes back to a lost painting described by the ancient writer Pliny.",
+    "vocabulary": [
+      "firebrand",
+      "ember",
+      "chiaroscuro",
+      "light source",
+      "Utrecht",
+      "genre painting"
+    ],
+    "directions": [
+      "In a darkened room, have students view a small lamp or flashlight and describe how it changes the look of a face or object.",
+      "Ask students to draw a person lit from one side or below and notice how shadows change expression.",
+      "Discuss why painters throughout history have enjoyed studying light and invite students to name favorite light sources."
+    ]
+  }
+}

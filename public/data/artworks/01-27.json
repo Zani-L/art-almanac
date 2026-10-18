@@ -1,0 +1,159 @@
+{
+  "id": "met-436596",
+  "day": "01-27",
+  "title": "Venice from the Bacino di San Marco",
+  "artist": "Francesco Guardi",
+  "date": "ca. 1765–75",
+  "medium": "Oil on canvas",
+  "movement": "Venetian veduta painting",
+  "region": "Italy (Venice)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-015.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-015.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A view of the city of Venice seen across open water, with boats on the harbor in the foreground and buildings lining the far shore under a wide sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436596",
+    "objectId": "436596",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Buildings, Cities, Boats, Harbors, Venice) and image URLs read from the record"
+  },
+  "context": "An oil painting by Francesco Guardi, made around 1765–75, of the city of Venice seen from the waters of the Bacino di San Marco, the broad harbor in front of the city. Paintings of cityscapes like this are called vedute, and visitors to Venice often bought them as souvenirs.",
+  "descriptions": {
+    "k": "This is a city on the water. Boats rest on the harbor. Buildings line the far shore. The sky is big. Which boat would you like to ride in? Where would you sail?",
+    "g12": "Francesco Guardi painted this view of Venice, a city in Italy built on the water. Boats float in the harbor, and buildings stretch along the far shore. The sky is wide and open. Guardi used quick, light brushstrokes. How do they make the water and air feel alive?",
+    "g35": "Venice is a city in Italy where canals and harbors take the place of many streets. Guardi painted this view from the water, so you look across the harbor to the buildings on the far shore. Boats fill the foreground, and a huge sky stretches above. Visitors to Venice often bought paintings like this to remember their trip. What would you want to remember about this place?",
+    "g68": "Around 1765–75, Francesco Guardi painted this veduta, or view painting, of Venice seen from the Bacino di San Marco. Travelers wanted such pictures as souvenirs, and Venetian painters supplied them. Guardi's brushwork is quick and flickering, which makes the water and sky seem to shimmer. Notice how the boats lead your eye across the harbor to the city. How does his looser style differ from a precise, map-like view?",
+    "g910": "Guardi's view of Venice belongs to a tradition of vedute made for visitors and collectors. Rather than sharply detailing every building, he suggests the city with quick touches of paint, letting atmosphere and light unify water, boats, and architecture. The generous sky and the foreground boats set up a deep, open space. Compare this approach with a more precise topographical picture. What does Guardi gain by favoring mood and movement over exactness?",
+    "g1112": "Guardi worked in a Venice that depended on tourism and on the memory of its former power, and his vedute met a market of visitors and collectors. His approach is less exacting than that of some predecessors: loose, nervous touches dissolve detail into light and atmosphere. Whether this reflects a personal sensibility, market demand, or both is debated. The painting invites questions about how a view can function as document, souvenir, and expressive image at the same time."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could sail one of these boats across the harbor, which would you pick and where would you go?",
+      "emotion": "Does this place feel busy or peaceful to you? What do you see that tells you?",
+      "observation": "Count the boats you can find. What else is floating on the water?",
+      "analysis": "Where do your eyes go first, the boats, the buildings, or the sky? Why?",
+      "line": "Find a long, flat line where the water meets the buildings. Trace it with your finger.",
+      "shape": "Look at the sails and the buildings. What shapes do you see that repeat?",
+      "color": "What colors do you see in the sky and the water? Which one is your favorite?",
+      "texture": "How do you think the water would feel if you dipped your hand in? How do you know?",
+      "space": "Which boats are close to you and which are far away? What helps you tell?",
+      "light": "Is the sky bright or cloudy? How does it change how the water looks?",
+      "meaning": "Why might someone who visited this city want to take a painting of it home?",
+      "culture": "This city is built on water. What would it be like to live where boats take you places?",
+      "technique": "The painter used quick little brush marks. Where can you see them?",
+      "personal": "Tell about a place you visited that you would like to paint. What would you put in front?",
+      "critical": "What sounds might you hear in this harbor? What in the picture made you think so?"
+    },
+    "g12": {
+      "daily": "Imagine standing in a boat on this harbor. What would you see, hear, and feel?",
+      "emotion": "What feeling does the big sky and open water give you? Which parts make you feel that way?",
+      "observation": "List five things you see in the harbor, from the boats to the buildings.",
+      "analysis": "How do the boats in front help lead your eyes toward the city in the distance?",
+      "line": "Find the line where the water meets the land. Is it straight, wavy, or broken? What does that do to the picture?",
+      "shape": "Which shapes are big, like the sky, and which are small, like the boats? How do they work together?",
+      "color": "Which colors feel cool and which feel warm in this picture? Where do you see each?",
+      "texture": "Guardi used quick, light brushstrokes. Where does the painting look soft and where does it look rough?",
+      "space": "How can you tell some boats are near and the far shore is farther away?",
+      "light": "Where does the light look brightest? How does it touch the water and the buildings?",
+      "meaning": "Why do you think people long ago wanted paintings of cities like Venice?",
+      "culture": "Venice has boats instead of many roads. How might daily life be different there?",
+      "technique": "Guardi painted with quick touches instead of tiny, careful lines. How does this change the feeling of the water?",
+      "personal": "If you painted a view of your own town, what would you put in the middle?",
+      "critical": "Do you think every building here is painted exactly as it looked? Why or why not?"
+    },
+    "g35": {
+      "daily": "What story could you tell about the people on these boats, and which details help you tell it?",
+      "emotion": "What mood does this view of Venice have? Point to the sky, water, or boats to support your idea.",
+      "observation": "Take one minute of quiet looking. What small details in the boats or on the shore did you find?",
+      "analysis": "How does Guardi arrange boats, water, shore, and sky so that your eyes travel across the picture?",
+      "line": "How does the long line of the far shore compare with the shorter lines of masts and sails?",
+      "shape": "What repeating shapes do you see in the buildings and the boats? How do they create rhythm?",
+      "color": "How does Guardi use the color of the sky to affect the colors of the water and buildings?",
+      "texture": "How do the quick brushstrokes make the water look different from the stone buildings?",
+      "space": "How does the artist use overlapping and size to show the distance across the harbor?",
+      "light": "How does the light in the sky spread to the water below? Where does it seem strongest?",
+      "meaning": "What does this painting tell you about why Venice mattered to travelers who visited it?",
+      "culture": "People who traveled to Italy in the 1700s bought views like this. Why might a painting be a good souvenir?",
+      "technique": "Guardi used loose, flickering strokes. How is that different from painting every detail precisely?",
+      "personal": "What place would you want a painting of to remember a trip? What would you ask the painter to include?",
+      "critical": "A painting can show a place without being exactly like a photograph. What might Guardi have changed or left out?"
+    },
+    "g68": {
+      "daily": "How does Guardi make a harbor view feel alive and moving rather than fixed like a map?",
+      "emotion": "How do the huge sky and the small boats influence your feeling about the scale of the scene?",
+      "observation": "List the elements from foreground to background. Which are drawn with the most detail?",
+      "analysis": "How do the foreground boats and the far shore balance each other in the composition?",
+      "line": "How do horizontal lines of water and shore contrast with vertical masts and towers?",
+      "shape": "How does the repetition of sails and rooftops create rhythm across the canvas?",
+      "color": "How does a limited range of soft blues, browns, and creams unify the scene?",
+      "texture": "How do the loose brushstrokes suggest movement in water and sky, even though the paint is still?",
+      "space": "How do overlapping boats, shrinking size, and haze create depth over a wide stretch of water?",
+      "light": "How does Guardi use light to link sky, water, and architecture into one atmosphere?",
+      "meaning": "Is this picture mainly a record of a place, a mood, or both? Support your answer with details.",
+      "culture": "How did visitors on the Grand Tour influence what Venetian painters chose to paint?",
+      "technique": "Guardi's brushwork is often called flickering. What does that quality add compared with a very smooth finish?",
+      "personal": "How would you describe a place you know well using loose brushwork instead of precise detail?",
+      "critical": "How trustworthy is a view painting as evidence of how a city looked? What might be missing?"
+    },
+    "g910": {
+      "daily": "How does Guardi's handling of paint, rather than his subject alone, shape your impression of Venice?",
+      "emotion": "How does the openness of the harbor and the sky generate a sense of calm or expansiveness?",
+      "observation": "Describe the visual hierarchy of the painting. What do you notice first, and how does the artist cause that?",
+      "analysis": "Analyze how the arrangement of boats and shoreline creates both a path for the eye and a sense of stability.",
+      "line": "How does the strong horizontal band of the shore interact with the verticals of masts and towers?",
+      "shape": "How do the clustered shapes of boats and buildings create a rhythm across the picture plane?",
+      "color": "How does a limited, harmonious palette help unify water, buildings, and sky?",
+      "texture": "How does the contrast between loose, broken touches and more defined forms create texture and movement?",
+      "space": "How does Guardi combine a low viewpoint with a wide sky to expand the sense of depth?",
+      "light": "How does the painter use atmospheric light to soften the edges of buildings and boats at a distance?",
+      "meaning": "In what ways could the painting be read as a souvenir, a portrait of a city, or an exercise in atmosphere?",
+      "culture": "How did the market of foreign visitors shape what vedute painters produced?",
+      "technique": "What does Guardi's brushwork suggest about how he might have worked, and how does it differ from a more exact view?",
+      "personal": "How does your own memory of a place compare to the way Guardi blends detail and atmosphere?",
+      "critical": "What are the limits of treating a veduta as documentary evidence of a place and time?"
+    },
+    "g1112": {
+      "daily": "What visual evidence in the painting best supports a reading of it as document, souvenir, or atmospheric image?",
+      "emotion": "How does the painting evoke a mood of calm or melancholy without a clear narrative focus?",
+      "observation": "Describe the painting's spatial structure precisely. Which decisions already imply an interpretation?",
+      "analysis": "Analyze how breadth of sky, horizontal bands of water and shore, and punctuating verticals produce unity and tension.",
+      "line": "How does Guardi's subordination of crisp contour to broken touch redefine the role of line?",
+      "shape": "How do repeated forms of sails and facades create visual rhythm, and where does the rhythm break?",
+      "color": "How might the work's age and varnish affect what we see in its colors, and how would that change our reading?",
+      "texture": "How does the surface of broken, flickering paint translate the instability of water and light?",
+      "space": "How does the low horizon and wide field of water position the viewer in relation to the city?",
+      "light": "How does Guardi treat light as an enveloping atmosphere rather than a source of sharp contrast?",
+      "meaning": "How might a painting of a city whose political power was fading carry nostalgia, even if the artist never states it?",
+      "culture": "How does the tourist market of eighteenth-century Venice complicate the idea of a veduta as a neutral record?",
+      "technique": "Why might Guardi's looser manner be read as a stylistic choice, a market strategy, or both? What evidence supports each?",
+      "personal": "How does your own experience of travel and souvenirs shape the way you read a view like this?",
+      "critical": "What standards of evidence should we use when we treat a painting like this as a historical source?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Buildings, Cities, Boats, Harbors, Venice) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Francesco Guardi was a Venetian painter of city views (vedute). Visitors to Venice in the 1700s often bought such paintings, and Guardi's loose, atmospheric brushwork is one of his best-known qualities.",
+    "vocabulary": [
+      "veduta",
+      "harbor",
+      "horizon",
+      "atmosphere",
+      "brushwork",
+      "foreground"
+    ],
+    "directions": [
+      "Ask students to mark the foreground, middle ground, and background with sticky notes, then discuss how depth is built.",
+      "Have students compare this painting with a photograph of a harbor and list what each one can and cannot show.",
+      "Invite students to design a souvenir painting of their own town and decide what to include."
+    ]
+  }
+}

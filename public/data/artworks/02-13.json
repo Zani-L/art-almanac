@@ -1,0 +1,158 @@
+{
+  "id": "met-372701",
+  "day": "02-13",
+  "title": "Black Lion Wharf",
+  "artist": "James McNeill Whistler",
+  "date": "1859",
+  "medium": "Etching; fourth state of four (Glasgow), printed in black ink on fine off-white laid Japan paper",
+  "region": "England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP813304.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP813304.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edna H. Sachs, 1964",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black-and-white etching of a busy riverside wharf, with tall buildings, boats, and a few working men drawn in fine, scratchy lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/372701",
+    "objectId": "372701",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Buildings, Men, Boats), public-domain flag, and image URLs read from the record. Region is a well-established label from the subject, not a record field."
+  },
+  "context": "An etching by James McNeill Whistler dated 1859, showing a wharf, buildings, boats, and working men. Whistler, an American artist who worked in London, made a group of etchings of the River Thames in the late 1850s, and this is generally counted among them.",
+  "descriptions": {
+    "k": "This is a drawing made with scratchy lines. It shows a wharf by a river with tall buildings and boats. Some men are there too. What do you think they are doing? Look for the smallest lines you can find.",
+    "g12": "James Whistler made this picture of a busy wharf by a river in London. He did not draw with a pencil. He scratched lines into metal, then printed them in black ink. Find the buildings, the boats, and the men. What work might happen at a place like this?",
+    "g35": "In 1859 James McNeill Whistler etched this view of a working wharf on the River Thames in London. To make an etching, the artist scratches lines through a waxy coating on a metal plate, and acid bites those lines so they hold ink. Look at how thick and thin lines build the buildings, boats, and men. What does this place seem like to work in?",
+    "g68": "Whistler made this etching in 1859, when he was a young American artist living in London. He chose a rough working scene on the Thames rather than a grand view, and he built it entirely from lines: dense hatching for shadow, lighter lines for distance. The etching process lets an artist draw freely, then print many copies. Notice the details of buildings, boats, and men. Why might an artist find beauty in a place of work?",
+    "g910": "Black Lion Wharf shows Whistler's early skill at etching, made when he was exploring the working riverfront of London. Instead of picturesque scenery, he records warehouses, boats, and laborers, using dense cross-hatching and delicate open lines to separate shadow, structure, and space. The record lists this as the fourth state of four, meaning he revised the plate several times. Consider how line alone creates texture, depth, and mood, and what the choice of an industrial subject suggests about his interests.",
+    "g1112": "Etched in 1859, Black Lion Wharf belongs to the early Thames work in which Whistler turned from conventional scenery to the commercial riverfront. Everything here depends on line: hatching and open passages create tone, depth, and atmosphere without any color. The Met record identifies this impression as the fourth and final state, a reminder that etchings are revised through successive stages. Critics have read such prints as both close observation of working life and an early step toward Whistler's later emphasis on arrangement and mood over narrative. Which reading does the image support better?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the men at the wharf are doing? Tell a short story about their day.",
+      "emotion": "Does this place feel busy or calm to you? What in the picture helps you say so?",
+      "observation": "What can you find at this wharf? Point to a building, a boat, and a person.",
+      "analysis": "Where do your eyes go first in this etching? What do they find next?",
+      "line": "This picture is made of tiny scratchy lines. Can you find a place where the lines are packed close together?",
+      "shape": "Look at the tall buildings and the boats. Which shapes are tall and straight, and which are slanted?",
+      "color": "This picture is only black ink on pale paper. What do you notice when there is no color?",
+      "texture": "Which parts of the wharf look rough, like old wood or brick? How can you tell?",
+      "space": "What is near to you in the wharf scene, and what is far away?",
+      "light": "Which parts of the etching look dark and which look light? Where might the shadows come from?",
+      "meaning": "Why do you think an artist wanted to draw a place where people work?",
+      "culture": "Boats carried goods up and down the river in London long ago. What do you carry from place to place today?",
+      "technique": "The artist scratched lines into metal and then printed them. Why might that be hard to do?",
+      "personal": "What job in a busy place would you like to see up close? Why?",
+      "critical": "Which part of this wharf scene would you leave out if you could? Why?"
+    },
+    "g12": {
+      "daily": "What kind of work happens at this wharf? Use details of the buildings, boats, and men to explain.",
+      "emotion": "What mood do the dark, scratchy lines give this place? Point to the parts that make you feel it.",
+      "observation": "List five things you see at the wharf, from the front of the picture to the back.",
+      "analysis": "How does Whistler arrange the buildings and boats so you can tell where the river is?",
+      "line": "Find lines that are close together and lines that are far apart. How do they change the dark and light?",
+      "shape": "The buildings are tall and the boats are low. How do these shapes work together in the picture?",
+      "color": "An etching in black ink has no color. How do dark and light areas still help you see the scene?",
+      "texture": "How do the scratchy lines make wood, brick, or rope look rough?",
+      "space": "How can you tell which buildings are closer and which are farther away?",
+      "light": "Where is the picture darkest? How does that dark spot help you notice other things?",
+      "meaning": "Whistler could have drawn a fancy palace. Why might he choose a busy working wharf instead?",
+      "culture": "This wharf was on the Thames, the river that runs through London. What might a river be used for in a big city?",
+      "technique": "An etching is printed from a metal plate, so many copies are possible. Why might an artist want that?",
+      "personal": "Where have you seen people working outdoors? How would you draw that place with only lines?",
+      "critical": "Does this wharf look pleasant, harsh, or both? What details support your opinion?"
+    },
+    "g35": {
+      "daily": "What does Whistler's etching tell you about daily life at a London wharf in 1859? Use evidence from the picture.",
+      "emotion": "What feeling does the crowded riverside create? Which lines or shadows lead you to it?",
+      "observation": "Look for ten seconds at each corner of the print. What small details appear that you missed at first?",
+      "analysis": "How does Whistler organize buildings, boats, and men so your eyes move through the scene?",
+      "line": "Compare the dense cross-hatched areas with the lighter, open lines. What does each kind of line do?",
+      "shape": "How do the big building shapes compare with the smaller shapes of boats and people? What does this tell you about scale?",
+      "color": "The picture uses only black ink on pale paper. How does Whistler show light and dark without color?",
+      "texture": "How does Whistler use lines to suggest rough wood, brick, and water in a flat print?",
+      "space": "What clues, like overlapping and size, show depth in this wharf scene?",
+      "light": "Where are the darkest shadows and the lightest paper? How does that contrast create drama?",
+      "meaning": "Why might an artist in 1859 choose a working riverfront instead of a famous landmark?",
+      "culture": "Rivers like the Thames helped trade grow in big cities. What can this etching suggest about work and travel then?",
+      "technique": "Acid bites the lines the artist scratched into the plate. Why would an artist need to plan carefully before printing?",
+      "personal": "Think of a busy place you know well. What lines would you use to show how it feels?",
+      "critical": "An artist chooses what to include and what to leave out. What might Whistler have left out of this scene?"
+    },
+    "g68": {
+      "daily": "How does Whistler turn a plain working wharf into a picture worth studying closely?",
+      "emotion": "What atmosphere do the heavy shadows and fine lines create in the wharf scene? Cite specific areas.",
+      "observation": "Without interpreting, list the structures, boats, and figures from foreground to background. Which ones are easy to overlook?",
+      "analysis": "How does the composition balance the heavy, dark buildings with the open space of the river?",
+      "line": "How do hatching, cross-hatching, and open lines work together to create tone and form in this etching?",
+      "shape": "How do the vertical lines of the buildings and masts contrast with the horizontal river? What effect does it have?",
+      "color": "Without any color, how does the pattern of black lines and pale paper direct your attention?",
+      "texture": "Which surfaces look most worn or rough? Explain how Whistler's line creates that effect.",
+      "space": "How do overlapping forms and changes in line density create depth in a small print?",
+      "light": "How does the strong contrast between dark and bare paper suggest sunlight, shade, or haze?",
+      "meaning": "What might this image say about work and the city, and what does it leave unsaid about the people shown?",
+      "culture": "Why was the Thames riverfront important to London's economy in the mid-1800s, and how might that explain this subject?",
+      "technique": "The Met lists this as the fourth state of four. Why would an artist change an etching plate between prints?",
+      "personal": "How would you show a place you know well using only line and shading, and what would you choose to emphasize?",
+      "critical": "Is it fair to call a picture of a working place 'beautiful'? What does this etching suggest?"
+    },
+    "g910": {
+      "daily": "How do density and direction of line in Black Lion Wharf shape our sense of a real, working place?",
+      "emotion": "How does Whistler produce a mood of labor and weight without an obvious story or a dramatic event?",
+      "observation": "Describe the visual hierarchy of the print: what dominates, what recedes, and which devices create that order?",
+      "analysis": "Analyze how the structures, boats, and figures are organized into foreground, middle ground, and background.",
+      "line": "How do varied line weights and hatching patterns separate surfaces such as masonry, timber, and water?",
+      "shape": "How does the interplay of vertical structures and the low horizontal of the river stabilize the composition?",
+      "color": "How does the restriction to black ink on pale paper intensify the importance of contrast and pattern?",
+      "texture": "How does Whistler convert tactile surfaces into marks, and where does his drawing feel most convincing?",
+      "space": "How does varying line density build atmospheric depth within the limits of a printed plate?",
+      "light": "How do areas of reserved paper function as light, and what effect do they have on the overall tone?",
+      "meaning": "What does the choice of a commercial riverfront suggest about Whistler's interests compared with picturesque landscape?",
+      "culture": "How might the industrial port setting of 1850s London shape both the subject and the audience for this print?",
+      "technique": "How do the states of an etching document an artist's revisions, and what might the fourth state suggest about his priorities?",
+      "personal": "How does your own experience of busy working places affect the way you read this scene?",
+      "critical": "How might a fine-art print of a working place differ in meaning from a document made for the people who worked there?"
+    },
+    "g1112": {
+      "daily": "What claims about Whistler's attitude to the working riverfront can be supported by the visual evidence, and what remains conjecture?",
+      "emotion": "How do line and tone generate atmosphere here, and how far does atmosphere depend on what viewers already know about industrial London?",
+      "observation": "Describe the print's construction in detail before interpreting. Which observations are hardest to keep separate from assumptions?",
+      "analysis": "Analyze how Whistler makes an apparently loose, dense arrangement of forms cohere into a unified composition.",
+      "line": "How does the vocabulary of etched line, from dense hatching to near-empty paper, function as both description and expression?",
+      "shape": "How does the plate balance rectilinear architecture against irregular boats and figures to produce tension and order?",
+      "color": "What does the absence of color imply about the print as a medium, and how does tonal range replace it?",
+      "texture": "Where does the print approach the tactile qualities of real surfaces, and where does it deliberately abstract them?",
+      "space": "How does the plate reconcile detailed foreground observation with a more summarized distance, and what does this say about his approach to depth?",
+      "light": "How does the interplay of inked line and untouched paper work as a language of light?",
+      "meaning": "Evaluate readings of the print as social observation, as picturesque, or as early formal experiment. Which is best supported?",
+      "culture": "How does the Thames as a commercial artery of the British Empire complicate a reading of this print as only a neutral view?",
+      "technique": "What does the existence of multiple states reveal about etching as an iterative practice, and how does that affect ideas of a single finished work?",
+      "personal": "How might your own sense of what counts as a beautiful subject differ from Whistler's, and how does that affect your reading?",
+      "critical": "What standards of evidence would you use to decide whether the figures are portrayed with sympathy, indifference, or something else?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Buildings, Men, Boats) read from the museum record; a riverside working scene with no nudity, violence, or frightening subject indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Whistler was an American artist who lived in London and etched views of the Thames in the late 1850s. The Met record lists this impression as the fourth state of four, printed on Japan paper.",
+    "vocabulary": [
+      "etching",
+      "hatching",
+      "state",
+      "plate",
+      "wharf",
+      "contrast"
+    ],
+    "directions": [
+      "Have students make a quick line drawing of a place at school using only hatching to show shadow.",
+      "Ask pairs to compare this print with a color painting of a river scene and discuss what each medium can and cannot show.",
+      "Discuss why an artist might revise a plate and print it again."
+    ]
+  }
+}

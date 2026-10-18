@@ -1,0 +1,159 @@
+{
+  "id": "met-34967",
+  "day": "07-17",
+  "title": "Sword Guard (Tsuba)",
+  "recordTitle": "Sword Guard (<i>Tsuba</i>)",
+  "artist": "Artist unknown",
+  "date": "early 18th century",
+  "medium": "Iron, gold, copper",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/aa/web-large/14.60.69_007feb2014.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/aa/original/14.60.69_007feb2014.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Adrian H. Joline, 1914",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A flat, rounded iron plate with a central opening, decorated with metal inlay and a design including a dragon.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/34967",
+    "objectId": "34967",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tsuba, or sword guard, made in Japan in the early 18th century from iron with gold and copper. A tsuba sits between the blade and the handle of a Japanese sword, and in the long peaceful Edo period makers turned these small metal plates into detailed works of art. The museum's record tags this one with a dragon.",
+  "descriptions": {
+    "k": "This is a flat metal piece from a Japanese sword. It is called a tsuba. It is round and dark, with a hole in the middle. Shiny gold and copper decorate it. A dragon is part of the design. Can you find it?",
+    "g12": "This round metal plate is a tsuba, the part of a Japanese sword that sits between the handle and the blade. It is made of iron, with gold and copper added. A dragon is part of the design. Artists made tsuba beautiful even though they are small. What shapes can you find?",
+    "g35": "A tsuba sits between the blade and handle of a Japanese sword. This one, made in the early 1700s, is iron decorated with gold and copper, and a dragon is part of its design. Japan was at peace for much of this time, and tsuba became small works of art that showed taste. Look carefully at the way different metals share the surface. Why would an artist decorate something so small?",
+    "g68": "Made in the early 18th century, this tsuba is iron with gold and copper added. A tsuba kept the sword hand from sliding onto the blade, but in the peaceful Edo period it also became a showpiece of metalwork. Mixing metals lets a maker create contrast of color and texture on a small disk. Dragons in East Asian art are often tied to water, power, and good fortune. Which details on this piece show the maker's skill?",
+    "g910": "This tsuba shows how an item with a practical role developed into a refined art form. In the Edo period, when samurai often served as officials, swords became signs of status and taste, and fittings were made with artistic ambition. Here iron is combined with gold and copper to create contrast of tone, texture, and shine, and the dragon motif draws on East Asian traditions of power and protection. Consider how the circular format governs composition.",
+    "g1112": "The tsuba illustrates how function and art intertwine in Edo-period Japan. As the samurai's role shifted in a long era of peace, sword fittings such as this iron-gold-copper guard became vehicles for display, taste, and technical ingenuity. Dragon imagery had rich associations across East Asia, but how a particular owner read it is rarely recorded. The small circular format imposes tight compositional discipline, and the combination of metals suggests specialized workshop skill. How do we read an object whose original purpose is tied to weapons yet whose surviving significance is largely aesthetic?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the dragon on this metal piece is doing?",
+      "emotion": "Does this dark metal feel strong, scary, or fancy to you? What do you see that tells you?",
+      "observation": "What can you find on this metal piece? Point to the hole, the edge, and a shiny part.",
+      "analysis": "Where do your eyes go first on this metal piece? Why?",
+      "line": "Can you find a curvy line like a dragon's body? Trace it in the air.",
+      "shape": "What shapes do you see? Look at the outside edge and the hole.",
+      "color": "What colors do you see? Which parts look shiny?",
+      "texture": "How do you think the metal would feel if you touched it?",
+      "space": "Where is the empty space on this piece? Where is it filled with design?",
+      "light": "Where does the light make the metal shine?",
+      "meaning": "If a dragon watched over a person, what would it do?",
+      "culture": "People in Japan made special metal pieces like this long ago. What special things do you have that are small?",
+      "technique": "Metal workers used fire and tools to shape and decorate metal. What do you think was hard about that?",
+      "personal": "If you could put one animal on a small metal disk, what would you pick?",
+      "critical": "This piece is small. What do you see now that you did not see at first?"
+    },
+    "g12": {
+      "daily": "What clues show that this small metal plate was made with great care?",
+      "emotion": "What feeling does this dark metal with shiny parts give you? Why?",
+      "observation": "Describe five things you see on this tsuba, from the edge to the middle.",
+      "analysis": "How does the design lead your eyes around the round shape?",
+      "line": "Find curved lines in the design. Where do they start and stop?",
+      "shape": "What shape is the whole tsuba? What shape is the opening?",
+      "color": "How do dark iron and shiny gold and copper work together?",
+      "texture": "Which parts look smooth and which look rough or carved?",
+      "space": "How did the artist use the round space? Is it full, empty, or both?",
+      "light": "Where does the metal catch the light? How does that help you see the design?",
+      "meaning": "Why might someone want a dragon on something they own?",
+      "culture": "Dragons are important in many stories from East Asia. What can you tell about dragons from this piece?",
+      "technique": "The artist worked with hard iron and softer gold and copper. Why might it be tricky to join them?",
+      "personal": "What small thing do you own that is beautiful as well as useful?",
+      "critical": "A tsuba had a job to do, but it was also decorated. Why might people want useful things to be beautiful?"
+    },
+    "g35": {
+      "daily": "What do you think the maker wanted to show with the design, and what details support your idea?",
+      "emotion": "What mood does the tsuba have? Which design choices create it?",
+      "observation": "Look for one minute. What small details did you notice that you missed at first?",
+      "analysis": "How does the artist organize the design inside a circle?",
+      "line": "How do the lines of the dragon or other shapes move around the plate?",
+      "shape": "The tsuba is round with an opening in the middle. How does that shape affect the design?",
+      "color": "How do the colors of iron, gold, and copper contrast with each other?",
+      "texture": "How do different metals create different textures and shines?",
+      "space": "How does the artist use filled and empty areas to make the dragon stand out?",
+      "light": "How does the shine of gold and copper compare with the darker iron?",
+      "meaning": "Dragons often stand for power and good fortune. Why might an owner choose one?",
+      "culture": "Japan was peaceful for much of the Edo period. How might that have changed how sword parts were made?",
+      "technique": "Metalworkers combined iron with gold and copper. What skills might that take?",
+      "personal": "Think of something small you care about. How would you decorate it?",
+      "critical": "This object is part of a sword, but it is seen as art. Why do you think that is?"
+    },
+    "g68": {
+      "daily": "How does the maker turn a protective sword part into a showpiece?",
+      "emotion": "What atmosphere does the combination of dark iron and bright metal create?",
+      "observation": "Describe the tsuba from the edge to the center. Which areas seem most carefully worked?",
+      "analysis": "How does the design adapt to the circular shape and central opening?",
+      "line": "How do contours of the dragon and other shapes create movement around the circle?",
+      "shape": "How do the curves of the design work against the strict geometry of the plate?",
+      "color": "How do the metals contrast in tone and warmth, and how does the maker use that contrast?",
+      "texture": "How does the maker vary texture between iron, gold, and copper? Where is the effect strongest?",
+      "space": "How does the design balance filled and unfilled areas?",
+      "light": "How does the shine of inlaid metal change as light or viewing angle changes?",
+      "meaning": "What might a dragon symbolize on an object used by a samurai? What other possibilities exist?",
+      "culture": "Why might a long period of peace lead to more decoration on sword fittings?",
+      "technique": "What does combining different metals reveal about the maker's skill?",
+      "personal": "What objects do people today decorate to show who they are?",
+      "critical": "A tool for fighting is displayed as art. How might that change how we look at it, and what questions does it raise?"
+    },
+    "g910": {
+      "daily": "How do material, motif, and circular format shape the tsuba's visual impact?",
+      "emotion": "How does the contrast of dark iron and bright inlay produce drama and refinement?",
+      "observation": "Describe the visual hierarchy of the piece. What draws attention first, and how does the design support it?",
+      "analysis": "Analyze how the composition responds to the central opening and the circular outline.",
+      "line": "How does line quality in the dragon motif create energy within a controlled shape?",
+      "shape": "How do organic forms interact with the plate's geometry?",
+      "color": "How do iron, gold, and copper provide a limited but effective palette?",
+      "texture": "How do tactile contrasts between metals shape the viewing experience?",
+      "space": "How does the artist handle positive and negative space within a small disc?",
+      "light": "How does the reflective quality of different metals alter the piece as the viewer moves?",
+      "meaning": "What associations might a dragon have carried for the owner, and what is documented versus assumed?",
+      "culture": "How does the tsuba reflect the shifting identity of the samurai class in a peaceful era?",
+      "technique": "What does the combination of metals suggest about workshop specialization and technical control?",
+      "personal": "How does a small, decorated object convey identity or taste in the way personal belongings do today?",
+      "critical": "How should we think about the beauty of an object whose original context is connected to weapons?"
+    },
+    "g1112": {
+      "daily": "What can we responsibly infer from this tsuba about its maker, its owner, and its time, and where does the evidence stop?",
+      "emotion": "How does the work create refinement and restraint through material contrast, and how does its military context complicate that feeling?",
+      "observation": "Describe the object's design with precision. Where does description begin to imply meaning?",
+      "analysis": "Analyze how the composition reconciles a symbolic motif with a functional circular form.",
+      "line": "How does line articulate form in a metal medium, compared with painting or drawing?",
+      "shape": "How does the interplay between curvilinear forms and the plate's outline generate tension and balance?",
+      "color": "How might patina and age have altered the original contrasts between iron, gold, and copper?",
+      "texture": "How does the interplay of metals complicate the distinction between surface decoration and sculpture?",
+      "space": "How does the tight format constrain and shape the composition?",
+      "light": "How does display lighting affect the perception of an object designed to be seen up close in the hand?",
+      "meaning": "Evaluate readings of the dragon as protection, power, or decoration. What evidence is needed to choose between them?",
+      "culture": "How does the tsuba illustrate the transformation of military equipment into markers of status and taste in a peaceful society?",
+      "technique": "What does the object suggest about specialization among metalworkers and the market for sword fittings?",
+      "personal": "How does your own context shape your response to objects associated with arms and armor, and how might that differ from the original owner's?",
+      "critical": "How should museums contextualize objects whose original purpose is tied to weapons when presenting them to students?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Sword Furniture-Tsuba), medium, and tags (Dragons) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tsuba (sword guard) of iron with gold and copper, early 18th century, Edo period. It is the part that sits between the blade and the handle; in a long peaceful era such fittings became prized for artistry.",
+    "vocabulary": [
+      "tsuba",
+      "iron",
+      "inlay",
+      "Edo period",
+      "samurai",
+      "motif"
+    ],
+    "directions": [
+      "Focus on craft and design: ask students to draw a pattern to fit a round disc with a central hole.",
+      "Discuss why objects connected to weapons can still be studied as design and craft, and how to talk about them respectfully.",
+      "Compare how dragons appear in this object and in other cultures' art."
+    ]
+  }
+}

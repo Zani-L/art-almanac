@@ -1,0 +1,157 @@
+{
+  "id": "met-193375",
+  "day": "10-12",
+  "title": "Watch",
+  "artist": "Artist unknown",
+  "date": "ca. 1820–35",
+  "medium": "Case of gold and enamel, with butterfly and rose design",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/73472.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/73472.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Laura Frances Hearn, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small round gold watch with a case decorated in enamel, shown against a plain background. The decoration includes a butterfly and roses with leaves.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/193375",
+    "objectId": "193375",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, dimensions, credit line, classification (Horology), objectName, tags (Butterflies, Roses, Leaves), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small watch made about 1820–35 with a case of gold and enamel, decorated with a butterfly and rose design. It is about 4.1 centimeters across, and the Met's record does not name the watchmaker or the place where it was made.",
+  "descriptions": {
+    "k": "This small round watch is made of gold. It has a butterfly and roses on it. The colors are bright and shiny, like tiny jewels. Can you find the butterfly? Can you find a rose?",
+    "g12": "This watch is only about four centimeters wide. Its gold case is decorated with enamel, which is colored glass melted onto metal. The enamel shows a butterfly and roses with leaves. Look closely at the flowers and the wings. Why might someone want a butterfly on their watch?",
+    "g35": "This watch was made about 1820 to 1835. The case is gold with enamel, tiny paint-like glass fired onto the metal, and the decoration is a butterfly and roses. The watch is about 4.1 centimeters across, small enough to fit in a hand. Why might a maker choose flowers and a butterfly for an object that measures time?",
+    "g68": "Around 1820 to 1835, watches were often decorated as carefully as jewelry. This one has a gold case with enamel in a butterfly and rose design, drawn from nature. At only about 4.1 centimeters across, the design must fit onto a tiny curved surface. A butterfly is short-lived and a watch measures time, so some viewers may see a connection, though the record does not say so. How might nature motifs work on a timepiece?",
+    "g910": "This watch of about 1820 to 1835 sets a natural motif, a butterfly among roses, on a precision instrument. Enamel gives intense, durable color on gold, and the small scale demands fine control. A butterfly can suggest beauty and transience, and a watch measures passing time, but we should be careful: the Met's record names the design without explaining it. Consider how decoration can add meaning to function, and where interpretation outruns evidence.",
+    "g1112": "Here a utilitarian object takes on the language of the garden. The butterfly and rose design, rendered in enamel on a gold case, belongs to a long tradition of floral decoration in jewelry and watches, but it may also invite reflection on time and fragility. Such readings are possible rather than documented, since the record names neither maker nor owner. How do small decorative objects balance conventional ornament against symbolic suggestion, and how should a viewer decide between them?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine the butterfly landing on a rose on this watch. What do you think it does next?",
+      "emotion": "Do the butterfly and roses make you feel happy, calm, or sleepy? Why?",
+      "observation": "Find the butterfly, a rose, and some leaves on the watch. Which is easiest to find?",
+      "analysis": "What do your eyes look at first on the watch, the butterfly or the flowers?",
+      "line": "Trace the curve of a rose petal or butterfly wing in the air. Is it smooth or wavy?",
+      "shape": "The watch is a circle. What other shapes can you find in the butterfly and the roses?",
+      "color": "Which colors do you see on the watch besides gold?",
+      "texture": "The enamel is smooth like glass. How is it different from the gold edge?",
+      "space": "Which parts of the picture are in the middle and which are near the edge of the circle?",
+      "light": "Where does the watch shine or sparkle?",
+      "meaning": "A butterfly flies for a short time. Why might someone put one on a watch?",
+      "culture": "This watch was made about 200 years ago. How do people today decorate their watches or phones?",
+      "technique": "The painting is on a very small gold circle. What would a painter need to paint something so small?",
+      "personal": "What flower or animal would you put on a watch for yourself?",
+      "critical": "Should a watch be plain so you can read it, or pretty so you can enjoy it? Tell why."
+    },
+    "g12": {
+      "daily": "Describe the tiny garden on this watch to a friend who cannot see it.",
+      "emotion": "How does a butterfly and rose design make a watch feel gentle?",
+      "observation": "List five things you see on the watch, from the gold edge to the decoration.",
+      "analysis": "How does the circle of the watch help organize the butterfly and flowers?",
+      "line": "Find curving lines in the leaves and petals. How do they flow around the circle?",
+      "shape": "Which shapes repeat in the roses and in the butterfly wings?",
+      "color": "How do the enamel colors look against the warm gold?",
+      "texture": "Which parts look glassy and smooth, and which parts look like metal?",
+      "space": "How does the artist make the flowers and butterfly fit on a tiny round surface?",
+      "light": "Imagine turning the watch. Where would the light flash on the enamel?",
+      "meaning": "Butterflies and roses are often seen as beautiful. Why might a maker choose them for a watch?",
+      "culture": "People in the early 1800s loved flowers and gardens in their decoration. What do you decorate with nature today?",
+      "technique": "Enamel is colored glass melted onto gold. Why is that hard to do on a small round case?",
+      "personal": "What small beautiful object do you keep with you? Tell about it.",
+      "critical": "Is a watch with flowers on it just for show, or does it also tell something about the owner? Give a reason."
+    },
+    "g35": {
+      "daily": "Look at the butterfly and roses for one minute. What details would you tell a friend about first?",
+      "emotion": "What mood does a garden design bring to a watch? Point to details that create it.",
+      "observation": "Find as many details as you can in the butterfly, the roses, and the leaves.",
+      "analysis": "How does the maker arrange the butterfly and roses to fill the round case?",
+      "line": "How do the curves of petals and wings compare with the circular edge of the case?",
+      "shape": "Which round and pointed shapes appear in the roses and the butterfly?",
+      "color": "Why do enamel colors stand out so strongly on gold?",
+      "texture": "How might smooth enamel and gold look different when light moves across them?",
+      "space": "The watch is only about 4.1 centimeters wide. How does that small space change the way the design must be made?",
+      "light": "How does the shine of gold help the colors of the enamel appear brighter?",
+      "meaning": "A butterfly can stand for beauty or change. Why might that idea go with a watch?",
+      "culture": "Why might people in the early 1800s have liked to wear nature designs on small objects?",
+      "technique": "Enamel is fired in a kiln. What problems could happen if a design is fired many times?",
+      "personal": "Think of a design you have seen on a small object. How was it like this butterfly and rose?",
+      "critical": "The Met does not say who made this watch. What can we still learn from it?"
+    },
+    "g68": {
+      "daily": "How does the watch use a garden scene to turn a tool into a treasure?",
+      "emotion": "How does the butterfly and rose design create a gentle, delicate mood?",
+      "observation": "Describe the decoration from its center to its edge. Which details seem most carefully done?",
+      "analysis": "How does the design adapt to a circular, curved case?",
+      "line": "How do flowing lines in the leaves and petals guide your eye around the case?",
+      "shape": "How do the round forms of roses and the spread wings of a butterfly balance each other?",
+      "color": "How might enamel colors work with gold to create a jewel-like effect?",
+      "texture": "How do hard gold and glassy enamel combine to give the watch different surface qualities?",
+      "space": "How does the designer handle depth on a case that is only about 4.1 centimeters across?",
+      "light": "Why might enamel and gold be effective together when the watch catches light as it is held?",
+      "meaning": "What ideas, such as beauty or the passing of time, might a butterfly suggest on a watch? Which are only possibilities?",
+      "culture": "Nature motifs were popular in early nineteenth-century decoration. What might that show about the era's tastes?",
+      "technique": "How is enameling on gold different from painting on paper or canvas?",
+      "personal": "What do you think makes a small decorative object feel personal?",
+      "critical": "How should we interpret a symbol like a butterfly when the maker left no explanation?"
+    },
+    "g910": {
+      "daily": "How does the butterfly and rose design shape our expectations of what a watch is for?",
+      "emotion": "How does the decoration soften the mechanical precision implied by a watch?",
+      "observation": "Describe the hierarchy of decoration on the case. What does the eye find first?",
+      "analysis": "How does the design negotiate between a circular frame and organic forms?",
+      "line": "How do sinuous plant lines respond to the strict geometry of the circle?",
+      "shape": "How does the symmetry of a butterfly interact with the asymmetry of roses and leaves?",
+      "color": "How does the color of enamel create contrast with gold, and what does that do for legibility of the motif?",
+      "texture": "How do the surface qualities of enamel and gold contribute to the sense of luxury?",
+      "space": "How does the case's scale intensify close looking and handling?",
+      "light": "How does reflective gold allow enamel colors to gain depth under changing light?",
+      "meaning": "How might a butterfly suggest beauty and transience on a timekeeper, and why should we label that a possible reading?",
+      "culture": "What might floral decoration reveal about taste and the role of nature in early nineteenth-century decorative arts?",
+      "technique": "What does enameling a curved gold case reveal about the maker's control of materials and firing?",
+      "personal": "How does an object designed to be carried differ in meaning from one designed to hang on a wall?",
+      "critical": "Is the decoration on a watch secondary to its function, or part of how it works as a social object?"
+    },
+    "g1112": {
+      "daily": "What can be asserted about the meaning of this watch's decoration, and what remains speculative?",
+      "emotion": "How does a motif associated with delicacy affect the way we read an instrument of precision?",
+      "observation": "Describe the decoration and form of the watch with precision. When does description become interpretation?",
+      "analysis": "Analyze how decoration and function coexist on the case and how that reflects period ideas of ornament.",
+      "line": "How does vegetal line structure the circular field, and what traditions of decorative design does it echo?",
+      "shape": "How does the interplay between symmetrical and irregular forms animate the surface?",
+      "color": "How does enamel's color depth and durability affect how the object has survived and how we see it now?",
+      "texture": "How do the vitreous and metallic surfaces together define the sensory qualities of the object?",
+      "space": "How does a miniature field challenge the painter's skills in composition and the viewer's skills in looking?",
+      "light": "How does the object's dependence on moving light complicate photographic documentation?",
+      "meaning": "How do we evaluate readings of butterfly and rose imagery as symbolic when no documentation of intent survives?",
+      "culture": "How does a floral and insect motif connect to broader early nineteenth-century interests in nature and sentiment?",
+      "technique": "What does the combination of gold work and enamel suggest about the specialized labor behind small luxury goods?",
+      "personal": "How do your own associations with butterflies and flowers shape what you see in this design?",
+      "critical": "What are the risks of attributing symbolic meaning to decorative motifs, and how might one minimize them?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Horology), objectName (Watch), medium (gold and enamel with butterfly and rose design), and tags (Butterflies, Roses, Leaves) checked against the museum record: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small watch from about 1820–35 with a gold and enamel case decorated with a butterfly and roses. The record does not give a maker or origin, and the photograph may show only the decorated case.",
+    "vocabulary": [
+      "enamel",
+      "motif",
+      "case (of a watch)",
+      "transience",
+      "gold",
+      "miniature"
+    ],
+    "directions": [
+      "Have students design a circular motif using one animal and one plant, and discuss how the circle shapes the composition.",
+      "Ask students to explain the difference between a decorative motif and a symbol.",
+      "Compare this watch with the pastoral enamel watch in the archive and discuss how two makers decorated small round cases."
+    ]
+  }
+}

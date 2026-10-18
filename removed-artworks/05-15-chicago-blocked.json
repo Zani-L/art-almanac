@@ -1,0 +1,158 @@
+{
+  "id": "artic-68433",
+  "day": "05-15",
+  "title": "Sawmill, Outskirts of Paris",
+  "artist": "Henri Rousseau",
+  "date": "c. 1893/95",
+  "medium": "Oil on canvas",
+  "movement": "Naive art",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3826e366-e82a-e853-12e4-b303a1618103/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Bequest of Kate L. Brewster",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small, wide painting of a countryside scene on the outskirts of Paris. Trees, plants and a mill building appear with a few people, painted in a simple, carefully outlined style.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/68433",
+    "objectId": "68433",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Henri Rousseau, French, 1844-1910), date, place of origin (France), medium, dimensions (25.5 x 45.5 cm), credit line, subject terms (countryside, France, people, plants, mills, trees, landscapes), publication history (alternate titles Scierie de Clamart, Environs de Paris, La Scierie), is_public_domain true and image_id read from the record. The record has no description text."
+  },
+  "context": "Henri Rousseau painted this small landscape around 1893-95. The Art Institute's record lists countryside, mills, trees, plants and people as subjects, and notes the work has appeared under other titles such as Scierie de Clamart and Environs de Paris. The record offers no further description.",
+  "descriptions": {
+    "k": "This is a small painting of a place outside a city. There are trees, plants, and a mill. A few people are there too. The painter used simple shapes. Can you find the trees? Can you find the people?",
+    "g12": "Henri Rousseau painted this small picture of the countryside near Paris. The museum says it shows a sawmill, trees, plants, and people. The shapes are simple and neat. Look for the trees and the people. What sounds might you hear at a sawmill?",
+    "g35": "Henri Rousseau painted this about 1893 to 1895. It shows a sawmill on the outskirts of Paris, with trees, plants, and people. The picture is small, only about 18 inches wide. Rousseau liked simple shapes and clear edges. Look for what is near and far. Why might he have chosen to paint a working place like a sawmill?",
+    "g68": "Rousseau painted this small landscape around 1893 to 1895. The museum's tags list a mill, trees, plants, countryside, and people, and the work has gone by other titles, including Scierie de Clamart. Rousseau was largely self-taught, and his paintings often use simple, clear shapes and flattened space. How does that style change the way you see a working place? What does the choice of such an ordinary subject suggest?",
+    "g910": "Sawmill, Outskirts of Paris is a small canvas (about 10 by 18 inches) from the mid-1890s. The museum lists a mill, trees, plants, and people as subjects but gives no description. Rousseau, often called a self-taught or naive painter, favored clear contours and simplified forms. Consider how those choices make an ordinary edge-of-the-city scene feel both precise and a little dreamlike, and where the record's silence limits what we can claim.",
+    "g1112": "Rousseau's small landscape of a sawmill at Paris's edge shows the artist's characteristic clarity and flattening of form. The Art Institute record lists a mill, trees, plants and people, and notes alternate titles, but it offers no interpretation. The term naive is often applied to Rousseau, though later artists and critics admired his deliberate, original vision. How should we weigh the label against what the painting itself does, and what does the choice of an industrial suburb add?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a tree, a plant, and a building. Where are they?",
+      "emotion": "Is this place noisy or peaceful? What do you see that tells you?",
+      "observation": "Which colors can you name? Point to the one you see most.",
+      "analysis": "Which part of the sawmill painting is the biggest, and which is the smallest?",
+      "line": "Find a straight line and a curved line. Where are they?",
+      "shape": "Look at the tree shapes. Are they round, pointy, or tall?",
+      "color": "Point to a green part and a part that is not green. What is each one?",
+      "texture": "The painting is small. What would it feel like to hold it?",
+      "space": "Point to something near the front of the painting and something far back near the trees.",
+      "light": "Find a place that looks light and a place that looks dark.",
+      "meaning": "What do you think the people are doing at the mill?",
+      "culture": "A sawmill cuts wood into boards. What things around you are made of wood?",
+      "technique": "The painter used a tiny canvas. How would you paint a big place on a small page?",
+      "personal": "If you could walk into this painting, where would you go first?",
+      "critical": "What would you like to ask the painter about this place?"
+    },
+    "g12": {
+      "daily": "Look at the trees, plants, and mill. What do you notice about how they are painted?",
+      "emotion": "How does this place outside the city make you feel? Point to what gives you that feeling.",
+      "observation": "List the things you see in this painting from the ground to the sky.",
+      "analysis": "How does the painter place the buildings and trees so the picture feels organized?",
+      "line": "Which lines are straight and which are curvy? How do they work together?",
+      "shape": "The shapes of the trees and the mill are simple. How does that change how you see them?",
+      "color": "What colors are used for the leaves, the buildings, and the sky? How do they fit together?",
+      "texture": "Does the painting look smooth or rough? Why do you think so?",
+      "space": "How can you tell which parts are near and which are far away?",
+      "light": "Where does the painter show light in the picture? Where is it darker?",
+      "meaning": "What kind of story could take place at this sawmill?",
+      "culture": "In the 1890s, the edges of Paris had farms and workplaces. What is on the edge of your town?",
+      "technique": "The painter used careful, neat brushwork. How is that different from quick, messy painting?",
+      "personal": "Which part of this place would you like to visit?",
+      "critical": "Why might a painter choose a plain working place like a sawmill to paint?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this small painting, and what choices by Rousseau lead them there?",
+      "emotion": "What mood does the scene create? Use details of color and shape to explain.",
+      "observation": "Look closely. What small details in the plants or people might you have missed at first?",
+      "analysis": "How does Rousseau arrange the mill, trees, and people so that everything fits together?",
+      "line": "How do lines of the building and trees divide the picture into parts?",
+      "shape": "How do the simple, clear shapes make this scene feel different from a photograph?",
+      "color": "How do the different greens and other colors work together in the landscape?",
+      "texture": "How does Rousseau paint the surfaces so that they look neat and smooth instead of rough?",
+      "space": "How does the artist show distance without using many tricks of deep perspective?",
+      "light": "How does the light in the painting affect the way the plants and buildings look?",
+      "meaning": "What do you think a day at this sawmill might be like? Use clues from the picture.",
+      "culture": "The museum says this place was on the outskirts of Paris. What does it tell you about how cities and countryside meet?",
+      "technique": "Rousseau taught himself to paint. How might that have shaped the way he painted?",
+      "personal": "Think of a work place you know. How would you paint it so it feels important?",
+      "critical": "The record has no description. What can you learn from looking that a label cannot tell you?"
+    },
+    "g68": {
+      "daily": "How does Rousseau's clear, simplified style change the way you read an ordinary working landscape?",
+      "emotion": "How do the colors and stillness shape the mood of this edge-of-the-city scene?",
+      "observation": "What can you see for certain, and what are you guessing about the people and their work?",
+      "analysis": "How does the arrangement of mill, trees, and ground organize the composition from left to right?",
+      "line": "How do firm outlines and edges give shape to the elements of the landscape?",
+      "shape": "How do the simplified forms of trees and buildings affect how realistic the scene feels?",
+      "color": "How do shades of green and earthy colors build harmony or contrast in the picture?",
+      "texture": "How does smooth, controlled paint application differ from the loose brushwork of other painters of this time?",
+      "space": "How does Rousseau create depth while keeping many forms flat?",
+      "light": "How does the light seem to fall on the scene, and does it feel realistic or dreamlike?",
+      "meaning": "What might it mean that an artist painted a sawmill rather than a grand scene? Offer more than one possibility.",
+      "culture": "How does a painting of Paris's outskirts reflect the growth of the city in the 1890s?",
+      "technique": "How might being self-taught have shaped Rousseau's choices about detail and space?",
+      "personal": "How does your own sense of familiar working places influence what you notice in this scene?",
+      "critical": "Why might critics once have called this style naive, and why do many now admire it?"
+    },
+    "g910": {
+      "daily": "How do Rousseau's choices about contour, scale, and simplification shape your first interpretation of the scene?",
+      "emotion": "How does the quiet, orderly appearance of the landscape contribute to a mood that is calm yet slightly strange?",
+      "observation": "Analyze the hierarchy of elements: how do the mill, trees, and figures compete for attention?",
+      "analysis": "How do the verticals of trees and buildings and the horizontals of the ground structure the composition?",
+      "line": "How does Rousseau use clear contour to separate forms, and how does it flatten the space?",
+      "shape": "How does the pattern of leaf and plant shapes reflect the artist's decorative approach?",
+      "color": "How does the controlled palette of greens, browns, and sky tones unify the scene?",
+      "texture": "How does the smooth surface differ from the visible paint handling common among his Impressionist contemporaries?",
+      "space": "How is depth suggested through overlap and placement rather than atmospheric blur?",
+      "light": "How does even, clear light flatten or heighten the sense of reality?",
+      "meaning": "What does the choice of an industrial subject at the city's edge suggest, and where does interpretation become speculative given the lack of a museum description?",
+      "culture": "How does the painting reflect the rapid expansion of Paris and its suburbs in the late nineteenth century?",
+      "technique": "How does the label naive shape, or limit, how we read Rousseau's deliberate choices?",
+      "personal": "How does your experience of the edges of towns and cities compare with Rousseau's view?",
+      "critical": "To what extent can we claim intention for a painting when the museum record offers only tags and technical data?"
+    },
+    "g1112": {
+      "daily": "What argument about modern life and landscape does the painting seem to make through its formal restraint?",
+      "emotion": "How does the combination of precision and strangeness complicate any single label for the painting's mood?",
+      "observation": "Describe the painting precisely, then identify what you are inferring because the museum offers little description.",
+      "analysis": "Analyze how the painting orders mill, vegetation, and figures into a stable, almost frieze-like arrangement.",
+      "line": "How does the strong contour contribute to the sense of an autonomous, flattened pictorial world?",
+      "shape": "Consider how Rousseau's simplification of natural forms relates to decorative traditions and to the interests of later modernists.",
+      "color": "How does the controlled, harmonized color work as design rather than as a record of observed atmosphere?",
+      "texture": "How does the carefully worked surface challenge the idea that modern painting must foreground visible brushwork?",
+      "space": "How does the compressed space between foreground and background shape the viewer's relation to the scene?",
+      "light": "Discuss how even illumination contributes to a feeling of timelessness or suspension.",
+      "meaning": "Evaluate competing readings of the sawmill as documentary subject, as quiet symbol of modernization, or as a purely pictorial pretext.",
+      "culture": "How did critics and fellow artists reframe Rousseau's work, and what does that reveal about the category of naive art?",
+      "technique": "How does the work's modest scale affect your sense of its ambition?",
+      "personal": "How do your own expectations about trained and self-taught artists shape your response?",
+      "critical": "What additional evidence would help you decide what Rousseau intended the scene to say?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (countryside, France, people, plants, mills, trees, landscapes), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small oil painting from about 1893-95. The Art Institute record lists a mill, trees, plants, and people but gives no description, and notes other titles used for the work. Rousseau is widely described as a self-taught painter.",
+    "vocabulary": [
+      "naive art",
+      "self-taught",
+      "contour",
+      "landscape",
+      "flattened space",
+      "suburb"
+    ],
+    "directions": [
+      "Have students draw an everyday workplace using clear outlines and simple shapes, then compare it with a detailed drawing.",
+      "Ask students to list what they know from the painting and what they would still like to learn from a caption.",
+      "Discuss how the edges of a city differ from its center and what an artist might notice there."
+    ]
+  }
+}

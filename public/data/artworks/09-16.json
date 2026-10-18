@@ -1,0 +1,158 @@
+{
+  "id": "met-337622",
+  "day": "09-16",
+  "title": "The Races",
+  "artist": "Edouard Manet",
+  "date": "1865–72, published 1884",
+  "medium": "Lithograph on chine collé; third state of three",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108215.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP108215.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1920",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A lithograph in black and gray of a horse race, with racehorses and riders moving quickly across the scene and a crowd or track in the background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/337622",
+    "objectId": "337622",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Sports, Horses), public-domain flag, and image URLs read from the record. Region is a well-established label for the artist, not a record field."
+  },
+  "context": "A lithograph by the French artist Edouard Manet, dated 1865–72 and published in 1884, the year after his death. It shows a horse race, a subject that interested Manet in other works as well.",
+  "descriptions": {
+    "k": "Horses are racing! The picture was made with soft, smudgy black crayon. The horses seem to move fast. Can you find a horse and its rider? What sounds might you hear at this race?",
+    "g12": "Edouard Manet made this picture of a horse race in France. He drew with a greasy crayon on a flat stone, and then it was printed. The lines are loose and smudgy, like quick drawing. Look at the horses and riders. How does the picture show speed?",
+    "g35": "Edouard Manet made this lithograph of a horse race. In lithography, an artist draws with a greasy crayon on a flat stone, and the drawing is printed with ink. The loose, quick marks help the horses look as if they are rushing past. Look for the riders and the crowd. How do the marks help you feel the speed?",
+    "g68": "Manet's The Races shows how lithography can capture speed. Drawing with greasy crayon on stone allows loose, fast marks that suit moving horses. The print is dated 1865–72 but was published in 1884, after Manet's death in 1883, and the Met notes it is the third of three states. It is printed with chine collé, a thin sheet bonded to a heavier one. Notice how blurred forms suggest movement. Why might an artist choose a rough, quick look over crisp detail?",
+    "g910": "In The Races, Manet uses the freedom of lithography to convey motion through loose, sketchlike marks rather than precise contour. The print's date range of 1865–72 and its publication in 1884, after his death, mean it reached audiences later than it was made. The chine collé process, in which a thin paper is bonded to a heavier sheet, gives the image a soft ground. Consider how blurred, abbreviated forms suggest speed, and how horse racing fit into modern leisure in Paris.",
+    "g1112": "The Races exemplifies Manet's interest in modern leisure and in the sketch-like handling that scandalized some contemporaries. Lithography allowed fluid, painterly drawing, and the broad marks here dissolve detail to suggest velocity. The date of 1865–72 and publication in 1884 mean the print's reception belongs partly to a posthumous moment. Chine collé alters the printed surface, adding a refined tone. Scholars debate how such late-published prints should be read against Manet's lifetime choices; how does the image balance observation of a social spectacle with abstraction?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which horse do you think is winning the race? What makes you think so?",
+      "emotion": "Does this race feel loud and exciting or quiet? What do you see that tells you?",
+      "observation": "What can you find in this race picture? Point to a horse and a rider.",
+      "analysis": "Where do your eyes go first? What do they follow next?",
+      "line": "The lines look fast and smudgy. Find a place where the lines look like they are moving.",
+      "shape": "What shapes make up a galloping horse? Look at the legs and the body.",
+      "color": "This picture is black and gray on pale paper. How can you tell the horses are moving fast?",
+      "texture": "Some parts look smudgy like soft chalk. How do you think the crayon felt on the stone?",
+      "space": "Which horses look near and which look far? How can you tell?",
+      "light": "Where is the picture dark and where is it light? What does the dark do?",
+      "meaning": "Why do you think people liked to go to horse races long ago?",
+      "culture": "People in France went to watch races for fun. What do people go to watch for fun where you live?",
+      "technique": "The artist drew on a big flat stone. Why might that feel different from drawing on paper?",
+      "personal": "What is the fastest thing you have seen move? Tell about it.",
+      "critical": "A drawing can show speed even though it does not move. How does this one do it?"
+    },
+    "g12": {
+      "daily": "How does this print show that the horses are racing and not standing still?",
+      "emotion": "What feeling does the race give you? Which marks help create it?",
+      "observation": "Describe four things in the race scene, from near to far.",
+      "analysis": "How does Manet use the horses to lead your eyes across the picture?",
+      "line": "Find loose, quick lines and strong, dark lines. How do they change the feeling of speed?",
+      "shape": "Look at the shapes of the horses' bodies and legs. How do they show motion?",
+      "color": "The print uses black and gray. How can dark and light make a race look exciting?",
+      "texture": "Where do the crayon marks look soft and smudgy? Why might that help the horses look fast?",
+      "space": "How does the print show some horses near the front and others behind?",
+      "light": "Where are the lightest parts of the print? How do they help you see the horses?",
+      "meaning": "What do you think the artist most wanted to show: the horses, the crowd, or the speed?",
+      "culture": "Horse racing was a popular outing in France in the 1800s. What might people have enjoyed about it?",
+      "technique": "In lithography, the artist draws with a greasy crayon. Why might this be good for drawing fast action?",
+      "personal": "If you could draw a race, what would you use to show speed: lines, smudges, or something else?",
+      "critical": "Why might an artist leave some parts of a picture unfinished or blurry on purpose?"
+    },
+    "g35": {
+      "daily": "What do the loose marks in this print tell you about how Manet saw the race?",
+      "emotion": "What excitement or tension do you feel? Which marks and shapes create it?",
+      "observation": "Take one minute to scan the print. What small details of horses, riders, or crowd do you find?",
+      "analysis": "How does Manet arrange the horses and background so you feel the race moving across the page?",
+      "line": "How do the quick, smudgy marks of the crayon compare with clean, sharp lines?",
+      "shape": "How do the stretched shapes of the horses create a feeling of speed?",
+      "color": "Lithographs like this use shades of gray. How does Manet use dark and light to show action?",
+      "texture": "How does the grainy, crayon-like quality of the marks suggest dust, motion, or crowds?",
+      "space": "How does Manet show the track and the distance between the horses and the audience?",
+      "light": "Where does the print leave paper bare to create light, and what effect does it have?",
+      "meaning": "Why might Manet have chosen to draw a modern event like a horse race?",
+      "culture": "How was going to the races a part of city life in France in the 1860s?",
+      "technique": "A thin paper is attached to a heavier sheet in chine collé. Why might printers use this technique?",
+      "personal": "Think of a time you watched something fast. How would you show the speed in a drawing?",
+      "critical": "The print was published after Manet died. How might that change the way we think about it?"
+    },
+    "g68": {
+      "daily": "How does Manet use looseness rather than detail to communicate the speed of the race?",
+      "emotion": "What energy does the print convey, and which choices of mark create that energy?",
+      "observation": "Describe the print from foreground to background. Which parts are clear and which are abbreviated?",
+      "analysis": "How does the composition create a sense of movement across the page rather than into it?",
+      "line": "How does the line quality of greasy crayon differ from the controlled line of an etching?",
+      "shape": "How do elongated, overlapping forms of horses and riders create rhythm?",
+      "color": "With only gray and black, how does Manet organize the picture to guide attention?",
+      "texture": "How does the grain of the lithographic stone appear in the print, and how does it support the subject?",
+      "space": "How does Manet suggest depth with few details?",
+      "light": "How does contrast between dark masses and pale paper create drama?",
+      "meaning": "What does the choice of subject suggest about how Manet viewed modern life in Paris?",
+      "culture": "How did leisure activities like horse racing reflect changing social life in France?",
+      "technique": "What are the advantages and risks of drawing on a lithographic stone compared with working on a metal plate?",
+      "personal": "How do you decide what to leave unclear when you want to capture an energetic moment?",
+      "critical": "Does an artwork need to be finished and polished to be effective? Use this print to explain."
+    },
+    "g910": {
+      "daily": "How does Manet translate the experience of a race into the vocabulary of lithographic marks?",
+      "emotion": "How does the print generate excitement through technique rather than narrative detail?",
+      "observation": "Describe the print's hierarchy of detail. What is fully described, and what dissolves into suggestion?",
+      "analysis": "Analyze how the composition organizes horses, riders, and setting to emphasize momentum.",
+      "line": "How do loose, gestural strokes serve both description and expression?",
+      "shape": "How do repeated, overlapping forms build a rhythm that suggests the horses' rush?",
+      "color": "How does tonal range stand in for color in conveying space and speed?",
+      "texture": "How does the grain of the crayon and stone register on the page, and how does it affect the subject?",
+      "space": "How does the print balance a shallow, flattened space with the sense of movement across it?",
+      "light": "How do areas of bare paper contribute to the sensation of speed and glare?",
+      "meaning": "How might this print reflect the Impressionist-era fascination with modern leisure and fleeting moments?",
+      "culture": "How did mass entertainment such as racing change the subjects available to artists in mid-century France?",
+      "technique": "What does the record's mention of chine collé and three states reveal about the print's making?",
+      "personal": "How does your own experience with fast-moving events shape how you read blur and abbreviation in an image?",
+      "critical": "How should a posthumously published print be weighed against works Manet released during his lifetime?"
+    },
+    "g1112": {
+      "daily": "What interpretive claims about Manet's modernity can be supported by this print, and where does the evidence run out?",
+      "emotion": "How does the print's sketch-like surface produce a feeling of immediacy, and how does that depend on historical notions of finish?",
+      "observation": "Describe the formal structure of the print precisely. Which observations depend on identifying the subject before you see it?",
+      "analysis": "Analyze how Manet balances legibility and abstraction to produce a convincing impression of velocity.",
+      "line": "How does gestural marking in lithography unsettle the distinction between drawing and printing?",
+      "shape": "How do the print's fragmented forms relate to larger debates about finish and fragment in nineteenth-century art?",
+      "color": "How does the tonal gradation of crayon on stone replace chromatic contrast, and with what effect?",
+      "texture": "How does the visible grain of the stone inflect the reading of the image as spontaneous or constructed?",
+      "space": "How does the print negotiate between flattened surface and the illusion of motion through space?",
+      "light": "How does reserved paper operate as light, and how does it relate to Impressionist ideas about brightness?",
+      "meaning": "Evaluate competing readings of the print as a record of leisure, an experiment in representing movement, or a posthumous commercial product.",
+      "culture": "How does the 1884 publication date complicate our assignment of this image to a particular moment in French art?",
+      "technique": "How does chine collé change both the look and the status of the impression, and what does it imply about the print market?",
+      "personal": "How do contemporary visual habits, including blur effects in photography and video, shape your reading of this image?",
+      "critical": "What evidence would you need to determine how much of this print's final form reflects Manet's intentions?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Sports, Horses) read from the museum record; a horse-race subject with no nudity, graphic violence, or frightening content indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Edouard Manet died in 1883; the Met record dates this lithograph 1865–72 and says it was published in 1884, third state of three, with chine collé.",
+    "vocabulary": [
+      "lithograph",
+      "chine collé",
+      "state",
+      "gesture",
+      "tone",
+      "Impressionism"
+    ],
+    "directions": [
+      "Have students draw a fast-moving object with a soft crayon, using smudging to show speed.",
+      "Ask students to compare this print with the Muybridge horse photographs and discuss two ways of showing motion.",
+      "Discuss why an artist might choose a loose, unfinished look."
+    ]
+  }
+}

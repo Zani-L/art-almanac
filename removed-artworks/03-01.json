@@ -1,0 +1,158 @@
+{
+  "id": "met-245701",
+  "day": "03-01",
+  "title": "Glass mosaic bowl",
+  "artist": "Artist unknown",
+  "date": "late 1st century BCE–early 1st century CE",
+  "medium": "Glass",
+  "region": "Roman, probably Italian",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP141525.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP141525.jpg",
+    "credit": "The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A glass bowl made of many fused pieces of colored glass, forming a patterned, mosaic-like surface. It is a Roman vessel from around the time of the first emperor.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/245701",
+    "objectId": "245701",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A bowl made of mosaic glass, probably in Italy, around the turn from the 1st century BCE to the 1st century CE. Mosaic glass is made by fusing pieces of colored glass together, which makes a patterned surface.",
+  "descriptions": {
+    "k": "This bowl is made of glass. It looks like it is built from many little colorful pieces. People in ancient Rome made it by hand. Where do you see patterns? Which color do you like best?",
+    "g12": "This glass bowl was made in ancient Rome about 2,000 years ago. Its patterned surface comes from many small pieces of colored glass melted together. It is like a mosaic, but the bowl is glass all the way through. Look for repeated shapes and colors. How would a bowl like this look on a table?",
+    "g35": "Roman glassmakers made this bowl by fusing pieces of colored glass, then shaping the glass into a bowl. The result looks a bit like a mosaic, which is why it is called mosaic glass. The pattern covers the surface and gives the bowl a rich look. Look for repeated colors and shapes. Why might a bowl like this have been treasured by its owner?",
+    "g68": "Mosaic glass is made by arranging pieces or rods of colored glass, fusing them in heat, and shaping the result into a vessel. This bowl is dated to the late 1st century BCE or early 1st century CE, when glassworking in the Roman world was changing and growing. The technique turns a practical object into a surface of pattern and color. Study how the repeated elements create rhythm. What does the effort required suggest about who might have owned it?",
+    "g910": "This bowl shows glassworking as decorative art. In mosaic glass, the pattern is made inside the material, not painted on it, so color, design, and form are the same thing. The technique was demanding, which suggests objects like this were valued. As you look, consider how repetition creates rhythm and how a transparent or translucent material changes the way color is seen. What does the bowl suggest about Roman taste at the turn of the era?",
+    "g1112": "Mosaic glass vessels from the early Roman Empire show a high level of technical command, and the bowl's decoration is inseparable from its material: the pattern is built into the glass. Scholars connect early glass luxury goods with growing trade and production in the Mediterranean, though the exact workshop and use of this bowl cannot be determined from the record. Consider how the technique balances control and chance, and how a bowl that now serves as an exhibit once belonged to daily life or display."
+  },
+  "questions": {
+    "k": {
+      "daily": "What would you put in this glass bowl?",
+      "emotion": "Do the colors in this bowl make you feel calm or excited? Why?",
+      "observation": "What can you find on this bowl? Point to three things.",
+      "analysis": "Where do your eyes go first? What do they look at next?",
+      "line": "Can you find lines in the pattern? Trace one with your finger in the air.",
+      "shape": "What shapes can you find in the pattern?",
+      "color": "Which colors do you see? Which one stands out most?",
+      "texture": "Glass can feel cool and smooth. How do you think this bowl would feel in your hands?",
+      "space": "Look at the bowl from above. Which part is the inside and which part is the outside?",
+      "light": "Glass lets light shine through. Where do you think light would shine in this bowl?",
+      "meaning": "If this bowl could tell a story, what would it say about the people who used it?",
+      "culture": "People in ancient Rome made this bowl. What kinds of bowls do you use at home?",
+      "technique": "Many little pieces were joined to make this glass. How do you think a glassmaker did it?",
+      "personal": "If you made a bowl from colored glass, which colors would you pick?",
+      "critical": "Why might someone take so much care to make a bowl pretty?"
+    },
+    "g12": {
+      "daily": "What do you think people used this bowl for? What clues help you decide?",
+      "emotion": "What feeling do the colors and patterns give you? Which part makes you feel that way?",
+      "observation": "Describe the pattern you see on the bowl. Use words about color and shape.",
+      "analysis": "How does the pattern lead your eyes around the bowl?",
+      "line": "Look for lines in the pattern. Are they straight, curved, or both?",
+      "shape": "Find a shape that repeats. How many times can you find it?",
+      "color": "How do the colors work together? Which colors sit next to each other?",
+      "texture": "Why do you think glass was made to look bumpy or smooth here? What can you see?",
+      "space": "How can you tell the bowl is hollow? What shows you its inside and outside?",
+      "light": "How do you think light would look passing through this glass?",
+      "meaning": "Why might someone want a bowl with a pattern instead of a plain one?",
+      "culture": "This bowl was made in Rome's time. What can it tell us about what people in Rome liked?",
+      "technique": "The glass pieces were melted together. Why might that be hard to do?",
+      "personal": "Design your own pattern for a glass bowl. What shapes and colors would you use?",
+      "critical": "Would you use this bowl every day or save it for special times? Explain."
+    },
+    "g35": {
+      "daily": "What do you notice about how this bowl is built? Use details from the picture.",
+      "emotion": "What mood does the bowl's pattern create, and which details help create it?",
+      "observation": "Look for one minute. What patterns do you see that you missed at first?",
+      "analysis": "How do the repeated colors and shapes organize the surface of the bowl?",
+      "line": "How do the lines in the pattern flow around the bowl? Where do they change direction?",
+      "shape": "How do the shapes in the pattern fit together like pieces of a puzzle?",
+      "color": "How do the colors next to each other make each other look brighter or calmer?",
+      "texture": "How does the surface of glass look different from a surface of clay or metal?",
+      "space": "A bowl has an inside and an outside. How does the shape of the bowl affect the way the pattern looks?",
+      "light": "Glass can let light pass through. How might this change the way the colors look in daylight?",
+      "meaning": "Why might a family choose a bowl with such a rich pattern? List a few ideas.",
+      "culture": "Rome was a huge empire with many trade routes. What might a glass bowl like this tell us about trade and craft?",
+      "technique": "Glassmakers fused colored glass pieces and then shaped them. Why might this take planning?",
+      "personal": "Choose a household object. How could you decorate it so it looks special like this bowl?",
+      "critical": "What makes you think this bowl was valuable to its owner, and what other explanations are there?"
+    },
+    "g68": {
+      "daily": "How does the maker turn a simple bowl into a work of art through pattern and color?",
+      "emotion": "What mood does the combination of color and repetition create? Support it with specific visual evidence.",
+      "observation": "List the visual elements you see in the pattern. Which seem most carefully placed?",
+      "analysis": "How does repetition create rhythm across the surface, and where does variety break the rhythm?",
+      "line": "How do linear elements in the pattern relate to the curve of the bowl?",
+      "shape": "How do the smaller shapes within the pattern relate to the larger shape of the bowl?",
+      "color": "How do contrasts between colors make some areas advance and others recede?",
+      "texture": "How is the texture of a fused glass surface different from painted pottery? What do you imagine?",
+      "space": "How does the bowl's shape, with a rim, sides, and interior, give the pattern a three-dimensional setting?",
+      "light": "How might the translucence of glass allow light to affect colors differently than on an opaque bowl?",
+      "meaning": "What might it mean that the decoration is part of the material itself instead of added afterwards?",
+      "culture": "How does this bowl reflect Roman interest in luxury goods and skilled craft at the turn of the era?",
+      "technique": "What stages of work, such as assembling, heating, and shaping, would the maker have needed to manage?",
+      "personal": "What items in your life are valued for how well they are made? Compare them with this bowl.",
+      "critical": "What can we say confidently about this bowl, and what do we not know about its maker or use?"
+    },
+    "g910": {
+      "daily": "How do the technical complexity and visual richness of the bowl work together to shape its value?",
+      "emotion": "How does rhythmic pattern create a sensory or emotional effect in a small tabletop object?",
+      "observation": "Describe the visual hierarchy of the surface: where do you look first, and which devices lead you onward?",
+      "analysis": "Analyze how repetition and variation organize the pattern across the curved form.",
+      "line": "How do linear and color boundaries within the pattern function as a kind of drawing inside the glass?",
+      "shape": "How does the relation of small units to the whole bowl echo the logic of a mosaic?",
+      "color": "How do chosen color combinations create harmony or tension, and how might the glass's translucence alter them?",
+      "texture": "How do the qualities of glass as a material, such as smoothness and brilliance, shape the viewing experience?",
+      "space": "How does the form of a bowl, open at the top, invite both display and use?",
+      "light": "How might the changing light in a Roman interior have made this bowl look different at different times?",
+      "meaning": "In what ways might luxury objects like this communicate status without any picture or inscription?",
+      "culture": "How does the bowl connect to Roman trade and technology, and how can an object stand for broader social change?",
+      "technique": "What technical risks, such as cracks from uneven cooling, would the maker have faced in fusing glass elements?",
+      "personal": "How do you decide whether a handmade object is art or craft, and does the distinction matter for this bowl?",
+      "critical": "What kinds of evidence might help scholars determine where and by whom this bowl was made?"
+    },
+    "g1112": {
+      "daily": "What can be inferred about the bowl's meaning and value from its material and method, and what goes beyond the evidence?",
+      "emotion": "How might a visual pattern evoke emotion without depicting anything? Does that apply to this bowl?",
+      "observation": "Describe the object's surface and structure as precisely as possible before interpreting it.",
+      "analysis": "Analyze how the bowl's design coordinates pattern, form, and material into a unified whole.",
+      "line": "How does pattern in this bowl function as structure rather than surface decoration?",
+      "shape": "How does the modular logic of mosaic glass relate to the ancient mosaics made from stone and glass tesserae, and where do they differ?",
+      "color": "How does color operate in a material where pigment is distributed within the object itself?",
+      "texture": "How does the material's capacity to transmit and refract light complicate our reading of surface?",
+      "space": "How does the bowl's vessel form complicate the relationship between interior and exterior in its decoration?",
+      "light": "How does museum lighting alter our understanding of a translucent object made for different light conditions?",
+      "meaning": "To what extent can an abstract, non-narrative object carry cultural meaning, and how would we argue for it?",
+      "culture": "How does glass production in the early Roman Empire illustrate connections between technology, trade, and taste?",
+      "technique": "What does the technique suggest about workshop organization, planning, and skill transmission, and how certain can we be?",
+      "personal": "How does the modern museum context change the meaning of an object that was once part of daily life or display?",
+      "critical": "How should we handle uncertainty about a bowl's origin and original use when we write about it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a glass bowl with no figures indicated in the record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A mosaic glass bowl from the Roman world, dated to the late 1st century BCE or early 1st century CE and attributed to Italy as a probable origin. Mosaic glass is made by fusing pieces of colored glass.",
+    "vocabulary": [
+      "mosaic glass",
+      "vessel",
+      "pattern",
+      "translucent",
+      "Roman Empire",
+      "rhythm"
+    ],
+    "directions": [
+      "Have students design a repeating pattern with colored paper squares, then discuss how the repetition creates rhythm.",
+      "Compare mosaic glass with a stone mosaic floor: both use small pieces, but how are they different?",
+      "Discuss how a pattern can be beautiful without showing a person or story."
+    ]
+  }
+}

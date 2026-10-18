@@ -1,0 +1,159 @@
+{
+  "id": "cma-161699",
+  "day": "05-11",
+  "title": "Crazy Quilt",
+  "artist": "Louisa Joiner",
+  "date": "c. 1887-1900",
+  "medium": "silk, ribbons, lace, velvet, embroidered, heat transfer",
+  "movement": "Victorian crazy quilt",
+  "region": "America (Watertown, New York)",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/2000.63/2000.63_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/2000.63/2000.63_print.jpg",
+    "credit": "The Cleveland Museum of Art, Gift of Mr. and Mrs. John Morrisey",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A quilt made of many differently shaped patches of silk, ribbon, lace, and velvet joined together, with embroidered stitching across the pieces.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/2000.63",
+    "objectId": "161699",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, creator (Louisa Joiner, American, 1844-1911), date, culture (America, New York, Watertown), technique, type (Textile), department, description (mix of fabrics and ribbons, initials on a lower-right panel, scraps believed from lake-cruise clothing, maker married to a Great Lakes sea captain), did-you-know note on the name, credit line, accession number 2000.63, CC0 license status and web/print image URLs read from the record",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "Louisa Joiner (1844-1911) made this crazy quilt in Watertown, New York, around 1887-1900, using silk, ribbons, lace, and velvet with embroidery. Her initials appear on a panel at the lower right. The Cleveland Museum of Art says some pieces are believed to be scraps cut from clothing worn on lake cruises, and that little is known about Joiner beyond being married to a Great Lakes sea captain.",
+  "descriptions": {
+    "k": "This quilt is made of many scraps of cloth sewn together. Can you find a shiny piece? A soft piece? What shape is your favorite patch?",
+    "g12": "Louisa Joiner sewed this quilt from many scraps of silk, ribbon, lace, and velvet. The pieces are all different shapes and colors. She stitched designs over them. Which patch do you want to touch most?",
+    "g35": "Louisa Joiner of Watertown, New York, sewed this crazy quilt around 1887 to 1900 from silk, ribbons, lace, and velvet. The museum says some scraps are believed to have come from clothes worn on lake cruises. Her initials are stitched on a panel at the lower right. Why do you think it is called a crazy quilt?",
+    "g68": "Crazy quilts got their name from being made of seemingly random scraps. Louisa Joiner stitched this one in Watertown, New York, around 1887 to 1900, using silk, ribbons, lace, and velvet. Some scraps may have come from clothes worn on lake cruises, and her initials appear at the lower right. Is a quilt made from scraps random, or carefully designed?",
+    "g910": "Louisa Joiner's Crazy Quilt (c. 1887-1900) pieces silk, ribbons, lace, and velvet into an apparently random arrangement that is in fact carefully assembled and embroidered. The museum notes that some scraps are believed to come from clothing worn on lake cruises, and that little is known of Joiner beyond her marriage to a Great Lakes sea captain. What does a quilt like this tell us about whose lives are recorded in art?",
+    "g1112": "Louisa Joiner's Crazy Quilt (c. 1887-1900), in silk, ribbons, lace, velvet, and embroidery, appears haphazard but depends on deliberate balance. Scraps believed to come from clothing worn on lake cruises link it to a life on the Great Lakes, yet little is known about its maker beyond her marriage to a ship's captain. How does the quilt challenge hierarchies between fine art and domestic craft, and what do its gaps in documentation suggest about how women's work is remembered?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many different colors can you find?",
+      "emotion": "Does this quilt feel cozy or fancy to you? What shows you?",
+      "observation": "Find a patch with lace or ribbon. What does it look like?",
+      "analysis": "What clothes do you think these pieces came from?",
+      "line": "Trace the stitching with your finger in the air. Is it wiggly or straight?",
+      "shape": "The patches have different shapes. Which shapes do you spot?",
+      "color": "Which patch is the brightest color?",
+      "texture": "Which patch looks softest? Which looks shiniest?",
+      "space": "Is the quilt flat, or do some pieces seem to pop out?",
+      "light": "Where do the shiny silk pieces seem to catch the light?",
+      "meaning": "Why might someone save scraps to make a quilt?",
+      "culture": "People keep blankets from family. Do you have a special blanket?",
+      "technique": "How do you think someone sewed these pieces together?",
+      "personal": "If you made a quilt from your old clothes, what would it look like?",
+      "critical": "What would you change about this quilt?"
+    },
+    "g12": {
+      "daily": "Which patch is the most interesting to you?",
+      "emotion": "Does the quilt feel calm or busy? Point to what makes you feel that.",
+      "observation": "List the materials you can see, like silk, lace, and ribbon.",
+      "analysis": "Why does your eye land on certain patches before others?",
+      "line": "Follow the stitches between two patches. What do you notice about their direction?",
+      "shape": "How do the odd shapes of patches fit together like a puzzle?",
+      "color": "How do the colors, bright and dark, work together?",
+      "texture": "How can you tell silk from velvet or lace?",
+      "space": "How does the quilt feel flat but also full of layers?",
+      "light": "Where do you see shiny spots and dull spots?",
+      "meaning": "Why might someone sew with scraps instead of new cloth?",
+      "culture": "What can a quilt tell us about how people lived long ago?",
+      "technique": "How did the maker connect pieces that do not match?",
+      "personal": "How would you plan a quilt so scraps look good together?",
+      "critical": "Is a quilt art? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which part of the quilt surprises you most, and what makes you say so?",
+      "emotion": "How would you describe the mood of this quilt, and what choices create it?",
+      "observation": "Look closely at the stitches over the patches. What do they add?",
+      "analysis": "How does Joiner arrange the pieces so your eye keeps moving?",
+      "line": "How do the stitched lines connect separate patches?",
+      "shape": "How do the irregular shapes fit together across the quilt?",
+      "color": "How do colors and shine make some patches stand out?",
+      "texture": "How does the quilt use silk, lace, ribbon, and velvet to show different textures?",
+      "space": "How does the quilt use layers of fabric to create a rich surface?",
+      "light": "How does the shiny silk reflect light compared with velvet?",
+      "meaning": "Why might a quilt made from scraps of lake-cruise clothing be meaningful?",
+      "culture": "What might this quilt tell us about home life in 1890s New York?",
+      "technique": "What skills did Joiner need to sew and embroider so many different cloths?",
+      "personal": "What scraps from your life would you save to make something?",
+      "critical": "Some people think quilts are crafts, not art. How would you respond?"
+    },
+    "g68": {
+      "daily": "What detail in the quilt do you notice only after looking for a while?",
+      "emotion": "What mood does the mix of rich materials create?",
+      "observation": "Describe how the patches are arranged. Where does your eye go first?",
+      "analysis": "How does the arrangement of patches create balance in a design that seems random?",
+      "line": "How do embroidered lines work with the patch edges?",
+      "shape": "How do the odd shapes of the patches fit together without leaving gaps?",
+      "color": "How do the colors and textures vary, and how does Joiner balance them?",
+      "texture": "How does the surface contrast velvet, silk, lace, and ribbon?",
+      "space": "How does the quilt use layers and stitching to make a surface with depth?",
+      "light": "How does light play off silk and velvet in different ways?",
+      "meaning": "The scraps are believed to come from clothes worn on lake cruises. How might that change the meaning of the quilt?",
+      "culture": "What does a crazy quilt suggest about Victorian homes and the value placed on handwork?",
+      "technique": "What does the stitching reveal about the time and skill Joiner invested?",
+      "personal": "What would you want to know about Louisa Joiner that the record does not say?",
+      "critical": "Is a quilt made from scraps random or planned? Argue one side with evidence."
+    },
+    "g910": {
+      "daily": "How does the apparent randomness of the patches affect your sense of the maker's control?",
+      "emotion": "What mood does the combination of rich fabrics and dense stitching create?",
+      "observation": "Study the initials and the stitching. What does the maker's signature suggest about authorship?",
+      "analysis": "Analyze how Joiner organizes irregular patches into a balanced overall pattern.",
+      "line": "How do embroidered lines both separate and connect the patches?",
+      "shape": "How do the angular, irregular shapes create rhythm across the surface?",
+      "color": "How do contrasting colors and materials create focal points without a central image?",
+      "texture": "How do silk, velvet, lace, and ribbon create a varied tactile surface?",
+      "space": "How does layered stitching and fabric build depth on a flat object?",
+      "light": "How does light on shiny silk and absorbent velvet create variety?",
+      "meaning": "The scraps are believed to come from lake-cruise clothing. What does that suggest about how personal history can be stitched into objects?",
+      "culture": "How does the crazy quilt reflect Victorian ideas about domestic art, display, and women's work?",
+      "technique": "What does the amount of handwork in this quilt show about value beyond monetary worth?",
+      "personal": "What does the limited information about the maker make you question about who gets remembered?",
+      "critical": "Should a quilt be judged as craft, design, or fine art? Support your answer."
+    },
+    "g1112": {
+      "daily": "How does the surface complicate the line between chaos and design?",
+      "emotion": "Does the dense, rich fabric suggest comfort or display, and how might viewers differ?",
+      "observation": "Examine the initials and stitching. How does a signature in thread differ from a signature on canvas?",
+      "analysis": "Analyze how the composition builds unity from irregular fragments.",
+      "line": "How do embroidered seams act as both structure and drawing?",
+      "shape": "How does the quilt use irregular geometry to create rhythm without repetition?",
+      "color": "Evaluate how color, sheen, and material variety substitute for a central subject.",
+      "texture": "What does the mixture of silk, velvet, lace, and ribbon reveal about the relationship between texture and status?",
+      "space": "How does layered stitching make this a relief-like object rather than a flat design?",
+      "light": "How does the contrast between reflective and absorbent fabrics shape the quilt's changing appearance?",
+      "meaning": "How does the belief that some scraps came from lake-cruise clothing turn the object into a kind of memory?",
+      "culture": "How does the crazy quilt reflect nineteenth-century domestic culture and the value placed on women's handwork?",
+      "technique": "What does the thin documentation of the maker suggest about how histories of art have been written?",
+      "personal": "How does this object challenge hierarchies that rank painting above textile?",
+      "critical": "What criteria would you use to defend this quilt as a major work to someone who sees it as a household item?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, type and department checked against the Cleveland Museum of Art Open Access record; no concerning terms or imagery in the record fields read. The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A crazy quilt made by Louisa Joiner (1844-1911) in Watertown, New York, around 1887-1900, from silk, ribbons, lace, and velvet with embroidery. The museum notes some scraps are believed to come from clothing worn on lake cruises.",
+    "vocabulary": [
+      "quilt",
+      "patchwork",
+      "embroidery",
+      "texture",
+      "pattern",
+      "craft"
+    ],
+    "directions": [
+      "Give students fabric or paper scraps and have them arrange and glue a small crazy-quilt collage, then explain how they balanced color.",
+      "Ask students to bring in or describe a family textile and what story it holds, then compare with this quilt.",
+      "Discuss why we know so little about some makers and how objects can still tell us about them."
+    ]
+  }
+}

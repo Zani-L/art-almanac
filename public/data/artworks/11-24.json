@@ -1,0 +1,159 @@
+{
+  "id": "ahp-yellow-red-blue",
+  "day": "11-24",
+  "title": "Yellow Red Blue",
+  "artist": "Wassily Kandinsky",
+  "date": "1925",
+  "medium": "Oil on canvas",
+  "movement": "Abstract art",
+  "region": "Europe",
+  "image": {
+    "url": "/images/ahp-yellow-red-blue.jpg",
+    "credit": "Musée National d'Art Moderne - Paris in Paris; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/wassily-kandinsky/yellow-red-blue/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/12062/wassily_kandinsky-yellow_red_blue-1925-obelisk-art-history.jpg"
+  },
+  "altText": "An abstract painting with no recognizable objects. Large areas of yellow, red and blue sit beside one another, crossed by lines, circles, arcs and angular shapes in many sizes.",
+  "source": {
+    "museum": "Musée National d'Art Moderne - Paris in Paris",
+    "url": "https://www.arthistoryproject.com/artists/wassily-kandinsky/yellow-red-blue/",
+    "objectId": "yellow-red-blue",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, collection, public-domain statement)"
+  },
+  "context": "An oil painting on canvas by Wassily Kandinsky, made in 1925 and now at the Musée National d'Art Moderne in Paris. The page tags it as abstract art, meaning it does not show recognizable objects.",
+  "descriptions": {
+    "k": "This picture has no people or animals in it. It has big patches of yellow, red and blue. It also has lines, circles and curves. What shapes can you find? Which color do you like best?",
+    "g12": "Wassily Kandinsky made this picture from colors and shapes only. There are no people, animals or places. You can find big patches of yellow, red and blue, plus lines, circles and curves. What do the shapes remind you of? Do you hear any music?",
+    "g35": "Wassily Kandinsky painted Yellow Red Blue in 1925. It is abstract art, which means it does not show real objects. Instead, it uses color, line and shape to create feelings, like music does. Which colors and shapes grab your attention first, and what feeling do they give you? Describe what you see.",
+    "g68": "Kandinsky's Yellow Red Blue (1925) is an abstract painting built from large color fields and a lively network of lines, circles and angular shapes. Kandinsky often compared painting to music, believing color and form could express feelings without depicting objects. How do the contrasts between shapes and colors work like rhythm and melody, and what do you feel or imagine?",
+    "g910": "Yellow Red Blue (1925) is a major example of Kandinsky's abstraction, in which color and form carry meaning without a recognizable subject. Contrasts between fields of primary color and geometric elements create balance and tension. Kandinsky often linked painting to music and spiritual ideas. How do the compositional relationships work as a visual language, and what responses can you support from the evidence? Look closely at how the colors meet the lines.",
+    "g1112": "Kandinsky's Yellow Red Blue (1925) shows his mature abstraction, in which color fields, lines and geometric forms replace depiction. He often compared painting to music and argued that color and form could express inner experience, ideas that remain debated. The title names colors but offers no subject. How does the painting generate meaning without representation, and how far can a viewer's response be tested against the image? Weigh the evidence in the colors, the lines and the shapes."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the yellow, red and blue areas. Which one is biggest?",
+      "emotion": "How do these colors and shapes make you feel? Do they feel loud, quiet or happy?",
+      "observation": "Find a circle. Where else do you see circles?",
+      "analysis": "Look at the shapes next to each other. Which ones look like they touch?",
+      "line": "Trace one of the lines with your finger. Does it go straight, curve or zigzag?",
+      "shape": "Find a shape with points and a shape that is round. How are they different?",
+      "color": "Which color feels warm and which feels cool to you?",
+      "texture": "There are no real things here. If you could touch the picture, what would the paint feel like?",
+      "space": "Which shapes seem near you, and which seem farther back?",
+      "light": "Where is the brightest spot in the picture?",
+      "meaning": "If this painting were a song, what would it sound like?",
+      "culture": "Kandinsky made art from colors and shapes only. What can you make with just shapes?",
+      "technique": "The painter used a brush to make lines and circles. How do you think he made them?",
+      "personal": "Which part of this picture would you want to look at for a long time?",
+      "critical": "If you could add a new shape, what would it be and where would you put it?"
+    },
+    "g12": {
+      "daily": "Why do you think the artist used only colors and shapes instead of drawing real things?",
+      "emotion": "What mood do the yellow, red and blue give the picture?",
+      "observation": "List every shape you can find: circles, lines, triangles or others.",
+      "analysis": "Why does your eye jump from one part of the painting to another?",
+      "line": "How do the thin lines cross over the large patches of color?",
+      "shape": "Which shapes are round and which are sharp, and how do they work together?",
+      "color": "How do yellow, red and blue look different when they are next to each other?",
+      "texture": "How can you tell some parts are smooth and others have more brushwork?",
+      "space": "How do big shapes and small shapes make the picture feel crowded or open?",
+      "light": "Where do you see the brightest and darkest parts, and what do they do to the picture?",
+      "meaning": "What might the artist want you to feel when you look at color and shape together?",
+      "culture": "Kandinsky was inspired by music. How might music and painting be alike?",
+      "technique": "How do you think the painter decided where to put each line and circle?",
+      "personal": "What would you title this painting if you did not know its name?",
+      "critical": "What makes this painting feel organized or random to you? Give evidence."
+    },
+    "g35": {
+      "daily": "Which shapes or lines stand out first, and what makes them noticeable?",
+      "emotion": "What feeling do the strong colors and busy shapes create, and how do they cause it?",
+      "observation": "Choose one corner of the painting and describe its colors, lines and shapes.",
+      "analysis": "How does the painter balance large color areas with small shapes?",
+      "line": "How do the straight lines and curved lines differ in how they move your eyes?",
+      "shape": "Where do you see circles, triangles or arcs, and how do they repeat?",
+      "color": "How do yellow, red and blue interact when they sit next to each other?",
+      "texture": "How do the painted surfaces change from one section to another?",
+      "space": "How does the artist create a feeling of depth without showing a real place?",
+      "light": "How do light and dark colors create contrast in different parts of the picture?",
+      "meaning": "Kandinsky believed colors and shapes can express feelings, like music. What feeling would you say this picture expresses?",
+      "culture": "What do you know about how music and art can affect people in similar ways?",
+      "technique": "How is looking at an abstract painting different from looking at a landscape or portrait?",
+      "personal": "What would you want to know about how Kandinsky made this painting?",
+      "critical": "What makes abstract art as meaningful as, or different from, art that shows real things? Explain with this painting."
+    },
+    "g68": {
+      "daily": "How do the relationships among color fields and lines create a sense of order or chaos?",
+      "emotion": "What emotions can the interplay of colors and shapes evoke, and which choices create them?",
+      "observation": "Compare two regions of the painting. What differences in color, shape and density do you see?",
+      "analysis": "How does Kandinsky arrange large and small elements to balance the composition?",
+      "line": "How do straight, curved and angular lines differ in energy and direction?",
+      "shape": "How do geometric shapes such as circles and triangles create rhythm across the canvas?",
+      "color": "How do the primary colors in the title function, and how do the surrounding colors change them?",
+      "texture": "How does the paint handling shift between flat areas and more active passages?",
+      "space": "How does the painting create depth or flatness without recognizable objects?",
+      "light": "How do areas of light and dark create contrast and emphasis?",
+      "meaning": "What does Kandinsky's belief in painting as music suggest about how to look at this canvas?",
+      "culture": "How might abstract art have challenged what people expected from painting in the early twentieth century?",
+      "technique": "What technical skills are involved in planning such an unplanned-looking composition?",
+      "personal": "If you wrote a musical score for this painting, what would the instruments and rhythms be?",
+      "critical": "How can a painting without a recognizable subject still communicate? Use evidence from the image."
+    },
+    "g910": {
+      "daily": "How does the composition set up relationships among color, line and shape that function like a language?",
+      "emotion": "What emotional effects arise from the painting's contrasts, and which do you find most convincing?",
+      "observation": "Examine the junctions where lines meet color fields. What do they reveal about the painter's balance between planning and spontaneity?",
+      "analysis": "How does the arrangement of large fields and small forms create hierarchy and visual movement?",
+      "line": "How do the varied qualities of line, from straight to curved, provide contrast and rhythm?",
+      "shape": "How do the geometric forms interact with the larger color fields to create tension?",
+      "color": "How do the primary colors and their neighbors establish a system of harmony and contrast?",
+      "texture": "How do shifts in paint handling contribute to variety across the canvas?",
+      "space": "How does the painting create ambiguous space that moves between flat and deep?",
+      "light": "How does tonal contrast guide the eye and shape the energy of different regions?",
+      "meaning": "How does the idea of painting as visual music help or limit your interpretation?",
+      "culture": "How did Kandinsky's abstraction respond to the culture and ideas of his time?",
+      "technique": "How does the use of a formal title naming colors affect how you read the painting?",
+      "personal": "What does this painting make you consider about meaning that does not rely on a subject?",
+      "critical": "To what extent can we judge an abstract painting by criteria other than representation?"
+    },
+    "g1112": {
+      "daily": "How does Yellow Red Blue produce meaning through structure alone, and what are the limits of that claim?",
+      "emotion": "In what ways might the painting's emotional force be a property of the image and in what ways might it be our associations?",
+      "observation": "Scan the intersections of line and color field. What do they indicate about the interplay of control and improvisation?",
+      "analysis": "How does the compositional organization resist a single focal point, and what does that imply about attention?",
+      "line": "How do varied line qualities build a system comparable to musical notation, as Kandinsky's theories suggested?",
+      "shape": "How does the geometric vocabulary of the work relate to the artistic and educational environment in which Kandinsky worked in the 1920s?",
+      "color": "How might Kandinsky's ideas about color, which are debated, help or hinder a reading of this painting?",
+      "texture": "How does the surface handling relate to the work's balance of precision and gesture?",
+      "space": "How does the ambiguity of space challenge conventional ideas of figure and ground?",
+      "light": "How does tonal contrast contribute to a sense of rhythm and pause?",
+      "meaning": "How does naming a painting after colors position the viewer's expectations?",
+      "culture": "How did the move toward abstraction change what people expected of artists and of museums?",
+      "technique": "How does your own cultural background shape what you read into color and form here?",
+      "personal": "What would a robust argument look like that abstraction communicates more universally than representation, and how would you test it against this painting?",
+      "critical": "How should we evaluate a work that deliberately gives few clues about its subject?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on canvas), year, artist, collection (Musée National d'Art Moderne, Paris) and page tag (Abstract Art) read from the arthistoryproject.com page text; abstract subject, with no concerning terms (no nudity, violence, death or frightening imagery). The page labels the movement 'Early Modernist'; this is recorded as 'Abstract art', the label matching the page tag. Only page text was read; the image file was not visually inspected, and a person must view the image before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1925 by Wassily Kandinsky, now at the Musée National d'Art Moderne in Paris. It is an abstract work that uses color, line and shape without showing recognizable objects.",
+    "vocabulary": [
+      "abstract art",
+      "primary colors",
+      "line",
+      "geometric shape",
+      "composition",
+      "rhythm"
+    ],
+    "directions": [
+      "Play a short piece of music and have students paint colors and shapes that match what they hear, then compare paintings.",
+      "Ask students to find and name three relationships in the painting, such as big and small, curved and straight, warm and cool.",
+      "Discuss whether a painting needs a recognizable subject to have meaning."
+    ]
+  }
+}

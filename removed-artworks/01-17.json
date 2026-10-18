@@ -1,0 +1,151 @@
+{
+  "id": "met-17242",
+  "day": "01-17",
+  "title": "Sampler",
+  "artist": "Lydia Pearson",
+  "date": "1802",
+  "medium": "Silk embroidery on linen",
+  "region": "United States (New England)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP101963.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP101963.jpg",
+    "credit": "The Metropolitan Museum of Art, Friends of the American Wing Fund, by exchange, 2002",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A needlework sampler stitched in silk thread on pale linen cloth. Flowers are among the stitched designs, worked in small, careful stitches.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/17242",
+    "objectId": "17242",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, region, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A sampler stitched in silk on linen by Lydia Pearson in New England in 1802. Samplers of this period were often made by girls and young women to practise stitches and show their needlework skill. The Met's record lists flowers among its imagery.",
+  "descriptions": {
+    "k": "This is a piece of cloth covered in tiny stitches. Lydia Pearson sewed it with silk thread more than 200 years ago. Look for the flowers. Can you find a long stitch and a tiny stitch?",
+    "g12": "In 1802, Lydia Pearson stitched this sampler in New England. A sampler shows off sewing skill. She used shiny silk thread on linen cloth, and the design includes flowers. Each tiny stitch took patience. Pick one flower and look closely. How many colors of thread can you find in it?",
+    "g35": "A sampler is a piece of cloth stitched to practise needlework and show what the maker could do. Lydia Pearson made this one in New England in 1802, using silk thread on linen. Flowers appear among the designs. Think about how many hours it took to place each stitch. Which part do you think was hardest to sew, and what makes you say so?",
+    "g68": "Lydia Pearson embroidered this sampler in New England in 1802, working silk thread into a linen ground. Samplers were a common part of girls' education in the early United States, teaching stitches and showing skill to families and visitors. Notice how the flowers are built from many small stitches, and how thread colors and stitch directions turn flat cloth into shapes. Why might a young maker choose to repeat or vary a motif across the cloth?",
+    "g910": "This 1802 sampler by Lydia Pearson of New England shows how a domestic skill could also be a form of visual composition. Silk thread on linen builds floral forms from tiny, repeated stitches, and the maker had to plan placement, color, and spacing on a fixed grid of threads. Needlework like this was often tied to girls' schooling and to a household's pride in accomplishment, though it also records individual choices. Consider what the sampler tells us about the maker, and what it leaves unsaid.",
+    "g1112": "Lydia Pearson's 1802 sampler belongs to a large body of American schoolgirl and household needlework that scholars read as both education and self-presentation. Its silk-on-linen floral imagery reveals technical control, and the counted nature of the stitching imposes order on organic forms. Samplers raise questions about who gets recorded as an artist: they were long classed as domestic craft, yet they involved design, planning, and display. Reading one responsibly means weighing what the object shows against what we cannot know about Pearson's age, training, or intentions."
+  },
+  "questions": {
+    "k": {
+      "daily": "Lydia Pearson sewed this with a needle and silk thread. What do you think she wanted to show with her stitches?",
+      "emotion": "How do you think Lydia felt when she finished the last stitch? Why?",
+      "observation": "Point to a flower in the stitches. What colors of thread did she use?",
+      "analysis": "Where do your eyes go first on this sampler? What made them go there?",
+      "line": "Stitches make tiny lines. Can you trace a stitched line with your finger in the air?",
+      "shape": "What shapes do the stitched flowers make? Look for circles or pointy petals.",
+      "color": "Which thread color do you see most? Which one is your favorite?",
+      "texture": "How would the silk thread feel if you touched it? Smooth, bumpy, or something else?",
+      "space": "Are the flowers close together or far apart? Show where there is empty cloth.",
+      "light": "Silk thread can shine. Which stitches look shiny to you, and which look dull?",
+      "meaning": "Lydia stitched flowers instead of drawing them. Why might someone sew a flower?",
+      "culture": "This sampler was made in New England in 1802. What do we use today that people once sewed by hand?",
+      "technique": "A needle pulls thread through linen again and again. How many stitches do you think this took?",
+      "personal": "What is something you have made slowly with your hands? Tell about it.",
+      "critical": "Why might a family keep a sampler for over 200 years?"
+    },
+    "g12": {
+      "daily": "What do the stitched flowers tell you about how Lydia Pearson wanted to show her skill?",
+      "emotion": "Does this sampler feel busy or calm to you? Point to the stitches that make you feel that way.",
+      "observation": "Describe two flowers on this sampler. How are their stitches and colors alike or different?",
+      "analysis": "How are the flowers placed on the linen? Do they feel planned, and how can you tell?",
+      "line": "Silk thread makes lines when it is pulled across cloth. Which stitched lines are straight, and which curve?",
+      "shape": "Find a stitched flower shape you could draw with a pencil. What simple shapes did Lydia use to build it?",
+      "color": "Choose two thread colors that sit next to each other. How do they help each other stand out?",
+      "texture": "The base is linen and the design is silk. How are those two materials different to look at?",
+      "space": "Where is the cloth covered with stitches, and where is it left plain? How does plain cloth help the flowers?",
+      "light": "Where does the silk thread seem to glow or shine? Why might silk catch light better than linen?",
+      "meaning": "Why do you think a sampler includes flowers? Give one idea and one clue from the picture.",
+      "culture": "In 1802, girls in New England learned needlework as part of growing up. What skills do children learn at home or school today?",
+      "technique": "Embroidery means decorating cloth with thread. What steps do you think Lydia needed to follow, from first to last?",
+      "personal": "If you made a sampler, which picture or pattern would you stitch first? Why?",
+      "critical": "A sampler is sewing, but it is also a picture. Which one do you think it is more, and why?"
+    },
+    "g35": {
+      "daily": "What does this sampler show about the skill and patience of Lydia Pearson? Point to details that support your idea.",
+      "emotion": "What feeling do the tidy silk stitches create when you look at them closely? Which details cause it?",
+      "observation": "Take one minute to look at a small area of stitching. What details do you notice that you missed at first?",
+      "analysis": "How does Lydia balance flowers, plain linen, and thread color so the sampler feels organized?",
+      "line": "How does the direction of stitches change from one part of a flower to another? What does that do for the shape?",
+      "shape": "Look at how small stitches add up to a whole flower. How can tiny repeated marks make a large shape?",
+      "color": "Silk threads come in many dyed colors. How do the colors she chose work together on the pale linen?",
+      "texture": "Embroidery sits slightly above the cloth. How might this sampler feel different to touch than a painted picture?",
+      "space": "Look at the spacing between the stitched designs. What would change if everything were packed tightly together?",
+      "light": "Silk often shimmers as you move. How might the sampler look different in a bright room and a dim one?",
+      "meaning": "Samplers were kept and shown to others. What do you think Lydia hoped people would learn about her?",
+      "culture": "In early New England, sewing was part of many girls' education. How might that explain why samplers were made?",
+      "technique": "Silk thread was stitched through linen by hand. Why is it important that each stitch be small and even?",
+      "personal": "Think of a skill you practised until it got better. How is your practice like making a sampler?",
+      "critical": "Many samplers were once seen as simple household crafts. What evidence in this one suggests artistic planning?"
+    },
+    "g68": {
+      "daily": "How does Pearson turn thread, a needle, and a piece of linen into an image? Which choices stand out to you?",
+      "emotion": "The stitching is slow and precise work. How does that careful quality shape the mood of the finished piece?",
+      "observation": "Without interpreting yet, list the motifs and materials you can see. Which details are easiest to overlook?",
+      "analysis": "How does the arrangement of the flowers on the linen lead your eye across the sampler?",
+      "line": "In embroidery, lines are built from stitches. How do the stitch directions create outlines or movement?",
+      "shape": "How do repeated small stitches form larger flower shapes? Where might the maker have simplified a real flower?",
+      "color": "How do the dyed silk threads contrast with the neutral linen, and how does that contrast direct attention?",
+      "texture": "How does the smooth shine of silk against the weave of linen create a layered surface?",
+      "space": "Compare crowded and empty areas of cloth. How does the maker use blank linen as part of the design?",
+      "light": "How might the sheen of silk change how colors appear as the viewer moves or the light shifts?",
+      "meaning": "Why might flowers be a popular subject for early American needlework, and what other reasons could there be?",
+      "culture": "How does a sampler from 1802 reveal what skills families valued for girls at that time?",
+      "technique": "How does stitching on a linen weave limit or guide what shapes the maker can create?",
+      "personal": "What does learning a slow handmade skill teach, and how could an object like this capture that experience?",
+      "critical": "Should a sampler be judged as art, as schoolwork, or as both? Use details from this one to argue your case."
+    },
+    "g910": {
+      "daily": "What is the relationship between technical skill and personal expression in Pearson's sampler?",
+      "emotion": "How do repetition, small scale, and the softness of silk shape the emotional tone of the piece?",
+      "observation": "Describe the sampler's visual hierarchy. What draws attention first, and how does the maker create that emphasis?",
+      "analysis": "How does Pearson organize a fixed rectangle of linen with floral motifs? Analyze balance and rhythm.",
+      "line": "How does the grid of the linen weave constrain or enable the lines that make up each stitched form?",
+      "shape": "How do geometric structure and organic floral forms coexist in the embroidery?",
+      "color": "How does the dyed silk thread, set against undyed ground, work as a limited and deliberate palette?",
+      "texture": "How does embroidery combine drawing and weaving by making an image from surface thread?",
+      "space": "How is blank linen activated as negative space, and how does it affect the weight of the stitched areas?",
+      "light": "Silk fibers reflect light differently from linen. How does that physical difference create contrast beyond color?",
+      "meaning": "What might the choice of floral imagery signal about taste, education, or ideals in New England in 1802?",
+      "culture": "How do samplers connect to girls' schooling and household economy in the early republic, and what might they hide?",
+      "technique": "How does counted embroidery on linen require planning in advance, and how is that planning visible in the result?",
+      "personal": "How do you see discipline and creativity interact in your own practice of any craft or skill?",
+      "critical": "Why have objects like samplers been described as craft rather than art, and how persuasive is that distinction here?"
+    },
+    "g1112": {
+      "daily": "What claims about Lydia Pearson can this sampler support, and which claims would go beyond the evidence?",
+      "emotion": "How can precise, repetitive handwork communicate feeling without any overt expression? What are the risks of projecting emotion onto it?",
+      "observation": "Describe the sampler's surface precisely. At what point does description shade into assumptions about the maker?",
+      "analysis": "Analyze how the sampler organizes natural forms through a system of stitches. What does this order suggest about its purpose?",
+      "line": "How does the stitch function as both mark and structure, and how does this complicate a comparison with drawn line?",
+      "shape": "How do the flowers mediate between observation of nature and a stitch-based vocabulary of form?",
+      "color": "How might the age of dyed silk and linen alter the colors we see today, and what does that mean for interpretation?",
+      "texture": "In what ways does the material difference between silk and linen carry meaning, beyond visual effect?",
+      "space": "How does the sampler's treatment of its ground compare with the pictorial space of painting from the same period?",
+      "light": "How does silk's reflectivity make the object's appearance dependent on viewing conditions, and how should museums account for that?",
+      "meaning": "What competing readings are possible for a floral sampler: schoolwork, display of accomplishment, personal record? What evidence would separate them?",
+      "culture": "How has the history of needlework been shaped by gender and by distinctions between craft and fine art?",
+      "technique": "What does the technique tell us about the knowledge, training, and time available to a maker in 1802?",
+      "personal": "How does your own relationship to handmade objects shape the weight you give this sampler?",
+      "critical": "How does classifying needlework as domestic craft affect whose creativity gets remembered, and what would change if samplers were framed as design?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium, culture, and tags (Flowers) checked against the museum record; subject is domestic needlework with no figures flagged. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Stitched in New England in 1802. Samplers were commonly made by girls and young women, and the Met record names the maker as Lydia Pearson. Details such as her age and any inscription should be checked against the image before teaching.",
+    "vocabulary": ["sampler", "embroidery", "silk", "linen", "stitch", "motif"],
+    "directions": [
+      "Give students a small piece of cloth and a threaded needle (or paper and yarn) to try a few simple stitches and discuss how slow the process feels.",
+      "Ask students to design their own sampler with three motifs from their daily life.",
+      "Compare this sampler with another handmade object in the archive and discuss craft versus art."
+    ]
+  }
+}

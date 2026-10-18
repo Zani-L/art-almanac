@@ -1,0 +1,154 @@
+{
+  "id": "met-318386",
+  "day": "10-05",
+  "title": "Mapel (man's ceremonial skirt)",
+  "artist": "Kuba artist",
+  "date": "mid–late 19th century",
+  "medium": "Raffia palm fiber, cotton, dye",
+  "region": "Kuba peoples, Democratic Republic of the Congo",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A long, narrow textile made of raffia fiber with geometric patterns across its surface. It is about 3.8 meters long and 74 centimeters wide.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/318386",
+    "objectId": "318386",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, classification, tags (none), public-domain flag (false), and empty image fields read from the record"
+  },
+  "context": "A ceremonial wrapper, called a mapel, made by a Kuba artist in the Democratic Republic of the Congo in the mid to late 19th century. The record lists raffia palm fiber, cotton, and dye. It is very long, about 376 centimeters, and about 74 centimeters wide. Kuba textiles from raffia fiber are known for their geometric patterns.",
+  "descriptions": {
+    "k": "This is a long cloth made from palm leaf fibers. Kuba artists in Central Africa made it by hand. It is covered in patterns. Can you find lines, zigzags, or boxes? It is longer than a grown-up is tall!",
+    "g12": "This long cloth was made by Kuba artists in Central Africa. It is woven from the fibers of a raffia palm tree. It is almost four meters long, longer than two grown-ups lying head to toe! Look for patterns made with lines and shapes. Which pattern do you like best?",
+    "g35": "Kuba artists in the Democratic Republic of the Congo made this ceremonial skirt, called a mapel, in the 1800s. It is woven from raffia palm fibers and decorated with geometric patterns. It is about 376 centimeters long, much longer than a person is tall, so it was wrapped around the body. Look for shapes that repeat and shapes that change. How does the artist make so many patterns work together?",
+    "g68": "Kuba textiles are admired for their geometric patterns and their raffia fiber, which is taken from palm leaves. This mapel is a man's ceremonial skirt made in the mid to late 19th century, and at about 376 centimeters long it was made to be wrapped and layered. Kuba cloth is commonly described as a team effort, with men weaving the raffia and women adding embroidery and dye, although the museum record names no individual maker. How do pattern, scale, and repetition make this long cloth feel like a single design?",
+    "g910": "This 19th-century Kuba mapel shows how raffia, a plant fiber, becomes a ground for complex pattern. Kuba cloth is often made in a shared process: raffia is woven, then dyed, embroidered, or appliquéd. Ceremonial textiles like this one marked occasions and status, but the record does not specify how this cloth was used or which patterns have names. The great length of the cloth, over three and a half meters, means that it was meant to be worn in folds and layers. How might a design change when it is seen on a moving body rather than laid flat?",
+    "g1112": "Kuba textiles occupy an important place in discussions of African art because their patterned surfaces have long been compared to modern abstraction, a comparison that can both open and limit our understanding. This mapel, a ceremonial wrapper of raffia, cotton, and dye, comes from a society in which cloth was used to mark rank and occasion, but the record gives limited information about its maker or its use. Its length of over three and a half meters implies a garment worn in layers and folds. How can we appreciate the formal inventiveness of the pattern while keeping the focus on its role in Kuba life?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which pattern on this cloth is your favorite? Point to it.",
+      "emotion": "Does the cloth feel calm, busy, or something else? Why?",
+      "observation": "What can you find on the cloth? Point to lines, boxes, or zigzags.",
+      "analysis": "Which pattern do your eyes find first? What helps it stand out?",
+      "line": "Can you find a straight line and a zigzag line? Trace them in the air.",
+      "shape": "What shapes do you see in the patterns? Look for squares and triangles.",
+      "color": "What colors do you see on the cloth? Which one do you see the most?",
+      "texture": "The cloth is made from palm fibers. How do you think it would feel to touch?",
+      "space": "This cloth is very long. Show with your arms how long you think it is.",
+      "light": "Which parts of the cloth look light and which look dark?",
+      "meaning": "Who might wear a long cloth like this? Tell a little story.",
+      "culture": "Kuba artists in Central Africa made this. What special clothes do people wear for important days near you?",
+      "technique": "The cloth is made by weaving fibers over and under. Can you show weaving with your fingers?",
+      "personal": "If you could design a cloth, what pattern would you choose?",
+      "critical": "How can you tell this cloth was made by hand?"
+    },
+    "g12": {
+      "daily": "What patterns repeat on this cloth, and where do they change? Point to details.",
+      "emotion": "What feeling do the patterns give you? Show what makes you feel that way.",
+      "observation": "Describe three patterns you can find on the cloth.",
+      "analysis": "Find a pattern that repeats and a pattern that changes. How can you tell them apart?",
+      "line": "Find straight lines and zigzag lines. Where do they meet?",
+      "shape": "What shapes repeat on the cloth? Show where one shape appears again.",
+      "color": "Which colors are next to each other? Which pairs stand out the most?",
+      "texture": "The cloth is made of palm fibers. Which parts look smooth, and which look bumpy?",
+      "space": "The cloth is longer than a person. How is a long cloth different from a square picture?",
+      "light": "Some parts of the cloth look lighter and some look darker. How does that help the patterns show?",
+      "meaning": "People wear special cloth for special days. Why might someone choose a very long cloth?",
+      "culture": "Kuba artists make beautiful cloth from palm fibers. Why might people use plants from nearby to make cloth?",
+      "technique": "Weavers make cloth by crossing threads. Why might a weaver plan the pattern before starting?",
+      "personal": "What do you wear for special days? How is it like or different from this cloth?",
+      "critical": "This cloth is far longer than the person who wore it. How might it have been worn?"
+    },
+    "g35": {
+      "daily": "How does the artist organize so many patterns into one long cloth? Use details to explain.",
+      "emotion": "What mood do the patterns and colors create? Which details help create that mood?",
+      "observation": "Look for one quiet minute. Which pattern details on the cloth did you notice only on a second look?",
+      "analysis": "Where does the pattern repeat along the cloth, and where does it change? How does that affect your eye?",
+      "line": "How do straight lines and angled lines combine to create patterns?",
+      "shape": "Find a shape that repeats. How does repetition create rhythm?",
+      "color": "How do the dyed areas stand out from the natural fiber? What effect does that have?",
+      "texture": "Raffia is a plant fiber. How might it feel different from cotton or silk?",
+      "space": "This cloth is nearly four meters long. How does that length affect the way the design is arranged?",
+      "light": "How might the cloth look different in sunlight and in shade?",
+      "meaning": "Kuba patterns often have names, but the record does not give them for this cloth. Why is it useful to look first before guessing?",
+      "culture": "Cloth can show a person's place or an important occasion. What can clothing tell us about a person or event?",
+      "technique": "Raffia fibers come from palm leaves. What steps might be needed to turn leaves into cloth?",
+      "personal": "Think of something you made with a lot of patience. How is making it like making this cloth?",
+      "critical": "This cloth is a ceremonial skirt. How does knowing its purpose change what you notice?"
+    },
+    "g68": {
+      "daily": "How do repetition and variation make a very long cloth read as a unified design?",
+      "emotion": "What feeling do the patterns create, and which visual choices produce it?",
+      "observation": "Describe the cloth's patterns in order from one end to the other. What stays the same, and what changes?",
+      "analysis": "How does the long format affect how patterns are arranged and how a viewer reads them?",
+      "line": "How do straight and angled lines create rhythm across the surface?",
+      "shape": "Which geometric shapes appear, and how are they varied or combined?",
+      "color": "How do contrasts of color and tone build emphasis within the pattern?",
+      "texture": "How does raffia fiber, compared with cotton, affect the cloth's surface and structure?",
+      "space": "How does a design meant to be worn in folds and layers differ from one meant to be seen flat?",
+      "light": "How might light and movement change the pattern as the cloth is worn?",
+      "meaning": "Why should we be careful about assigning meaning to patterns when the record does not name them?",
+      "culture": "How do textiles show a community's ideas about rank, occasion, and beauty?",
+      "technique": "What skills and steps are involved in making raffia cloth, from preparing fiber to adding pattern?",
+      "personal": "How do you or your community use clothing to mark special days?",
+      "critical": "How is a long textile in a museum case different from the same textile worn on a person?"
+    },
+    "g910": {
+      "daily": "How does the mapel turn a plant fiber into a complex field of pattern?",
+      "emotion": "How do pattern and scale convey presence and occasion without figures or scenes?",
+      "observation": "Describe the visual hierarchy of the cloth. What draws the eye, and which devices do that?",
+      "analysis": "Analyze how repetition, variation, and format organize the design.",
+      "line": "How do lines create structure in the pattern, and how do they relate to the cloth's long format?",
+      "shape": "How does geometric pattern generate rhythm and complexity from simple shapes?",
+      "color": "How do color and tonal contrast structure the pattern, and how do the natural fiber and dye interact?",
+      "texture": "How does the raffia surface affect how pattern and dye appear?",
+      "space": "How does the cloth's great length shape the way the design unfolds, compared with a framed work?",
+      "light": "How might the cloth's appearance change as it moves, folds, and catches light?",
+      "meaning": "What kinds of evidence would you want before saying what a particular Kuba pattern means?",
+      "culture": "How does collaboration, such as weaving by one group and embroidery by another, challenge ideas about single authorship?",
+      "technique": "How do weaving, dyeing, and decoration each contribute to the finished cloth?",
+      "personal": "How do patterns in clothing or textiles around you communicate identity or belonging?",
+      "critical": "What are the risks of comparing Kuba cloth with modern abstract art, and what insights might the comparison offer?"
+    },
+    "g1112": {
+      "daily": "How does the mapel balance formal inventiveness with its role in Kuba social life?",
+      "emotion": "How does a purely geometric field convey status and occasion, and how can we discuss that without overreading?",
+      "observation": "Describe the cloth with precision. Where does your description depend on information the record does not give?",
+      "analysis": "Analyze how pattern, scale, and length work together to produce a sense of rhythm and unity.",
+      "line": "How do linear patterns create tension between order and surprise?",
+      "shape": "How does the geometry of the cloth challenge the distinction between ornament and abstraction?",
+      "color": "How might dye, fiber color, and age have changed the cloth's appearance since it was made?",
+      "texture": "How does the combination of raffia and cotton reflect available materials and trade?",
+      "space": "How does the use of a very long cloth, worn in folds, change the relationship between pattern and body?",
+      "light": "How might museum lighting flatten a textile meant to move?",
+      "meaning": "How can scholars discuss named patterns and symbolic meanings without losing sight of variation among makers and wearers?",
+      "culture": "How has the comparison of Kuba cloth to modern art shaped its reception, and what has that comparison obscured?",
+      "technique": "How does the division of labor in Kuba textile production complicate ideas about originality and authorship?",
+      "personal": "How does your own relationship to clothing and pattern shape what you notice in this cloth?",
+      "critical": "How can museums present textiles in ways that respect their original use and ongoing meaning to their communities?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Mapel (man's ceremonial skirt)), classification (Textiles-Woven), object name (Wrapper), medium (raffia palm fiber, cotton, dye), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Kuba ceremonial wrapper (mapel) from the Democratic Republic of the Congo, mid to late 19th century, made of raffia palm fiber, cotton, and dye. The record names no individual maker or pattern names, so avoid presenting interpretations as fact.",
+    "vocabulary": [
+      "raffia",
+      "Kuba",
+      "textile",
+      "pattern",
+      "repetition",
+      "ceremonial"
+    ],
+    "directions": [
+      "Have students design a long strip of paper with a repeating pattern that includes one deliberate change.",
+      "Trace a long strip of string across the classroom to feel the length of the mapel (about 3.8 meters).",
+      "Discuss how patterns can be admired for their design while still respecting that the makers had their own meanings for them."
+    ]
+  }
+}

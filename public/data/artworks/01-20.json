@@ -1,0 +1,158 @@
+{
+  "id": "met-264904",
+  "day": "01-20",
+  "title": "Yosemite Valley",
+  "artist": "Carleton E. Watkins",
+  "date": "ca. 1872, printed ca. 1876",
+  "medium": "Albumen silver print from glass negative",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ph/web-large/DP152190.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP152190.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A photograph in soft browns and grays of Yosemite Valley in California, showing mountains and steep rock walls rising above the valley.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/264904",
+    "objectId": "264904",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags, public-domain flag, and image URLs read from the record. Region is a well-established label from the title, not a record field."
+  },
+  "context": "A photograph of Yosemite Valley in California by Carleton E. Watkins, made around 1872 and printed around 1876 as an albumen silver print from a glass negative. Watkins was one of the best-known photographers of the American West in the 1800s.",
+  "descriptions": {
+    "k": "This is a photograph of a tall mountain valley in California. It was made long ago, so it is brown and gray, not full color. Look for the biggest mountain. How would it feel to stand here?",
+    "g12": "Carleton Watkins took this photograph in Yosemite, California, about 150 years ago. There was no color photography then, so the picture is made of soft browns and grays. The mountains look huge and quiet. Find the biggest shape you can. Then find the smallest detail. What do you notice?",
+    "g35": "Carleton Watkins carried heavy cameras and glass negatives into Yosemite Valley in California to photograph the landscape. This print has browns, grays, and creamy whites because it is an albumen print, an early kind of photograph. Look for where the land seems closest to you and where it seems farthest away. How does Watkins make the valley feel so big?",
+    "g68": "Carleton Watkins was one of the first photographers to make Yosemite Valley famous. Working in the 1800s, he used glass negatives and an albumen printing process, which gives the picture its warm brown tones and fine detail. Notice how the mountains and the open space of the valley are arranged to create depth. Photographs like his let people who had never traveled west imagine this place. What choices did he make about where to point his camera?",
+    "g910": "Made around 1872 and printed around 1876, this view shows Yosemite Valley through Watkins's careful eye. Printing on albumen paper from a glass negative captured fine detail, while the soft tones give the scene calm and grandeur. Watkins's Yosemite photographs circulated widely and are often linked to growing public interest in protecting the valley, though historians weigh their influence differently. Consider how viewpoint and composition turn a real place into an image of awe.",
+    "g1112": "Watkins's Yosemite photographs sit between document and art. Printed as albumen silver prints from glass negatives, they gave nineteenth-century viewers precise detail of a distant place, yet each depended on choices of viewpoint, framing, and printing. Scholars note that such images helped shape ideas of the American West as grand and empty, a framing that can overlook the Native people who lived in the valley long before. Historians also debate how much the photographs influenced early protection of Yosemite. How does that context change your reading of the view?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could step into this Yosemite picture, where would you walk first? Why?",
+      "emotion": "Does this valley feel loud or quiet to you? What in the picture tells you?",
+      "observation": "What big shapes can you find in this photograph? Point to two.",
+      "analysis": "Where do your eyes go first in this picture? Where do they go next?",
+      "line": "Find the edge where the mountains meet the sky or the ground. Trace it in the air.",
+      "shape": "Do the mountains look more like triangles or squares to you? Show what you see.",
+      "color": "This photograph has browns, grays, and creamy whites. How do those colors make the valley feel?",
+      "texture": "Look at the rocks. Would they feel smooth or rough to touch? Why do you think so?",
+      "space": "What looks close to you in this picture, and what looks very far away?",
+      "light": "Which parts of the picture are bright and which are dark? Where might the sun be?",
+      "meaning": "Why do you think the photographer carried a camera all the way to this valley?",
+      "culture": "People have lived near Yosemite for a very long time. What would you ask someone who knows this place well?",
+      "technique": "Photographs this old did not have color. What do you think the photographer needed to make this picture?",
+      "personal": "Have you ever stood somewhere very big, like a hill or a beach? Tell what it felt like.",
+      "critical": "A photograph shows only one view of a place. What might be outside the edges of this picture?"
+    },
+    "g12": {
+      "daily": "How does the photographer make this valley feel so big? Point to the details that help.",
+      "emotion": "What feeling does this quiet landscape give you? Which parts help you feel that way?",
+      "observation": "Describe four things you can see, from the nearest to the farthest.",
+      "analysis": "What does the photographer want you to look at first? How can you tell?",
+      "line": "Follow the edges of the mountains with your eyes. Are the lines jagged, smooth, or both?",
+      "shape": "Find the largest shape in the photograph. What other shapes sit beside or in front of it?",
+      "color": "The picture is made of browns, grays, and cream. Why might a landscape still feel rich without bright color?",
+      "texture": "Which parts of the land look rough and which look smoother? Explain what shows you.",
+      "space": "How can you tell what is near and what is far in this photograph?",
+      "light": "Where do you see the lightest areas? How do the darker areas make them stand out?",
+      "meaning": "Why might someone in the 1870s want a picture of this valley to hang at home?",
+      "culture": "Native people lived in Yosemite Valley long before photographers came. What might they have wanted to remember about it?",
+      "technique": "This photograph was printed from a glass negative onto paper. How is that different from taking a picture with a phone?",
+      "personal": "Think of a place that feels huge to you. How would you show its size in a photograph?",
+      "critical": "Photographers choose where to stand and what to leave out. What might Watkins have left out of this view?"
+    },
+    "g35": {
+      "daily": "What choices did Watkins make to show how large Yosemite Valley is, and which details in the print show them?",
+      "emotion": "What mood does this brown-toned landscape create? Which details lead you to that mood?",
+      "observation": "Take one full minute of quiet looking. What small details do you notice that you missed at first?",
+      "analysis": "How does the photographer arrange land, mountains, and sky so your eyes travel across the print?",
+      "line": "Trace the outlines of the mountains with your eyes. How do these long lines add to the feeling of height?",
+      "shape": "How do the big, heavy shapes of the rock walls compare with the open space of the valley? What do they do together?",
+      "color": "An albumen print gives warm browns and creamy whites. How might this scene feel different in full color?",
+      "texture": "The print is smooth paper. How might the photographer suggest the texture of rock and land on a flat surface?",
+      "space": "Where does the photograph feel crowded and where does it feel open? How does that affect how big the valley seems?",
+      "light": "How do light and shadow help you understand the shapes of the mountains in this photograph?",
+      "meaning": "Why might Watkins have photographed a landscape instead of a person or a building? What could the valley itself be saying?",
+      "culture": "In the 1800s, many people saw Yosemite only through photographs. How might a photograph shape what someone expects of a place?",
+      "technique": "Watkins used albumen, which comes from egg whites, to coat his printing paper. Why might early photographers have worked so slowly and carefully?",
+      "personal": "Which natural place do you know well? What would you want a photograph of it to show?",
+      "critical": "Can a photograph be both a record of a real place and a carefully made picture? Use this print to explain."
+    },
+    "g68": {
+      "daily": "How does Watkins's point of view make you feel small, calm, or amazed in front of Yosemite Valley? Use details to explain.",
+      "emotion": "What emotions does the vast landscape stir up, and how does the limited range of brown and gray tones shape them?",
+      "observation": "List what you see from the foreground to the farthest point. Which details were easy to miss?",
+      "analysis": "How does Watkins balance the masses of rock with the open areas of the valley? What would change if he had stood somewhere else?",
+      "line": "How do the long outlines of the mountains lead your eye across the picture, and where do they stop you?",
+      "shape": "How do the large, solid masses of the valley walls create both stability and drama in the composition?",
+      "color": "The warm brown tones come partly from the albumen printing process. How do they affect the way you read the age and mood of the scene?",
+      "texture": "On a smooth printed surface, how does Watkins give the impression of rough stone and land, and of distance?",
+      "space": "What visual clues, such as overlapping, relative size, and changes of tone, create depth in this view of the valley?",
+      "light": "How does the contrast of lighter and darker areas model the mountains' forms and create atmosphere?",
+      "meaning": "Watkins's photographs reached audiences who had never seen the West. What ideas about nature might a viewer take from this image?",
+      "culture": "How might this view of Yosemite mean something different to a visitor in the 1870s than to Native people whose ancestors lived there?",
+      "technique": "Why did photographers of the 1800s need heavy equipment and careful preparation to make an image like this? How might that shape the final picture?",
+      "personal": "How do you decide what to photograph when you want to share a place with someone far away?",
+      "critical": "Landscape photographs can seem neutral, yet they are made through many choices. Which choices can you identify in this one?"
+    },
+    "g910": {
+      "daily": "How does Watkins shape the viewer's response to Yosemite Valley through viewpoint, framing, and tone?",
+      "emotion": "How does the photograph balance serenity and awe? Which formal choices produce each?",
+      "observation": "Describe the print's visual hierarchy. What attracts attention first, and how does the composition keep you looking?",
+      "analysis": "Analyze how the arrangement of rock walls, valley, and sky structures the image.",
+      "line": "How do the strong silhouettes and edges of the landscape work like line in a photograph?",
+      "shape": "How does the contrast between massive, angular forms and open space create tension and stability?",
+      "color": "How do the monochrome brown tones of the albumen print affect the sense of age, authority, and calm in this image?",
+      "texture": "How does fine detail captured on a glass negative convey the physical texture of the landscape?",
+      "space": "How does the photograph communicate depth and scale, and what do you use as a measure of size?",
+      "light": "How does the tonal range of the print suggest atmosphere and the shape of the mountains?",
+      "meaning": "To what extent does this image present the valley as a place of wonder, a resource, or a scientific subject? What suggests each?",
+      "culture": "How did photographs like this shape public attitudes toward preserving natural places in the late 1800s?",
+      "technique": "How do albumen paper and glass negatives define the look and the limits of this image?",
+      "personal": "How does your own experience of landscape influence how you read this view?",
+      "critical": "How might photographs of seemingly untouched wilderness hide the history of the people who lived there?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in this print about how Watkins framed Yosemite, and what remains uncertain?",
+      "emotion": "How does the photograph evoke the sublime, and what historical expectations of nature does that response depend on?",
+      "observation": "Describe the print's formal structure before interpreting it. Which observations are hardest to separate from assumptions?",
+      "analysis": "Analyze how viewpoint, scale, and tonal range work together to make Yosemite appear monumental.",
+      "line": "How do the contours of the landscape structure the image, and what can a photographer control when the only tools are edges, tone, and position?",
+      "shape": "How does the massing of forms position the viewer relative to the valley, and what does that suggest about the photographer's authority?",
+      "color": "How does the aged tonal palette of an albumen print shape our reading of the landscape? What might the first viewers have seen?",
+      "texture": "Where does the print's fine detail serve documentary description, and where does it become aesthetic effect?",
+      "space": "How does the photograph negotiate between a flat paper surface and an illusion of vast space?",
+      "light": "How does the print's tonal range present light as both a physical fact and an expressive tool?",
+      "meaning": "Evaluate competing readings of Watkins's Yosemite photographs: scientific document, art object, or promotional image. Which is best supported?",
+      "culture": "How does a view made for 1870s audiences complicate present-day ideas of wilderness, ownership, and Native presence in Yosemite?",
+      "technique": "What does the dependence on glass negatives and albumen paper reveal about the labor, cost, and access involved in photographing the West?",
+      "personal": "How do your assumptions about nature, formed by modern images, shape the way you read a nineteenth-century landscape?",
+      "critical": "What standards of evidence should we use to claim that a photograph influenced policy, as is sometimes said of Watkins's Yosemite images?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Photographs), medium, and tags (Mountains, Landscapes) read from the museum record; a landscape view with no nudity, violence, or frightening subject indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Carleton Watkins photographed Yosemite repeatedly in the 1800s. This print was made around 1872 and printed around 1876; the Met record lists it as an albumen silver print from a glass negative.",
+    "vocabulary": [
+      "albumen silver print",
+      "glass negative",
+      "landscape",
+      "foreground and background",
+      "composition",
+      "viewpoint"
+    ],
+    "directions": [
+      "Have students sketch the main masses of the photograph in three tones (light, middle, dark) before discussing mood.",
+      "Ask students to write a caption for the view from the point of view of a visitor in the 1870s, then from someone who has always lived nearby.",
+      "Discuss what a photographer chooses to include or leave out when showing a place to people far away."
+    ]
+  }
+}

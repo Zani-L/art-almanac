@@ -1,0 +1,17 @@
+{
+  "siteName": "Daily Masterpiece",
+  "defaultTimeZone": "Asia/Shanghai",
+  "timeZoneOptions": [
+    "Asia/Shanghai",
+    "Asia/Singapore",
+    "Asia/Tokyo",
+    "Asia/Dubai",
+    "Europe/London",
+    "Europe/Paris",
+    "America/New_York",
+    "America/Chicago",
+    "America/Los_Angeles",
+    "Australia/Sydney",
+    "UTC"
+  ]
+}

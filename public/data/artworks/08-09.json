@@ -1,0 +1,159 @@
+{
+  "id": "ahp-model-of-egyptian-nile-boat",
+  "day": "08-09",
+  "title": "Model of Egyptian Nile Boat",
+  "artist": "Unknown ancient Egyptian maker",
+  "date": "2160-2130 BCE",
+  "medium": "Wood (a model boat)",
+  "movement": "Ancient Egyptian art (First Intermediate Period)",
+  "region": "Egypt",
+  "image": {
+    "url": "/images/ahp-model-of-egyptian-nile-boat.jpg",
+    "credit": "National Museum of Denmark; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/timeline/the-ancient-world/egypt/model-of-egyptian-nile-boat/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/18268/ancient-egypt-model-of-egyptian-nile-boat-2130-obelisk-art-history.jpg"
+  },
+  "altText": "A small wooden model of a boat from ancient Egypt, with a crew of figures on board. The model is shown as an object on its own.",
+  "source": {
+    "museum": "National Museum of Denmark",
+    "url": "https://www.arthistoryproject.com/timeline/the-ancient-world/egypt/model-of-egyptian-nile-boat/",
+    "objectId": "model-of-egyptian-nile-boat",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text via a page fetch (title, date, medium, collection, crew, tomb-model note, public-domain statement); the fetch was a machine summary, so a person should confirm the medium and collection on the page"
+  },
+  "context": "A wooden model of a Nile boat from ancient Egypt, dated 2160 to 2130 BCE on arthistoryproject.com, which lists it with the National Museum of Denmark. The page says boats were central to life along the Nile and that models and paintings of boats were placed in tombs. It adds that this boat has a crew of nine.",
+  "descriptions": {
+    "k": "This is a little boat made long ago in Egypt. It is made of wood. People are on the boat. Point to the boat. Can you find the people? What do you think they are doing together?",
+    "g12": "This small wooden boat was made in ancient Egypt a very long time ago. It has a crew of nine people on board. The Nile river was very important to Egyptians, and boats helped people travel and carry things. Look closely at the boat and the crew. Where do you think this boat is going?",
+    "g35": "This is a model of a Nile boat from ancient Egypt, made about 2160 to 2130 BCE and listed with the National Museum of Denmark. The site says the boat is made of wood and has a crew of nine. Egyptians lived along the Nile, so boats were part of everyday life. Look closely at the crew and the shape of the boat. What jobs might each person on board have?",
+    "g68": "This wooden boat model is dated 2160 to 2130 BCE. The source page explains that life in Egypt centered on the Nile and that models and paintings of boats were included in tombs. Many model boats like this were made for tombs, though the page does not say where this one was found. It has a crew of nine. How might a small model tell us about real boats and daily life?",
+    "g910": "This wooden model of a Nile boat (2160 to 2130 BCE) is an example of a kind of object the source page says was placed in tombs, along with painted boats, so that the deceased could travel in the afterlife. Many model boats like this were made for tombs, but the page does not give this one's findspot. How does a model with a crew of nine act as both a record of river life and a funerary offering?",
+    "g1112": "Dated 2160 to 2130 BCE, this wooden model belongs to the Egyptian practice of placing boat models and boat paintings in tombs, which the source page links to the deceased's journey and possessions. Because the page does not give its findspot, any funerary use is an inference from the wider tradition. How should we read a small object that serves as both a reflection of a real river economy and a carefully made offering? Weigh the evidence and its limits."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the boat. How many people can you count on it?",
+      "emotion": "The boat looks little and tidy. How does it make you feel?",
+      "observation": "Find the people on the boat. What are they holding or doing?",
+      "analysis": "Which part of the boat stands out most to you?",
+      "line": "Trace the bottom edge of the boat with your finger. Is it straight or curved?",
+      "shape": "The boat has a long shape. Can you find other shapes on it?",
+      "color": "This boat is made of wood. What color is wood that you have seen at home or school?",
+      "texture": "Imagine touching a wooden boat. Would it feel smooth or bumpy?",
+      "space": "Where are the people on the boat, near the front or near the back?",
+      "light": "Look at the boat. Where does it look lightest, and where does it look darkest?",
+      "meaning": "Why do you think someone made a tiny boat and not a big one?",
+      "culture": "The Nile river was very important in Egypt. Why would people need a boat there?",
+      "technique": "Someone carved or shaped wood to make this boat. Which part do you think was hardest to make?",
+      "personal": "If you could sail on the Nile in this boat, what would you bring?",
+      "critical": "What would you add to the boat to make it look more like a real one?"
+    },
+    "g12": {
+      "daily": "Why do you think the Egyptians made a small model of a boat?",
+      "emotion": "What feeling do you get from a crew of small figures all on one boat together?",
+      "observation": "List five things you can find on the model boat or its crew.",
+      "analysis": "How are the people placed on the boat, and what does that tell you about how a boat works?",
+      "line": "Follow the long outline of the boat from front to back. Where does the line rise or curve?",
+      "shape": "Which shapes make up the boat, and which shapes make up the people?",
+      "color": "What can you tell about the wood and its color, and how might it have looked when it was new?",
+      "texture": "How do you think the wood was shaped to make a smooth boat?",
+      "space": "How can you tell which figures are at the front, the middle and the back of the boat?",
+      "light": "Where does the light fall on the model, and which parts look shadowed?",
+      "meaning": "Why might a boat be an important thing to make in a place with a big river?",
+      "culture": "The site says the Nile was central to daily life in Egypt. What jobs do you think a boat did there?",
+      "technique": "What tools might a woodworker long ago have needed to make a model this small?",
+      "personal": "What would you like to carry on a boat down a river?",
+      "critical": "How is a small model different from a real boat, and what can each one teach us?"
+    },
+    "g35": {
+      "daily": "What details on the crew and the boat tell you this model was made with care?",
+      "emotion": "What mood or feeling comes from a small boat with a full crew ready to sail, and what details support it?",
+      "observation": "Choose one crew member and describe their position, size and what they seem to be doing.",
+      "analysis": "How is the crew arranged on the boat, and how does that arrangement help you imagine the boat in use?",
+      "line": "How does the long, flowing outline of the boat suggest movement on the water?",
+      "shape": "What simple shapes do the boat and its crew make, and how do they fit together?",
+      "color": "How does the natural color of the wood affect how the model looks?",
+      "texture": "What does the surface of the wood show you about how it was shaped and finished?",
+      "space": "How does the model show the space of a boat, with people placed along its length?",
+      "light": "How might light and shadow change the way you see the figures on a three-dimensional model like this?",
+      "meaning": "Egyptians depended on the Nile. What might a model boat say about how important rivers were to them?",
+      "culture": "What can a model boat teach us about travel, work and daily life along the Nile in ancient Egypt?",
+      "technique": "A model is a small version of a real thing. What choices does a maker make when shrinking a boat?",
+      "personal": "What would you want to learn about the people who built and sailed boats like this?",
+      "critical": "What can a model tell us about a real boat, and what can it leave out?"
+    },
+    "g68": {
+      "daily": "What can this model show us about real boats and the people who sailed them on the Nile?",
+      "emotion": "How do the arrangement of the crew and the compact size of the model shape the mood of the object?",
+      "observation": "Study the crew of nine. What do their positions and sizes suggest about their roles?",
+      "analysis": "How does the maker organize the boat, the crew and the open space between them?",
+      "line": "How do the long lines of the hull and the vertical figures contrast and work together?",
+      "shape": "How does the maker simplify the shapes of the boat and the people, and what does the simplification tell you?",
+      "color": "What can the natural tones of the wood suggest about the material and the passage of time?",
+      "texture": "How might the carved and finished wood surfaces tell you about the tools and skills of the maker?",
+      "space": "How does a three-dimensional model let you imagine the space of a real boat in a way a flat picture cannot?",
+      "light": "How might the play of light on a three-dimensional model change which parts you notice?",
+      "meaning": "The page says models and paintings of boats were included in tombs. What might a boat offer someone in the afterlife?",
+      "culture": "How does a small wooden boat show the connection between the Nile, daily work and Egyptian beliefs?",
+      "technique": "What does making a detailed model with a full crew suggest about the skill and planning involved?",
+      "personal": "What small object would you choose to represent a journey that matters to you?",
+      "critical": "How can we use a model like this as evidence about the past, and what are the limits of that evidence?"
+    },
+    "g910": {
+      "daily": "How does a small model with a crew of nine record both the working life of the river and Egyptian beliefs?",
+      "emotion": "What tone does a carefully made object with a full crew set, practical, ceremonial or both?",
+      "observation": "Examine how the crew is arranged along the hull. What does it suggest about how the maker understood the work of a boat?",
+      "analysis": "How does the maker balance accuracy and simplification in representing a vessel and its crew?",
+      "line": "How does the long contour of the hull establish direction, and how do the upright figures interrupt or reinforce it?",
+      "shape": "How do the elongated form of the boat and the smaller forms of the crew create hierarchy within a compact object?",
+      "color": "What does the restrained, natural palette of the wood suggest about the material and its survival?",
+      "texture": "What can the working of the wooden surface suggest about the tools, techniques and training of the maker?",
+      "space": "How does sculpture in three dimensions change the way a boat and crew are understood compared with a painted boat?",
+      "light": "How does raking light across the surface of the carved forms reveal or hide details?",
+      "meaning": "If this model belongs to the tomb tradition the page describes, how might its meaning differ from that of a toy or a ship builder's plan?",
+      "culture": "How do tomb boat models show the ways ancient Egyptians connected the Nile, daily work and ideas of the afterlife?",
+      "technique": "How does choosing a model with figures, not an empty hull, change what the object can express?",
+      "personal": "What does it mean to prepare for a journey you cannot fully picture, and how do objects help people do that?",
+      "critical": "The page does not give this object's findspot. How should that gap shape what we confidently say about its purpose?"
+    },
+    "g1112": {
+      "daily": "How does this model hold together two functions, record of a working river economy and an object tied to the afterlife?",
+      "emotion": "In what ways might the combination of everyday labor and funerary tradition shape how a viewer today responds to a small boat?",
+      "observation": "Scan the arrangement of the hull and crew. What does the maker's selection of detail suggest about what mattered to include?",
+      "analysis": "How does the model's simplification function as an argument about what a boat is and what it needs to carry?",
+      "line": "How does the hull's sweeping contour relate to the idea of movement, and how does a static object suggest travel?",
+      "shape": "How do the abstraction of the figures and the relative clarity of the hull participate in a conventional Egyptian representation?",
+      "color": "How does the survival of a wooden object over so many centuries complicate our sense of its original appearance?",
+      "texture": "How might traces of tool work on the surface tell us about workshop practice, and how much can we infer from them?",
+      "space": "How does a three-dimensional model engage the viewer's body and imagination differently from a painted or relief boat?",
+      "light": "How does a viewer's lighting of an object in a museum shape what we understand about its forms and surface?",
+      "meaning": "Given the page's note about boats in tombs, how would you weigh the claim that this model was meant to help the deceased travel, and what evidence is missing?",
+      "culture": "How might the practice of placing boat models in tombs reflect ideas of continuity between the living world of the Nile and the next?",
+      "technique": "What does the effort to equip a model with a crew of nine suggest about the relationship between craftsmanship, belief and social practice?",
+      "personal": "How do your own ideas about what we owe the dead, or what we carry into the future, shape the way you meet this object?",
+      "critical": "What are the limits of interpreting a single undated-findspot object through a general tradition, and how might a curator guard against overreach?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, date (2160-2130 BCE), medium (wood), collection (National Museum of Denmark), crew of nine, the note that boat models were placed in tombs, the tag Boats and the public-domain statement were read from a fetch of the arthistoryproject.com page; the assigning brief said the page gave no medium or collection, so a person should confirm those two facts on the page. Sensitive aspect for the reviewer: the model has a funerary/tomb context. Descriptions for K to grade 5 focus on the boat, wood, shape and crew and do not mention tombs or death; the tomb and afterlife context is stated factually and respectfully only from grade 6 up, and findspot claims are hedged because the page gives none. The image file has not been viewed; a person should view it and confirm it before release. Movement label First Intermediate Period is inferred from the date 2160-2130 BCE and should be checked.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A wooden model of a Nile boat with a crew of nine, dated 2160 to 2130 BCE on arthistoryproject.com, which lists it with the National Museum of Denmark. The page says models and paintings of boats were placed in tombs; the page gives no findspot for this model.",
+    "vocabulary": [
+      "model",
+      "Nile",
+      "crew",
+      "hull",
+      "ancient Egypt",
+      "funerary"
+    ],
+    "directions": [
+      "Have younger students build a simple boat from paper or craft sticks and decide who would travel on it and why.",
+      "Ask older students to compare what a model can and cannot tell us about a real object from the past.",
+      "Discuss respectfully how the Egyptians' ideas about tombs and the afterlife shaped the objects they made, noting which points come from the page and which are general history."
+    ]
+  }
+}

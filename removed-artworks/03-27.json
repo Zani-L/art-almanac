@@ -1,0 +1,154 @@
+{
+  "id": "met-314788",
+  "day": "03-27",
+  "title": "Face mask",
+  "artist": "Dan artist",
+  "date": "19th–late 20th century",
+  "medium": "Wood, fur, ceramic, cloth, iron, cane, fiber, seeds, adhesive, pigment",
+  "region": "Dan peoples, Côte d'Ivoire or Liberia",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A carved wooden face mask shaped like a human face. The museum lists extra materials on it, such as fur, cloth, fiber, and seeds.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/314788",
+    "objectId": "314788",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, region, classification, tags (Faces), public-domain flag (false), and empty image fields read from the record"
+  },
+  "context": "A face mask by a Dan artist, from the Dan peoples who live in Côte d'Ivoire and Liberia. The record gives the date as 19th to late 20th century and the materials as wood, fur, ceramic, cloth, iron, cane, fiber, seeds, adhesive, and pigment. Dan masks were made for different purposes depending on the type and community, and the record does not say how this one was used.",
+  "descriptions": {
+    "k": "This is a mask shaped like a face. A Dan artist carved it from wood. It also has other materials added, like cloth and fiber. What parts of the face can you find? What would it be like to look through it?",
+    "g12": "A Dan artist made this mask. The Dan live in Côte d'Ivoire and Liberia in West Africa. The face is carved from wood, and other materials were added too. Look at the eyes, the nose, and the mouth. What kind of face do you think it is?",
+    "g35": "The Dan peoples of Côte d'Ivoire and Liberia are known for carving wooden masks. This one is shaped like a face, and the museum lists many other materials too, such as cloth, fur, fiber, and seeds. Dan masks had different roles depending on their type, and we do not know how this one was used. Look closely at the face. What choices did the carver make to give it character?",
+    "g68": "This Dan face mask joins a carved wooden face with other materials, including cloth, fur, fiber, and seeds. Dan masks vary in type and in purpose, and the museum record does not say how this one was used, so we should avoid guessing. We can look at what is visible: how the carver shaped the face, how smooth surfaces contrast with added materials, and how the mask would change when worn. How might adding different materials change how you read a carved face?",
+    "g910": "Dan masks from Côte d'Ivoire and Liberia are admired for their carved faces, which are often smooth and simplified, and for the ways added materials expand them. This example includes wood, cloth, fur, iron, fiber, and seeds, and the date range of 19th to late 20th century shows the museum is not certain when it was made. Dan masks served different roles in different communities, and this record does not specify one. Consider how the combination of carved wood and added materials shapes a viewer's response to a human face.",
+    "g1112": "This Dan mask raises questions about how to look at an object whose use is not documented in its museum record. The carved face and the mixed materials, wood, fur, ceramic, cloth, iron, fiber, and seeds, are visible evidence of a maker's choices, but the performance, wearer, and community that gave the mask life are not recorded here. Dan masks served varied roles that differed by type and place, so general claims should be treated cautiously. How can we respond seriously to the craft and design of a mask while acknowledging how much of its meaning lies outside the museum's information?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you notice first on this mask? Point to it.",
+      "emotion": "Does the face look calm, serious, or something else? What shows you?",
+      "observation": "What parts of a face can you find? Point to them.",
+      "analysis": "Where do your eyes go first on the mask? Where do they go next?",
+      "line": "Can you find a curved line on the mask? Trace it in the air.",
+      "shape": "What shapes do you see in the face? Look for round shapes and long shapes.",
+      "color": "What colors do you see on the mask? Which one do you see the most?",
+      "texture": "The mask has wood and other materials. Which parts look smooth and which look rough or soft?",
+      "space": "A mask has a front and a back. What do you think is on the back?",
+      "light": "Which parts of the mask look light and which look dark?",
+      "meaning": "If this mask could tell a story, what would it say? Tell your idea.",
+      "culture": "A Dan artist in West Africa made this. What kinds of faces do you see in masks at holidays or parties near you?",
+      "technique": "The artist carved wood with tools. What do you think was hard about making a face from wood?",
+      "personal": "If you made a mask, what face would it have?",
+      "critical": "How can you tell this mask is made by hand and not by a machine?"
+    },
+    "g12": {
+      "daily": "What kind of face is this? Tell what clues in the mask help you decide.",
+      "emotion": "What feeling does the face give you? Point to the part that makes you feel that way.",
+      "observation": "Describe three parts of the mask, from the eyes to the edges.",
+      "analysis": "How do the carved face and the other materials fit together? Where do you see them meet?",
+      "line": "Look for lines on the face. Where do they curve, and where are they straight?",
+      "shape": "The mask is shaped like a face. What simple shapes make up the eyes, nose, and mouth?",
+      "color": "Which colors are on the mask? How do they help your eyes move around?",
+      "texture": "Wood, cloth, and fiber feel different. Which parts of the mask do you think feel different from each other?",
+      "space": "A mask is made to go in front of a face. How is that different from a flat picture of a face?",
+      "light": "Where does the mask look brightest? Where does it look shadowy?",
+      "meaning": "People make masks for many reasons. What reasons can you think of?",
+      "culture": "Dan people live in Côte d'Ivoire and Liberia. Why might people in a community make masks together?",
+      "technique": "The artist used wood and other materials. Why might an artist add more than one material?",
+      "personal": "When have you worn a costume or a mask? How did it feel?",
+      "critical": "We do not know how this mask was used. What can we say about it from just looking?"
+    },
+    "g35": {
+      "daily": "What choices did the carver make to give this face its character? Use details to explain.",
+      "emotion": "What expression does the mask have, and which features create it?",
+      "observation": "Look for one quiet minute. Which small details on the mask did you miss at first?",
+      "analysis": "How does the carver arrange the eyes, nose, and mouth so your eyes move across the face?",
+      "line": "How do curved and straight lines shape the face and its features?",
+      "shape": "Compare the shapes of the mask's features. Which are rounded, and which are sharp or narrow?",
+      "color": "How do the colors and materials on the mask help some parts stand out?",
+      "texture": "The mask uses wood and other materials such as cloth, fur, and fiber. How do their textures work together?",
+      "space": "This mask is meant to be worn on a person. How does that change how we think about its shape?",
+      "light": "How do areas of light and shadow help give the face its form?",
+      "meaning": "The record does not tell how this mask was used. Why is it important not to guess too quickly?",
+      "culture": "Dan peoples in Côte d'Ivoire and Liberia carved masks in many styles. What can we learn from the choices an artist makes?",
+      "technique": "How might a carver decide which materials to add to a wooden mask?",
+      "personal": "What would you want people to notice about a mask you designed?",
+      "critical": "We see this mask in a museum, not in a performance. What might we miss by seeing it this way?"
+    },
+    "g68": {
+      "daily": "What does the carved face communicate on its own, and what do we need more information to understand?",
+      "emotion": "How does the face, without being obviously happy or sad, still create a feeling? Which features do that?",
+      "observation": "Describe the mask's visible materials and features before you interpret them. What might you have overlooked?",
+      "analysis": "How does the carver balance simplicity in the face with detail from added materials?",
+      "line": "How do lines and edges shape the face, and where do they emphasize or soften features?",
+      "shape": "How does the carver simplify or exaggerate the shapes of the face, and what effect does that have?",
+      "color": "How do natural colors of wood and added materials affect your reading of the face?",
+      "texture": "How do the textures of wood, cloth, fur, and fiber compare, and how do they change how you look at the mask?",
+      "space": "A mask is both an object to view and something made to be worn. How does that change how you imagine its space?",
+      "light": "How might light and shadow on the carved surface change as a person moves while wearing the mask?",
+      "meaning": "Without knowing how it was used, what are the risks of assigning a meaning to this mask?",
+      "culture": "Why might a community use carved faces in performance or ceremonies, and why do those uses differ between communities?",
+      "technique": "What skill does it take to carve a face in wood and combine it with other materials? What evidence can you find?",
+      "personal": "How does putting on a mask or costume change how you act or feel?",
+      "critical": "What questions would you ask a Dan community member or curator about this mask?"
+    },
+    "g910": {
+      "daily": "How does the mask turn a human face into something stylized and memorable, and what choices create that effect?",
+      "emotion": "How does the mask evoke a mood through restraint and form, even without an obvious expression?",
+      "observation": "Describe the mask's visual hierarchy. Which features dominate, and which devices make them do so?",
+      "analysis": "Analyze how the carver uses symmetry and proportion to define the face.",
+      "line": "How do contour lines and incised details define the features, and how do they relate to the mask's overall outline?",
+      "shape": "How does the abstraction of facial features compare with naturalistic portraiture?",
+      "color": "How do the mask's color and surface treatments affect how you read its features?",
+      "texture": "How do the contrasts among wood, cloth, fur, and fiber create layered texture, and what might each material add?",
+      "space": "How does a mask differ from a freestanding sculpture in how it relates to the body and to space?",
+      "light": "How might performance, movement, and changing light affect how the mask is seen, compared with how it is seen in a gallery?",
+      "meaning": "How can we discuss meaning responsibly when the record does not document the mask's use?",
+      "culture": "How do variations in Dan mask types show that one culture can have many mask traditions with different roles?",
+      "technique": "How might the use of mixed materials reflect a maker's skills, available resources, and the intended use of the mask?",
+      "personal": "How do masks, costumes, or roles in your own life let people present a different side of themselves?",
+      "critical": "What are the limits of studying a mask in a museum rather than in its original setting?"
+    },
+    "g1112": {
+      "daily": "What can we responsibly say about this mask on the basis of what is visible and recorded, and what must remain open?",
+      "emotion": "How does the mask's composed, stylized face complicate attempts to name an emotion, and what does that suggest about its original context?",
+      "observation": "Describe the mask with precision. Which parts of your description rely on assumptions about its use?",
+      "analysis": "Analyze how the mask's carved structure and added materials work together, and how that might reflect the maker's priorities.",
+      "line": "How do line and contour contribute to the mask's balance of idealization and individual character?",
+      "shape": "How does the mask's stylization relate to ideas of abstraction, and why might it be misleading to compare it with modern Western art?",
+      "color": "How might the patina of age and handling affect our impression of the mask's original appearance?",
+      "texture": "How does the combination of wood with fur, cloth, and fiber complicate the idea of a mask as a single carved object?",
+      "space": "How does the museum's display, which fixes the mask in a static pose, compare to the dynamic space of a performance?",
+      "light": "How might the lighting of a gallery flatten the mask compared with the changing light of movement?",
+      "meaning": "How should museums handle the gap between an object's visible form and the undocumented meaning it carried for its makers and users?",
+      "culture": "How do the variety of Dan mask types and their varied roles caution against treating a single mask as typical of Dan art?",
+      "technique": "What does the broad date range of 19th to late 20th century suggest about the difficulty of dating masks, and what would better evidence require?",
+      "personal": "How do your own assumptions about masks, from film or holidays, shape how you read this one, and how can you set them aside?",
+      "critical": "What responsibilities do museums have toward communities whose objects they hold, particularly when the objects' original uses are poorly documented?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Face mask), classification (Wood-Sculpture), object name (Mask), medium (wood with fur, cloth, iron, fiber, seeds and other materials), and tag (Faces); no sacred-use or restricted-use statement appears in the fields read, so function is described as varied and uncertain checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Dan face mask from Côte d'Ivoire or Liberia. The museum record does not say how it was used, so use language like 'may' and avoid claiming it was sacred or secret. Dan masks include several types with different roles.",
+    "vocabulary": [
+      "mask",
+      "Dan",
+      "carve",
+      "stylized",
+      "mixed media",
+      "performance"
+    ],
+    "directions": [
+      "Ask students to design a mask on paper using at least two materials and explain how each material changes the look.",
+      "Have students compare this mask with a face in a painting from the archive and discuss how each artist simplifies or details a face.",
+      "Discuss how we respond to an object when we do not know its original use: what can we say with confidence and what must we leave open?"
+    ]
+  }
+}

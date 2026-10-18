@@ -1,0 +1,159 @@
+{
+  "id": "met-437876",
+  "day": "02-19",
+  "title": "Entrance to a Dutch Port",
+  "artist": "Willem van de Velde II",
+  "date": "ca. 1665",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146449.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP146449.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of William K. Vanderbilt, 1920",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "Sailing ships and smaller boats on water near a dock at the entrance to a harbor, under a wide sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437876",
+    "objectId": "437876",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Willem van de Velde II was a Dutch painter of ships and the sea, from a family of marine artists. He later moved to England, where he worked for the royal court. Ships were central to Dutch trade, fishing and defense in the 1600s.",
+  "descriptions": {
+    "k": "Look at the big ships with sails. Small boats float near them. They are by a dock where a port begins. The sky above is wide. Where do you think the ships are going?",
+    "g12": "Ships with tall sails sit on the water near a dock. Smaller boats float close by. Above them is a wide sky. Van de Velde painted ships very carefully. He lived in the Netherlands long ago. Which ship would you like to sail on?",
+    "g35": "Willem van de Velde II painted ships and the sea. This picture shows boats at the entrance to a Dutch port, around 1665. In the 1600s ships carried goods, fish and soldiers, so the Netherlands depended on them. Look at the sails, the water and the sky. How does the painter show that these ships are real, and how does he show the wind?",
+    "g68": "Van de Velde II came from a family of marine painters and became known for his accurate ships. In Entrance to a Dutch Port (about 1665) vessels and smaller boats gather near a dock beneath a large sky. Accuracy mattered because ships were vital to Dutch trade and defense, and buyers admired technical detail. Notice how water, sails and clouds are balanced. What do the ship details tell us, and what does the sky add to the mood?",
+    "g910": "Willem van de Velde II specialized in marine painting, a leading genre in the maritime Dutch Republic. In this view of a harbor entrance, the carefully rendered ships contrast with the open expanse of water and sky. The precision reflects his knowledge of vessels, while the composition shows an artist's design, not a snapshot. Ships were tied to commerce and naval power, so such pictures could carry pride as well as admiration for craft. How do detail and open space work together here?",
+    "g1112": "Entrance to a Dutch Port (about 1665) shows how marine painting joined technical accuracy with composition. Van de Velde's detailed ships, set against calm water and a high sky, reflect a society whose wealth and security depended on the sea. Such images can be read as pride in trade and fleet, as admiration for craftsmanship, or simply as skilled description. Historians also remind us that maritime trade had costs, including its role in colonial exploitation. Which readings does the painting itself support, and what does it leave unsaid?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which ship would you pick to sail on? Tell what you like about it.",
+      "emotion": "Does the water look calm or stormy? What shows you?",
+      "observation": "Can you find sails, small boats and the dock? Point to each one.",
+      "analysis": "Which ship is the biggest? Which boat is the smallest?",
+      "line": "Find the tall poles on the ships. Do they go up or sideways?",
+      "shape": "What shapes do the sails make? Draw one in the air.",
+      "color": "What colors are the water and the sky? Are the ships bright or dull?",
+      "texture": "How would the water feel if you touched it? Smooth or bumpy?",
+      "space": "Which boats are close to you and which are far? How can you tell?",
+      "light": "Where does the light look brightest in this picture?",
+      "meaning": "Who might be on these boats? Tell a short story about their day.",
+      "culture": "Long ago, ships brought food and goods to the Netherlands. What things do ships bring to your town?",
+      "technique": "The painter used tiny brush strokes for ropes and sails. What tiny thing would you paint?",
+      "personal": "Have you ever been on a boat or by the water? What was it like?",
+      "critical": "Why do you think the painter put so much sky in the picture?"
+    },
+    "g12": {
+      "daily": "How does van de Velde make the ships look real? Show one detail that convinces you.",
+      "emotion": "What feeling do the calm water and wide sky give you? Which part makes you feel that way?",
+      "observation": "Describe three things about the ships, three about the water, and three about the sky.",
+      "analysis": "Where do your eyes go first in this picture? What leads them to the next place?",
+      "line": "Look at the masts and ropes. What kinds of lines do you see, and how do they make the ships look tall?",
+      "shape": "Compare the shape of a sail with the shape of a small boat. How are they alike and different?",
+      "color": "Which colors are used for the sky and the water? How do the ships stand out from them?",
+      "texture": "How does the painter show the difference between the smooth sky and the rippling water?",
+      "space": "How can you tell which ships are near and which are far? Name two clues.",
+      "light": "Where does sunlight touch the sails and water? How does it change the colors?",
+      "meaning": "What might be happening at this port today? Use what you see to tell your idea.",
+      "culture": "Ships were very important to the Netherlands long ago. What clues in the picture show that?",
+      "technique": "The painter needed to know how ships are built. Why might that help him paint them?",
+      "personal": "If you could sail from this port, where would you go?",
+      "critical": "The painting shows a busy harbor but it is not noisy. How does the painter make it feel quiet?"
+    },
+    "g35": {
+      "daily": "Van de Velde paints the ships with lots of detail. What details do you notice, and why might the painter have included them?",
+      "emotion": "What mood do the ships, water and sky create together? Give two details that set the mood.",
+      "observation": "Look carefully at the ships. What do you notice about their sails, flags or ropes?",
+      "analysis": "How has the painter arranged the ships and boats to make an interesting picture and not a crowded one?",
+      "line": "How do the masts and ropes create lines that guide your eye upward and across the painting?",
+      "shape": "How do the big shapes of the sails compare with the smaller shapes of the boats and dock?",
+      "color": "The colors here are mostly soft. How do they help create a calm feeling?",
+      "texture": "How does the painter suggest the rough, wooden ships and the shiny, moving water?",
+      "space": "How does the painter use size and overlapping to show depth on the water?",
+      "light": "Describe how light seems to fall on the water and sails. What time of day might it be?",
+      "meaning": "What does this painting tell us about why ships and ports mattered in the Netherlands?",
+      "culture": "The artist came from a family of ship painters. Why might people in the 1600s have wanted paintings of ships?",
+      "technique": "Painting ropes and sails takes a steady hand. What might a painter need to know before painting a ship?",
+      "personal": "Think about a trip you have taken. How is the beginning of a journey like the scene in this painting?",
+      "critical": "Is this painting more like a photograph or more like a designed picture? Use evidence to explain."
+    },
+    "g68": {
+      "daily": "How does van de Velde balance exact ship detail with an open sky and water? Which choices make the painting feel calm?",
+      "emotion": "What mood does the scene suggest, and how do sky, water and ships each contribute?",
+      "observation": "Before interpreting, list the kinds of vessels and details you can find. Which are easy to miss?",
+      "analysis": "How are the ships, dock and sky arranged to create balance, and where is the focal point?",
+      "line": "How do masts, rigging and horizon create vertical and horizontal lines, and how do they structure the picture?",
+      "shape": "How do the large curved sails and the lower hulls form a pattern of shapes across the painting?",
+      "color": "How does a mostly soft palette of blues, grays and warm accents affect the mood?",
+      "texture": "How does the painter show the difference between wood, cloth and water on a flat canvas?",
+      "space": "Which devices, such as overlap, scale and atmospheric haze, create depth over the water?",
+      "light": "How does the light across sails, hulls and water create form and mood?",
+      "meaning": "What might a painting of a harbor entrance suggest about Dutch ideas of trade, security and pride?",
+      "culture": "Why did marine painting become a major genre in the Dutch Republic?",
+      "technique": "What knowledge and skills would a painter of ships need, and where do you see them here?",
+      "personal": "Where have you seen a place where people arrive and depart? How does this painting connect?",
+      "critical": "Does extreme accuracy in a painting make it more truthful, or can it also leave things out? Explain using this picture."
+    },
+    "g910": {
+      "daily": "How does the sharp detail of the ships combine with the broad sky to shape the painting's character?",
+      "emotion": "How do ordered ships and unhurried atmosphere combine to create a particular emotional tone?",
+      "observation": "Describe the painting's visual hierarchy. What do you see first, and what directs your eye next?",
+      "analysis": "Analyze how the composition distributes weight between the ships, the dock and the open sky.",
+      "line": "How do masts, rigging and horizon form a framework of lines, and how does it order the scene?",
+      "shape": "How do repeated sail shapes create rhythm, and where does the composition vary it?",
+      "color": "How does a muted palette support the painting's sense of clarity and calm?",
+      "texture": "How does the painter distinguish the materials of wood, canvas and water through brushwork?",
+      "space": "How do the viewing position and the large sky shape the sense of space around the ships?",
+      "light": "How does the handling of light unify different surfaces and suggest atmosphere?",
+      "meaning": "How might a viewer read this scene as a picture of commerce, defense, craft or simple pleasure in looking?",
+      "culture": "How did the Dutch Republic's dependence on the sea shape the market for pictures like this?",
+      "technique": "How does marine painting depend on specialized knowledge, and how does that expertise affect its authority?",
+      "personal": "What details in this scene would you want to investigate further, and why?",
+      "critical": "What might a polished image of a busy port leave out about the people and labor that made it function?"
+    },
+    "g1112": {
+      "daily": "What does the painting's balance of precision and spaciousness suggest about the values of its audience, and what might it conceal?",
+      "emotion": "How does the painting produce composure and confidence without narrative, and how would you test whether that reading is imposed or evident?",
+      "observation": "Describe the painting's formal arrangement as exactly as you can before interpreting. Which details most challenged your first impression?",
+      "analysis": "How does the composition integrate human-made structures and open nature, and with what effect on the picture's meaning?",
+      "line": "How do vertical and horizontal structure operate as a kind of order, and does that order read as natural or constructed?",
+      "shape": "How does the interplay of angular rigging and broad curved sails contribute to both unity and variety?",
+      "color": "How does the painter's tonal control produce atmosphere, and what does restraint contribute?",
+      "texture": "How does the painter treat surfaces so that technical knowledge becomes visible?",
+      "space": "How does the expanse of sky reposition the ships' importance, and what hierarchy of subjects results?",
+      "light": "How does consistent illumination create unity, and how might it also idealize the scene?",
+      "meaning": "How can a harbor view be read as celebration, documentation or advertisement, and what evidence in the image supports each view?",
+      "culture": "How do trade and maritime power appear here, and how do historians weigh them against their human costs?",
+      "technique": "What does the painter's apparent technical mastery imply about the specialized market for marine pictures?",
+      "personal": "What associations do ports and ships carry for you, and how might they affect your interpretation?",
+      "critical": "How should we think about the beauty of a painting that celebrates an economy with a complicated history?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Docks, Boats, Ships) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A harbor scene by Willem van de Velde II, from a family of marine painters. Ships were central to Dutch trade and defense in the 1600s.",
+    "vocabulary": [
+      "marine painting",
+      "mast",
+      "rigging",
+      "horizon",
+      "port",
+      "atmosphere"
+    ],
+    "directions": [
+      "Label the parts of a sailing ship, then find each part in the painting.",
+      "Discuss how a painter could show wind without drawing it.",
+      "Research how goods traveled by ship in the 1600s and what they carried."
+    ]
+  }
+}

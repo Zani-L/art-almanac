@@ -1,0 +1,159 @@
+{
+  "id": "ahp-almond-blossom",
+  "day": "02-10",
+  "title": "Almond Blossom",
+  "artist": "Vincent van Gogh",
+  "date": "1890",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "/images/ahp-almond-blossom.jpg",
+    "credit": "Van Gogh Museum, Netherlands; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/almond-blossom/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/6973/vincent_van_gogh-almond_blossom-1890-trivium-art-history.jpg"
+  },
+  "altText": "Branches covered in white and pale pink blossoms stretch across a bright blue sky, painted with thick, outlined strokes.",
+  "source": {
+    "museum": "Van Gogh Museum, Netherlands",
+    "url": "https://www.arthistoryproject.com/artists/vincent-van-gogh/almond-blossom/",
+    "objectId": "almond-blossom",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, collection, public-domain statement)"
+  },
+  "context": "An oil painting made in 1890 by Vincent van Gogh, a Dutch artist, and now at the Van Gogh Museum in the Netherlands. The source page tags it with flowers and trees. Almond trees bloom early in spring, and the painting is known for its close view of branches against the sky.",
+  "descriptions": {
+    "k": "Look at the flowers on the branches! They are white and pink. The sky behind them is bright blue. The branches go across the picture. Can you find the flowers? Where do the branches go?",
+    "g12": "Vincent van Gogh painted almond blossoms in 1890. The branches are covered in white and pink flowers. The sky is a bright blue. The branches look big because we are very close. Which parts of the picture feel fresh? Why?",
+    "g35": "Almond Blossom was painted by Vincent van Gogh in 1890. Branches covered in white and pale pink flowers cross a bright blue sky. Van Gogh puts the branches close up and uses strong outlines, so the flowers stand out clearly. Almond trees bloom in early spring. Notice the lines of the branches and the shapes of the blossoms. How does the painting show new life?",
+    "g68": "In Almond Blossom (1890), Van Gogh presents flowering branches against a bright blue sky from a close-up view that cuts off the tree. Bold outlines and flat areas of color show influence from Japanese prints, which he admired. Spring blossoms are a common symbol of renewal. How does the close view change how you see the flowers? What does the painter gain by cropping the tree and leaving the sky open?",
+    "g910": "Almond Blossom (1890) brings together Post-Impressionist color with a compositional approach that recalls Japanese woodblock prints, such as the cropped, close-up view and strong outlines. Branches cross a flat blue field, and the blossoms feel both delicate and graphic. Blossoms often suggest renewal, though the page does not say what Van Gogh intended. How do the compositional choices shape your reading? Which interpretation can you support from what is visible?",
+    "g1112": "In Almond Blossom (1890), Van Gogh combines the cropped, close-up viewpoint and bold contour associated with Japanese prints with the saturated color and visible brushwork of Post-Impressionism. The result is both delicate and assertive: blossoms are rendered with graphic clarity against a flat-seeming sky. Flowering branches carry associations of renewal, but scholars caution against reducing the painting to biography. How does the formal structure shape meaning, and what does the treatment of a seemingly simple subject reveal about the painter's priorities?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Point to the flowers. How many colors can you find on them?",
+      "emotion": "Does this picture feel happy, calm or sad? Why?",
+      "observation": "What is in the sky, and what is on the branches?",
+      "analysis": "What do you see first, the flowers or the sky?",
+      "line": "Trace a branch with your finger. Which way does it go?",
+      "shape": "Find a shape like a petal. Where is it?",
+      "color": "What colors do you see on the flowers? What color is the sky?",
+      "texture": "The paint looks thick. How do you think the petals would feel?",
+      "space": "Do the branches look close to you or far away?",
+      "light": "Which flowers look the brightest?",
+      "meaning": "Why might an artist love to paint flowers in spring?",
+      "culture": "Spring is when many trees bloom. What happens in spring where you live?",
+      "technique": "How would you paint a small flower with a brush?",
+      "personal": "Which flower in this picture would you pick, and why?",
+      "critical": "What would you add or take away to make the picture even better?"
+    },
+    "g12": {
+      "daily": "Van Gogh painted the branches very close to us. How does that change the way we see the flowers?",
+      "emotion": "Does the painting feel fresh and light, or something else? Show us what makes you feel that.",
+      "observation": "List three things you see in the painting, from the flowers to the sky.",
+      "analysis": "How do the branches move across the picture to lead your eye?",
+      "line": "Follow a branch with your finger. How would you describe its line?",
+      "shape": "How do the shapes of the blossoms look next to the long branches?",
+      "color": "How do the white and pink flowers look against the bright blue sky?",
+      "texture": "What do the thick strokes of paint make you think of, like soft petals or rough bark?",
+      "space": "How can you tell we are looking at the tree from very close?",
+      "light": "Where does the painting look the brightest and clearest?",
+      "meaning": "Almond trees bloom at the start of spring. What might flowers like these remind you of?",
+      "culture": "People in many places enjoy flowers in spring. What flowers do you notice where you live?",
+      "technique": "Van Gogh used strong outlines around the branches. How does that help them stand out?",
+      "personal": "What would you want to do on a day when you see trees blooming like these?",
+      "critical": "Does a painting of flowers need lots of tiny details to be good? Use this one to explain."
+    },
+    "g35": {
+      "daily": "How does the close-up view of the branches change the way you look at the blossoms?",
+      "emotion": "What mood do the blossoms and bright sky create together?",
+      "observation": "Look closely at the blossoms and branches. What small details do you notice?",
+      "analysis": "How does Van Gogh arrange the branches across the picture to keep your eyes moving?",
+      "line": "How do the dark outlines of the branches help them stand out from the sky?",
+      "shape": "How do the small shapes of the blossoms contrast with the long lines of the branches?",
+      "color": "How do the light flowers and the deep blue sky make each other look stronger?",
+      "texture": "How do the brushstrokes help show the difference between petals and branches?",
+      "space": "How does the painter use a close-up view to make the tree feel near?",
+      "light": "How does Van Gogh show that the day is bright?",
+      "meaning": "Spring flowers are often a sign of new life. How could this picture show that idea?",
+      "culture": "Van Gogh admired Japanese prints, which often show close-up branches. How can you see that in this painting?",
+      "technique": "What does a painter gain by cutting off the tree and showing only the branches?",
+      "personal": "Think of something that makes you feel hopeful. How might you show it in a picture?",
+      "critical": "Does the picture seem more realistic or more like a design? Defend your view with evidence."
+    },
+    "g68": {
+      "daily": "How does Van Gogh's close, cropped view of the tree change the meaning of an ordinary spring subject?",
+      "emotion": "What emotions do the blossoms and the sky evoke, and which choices help create them?",
+      "observation": "Study a single blossom and the branch it touches. What do you notice about its outline, color and brushstroke?",
+      "analysis": "How does the painter arrange the branches to create balance and movement?",
+      "line": "How do bold contours act like a design, and how do they differ from soft or blended edges?",
+      "shape": "How do the blossoms form patterns across the branches?",
+      "color": "How do white, pink and blue work together to create a bright, fresh feeling?",
+      "texture": "How do varied brushstrokes suggest the difference between flowers, branches and sky?",
+      "space": "How does the lack of a visible ground change the sense of space in the picture?",
+      "light": "Where does the painting feel brightest, and how does color create that effect without heavy shadows?",
+      "meaning": "Why do blossoms often symbolize renewal, and how does Van Gogh's version support or complicate that idea?",
+      "culture": "How did Japanese prints influence European artists in the nineteenth century, and how does that show here?",
+      "technique": "What techniques give the painting both a natural and a decorative look?",
+      "personal": "What small natural thing do you think is worth looking at closely, and why?",
+      "critical": "How could someone argue that a simple subject can be as powerful as a dramatic one? Use this painting."
+    },
+    "g910": {
+      "daily": "How do cropping, contour and color together turn a branch of blossoms into a powerful image?",
+      "emotion": "How does the painting create a mood of freshness and delicacy without depicting any figures?",
+      "observation": "Choose one area of branch and sky. What does careful looking reveal about the artist's method?",
+      "analysis": "How does the diagonal sweep of the branches structure the composition?",
+      "line": "How does bold outline function as both description and decoration?",
+      "shape": "How do repeated blossom forms create rhythm across the surface?",
+      "color": "How does a limited range of light and cool tones contribute to the painting's clarity?",
+      "texture": "How does visible brushwork differentiate organic forms while maintaining a flat, decorative look?",
+      "space": "How does the flat blue field compress space, and what does that do to our reading of depth?",
+      "light": "How is the impression of bright daylight achieved through color rather than shadow?",
+      "meaning": "What associations do blossoms carry, and how can you support a reading using only visible evidence?",
+      "culture": "How does this work show the influence of Japanese prints on European modern art?",
+      "technique": "How does combining graphic outline with expressive brushwork produce a distinctive style?",
+      "personal": "What does this painting suggest about the value of looking closely at small things?",
+      "critical": "Does the painting's apparent simplicity limit or strengthen its impact? Support your answer."
+    },
+    "g1112": {
+      "daily": "How does Almond Blossom reconcile decorative flatness with the sensation of living, growing forms?",
+      "emotion": "How might a viewer's knowledge of seasonal symbolism shape an emotional response, and what does the picture itself provide?",
+      "observation": "Which details contradict a purely decorative reading, and which support it?",
+      "analysis": "Analyze how cropping, diagonal movement and an open field of blue shape the composition's tension.",
+      "line": "How does the interplay of confident contour and tapering branches express both control and growth?",
+      "shape": "Evaluate how repeated blossom forms generate rhythm and unity across a nearly flat field.",
+      "color": "How does the restrained palette sharpen the contrast between delicacy and graphic boldness?",
+      "texture": "What does the visible handling of paint convey about the act of painting and the character of the subject?",
+      "space": "How does the painting negotiate between close observation and a deliberately shallow pictorial space?",
+      "light": "How does the image evoke radiance without conventional modeling of light and shadow?",
+      "meaning": "How might one balance symbolic readings of renewal against the risk of over-reading the artist's biography?",
+      "culture": "What does the painting reveal about cross-cultural exchange and the European encounter with Japanese art?",
+      "technique": "How might the combination of Japanese-inspired design and Post-Impressionist brushwork be understood as a synthesis rather than imitation?",
+      "personal": "What makes a seemingly simple image resonate with you, and does this painting meet that standard?",
+      "critical": "What criteria would you use to defend the idea that this is a major painting rather than a charming one?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Only the arthistoryproject.com page text was read (title, movement, medium, year, collection, public-domain statement, tags: Flowers, Woods, Forests, & Trees); no concerning terms. The image itself was not visually inspected; a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting from 1890 by Vincent van Gogh, held at the Van Gogh Museum in the Netherlands. The source page tags it with flowers and trees. Van Gogh is known to have admired Japanese prints, which often use close-up views and bold outlines.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "blossom",
+      "contour",
+      "cropping",
+      "composition",
+      "Japanese print"
+    ],
+    "directions": [
+      "Have students draw a branch or plant close up, letting the edges of the paper crop it, and discuss how that changes the picture.",
+      "Ask students to compare bold outlines with soft blended edges in two quick sketches.",
+      "Discuss why spring blossoms are used in many cultures as a symbol of new beginnings."
+    ]
+  }
+}

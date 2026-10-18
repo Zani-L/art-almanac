@@ -1,0 +1,158 @@
+{
+  "id": "met-13611",
+  "day": "10-07",
+  "title": "Embroidered coverlet",
+  "artist": "Ruth Culver Coleman",
+  "date": "ca. 1760–75",
+  "medium": "Linen and wool, embroidered",
+  "region": "United States (Mid-Atlantic)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP267981.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP267981.jpg",
+    "credit": "The Metropolitan Museum of Art, Sansbury-Mills Fund, 1961",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A bed coverlet of linen embroidered with wool yarn. Flowers are stitched across its surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/13611",
+    "objectId": "13611",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, region, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A coverlet embroidered by Ruth Culver Coleman in the Mid-Atlantic American colonies around 1760 to 1775, using wool on linen. The Met's record lists flowers among its imagery.",
+  "descriptions": {
+    "k": "This is a bed cover. Ruth Coleman stitched it with soft wool yarn on linen cloth. She made it more than 250 years ago. Look for flowers. Where is your favorite one?",
+    "g12": "Ruth Culver Coleman stitched this bed cover with wool yarn on linen about 250 years ago. Flowers cover the cloth. Wool yarn is thicker than silk thread, so the stitches look soft and bold. Find one flower. How many colors of yarn can you count?",
+    "g35": "Ruth Culver Coleman embroidered this coverlet between about 1760 and 1775, before the United States became a country. She used wool yarn on linen to make flowers. Wool is thicker than silk thread, so the stitches stand out. Look at how the flowers are arranged. Why might she have stitched so many flowers on something for a bed?",
+    "g68": "Made in the Mid-Atlantic colonies around 1760 to 1775, this coverlet was embroidered by Ruth Culver Coleman with wool on a linen ground. Flowers are the main subject. Wool embroidery on linen was a practical, warm, and decorative choice for household bed furnishings, and similar floral designs were popular in the period. Look at how the flowers and other forms are spread over the cloth. What does the scale of the project suggest about time and skill?",
+    "g910": "Embroidered by Ruth Culver Coleman around 1760 to 1775, this coverlet shows how large-scale domestic needlework could become a major artistic project. Wool yarn on linen allowed bold, textured flowers, and the surface must have required long planning and patient work. Floral motifs were widely used in colonial household textiles, often influenced by imported designs, though the record gives no information on Coleman's sources. Consider how a bed covering might serve as both a practical object and a statement of skill.",
+    "g1112": "Ruth Culver Coleman's embroidered coverlet, made around 1760 to 1775 in the Mid-Atlantic colonies, is a significant example of large-scale wool-on-linen needlework. Its floral imagery fits broader colonial taste shaped by imported textiles and prints, but the record does not specify Coleman's models or the coverlet's circumstances. The scale and labor involved complicate the idea that domestic embroidery is minor art, and the object invites questions about authorship, skill, and how women's work is preserved and valued."
+  },
+  "questions": {
+    "k": {
+      "daily": "Ruth Coleman stitched flowers with wool yarn. Which flower would you want to touch?",
+      "emotion": "Would this bed cover feel warm and cozy? What do you see that tells you?",
+      "observation": "How many different colors of flower can you find?",
+      "analysis": "Which flower do your eyes land on first? What helps it stand out?",
+      "line": "Find a stem that curves. Trace it in the air.",
+      "shape": "What shapes do the flower petals make? Look for round or pointed ones.",
+      "color": "Which yarn colors do you see most? Which is your favorite?",
+      "texture": "Wool yarn is fuzzy and thick. How would these stitches feel under your fingers?",
+      "space": "Are the flowers close or far apart? Where is the most plain cloth?",
+      "light": "Which yarn colors look light and which look dark?",
+      "meaning": "Why might someone put flowers on a bed cover?",
+      "culture": "This bed cover is from America over 250 years ago. What do you put on your bed today?",
+      "technique": "Ruth used a needle and thick yarn. Why do you think the stitches look chunky?",
+      "personal": "What flower do you want on a blanket for your own bed?",
+      "critical": "Ruth stitched with thick wool yarn. What clue shows you the stitches are chunky?"
+    },
+    "g12": {
+      "daily": "How did Ruth Culver Coleman use wool yarn to make flowers look soft and bold? Show one example.",
+      "emotion": "Does the flower cover feel cheerful or calm? Which parts help you decide?",
+      "observation": "Describe two flowers on the coverlet. What are their shapes and colors?",
+      "analysis": "How are the flowers placed on the linen so the whole coverlet feels balanced?",
+      "line": "Look at stems and leaves. How do curvy stitched lines make them look like they are growing?",
+      "shape": "Pick a flower and name the shapes inside it. Which shape do you see most?",
+      "color": "Which wool colors stand out against the linen? Why do you think they do?",
+      "texture": "Wool yarn sits up above the cloth. How is it different from thin silk thread?",
+      "space": "How much of the linen can you still see around the flowers? What does that do to the design?",
+      "light": "Which yarn seems brightest? How does it help the flower pop?",
+      "meaning": "Flowers can mean spring, beauty, or home. What do the flowers mean to you here?",
+      "culture": "Before the United States existed, people in the colonies stitched covers by hand. How do we get bed covers today?",
+      "technique": "Wool embroidery needs patience. How do you think Ruth planned where each flower would go?",
+      "personal": "Think of something you made slowly by hand. What was the hardest part?",
+      "critical": "Is this coverlet mainly useful, mainly beautiful, or both? Explain with what you see."
+    },
+    "g35": {
+      "daily": "How do the wool stitches make the flowers look rich and full? Point to details in the coverlet.",
+      "emotion": "What mood does a coverlet covered in flowers create? Which details add to it?",
+      "observation": "Look slowly across the coverlet. What small details in the flowers or stems did you notice later?",
+      "analysis": "How does Coleman arrange flowers and other forms to fill a large cloth without it looking messy?",
+      "line": "How do thick wool lines show stems, leaf edges, and petals? Compare them to pencil lines.",
+      "shape": "How do round and pointed shapes work together in the flowers?",
+      "color": "How do the wool colors stand out against the linen, and how do they look next to each other?",
+      "texture": "How might wool yarn on linen feel different from silk thread on linen?",
+      "space": "How does the amount of open linen affect how rich the flowers look?",
+      "light": "How might the coverlet look different in a candlelit room than in daylight?",
+      "meaning": "Why might a household want a decorated coverlet instead of a plain one?",
+      "culture": "In the 1700s, many household objects were made by hand. What does this coverlet tell you about how families valued handwork?",
+      "technique": "Wool yarn is thick, so stitches cover a lot of space. How might that change how the flowers are drawn?",
+      "personal": "What would you choose to decorate something you will use every night?",
+      "critical": "Ruth Coleman is named in the record. Why is it important when a museum can name a textile maker?"
+    },
+    "g68": {
+      "daily": "How does the choice of wool on linen shape the way flowers are drawn on this coverlet?",
+      "emotion": "How does the abundance of flowers affect the mood of the coverlet?",
+      "observation": "List the kinds of forms you see: flowers, stems, leaves, and others. Which are easiest to miss?",
+      "analysis": "How does the arrangement guide the eye across a bed-sized surface, and where do you pause?",
+      "line": "How do stitched lines combine to give flowers outlines and inner detail?",
+      "shape": "How are real flowers simplified into stitched shapes? Compare with a drawing.",
+      "color": "How do the wool colors build contrast, and how might dye and age have changed them?",
+      "texture": "How do the thick wool stitches create a tactile surface that a printed pattern would lack?",
+      "space": "How does the embroidered design use empty linen to give the flowers room?",
+      "light": "How might the matte wool absorb light differently from shiny silk thread?",
+      "meaning": "What might floral designs have meant for colonial households, and why should we be cautious about certainty?",
+      "culture": "How might imported designs and local taste have shaped needlework in the Mid-Atlantic colonies?",
+      "technique": "What planning would be needed to embroider a coverlet this large?",
+      "personal": "How do large personal projects such as a long art piece or a big build change how you see their maker?",
+      "critical": "Why were large embroideries long treated as domestic craft, and how does the Met's naming of Coleman change that?"
+    },
+    "g910": {
+      "daily": "How does Coleman use scale, wool texture, and floral motifs to turn a household object into a major display of skill?",
+      "emotion": "How do abundance and softness of material shape the coverlet's emotional register?",
+      "observation": "Describe the coverlet's visual hierarchy. Which flowers or areas dominate, and how is that emphasis achieved?",
+      "analysis": "Analyze how the composition organizes a large field of floral motifs.",
+      "line": "How does the thickness of wool yarn influence the quality of line in stems and outlines?",
+      "shape": "How do stylized floral shapes balance naturalism with the constraints of embroidery?",
+      "color": "How do the wool colors build palette and contrast against undyed linen?",
+      "texture": "How does the contrast of woolen stitches and linen ground produce relief and depth?",
+      "space": "How does the all-over arrangement of flowers differ from pictorial space in European painting of the same period?",
+      "light": "How does wool's matte surface contribute to the coverlet's quiet or warm character?",
+      "meaning": "How might floral imagery on a bed furnishing relate to ideals of home and care, and where does this remain speculation?",
+      "culture": "How does a named maker such as Coleman change the way we think about colonial domestic textiles?",
+      "technique": "How do the materials and stitches reflect the knowledge needed to complete such a large embroidery?",
+      "personal": "How do you balance planning and improvising in your own long projects?",
+      "critical": "How has the line between art and domestic craft shaped which colonial objects museums collect and display?"
+    },
+    "g1112": {
+      "daily": "What can be argued about Coleman's skill and ambition from the coverlet itself, and where do we need outside evidence?",
+      "emotion": "How can an ornamental surface evoke comfort or abundance, and what are the risks of reading emotion into domestic textiles?",
+      "observation": "Describe the coverlet's surface precisely. Where does your vocabulary depend on knowledge of embroidery techniques?",
+      "analysis": "Analyze how the coverlet balances repetition with variation across a large field.",
+      "line": "How does the stitched line compare with the drawn or printed line that may have inspired it?",
+      "shape": "How do floral forms mediate between observed nature, imported designs, and the vocabulary of stitches?",
+      "color": "How might the aging of wool dyes alter the colors we see compared with the original?",
+      "texture": "How does the material choice of wool on linen carry practical and social meaning?",
+      "space": "How does the coverlet's flat field relate to colonial ideas of domestic order?",
+      "light": "How should museums light and store large wool embroideries given their fragility, and how does this affect viewing?",
+      "meaning": "Evaluate competing readings of colonial floral embroidery as personal expression, taste, or inherited convention.",
+      "culture": "How does the survival of this coverlet and the naming of its maker reflect broader patterns in recording women's work?",
+      "technique": "What does the scale of the project suggest about labor, time, and access to materials in the 1760s and 1770s?",
+      "personal": "How does your own relation to handmade heirlooms shape the weight you give this coverlet?",
+      "critical": "What are the benefits and risks of calling domestic embroidery 'art' rather than 'craft'?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, culture, region, and tags (Flowers) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An embroidered coverlet of wool on linen made by Ruth Culver Coleman around 1760 to 1775 in the Mid-Atlantic colonies. Confirm motifs against the image before discussing details beyond flowers.",
+    "vocabulary": [
+      "coverlet",
+      "embroidery",
+      "wool",
+      "linen",
+      "motif",
+      "colonial America"
+    ],
+    "directions": [
+      "Let students try big stitches with yarn and a blunt needle on burlap or felt to feel how wool changes a design.",
+      "Discuss which household objects today will be saved for centuries, and why.",
+      "Compare this wool embroidery with a silk sampler in the archive."
+    ]
+  }
+}

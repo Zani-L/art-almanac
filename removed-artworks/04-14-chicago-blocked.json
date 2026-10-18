@@ -1,0 +1,158 @@
+{
+  "id": "artic-8360",
+  "day": "04-14",
+  "title": "Te burao (The Hibiscus Tree)",
+  "artist": "Paul Gauguin",
+  "date": "1892",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "Tahiti (French Polynesia)",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/604fe021-6008-f666-bce8-456b2fdc9bd4/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Joseph Winterbotham Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A tropical landscape dominated by a large tree with bold, flat patches of color, with a figure, buildings, a beach and water beyond. The colors look vivid and more decorative than realistic.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/8360",
+    "objectId": "8360",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (landscapes, beach, building, figure, foliage, root, sky, trees, woman, water), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Paul Gauguin, dated 1892 and carrying a Tahitian title, Te burao. Gauguin lived in Tahiti from 1891 and painted scenes there in bold, flat color. The Art Institute's subject terms list a landscape with a tree, beach, building, figure and water.",
+  "descriptions": {
+    "k": "This is a place with a big tree. There is a person, a house, and water far away. The colors are strong and bright. Which color do you see first? Do the colors look real, or do they look like a dream?",
+    "g12": "Paul Gauguin painted this picture in Tahiti, an island far from France. A big tree stands in the front, with a person, buildings, and water behind it. The colors are bold, and the shapes look flat. Which colors do you think are real? Which ones look made up?",
+    "g35": "Paul Gauguin painted Te burao in 1892, a year after he moved to Tahiti. The title is Tahitian. The painting shows a tree, a figure, buildings, a beach, and the sea in bold, flat patches of color. Gauguin often chose colors for feeling instead of for what he saw. Where do the colors seem most surprising to you?",
+    "g68": "Gauguin painted Te burao in 1892 in Tahiti, using a Tahitian title. The museum lists a landscape with a tree, a beach, a building, a figure, and water. He simplified shapes into flat areas of strong color rather than blending realistically. How do those choices make the island feel different from a photograph, and what might Gauguin have wanted you to feel?",
+    "g910": "Te burao (1892) reflects Gauguin's move to Tahiti and his Post-Impressionist habit of using flat, saturated color and simplified shapes to express mood rather than record detail. The Tahitian title and subject invite questions about how a European outsider presented a place, and viewers have debated that perspective. How do the formal choices of color and flatness affect your reading, and what might the painting leave out?",
+    "g1112": "Te burao (1892) belongs to Gauguin's first Tahitian period, when he adopted flat planes of color and decorative contour associated with Synthetism. Contemporary viewers weigh the painting's formal innovations against critiques of colonial perspective and Gauguin's own romanticizing of Tahiti. How do you reconcile an appreciation of its color and design with awareness of who is looking, who is depicted, and what the image omits?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the big tree. What colors do you see on it?",
+      "emotion": "Does this place feel hot, quiet, or exciting? What shows you?",
+      "observation": "Find the person, the building, and the water. Which is hardest to find?",
+      "analysis": "Which part of the tree catches your eye first? What makes it stand out?",
+      "line": "Trace the curving branches in the air. Which way do they go?",
+      "shape": "The leaves and shapes look flat, like cut paper. Where do you see this?",
+      "color": "Which colors are the brightest? Is there a color you did not expect?",
+      "texture": "Does the paint look smooth or lumpy? Tell us what you see.",
+      "space": "What is near you and what is far away in this painting?",
+      "light": "Does it look sunny here? Point to the places that look bright.",
+      "meaning": "Gauguin picked bold colors on purpose. How do they make you feel?",
+      "culture": "Gauguin painted this on an island far from where he grew up. What would you want to paint if you traveled far away?",
+      "technique": "Gauguin used big flat patches of color. How might that be different from painting every little detail?",
+      "personal": "What colors would you use to show a place you love?",
+      "critical": "What would you ask a person who lives in a place like this?"
+    },
+    "g12": {
+      "daily": "Look at the tree. What does it make you think of?",
+      "emotion": "Which feelings do the strong colors give you: happy, calm, or something else?",
+      "observation": "List five things you see, from the front of the painting to the back.",
+      "analysis": "How does the big tree help you see where the rest of the picture is?",
+      "line": "Which curved lines remind you of tree roots or branches?",
+      "shape": "Gauguin made flat shapes with bold edges. How do they look different from real objects?",
+      "color": "Gauguin used colors that might not match real life. Which colors surprised you most?",
+      "texture": "How does the paint make the leaves look different from the sky or the sand?",
+      "space": "How does the painter show that some things are close and others are far away?",
+      "light": "Where does the light seem strongest? How do you know?",
+      "meaning": "The title is in Tahitian. Why might Gauguin pick a title in the language of the place?",
+      "culture": "Gauguin moved to Tahiti from France. What might he have found new and interesting there?",
+      "technique": "Gauguin simplified the shapes in his painting. How does that change how real or dreamlike it feels?",
+      "personal": "If you painted a tree, how would you decide what colors to use?",
+      "critical": "Should an artist paint a place exactly as it looks, or as it feels? Explain."
+    },
+    "g35": {
+      "daily": "What details of color and shape make this feel like a particular place? Which do not feel real?",
+      "emotion": "How would you describe the mood of the painting, and which colors build it?",
+      "observation": "Look closely at the foreground and the distance. What details did you notice last?",
+      "analysis": "How does Gauguin use the large tree to organize the picture and lead your eye?",
+      "line": "How do the curving contours of branches and roots create rhythm?",
+      "shape": "How do the flat, simplified shapes of the figure, buildings, and tree set this apart from realistic painting?",
+      "color": "How does Gauguin use strong, nonrealistic color to express feeling?",
+      "texture": "How does the paint surface differ between large color areas and small details?",
+      "space": "How does a flattened, layered space affect the sense of distance?",
+      "light": "How does the painting show light through color rather than through shadow?",
+      "meaning": "Gauguin lived in Tahiti as a European visitor. How might that shape what he chose to paint and how?",
+      "culture": "The title is Tahitian. How does it affect how you think about the painting's subject and audience?",
+      "technique": "How is painting with simplified shapes and flat color different from the approach of Impressionists like Monet?",
+      "personal": "How would you describe a place you know using color instead of detail?",
+      "critical": "How should we think about an artist who paints a place as an outsider?"
+    },
+    "g68": {
+      "daily": "What details of the tree, figure, and buildings tell you about this place, and what feels invented?",
+      "emotion": "What mood do the strong colors create, and how might different colors change it?",
+      "observation": "Describe the foreground, middle ground, and background. What detail did you notice last?",
+      "analysis": "How does Gauguin use the large tree to organize the picture and guide your eye?",
+      "line": "How do the curving lines of branches and roots create rhythm across the canvas?",
+      "shape": "How do the flat, simplified shapes make the scene feel more like a design than a photograph?",
+      "color": "How does Gauguin use color for feeling rather than for matching real life?",
+      "texture": "How does the paint surface differ between big color areas and small details?",
+      "space": "How do the layers of planes make the space feel shallow instead of deep?",
+      "light": "How does Gauguin suggest sunlight using color instead of heavy shadows?",
+      "meaning": "Gauguin was a European visitor to Tahiti. How might that shape what he chose to show or leave out?",
+      "culture": "The title is Tahitian. What does a title in another language tell you about the painting's setting?",
+      "technique": "How is Gauguin's flat color different from the soft blending of Impressionist painting?",
+      "personal": "If you described a place you know in bold color, what would you choose?",
+      "critical": "How should we think about a painting that is beautiful but made from an outsider's viewpoint?"
+    },
+    "g910": {
+      "daily": "How do the simplified shapes and unnatural colors balance a sense of place against a sense of invention?",
+      "emotion": "How does the saturated palette produce a mood of warmth or mystery, and could it also feel artificial?",
+      "observation": "Examine the placement of the figure and buildings relative to the tree. What do they suggest about the focus of the painting?",
+      "analysis": "Analyze how Gauguin structures the painting through layered planes and the dominant tree.",
+      "line": "How does decorative contour contribute to the sense of pattern over naturalism?",
+      "shape": "How do flat color shapes assert the surface of the canvas?",
+      "color": "Evaluate Gauguin's use of non-naturalistic color as an expressive and symbolic strategy.",
+      "texture": "How does the handling of paint reveal Gauguin's simplified technique and his break with academic finish?",
+      "space": "How does shallow, stacked space reflect his interest in Japanese prints and non-European art, and with what implications?",
+      "light": "How does the painting construct light through hue, and what does that say about priorities compared with Impressionism?",
+      "meaning": "How do the Tahitian title and subject complicate a reading of the painting as simple celebration?",
+      "culture": "How might an informed viewer weigh the painting's formal achievements against critiques of Gauguin's colonial vantage point?",
+      "technique": "How does Synthetism, with simplified form and flat color, differ from the Impressionist pursuit of fleeting light?",
+      "personal": "How does your awareness of an artist's background alter how you respond to formal qualities?",
+      "critical": "To what extent should historical critique affect how museums display and teach this painting?"
+    },
+    "g1112": {
+      "daily": "How does the tension between decorative stylization and observed landscape shape your reading of the painting's authority?",
+      "emotion": "How might saturated, non-naturalistic color convey enchantment, and how might it also signal an outsider's idealization?",
+      "observation": "Analyze how scale and placement among tree, figure, and buildings structure attention and implicit hierarchy.",
+      "analysis": "How does the tree's dominating mass organize the layered spatial planes?",
+      "line": "How does decorative contour link Gauguin to Synthetism and to design traditions beyond European academic painting?",
+      "shape": "How do flat color fields assert the picture plane, and what do they cost in conventional illusion?",
+      "color": "Evaluate symbolic or expressive uses of color in Gauguin's Tahitian work while acknowledging that a single meaning cannot be assumed.",
+      "texture": "What does the handling of paint reveal about Gauguin's distance from academic practice and from Impressionist touch?",
+      "space": "How does the compression of space draw on Japanese prints and other sources, and how do those borrowings function?",
+      "light": "How does color replace modeling as the means of conveying light, and with what perceptual consequences?",
+      "meaning": "How should the Tahitian title be read, given questions about language, authorship, and the reception of Gauguin's work?",
+      "culture": "How do postcolonial critiques of Gauguin inform, without wholly replacing, formal appreciation of this painting?",
+      "technique": "How does Synthetism's emphasis on idea over observation reposition painting relative to naturalism?",
+      "personal": "How do your cultural assumptions about 'exotic' subjects influence what you notice and what you overlook?",
+      "critical": "What responsibility do museums have in presenting works whose makers' perspectives are contested?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (landscapes, beach, building, figure, foliage, root, sky, trees, woman, water) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1892 during Gauguin's first stay in Tahiti, in oil on canvas, with a Tahitian title. The museum record lists place of origin as France; the work is widely documented as painted in Tahiti. Handle discussion of colonial perspective with care and age-appropriateness.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "Synthetism",
+      "flat color",
+      "contour",
+      "foreground",
+      "title"
+    ],
+    "directions": [
+      "Have students paint a tree using only colors that express a feeling and compare with a realistic color version.",
+      "Discuss how an artist who travels to another place might see it differently from someone who lives there.",
+      "Ask students to identify where flat shapes and layered planes replace realistic depth."
+    ]
+  }
+}

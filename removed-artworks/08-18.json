@@ -1,0 +1,154 @@
+{
+  "id": "met-312203",
+  "day": "08-18",
+  "title": "Barkin or barshin (headrest)",
+  "artist": "Somali artist",
+  "date": "19th–mid-20th century",
+  "medium": "Wood",
+  "region": "Somali peoples, Somalia",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A small carved wooden headrest, a support for the head or neck with a base, shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312203",
+    "objectId": "312203",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, classification, tags (none), public-domain flag (false), and empty image fields read from the record"
+  },
+  "context": "A wooden headrest by a Somali artist, made in the 19th to mid-20th century in Somalia. Its title gives two Somali words, barkin and barshin. It is small, about 16 centimeters tall and wide. Headrests are used in many parts of Africa and the world as pillows, to support the head or neck during sleep.",
+  "descriptions": {
+    "k": "This is a headrest. It is a small wooden stand for resting your head when you sleep. It is like a very hard pillow. A Somali artist carved it from wood. Can you find the part where a head would rest?",
+    "g12": "This little wooden headrest was made in Somalia, in East Africa. A person rests their head or neck on it when they sleep. It is like a pillow made of wood. The artist carved the shape out of wood. What shapes do you see? How do you think it feels to rest on it?",
+    "g35": "A headrest is a small carved stand that holds the head or neck while someone sleeps. This one was made by a Somali artist in Somalia. It is only about 16 centimeters tall, so you can hold it in two hands. The carver shaped a useful object so it has curves and a steady base. How do you think the shape helps it do its job and look good?",
+    "g68": "This headrest, called barkin or barshin in Somali, is a carved wooden object that supports the head or neck during sleep. Headrests were used in many African societies and elsewhere, and were often valued as personal belongings. The museum lists wood and dates it from the 19th to the mid-20th century. It is small, about 16 centimeters, so it could be carried. How does the carver balance comfort, stability, and decoration in a simple form?",
+    "g910": "This Somali headrest, called barkin or barshin, belongs to a widespread type of object: a carved support for the head or neck during sleep. Such headrests are often associated with people who move with their herds, since they are small and portable, though the museum record does not say who used this one or how. Made of wood and dated 19th to mid-20th century, it shows how an everyday object can be a refined sculptural form. How do the curves and the base suggest both function and elegance?",
+    "g1112": "A headrest is an unusual object to a viewer used to pillows, which makes it a useful prompt for rethinking assumptions about comfort and design. This barkin or barshin from Somalia is a portable, carved wooden support. Its dates, 19th to mid-20th century, are broad, and the record offers little about its owner or use. Headrests in many cultures protect hairstyles, keep the head cool, or serve as personal objects, but we should not assume which applies here. How does the headrest challenge a narrow definition of furniture, and what does a museum's focus on form omit?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where would a head rest on this headrest? Point to the spot.",
+      "emotion": "Does this headrest look comfy, strong, or something else? Why?",
+      "observation": "What parts of the headrest can you find? Point to the top and the bottom.",
+      "analysis": "Which part of the headrest do you notice first? What makes it stand out?",
+      "line": "Can you find a curved line on the headrest? Trace it in the air.",
+      "shape": "What shapes make up the headrest? Look for curves and flat parts.",
+      "color": "What color is the wood on this headrest? Does it look light or dark?",
+      "texture": "The headrest is made of wood. How do you think it would feel to touch?",
+      "space": "The headrest is small. Can you show its size with your hands?",
+      "light": "Which parts of the headrest look light and which look dark?",
+      "meaning": "Who might use a headrest like this? Tell a little story.",
+      "culture": "A Somali artist in East Africa made this. What do you sleep on at home?",
+      "technique": "A carver shaped this from wood. What do you think the carver did first?",
+      "personal": "What would you do to make your bed or pillow special?",
+      "critical": "How can you tell this headrest is steady and will not tip over?"
+    },
+    "g12": {
+      "daily": "How does the carver make a useful headrest also look nice? Point to details.",
+      "emotion": "What feeling does the headrest give you? Show what makes you feel that way.",
+      "observation": "Describe three parts of the headrest, from the top to the base.",
+      "analysis": "How do the top and the base work together to make one object?",
+      "line": "Find curved lines and straight lines. Where do they meet on the headrest?",
+      "shape": "What big shapes make up the headrest? How do they fit together?",
+      "color": "The headrest is made of wood. How do light and dark areas of the wood make it interesting?",
+      "texture": "Which parts look smooth, and which look carved? How would you tell by looking?",
+      "space": "Look at how the top connects to the base. How does that connection change how the headrest looks?",
+      "light": "Where would light hit the headrest first? Where might there be shadows?",
+      "meaning": "People have used headrests in many places. Why might people want their own special headrest?",
+      "culture": "Somali people made headrests like this one. Why might a small object be easy to carry?",
+      "technique": "Wood is carved by taking pieces away. Why might a carver need to plan before cutting?",
+      "personal": "What objects do you like to have close by when you sleep or rest?",
+      "critical": "Is this headrest furniture, art, or both? Give a reason."
+    },
+    "g35": {
+      "daily": "How does the carver make a useful object look carefully designed? Use details to explain.",
+      "emotion": "What mood does the headrest have? Which details create that mood?",
+      "observation": "Take a quiet minute with the headrest. Which carved details stand out after you look longer?",
+      "analysis": "How do the curved top and the base balance each other in the design?",
+      "line": "How do curved lines and straight lines work together in the headrest's design?",
+      "shape": "Describe the headrest's overall shape. How does it feel steady and comfortable at the same time?",
+      "color": "The headrest is one material, wood. How do light and dark areas of the wood add interest?",
+      "texture": "Where does the wood on this headrest look smooth, and where does it show carving?",
+      "space": "How does the way the top connects to the base shape the headrest's design?",
+      "light": "How might light and shadow change the way the carved shape looks?",
+      "meaning": "A headrest might be a personal belonging. What does this tell us about how people value everyday objects?",
+      "culture": "Somali people have made and used headrests for a long time. What do you think an object like this says about the way people lived?",
+      "technique": "A carver removes wood to make shapes. How is that different from building something by adding pieces?",
+      "personal": "What object do you use every day that you would like to design differently?",
+      "critical": "The headrest is small and portable. How might its size affect how it was used?"
+    },
+    "g68": {
+      "daily": "How does the headrest balance comfort, stability, and decoration in a very simple form?",
+      "emotion": "What qualities, such as calm, strength, or elegance, does the headrest express, and what evidence supports your answer?",
+      "observation": "Describe the headrest's structure from top to bottom. What details are easy to overlook?",
+      "analysis": "How does the carver use curves and straight sections to create a stable object?",
+      "line": "How do outlines and carved lines shape the headrest, and where do they emphasize or soften its form?",
+      "shape": "How does the headrest simplify a support for the head into a few strong shapes?",
+      "color": "How do natural variations in the wood create color and tone without added color?",
+      "texture": "What signs of wear or handling can you find on the surface, and what might they tell you?",
+      "space": "How does the headrest connect its head support to its base, and what does that do for the design?",
+      "light": "How would light from different directions reveal the headrest's form in different ways?",
+      "meaning": "Why might a simple object such as a headrest be treated as a work of art in a museum?",
+      "culture": "Why might communities that move often value small, portable objects like this?",
+      "technique": "What skill does it take to carve a headrest that is both strong and graceful?",
+      "personal": "How do you decide which everyday objects are worth having made with extra care?",
+      "critical": "What would a museum need to tell visitors about how this headrest was used?"
+    },
+    "g910": {
+      "daily": "How does this headrest turn a simple need into a refined sculptural form?",
+      "emotion": "How does restraint of form give the object a sense of calm or dignity?",
+      "observation": "Describe the headrest's visual hierarchy. What do you notice first, and which formal devices create that order?",
+      "analysis": "Analyze how the relation of the top support and the base produces stability.",
+      "line": "How do contour lines shape the headrest's profile, and how might they guide the eye?",
+      "shape": "How does the simplicity of the headrest's geometry contribute to its elegance?",
+      "color": "How does the wood's natural tone and finish affect the object's presence?",
+      "texture": "How does surface treatment, carved or smoothed, affect how the headrest might feel in use?",
+      "space": "How does the headrest's profile define its character, and how does it differ from a plain block?",
+      "light": "How might raking light reveal tool marks or fine surface carving?",
+      "meaning": "What do the portability and personal scale of a headrest suggest about its role, and what remains uncertain?",
+      "culture": "How do objects designed for daily use reflect cultural attitudes toward comfort, privacy, and care of the body?",
+      "technique": "How does carving from a single piece of wood limit and shape the designs a carver can make?",
+      "personal": "What everyday objects in your life are designed to be simple, and how does that simplicity shape how you use them?",
+      "critical": "How might a museum's focus on form obscure the daily life of the object?"
+    },
+    "g1112": {
+      "daily": "What can the form of a headrest tell us about the relationship between daily practice and aesthetic judgment?",
+      "emotion": "How does an object intended for sleep and rest carry a sense of intimacy when viewed in a gallery?",
+      "observation": "Describe the headrest with precision. Which parts of your description assume a use that the record does not confirm?",
+      "analysis": "Analyze how the headrest's structure and profile reflect functional demands and aesthetic choices.",
+      "line": "How does contour define the headrest, and how might it echo forms in other objects from the same region?",
+      "shape": "How does the geometry of the headrest compare with modern design ideas of minimal form, and where does that comparison mislead?",
+      "color": "How does the finish of wood, from handling and age, shape our impression of the object's original appearance?",
+      "texture": "How might the accumulation of wear mark the object as personal, and what does that imply for its meaning?",
+      "space": "How does the headrest's top support and base define a relationship between object and body?",
+      "light": "How does museum lighting emphasize form over use for a small domestic object?",
+      "meaning": "How should we discuss the significance of everyday objects without inventing meanings for them?",
+      "culture": "How do headrests from different cultures show that comfort is defined differently across societies?",
+      "technique": "What does the technique of carving from a single block suggest about the carver's knowledge of the material?",
+      "personal": "How does your own habit of sleeping and resting shape your assumptions about comfort and what counts as good design?",
+      "critical": "How can museums resist the tendency to treat objects from the Horn of Africa as generic and instead highlight specific makers, regions, and uses?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Barkin or barshin (headrest)), classification (Wood-Furniture), object name (Headrest), medium (wood), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Somali wooden headrest (barkin or barshin) from Somalia, 19th to mid-20th century. The record does not say who used it or whether it was decorated, so keep discussion to form and general use and avoid asserting specifics.",
+    "vocabulary": [
+      "headrest",
+      "barkin",
+      "carve",
+      "base",
+      "portable",
+      "function"
+    ],
+    "directions": [
+      "Ask students to sketch a headrest from the front and the side, then discuss which view tells more about its stability.",
+      "Compare headrests with pillows. What do they have in common, and why might cultures choose different forms?",
+      "Have students design a small portable object for daily use, describing how its shape serves both comfort and beauty."
+    ]
+  }
+}

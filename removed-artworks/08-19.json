@@ -1,0 +1,151 @@
+{
+  "id": "met-501369",
+  "day": "08-19",
+  "title": "Ipu Hula (gourd drum)",
+  "artist": "Artist unknown (Hawai'i)",
+  "date": "19th century",
+  "medium": "Gourd, tapa cloth, breadfruit gum",
+  "region": "Hawai'i, United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP218832.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP218832.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall gourd drum from Hawai'i, about thirty inches high, made from gourd with tapa barkcloth and breadfruit gum.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501369",
+    "objectId": "501369",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Idiophone-Stamping), objectName, dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "An ipu hula, a gourd drum used to accompany hula, made in Hawai'i in the 19th century from gourd, tapa cloth, and breadfruit gum. It stands about 76 centimeters (30 inches) tall. Tapa is cloth made from the inner bark of trees.",
+  "descriptions": {
+    "k": "This is a drum made from a gourd, a hard-shelled plant. It is tall. People in Hawai'i used drums like this to make music for hula dance. Can you imagine the sound it makes?",
+    "g12": "This drum is called an ipu hula. It comes from Hawai'i and is made from a gourd, a plant with a hard shell. Tapa cloth and a sticky tree gum are also part of it. Drums like this help keep the beat for hula. How might it sound?",
+    "g35": "An ipu hula is a gourd drum made in Hawai'i to accompany hula, the dance of the islands. This one, from the 19th century, is about 76 centimeters tall and made from gourd, tapa cloth, and breadfruit gum. Tapa is a cloth made from tree bark. Look at how natural materials were joined into one instrument. Why might gourds make good drums?",
+    "g68": "The ipu hula is a gourd drum used in Hawai'i to keep rhythm for hula and chant. This 19th-century example is made of gourd, tapa cloth, and breadfruit gum, all natural materials from the islands. Its tall, rounded shape is both practical and elegant, and tapa, a bark cloth, shows that musical instruments could combine several crafts. The record gives the materials but not the maker, so what we see is a record of skill rather than a named artist.",
+    "g910": "The ipu hula joins several Hawaiian crafts: a gourd shaped for resonance, tapa cloth, and breadfruit gum used as an adhesive or sealant. Made in the 19th century, it accompanied hula and chant, in which rhythm and voice work with movement. The classification as an instrument may hide the object's sculptural qualities: its tall silhouette and natural materials form a unified design. How does an object designed for sound also work as a visual form?",
+    "g1112": "This ipu hula, a 19th-century gourd drum from Hawai'i, shows the interplay of material, sound, and performance. Gourd provides the resonating body, while tapa and breadfruit gum, an adhesive material, reflect the integrated use of local resources. Because hula is a living tradition, the instrument cannot be reduced to a museum object: its meaning lies partly in performance and community knowledge that the record does not capture. How should we describe an instrument when the sound that defines it is absent?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at this tall gourd drum. What do you think it would sound like?",
+      "emotion": "Does this drum feel quiet or loud to you? What makes you say so?",
+      "observation": "What parts of the drum can you name? Find the top, the middle, and the bottom.",
+      "analysis": "Where do your eyes go first on the drum? Where do they go next?",
+      "line": "Trace the curve of the drum from top to bottom. Where does it get wider?",
+      "shape": "The drum is round and tall. What round things do you know that are like it?",
+      "color": "What colors do you see on the drum? Do they look like a plant?",
+      "texture": "A gourd has a hard shell. How do you think the drum would feel in your hands?",
+      "space": "The drum is about as tall as a big dog. Show with your hands how tall it is.",
+      "light": "Where does the drum look bright, and where does it look dark?",
+      "meaning": "Hula is a dance. What kind of dance do you think goes with this drum?",
+      "culture": "People in Hawai'i played drums like this for hula. What music or dance do you enjoy?",
+      "technique": "This drum came from a gourd. How do you think someone made a plant into a drum?",
+      "personal": "What object could you tap to make music at home? Show the beat.",
+      "critical": "How can you tell this drum is made from plants and not metal or plastic?"
+    },
+    "g12": {
+      "daily": "What do you notice about the ipu hula that makes it more than just a drum? Describe it.",
+      "emotion": "What feeling would dancing to this drum give you: lively, calm, or joyful? Why?",
+      "observation": "Describe the ipu hula from bottom to top. What materials can you see?",
+      "analysis": "How does the shape of the gourd make this a good instrument to hold and tap?",
+      "line": "Find the curved lines in the drum's outline. Where is the curve strongest?",
+      "shape": "The drum is tall and round. How does this shape help it make sound?",
+      "color": "Which colors of the natural materials stand out in the drum?",
+      "texture": "Which parts look smooth like a gourd shell, and which look like cloth or something else?",
+      "space": "The drum is about 30 inches tall. How does this size change how a player might use it?",
+      "light": "Imagine sunlight on the drum. Which part of the gourd would shine most?",
+      "meaning": "Why might a dance have its own special instrument?",
+      "culture": "Hula comes from Hawai'i. Why might people there use plants for making music?",
+      "technique": "Tapa is made from tree bark. What do you think tapa adds to this drum?",
+      "personal": "What is a favorite rhythm or beat you know? How could you make it with a tall drum like this?",
+      "critical": "We cannot hear this drum in the museum. What do we lose by only seeing it?"
+    },
+    "g35": {
+      "daily": "How do the natural materials of this ipu hula work together as an instrument and as a sculpture?",
+      "emotion": "What feeling does the tall, curved drum give you? Which details create that feeling?",
+      "observation": "Look carefully for one minute. List the shapes, surfaces, and materials you notice.",
+      "analysis": "How do the parts of the drum, such as the body, the top, and any joining, form one balanced object?",
+      "line": "How does the drum's outline flow from bottom to top, and what do its curves suggest?",
+      "shape": "Compare the rounded body with the tall overall shape. How do they work together?",
+      "color": "How do the natural colors of gourd and cloth give the drum a warm look?",
+      "texture": "How would gourd, tapa, and gum each feel different? Which can you see in the picture?",
+      "space": "A drum is hollow and makes sound inside. How does empty space become part of the instrument?",
+      "light": "How might light on a gourd's curved shell look different from light on cloth?",
+      "meaning": "Hula tells stories through movement and chant. How might a drum support a story?",
+      "culture": "Hawaiian artists used plants and other natural materials. What does that tell you about how people lived on the islands?",
+      "technique": "Breadfruit gum can act like glue. Why would an instrument maker need a glue from nature?",
+      "personal": "What natural materials near you could be turned into a musical instrument?",
+      "critical": "Why might museums need videos or recordings to explain an instrument like this?"
+    },
+    "g68": {
+      "daily": "How does the ipu hula bring together form, material, and function in a single design?",
+      "emotion": "How does the shape of the drum suggest rhythm and movement even when it is silent?",
+      "observation": "Describe the drum from base to top. Which details help you identify its materials?",
+      "analysis": "How do proportion and curvature give the instrument visual balance?",
+      "line": "How do the drum's flowing curves compare with the straight lines of a typical drum?",
+      "shape": "How does a gourd's natural shape guide the instrument's design?",
+      "color": "How do the natural materials, rather than paint, give the ipu hula its color?",
+      "texture": "How does the combination of gourd, cloth, and gum create visual and tactile variety?",
+      "space": "How does the hollow body turn empty space into sound?",
+      "light": "How does the surface of a gourd reflect light, and how might that vary across the drum?",
+      "meaning": "Why might a society that tells stories through dance value specialized instruments?",
+      "culture": "How does an ipu hula reflect the relationship between Hawaiian arts, nature, and performance?",
+      "technique": "What steps might be involved in preparing a gourd, tapa, and gum to make an instrument?",
+      "personal": "How is making music with a handmade instrument different from using a store-bought one?",
+      "critical": "How does it change our understanding of an instrument when a museum labels it only by materials and date?"
+    },
+    "g910": {
+      "daily": "How does the ipu hula demonstrate integrated design, where material, form, and sound all matter?",
+      "emotion": "What emotional presence can a silent instrument have, and how does its form contribute?",
+      "observation": "Describe the instrument's visual hierarchy, noting how shape and surface draw the eye.",
+      "analysis": "Analyze how the drum's profile and proportions support both its use and its beauty.",
+      "line": "How does the contour of the gourd function as a line that unifies the instrument?",
+      "shape": "How does the natural geometry of a gourd inform both sound and appearance?",
+      "color": "How do the natural hues of the materials communicate their origin?",
+      "texture": "How does contrast among gourd, tapa, and gum make the instrument tactile and visually layered?",
+      "space": "How does the relationship between hollow interior and rounded exterior define the ipu hula as an instrument?",
+      "light": "How does the gourd's surface respond to light, and how does that affect its sculptural impact?",
+      "meaning": "How does knowing that the ipu hula accompanies hula chant shift attention from object to performance?",
+      "culture": "How do Hawaiian dance traditions continue today, and how does that affect how we read a 19th-century instrument?",
+      "technique": "What does the combination of gourd, tapa, and breadfruit gum suggest about knowledge of local materials?",
+      "personal": "How does considering sound, as well as sight, change how you evaluate an artwork?",
+      "critical": "What are the limits of understanding a performance instrument through a museum display alone?"
+    },
+    "g1112": {
+      "daily": "What can this object tell us about the interweaving of material, sound, and performance, and what must we learn from living practice?",
+      "emotion": "How does anticipation of sound shape the aesthetic encounter with a silent instrument?",
+      "observation": "Describe the instrument's construction precisely before interpreting. Where does the vocabulary of music already shape your description?",
+      "analysis": "Analyze how the instrument's form arises from the logic of its materials and its performance role.",
+      "line": "How does the silhouette created by a natural form compare with the lines of fabricated instruments?",
+      "shape": "How does the object blur the distinction between found natural form and designed form?",
+      "color": "How might aging and conservation have altered the color of these natural materials?",
+      "texture": "How do the material layers of gourd, cloth, and gum reveal both craft and adaptation of local resources?",
+      "space": "How does the hollow body function as both acoustic and symbolic space, and how careful must we be with the latter?",
+      "light": "How do museum display conditions affect perception of organic materials that are sensitive to light?",
+      "meaning": "How do scholars and practitioners together interpret an instrument whose meaning arises in performance?",
+      "culture": "How did collecting practices of the 19th century shape what Hawaiian instruments entered museums, and who was left out?",
+      "technique": "What does the use of tapa and breadfruit gum reveal about integrated systems of craft in Hawai'i?",
+      "personal": "How does your own experience of music shape what you expect of an instrument's appearance?",
+      "critical": "What would a respectful museum presentation of the ipu hula include beyond the object itself?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Idiophone-Stamping), objectName (Ipu Hula (gourd drum)), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The ipu hula is a gourd drum used to accompany hula in Hawai'i. This 19th-century example is made of gourd, tapa cloth, and breadfruit gum and is about 30 inches tall; hula remains a living tradition.",
+    "vocabulary": ["ipu hula", "hula", "gourd", "tapa", "breadfruit gum", "percussion"],
+    "directions": [
+      "Have students make a rhythm with household objects and compare how shape affects sound.",
+      "Ask students to explore how tapa (barkcloth) is made from tree bark.",
+      "Invite students to watch or listen to a performance of hula with permission from a trusted source and discuss the role of the drum."
+    ]
+  }
+}

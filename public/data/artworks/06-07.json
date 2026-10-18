@@ -1,0 +1,158 @@
+{
+  "id": "met-264903",
+  "day": "06-07",
+  "title": "General View of Yosemite",
+  "artist": "Carleton E. Watkins",
+  "date": "ca. 1872, printed ca. 1876",
+  "medium": "Albumen silver print from glass negative",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ph/web-large/DP152189.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP152189.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide photograph in warm brown and gray tones giving a general view of the mountain landscape of Yosemite in California.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/264903",
+    "objectId": "264903",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, credit line, classification, tags (Mountains, Landscapes), public-domain flag, and image URLs read from the record. Region is a well-established label from the title, not a record field."
+  },
+  "context": "A photograph by Carleton E. Watkins titled General View of Yosemite, made around 1872 and printed around 1876 as an albumen silver print from a glass negative. Watkins photographed Yosemite many times during his career in California.",
+  "descriptions": {
+    "k": "This photograph shows a big view of mountains in California. It is brown and gray because it was taken long ago. The land goes far, far away. Can you find the part that looks farthest from you?",
+    "g12": "The title says this is a general view. That means the photographer wanted to show a big piece of the land, not just one small spot. Carleton Watkins took this picture of Yosemite long ago. It is brown and gray. Where does the land seem to end? What do you see there?",
+    "g35": "A general view shows a wide piece of landscape instead of one close-up object. Carleton Watkins photographed Yosemite in California from a spot that let him show the mountains and land stretching away. He made the picture on a glass negative and printed it on albumen paper, which gives the warm brown tones. How does the title help you decide what to look at?",
+    "g68": "By calling this photograph a general view, Watkins signals that he is giving an overview of Yosemite rather than a close study of one feature. He took the picture on a glass negative around 1872 and printed it on albumen paper about 1876, a process that records fine detail in warm brown tones. Notice how land, mountains, and sky are arranged to give a sense of distance. What choices does a photographer make when trying to show the whole of a place?",
+    "g910": "General View of Yosemite offers an overview, a genre of landscape photography that attempts to orient the viewer in a vast space. Watkins's choice of viewpoint organizes mountains, land, and distance into a legible whole, while the albumen print preserves delicate gradations of tone. Such overview images circulated in the 1870s to audiences who knew the West mainly from pictures. Consider how a photograph can both inform and glorify a place, and what a general view must simplify or leave out.",
+    "g1112": "General View of Yosemite exemplifies the overview in landscape photography, a form that promises orientation while necessarily selecting and simplifying. Printed as an albumen silver print from a glass negative, it conveys the grandeur of the place through breadth and tonal gradation. Historians note that photographs like Watkins's helped fix a vision of the West as monumental and open, an image that sits uneasily with the long presence of Native peoples there. How does a title like 'general view' claim authority, and what does that claim leave unexamined?"
+  },
+  "questions": {
+    "k": {
+      "daily": "The title says 'general view.' What do you think that means? What do you see in this wide picture?",
+      "emotion": "Does this big view make you feel small, brave, or something else? Why?",
+      "observation": "What is the biggest thing you can see? What is the smallest?",
+      "analysis": "Let your eyes travel across the picture from one side to the other. What do you pass along the way?",
+      "line": "Find a long line made by the tops of the mountains. Trace it from one side to the other.",
+      "shape": "Do you see more pointy shapes or more flat shapes in this landscape? Show one of each.",
+      "color": "The picture is brown, gray, and cream. Which part looks darkest to you?",
+      "texture": "What parts of the land look bumpy or rocky? How can you tell in a flat picture?",
+      "space": "Which part of the land seems nearest to you, and which seems the farthest? How can you tell?",
+      "light": "Which parts of the view look bright and which look shadowy?",
+      "meaning": "Why might someone want a wide picture of mountains to hang on a wall?",
+      "culture": "Many people who saw pictures like this had never visited California. How would a picture help them imagine it?",
+      "technique": "This photograph is wide. What might the photographer need to carry to take it?",
+      "personal": "When you stand on a hill and look far away, what do you notice first?",
+      "critical": "A wide picture still leaves out things. What might be hidden behind the mountains?"
+    },
+    "g12": {
+      "daily": "What does it mean to show a 'general view' of a place? How does Watkins do that here?",
+      "emotion": "What feeling does the wide, far-away view give you?",
+      "observation": "Describe the picture from the front to the back. What parts do you notice at each level?",
+      "analysis": "How does the picture lead your eyes from the nearest part to the farthest part?",
+      "line": "Find the long lines made by the mountains and the land. Do they feel calm or sharp?",
+      "shape": "Which large shapes do you see? How do they fit together across the picture?",
+      "color": "The picture has soft browns and grays. How do those tones suggest distance?",
+      "texture": "Which areas look rough and which look smooth? What helps you tell?",
+      "space": "How can you tell that the land goes far into the distance?",
+      "light": "Where is the photograph lightest? Where is it darkest? How does that shape your view?",
+      "meaning": "Why might a photographer choose to show a whole big view instead of one tree or rock?",
+      "culture": "Watkins made photographs for people far away who wanted to see California. What would they want to see most?",
+      "technique": "Watkins printed on paper coated with egg white called albumen. Why do you think photographers cared about the paper?",
+      "personal": "If you took a wide photograph of your town, what would you want people to see?",
+      "critical": "Does a wide view tell more about a place than a close view? Or less? Explain."
+    },
+    "g35": {
+      "daily": "How does Watkins give you a general view of Yosemite? Point to what helps you understand the whole place.",
+      "emotion": "What mood does this broad landscape create, and which details lead you to it?",
+      "observation": "Work from left to right. What changes in the landscape as you scan across the picture?",
+      "analysis": "How does the photographer organize near and far parts so the whole picture hangs together?",
+      "line": "How do long lines along the mountaintops and the land help your eye move across the print?",
+      "shape": "Which big shapes seem heaviest, and how do they balance the open areas?",
+      "color": "How do softer, lighter tones at a distance make the far mountains seem farther away?",
+      "texture": "How does the photograph show the difference between rocky mountain surfaces and smoother land?",
+      "space": "What clues, such as overlapping, size, and tone, tell you how deep the view is?",
+      "light": "How does the light across the landscape help you see its hills and valleys?",
+      "meaning": "What might a 'general view' tell people that a close-up cannot?",
+      "culture": "In the 1870s, photographs were one of the main ways people saw the American West. How might that shape what they believed about it?",
+      "technique": "Why might a photographer in the 1870s work carefully with each glass negative instead of taking many quick pictures?",
+      "personal": "If you could give someone a general view of a place you love, where would you stand to take it?",
+      "critical": "Can one photograph be a fair 'general view' of a whole place? Use evidence from the print."
+    },
+    "g68": {
+      "daily": "How does Watkins make a vast place feel understandable in a single frame?",
+      "emotion": "How does the scale of the view shape the feeling of awe or calm?",
+      "observation": "Describe the layers of the view from foreground to distance. Which layer holds your attention longest?",
+      "analysis": "How does the composition balance heavy masses of mountain with open areas to give the image stability?",
+      "line": "How do the broad contours of the mountains create a rhythm across the width of the print?",
+      "shape": "How do the large, simplified shapes of the land contribute to the picture's sense of grandeur?",
+      "color": "How does gradation from dark to light in the albumen tones help create atmospheric distance?",
+      "texture": "How does the sharpness of the glass negative preserve the texture of rock and ground?",
+      "space": "How does a high or distant viewpoint change how the land is organized in space?",
+      "light": "How does the distribution of light across the print model the contours of the land?",
+      "meaning": "What does the title 'general view' suggest about the photograph's purpose and audience?",
+      "culture": "How might this view of Yosemite have been understood by different groups, such as tourists, scientists, and Native people?",
+      "technique": "How did the weight and fragility of glass negatives shape what a photographer could and could not capture in the field?",
+      "personal": "How do you choose a viewpoint when you want to show a whole place in a photograph?",
+      "critical": "How can an overview photograph seem objective even though it results from many choices?"
+    },
+    "g910": {
+      "daily": "How does the idea of a 'general view' shape the composition and the meaning of this Watkins print?",
+      "emotion": "How does the breadth of the view produce a sense of the sublime, and which formal choices support it?",
+      "observation": "Describe the print's visual hierarchy across its width. What keeps your eye moving, and what stops it?",
+      "analysis": "Analyze how the print organizes foreground, middle ground, and distance into a coherent whole.",
+      "line": "How do broad contours and horizons work as structuring lines in this print?",
+      "shape": "How does the contrast between massive landforms and open spaces create balance?",
+      "color": "How does the print's gradation of tone work as a substitute for color in suggesting distance?",
+      "texture": "How does the level of detail in the print assert its documentary claims?",
+      "space": "How does the photograph project vast space while remaining a flat, small object?",
+      "light": "How does the distribution of light and shade across the landscape define its forms?",
+      "meaning": "In what ways might an overview of a landscape serve science, tourism, and art at the same time?",
+      "culture": "How did the circulation of landscape photographs in the 1870s influence ideas about preservation and ownership of land?",
+      "technique": "What does the albumen-on-glass-negative process imply about the labor behind a single view?",
+      "personal": "How does viewing a landscape through a photograph differ from standing in it, and why does the difference matter?",
+      "critical": "What must an overview simplify or omit, and who might be left out as a result?"
+    },
+    "g1112": {
+      "daily": "What claims does the phrase 'general view' make, and how does the print support or complicate them?",
+      "emotion": "How does the print's scale and tonal restraint produce a particular emotional register, and how historically specific is that response?",
+      "observation": "Describe the print's layout of forms with precision before interpreting. Where do your observations already carry value judgments?",
+      "analysis": "Analyze how Watkins uses breadth and gradation to produce an image that reads as both specific place and idealized landscape.",
+      "line": "How does the sweeping contour of the landscape structure the picture and guide the viewer's reading?",
+      "shape": "How does the massing of landforms position the viewer, and what does that imply about authority over the scene?",
+      "color": "How might the fading and toning of albumen prints over time change what we now see compared with the first viewers?",
+      "texture": "How does the print's resolution of detail serve as evidence of presence in the landscape?",
+      "space": "How does the print construct a shared point of view for viewers who never visited the site?",
+      "light": "How does the print's modulation of light create an impression of a particular moment while implying timelessness?",
+      "meaning": "Evaluate how this image might be read as survey record, tourist souvenir, or aesthetic object. Which readings does the evidence support?",
+      "culture": "How does a view that presents Yosemite as a sweeping panorama relate to colonial narratives of discovery and possession?",
+      "technique": "How do the material constraints of nineteenth-century photography shape the claim to objectivity in overview images?",
+      "personal": "How do your own travel images, made with immediate devices, change how you read the labor and authority of an image like this?",
+      "critical": "What alternative titles or captions would change how we read this photograph, and why does naming matter?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Photographs), medium, and tags (Mountains, Landscapes) read from the museum record; a landscape view with no nudity, violence, or frightening subject indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Carleton Watkins photographed Yosemite repeatedly in the 1800s. The Met record dates this print ca. 1872, printed ca. 1876, and tags it Mountains and Landscapes; check the image to confirm its exact composition.",
+    "vocabulary": [
+      "general view",
+      "albumen print",
+      "glass negative",
+      "overview",
+      "atmospheric perspective",
+      "landscape"
+    ],
+    "directions": [
+      "Compare this print with the other Watkins Yosemite photograph in the archive and discuss how the two views differ.",
+      "Have students photograph or sketch a 'general view' of the schoolyard and decide what to include.",
+      "Discuss who is missing from a sweeping view of a landscape."
+    ]
+  }
+}

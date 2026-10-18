@@ -1,0 +1,158 @@
+{
+  "id": "artic-87045",
+  "day": "06-11",
+  "title": "Still Life with Geranium",
+  "artist": "Henri Matisse",
+  "date": "1906",
+  "medium": "Oil on canvas",
+  "movement": "Modernism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/d0049e0b-bd55-020e-aa8c-b137d06ae7df/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Joseph Winterbotham Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A colorful still life on a table with a potted geranium, fruit and vegetables, and ceramic and sculpted objects, painted in bold patches of blue, red, pink, green and brown.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/87045",
+    "objectId": "87045",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (still life, fruit, flowers, geraniums, sculptures, ceramics, tables, vegetables, plants, servingware), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the French artist Henri Matisse, dated 1906. The Art Institute's subject terms list fruit, flowers, geraniums, sculptures, ceramics, tables and vegetables. Matisse was known for bold color and simple shapes.",
+  "descriptions": {
+    "k": "Here is a table with a plant and fruit. The colors are very bright: red, blue, pink, and green! Can you find the flowers? Can you find the fruit? Which color do you like the most?",
+    "g12": "Henri Matisse painted a table with a plant, fruit, and vases. He used bright, bold colors like red, pink, blue, and green. The shapes are simple. Which color jumps out at you first? What do you think is on the table?",
+    "g35": "Henri Matisse painted Still Life with Geranium in 1906 in France. A table holds a geranium plant, fruit, vegetables, and sculpted and ceramic objects, painted in bold patches of color. Matisse used colors for their strength instead of copying exactly what he saw. Which colors feel strongest, and how do they make the table feel alive?",
+    "g68": "Matisse painted Still Life with Geranium in 1906, arranging a geranium, fruit, vegetables, and ceramic and sculpted objects on a table. The colors, including blue, red, pink, green, and brown, are strong and flat, and the shapes are simplified. How does Matisse use color to organize the table and give it energy, and why might he choose bold color over realistic detail?",
+    "g910": "In Still Life with Geranium (1906), Matisse uses saturated, unmodulated color and simplified shapes to build space and energy. Emphasizing color relationships over illusion was characteristic of the Fauves, the circle of artists he was close to. The mix of plant, fruit, and sculpted forms invites comparisons among natural and made objects. How does color, rather than line or perspective, structure the picture, and what does that suggest about how Matisse saw?",
+    "g1112": "Still Life with Geranium (1906) shows Matisse working at a turning point, using strong color and reduced forms to construct pictorial space rather than describe it. Natural elements, such as fruit and a geranium, share the table with sculpted and ceramic objects, which scholars have connected to his interest in sculpture. How does the painting's color-driven structure challenge older ideas of finish and perspective, and what evidence supports your interpretation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the table. What things are on it?",
+      "emotion": "Does this painting make you feel calm, happy, or full of energy? What shows you?",
+      "observation": "Find the flowers and the fruit. Which do you see first?",
+      "analysis": "Which colors stand out the most to you? Why?",
+      "line": "Can you follow a curved line around a plant or a bowl?",
+      "shape": "Find a round shape. Then find a tall shape.",
+      "color": "Which colors are the brightest? Point to the red, blue, or pink.",
+      "texture": "Does the paint look smooth or thick? Tell us what you notice.",
+      "space": "Does the table look flat or deep? What makes you think so?",
+      "light": "Where does the light seem to land? Is anything in shadow?",
+      "meaning": "Why might an artist paint things on a table instead of people?",
+      "culture": "Matisse lived in France. What plants or fruits grow where you live?",
+      "technique": "Matisse made big patches of color. How would that be different from painting tiny details?",
+      "personal": "What would you put on your own table to paint?",
+      "critical": "If the painting could smell, what would it smell like?"
+    },
+    "g12": {
+      "daily": "Look at the colors. What feelings do they bring?",
+      "emotion": "Is this a quiet painting or a loud one? Which colors make you say that?",
+      "observation": "List five things you see, from big to small.",
+      "analysis": "How does Matisse make the geranium stand out from the other things?",
+      "line": "Where do you see curvy lines? Where do you see straight ones?",
+      "shape": "How do the shapes of the fruit, the pot, and the table fit together?",
+      "color": "Matisse put strong colors next to each other. Which pair of colors looks most exciting?",
+      "texture": "How can you tell the plant is alive but the sculpted things are not?",
+      "space": "The table seems to tip up. How does that change how you see it?",
+      "light": "Does the light look soft or strong? Where do you see it?",
+      "meaning": "Why might an artist like a plant and fruit as a subject?",
+      "culture": "Matisse painted in the early 1900s. Which things on the table could be from his home?",
+      "technique": "Why might Matisse use flat color instead of shading?",
+      "personal": "How would you choose colors for your own still life?",
+      "critical": "Does a painting have to look real to be good? Use this one in your answer."
+    },
+    "g35": {
+      "daily": "Which objects on the table are natural and which are made? How do the colors treat them?",
+      "emotion": "How would you describe the mood, and which colors and shapes create it?",
+      "observation": "Look slowly at the table. Which small color patches or shapes did you spot only after a while?",
+      "analysis": "How does Matisse arrange the plant, fruit, and ceramic objects so your eye travels around the table?",
+      "line": "How do curved and straight lines divide the painting into zones of color?",
+      "shape": "How do simplified shapes help the objects look bold instead of detailed?",
+      "color": "How do blue, red, pink, green, and brown work together, and which contrast is strongest?",
+      "texture": "How does thick or flat paint create a surface that feels more like patches of color than a copy of reality?",
+      "space": "How does the tilted space make the table feel close and flat at once?",
+      "light": "How does Matisse suggest light using color instead of shadow?",
+      "meaning": "Why might mixing a living plant with sculpted objects be interesting to an artist?",
+      "culture": "How does the use of bold color connect to the Fauves, a group of French painters around 1905–06?",
+      "technique": "How does painting with flat color patches differ from Impressionist brushwork?",
+      "personal": "How would you rearrange the objects or colors to change the mood?",
+      "critical": "Is a painting that emphasizes color over accuracy a different kind of truth? Explain."
+    },
+    "g68": {
+      "daily": "How does Matisse use color to separate the natural objects from the made ones on the table?",
+      "emotion": "What mood do the saturated colors create, and what colors would change the mood?",
+      "observation": "Describe the objects in order from left to right. What do you notice about how their shapes are simplified?",
+      "analysis": "How does the placement of the geranium and the fruit lead your eye around the table?",
+      "line": "How do curved and straight edges divide the painting into zones of color?",
+      "shape": "How do simple shapes make the objects feel bold and flat at once?",
+      "color": "How do blue, red, pink, green, and brown play off each other, and which pairing is strongest?",
+      "texture": "How does flat, thick color make the painting feel like a pattern of patches?",
+      "space": "How does the tilted table push the objects forward and flatten the space?",
+      "light": "How does Matisse suggest light through color instead of shadow?",
+      "meaning": "Why might a living plant and sculpted objects be an interesting combination for an artist?",
+      "culture": "What was happening in French art around 1906, when painters began to use color more freely?",
+      "technique": "How is flat color different from the dot-by-dot color of Seurat?",
+      "personal": "How would you change the color scheme to give the still life a different mood?",
+      "critical": "What makes a painting of ordinary things worth looking at for a long time?"
+    },
+    "g910": {
+      "daily": "How does Matisse's treatment of color shape your sense of what is natural and what is made on this table?",
+      "emotion": "How do the saturated hues produce a mood of vitality, and might they also unsettle expectations of calm?",
+      "observation": "Examine how the edges of color shapes meet. What do they suggest about Matisse's process?",
+      "analysis": "Analyze how contrasts of color and the placement of the geranium organize a visual hierarchy.",
+      "line": "How does line operate as contour and as a divider of color areas?",
+      "shape": "How does simplification of the forms prefigure Matisse's later reductive approach?",
+      "color": "Evaluate how simultaneous contrasts of hue drive the painting's energy.",
+      "texture": "What does the handling of paint reveal about the balance between spontaneity and control?",
+      "space": "How does the compressed, tilted space emphasize the picture plane over illusion?",
+      "light": "How does the painting suggest illumination through color relationships rather than modeling?",
+      "meaning": "How might pairing plant with sculpted forms reflect his interest in sculpture, and what evidence would you look for?",
+      "culture": "Where does the work sit in relation to Fauvism and the early twentieth-century shift toward expressive color?",
+      "technique": "How does Matisse's approach to color diverge from the optical theory pursued by Seurat?",
+      "personal": "How does your response change when color acts as structure instead of decoration?",
+      "critical": "How would you argue that this painting reinvents the traditional still life?"
+    },
+    "g1112": {
+      "daily": "How does the equalizing effect of saturated color complicate distinctions among plant, fruit, and ceramic objects?",
+      "emotion": "To what extent does color create vitality, and how might that vitality coexist with deliberate control?",
+      "observation": "Analyze how adjacent color areas meet, and what these junctions imply about construction rather than description.",
+      "analysis": "How does the placement of the geranium and the distribution of intense hues establish a hierarchy of attention?",
+      "line": "How do contour and color boundary function together in organizing the picture?",
+      "shape": "How does the reduction of forms anticipate Matisse's later work in cutouts and decorative simplification?",
+      "color": "Assess how simultaneous contrast and the near-absence of tonal modeling shape the painting's luminosity.",
+      "texture": "What does the facture suggest about the balance between improvisation and decision in the finished work?",
+      "space": "How does the flattening of space reposition the still life from illusion to arrangement?",
+      "light": "How does the treatment of light as color relationship align with Fauvist and Post-Impressionist precedents?",
+      "meaning": "How might the dialogue between living plant and sculpted objects reflect the artist's concern with representation and the made object?",
+      "culture": "How does the work participate in the Fauvist rejection of naturalistic color, and what continuities with earlier painters does it retain?",
+      "technique": "How does Matisse's expressive use of color differ in aims and effects from the scientific approach of Neo-Impressionism?",
+      "personal": "How does the idea that color can construct a picture alter assumptions about what a painting is for?",
+      "critical": "In what sense does a still life become a site of formal experiment, and how does this painting exemplify that?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (still life, fruit, flowers, geraniums, sculptures, ceramics, tables, vegetables, plants, servingware) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1906 by Henri Matisse in oil on canvas. The museum lists a still life with fruit, flowers, geraniums, sculptures, ceramics, tables and vegetables. The record does not describe the individual objects, so this entry stays at the level of the subject terms. Image not visually reviewed.",
+    "vocabulary": [
+      "still life",
+      "Fauvism",
+      "saturated color",
+      "simplification",
+      "contour",
+      "picture plane"
+    ],
+    "directions": [
+      "Have students set up a table with a plant and fruit and paint it using only three bold colors.",
+      "Ask students to describe how color alone separates one object from another.",
+      "Compare this with a realistic still life and discuss what each version shows best."
+    ]
+  }
+}

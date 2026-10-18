@@ -1,0 +1,159 @@
+{
+  "id": "met-446951",
+  "day": "07-20",
+  "title": "Carpet",
+  "artist": "Artist unknown (Iran)",
+  "date": "16th century",
+  "medium": "Silk (warp and weft), wool (pile), metal wrapped thread; asymmetricaly knotted thread, brocaded",
+  "movement": "Safavid carpets",
+  "region": "Iran",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP328898.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP328898.jpg",
+    "credit": "The Metropolitan Museum of Art, Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rectangular silk and wool carpet with a pointed, arch-shaped niche in the center, surrounded by borders that contain bands of Arabic writing and flowers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/446951",
+    "objectId": "446951",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tags (Arabic, Flowers) and image URLs read from the record; museum page text read for the prayer-rug design, borders, size, and warp colors"
+  },
+  "context": "A silk and wool carpet made in Iran in the 16th century. The Met identifies it as a prayer rug, recognizable by its central niche design, with Qur'anic inscriptions in the borders and the names of God in the spandrels.",
+  "descriptions": {
+    "k": "This is a rug made of silk and wool. It has a pointed arch shape in the middle, like a doorway. Bands of beautiful writing and flowers frame it. Trace the arch with your finger. What do you see inside?",
+    "g12": "This rug was woven in Iran a very long time ago. It is a prayer rug, a special rug used for prayer. An arch shape in the middle points in one direction. Writing and flowers make a frame around it. Why might a rug be made so carefully?",
+    "g35": "This prayer rug was woven in 16th-century Iran from silk and wool, with thread wrapped in metal. A prayer rug, or sajjadah, is used by Muslims for prayer. The pointed arch in the middle is called a niche. Borders around it hold writing from the Qur'an, and flowers appear in the design. Look at the arch and the frame. How do they guide your eyes to the center?",
+    "g68": "Prayer rugs like this one are recognized by their central niche shape, which suggests the mihrab in a mosque. The Met notes that the borders carry inscriptions from the Qur'an and that the corners above the niche contain the names of God. Woven of silk and wool with metal-wrapped thread, this 16th-century Iranian rug is also a showpiece of skilled knotting. How do arch, borders, and writing organize the design, and why does that suit an object used for prayer?",
+    "g910": "This 16th-century Iranian prayer rug (sajjadah) pairs a central niche design with borders of Qur'anic inscriptions and the names of God in its spandrels. The Met notes it belongs to a group that may have been a diplomatic gift from Safavid Shah Abbas I to the Ottoman sultan Murad III, an association that raises questions about its original audience. Silk, wool, and metal-wrapped thread were knotted and brocaded. Consider how the object balances devotional function, diplomatic prestige, and decorative richness.",
+    "g1112": "The niche form of this 16th-century Iranian carpet marks it as a prayer rug, and its inscriptions place sacred text at the center of its design. The Met links it to a group thought to be a diplomatic gift from Shah Abbas I to the Ottoman sultan Murad III, noting that some verses, which reflect Shiite belief, may explain why the Sunni Ottomans apparently never used it. That account is a hypothesis, but it shows how carpets could carry religious, political, and artistic messages at once, and how a luxury textile may be read as both a worship object and a statement of status."
+  },
+  "questions": {
+    "k": {
+      "daily": "This rug has a pointed arch in the middle. Can you trace it with your finger?",
+      "emotion": "Does this rug feel loud or calm to you? What do you see that makes you say so?",
+      "observation": "What do you see around the arch? Look for writing and flowers.",
+      "analysis": "The arch is in the middle and bands go around it. What do the bands do for the picture?",
+      "line": "Find a long line of writing that goes along the edge. Which way does it run?",
+      "shape": "The middle has a pointed arch shape. What other shapes do you see on the rug?",
+      "color": "What colors do you see on this rug? Which one is your favorite?",
+      "texture": "A rug is made of tiny knots. Do you think it would feel soft or scratchy?",
+      "space": "The arch looks like a doorway. What do you think is behind it?",
+      "light": "Silk can shine. Where on the rug might it shine the most?",
+      "meaning": "The arch shows people which way to face when they pray. Why might that be useful?",
+      "culture": "People weave rugs in many places. How is this rug like or unlike a rug you have seen?",
+      "technique": "The weaver tied thousands of tiny knots. Would you have patience for that?",
+      "personal": "Do you have a special place where you like to sit and be quiet? Describe it.",
+      "critical": "How can you tell this rug is special and not just an ordinary floor rug?"
+    },
+    "g12": {
+      "daily": "This is a prayer rug with an arch shape in the center. What parts of the design surround the arch?",
+      "emotion": "How does a rug for prayer feel different from a rug for a living room? What do you see that shows it?",
+      "observation": "Describe the borders. What do the bands and the writing look like?",
+      "analysis": "How do the borders and the arch work together to make you look at the middle?",
+      "line": "Find the lines that make the arch and the lines in the borders. How are they different?",
+      "shape": "Look at the pointed arch and the rectangle of the rug. How do the two shapes fit together?",
+      "color": "Which colors stand out against the others? How do they make the flowers or writing easy to see?",
+      "texture": "The rug is made from silk and wool. How might each feel different?",
+      "space": "The arch makes the middle look like a doorway. How does the rug make you imagine space on a flat surface?",
+      "light": "Silk and metal thread can shimmer. How would the rug look different as you walked around it?",
+      "meaning": "The Met says the writing in the borders comes from the Qur'an. Why might holy words be put on a rug?",
+      "culture": "A prayer rug is used by Muslims when they pray. How does knowing its purpose change how you look at it?",
+      "technique": "The rug is made by tying knots in rows. Why do you think weavers need to plan the pattern first?",
+      "personal": "What object do you treat with special care? How is it like this rug?",
+      "critical": "Why do you think someone decorated a rug for prayer so beautifully?"
+    },
+    "g35": {
+      "daily": "How do the arch, the borders, and the writing work together to show this rug has a special purpose?",
+      "emotion": "What feeling of calm or importance do the careful borders and balanced design give you?",
+      "observation": "Take a minute to follow the borders from the outside in. What do you notice in each band?",
+      "analysis": "How does the arch shape in the middle create a focal point, and how do the borders support it?",
+      "line": "How do the bands of writing act like lines that frame the rug and lead your eyes inward?",
+      "shape": "The Met describes a central niche design. How does a pointed arch shape guide attention?",
+      "color": "The Met notes an unusual intense red in the warp threads. Why might a rare color add to a rug's value?",
+      "texture": "Silk and wool have different feels. How might a rug that blends them look and feel?",
+      "space": "How does the niche shape create the illusion of an opening in a flat object?",
+      "light": "Metal-wrapped thread glints in light. Where in the design do you think it was most useful?",
+      "meaning": "The borders contain verses from the Qur'an. How does writing on a rug connect to its use?",
+      "culture": "The Met says this rug may have been a diplomatic gift. What does that tell you about how people used beautiful objects?",
+      "technique": "The rug was asymmetrically knotted and brocaded. Why would these techniques require great skill?",
+      "personal": "Think of an object that helps you feel calm and focused. How is its design like or unlike this rug?",
+      "critical": "The Met says the Ottomans apparently never used this rug. What might that tell us about gifts and beliefs?"
+    },
+    "g68": {
+      "daily": "How does the design of this rug turn a floor covering into an object that supports prayer and also displays luxury?",
+      "emotion": "How do symmetry and repetition in the borders create a feeling of order and calm?",
+      "observation": "Map the rug from outer border to center. Which areas are most densely decorated?",
+      "analysis": "How does the layered arrangement of borders and niche direct the viewer's eye?",
+      "line": "How do the lines of lettering and floral vines compare in rhythm and direction?",
+      "shape": "How does the pointed niche echo an architectural shape, and why might a textile imitate architecture?",
+      "color": "How do contrasts among the colors make the writing, flowers, and niche easy to read?",
+      "texture": "How might the pile of wool and the sheen of silk and metal thread give different textures to different parts?",
+      "space": "How does the niche give a sense of a doorway, while the rug itself is flat on the floor?",
+      "light": "How would a rug with silk and metal thread look different from different angles?",
+      "meaning": "The Met mentions names of God in the corners above the niche. How does this placement shape the way a person might focus?",
+      "culture": "How might a carpet like this have been used as a diplomatic gift, according to the Met, and what does it say about art and politics?",
+      "technique": "What does it say about the weaver's skill that the rug contains silk, wool, metal thread, brocade, and knots?",
+      "personal": "How do the details of a place you use for quiet reflection prepare you to focus?",
+      "critical": "The Met offers the diplomatic-gift story as a hypothesis. What evidence would you want to test it?"
+    },
+    "g910": {
+      "daily": "How does this prayer rug integrate sacred text, architectural reference, and ornament into one composition?",
+      "emotion": "How does the rug's formal order create a sense of reverence, and how might that differ for a worshipper and a museum visitor?",
+      "observation": "Describe the hierarchy of the design: niche, spandrels, and borders. What does each convey?",
+      "analysis": "Analyze how the symmetrical layout of niche, borders, and corners emphasizes the central area.",
+      "line": "How does calligraphy function as both content and linear ornament within the borders?",
+      "shape": "How does the niche relate to the rectangular frame, and what tensions or harmonies result?",
+      "color": "How do color choices balance richness with legibility in a design full of inscriptions?",
+      "texture": "How do silk, wool, and metal-wrapped thread create a hierarchy of materials?",
+      "space": "How does a flat, floor-bound object evoke the architecture of a mosque?",
+      "light": "How do reflective fibers and metal thread alter the carpet's appearance across a room?",
+      "meaning": "How might the inscriptions affect the way viewers relate to the rug as a sacred object versus a luxury good?",
+      "culture": "The Met links the rug to a possible diplomatic gift between Safavid and Ottoman courts. What does that suggest about the role of textiles in international relations?",
+      "technique": "What does a combination of knotting, brocading, and three materials reveal about the sophistication of royal workshops?",
+      "personal": "How do you balance respect for an object's religious use with an appreciation of it as art?",
+      "critical": "How should museums present objects that are both devotional and artistic, and what responsibilities follow?"
+    },
+    "g1112": {
+      "daily": "What can this carpet tell us about how devotion, diplomacy, and craftsmanship intersect in Safavid Iran?",
+      "emotion": "How does the carpet's carefully ordered ornament shape its affect, and how might that change when it is displayed rather than used?",
+      "observation": "Describe the carpet's design systematically, from borders to niche, noting which parts rely on inscriptions.",
+      "analysis": "Evaluate how the composition uses hierarchy and symmetry to focus the viewer, and what is lost when it is viewed flat on a wall.",
+      "line": "How do the lines of calligraphy and floral ornament work together, and how do they differ in function?",
+      "shape": "Discuss how the niche form mediates between textile and architecture.",
+      "color": "How do the rare intense red warps noted by the Met challenge our assumptions about what is visible on a carpet's surface?",
+      "texture": "What can the mix of wool, silk, and metal-wrapped thread tell us about the carpet's status?",
+      "space": "How does a prayer rug construct sacred orientation and space on a flat plane?",
+      "light": "How does the carpet's surface behave under changing light, and how does that complicate photographic documentation?",
+      "meaning": "What does the Met's account of verses and the Ottomans' apparent non-use suggest about how religious differences could shape the reception of a gift?",
+      "culture": "How does this carpet illustrate the competing and overlapping identities of Safavid and Ottoman courts?",
+      "technique": "How might the analysis of selvage and warp color reveal workshop practice, and what questions remain about its origins?",
+      "personal": "How does your own relationship to religious objects, as a believer or an observer, shape what you notice here?",
+      "critical": "How should we regard attributions and stories attached to luxury objects, such as the diplomatic-gift account, when direct documentation is limited?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, classification (Textiles-Rugs) and tags (Arabic, Flowers) checked against the museum record, and the museum page text read: a prayer rug with niche, inscriptions and flowers, no figural imagery. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release. Religious content to be presented respectfully and factually.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A prayer rug (sajjadah) is used by Muslims for prayer. This 16th-century Iranian example combines silk, wool, and metal-wrapped thread, with Qur'anic inscriptions in its borders.",
+    "vocabulary": [
+      "prayer rug",
+      "niche",
+      "spandrel",
+      "border",
+      "warp and weft",
+      "brocade"
+    ],
+    "directions": [
+      "Invite students to trace the layers of the design from the border to the niche and describe how each layer frames the next.",
+      "Discuss respectfully how an object can be both religious and a work of art, and how museums handle that.",
+      "Ask students to design a border using a repeated line of letters, numbers, or patterns."
+    ]
+  }
+}

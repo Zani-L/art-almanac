@@ -1,0 +1,158 @@
+{
+  "id": "met-448407",
+  "day": "05-16",
+  "title": "Cushion Cover (Yastik)",
+  "artist": "Artist unknown",
+  "date": "17th century",
+  "medium": "Silk, cotton, metal wrapped thread; cut and voided velvet, brocaded",
+  "region": "Turkey",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/sf30-95-65b.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/sf30-95-65b.jpg",
+    "credit": "The Metropolitan Museum of Art, Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rich woven cushion cover made of velvet, with a decorative pattern in silk and shimmering metal-wrapped thread.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/448407",
+    "objectId": "448407",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, classification, public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A cushion cover, called a yastik in Turkish, made in Turkey in the 17th century. It is cut and voided velvet with brocading, using silk, cotton, and metal-wrapped thread. Velvets like this were luxury textiles in the Ottoman world.",
+  "descriptions": {
+    "k": "This is a cushion cover from Turkey. It is made of velvet, which is soft and thick. Some thread shines like metal. What do you think it would feel like to touch?",
+    "g12": "A yastik is a cushion cover. This one was made in Turkey about 400 years ago. It is velvet, which is soft and thick, and part of the thread is wrapped in metal so it shines. Look for the pattern. What shapes repeat, and where does it sparkle?",
+    "g35": "This yastik, or cushion cover, was woven in Turkey in the 1600s. It is velvet made from silk and cotton, with extra pattern threads wrapped in metal. Velvet like this took skill and costly materials. Look at how the pattern stands out from the background. Why might a family have chosen such a rich cloth for a cushion?",
+    "g68": "This yastik was made in Turkey in the 17th century, a time when Ottoman workshops produced prized silk velvets. The Met describes it as cut and voided velvet, brocaded: the soft pile is cut in some areas and left bare in others, forming the design, while extra metallic threads add glitter. Look at how the pattern is built from contrast between rich pile and flatter ground. How does the weaving technique decide what the design looks like?",
+    "g910": "A 17th-century yastik from Turkey, this cushion cover shows how technique and luxury intertwine. Cut and voided velvet creates pattern from contrasts between plush pile and bare ground, and brocading with metal-wrapped thread adds a glint. Ottoman velvets were costly and associated with status, though this object's specific owner and use are not documented in the record. Consider how texture, sheen, and repeated motifs together give the cover its richness, and what that tells us about taste.",
+    "g1112": "The yastik, a type of cushion cover, was a significant format for Ottoman luxury textiles, and this 17th-century example, in silk, cotton, and metal-wrapped thread, demonstrates the cut and voided velvet technique with brocading. Pattern emerges from the tactile difference between pile and ground, so the object invites analysis of texture as image. Because the record gives little about its owner, workshop, or motifs, interpretation should be tentative: material and structure offer firmer ground than claims about symbolism."
+  },
+  "questions": {
+    "k": {
+      "daily": "This cushion cover is made of velvet. What would it feel like if you pressed your hand on it?",
+      "emotion": "Does this cushion cover feel fancy or plain? What do you see that says so?",
+      "observation": "Find a shape that appears more than once on the cushion cover. Where does it repeat?",
+      "analysis": "Where do your eyes go first on the velvet? What pulls them there?",
+      "line": "Find a line that curls or curves in the pattern. Trace it in the air.",
+      "shape": "Pick one shape in the pattern. Is it round, pointed, or something else?",
+      "color": "Which colors do you see in the velvet? Which looks richest?",
+      "texture": "Velvet has a soft, thick top. How is it different from smooth paper?",
+      "space": "Is the pattern spread all over the cushion, or only in the middle? Show with your finger.",
+      "light": "Metal thread shines when light touches it. Where could you see a sparkle?",
+      "meaning": "If you could sit on this cushion, where would you put it, and who would sit there?",
+      "culture": "A yastik is a cushion cover from Turkey. What things do you lean on to be comfy at home?",
+      "technique": "Weavers made velvet with threads that stand up. How do you think they made it so soft?",
+      "personal": "What is the coziest thing you own? Describe how it feels.",
+      "critical": "This cushion cover looks very fancy. What clue tells you it was made for something special?"
+    },
+    "g12": {
+      "daily": "How does the velvet pattern make this cushion cover look special? Point to one detail.",
+      "emotion": "Does the pattern feel calm or rich and exciting? What helps you decide?",
+      "observation": "Describe two repeated parts of the pattern. Where do they sit on the cushion cover?",
+      "analysis": "How does the pattern lead your eyes across the cushion cover, from one side to the other?",
+      "line": "Are the lines in the pattern mostly curved or mostly straight? Show two examples.",
+      "shape": "Look at a repeated motif in the pattern. Which simple shapes make it up?",
+      "color": "Which color stands out most against the others? Why do you think so?",
+      "texture": "Where does the velvet look thick and soft, and where does it look flatter?",
+      "space": "How is the pattern placed on the cover? Is there space around the shapes?",
+      "light": "Velvet can look darker or lighter from different angles. Why might that happen?",
+      "meaning": "Why might someone choose a velvet cover with metal thread for a cushion?",
+      "culture": "Turkey was part of the Ottoman world in the 1600s. What do you think a rich home there might have looked like?",
+      "technique": "The Met calls this cut and voided velvet. What do you think it means that some areas have no soft pile?",
+      "personal": "What fabric do you love to touch, and why?",
+      "critical": "Is this cover mostly useful, mostly beautiful, or both? Give a reason from what you see."
+    },
+    "g35": {
+      "daily": "How do the materials and pattern of this yastik show that it was an important object? Point to your evidence.",
+      "emotion": "What kind of mood does the rich velvet create? Which parts of the pattern add to it?",
+      "observation": "Take a minute to scan the cushion cover. What small details in the pattern did you notice later?",
+      "analysis": "How is the pattern arranged to fit a cushion cover? Look at the center and the edges.",
+      "line": "How do the curves or edges of the design move your eyes? Where do they lead?",
+      "shape": "Which shapes in the pattern repeat, and how does repeating them make the cover feel organized?",
+      "color": "Silk dyes can be bright and deep. How do the colors of the pattern look against the background?",
+      "texture": "Velvet has a short, thick pile. How might this cover feel different from a cotton pillowcase?",
+      "space": "How does the weaver use the background to make the pattern shapes show?",
+      "light": "Metal-wrapped thread and silk pile reflect light differently. Where do you think each shines?",
+      "meaning": "Costly textiles show care and wealth. What does this cushion cover suggest about the people who owned it?",
+      "culture": "The yastik was used in Turkish homes. How might a cushion cover be part of daily life and hospitality?",
+      "technique": "Velvet is made with extra loops of thread that are cut to stand up. Why does this take more skill than plain weaving?",
+      "personal": "Think of an object you use often that is also beautiful. How do those two things go together?",
+      "critical": "The Met has not named the weaver. Why might the makers of such valuable textiles go unrecorded?"
+    },
+    "g68": {
+      "daily": "How does the contrast between pile and ground create the pattern on this yastik?",
+      "emotion": "How does the sense of luxury shape the mood of the cushion cover? Support with details.",
+      "observation": "List what you see in the pattern from the center toward the edges. Which details are easy to miss?",
+      "analysis": "How does the arrangement of motifs fit the format of a cushion, and what might be lost on a different shape?",
+      "line": "How do the lines in the motifs combine curves and repeats, and where does the rhythm change?",
+      "shape": "How do shapes interlock or repeat to build a continuous surface of pattern?",
+      "color": "How do the colors support or compete with the pattern, and what might change if they faded?",
+      "texture": "How does the difference between plush pile and flat ground make texture part of the design?",
+      "space": "How does the pattern use the cushion's face as a field instead of a window into a scene?",
+      "light": "How might the cover look different in candlelight than in daylight, given its pile and metal thread?",
+      "meaning": "Motifs on Ottoman textiles are sometimes linked to ideas of nature or luxury. What caution is needed here?",
+      "culture": "How does the cushion cover reflect the role of fine textiles in Ottoman homes?",
+      "technique": "How does brocading add detail to velvet, and why might weavers use metal-wrapped thread for emphasis?",
+      "personal": "What objects in your home are designed for comfort and beauty at once, and how do they achieve both?",
+      "critical": "How do museums balance showing a cushion cover as art with remembering that it was meant to be used?"
+    },
+    "g910": {
+      "daily": "How does the yastik convey luxury through technique and surface rather than through narrative imagery?",
+      "emotion": "How do softness, sheen, and repetition shape the sensory impression of the cushion cover?",
+      "observation": "Describe the hierarchy of the design. What is dominant, what is secondary, and what devices create the difference?",
+      "analysis": "Analyze how repeated motifs organize the surface and respond to the cushion's rectangular format.",
+      "line": "How is line produced in velvet by the boundary between pile and ground rather than by drawing?",
+      "shape": "How do positive and negative shapes interact in the cut and voided pattern?",
+      "color": "How does a limited palette of dyed silk and metal thread produce depth and richness?",
+      "texture": "How does the physical difference between pile and ground make the pattern legible to touch as well as sight?",
+      "space": "How does an all-over decorative field differ from pictorial space, and what does it demand of a viewer?",
+      "light": "How does velvet's light-absorbing pile contrast with the glint of metal-wrapped thread?",
+      "meaning": "Which claims about the cover's motifs and status can be supported by the record, and which would be speculative?",
+      "culture": "How does a luxury object like the yastik connect to Ottoman patronage, trade, and domestic display?",
+      "technique": "How do cut and voided velvet and brocading each contribute to the cover, and why were they labor intensive?",
+      "personal": "How does touch shape your appreciation of objects, and what is lost when you see a textile only in an image?",
+      "critical": "Why have Ottoman textiles often been collected for beauty while their makers remain unnamed?"
+    },
+    "g1112": {
+      "daily": "What does the yastik show about the relationship between technique and status in the 17th-century Ottoman world?",
+      "emotion": "How does a surface designed for touch and display produce affect, and how can a museum reproduce or fail to reproduce it?",
+      "observation": "Describe the cover's surface and structure precisely. Where does technical vocabulary change how you see it?",
+      "analysis": "Analyze how pattern and format interact in a cushion cover designed to be seen at close range and in use.",
+      "line": "How does the logic of voided velvet challenge assumptions that line is drawn, rather than produced by structure?",
+      "shape": "How do repeated forms relate to Ottoman design conventions, and how cautious should we be about naming them?",
+      "color": "How might fading or wear of silk and metal thread have changed the cover's original effect?",
+      "texture": "How does the tension between plush pile and bare ground make texture the central subject of the design?",
+      "space": "How does the all-over field relate to broader traditions of ornament in Islamic and Ottoman art?",
+      "light": "How does velvet's changing appearance in light complicate its documentation and display?",
+      "meaning": "What are the risks of assigning symbolic meaning to motifs on a textile whose owner and workshop are undocumented?",
+      "culture": "How do luxury textile industries connect Ottoman production to trade, patronage, and exchange with other regions?",
+      "technique": "What does the combination of velvet and metal-wrapped brocade imply about workshop organization and access to costly materials?",
+      "personal": "How does your own sense of comfort and luxury shape your response to a cushion cover from another era?",
+      "critical": "What are the consequences of displaying functional domestic textiles as isolated pictures on museum walls?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Woven), medium, country, and record fields checked against the museum record; the record lists no tags. A woven household textile with no figures flagged. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 17th-century Turkish cushion cover (yastik) in cut and voided velvet with brocading. The Met's record does not list motifs, so confirm what is visible in the image before discussing specific designs.",
+    "vocabulary": [
+      "yastik",
+      "velvet",
+      "pile",
+      "brocade",
+      "Ottoman",
+      "metal-wrapped thread"
+    ],
+    "directions": [
+      "Have students compare the feel of velvet, cotton, and satin fabrics and describe how texture changes a pattern.",
+      "Ask students to design a repeating motif to fill a square cushion cover.",
+      "Discuss how everyday objects can also be luxury art, and how that varies by culture."
+    ]
+  }
+}

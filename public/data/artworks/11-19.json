@@ -1,0 +1,158 @@
+{
+  "id": "met-42174",
+  "day": "11-19",
+  "title": "Ritual Wine Cup (Zhi)",
+  "artist": "Artist unknown",
+  "date": "late 11th century BCE",
+  "medium": "Bronze",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP219870.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP219870.jpg",
+    "credit": "The Metropolitan Museum of Art, Munsey Fund, 1931",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An ancient bronze cup on a foot, with a flared mouth. Its dark, greenish-brown metal surface is decorated with bands of patterns.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/42174",
+    "objectId": "42174",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Western Zhou dynasty, 1046–771 BCE), creditLine, classification (Metalwork), objectName (Wine cup), public-domain flag, and image URLs read from the record (record has no tags)"
+  },
+  "context": "This bronze cup was made in China in the early Western Zhou dynasty (1046-771 BCE), over 3,000 years ago. A zhi is a type of ritual vessel used for wine in ceremonies. Early Chinese bronzes like this were cast in molds, a complex process that took teams of skilled workers.",
+  "descriptions": {
+    "k": "This is a very old cup made of metal called bronze. It was made more than three thousand years ago. Look at its shape. Is it tall or short? Can you find patterns on it?",
+    "g12": "This cup was made in China more than three thousand years ago. It is bronze, a strong metal. People used cups like this for special wine ceremonies. Look at the shape of the cup and the lines or patterns on it. Why might a cup be this special?",
+    "g35": "This bronze cup is called a zhi, a kind of ritual wine cup from the Western Zhou dynasty in China. Bronze vessels like this were used in ceremonies. Makers poured melted bronze into molds to shape them and their patterns. Look at the cup's shape and any decorated bands. Why might a cup for a ceremony be made so carefully?",
+    "g68": "Made over three thousand years ago, this zhi belongs to China's great tradition of ritual bronzes. Craftspeople created clay molds, then poured in molten bronze, a process that required teamwork. Vessels like this were used in ceremonies, often involving food or wine offered to ancestors. How do the cup's shape and surface show care? What does the effort suggest about how people valued ritual?",
+    "g910": "This Western Zhou wine cup (zhi) is part of a long Chinese bronze tradition in which vessels served ritual and social purposes. Cast in clay piece molds, such vessels demanded sophisticated metallurgy and organized labor, suggesting their status value. Their forms and surface decoration followed established conventions that scholars study to date and group them. Consider how the shape, proportion, and decoration of the zhi express order, and how an object once used in rites functions in a museum.",
+    "g1112": "As a late 11th-century BCE bronze, this zhi sits in the early Western Zhou, when ritual vessels continued traditions developed in the preceding Shang period. Piece-mold casting, social ritual, and the political uses of bronze are all bound up in such an object. Interpretations of vessel types and decoration rely on archaeology and inscriptions, which the record here does not give. How do we read an object that functioned in ritual but now survives as a museum piece, and what do we risk assuming about its original use?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who might have held this very old cup, and what special day was it for?",
+      "emotion": "Does this cup feel serious or playful to you? What makes you think so?",
+      "observation": "Look at the cup from the top to the bottom. What parts can you find?",
+      "analysis": "Which part of the cup do your eyes go to first? Why?",
+      "line": "Trace the outline of the cup in the air. Where does it get wider or narrower?",
+      "shape": "Is the cup tall or short, wide or thin? What shapes do you see?",
+      "color": "The bronze looks dark and old. What colors can you see on its surface?",
+      "texture": "Metal can be smooth or bumpy. How do you think this cup would feel to touch?",
+      "space": "The cup has a hollow inside. What do you think it held?",
+      "light": "Where does the metal look bright, and where does it look dark?",
+      "meaning": "This cup was used in special ceremonies. Why might people make a special cup for an important day?",
+      "culture": "People in China made metal cups more than three thousand years ago. What special cups or bowls do families use today?",
+      "technique": "Workers poured hot melted metal into a mold to make this cup. Why would that be tricky?",
+      "personal": "What is the most special cup or bowl in your home? Tell why it is special.",
+      "critical": "This cup is very old. What clues in the picture tell you it was made by hand?"
+    },
+    "g12": {
+      "daily": "How does the shape of this cup show it was made for a special purpose?",
+      "emotion": "What feeling do you get from this old bronze cup, such as calm or serious? What shows it?",
+      "observation": "Describe the cup from foot to rim. Find at least five details.",
+      "analysis": "How do the foot, the body, and the mouth of the cup fit together as one shape?",
+      "line": "Find lines or bands on the cup. How do they make it look neat and ordered?",
+      "shape": "Which shapes make up the cup's foot, body, and rim? How do they connect?",
+      "color": "Old bronze can turn greenish or brown with age. What colors do you notice, and why might they have changed?",
+      "texture": "Look for smooth areas and patterned areas. How would they feel different?",
+      "space": "A cup holds space inside. How does the shape show that it can hold something?",
+      "light": "Metal reflects light. Where does the cup shine, and where is it dull?",
+      "meaning": "People used cups like this in ceremonies. Why might it matter that a cup is made well?",
+      "culture": "This cup was made in the Western Zhou dynasty. What does it tell you about how people honored special events?",
+      "technique": "Bronze is poured into a mold. Why must a mold be made with great care?",
+      "personal": "What special objects does your family use on holidays? How are they like this cup?",
+      "critical": "Is this cup a tool for drinking, an artwork, or both? Use clues to decide."
+    },
+    "g35": {
+      "daily": "What can you tell about the purpose of this zhi from its shape and surface?",
+      "emotion": "What mood does the dark bronze give this object, and which features create it?",
+      "observation": "Look for one minute. What small details in the shape or surface did you not notice at first?",
+      "analysis": "How are the foot, body, and flared mouth of the cup proportioned?",
+      "line": "How do the lines of the cup's outline guide your eye from the foot to the rim?",
+      "shape": "How does the cup's flared mouth compare with its narrower middle and foot?",
+      "color": "What do the dark and green tones tell you about the age of the cup?",
+      "texture": "How might the smooth parts and decorated parts of the surface feel different?",
+      "space": "How does the shape of the cup suggest that it was made to hold liquid?",
+      "light": "How does light reveal the shape and surface of the bronze?",
+      "meaning": "Why might people use special vessels for ceremonies instead of everyday cups?",
+      "culture": "What does a bronze cup made over three thousand years ago tell us about the skills of Zhou craftspeople?",
+      "technique": "Bronze casting needed molds, heat, and teamwork. Why would so many people be involved?",
+      "personal": "Think of an object that is used only on special days in your life. What makes it different?",
+      "critical": "What can we learn from this cup about Zhou life, and what questions can it not answer?"
+    },
+    "g68": {
+      "daily": "How do the proportions and surface of this zhi reveal the care that went into a ceremonial object?",
+      "emotion": "What tone does the dark bronze surface give this object, and how does its age affect that tone?",
+      "observation": "Study the cup from foot to rim. Which areas seem decorated and which are plain, and what effect does this create?",
+      "analysis": "How does the cup's silhouette balance its parts, such as foot, body, and flared mouth?",
+      "line": "How do the cup's contours and any bands of decoration organize your view?",
+      "shape": "How do the geometric forms of the foot and the flared mouth create stability?",
+      "color": "How might the cup's color have differed when it was newly cast?",
+      "texture": "How does the contrast between smooth bronze and any cast patterns add interest?",
+      "space": "How does the form express its function as a vessel that holds space?",
+      "light": "How does reflection on metal change as you move around the cup?",
+      "meaning": "Why might a society invest great resources in vessels for ceremonies, and what does this reveal about its values?",
+      "culture": "What can ritual bronzes tell us about Western Zhou society, including organization of workshops and ceremonies?",
+      "technique": "How does casting from clay molds differ from hammering or carving metal?",
+      "personal": "What kinds of ceremonies or traditions in your life use special objects?",
+      "critical": "How does seeing a ritual object in a museum change how we think about it?"
+    },
+    "g910": {
+      "daily": "How do form and finish convey the ceremonial status of this cup?",
+      "emotion": "How does the weight and darkness of the bronze contribute to an atmosphere of formality?",
+      "observation": "Describe the visual hierarchy of the cup, from rim to foot, including any bands of decoration.",
+      "analysis": "Analyze how the proportions of this zhi reflect a standardized vessel type.",
+      "line": "How does the profile of the cup create rhythm through changes in width?",
+      "shape": "How do the flaring mouth and the footed base work as a system of balance?",
+      "color": "How do patina and aging affect our perception of the cup's original appearance?",
+      "texture": "How do cast surfaces and polished or corroded areas change the object's materiality?",
+      "space": "How does the interplay of solid wall and hollow interior define the vessel?",
+      "light": "How does metallic reflectivity complicate the reading of fine surface details?",
+      "meaning": "How do ritual vessels link ideas of lineage, offering, and authority, and where do interpretations rely on assumption?",
+      "culture": "How did bronze casting support political and religious power in the early Zhou period?",
+      "technique": "What does piece-mold casting reveal about technology, labor, and organization in Western Zhou China?",
+      "personal": "How do the formal objects in your own community signal respect or importance?",
+      "critical": "What are the challenges in presenting a ritual object to a modern audience that does not share its original context?"
+    },
+    "g1112": {
+      "daily": "What does it mean for a cup to be both a functional vessel and a statement of social order?",
+      "emotion": "How might the object's gravity have been felt differently by its original users and by museum visitors?",
+      "observation": "Describe the zhi with precision. Where does classifying it as a ritual vessel go beyond what is visible?",
+      "analysis": "Analyze how the vessel's form, scale, and surface create a coherent system.",
+      "line": "How does the controlled profile of the vessel reflect convention rather than individual invention?",
+      "shape": "How do standardized vessel types invite comparison across sites and periods?",
+      "color": "How does corrosion complicate our idea of the bronze's original color and effect?",
+      "texture": "How might the original finish differ from the surface that survives?",
+      "space": "How does the form frame the act of pouring and drinking, even when we only see it still?",
+      "light": "How do museum lighting and reflective bronze shape the viewer's reading of surface detail?",
+      "meaning": "What do we infer about ritual use from bronzes without inscriptions, and where does the evidence become thin?",
+      "culture": "How do early Zhou bronzes show continuity with and change from Shang traditions?",
+      "technique": "How might analyses of casting and alloy composition refine our understanding of workshops?",
+      "personal": "How does your cultural background shape your sense of what ritual objects should look like?",
+      "critical": "How should museums balance respect for an object's original ritual role with its place as a public work of art?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Ritual Wine Cup (Zhi)), classification (Metalwork), objectName (Wine cup), and medium (bronze) checked against the museum record; the record has no tags. Nothing in these suggests nudity, violence, or frightening content, but early bronzes can carry stylized animal-like masks in their decoration, which a person should confirm in the image.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Western Zhou dynasty (late 11th century BCE) bronze wine cup. Whether it is decorated with bands or patterns should be confirmed from the image before class discussion.",
+    "vocabulary": [
+      "bronze",
+      "Western Zhou dynasty",
+      "zhi",
+      "ritual vessel",
+      "casting",
+      "patina"
+    ],
+    "directions": [
+      "Have students sketch the cup's profile and label foot, body, and mouth, then compare with a modern cup.",
+      "Discuss which everyday objects become special because of how they are used in ceremonies.",
+      "Have students imagine the steps of making a mold and pouring metal, then compare with clay pottery."
+    ]
+  }
+}

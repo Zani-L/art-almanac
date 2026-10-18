@@ -1,0 +1,158 @@
+{
+  "id": "met-316721",
+  "day": "12-20",
+  "title": "Bottle with Snake",
+  "artist": "Artist unknown (Moche)",
+  "date": "2nd–5th century",
+  "medium": "Ceramic",
+  "region": "Moche culture, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DT5059.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DT5059.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Conny and Fred Landmann, 1992",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A ceramic bottle about twenty-two centimeters tall with a snake as part of its design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/316721",
+    "objectId": "316721",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Ceramics-Containers), tag (Snakes), dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A ceramic bottle with a snake, made by Moche artists on the coast of Peru between the 2nd and 5th centuries. It stands about 22 centimeters high. Moche potters often shaped plants, animals, and people into vessels.",
+  "descriptions": {
+    "k": "This clay bottle has a snake on it. A snake has a long, bendy body. Moche artists in Peru made this bottle long ago. It is about as tall as a water bottle. Can you follow the snake with your eyes?",
+    "g12": "Moche artists in Peru made this clay bottle with a snake on it. A snake has a long body that bends and curves. The bottle is about as tall as a water bottle. Trace the snake's path with your eyes. Where does it begin and end?",
+    "g35": "This bottle was made by Moche artists on the coast of Peru between the 2nd and 5th centuries. A snake is part of its design. The bottle is about 22 centimeters tall and made of ceramic. Look at how the snake's long body fits onto a rounded bottle. Why might a potter choose an animal with such a flowing shape?",
+    "g68": "Moche potters of Peru's coast often turned animals and plants into ceramic vessels, and this bottle, made between the 2nd and 5th centuries, features a snake. A snake's long, curving body is a good subject for clay because it can wind around a form. The record does not explain what the snake meant, and scholars are cautious about assigning single meanings to Moche images, so close description of the shapes comes first.",
+    "g910": "This Moche bottle, from the 2nd to 5th century, uses the long, curving body of a snake as a sculptural and decorative element on a ceramic vessel. Moche potters worked with modeled forms and surface finish to turn familiar animals into designs that suit a container. The record does not tell us what the snake meant or how the bottle was used, so interpretation should begin with careful observation of how line and volume work together.",
+    "g1112": "Made between the 2nd and 5th centuries, this Moche bottle with a snake belongs to a ceramic tradition in which animals frequently appear. The snake's winding body offers a natural line that animates a rounded vessel. Interpretations of Moche animal imagery range from observation of the natural world to symbolic readings, but without written Moche sources and without more context in the record, such readings remain hypotheses. The object invites analysis of how form, line, and function interact in sculptural ceramics."
+  },
+  "questions": {
+    "k": {
+      "daily": "Follow the snake on this bottle with your finger. Where does it go?",
+      "emotion": "Does the snake on this bottle look calm, curious, or something else? Why?",
+      "observation": "What parts can you find on this bottle besides the snake? Name two.",
+      "analysis": "Where do your eyes go first on this bottle: the snake or the bottle? Why?",
+      "line": "A snake makes a wiggly line. Can you trace its wiggles in the air?",
+      "shape": "What shape is the bottle? What shape is the snake's body?",
+      "color": "What colors do you see on the bottle? Which is easiest to find?",
+      "texture": "How do you think the snake would feel if you touched the clay? Smooth or bumpy?",
+      "space": "This bottle is about as tall as a water bottle. Show with your hands how tall it is.",
+      "light": "Where does the bottle look bright, and where does it look dark?",
+      "meaning": "Why do you think the maker added a snake to a bottle?",
+      "culture": "Moche artists in Peru made this bottle long ago. What animals do you see where you live?",
+      "technique": "The clay snake and the bottle are joined. How do you think the artist did that?",
+      "personal": "If you could add an animal to your water bottle, which would you pick?",
+      "critical": "How can you tell the artist watched real snakes closely, or did not?"
+    },
+    "g12": {
+      "daily": "How does the snake change how you see this bottle? Point to details that help you decide.",
+      "emotion": "What feeling does the snake's curving body give the bottle: smooth, calm, or tricky?",
+      "observation": "Describe the snake from head to tail. What parts do you see?",
+      "analysis": "How did the artist fit a long snake onto a round bottle?",
+      "line": "Follow the curving line of the snake. Where does the line bend the most?",
+      "shape": "Compare the snake's long shape with the bottle's round shape. How are they different?",
+      "color": "Which colors help the snake stand out from the bottle?",
+      "texture": "Which parts of the clay look smooth and which look rough or marked?",
+      "space": "The snake wraps around part of a 3D bottle. How does that change what you see from different sides?",
+      "light": "Imagine a lamp shining on the bottle. Where would the snake cast a shadow?",
+      "meaning": "Why might an artist pick a snake as a subject?",
+      "culture": "The Moche lived on the coast of Peru. What animals might they have seen around them?",
+      "technique": "Potters shape clay with their hands. Why might a long thin snake be tricky to make in clay?",
+      "personal": "What animal do you like to watch closely? How would you shape it in clay?",
+      "critical": "The record does not say what the snake means. What is a careful way to talk about it?"
+    },
+    "g35": {
+      "daily": "How does the snake's shape work with the bottle's shape to make one design?",
+      "emotion": "What mood does the snake give this bottle? Which details create it?",
+      "observation": "Study the bottle for one minute. List the shapes, lines, and surfaces you see on the snake and the bottle.",
+      "analysis": "How does the snake lead your eyes around the bottle?",
+      "line": "How does the snake's flowing line contrast with the bottle's overall shape?",
+      "shape": "How do the snake's repeated curves create a pattern on the bottle?",
+      "color": "How do colors help separate the snake from the rest of the bottle?",
+      "texture": "How might the snake's skin be suggested in clay? Look for marks or patterns.",
+      "space": "The snake sits on a curved surface. How does that make you move around the bottle to see it?",
+      "light": "How does light sliding across the curves of the snake change its appearance?",
+      "meaning": "Moche artists often showed animals. What might a snake show about how they looked at nature?",
+      "culture": "How can a bottle with an animal help us learn about people who lived long ago?",
+      "technique": "How might the potter plan the snake's position before attaching it?",
+      "personal": "Think of something you notice only when you look closely. How is that like looking at this bottle?",
+      "critical": "Why is it helpful to describe what we see before guessing what it means?"
+    },
+    "g68": {
+      "daily": "How does the snake animate an otherwise simple bottle?",
+      "emotion": "How can a repeated curve create a feeling of movement in a still object?",
+      "observation": "Without interpreting, list the features of the snake and the bottle. Which details are clearest?",
+      "analysis": "How does the placement of the snake affect the balance of the bottle?",
+      "line": "How does the snake create a flowing line, and how does the bottle's profile contrast with it?",
+      "shape": "How do the snake's coils or curves relate to the bottle's rounded body?",
+      "color": "How might color and slip emphasize the snake's body against the bottle?",
+      "texture": "How do modeled and smooth areas create surface contrast?",
+      "space": "How does a sculpture with a snake wrapped on it require you to move around it?",
+      "light": "How do curves catch light differently from flat areas?",
+      "meaning": "Why should we avoid assuming a snake had the same meaning to the Moche as it does in modern stories?",
+      "culture": "How might animals shown on pottery reflect the environment of the Peruvian coast?",
+      "technique": "What skills are needed to model a thin, curving form and attach it to a vessel?",
+      "personal": "How do your feelings about animals shape how you respond to this bottle?",
+      "critical": "What information would you want to add to the museum record to help interpret the snake?"
+    },
+    "g910": {
+      "daily": "How do line and volume interact in the relationship between snake and bottle?",
+      "emotion": "How does the snake's sinuous form shape the viewer's response to the vessel?",
+      "observation": "Describe the visual hierarchy: what leads the eye first, and which details need longer study?",
+      "analysis": "Analyze how the snake integrates with or interrupts the bottle's silhouette.",
+      "line": "How does the snake's contour function as a drawn line in three dimensions?",
+      "shape": "How do organic curves relate to the geometry of the vessel?",
+      "color": "How could surface treatment clarify the snake's form against the vessel's body?",
+      "texture": "How do modeled details create tactile and visual variety?",
+      "space": "How does the sculptural arrangement guide the viewer's movement around the object?",
+      "light": "How do highlights and shadows articulate the snake's volume?",
+      "meaning": "What evidence would be needed to support a symbolic reading of the snake, and what is missing here?",
+      "culture": "How does the study of Moche ceramics shape our understanding of a society without surviving writing?",
+      "technique": "How might the maker combine modeling and finishing to unify snake and vessel?",
+      "personal": "How does an animal on a utilitarian object change your sense of its purpose?",
+      "critical": "How might museum display influence whether a viewer sees this bottle as a container, a sculpture, or a symbol?"
+    },
+    "g1112": {
+      "daily": "What can be inferred about the bottle's design from its form and what remains hypothetical?",
+      "emotion": "How does the winding form of the snake generate affect through line alone, and is that response culturally conditioned?",
+      "observation": "Describe the object precisely. Where does your description introduce interpretation?",
+      "analysis": "Analyze how the relation of figure and vessel shapes the bottle's overall design.",
+      "line": "How does the snake's linear movement operate in relation to the vessel's static volume?",
+      "shape": "How might the vessel's geometry and the snake's organic form be read as a deliberate contrast?",
+      "color": "How do surface treatments and aging influence the legibility of figure against ground?",
+      "texture": "How does the tactile quality of modeled clay inform how we imagine the bottle in use?",
+      "space": "How does the bottle's three-dimensional form complicate its reading as image, and what does that suggest about viewing practices?",
+      "light": "How do museum photographs flatten or emphasize the sculptural qualities of the bottle?",
+      "meaning": "Evaluate competing readings of animal imagery in Moche ceramics and the evidence available for each.",
+      "culture": "How do museum categories like Moche and Peru shape our sense of the unity or diversity of a society?",
+      "technique": "What does the combination of modeling and vessel construction imply about workshop skill?",
+      "personal": "How do your own associations with snakes color your reading, and how might they differ from those of a Moche viewer?",
+      "critical": "What responsibilities do museums have to separate what is known about a Moche bottle from what is conjecture?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Ceramics-Containers), medium, and tag (Snakes) read from the museum record; the record does not flag the object as sacred or restricted and indicates no human remains, nudity, or weapons. A snake is a possible concern for some young students, so the text frames it neutrally and as a sculptural form.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Moche lived on the coast of Peru in the early centuries CE and are known for modeled and painted ceramics. The record gives the subject as a snake and does not explain its meaning or use.",
+    "vocabulary": [
+      "Moche",
+      "ceramic",
+      "vessel",
+      "modeled",
+      "sculpture",
+      "contour"
+    ],
+    "directions": [
+      "Have students trace the snake's path in the air and describe the curve using line vocabulary.",
+      "Ask students to model a clay animal and attach it to a small cup.",
+      "Discuss the difference between describing what we see and guessing what it means."
+    ]
+  }
+}

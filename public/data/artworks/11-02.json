@@ -1,0 +1,158 @@
+{
+  "id": "met-319091",
+  "day": "11-02",
+  "title": "Pipe Bowl",
+  "artist": "Artist unknown (Haida)",
+  "date": "1815–20",
+  "medium": "Argillite",
+  "region": "Haida, Canada",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261794.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT261794.jpg",
+    "credit": "The Metropolitan Museum of Art, Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small carved pipe bowl of dark argillite stone, about six by ten centimeters, with whales as part of its design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/319091",
+    "objectId": "319091",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, objectName (Pipe bowl), tag (Whales), dimensions, public-domain flag, and image URLs read from the record. The record has no classification."
+  },
+  "context": "A small carved pipe bowl made of argillite by Haida artists in the early 19th century, dated 1815 to 1820. The record tags whales as its subject. It measures about 6.4 by 9.5 centimeters. Argillite is a fine-grained stone that Haida carvers have long worked.",
+  "descriptions": {
+    "k": "This little carving is made of dark stone. It shows whales. It is small enough to hold in your hand. Haida artists carved it. Can you find a whale? What shapes do you see?",
+    "g12": "Haida artists carved this small object from a dark, smooth stone called argillite. Whales are part of the carving. It is called a pipe bowl, and it is about as wide as your palm. Imagine the carver's tiny tools. What details can you find?",
+    "g35": "This pipe bowl was carved by Haida artists between 1815 and 1820 from argillite, a fine-grained stone that can be carved in detail. Whales appear in its design. The carving is only about 9.5 centimeters wide, so every detail is small. Look at how the carver fit the whales into the shape of the bowl. Why would an artist choose whales?",
+    "g68": "Haida carvers began making argillite pieces for trade in the early 19th century, and this pipe bowl from 1815 to 1820 is a fine small example. Argillite is soft enough to carve in detail yet takes a smooth polish. The record lists whales as the subject, but it does not say what story, if any, they illustrate. Looking closely at how the carver fits sculpted forms into a very small object shows both skill and design thinking.",
+    "g910": "This argillite pipe bowl, dated 1815 to 1820, shows Haida carvers working in a stone that could be shaped with great detail. Argillite objects made in this period often served as sculptures as well as functional forms, and sometimes reached a trading audience. The whales in the design challenge the carver to fit flowing forms into a compact object. Because the record does not interpret the imagery, careful description comes before claims about story or symbolism.",
+    "g1112": "A Haida argillite pipe bowl of 1815 to 1820, this object belongs to an early phase of a carving tradition in which artists adapted a local stone to new forms and new audiences. Whales, tagged in the record, appear within a compact sculptural design that rewards close looking. The object's date and size suggest both craft mastery and a particular historical moment, but the record does not explain the imagery or its meaning. Interpretation should rest on visible evidence and respect for Haida knowledge."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the whales on this tiny stone carving. How many can you count?",
+      "emotion": "Does this tiny carving feel calm, strong, or playful? What makes you say so?",
+      "observation": "What parts can you find on this carving? Name two things you see.",
+      "analysis": "Where do your eyes look first on this carving? Where do they go next?",
+      "line": "Can you find curved lines in the carved whales? Trace one with your finger.",
+      "shape": "What round shapes and long shapes do you find on this carving?",
+      "color": "The stone is dark. What other colors can you find, if any?",
+      "texture": "The stone looks smooth. What parts might feel different if you touched them?",
+      "space": "This carving fits in your hand. Show with your fingers how big you think it is.",
+      "light": "Which parts of the dark stone look shiny, and which look dull?",
+      "meaning": "What story could you tell about the whales in this carving?",
+      "culture": "Haida artists carved this a long time ago. What sea animals do you know?",
+      "technique": "The carver made this from stone. What tools do you think were needed for such a small carving?",
+      "personal": "If you carved a small animal from stone, which animal would you choose?",
+      "critical": "How can you tell this carving took a lot of patience?"
+    },
+    "g12": {
+      "daily": "What small details on this carving are hardest to see? Look closely and describe one.",
+      "emotion": "What feeling do the whales give this small object: calm, powerful, or something else?",
+      "observation": "Describe the carving as closely as you can. What parts do you see?",
+      "analysis": "How did the carver fit the whales into the shape of the bowl?",
+      "line": "Look for flowing lines in the whales. Where do they curve the most?",
+      "shape": "Which shapes make up the whales? Which ones are round and which are long?",
+      "color": "Argillite is a dark stone. How does its color change the way you see the carving?",
+      "texture": "Which parts look polished and which look cut or carved?",
+      "space": "The carving is about 9.5 centimeters wide. How does small size change how you look at it?",
+      "light": "Where would light reflect on the smooth, dark surface?",
+      "meaning": "Why might a carver choose whales as a subject?",
+      "culture": "Haida people live by the sea. Why might whales be important to them?",
+      "technique": "Argillite is soft enough to carve with care. Why is soft stone helpful for fine detail?",
+      "personal": "What small object do you like to hold and look at closely?",
+      "critical": "The record does not say what story the carving tells. How can we learn it?"
+    },
+    "g35": {
+      "daily": "How does the carver make whales fit into a small pipe bowl? Use details from the shapes.",
+      "emotion": "What mood do the whales give this carving? Which details create it?",
+      "observation": "Study the carving for one minute. List the shapes, edges, and surfaces you notice.",
+      "analysis": "How do the whales and the bowl's shape work together as one design?",
+      "line": "How do flowing outlines connect the parts of the whales to each other?",
+      "shape": "Compare the carved shapes of the whales with the overall shape of the bowl. How do they relate?",
+      "color": "Argillite is nearly black. How does the dark color make light and shadow stand out?",
+      "texture": "How might the carver have made some areas shiny and others rough?",
+      "space": "A carving has front, back, and sides. What might be hidden from your view in the picture?",
+      "light": "How does light on a dark polished surface show the roundness of the carving?",
+      "meaning": "Why might artists show sea animals, like whales, on objects they made?",
+      "culture": "Haida carvers worked with argillite from their homeland. What does this say about how people use local materials?",
+      "technique": "Carving stone requires removing material carefully. Why is planning important before you start?",
+      "personal": "What would you want to carve small enough to hold, and why?",
+      "critical": "Why might a very small object be harder to carve than a large one?"
+    },
+    "g68": {
+      "daily": "How do the carver's choices of form, size, and detail make a small object feel substantial?",
+      "emotion": "How does the contrast between the object's size and the power of whales affect its mood?",
+      "observation": "Without interpreting, list what you see in the carving from top to bottom. What details appear only after longer study?",
+      "analysis": "How does the composition balance whales and bowl so the object remains useful as well as sculptural?",
+      "line": "How do flowing curves lead your eye around the carving?",
+      "shape": "How do the large and small forms interlock in the design?",
+      "color": "How does the dark stone shape the way the whales' forms are read?",
+      "texture": "How do polished and carved areas create variety on the surface?",
+      "space": "How does a three-dimensional carving offer different views of the same subject?",
+      "light": "How does a polished dark surface use highlights to describe form?",
+      "meaning": "What are two possible reasons for choosing whales as a subject, and what evidence would help decide?",
+      "culture": "How do argillite carvings reflect Haida artistic skill and engagement with the world beyond their communities?",
+      "technique": "What makes argillite good for fine carving?",
+      "personal": "How do you decide how much detail a small object needs?",
+      "critical": "What can we responsibly say about a carving's meaning when the record gives only the subject?"
+    },
+    "g910": {
+      "daily": "How does this pipe bowl integrate sculptural invention with a functional form?",
+      "emotion": "How do the whales' flowing forms and the stone's darkness combine to create presence?",
+      "observation": "Describe the visual hierarchy of the carving, identifying what is emphasized at first glance and on close inspection.",
+      "analysis": "Analyze how the whales' contours are adapted to the object's compact structure.",
+      "line": "How does the use of continuous, curving contour reflect formal conventions of Haida art?",
+      "shape": "How do positive and negative shapes in the carving work together?",
+      "color": "How does argillite's dark tone reduce the role of color and focus attention on form and highlight?",
+      "texture": "How do variations in polish and relief create a tactile as well as visual surface?",
+      "space": "How does the sculptural organization invite handling and viewing from multiple angles?",
+      "light": "How does a polished stone's reflectivity shape our perception of volume?",
+      "meaning": "What kinds of knowledge would be needed to interpret the whales as part of a specific narrative, and who holds it?",
+      "culture": "How did Haida artists adapt argillite carving to changing circumstances in the early 19th century?",
+      "technique": "What does the precision of this carving reveal about tool skill and the stone's properties?",
+      "personal": "How does holding or imagining holding a small carving differ from viewing a large monument?",
+      "critical": "How does presenting a pipe bowl as sculpture in a museum change the way viewers think about function and meaning?"
+    },
+    "g1112": {
+      "daily": "What claims about this carving can be made from its form and record, and what belongs to Haida knowledge?",
+      "emotion": "How does miniaturization intensify aesthetic response, and how might that response differ between maker and viewer?",
+      "observation": "Describe the carving's form and surface precisely. Where does your language assume function or story?",
+      "analysis": "Analyze how the carving negotiates the constraints of a functional object while developing figurative forms.",
+      "line": "How do contour and flowing form relate to broader Northwest Coast design conventions, and how cautious should that comparison be?",
+      "shape": "How does the interplay of volumes shape the work's balance of sculpture and utility?",
+      "color": "How does the stone's dark tone interact with the history of argillite carving as a distinct tradition?",
+      "texture": "How do surface treatments inscribe process, and what do they reveal about the carver's control of the medium?",
+      "space": "How does the object's compactness shape intimacy, and how does display change the viewer's relationship to it?",
+      "light": "How do lighting and photography affect our perception of dark, polished stone in a museum setting?",
+      "meaning": "How should scholars treat imagery that may relate to stories belonging to Haida families or communities?",
+      "culture": "How does the early 19th-century date place this carving within a period of trade and cultural exchange, and what does that complicate?",
+      "technique": "What does the carving of argillite suggest about transmission of knowledge and specialized workshop skills?",
+      "personal": "How do your assumptions about the function of a pipe, a sculpture, or a souvenir shape your reading of this piece?",
+      "critical": "How does the story museums tell about argillite carving change if Haida artists and communities are its authors?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, objectName (Pipe bowl), medium, and tag (Whales) read from the museum record; the record has no classification, does not flag the object as sacred or restricted, and indicates no human remains, nudity, or weapons. The object is a pipe bowl, so students are not asked about smoking.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Haida live on Haida Gwaii, off the coast of British Columbia, Canada, and are renowned carvers. Argillite carving is a distinct Haida tradition; the record lists whales as the subject and does not explain the imagery.",
+    "vocabulary": [
+      "Haida",
+      "argillite",
+      "pipe bowl",
+      "carving",
+      "relief",
+      "polish"
+    ],
+    "directions": [
+      "Have students carve a small design in soap or soft clay and notice how detail changes with size.",
+      "Ask students to compare how a small carving and a large mural require different planning.",
+      "Discuss why the descendants of makers should have a voice in how museum objects are explained."
+    ]
+  }
+}

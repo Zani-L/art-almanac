@@ -1,0 +1,159 @@
+{
+  "id": "met-436575",
+  "day": "01-25",
+  "title": "View of Toledo",
+  "artist": "El Greco (Domenikos Theotokopoulos)",
+  "date": "ca. 1599–1600",
+  "medium": "Oil on canvas",
+  "movement": "Mannerism",
+  "region": "Spain",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP349564.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP349564.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A city of towers and buildings crowded on a hilltop beneath a dark, stormy sky, with pale light breaking through heavy clouds. Bright green hillsides fill the lower part of the picture.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436575",
+    "objectId": "436575",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting by El Greco, who was born on the island of Crete and spent most of his life in Toledo, Spain. Made around 1599–1600, it shows the city under a stormy sky. The Met describes it as an emotive rather than documentary view, with buildings such as the cathedral moved from their real positions.",
+  "descriptions": {
+    "k": "This is a city on a hill. The sky is dark and stormy. Clouds swirl above the towers. The hills are bright green. A painter named El Greco made it. Can you find where the light peeks through the clouds?",
+    "g12": "El Greco lived in the city of Toledo, in Spain, and painted it more than 400 years ago. Dark clouds roll over the buildings, and the hills glow an unusual green. He did not copy the city exactly. He moved some buildings to make the picture feel dramatic. What mood do the clouds give the city?",
+    "g35": "El Greco was born on the island of Crete but spent most of his life in Toledo, Spain. Around 1600 he painted the city on its hill beneath a stormy sky. The picture is not a map or a photograph: the Met calls it an emotional view, and he moved buildings such as the cathedral. Look at the swirling clouds, the glowing green hills, and the tightly packed towers. How does he make a real place feel almost like a dream?",
+    "g68": "View of Toledo, painted around 1599–1600, is described by the Met as El Greco's greatest surviving landscape, and as an emotive rather than documentary vision. The cathedral and royal palace are given more prominence than they had in reality, and a monastery at the left seems to float on a cloud. Dark, turbulent clouds and acid greens heighten the drama, while broken, faceted brushwork keeps the forms from looking solid. How does distortion help communicate feeling? What does the city gain from being rearranged?",
+    "g910": "El Greco treats Toledo, the city where he lived and worked, as a vision rather than a record. Architecture and terrain are distorted, the cathedral is moved, and the stormy sky darkens the buildings and turns the foliage a lurid green. The palette and the faceted handling of paint seem almost detached from the forms they describe. Consider how this approach, often linked with the expressive taste of Mannerism, differs from the measured, naturalistic landscapes painted in Italy and the Netherlands in the same era.",
+    "g1112": "Painted around 1599–1600, View of Toledo is often read as a landscape of feeling rather than a topographical record. The cathedral is relocated, the palace emphasized, and the sky may suggest the power of God and nature, though the painting offers no explicit program. Rilke's astonished reaction in Paris in 1908, which he related to Rodin, shows how modern viewers claimed the work for their own sensibilities. That later enthusiasm is worth weighing against what we can actually say about El Greco's aims around 1600."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the sky. What do you think the weather is about to do?",
+      "emotion": "Does this city feel calm or a little scary? What do you see that makes you say so?",
+      "observation": "Find the towers, the clouds, and the green hills. Which one do you see first?",
+      "analysis": "Start at the bottom and look up to the sky. What do your eyes pass along the way?",
+      "line": "Can you find lines that go up, like towers? Trace one in the air.",
+      "shape": "What shapes can you find in the buildings and the hill?",
+      "color": "Which colors do you see in the sky? Which colors do you see in the hills?",
+      "texture": "The clouds look swirly and the hills look rough. How would they feel to touch?",
+      "space": "What is close to you in this picture? What is far away?",
+      "light": "Where do you see light in the sky? Where is it dark?",
+      "meaning": "If you lived in this city, what would you do when the storm comes?",
+      "culture": "El Greco lived in a city in Spain. What is the place where you live like?",
+      "technique": "El Greco used oil paint. Where do you see short, quick brushstrokes?",
+      "personal": "Tell about a time you watched stormy weather. What did you see and feel?",
+      "critical": "Does this look like a photograph or a feeling picture? What tells you?"
+    },
+    "g12": {
+      "daily": "How does the sky change the way you feel about the city? Point to the part that helps you decide.",
+      "emotion": "What feeling do the dark clouds and the bright green hills give you? Which one is stronger?",
+      "observation": "Describe three things you see, from the bottom of the picture to the top.",
+      "analysis": "How does the artist make your eyes travel from the hills to the town and up into the sky?",
+      "line": "Find tall, upward lines in the towers and walls. How do they make the city feel?",
+      "shape": "Look at the buildings. What shapes do you see, and how are they packed together?",
+      "color": "The hills are a very bright green. Why might the artist choose a color like that?",
+      "texture": "Which parts look soft and swirly, and which look hard and rocky? How can you tell?",
+      "space": "How can you tell the hill is in front and the sky is behind? What shows it?",
+      "light": "Follow the light in the clouds. Where is it brightest, and what does it do to the buildings?",
+      "meaning": "What story could this stormy sky tell about the city below it?",
+      "culture": "El Greco came from the island of Crete and lived in Toledo, Spain. Why might a painter love to paint the city where he lives?",
+      "technique": "El Greco used oil paint with quick, visible strokes. How do the strokes help the clouds look like they are moving?",
+      "personal": "What place do you know well enough to paint from memory? What would you show?",
+      "critical": "El Greco moved some buildings to make a better picture. Is that okay for an artist? Why?"
+    },
+    "g35": {
+      "daily": "El Greco could have painted Toledo exactly as it looked. Why do you think he made it feel stormy and strange instead?",
+      "emotion": "What mood do the dark sky, bright greens, and crowded buildings create together?",
+      "observation": "Spend one quiet minute with the picture. What tiny buildings or patches of color did you miss at first?",
+      "analysis": "How does El Greco guide your eyes from the hillside to the city and up into the clouds?",
+      "line": "How do the upward lines of the towers and walls compare with the swirling lines of the clouds?",
+      "shape": "The buildings are packed into one big shape on the hill. How does that shape affect the picture?",
+      "color": "Which colors are unusual for a landscape? How do they change the mood?",
+      "texture": "El Greco's brushwork looks broken into small patches. How does that change how the grass, clouds, and walls feel?",
+      "space": "How does the artist show that the city sits high on a hill with a huge sky above it?",
+      "light": "Where does light break through the clouds? How does it change how the buildings look?",
+      "meaning": "The Met says this is an emotional view rather than an exact record. What feelings do you think El Greco wanted to show?",
+      "culture": "El Greco was born on Crete and lived most of his life in Toledo. What might a place mean to someone who made it their home?",
+      "technique": "Oil paint dries slowly, so a painter can brush it into lively strokes. Where can you see that in this picture?",
+      "personal": "What place feels special to you? How would you change it in a painting to show how it feels?",
+      "critical": "How is this painting different from a photograph of Toledo? What can a painting do that a photograph cannot?"
+    },
+    "g68": {
+      "daily": "El Greco rearranged real buildings and exaggerated color. What does the painting gain from that distortion?",
+      "emotion": "Is the overall mood threatening, majestic, or something else? Use visual evidence to support your view.",
+      "observation": "List what you see from the bottom edge to the top edge. Which details appear in unexpected places?",
+      "analysis": "How does the composition balance the heavy sky against the city on its hill?",
+      "line": "How do the jagged, upward lines of the skyline contrast with the curving shapes of the clouds?",
+      "shape": "How do the angular shapes of the buildings differ from the shapes of the clouds, and what does that contrast do?",
+      "color": "How do the dark blue-grays of the sky play against the vivid greens of the hill? What effect does this have on the buildings?",
+      "texture": "El Greco breaks surfaces into patches of paint. How does this affect your sense of the textures of rock, plants, and cloud?",
+      "space": "How does the painting create depth, and where does the space feel flattened or unreal?",
+      "light": "The light seems uneven and may come from several places. How does that add drama?",
+      "meaning": "A monastery at the left seems to float on a cloud. What ideas could this suggest, and how sure can we be?",
+      "culture": "Toledo was an important religious and royal city in Spain around 1600. How might a painting of it have been valued then?",
+      "technique": "How might El Greco's loose, faceted brushwork reflect a choice to stress expression over accuracy?",
+      "personal": "Think of a place that looks different when you feel different. How could an artist paint that change?",
+      "critical": "Should a picture of a real place be judged by accuracy or by feeling? Defend your position with details."
+    },
+    "g910": {
+      "daily": "How do El Greco's distortions of place, color, and light work together to create an emotional impression of Toledo?",
+      "emotion": "How does the painting build tension through contrasts of dark and light and of natural and built forms?",
+      "observation": "Describe the visual hierarchy of the picture. What do you notice first, second, and third, and what causes that order?",
+      "analysis": "Analyze how the sky and the hilltop city share the picture's weight. What changes if you imagine either one reduced?",
+      "line": "How do the angular forms of the buildings and the flowing lines of the clouds create competing rhythms?",
+      "shape": "How does the compact mass of the city contrast with the open, shifting forms of the sky?",
+      "color": "How does the intensified, acid palette support the Met's description of an emotive rather than documentary vision?",
+      "texture": "How does El Greco's faceted application of paint treat surface differently from smoothly blended painting?",
+      "space": "How does the high, compressed view of the city produce both depth and a sense of unreality?",
+      "light": "How does the stormy light darken the buildings and change the apparent color of the foliage? What might that suggest?",
+      "meaning": "Some accounts link the stormy sky to the power of God and nature. What visual evidence supports that, and what limits it?",
+      "culture": "How might Toledo's role as a center of religion and royal power around 1600 shape the way this city is imagined?",
+      "technique": "Why might El Greco emphasize paint handling and color over measured perspective?",
+      "personal": "Where in your own life does a place seem charged with feeling beyond how it looks? How might you picture it?",
+      "critical": "When an artist moves a cathedral, is the painting still a view of Toledo? What does the title promise?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the picture about how El Greco regarded Toledo, and what remains uncertain?",
+      "emotion": "How does the painting evoke feeling without an explicit story? What are the risks of naming that feeling too neatly?",
+      "observation": "Describe the picture's formal construction as precisely as you can before interpreting. Where does description already become interpretation?",
+      "analysis": "Analyze how distortion, compression, and tonal contrast create unity even though the forms feel unstable.",
+      "line": "How does the interplay of angular contour and turbulent cloud rhythm define the painting's expressive vocabulary?",
+      "shape": "How does the painting's breaking of mass into faceted planes relate to its refusal of straightforward description?",
+      "color": "How might the unnatural greens and cold grays be read as expressive, symbolic, or both? What evidence would favor each reading?",
+      "texture": "How does the visible handling of paint blur the line between depicting a place and presenting a painted surface?",
+      "space": "How does the painting's unstable, tilting space compare with the perspective conventions of Italian Renaissance landscape?",
+      "light": "In what ways does the painting treat light as an emotional, and possibly spiritual, force rather than a record of weather?",
+      "meaning": "Evaluate readings of the view as a portrait of a city, a spiritual image, or a personal vision. What supports each, and what is speculative?",
+      "culture": "How does an artist born on Crete and working in Spain complicate the idea of a single national tradition in this period?",
+      "technique": "What does the handling suggest about El Greco's priorities, and how do we avoid assuming too much about his intentions?",
+      "personal": "How do your own expectations of landscape painting shape your response to this one? Where might they mislead you?",
+      "critical": "Rilke reacted with astonishment in 1908. How might a modern viewer's enthusiasm shape, or distort, our understanding of a painting from about 1600?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Buildings, Cities) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted around 1599–1600 in Toledo, the Spanish city where El Greco lived and worked. The Met notes that the view is expressive rather than documentary and that the cathedral has been moved.",
+    "vocabulary": [
+      "landscape",
+      "Mannerism",
+      "oil paint",
+      "brushwork",
+      "distortion",
+      "atmosphere"
+    ],
+    "directions": [
+      "Have students compare the painting with a photograph of a hilltop town and list what El Greco changed or exaggerated.",
+      "Ask students to paint or describe their own town in weather that matches a mood.",
+      "Discuss when it is fine for art to be 'less accurate' than a photograph."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ahp-fabula",
+  "day": "06-23",
+  "title": "Fábula",
+  "artist": "El Greco",
+  "date": "1600",
+  "medium": "Oil on canvas",
+  "movement": "Spanish Renaissance",
+  "region": "Spain",
+  "image": {
+    "url": "/images/ahp-fabula.jpg",
+    "credit": "Museo Nacional del Prado, Spain; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/el-greco/fabula/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10827/el_greco-fabula-1600-obelisk-art-history-1.jpg"
+  },
+  "altText": "A dark painting lit by a warm glow. A boy blows on a glowing ember, with a monkey beside him and a man next to them. Their faces are bright against a dark background.",
+  "source": {
+    "museum": "Museo Nacional del Prado, Spain",
+    "url": "https://www.arthistoryproject.com/artists/el-greco/fabula/",
+    "objectId": "fabula",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, collection, public-domain statement)"
+  },
+  "context": "An oil painting made around 1600 by El Greco, who worked in Spain, and now in the Prado Museum. The source page tags it with monkeys and chiaroscuro, the use of strong light and dark. The title Fábula means fable, and the exact meaning of the scene is open to discussion.",
+  "descriptions": {
+    "k": "It is dark in this picture, but a glow lights some faces. A boy blows on a tiny fire. A monkey sits close. A man is there too. Where is the light? What might they be thinking?",
+    "g12": "El Greco painted this picture around 1600. A boy blows on a glowing ember. A monkey and a man are beside him. Most of the picture is dark, but the glow makes the faces bright. What do you notice about their faces? What is happening?",
+    "g35": "Fábula was painted by El Greco around 1600 in Spain. It shows a boy blowing on a glowing ember, with a monkey and a man beside him. The background is dark, so the little glow lights their faces. This use of strong light and dark is called chiaroscuro. Look at each face and gesture. What story might the artist be inviting you to imagine?",
+    "g68": "El Greco's Fábula (c. 1600) shows a boy blowing on an ember beside a monkey and a man. Its title means fable, which hints at a story or lesson, but scholars do not agree on a single meaning. The strong contrast of light and dark, called chiaroscuro, makes the faces glow while the rest falls into shadow. How does this lighting shape the mood? What different stories could the group of figures suggest?",
+    "g910": "Fábula (c. 1600) by El Greco gathers a boy blowing on an ember, a monkey and a man in a close, dimly lit space. The title means fable, yet the exact narrative or moral is unclear and may draw on older sources. Chiaroscuro concentrates attention on faces and the small point of light. Consider how the arrangement of figures and the glow guides your reading. What interpretations does the painting support, and what limits them?",
+    "g1112": "Fábula (c. 1600) is an unusual late work in which El Greco uses a small ember to light three figures: a boy, a monkey and a man. The title invites allegorical readings, but the precise source or message is debated, and the picture may reward open reading over a single answer. Its chiaroscuro concentrates attention while leaving much in shadow. How do light, gesture and gaze produce meaning without fixed narrative, and which readings feel best supported by what is visible?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where does the light in this picture come from? Show us.",
+      "emotion": "How does this dark picture make you feel, cozy, quiet, or something else?",
+      "observation": "Find the boy, the monkey and the man. Which one do you see first?",
+      "analysis": "What do you think the boy is doing with his breath?",
+      "line": "Trace the curve of the boy's face in the air. What shape do you make?",
+      "shape": "Which round shapes can you find in the picture?",
+      "color": "What color is the glow? Which other colors do you see in the dark?",
+      "texture": "The monkey has fur. How do you think it would feel to touch?",
+      "space": "Who is closest to the glow? Who is a little farther away?",
+      "light": "Where is it the brightest, and where is it the darkest?",
+      "meaning": "A fable is a short story. What kind of story could this be?",
+      "culture": "Long ago people used embers and small fires to make light. How do we make light today?",
+      "technique": "The painter used very dark and very bright paint side by side. How does that make the faces stand out?",
+      "personal": "What would you say to the boy if you were in the picture?",
+      "critical": "What would the picture look like with bright light everywhere? Is it better dark or light?"
+    },
+    "g12": {
+      "daily": "A small glow lights three faces in the dark. How does the painter make the glow feel important?",
+      "emotion": "Does this scene feel secret, calm, or exciting? Point to what makes you feel that.",
+      "observation": "Describe the boy, the monkey and the man. What is each one doing?",
+      "analysis": "How do the boy, the monkey and the man seem connected to each other?",
+      "line": "Follow the shapes of their faces and shoulders. How do they lead your eye to the glow?",
+      "shape": "How do the shapes of the three figures fit close together?",
+      "color": "What warm colors do you see near the glow? What colors fade into the dark?",
+      "texture": "How did the painter make the monkey's fur, the cloth and the skin look different?",
+      "space": "How does the dark background push the figures toward you?",
+      "light": "How does the light from the ember change the way the faces look?",
+      "meaning": "The title means fable. What kind of story do you think this could be?",
+      "culture": "Why might a painter choose to put a monkey in a picture with a boy and a man?",
+      "technique": "El Greco used strong light and dark. How would the picture change without the dark?",
+      "personal": "What would you whisper to someone standing in this glowing circle?",
+      "critical": "Does the painting need a clear story, or is it fun not to know? Explain."
+    },
+    "g35": {
+      "daily": "What can you tell from the boy's face, the monkey and the man about what is happening? Use evidence.",
+      "emotion": "What mood does the dark space and the small glow create?",
+      "observation": "Look closely at the faces and hands. What details help you imagine what each figure is feeling?",
+      "analysis": "How does El Greco use the ember to organize the three figures into one group?",
+      "line": "How do outlines and edges disappear into the dark, and how does that change what you see?",
+      "shape": "How do the overlapping figures form one shape that holds together?",
+      "color": "How do warm tones near the ember contrast with the dark shadows?",
+      "texture": "How does the artist show different textures, like fur, cloth and skin, in dim light?",
+      "space": "How does the painting make the space feel close and crowded?",
+      "light": "Chiaroscuro means strong light and dark. Where do you see it working best?",
+      "meaning": "Fábula means fable. What possible lesson or story could a viewer imagine here?",
+      "culture": "Why might a painter in Spain around 1600 include an animal like a monkey in a picture?",
+      "technique": "What does a painter gain by lighting a picture from a single tiny source?",
+      "personal": "Which figure would you most like to ask a question, and what would it be?",
+      "critical": "The meaning of this painting is not certain. How can you make a good guess from what you see?"
+    },
+    "g68": {
+      "daily": "How do the ember and the dark setting turn three figures into a mysterious story?",
+      "emotion": "What emotions do the glow and the shadows create, and how do the figures' faces add to them?",
+      "observation": "Look again at the relationship between the boy, the monkey and the man. What details suggest how they interact?",
+      "analysis": "How does the composition use overlapping bodies and the central glow to guide your eye?",
+      "line": "Where do you see edges that are crisp and where do they melt into darkness?",
+      "shape": "How does the grouping of the figures create a compact shape, and what effect does that have?",
+      "color": "How does a limited range of warm and dark colors create atmosphere?",
+      "texture": "How are surfaces like skin, fur and cloth suggested within so much shadow?",
+      "space": "How does the dark background make the figures feel pushed toward the viewer?",
+      "light": "How does chiaroscuro work as both a visual effect and a storytelling tool here?",
+      "meaning": "Why might a painter choose a title like fable, and what stories could it hint at without stating them?",
+      "culture": "How might viewers around 1600 have connected a monkey, fire and a boy with stories or sayings they knew?",
+      "technique": "What does painting a single small light source demand from an artist?",
+      "personal": "Which interpretation of the scene do you find most convincing, and what detail anchors it?",
+      "critical": "When scholars disagree about a painting's meaning, how should viewers decide what to believe?"
+    },
+    "g910": {
+      "daily": "How does Fábula use one small source of light to create intimacy, tension and ambiguity at once?",
+      "emotion": "What emotional tone results from the contrast between a tiny glow and an enveloping darkness?",
+      "observation": "Examine the gestures and expressions. What visual evidence supports a reading of cooperation, amusement or something else?",
+      "analysis": "How do the figures' overlapping positions and the glowing center organize the visual hierarchy?",
+      "line": "How do contour and edge control the transition between lit and unlit areas?",
+      "shape": "How does the tight cluster of figures shape the painting's feeling of closeness?",
+      "color": "How does the restricted palette of warm highlights and deep shadows heighten drama?",
+      "texture": "How does El Greco differentiate surfaces under low light, and what does that suggest about his skill?",
+      "space": "How does the shallow, shadowed space compress the figures into a close encounter?",
+      "light": "How does chiaroscuro here concentrate meaning as well as illumination?",
+      "meaning": "What interpretations does the title support, and what visual evidence limits or invites them?",
+      "culture": "How might the painting draw on traditions of allegory or fable, and how can we judge such connections responsibly?",
+      "technique": "How does painting an ember-lit scene differ technically from painting daylight?",
+      "personal": "What does your first impression of this work tell you about how you handle ambiguity?",
+      "critical": "Is a painting weakened or strengthened when its meaning cannot be settled? Argue with evidence."
+    },
+    "g1112": {
+      "daily": "How does Fábula withhold narrative closure while still compelling sustained attention?",
+      "emotion": "How might the juxtaposition of a small point of light and extensive shadow produce differing emotional responses in viewers?",
+      "observation": "Which visual details appear to anchor a narrative reading, and which seem to destabilize it?",
+      "analysis": "Analyze how lighting hierarchy, gesture and gaze structure the relationships among the three figures.",
+      "line": "How does the loosening of contour in shadow affect the legibility of form?",
+      "shape": "How might the tight grouping of figures function as a compositional equivalent to the intimacy of the scene?",
+      "color": "Assess how a narrow range of warm and dark tones contributes to the painting's emotional pitch.",
+      "texture": "How does the painter suggest tactile differences through light alone, and with what degree of conviction?",
+      "space": "How does the compression of space align with, or complicate, the scene's thematic ambiguity?",
+      "light": "How does the painting use chiaroscuro not only to model forms but to propose an argument about attention and perception?",
+      "meaning": "Given that the title points toward allegory while specifics remain uncertain, what interpretive approaches seem most defensible?",
+      "culture": "How might its late sixteenth- and early seventeenth-century context, including interest in classical sources and in artistic virtuosity, help frame this work?",
+      "technique": "What does a work lit by a minimal source reveal about the relationship between technical display and expressive effect?",
+      "personal": "How do you tolerate or enjoy interpretive uncertainty, and how does this painting test that?",
+      "critical": "What standards should we apply when evaluating readings of an image whose meaning remains disputed?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Only the arthistoryproject.com page text was read (title, movement, medium, year, collection, public-domain statement, tags: Monkeys, Chiaroscuro); no concerning terms. The image itself was not visually inspected; a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting from about 1600 by El Greco, held in the Prado Museum in Spain. The source page tags it with monkeys and chiaroscuro. The title means fable and the scene's exact meaning is debated.",
+    "vocabulary": [
+      "chiaroscuro",
+      "fable",
+      "allegory",
+      "light source",
+      "composition",
+      "gesture"
+    ],
+    "directions": [
+      "Have students use a flashlight in a darkened room to light a small group of objects and describe how shadows change the mood.",
+      "Ask students to write two different short stories for the painting, then point to the visual evidence for each.",
+      "Discuss why artists give works titles that suggest a story without telling it."
+    ]
+  }
+}

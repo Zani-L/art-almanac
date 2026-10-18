@@ -1,0 +1,158 @@
+{
+  "id": "met-785523",
+  "day": "06-23",
+  "title": "Robe (Kosode) with Pine, Ivy, Chrysanthemums, and River",
+  "artist": "Artist unknown",
+  "date": "mid-19th century",
+  "medium": "Crepe silk with resist-dyeing and silk- and metallic-thread embroidery",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-21245-005.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-21245-005.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Anonymous Gift, 2018",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Japanese silk robe patterned with pine, ivy, chrysanthemums and a river, with some of the plants picked out in embroidery that includes shiny metallic thread.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/785523",
+    "objectId": "785523",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A kosode, the small-sleeved robe from which the kimono developed, made in Japan in the mid-19th century. It is crepe silk decorated with resist-dyeing and embroidery in silk and metallic thread. Its design combines pine, ivy, chrysanthemums, and a river.",
+  "descriptions": {
+    "k": "This silk robe has a garden on it! Pine trees, ivy leaves, and flowers grow beside a river. Some parts are stitched with shiny thread. Where do you think the water is? Can you find a flower?",
+    "g12": "This silk robe from Japan is covered with a design of pine, ivy, chrysanthemum flowers, and a river. Some parts were dyed and some were sewn with thread, including shiny metal thread. It is like a garden you can wear. Which plant would you look at first?",
+    "g35": "This kosode, made in Japan in the mid-1800s, turns a robe into a landscape. Pine, ivy, chrysanthemums, and a river are combined in one design. The maker used resist-dyeing, which keeps dye out of chosen areas, and added embroidery with silk and metallic thread that catches the light. Why might a designer want parts of the robe to sparkle? How do the plants and river fit together?",
+    "g68": "This mid-19th century kosode combines dyeing and embroidery, two ways of putting images on cloth. Resist-dyeing creates broad areas, while silk and metallic embroidery adds raised detail and shine. The mix of pine, ivy, chrysanthemums, and a river suggests a seasonal landscape. Designs like these sometimes echo poetry or stories, though a specific meaning would need evidence. How do texture and shimmer change the way you read the design?",
+    "g910": "The robe works as a large pictorial surface in which dyeing sets the ground and embroidery adds relief and sparkle. Pine, ivy, chrysanthemums, and a river combine nature motifs common in Edo-period design, and some such combinations may allude to poetry or literature, although this is not something the image alone proves. Consider how metallic thread shifts with light and movement, and how the composition might wrap a moving body rather than hang flat on a wall.",
+    "g1112": "This kosode shows the late Edo-period appetite for rich surface: resist-dyed silk crepe supplemented by silk and metallic-thread embroidery. Its imagery of pine, ivy, chrysanthemums, and a river belongs to a vocabulary of nature motifs that could carry seasonal, literary, or auspicious associations, but attributing one meaning requires evidence we may not have. The reflective thread also complicates photography and display, since the work changes with light and movement. How do material, motif, and viewing conditions shape our reading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you wore this robe, what garden things would you see on your sleeve?",
+      "emotion": "Does this robe feel shiny, calm, or fancy to you? What do you see that tells you?",
+      "observation": "What can you find on this robe? Point to a leaf, a flower, and some water.",
+      "analysis": "Where do your eyes go first on this robe? Why?",
+      "line": "Can you find a curvy line like a river? Trace it in the air.",
+      "shape": "What shapes do the leaves and flowers make?",
+      "color": "What colors do you see? Which ones are shiny?",
+      "texture": "The robe has stitched parts. How do you think stitches would feel under your fingers?",
+      "space": "Where do you think the river is on the robe? What is next to it?",
+      "light": "Some thread is shiny. What happens to shiny thread when the light moves?",
+      "meaning": "If a robe could bring a wish, what would you wish for?",
+      "culture": "People in Japan wore robes like this long ago. What do you wear that has a picture on it?",
+      "technique": "This robe has dye and stitches. Which do you think took longer?",
+      "personal": "If you could wear a garden, which plants would you pick?",
+      "critical": "What part of the robe do you think the maker worked on the hardest?"
+    },
+    "g12": {
+      "daily": "What do you think the maker wanted you to notice on this robe?",
+      "emotion": "What feeling does this garden robe give you? Which parts help?",
+      "observation": "Describe five things you notice on the robe, from plants to water.",
+      "analysis": "How does the design lead your eyes across the cloth?",
+      "line": "Find lines that curve like water or branches. How do they make the robe feel?",
+      "shape": "What shapes do you see repeat? How do the flowers differ from the leaves?",
+      "color": "Which colors are strong and which are soft? Where do you see shine?",
+      "texture": "Which parts look flat from dye and which look raised from stitches?",
+      "space": "How does the designer make a flat robe look like a place with plants and a river?",
+      "light": "How might shiny thread look different when the robe moves in the light?",
+      "meaning": "Why might someone want to wear pine, ivy, and chrysanthemums?",
+      "culture": "Kimono come from robes like this. How is this robe like clothes you wear? How is it different?",
+      "technique": "The maker used dye and sewing. Why might they use both on one robe?",
+      "personal": "What plant is your favorite? How would you put it on clothing?",
+      "critical": "Would you wear this robe or put it in a museum? Tell why."
+    },
+    "g35": {
+      "daily": "How does this design turn a robe into a landscape, and which details show it?",
+      "emotion": "What mood does the design create? Which choices of color, plants, and shine help?",
+      "observation": "Look closely for one minute. What small details of the design did you not see at first?",
+      "analysis": "How does the designer combine pine, ivy, chrysanthemums, and a river into one design?",
+      "line": "How do the shapes of branches, stems, and water create flow across the robe?",
+      "shape": "Which shapes repeat in the design? How do they give it rhythm?",
+      "color": "How do colors and shiny thread work together to make parts of the design stand out?",
+      "texture": "How is embroidery different from dyed areas in how it looks and feels?",
+      "space": "How does the designer suggest a scene even though the robe is a flat piece of cloth?",
+      "light": "How might metallic thread look different in bright and dim light?",
+      "meaning": "Pine and chrysanthemums are often linked to long life. Why might a wearer like these on a robe?",
+      "culture": "Kosode were an important kind of clothing in Edo-period Japan. What can a robe tell us about the person who wore it?",
+      "technique": "Resist-dyeing and embroidery are different techniques. Why might a maker use both on one robe?",
+      "personal": "Think of a pattern that matters to you. How would you place it on a piece of clothing?",
+      "critical": "Museums show robes flat or on a stand. How might the design look different on a person who is moving?"
+    },
+    "g68": {
+      "daily": "How do dyeing and embroidery work together to make this robe more than a pattern?",
+      "emotion": "How do the motifs and shiny thread create a mood of richness? Which elements do the most?",
+      "observation": "Describe how the motifs are arranged on the robe. Where is the design busiest or quietest?",
+      "analysis": "How does the designer plan a landscape for a garment with sleeves, seams, and a body?",
+      "line": "How do flowing lines of river and plant stems guide the eye across the robe?",
+      "shape": "How do large shapes and small details balance one another?",
+      "color": "How does the palette create unity? Where does shine act as accent?",
+      "texture": "How does the difference between flat dye and raised embroidery add depth to the design?",
+      "space": "How does the design balance flat cloth with the sense of a landscape?",
+      "light": "How does the metallic thread change the design as light moves?",
+      "meaning": "Some motifs on robes may refer to poems or stories. How could you tell if a design was doing that? What evidence would you want?",
+      "culture": "What might a richly decorated robe suggest about the person who wore it and the society they lived in?",
+      "technique": "How do resist-dyeing and embroidery differ in method, time, and effect?",
+      "personal": "What clothing in your life has details that reward a close look?",
+      "critical": "How reliable is a museum photograph for understanding a robe designed to catch light and move?"
+    },
+    "g910": {
+      "daily": "How do technique, motif, and materials combine to create the robe's rich surface?",
+      "emotion": "How do sparkle and dense pattern create an atmosphere of luxury, and is that all they do?",
+      "observation": "Describe the visual hierarchy. Which motifs and areas get emphasis, and by what means?",
+      "analysis": "Analyze how the designer composes a landscape for a garment.",
+      "line": "How do flowing contours organize the pine, ivy, chrysanthemum, and river motifs?",
+      "shape": "How do the repeated floral forms interact with the larger forms of the river and pine?",
+      "color": "How does color unify the composition, and how does metallic thread work as a separate accent?",
+      "texture": "How do embroidery and dyed areas produce different surface qualities and levels of relief?",
+      "space": "How does the design suggest depth while preserving the flatness of a textile?",
+      "light": "How does the reflective quality of metallic thread make the garment different from a painting?",
+      "meaning": "What cultural associations could pine, ivy, and chrysanthemum carry, and which claims are firmly documented?",
+      "culture": "How does the robe reflect the roles of textiles and fashion in status and taste in late Edo Japan?",
+      "technique": "How do the combined dye and embroidery processes suggest collaboration among specialists?",
+      "personal": "How does the idea of wearable art change how you think about what clothing can do?",
+      "critical": "How do we weigh the value of labor-intensive textiles against how museums rank art media?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this robe about the relationship between craft, status, and visual narrative, and what remains uncertain?",
+      "emotion": "How does the interplay of dense pattern and shine produce effect, and how might it have worked on a moving body?",
+      "observation": "Describe the robe's construction and design with precision. Where does description begin to shade into interpretation?",
+      "analysis": "Analyze how the design unifies disparate motifs within a single surface.",
+      "line": "How does line operate across dyed and embroidered areas, and how do they differ?",
+      "shape": "How does the interplay of repeated motifs and larger landscape forms structure the composition?",
+      "color": "How might fading or tarnish of metallic thread have changed the robe's original visual effect?",
+      "texture": "How does the contrast between flat dye and raised embroidery complicate the distinction between painting and sculpture?",
+      "space": "How does a design meant to wrap a body challenge picture-plane assumptions?",
+      "light": "How does display lighting alter a work whose metallic threads were designed to change with movement?",
+      "meaning": "Evaluate possible readings of the motifs, such as seasonal, literary, or auspicious. What evidence would support each?",
+      "culture": "How does the kosode reflect the interplay of fashion, status, and literary culture in late Edo society?",
+      "technique": "What does the combination of dyeing and embroidery imply about workshop organization and costs?",
+      "personal": "How does your own experience of clothing as identity shape your reading of an elaborate robe?",
+      "critical": "What are the consequences of presenting garments as detached art objects, and what is lost when the wearer is absent?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Costumes-Embroidered), medium, and tags (none listed) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A mid-19th century kosode in crepe silk with resist-dyeing and embroidery in silk and metallic thread, from the Edo period. The kosode is the forerunner of the modern kimono.",
+    "vocabulary": [
+      "kosode",
+      "resist-dyeing",
+      "embroidery",
+      "motif",
+      "metallic thread",
+      "Edo period"
+    ],
+    "directions": [
+      "Have students design a robe motif set that tells a seasonal story, then explain which parts would be dyed and which stitched.",
+      "Use a flashlight to show how shiny thread changes with light, then discuss how photographs capture only one view.",
+      "Compare with the other robes in the archive to see how designers handle seasons and symbols."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-312785",
+  "day": "05-15",
+  "title": "Sleeveless Tunic",
+  "artist": "Artist unknown (Chimú)",
+  "date": "12th–15th century",
+  "medium": "Cotton, camelid hair",
+  "region": "Chimú culture, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP233564.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP233564.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woven sleeveless tunic made of cotton and camelid hair, about one meter tall and a little over half a meter wide, shown flat with a patterned woven surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312785",
+    "objectId": "312785",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Textiles-Woven), objectName (Tunic), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "A woven sleeveless tunic of cotton and camelid hair made by Chimú weavers on the north coast of Peru between the 12th and 15th centuries. It measures about 101 by 56 centimeters. Camelid hair comes from animals such as llamas and alpacas.",
+  "descriptions": {
+    "k": "This is a tunic, a kind of long shirt without sleeves. Weavers in Peru made it from threads long ago. The threads came from cotton plants and from animals like llamas. What do you see in the cloth?",
+    "g12": "Chimú weavers in Peru made this tunic from cotton and the hair of animals like llamas. It has no sleeves. It is about as tall as a big kid. Threads crossed over and under each other to make the cloth. What do you notice in the weaving?",
+    "g35": "This sleeveless tunic was woven by Chimú artists on the north coast of Peru between the 12th and 15th centuries. The threads are cotton and camelid hair, which comes from animals such as llamas and alpacas. It is about one meter tall. Look for patterns, colors, and edges in the cloth. How does weaving turn thread into a design?",
+    "g68": "Chimú weavers of Peru's north coast combined cotton from plants and hair from camelids, relatives of the llama, to make this tunic. At about 101 centimeters tall, it was made to be worn, and its woven structure builds color and pattern directly into the cloth rather than painting it on afterward. Andean textiles were highly valued, and scholars study them closely for technique, but the record does not say who wore this one or why.",
+    "g910": "In the Andes, cloth was a major art form, and this Chimú tunic of cotton and camelid hair shows the care that weavers gave to garments. Pattern and color are created in the weaving itself, so every decision about structure shapes the image. Cotton and camelid hair behave differently as fibers, which affects how color and texture appear. The record names the culture and materials but not the wearer or use, so interpretations of status or meaning should stay cautious.",
+    "g1112": "This Chimú tunic, dated between the 12th and 15th centuries, belongs to an Andean tradition in which textiles carried enormous social and aesthetic value. Combining cotton with camelid hair joins coastal and highland resources and gives the cloth a distinct surface and color range. Because design is built into the weave, the object records technical decisions as well as visual ones. The record offers no information about wearer or setting, so claims about rank or ritual are speculative, and the tunic is best approached through materials, structure, and form."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at this woven tunic. What is the first thing you notice about it?",
+      "emotion": "Does this tunic feel cozy, fancy, or something else? What makes you think so?",
+      "observation": "What parts of the tunic can you name? Find the neck and the bottom edge.",
+      "analysis": "Where do your eyes travel first on the tunic? Where do they go next?",
+      "line": "Can you find lines in the cloth that go up and down or side to side? Trace one in the air.",
+      "shape": "What shape is the whole tunic? Do you see smaller shapes inside it?",
+      "color": "Which colors do you see in the tunic? Which one do you like best?",
+      "texture": "How do you think this woven cloth would feel on your hands? Soft, rough, or bumpy?",
+      "space": "This tunic is about as tall as a kindergartner. How would it look on a person?",
+      "light": "Where does the woven tunic look pale, and where does it look deep and dark?",
+      "meaning": "Who do you imagine wore a tunic like this? Tell a story.",
+      "culture": "Chimú weavers in Peru made this long ago. What clothes do you wear that were made by weaving?",
+      "technique": "The cloth is made from threads. How do you think someone makes threads into a tunic?",
+      "personal": "If you could design a tunic, what colors would you use?",
+      "critical": "How can you tell this cloth was woven and not painted or printed?"
+    },
+    "g12": {
+      "daily": "What do you find when you look closely at this tunic's weaving? Tell about one detail.",
+      "emotion": "What feeling does this tunic give you: warm, plain, or fancy? Point to what helps you decide.",
+      "observation": "Describe the tunic from the top to the bottom. What do you see along the way?",
+      "analysis": "How does the cloth feel organized? Look for patterns, repeats, or sections.",
+      "line": "Find straight lines made by the threads. Which direction do they go?",
+      "shape": "The tunic is a tall rectangle shape. What smaller shapes can you find inside it?",
+      "color": "Which colors are used, and how do they sit next to each other?",
+      "texture": "The tunic uses cotton and camelid hair. Which parts do you think feel soft or fuzzy?",
+      "space": "The tunic is almost a meter tall. How would it fit on a person's body?",
+      "light": "Imagine light on the cloth. Which colors would look brighter, and which would look darker?",
+      "meaning": "Why might a weaver put extra care into making a tunic?",
+      "culture": "Camelid hair comes from animals like llamas. Why might people in Peru use it for clothes?",
+      "technique": "Weaving means threads cross over and under each other. How does this make cloth?",
+      "personal": "What piece of clothing do you own that feels special? Why?",
+      "critical": "The record does not tell us who wore this tunic. What clues would help us find out?"
+    },
+    "g35": {
+      "daily": "What clues in the woven surface show the weaver's care and skill?",
+      "emotion": "What mood do the colors and patterns of the tunic create? Which details support your idea?",
+      "observation": "Look closely for one minute. List the colors, patterns, and edges you notice.",
+      "analysis": "How does the weaver arrange color and pattern across the tunic so it looks balanced?",
+      "line": "How do the lines made by threads help organize the cloth into parts?",
+      "shape": "How does the tunic's tall rectangular shape affect how patterns can be placed?",
+      "color": "How do the colors in the tunic work together? Which ones stand out and which ones support?",
+      "texture": "Cotton and camelid hair are different fibers. How might each add its own look or feel?",
+      "space": "A tunic is made to wear, so it has a front, a back, and an opening for the head. How does that change how you look at it?",
+      "light": "How does the woven surface break up light, compared with a smooth painted surface?",
+      "meaning": "The record does not say what the tunic meant to the wearer. What can you learn from only the cloth itself?",
+      "culture": "Cloth was very important in the Andes. What does this tunic suggest about how the Chimú valued weaving?",
+      "technique": "In weaving, color and pattern are made as the cloth is built. Why is that different from painting a finished cloth?",
+      "personal": "What clothing do people in your family make or choose carefully? What does it say about them?",
+      "critical": "Why might fabric survive less often than pottery or metal? What does that mean for what we know about weavers?"
+    },
+    "g68": {
+      "daily": "How does the structure of this tunic show the weaver's decisions about material, color, and pattern?",
+      "emotion": "How can a garment, without a face or figure, still create a strong mood? Use evidence from the cloth.",
+      "observation": "List what you can see in the tunic from the edge to the center. What patterns repeat and what changes?",
+      "analysis": "How does the arrangement of pattern and color guide the eye across a tall, narrow garment?",
+      "line": "How do the horizontal and vertical lines of the weave give the cloth its structure and rhythm?",
+      "shape": "How does the garment's simple shape leave room for complex surface design?",
+      "color": "How might the choice of cotton versus camelid hair affect the colors a weaver can show?",
+      "texture": "How do two kinds of fiber create a surface with variety, even in a flat cloth?",
+      "space": "How would wearing the tunic change it from a flat object into one that moves with a person?",
+      "light": "How might light and movement affect how woven color reads across the surface?",
+      "meaning": "Why should we be careful about claiming a tunic marked status without a record of who wore it?",
+      "culture": "Why might Andean communities invest so much time in cloth as a form of value?",
+      "technique": "How do weavers plan a pattern before building it thread by thread?",
+      "personal": "How does making something slowly by hand change how you value it?",
+      "critical": "How do museums preserve and display fragile cloth, and what is lost when it is shown flat?"
+    },
+    "g910": {
+      "daily": "How do material, structure, and design interact in this tunic, and what does that reveal about the weaver's priorities?",
+      "emotion": "How might a garment's scale and surface convey presence even without figures?",
+      "observation": "Describe the tunic's visual organization, including repetition, sections, and edges, and note which details require close study.",
+      "analysis": "Analyze how the garment's form constrains and enables the arrangement of its design.",
+      "line": "How do the vertical and horizontal directions of warp and weft function as an underlying grid for the design?",
+      "shape": "How does the tunic's simple geometry relate to the ways Andean weavers organized pattern?",
+      "color": "How does the combination of cotton and camelid hair expand the possibilities of color and surface?",
+      "texture": "How does fiber choice produce differences in sheen, softness, and visual density?",
+      "space": "How does a worn garment occupy space differently from a hanging textile or a painting?",
+      "light": "How does the weave's fine structure scatter light, and how might that have been valued?",
+      "meaning": "What distinguishes a supported interpretation of Chimú textiles from speculation, given limited documentation?",
+      "culture": "How does the combination of coastal cotton and highland camelid fiber point to connections among Andean environments?",
+      "technique": "What does the labor involved in spinning, dyeing, and weaving suggest about the value of this garment?",
+      "personal": "How do garments you value hold memory or identity, and how might that help you think about this tunic?",
+      "critical": "How do collecting histories shape which textiles survive in museums, and how might this affect our picture of Chimú art?"
+    },
+    "g1112": {
+      "daily": "What can be established about this tunic from material and form, and what would require evidence the record does not supply?",
+      "emotion": "How does the aesthetic force of a textile arise from structure and repetition rather than depiction?",
+      "observation": "Describe the tunic's construction precisely before interpreting. Which descriptive terms carry hidden assumptions?",
+      "analysis": "Analyze how the textile's grid-like structure becomes a framework for visual design, and what this suggests about Andean thinking about cloth.",
+      "line": "How does the logic of warp and weft shape the kinds of lines and edges available to a weaver, compared with a painter?",
+      "shape": "How might the shape of the garment itself be part of its design rather than a neutral support?",
+      "color": "What is the relationship between fiber, dye, and color perception, and how might aging complicate what we see today?",
+      "texture": "In what ways do fibers record environment, such as coastal cotton and animal hair from higher regions?",
+      "space": "How does a textile's meaning depend on being worn, folded, stored, or displayed, and which of these do we see in a museum?",
+      "light": "How do museum display conditions, which limit light to protect fibers, change our encounter with this object?",
+      "meaning": "Evaluate how scholars interpret Andean textile design without written records, and what limits apply to this tunic.",
+      "culture": "How does the Chimú label describe a society that was conquered by the Inca, and what does that history complicate?",
+      "technique": "What can the complexity of a woven object tell us about labor organization, training, and the transmission of knowledge?",
+      "personal": "How do contemporary ideas about handmade cloth, fashion, or craft shape your reading of an ancient garment?",
+      "critical": "Who should have a voice in how Andean textiles are described and cared for, and why does that matter for museum practice?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Woven), objectName (Tunic), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected, and the woven design is not described in the record, so a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Chimú lived on the north coast of Peru and were later incorporated into the Inca empire. This tunic is cotton and camelid hair; the record gives no information about its pattern, wearer, or use.",
+    "vocabulary": ["Chimú", "tunic", "camelid", "warp and weft", "weaving", "fiber"],
+    "directions": [
+      "Have students weave paper strips over and under to model warp and weft.",
+      "Ask students to compare cotton and wool fabrics in the classroom for feel and look.",
+      "Discuss why cloth survives less often than pottery and how that shapes what we know."
+    ]
+  }
+}

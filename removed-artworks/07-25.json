@@ -1,0 +1,158 @@
+{
+  "id": "met-501163",
+  "day": "07-25",
+  "title": "Arched Harp",
+  "artist": "Artist unknown",
+  "date": "19th century",
+  "medium": "Wood, skin, gut, fiber",
+  "region": "Possibly Fang people, Gabon",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/233306.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/233306.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wooden arched harp with a long, curved neck rising from a body covered in skin, with strings stretched between them. It is shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501163",
+    "objectId": "501163",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "An arched harp from Gabon, possibly made by the Fang people, dated to the 19th century and made of wood, skin, gut, and fiber. In an arched harp, the strings run from the body up to a curved neck. This instrument is about 66 centimeters long. The museum acquired it in 1889 as part of the Crosby Brown Collection of Musical Instruments.",
+  "descriptions": {
+    "k": "This is a harp. It makes music when you pluck the strings. The neck bends in a big curve. A person in Central Africa made it long ago. Can you find the strings? What sound do you think they make?",
+    "g12": "This is an arched harp from Central Africa. The neck curves like a bow. Strings stretch from the curved neck to the body, which is covered with skin. A player plucks the strings to make music. Can you follow one string with your eyes? What sound might it make?",
+    "g35": "An arched harp has a neck that curves up from a body. This one, from Gabon in Central Africa, was possibly made by the Fang people in the 1800s. The body is covered in skin, and the strings are made of gut and fiber. Players pluck the strings to make music. Look closely at the curve of the neck. How does the shape help the harp work and look beautiful?",
+    "g68": "This arched harp was made in Gabon in the 19th century, possibly by Fang makers; the museum is cautious about that attribution. Its materials, wood, skin, gut, and fiber, were all natural, and the shape is both functional and graceful: the curved neck holds the strings under tension while the skin-covered body helps the sound carry. We cannot hear this harp in a museum case, so the shape and materials must help us imagine its sound. What features of the instrument suggest the sound it may have made?",
+    "g910": "Arched harps appear across Africa, and this 19th-century example, possibly Fang, from Gabon, shows how an instrument can unite structure and sculpture. The curved neck, the skin-covered body, and the strings of gut and fiber create a form determined by tension and sound, yet its curve has a clear visual appeal. The museum acquired the harp in 1889, which means we know its 19th-century origin but little about the player. How does an instrument's form reflect its job, and what is lost when we can only view it silently?",
+    "g1112": "A harp in a museum is a silent object, and this arched harp, possibly Fang and from Gabon, invites reflection on that silence. Its structure, a curved neck, skin-covered body, and strings of gut and fiber, is shaped by acoustics and tension, but the choices of proportion and finish reflect makers' and players' tastes. The museum acquired it in 1889, and the record gives no information about its musician or use. How can we read an instrument's design as evidence of sound and culture while acknowledging that the music itself is missing from the museum record?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the strings on the harp? Point to them.",
+      "emotion": "Does the harp look gentle, strong, or something else? Why?",
+      "observation": "What parts of the harp can you find? Point to three.",
+      "analysis": "Where do your eyes go first on the harp? Where do they go next?",
+      "line": "Can you find the big curved line of the neck? Trace it in the air.",
+      "shape": "What shapes make up the harp? Look for curves and long lines.",
+      "color": "What colors do you see on the harp? Which one do you see the most?",
+      "texture": "The harp has wood, skin, and string. Which parts do you think feel smooth, and which feel different?",
+      "space": "The strings go across empty space between the neck and the body. Where do you see that space?",
+      "light": "Which parts of the harp look bright and which look dark?",
+      "meaning": "What kind of music do you think this harp played? Make up a sound with your voice.",
+      "culture": "Someone in Gabon in Central Africa made this harp. What instruments do you hear in your community?",
+      "technique": "The strings are pulled tight. What happens to a string when you pluck it?",
+      "personal": "What sound do you like best? How would you play it on a harp?",
+      "critical": "We cannot hear this harp in a museum. What can we learn by looking only?"
+    },
+    "g12": {
+      "daily": "How does the harp's shape help it make music? Point to details.",
+      "emotion": "What feeling do you get from this instrument? Show what makes you feel that way.",
+      "observation": "Describe three parts of the harp, from the neck to the strings to the body.",
+      "analysis": "How do the neck, strings, and body fit together to make one instrument?",
+      "line": "Follow the strings with your finger. Are they straight, curved, or both?",
+      "shape": "The neck curves like a bow. What other shapes do you see on the harp?",
+      "color": "What colors do you see in the wood and the strings of the harp? How do they look together?",
+      "texture": "Which parts look smooth, and which look rough? How would you tell by looking?",
+      "space": "Look at the space inside the curve of the harp. How does it change how the harp looks?",
+      "light": "Where do you think light would hit the harp first? Where might there be shadows?",
+      "meaning": "Why do people make music? Tell about a time music made you feel something.",
+      "culture": "Harps are played in many places in Africa. Why might people in different places make instruments that look alike?",
+      "technique": "Strings are pulled tight to make sound. Why might the neck need to be strong?",
+      "personal": "Do you play an instrument or sing? What do you like about it?",
+      "critical": "Is this harp more like a tool, a sculpture, or both? Give a reason."
+    },
+    "g35": {
+      "daily": "How do the shapes and materials of this harp work together to make an instrument for music?",
+      "emotion": "What mood does the harp's shape give you? Which details create it?",
+      "observation": "Look for one quiet minute. What small details do you notice that you missed at first?",
+      "analysis": "How do the curved neck and the body balance each other?",
+      "line": "How do the curved line of the neck and the straight lines of the strings work together?",
+      "shape": "How does the arch of the neck give the harp its special shape? What other shapes do you find?",
+      "color": "How do the natural colors of wood and skin make the harp look? What might the colors tell you about its materials?",
+      "texture": "The harp uses wood, skin, gut, and fiber. How might each material feel different?",
+      "space": "How does open space between the neck and the body become part of the harp's design?",
+      "light": "How might light and shadow help show the curve of the neck?",
+      "meaning": "The museum says this harp was 'possibly' made by the Fang people. Why might the museum use that word?",
+      "culture": "Music is important in many cultures. What can an instrument tell us about the people who made and played it?",
+      "technique": "Strings made of gut and fiber must be tight to make sound. How might the maker plan the harp so it can stay strong?",
+      "personal": "What music do you listen to at home? How would an instrument like this change your music?",
+      "critical": "A museum case keeps the harp silent. How could you learn what it sounds like?"
+    },
+    "g68": {
+      "daily": "How does the harp's form show the relationship between structure and sound?",
+      "emotion": "What qualities, such as grace or strength, does the harp express, and what evidence in its shape supports your answer?",
+      "observation": "Describe the harp's structure from neck to body. What details are easy to overlook?",
+      "analysis": "How does the arch of the neck balance the body, and how does this balance suit the instrument's job?",
+      "line": "How do the curved neck and straight strings create contrast in the design?",
+      "shape": "How does the harp combine a bow-like curve with the shape of its body?",
+      "color": "What do the colors of the wood and skin suggest about the materials and how they have aged?",
+      "texture": "How would the surfaces of wood, skin, and strings feel different, and how do those differences appear in the picture?",
+      "space": "How does the empty space inside the curve of the harp become part of its design?",
+      "light": "How might light on the skin and wood help reveal the instrument's form?",
+      "meaning": "What can the shape of an instrument tell us about its sound, and what can it not tell us?",
+      "culture": "Why might different regions develop similar instrument types, such as the harp, independently?",
+      "technique": "What skills would a maker need to build an instrument that holds tension and makes sound?",
+      "personal": "How does music shape your daily life, and how might an instrument like this fit into someone else's?",
+      "critical": "What information would a museum need to share to help visitors understand how this harp was played?"
+    },
+    "g910": {
+      "daily": "How does the harp unite acoustic structure and visual form?",
+      "emotion": "How does the harp's curved shape give the object a sense of grace, even when silent?",
+      "observation": "Describe the harp's visual hierarchy. What draws your eye first, and which devices make that happen?",
+      "analysis": "Analyze how the neck, strings, and body relate in the instrument's overall design.",
+      "line": "How do the arching neck and the taut strings create a contrast of curved and straight lines?",
+      "shape": "How does the harp's silhouette reflect the way tension and resonance determine form?",
+      "color": "How do the natural materials create a restrained palette, and how does age affect it?",
+      "texture": "How do contrasts among wood, skin, gut, and fiber produce a layered tactile quality?",
+      "space": "How does the negative space inside the harp's arch contribute to its form?",
+      "light": "How might the instrument's materials respond differently to light, such as the skin and the wood?",
+      "meaning": "What assumptions do we bring to an instrument when we cannot hear it, and how might they limit our understanding?",
+      "culture": "How does the harp's attribution to 'possibly Fang' illustrate the challenges of identifying makers in historic collections?",
+      "technique": "How does the choice of natural materials affect the instrument's sound and durability?",
+      "personal": "How do instruments or sounds in your life carry meaning that a silent image cannot?",
+      "critical": "What are the limits of studying a musical instrument in a gallery rather than in performance?"
+    },
+    "g1112": {
+      "daily": "What does the harp's construction suggest about the relationship of design, sound, and use, and what remains unknown?",
+      "emotion": "How does an instrument's silence in a museum case alter its emotional presence?",
+      "observation": "Describe the harp with precision. Where does description need information the record does not give?",
+      "analysis": "Analyze the interdependence of form and function in the harp's structure.",
+      "line": "How do curve and tension define the harp's formal logic?",
+      "shape": "How does the harp's silhouette compare with other arched harps, and what might those relationships suggest about regional traditions?",
+      "color": "How might the aging of skin and wood affect our impression of the instrument's original appearance?",
+      "texture": "How do material qualities of skin, wood, gut, and fiber influence both sound and visual texture?",
+      "space": "How does the open structure of the harp shape the way sound and sight interact?",
+      "light": "How might museum lighting change the apparent materiality of an instrument designed for use?",
+      "meaning": "How should researchers handle the gap between an instrument's visible features and the musical practices that gave it meaning?",
+      "culture": "What does the museum's tentative attribution, 'possibly Fang,' suggest about how collections were assembled in the 19th century?",
+      "technique": "How might the choice and treatment of natural materials reflect both local resources and musical knowledge?",
+      "personal": "How does your own musical background shape the way you imagine this harp's sound?",
+      "critical": "What might audio, video, or collaboration with musicians add to the museum's presentation of an instrument like this?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Arched Harp), classification (Chordophone-Harp), object name (Arched Harp), medium (wood, skin, gut, fiber), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An arched harp attributed to the Fang people, possibly, of Gabon, made in the 19th century and collected by 1889. The record gives limited information about who played it or how, so avoid asserting a specific musical or ceremonial use.",
+    "vocabulary": [
+      "harp",
+      "arched",
+      "string",
+      "tension",
+      "resonance",
+      "gut"
+    ],
+    "directions": [
+      "Experiment with rubber bands stretched over a box: how does tension change pitch?",
+      "Have students sketch the harp's curve and compare it with a bow, then discuss how shape and function relate.",
+      "Listen to recordings of harps from different cultures and discuss how an instrument's form might shape its sound."
+    ]
+  }
+}

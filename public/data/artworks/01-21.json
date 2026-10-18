@@ -1,0 +1,157 @@
+{
+  "id": "met-12345",
+  "day": "01-21",
+  "title": "Sunset",
+  "artist": "John Singer Sargent",
+  "date": "1905–6",
+  "medium": "Watercolor, gouache, and graphite on white wove paper",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT235916.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT235916.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Francis Ormond, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small landscape painted in watercolor showing the sky and land at sunset, with glowing colors in the sky and darker tones below. Soft, loose brushwork lets some of the white paper show through.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/12345",
+    "objectId": "12345",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Landscapes), and image URLs read from the record"
+  },
+  "context": "A watercolor by John Singer Sargent, an American artist born in Florence who is best known for portraits in oil. In his later years he painted many watercolors on his travels, often as personal studies rather than for sale. The Met's record lists watercolor, gouache (opaque watercolor), and graphite.",
+  "descriptions": {
+    "k": "The day is ending, and the sky is glowing. The artist used watery paint, so the colors look soft and wet. Can you find the lightest place and the darkest place? How does this sky make you feel?",
+    "g12": "John Singer Sargent painted this sunset with watercolor. Watercolor is paint mixed with lots of water, so colors can spread and blend. Look at how the sky glows and how the ground below looks darker. Some white paper is left bare. What time of day does this feel like?",
+    "g35": "John Singer Sargent was an American artist who often painted portraits, but he also loved painting quick, free watercolors like this one. He used watercolor, a little gouache (an opaque kind of watercolor), and pencil. Look at how the glowing sky meets the darker land. Which colors seem warmest? What clues in the brushstrokes tell you the artist worked quickly?",
+    "g68": "Sargent made this watercolor in 1905–6. Late in his career he painted many small landscapes like it, often as personal studies. A sunset is a challenge because the light changes minute by minute, so the painter must work quickly and decide what to keep. Notice how wet color seems to bleed into color, and where bare paper shines through. How might speed and chance help create the feeling of fading light?",
+    "g910": "In Sunset, Sargent uses watercolor, gouache, and graphite to catch a short-lived effect of light. Watercolor is transparent and hard to correct, so each brushstroke commits the painter to a choice; gouache can add opaque touches. Look at how the glowing sky and the darker land below organize the sheet, and how unpainted paper can act as light. Consider how this informal, travel-era work differs from the polished portraits that made Sargent famous.",
+    "g1112": "Sargent's Sunset belongs to the large body of watercolors he made later in his career, often outside the demands of portrait commissions. The medium here, transparent watercolor with gouache and graphite, favors speed and suggestion over description. The sheet records an impression of light rather than a detailed place; the Met's record names no location, so viewers should be cautious about assigning one. Consider how the work balances spontaneity and control, and what we gain or lose when a painting of a fleeting moment becomes a museum object."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could step into this sunset, what would you hear and feel?",
+      "emotion": "Does this sky feel sleepy, happy, or something else? Show us with your face.",
+      "observation": "Look at the sky for a long time. What colors can you find in it?",
+      "analysis": "What part of this painting do your eyes visit first? What made you look there?",
+      "line": "The artist painted with soft, wet strokes. Can you wave your hand the way a brush might move across the sky?",
+      "shape": "Where the sky meets the ground, what shapes do you see? Draw one in the air.",
+      "color": "Which color in this sunset is your favorite? Where do you find it?",
+      "texture": "The paint looks wet and runny. How would it feel if you touched it when it was fresh?",
+      "space": "What is far away in this picture, and what is closer to you?",
+      "light": "Where is the brightest, glowing place? Where is the light fading?",
+      "meaning": "What do you think happens after the sun goes down in this place?",
+      "culture": "People all over the world watch the sun set. What do you or your family do when the day ends?",
+      "technique": "This painter used lots of water with the paint. What happens to a color when you add water?",
+      "personal": "Where have you seen a sunset? Tell a friend about it.",
+      "critical": "Some paper is left white on purpose. Why might the artist leave some places unpainted?"
+    },
+    "g12": {
+      "daily": "Sargent painted this sunset quickly. What parts look fast and loose, and what parts look careful?",
+      "emotion": "Is this sunset calm, sad, or full of joy to you? Point to a color that helps you decide.",
+      "observation": "List four different colors you find in the sky and the land. Where is each one?",
+      "analysis": "How do the sky and the ground work together to make this picture feel balanced?",
+      "line": "Are there more hard edges or soft edges here? Show one of each and tell how they feel different.",
+      "shape": "Find a big shape and a small shape in this landscape. How are they different?",
+      "color": "Which colors feel warm and which feel cool? How do they sit side by side?",
+      "texture": "Where is the sunset paint thin and watery enough to see the paper glow through?",
+      "space": "How does the artist show that some parts are far away? Look at color and detail.",
+      "light": "Where is the light strongest in this painting? How can you tell the day is ending?",
+      "meaning": "What story could happen at this place at the end of the day?",
+      "culture": "Sargent traveled to many countries and painted what he saw. Why might an artist want to paint places they visit?",
+      "technique": "Watercolor can run and blend. Where can you spot colors mixing together on the paper?",
+      "personal": "Think of your favorite time of day. How would you paint it with just three colors?",
+      "critical": "The artist did not paint every little detail. Does that make the picture better or worse? Why?"
+    },
+    "g35": {
+      "daily": "What do you notice in this watercolor that tells you the artist was trying to catch a moment before it changed?",
+      "emotion": "How would you describe the mood of this sunset? Which colors and brushstrokes create that mood?",
+      "observation": "Take a quiet minute to look. What small areas of color or bare paper did you notice only after looking longer?",
+      "analysis": "How does Sargent divide the picture between the glowing sky and the darker land? What does that arrangement do for the viewer?",
+      "line": "This painting uses few clear outlines. Where do you see edges made by color changes instead of lines?",
+      "shape": "Which shapes in the picture look planned, and which look like they happened as the wet paint spread?",
+      "color": "How do the warm and the darker colors affect each other? Give evidence from the sky and the land.",
+      "texture": "The Met lists graphite and gouache as well as watercolor. Where might the surface look different because of a different material?",
+      "space": "How does Sargent suggest distance without drawing much detail? Look at color, size, and sharpness.",
+      "light": "How does the painter make the sky seem to glow when the paint is only color on paper?",
+      "meaning": "A sunset can stand for the end of something or for rest. What idea does this painting bring to your mind, and why?",
+      "culture": "Many artists, in many places, have painted sunsets. Why do you think this subject appeals to people across cultures?",
+      "technique": "Watercolor is hard to correct. How might that change the way an artist works on a sunset?",
+      "personal": "Tell about a time you stopped to watch the sky change. How does this painting match or differ from your memory?",
+      "critical": "Is a sunset painted in a few minutes less important than a detailed portrait? Give reasons for your view."
+    },
+    "g68": {
+      "daily": "How does Sargent make a few washes of color feel like a particular moment of fading light?",
+      "emotion": "What feelings does the painting suggest, and how do the dissolving edges and glowing colors support them?",
+      "observation": "Describe the painting from top to bottom. Which areas are most detailed and which are barely suggested?",
+      "analysis": "How does the division of the sheet into sky and land guide your eye and set the balance of the composition?",
+      "line": "With so little linear drawing, how do edges and direction still appear? Where do you see traces of graphite or brush movement?",
+      "shape": "How do broad shapes of color replace detailed forms here? What is gained by simplifying?",
+      "color": "How do warm and cool areas push and pull against each other, and how does that create atmosphere?",
+      "texture": "How does the paper itself contribute to the surface of this work, especially where it shows through the paint?",
+      "space": "How does atmosphere, rather than precise perspective, create a sense of depth in this landscape?",
+      "light": "How can a painter show glowing light when white paper is the brightest tone available? Where does Sargent use that idea?",
+      "meaning": "The Met's record does not name a place. What do you think the painting is about if it is not about a specific location?",
+      "culture": "Sargent was an American who lived and worked in Europe and traveled widely. How might travel shape what an artist chooses to paint?",
+      "technique": "What are the advantages and risks of using transparent watercolor with touches of gouache for a subject like this?",
+      "personal": "What fleeting moments in your own day would you want to capture quickly, and what tools would you use?",
+      "critical": "Is this finished or a sketch? What evidence in the sheet supports each view, and does the difference matter?"
+    },
+    "g910": {
+      "daily": "What formal choices make this sheet read as light and time rather than as a description of a place?",
+      "emotion": "How does Sargent evoke mood with so little descriptive detail? Which painterly devices carry that feeling?",
+      "observation": "Describe the hierarchy of the sheet: which areas command attention, and which recede?",
+      "analysis": "How does the relation between luminous sky and darker land structure the composition and its emotional effect?",
+      "line": "In the absence of strong contour, how do the edges of washes and any graphite marks organize the image?",
+      "shape": "How do large, simplified shapes allow the work to feel both abstract and recognizable as a landscape?",
+      "color": "How does Sargent use chromatic contrast and gradation to make the sky appear to radiate?",
+      "texture": "How do the transparent washes, any opaque gouache, and the visible paper combine to create the surface?",
+      "space": "How does the work suggest depth through atmospheric effects, and where does it remain deliberately flat?",
+      "light": "Watercolor often treats the paper as light. Where does reserved or lightly covered paper do that work here?",
+      "meaning": "Does the painting seem to record a place, a feeling, or an experiment with the medium? What evidence supports your reading?",
+      "culture": "How might Sargent's reputation as a portraitist shape the way viewers approach his informal landscape watercolors?",
+      "technique": "How do the working properties of watercolor, gouache, and graphite shape the order and speed in which this sheet might have been made?",
+      "personal": "How does looking at a quick, unfinished-looking work change what you expect from art?",
+      "critical": "If the title were different, how might your reading of the sheet change? What does the title Sunset direct you to see?"
+    },
+    "g1112": {
+      "daily": "Where does this work sit between observation and abstraction, and what visual evidence places it there?",
+      "emotion": "How does the sheet generate feeling through tonal and chromatic relationships rather than through narrative or figures?",
+      "observation": "Describe the sheet's physical facts, such as washes, paper, and any graphite, before interpreting. Where does description begin to shade into judgment?",
+      "analysis": "How do the sheet's divisions, edges, and contrasts of value produce a structure that holds without detailed drawing?",
+      "line": "How does the work redefine contour through the boundaries of washes, and what role might graphite play?",
+      "shape": "How might the reduction of landscape to broad masses relate to the wider interest of artists around 1900 in simplified form?",
+      "color": "Consider the relationship between local color and perceived color in a sunset. How does the painting handle that tension?",
+      "texture": "How does the interaction between pigment and paper establish a tactile, material presence that a reproduction may flatten?",
+      "space": "How do tonal gradations and edges produce a space that is experienced rather than measured?",
+      "light": "In what sense is light in watercolor a subtractive achievement, and how does this sheet exemplify or complicate that idea?",
+      "meaning": "The Met's record gives no location. How does that absence affect the claims one can responsibly make about the work's meaning?",
+      "culture": "How do private, travel-era watercolors complicate the picture of Sargent as a society portraitist, and what might that reveal about the roles of public and personal work?",
+      "technique": "What does the combination of transparent and opaque water-based media suggest about the practical choices of a skilled watercolorist working quickly?",
+      "personal": "How do your own habits of looking, such as photographing sunsets, shape what you expect a painted sunset to do?",
+      "critical": "Should a sheet made as an informal study be evaluated by the standards used for exhibition pieces? Argue from the work itself."
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Sunset), tags (Landscapes), medium, and classification checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Sargent is best known for society portraits in oil, but he made hundreds of watercolors on his travels. The Met's record for this sheet gives no location.",
+    "vocabulary": [
+      "watercolor",
+      "gouache",
+      "graphite",
+      "wash",
+      "atmosphere",
+      "reserved paper"
+    ],
+    "directions": [
+      "Have students paint a quick sunset with only three colors and a lot of water, leaving some paper white.",
+      "Ask students to compare how a fast watercolor and a slow oil painting from the archive might feel different.",
+      "Discuss why the Met record gives no place name and what we can say about a work without that information."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "artic-131815",
+  "day": "10-03",
+  "title": "Krishna Fluting for the Gopis",
+  "artist": "Artist unknown (India, Rajasthan, Jodhpur)",
+  "date": "Late 18th or early 19th century",
+  "medium": "Opaque watercolor, gold and tin alloy on paper",
+  "movement": "Rajput painting (Jodhpur school)",
+  "region": "India (Rajasthan, Jodhpur)",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/26dffbf4-b8b4-889a-8faf-a9366d8114dd/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Marilynn B. Alsdorf",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A richly colored Indian painting of the blue-skinned god Krishna playing a bamboo flute among women cowherds in a lush grove, with a silver stream filled with fish and lotus flowers and pairs of waterfowl on the bank.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/131815",
+    "objectId": "131815",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2014.1193, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A Rajput painting from Jodhpur in Rajasthan, India, made in the late 1700s or early 1800s with opaque watercolor, gold, and tin alloy on paper. The Art Institute describes the blue-skinned god Krishna playing a bamboo flute in a lush grove for the gopis, women cowherds, beside a silver stream with leaping fish and blooming lotuses.",
+  "descriptions": {
+    "k": "A blue-skinned god named Krishna plays a flute in a green grove. Women listen. A silver stream has fish and flowers. Can you find the pairs of birds by the water? Pretend to play a flute.",
+    "g12": "Krishna, a god in Hindu stories, plays a bamboo flute for his friends in a lush garden. The stream is full of fish and lotus flowers, and pairs of birds sit on the bank. The leaves look like thumbprints. What sounds do you imagine?",
+    "g35": "This painting from Jodhpur in India shows Krishna playing a bamboo flute for the gopis, who are women cowherds, in a lush grove. A silver stream has leaping fish and blooming lotuses, and pairs of waterfowl gather on the bank. The leaves look like thumbprints. How does the painter use details to make the scene feel alive?",
+    "g68": "Painted in Jodhpur in the late 1700s or early 1800s, this scene shows the blue-skinned Krishna charming the gopis with his bansuri flute. The gopis' love for Krishna is a metaphor for devotion, and the pairs of waterfowl echo that theme. The thumbprint foliage is typical of Jodhpur painting. How do details like pairs of birds add meaning to the scene?",
+    "g910": "In this Jodhpur painting (late 18th or early 19th century), Krishna plays the bansuri flute among gopis in a lush grove, with a silver stream of fish and lotuses. The gopis' attachment (bhakti) to Krishna stands for the devotee's love for the divine, a theme echoed in the pairs of waterfowl. The stylized thumbprint foliage is a regional signature. How do symbolism and decoration work together in devotional art?",
+    "g1112": "This Jodhpur painting (late 18th or early 19th century) depicts Krishna charming the gopis with his bansuri in a lush grove, a stream of fish and lotuses at their feet. The gopis' infatuation figures bhakti, the devotee's unconditional attachment to the divine, a theme repeated in pairs of waterfowl; thumbprint foliage marks Marwar's distinctive idiom. How do the painting's decorative richness and layered symbolism shape devotional experience, and how should viewers approach religious imagery from outside its tradition?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which person is Krishna? What is he playing?",
+      "emotion": "Does this garden feel peaceful or noisy? What do you see that tells you?",
+      "observation": "Find the stream. What lives in it?",
+      "analysis": "Why do you think the pairs of birds are by the water?",
+      "line": "Trace the winding stream with your finger. Which way does it go?",
+      "shape": "What shapes do the leaves and flowers make?",
+      "color": "Which colors do you see most? What color is Krishna's skin?",
+      "texture": "What do the leaves remind you of? Look at their tiny marks.",
+      "space": "Which things are close to you and which are far away?",
+      "light": "Where do you see the shiny gold or silver parts?",
+      "meaning": "Why might people paint stories about music?",
+      "culture": "What songs or music do you like to listen to?",
+      "technique": "The painter used tiny brushes and gold. How might that be careful work?",
+      "personal": "If you could play any instrument in a garden, which would you play?",
+      "critical": "What would you add to this garden?"
+    },
+    "g12": {
+      "daily": "Which figure is Krishna? What is he playing?",
+      "emotion": "Does this garden feel lively, calm, or magical? Show us what you see that tells you.",
+      "observation": "Point to the stream. What do you see in it?",
+      "analysis": "Why do you think the painter drew pairs of birds near the water?",
+      "line": "Follow the shape of the stream. Which way does it flow?",
+      "shape": "Which shapes do the leaves and lotus flowers make?",
+      "color": "Which color is Krishna? Which colors are around him?",
+      "texture": "The leaves look like thumbprints. How would you describe them?",
+      "space": "Which things look close to you, and which look farther away?",
+      "light": "Where do you see shiny silver or gold in the painting?",
+      "meaning": "Why do you think people paint stories about music?",
+      "culture": "What kinds of music make you feel happy?",
+      "technique": "The painter used tiny brushes and shiny metal. Why might that take care?",
+      "personal": "If you were in this garden, what would you do?",
+      "critical": "What would you add to the painting?"
+    },
+    "g35": {
+      "daily": "What clues tell you this is a special place and a special moment?",
+      "emotion": "What mood do the rich colors and the music give the painting?",
+      "observation": "Describe who is in the painting and what they are doing.",
+      "analysis": "Why do you think Krishna stands out from the other figures?",
+      "line": "How does the winding stream lead your eyes through the scene?",
+      "shape": "How do the rounded leaves repeat across the painting?",
+      "color": "How does the blue color of Krishna stand out from the greens around him?",
+      "texture": "How can you tell the painter used shiny metal as well as paint?",
+      "space": "How does the painting show a deep garden even though it looks flat?",
+      "light": "Where does the silver of the stream catch your eye?",
+      "meaning": "The museum says the birds in pairs echo a theme of devotion. What might paired animals suggest?",
+      "culture": "This painting is from Jodhpur in Rajasthan, India. What might life have been like there long ago?",
+      "technique": "Why might a painter use tiny dots and thumbprint shapes for leaves?",
+      "personal": "How does music bring people together in your life?",
+      "critical": "Do you think music can be shown in a painting without sound? Explain."
+    },
+    "g68": {
+      "daily": "What draws your eye first, and how does the painter guide you through the scene?",
+      "emotion": "How do color and detail create a mood of enchantment?",
+      "observation": "Describe the relationship between Krishna and the gopis as shown in the painting.",
+      "analysis": "How does the painter arrange figures, trees, and stream to organize the picture?",
+      "line": "How do the curves of the stream and the trees create a flowing rhythm?",
+      "shape": "How does the repeated pattern of thumbprint leaves unify the painting?",
+      "color": "How do the saturated colors, gold, and silver contribute to the sense of richness?",
+      "texture": "How do details like fish, lotuses, and waterfowl enrich the scene?",
+      "space": "How does the flattened, layered space differ from realistic perspective?",
+      "light": "How does metallic paint change the way the scene shimmers when seen in different light?",
+      "meaning": "How can a picture of music and love also be a picture about devotion?",
+      "culture": "How does knowing the context of Krishna stories change what you see?",
+      "technique": "How do pairs of birds reinforce the painting's themes?",
+      "personal": "What would you ask a viewer from the time when this painting was made?",
+      "critical": "How can viewers respectfully learn about religious art from traditions that are not their own?"
+    },
+    "g910": {
+      "daily": "How does the composition use the stream and grove to structure a story-filled space?",
+      "emotion": "How does the combination of saturated color and metallic accents create an atmosphere of devotion and delight?",
+      "observation": "Examine the figures. How do their grouping and orientation express relationships of attraction and attention?",
+      "analysis": "Analyze how the painter balances decorative pattern with narrative focus.",
+      "line": "How do the sinuous stream and rhythmically repeated foliage create movement through the scene?",
+      "shape": "How does the stylized thumbprint foliage act as both ornament and regional signature?",
+      "color": "How do metallic pigments interact with opaque watercolor to produce visual richness?",
+      "texture": "What does the abundance of natural detail suggest about the painter's relationship to the setting?",
+      "space": "How does Rajput painting construct space differently from European perspective, and what are the effects?",
+      "light": "How might the shimmer of gold and tin alloy contribute to the experience of viewing by lamplight?",
+      "meaning": "How does the metaphor of the gopis' attachment express ideas of bhakti, and how is that visualized?",
+      "culture": "How do the pairs of waterfowl reinforce thematic content through symbolism?",
+      "technique": "How does the large format and Marwar style distinguish this painting from other Rajput traditions?",
+      "personal": "What are the challenges of interpreting devotional art outside its original religious context?",
+      "critical": "To what extent do beauty and devotion reinforce each other in this painting?"
+    },
+    "g1112": {
+      "daily": "How does the painting convert theological metaphor into a legible spatial narrative, and what compositional devices facilitate that translation?",
+      "emotion": "In what ways do intensified color and metallic highlights contribute to a visual language of rapture rather than naturalistic description?",
+      "observation": "What interpretive possibilities arise from the relationship between a central divine figure and the gathered devotees?",
+      "analysis": "Evaluate how the painter integrates ornamental repetition with the narrative demands of the scene.",
+      "line": "How do the rhythms of the stream, figures, and foliage structure a sustained, circulating movement across the surface?",
+      "shape": "How does the thumbprint foliage exemplify the way regional style functions as a marker of identity within Rajput painting?",
+      "color": "How do the materials of opaque watercolor, gold, and tin alloy shape both the object's luxury and its visual effects?",
+      "texture": "What does the dense inclusion of fish, lotuses, and waterfowl suggest about the interplay between symbolism and observation?",
+      "space": "How does the absence of linear perspective reflect a different understanding of how images organize space and meaning?",
+      "light": "How might the reflective surfaces have altered the experience of the painting in its original viewing contexts?",
+      "meaning": "How does the theme of bhakti structure the relationship between viewer, devotee, and deity in the image?",
+      "culture": "How do paired animals operate as a secondary symbolic layer reinforcing the central theme?",
+      "technique": "How does attribution to a regional school rather than a named artist shape the way the work is studied and valued?",
+      "personal": "How does approaching a devotional image from outside its tradition shape the questions you want to ask?",
+      "critical": "What ethical and methodological issues arise when devotional images are displayed in museum settings?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (music, musicians) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Rajput painting from Jodhpur in Rajasthan, India, made in the late 1700s or early 1800s with opaque watercolor, gold, and tin alloy on paper. The Art Institute describes the blue-skinned god Krishna playing a bamboo flute in a lush grove for the gopis, women cowherds, beside a silver stream with leaping fish and blooming lotuses.",
+    "vocabulary": [
+      "Rajput painting",
+      "Krishna",
+      "gopis",
+      "bansuri (flute)",
+      "devotion",
+      "opaque watercolor"
+    ],
+    "directions": [
+      "Have students draw a favorite place where music is played and add pairs of animals or objects that suggest harmony.",
+      "Ask students to find repeated shapes in the leaves and water and create a pattern using thumbprints with ink or paint.",
+      "Discuss respectfully how paintings can tell religious stories and how viewers can learn about traditions that are not their own."
+    ]
+  }
+}

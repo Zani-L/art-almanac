@@ -1,0 +1,158 @@
+{
+  "id": "artic-51577",
+  "day": "10-31",
+  "title": "The White Tablecloth",
+  "artist": "Jean Siméon Chardin",
+  "date": "c. 1731-32",
+  "medium": "Oil on canvas",
+  "movement": "French Rococo still life",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/7085f5ee-b5da-bd9f-e8f9-b692be466ea0/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A calm still life of a table covered with a white cloth, set with bread, glasses, plates, a knife, and wine, painted in warm, soft tones.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/51577",
+    "objectId": "51577",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1944.699, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A still life painted in France around 1731 to 1732 by Jean Siméon Chardin. The Art Institute's subject terms list bread, glasses, a knife, plates, wine, a table and a tablecloth. Chardin was known for quiet paintings of everyday household things.",
+  "descriptions": {
+    "k": "A table is covered with a white cloth. There is bread, glasses, plates, and a knife. Everything looks quiet and ready. Can you find the bread? Which thing would you use first?",
+    "g12": "Jean Siméon Chardin painted a table with a white cloth, some bread, glasses, plates, and a knife. Everything is simple and everyday, but he painted it with care. The cloth has soft folds. Which object do you want to look at first?",
+    "g35": "Jean Siméon Chardin painted this still life in France around 1731 to 1732. A white tablecloth holds bread, wine, glasses, plates, and a knife. Chardin liked to paint everyday things, and he made them feel important. What makes an ordinary table worth painting?",
+    "g68": "Chardin's The White Tablecloth (c. 1731 to 1732) arranges bread, glasses, plates, a knife, and wine on a table with a folded white cloth. Instead of a grand feast, he chose an ordinary meal and painted it with patient care. Quiet pictures like this ask you to slow down. How do simple objects and soft light make a mood of calm?",
+    "g910": "Chardin's still life (c. 1731 to 1732) lays bread, wine, glasses, plates, and a knife on a white cloth, an unglamorous table treated with great seriousness. The pale cloth is the center of the painting, catching light and shaping the composition. His quiet paintings of household things dignified the everyday. What does choosing a humble subject suggest about what deserves attention?",
+    "g1112": "Chardin's The White Tablecloth (c. 1731 to 1732) elevates the humble tools of a meal, bread, wine, glasses, plates, and a knife, into a study of arrangement, light, and touch. The folded white cloth organizes the composition and carries its tonal drama. Rejecting the grandeur of earlier still-life traditions, Chardin makes stillness itself the subject. How does restraint become expressive, and what does the painting suggest about the dignity of the ordinary?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What things are on the table? Point to the bread and the glasses.",
+      "emotion": "Does this table feel quiet or busy? What tells you?",
+      "observation": "Find the knife. Where is it?",
+      "analysis": "Why do you think the painter painted such ordinary things?",
+      "line": "Trace the folds of the tablecloth in the air. Are they straight or wavy?",
+      "shape": "What shapes do you see in the glasses and plates?",
+      "color": "Which colors do you see most? Are they bright or soft?",
+      "texture": "Does the cloth look soft or stiff? How do you know?",
+      "space": "Which objects are in front, and which are behind?",
+      "light": "Where is the cloth brightest? Where is it darker?",
+      "meaning": "Why do people set a table before a meal?",
+      "culture": "What do you like to eat at your table at home?",
+      "technique": "The painter used oil paint to make the glass look shiny. How might he have done that?",
+      "personal": "If you set a table to paint, what would you put on it?",
+      "critical": "What would you take away or add to this table?"
+    },
+    "g12": {
+      "daily": "What do you see on the table? Point to the bread and the glasses.",
+      "emotion": "Does the table feel quiet, busy, or waiting? Show us what you see that tells you.",
+      "observation": "Describe the glass and the plate. How are they different?",
+      "analysis": "Why do you think the painter chose a white tablecloth?",
+      "line": "Follow one fold in the tablecloth with your finger. Where does it go?",
+      "shape": "Which round shapes do you find on the table?",
+      "color": "Which soft colors do you see? Where are they?",
+      "texture": "Which things look shiny and which look soft?",
+      "space": "Which objects sit in front? Which sit behind them?",
+      "light": "Where is the cloth the brightest?",
+      "meaning": "Why do you think the painter painted a simple meal?",
+      "culture": "What is on your table at lunch or dinner?",
+      "technique": "The painter made glass look shiny with paint. How do you think he did it?",
+      "personal": "If you were setting this table, what would you put on it?",
+      "critical": "What would you take off this table?"
+    },
+    "g35": {
+      "daily": "What details make this table feel like a real place to eat?",
+      "emotion": "What mood does the soft light give to the painting?",
+      "observation": "Describe each object on the table and where it sits.",
+      "analysis": "Why do you think the painter put the white cloth so near the middle of the painting?",
+      "line": "How do the folds of the cloth create lines that your eyes can follow?",
+      "shape": "How do the round glasses and plates compare with the shapes of the bread and the knife?",
+      "color": "How do the warm browns and soft whites work together?",
+      "texture": "How did the painter make the glass look shiny and the cloth look soft?",
+      "space": "How does the painter show that some objects sit behind others?",
+      "light": "Where does the light fall, and what shadows does it make?",
+      "meaning": "What might the painter want us to feel about a simple meal?",
+      "culture": "This was painted in France almost 300 years ago. What can the objects tell you about everyday life then?",
+      "technique": "Why might a painter spend so much time on ordinary things?",
+      "personal": "What everyday object would you like to look at slowly?",
+      "critical": "Is a painting of a plain table as interesting as a painting of a grand party? Explain."
+    },
+    "g68": {
+      "daily": "What do you notice first, and why does your eye go there?",
+      "emotion": "How do soft colors and gentle light create a mood of calm?",
+      "observation": "Describe how objects are arranged on the table. Which are grouped, and which stand alone?",
+      "analysis": "How does the white tablecloth help organize the whole painting?",
+      "line": "How do the folds of the cloth create lines and shadows that guide your eye?",
+      "shape": "How do the shapes of glasses, plates, and bread create balance?",
+      "color": "How does the limited range of warm and neutral colors keep the painting unified?",
+      "texture": "What details show the difference between the surface of glass, bread, and fabric?",
+      "space": "How does the arrangement create depth on a table top?",
+      "light": "How does Chardin use light to make simple things look important?",
+      "meaning": "What does it say about the artist that he chose bread and wine instead of rare treasures?",
+      "culture": "How might a painting like this have been seen by people of Chardin's time who valued grand subjects?",
+      "technique": "How does Chardin's patient painting make you slow down?",
+      "personal": "What objects in your life might make a quiet but meaningful still life?",
+      "critical": "How does a still life tell a story even without people?"
+    },
+    "g910": {
+      "daily": "What compositional choices give this modest table a sense of stability and gravity?",
+      "emotion": "How does the subdued, warm palette contribute to the painting's atmosphere of quiet?",
+      "observation": "Examine the arrangement of objects. What implies that a meal has just been prepared or is about to begin?",
+      "analysis": "Analyze how the white cloth functions as the central visual anchor of the composition.",
+      "line": "How do the folds in the cloth introduce rhythm and angularity into an otherwise placid arrangement?",
+      "shape": "How do the silhouettes of glasses, plates, and bread create a balance of vertical and horizontal forms?",
+      "color": "How does Chardin's tonal control unify varied materials?",
+      "texture": "What does the handling of paint suggest about his attention to surface and touch?",
+      "space": "How does the shallow tabletop space place the viewer in an intimate relationship with the objects?",
+      "light": "How does soft, directed light give the cloth sculptural weight?",
+      "meaning": "How does the choice of a humble subject challenge hierarchies in eighteenth-century art?",
+      "culture": "How does Chardin's still life differ from earlier displays of abundance and wealth?",
+      "technique": "What is the effect of removing human figures and narrative from the scene?",
+      "personal": "How might the painting reflect on time, routine, and the rituals of daily life?",
+      "critical": "Should a painting be valued more for its subject or for the care taken in making it? Argue from this work."
+    },
+    "g1112": {
+      "daily": "How does the composition convert a casual arrangement into an ordered, almost architectural structure, and what does that suggest about Chardin's priorities?",
+      "emotion": "In what ways does restraint of color and tone produce an emotional register of contemplation rather than display?",
+      "observation": "What interpretive possibilities arise from a table set with the barest essentials, absent of people yet marked by human use?",
+      "analysis": "Evaluate how the white cloth mediates between the objects and the picture's overall luminosity.",
+      "line": "How do the angular folds of linen counter the rounded forms of vessels and bread, and what visual dialogue results?",
+      "shape": "How does the interplay of geometries produce a stable, balanced composition?",
+      "color": "How does tonal subtlety allow materially different surfaces to coexist harmoniously?",
+      "texture": "What does the tactile, layered handling of paint indicate about the relation between making and looking?",
+      "space": "How does the tabletop's compressed space draw the viewer into a close, contemplative encounter?",
+      "light": "How does the treatment of light give weight and presence to commonplace things?",
+      "meaning": "How does Chardin's embrace of the humble subject challenge academic hierarchies of genre?",
+      "culture": "How does the painting differ in ethos from Dutch and Flemish still lifes of opulence and display?",
+      "technique": "What is the significance of leaving the narrative open by excluding figures?",
+      "personal": "How might the painting meditate on time, repetition, and the dignity of domestic labor?",
+      "critical": "To what extent does Chardin's attention to the ordinary invite viewers to reconsider their own habits of looking?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (still life, interior, bread, glasses, knife, plates, table, tablecloth, wine) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A still life painted in France around 1731 to 1732 by Jean Siméon Chardin. The Art Institute's subject terms list bread, glasses, a knife, plates, wine, a table and a tablecloth. Chardin was known for quiet paintings of everyday household things.",
+    "vocabulary": [
+      "still life",
+      "tablecloth",
+      "composition",
+      "light",
+      "everyday",
+      "Rococo"
+    ],
+    "directions": [
+      "Set up a small still life with a cloth, a cup, and bread or fruit and have students draw it slowly, paying attention to folds and light.",
+      "Ask students to compare the softest and brightest areas of the cloth and discuss how the painter shows light.",
+      "Discuss why a painter might choose ordinary things as a subject and invite students to pick an everyday object worth a painting."
+    ]
+  }
+}

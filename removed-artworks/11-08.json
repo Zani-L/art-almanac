@@ -1,0 +1,150 @@
+{
+  "id": "met-196122",
+  "day": "11-08",
+  "title": "Miniature bowl (part of a dollhouse set)",
+  "artist": "Artist unknown",
+  "date": "early 19th century",
+  "medium": "Glass",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/69456.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/69456.jpg",
+    "credit": "The Metropolitan Museum of Art, Munsey Fund, 1927",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny glass bowl shown close up against a plain background, with a simple rounded shape. It is a miniature made for a dollhouse.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/196122",
+    "objectId": "196122",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, credit line, classification Glass, objectName Bowl, public-domain flag, image URLs) and the Met object page (dimensions about 1 by 1.9 cm, culture listed as German)"
+  },
+  "context": "A tiny glass bowl made in the early 19th century as part of a dollhouse set. The Met's object page gives its size as about 1 by 1.9 centimeters (3/8 by 3/4 inch), smaller than a coin, and lists its culture as German.",
+  "descriptions": {
+    "k": "This tiny bowl is made of glass. It is made for a dollhouse. It is smaller than a coin! Look at its round shape. Who could use a bowl this small? What would you put in it?",
+    "g12": "This is a bowl made for a dollhouse. It is made of glass and is only about two centimeters wide, smaller than most coins. People made it long ago, in the early 1800s. Look at its curved shape. What does it tell you about how small things can still be carefully made?",
+    "g35": "This bowl is only about 1 centimeter tall and 1.9 centimeters wide, smaller than a coin. It was made of glass in the early 1800s as part of a dollhouse set, with other tiny cups and dishes. Even though it is a toy-sized object, its shape is clear and smooth. Why would a maker go to so much trouble to make such small things?",
+    "g68": "Miniature household objects like this glass bowl let children and adults play with a tiny version of home life. At about 1 by 1.9 centimeters, it was made in the early nineteenth century as part of a dollhouse set, probably with matching cups and dishes. Making glass this small requires control and patience. What does a miniature copy of an ordinary object tell us about what people valued in daily life?",
+    "g910": "This glass bowl from a dollhouse set, made in the early nineteenth century, reduces an everyday vessel to the size of a fingertip. The smallness shifts our attention to its shape and transparency, and it invites us to imagine the larger world it belongs to. Dollhouse objects could be toys, teaching tools, or collectors' items, though the record does not say which. Consider how scale changes the meaning of a simple form.",
+    "g1112": "As a miniature, this glass bowl exists between toy and model. Made in the early nineteenth century as part of a dollhouse set, it replicates a domestic form while exaggerating its fragility and perfection through scale. The Met's record does not tell us who owned it or how it was used, so claims about play, education, or display must be tentative. How do miniatures turn ordinary objects into subjects for contemplation, and what do they reveal about the domestic life they imitate?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine setting this tiny bowl on a dollhouse table. What tiny food would you put inside?",
+      "emotion": "Does this little bowl make you feel gentle, silly, or curious? Why?",
+      "observation": "Look at the bowl's edge, its sides, and its bottom. What can you find?",
+      "analysis": "Which part of the bowl do your eyes look at first?",
+      "line": "Trace the edge of the bowl in the air. Is it a round line or a straight line?",
+      "shape": "Is the bowl more like a ball, a cup, or a dish? Show with your hands.",
+      "color": "Glass can be clear. What colors can you see in or through the bowl?",
+      "texture": "Glass is smooth and hard. How would this tiny bowl feel on your fingertip?",
+      "space": "The bowl is empty inside. Where could things fit?",
+      "light": "Where does the light shine through or sparkle on the glass?",
+      "meaning": "Why do you think people made tiny dishes for a dollhouse?",
+      "culture": "People played with dollhouses over 200 years ago. What do you play with that is a tiny copy of something real?",
+      "technique": "This bowl is smaller than a coin. How do you think someone made glass so small?",
+      "personal": "If you could have a tiny version of any dish at home, which one would you pick?",
+      "critical": "Is a tiny bowl made of glass a toy or a treasure? Tell why."
+    },
+    "g12": {
+      "daily": "Tell a short story about who might use this tiny glass bowl in a dollhouse.",
+      "emotion": "How does something so small make you feel about taking care of it?",
+      "observation": "Describe the bowl's edge, sides, and base. What do you notice about each?",
+      "analysis": "How does the shape of the bowl make it easy to recognize as a bowl?",
+      "line": "Find the curve of the rim and the curve of the sides. How do they work together?",
+      "shape": "The bowl is a rounded, open shape. What big shape does it make when you look from the side?",
+      "color": "Glass can be clear or tinted. What colors or reflections do you see?",
+      "texture": "Glass is smooth. How can you tell from the picture that the bowl is smooth?",
+      "space": "The bowl is only about two centimeters wide. How can you tell its size when it looks big in the picture?",
+      "light": "Look for places where light passes through the glass. What happens there?",
+      "meaning": "What does a tiny bowl tell you about the dollhouse it belonged to?",
+      "culture": "This bowl was made in the early 1800s as part of a dollhouse set. What can tiny objects teach us about how people lived?",
+      "technique": "Glass has to be shaped while it is hot. Why is that hard to do on something this tiny?",
+      "personal": "What is the smallest thing you have ever made or collected? Tell about it.",
+      "critical": "Does a tiny object need to be exact to be good? Give a reason."
+    },
+    "g35": {
+      "daily": "If this bowl were real size, what would it be used for? What in the picture helps you decide?",
+      "emotion": "What feeling do you get from an object this small and fragile?",
+      "observation": "Look at the bowl for a full minute. What details of its rim, sides, and base do you notice?",
+      "analysis": "How does the maker make a very simple shape look neat and complete?",
+      "line": "How do the curved lines of the rim and sides define the bowl's shape?",
+      "shape": "How does a rounded bowl shape make the object feel balanced?",
+      "color": "How does clear or lightly tinted glass change how we see color compared with painted objects?",
+      "texture": "How would the bowl's hard smooth surface feel different from soft cloth or wood?",
+      "space": "The bowl is about 1 by 1.9 centimeters. How does knowing the size change how you look at the picture?",
+      "light": "How does glass let light pass through, and how can you see that on the bowl?",
+      "meaning": "Why might a family give children a set of tiny glass dishes?",
+      "culture": "The Met lists this as part of a dollhouse set from the early 1800s. What might it tell us about the objects in homes then?",
+      "technique": "What steps might a glassmaker follow to make a bowl smaller than a coin?",
+      "personal": "Think of a favorite miniature or model you have seen. How is this bowl like it?",
+      "critical": "Do miniature objects teach us about real life, or are they only for play? What evidence supports your view?"
+    },
+    "g68": {
+      "daily": "How does scale change the way you look at an object as simple as a bowl?",
+      "emotion": "How does the idea of a tiny, fragile glass bowl affect how carefully you imagine handling it?",
+      "observation": "Describe the bowl as precisely as you can. Which details tell you it is a bowl?",
+      "analysis": "How does the object stay recognizable as a bowl even when it is reduced to the size of a fingertip?",
+      "line": "How does the smooth outline of the rim help define the form?",
+      "shape": "How does a simple curved form help a bowl read clearly at a very small size?",
+      "color": "How does glass handle color differently from paint, wood, or metal?",
+      "texture": "What qualities of glass, such as hardness and smoothness, make it a good material for a miniature bowl?",
+      "space": "How does the empty inside of a bowl give it a different relationship to space than a solid object?",
+      "light": "Why is glass an interesting material for showing light, especially at such a small size?",
+      "meaning": "What might a dollhouse set say about the way people understood home life in the early 1800s?",
+      "culture": "Why might miniature household objects be useful for teaching children about home life and manners?",
+      "technique": "Why would shaping glass at this size be more demanding than making a full-size bowl?",
+      "personal": "What would you include in a dollhouse that represents your own home?",
+      "critical": "Does the fact that this bowl was made for a dollhouse make it less important as craft? Explain."
+    },
+    "g910": {
+      "daily": "How does miniaturization transform a familiar form into a new kind of object?",
+      "emotion": "How does extreme smallness produce tenderness or fascination in the viewer?",
+      "observation": "Describe how the bowl's simple form is articulated. Which features carry the most information?",
+      "analysis": "How does the design preserve the essential identity of a bowl while omitting nearly everything else?",
+      "line": "How does the single continuous contour of the rim and sides create a sense of completeness?",
+      "shape": "How does a bowl's open geometry contrast with solid objects in a dollhouse set?",
+      "color": "How does the transparency of glass change the role of color and background in how we see the object?",
+      "texture": "How do the qualities of glass, smooth, hard, and brittle, shape the bowl's presence as a miniature?",
+      "space": "How does extreme scale change the viewer's physical relationship to the object?",
+      "light": "How does transparency let light define the bowl's volume, and what does that reveal about the glassmaker's skill?",
+      "meaning": "In what ways might a dollhouse set model social ideals of domestic order, and why is that uncertain here?",
+      "culture": "How do dollhouse objects reflect the material culture of the households that imitated them?",
+      "technique": "What skills of glassworking would be required to produce an object under two centimeters wide with clean form?",
+      "personal": "How does your relationship to an object change when it is a model rather than the thing itself?",
+      "critical": "What do miniatures gain and lose by reproducing the ordinary rather than the extraordinary?"
+    },
+    "g1112": {
+      "daily": "What can be inferred from this bowl about the culture of play, domesticity, and display in the early nineteenth century, and what cannot?",
+      "emotion": "How does the affect of smallness depend on culture and on the viewer's assumptions about childhood and play?",
+      "observation": "Describe the bowl's form with precision. At what point does description begin to imply a claim about use?",
+      "analysis": "Analyze how a reduction in scale alters the relation between form, function, and meaning.",
+      "line": "How does the minimal contour of the bowl demonstrate the economy of form that miniatures often depend on?",
+      "shape": "How does the idealized geometry of a simple vessel make it suitable for scale reduction?",
+      "color": "How does glass's relative transparency complicate the object's representation in a photograph?",
+      "texture": "How do properties of the material determine what kinds of detail a miniature glass vessel can hold?",
+      "space": "How does the bowl address the phenomenology of scale, and how does a museum image distort it?",
+      "light": "How does the interplay between transparency and reflection contribute to the object's aesthetic appeal at this size?",
+      "meaning": "How might miniatures function simultaneously as toys, pedagogical tools, and status objects, and what does the record leave open?",
+      "culture": "How does the culture attribution on the Met's page frame the bowl, and how might studying dollhouse sets contribute to the history of domestic life?",
+      "technique": "What does the survival of a fragile object this small suggest about the care with which it was made and kept?",
+      "personal": "How do your own experiences with models and toys shape how seriously you take this bowl as an object of study?",
+      "critical": "How should museums treat miniature domestic objects, as historical evidence, as craft, or as toys, and what is at stake in that choice?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Glass), objectName (Bowl), medium (glass), and absence of tags checked against the museum record and object page: no flagged terms. The image file itself was not visually inspected in this build, so tint and any decoration are not described. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tiny glass bowl, about 1 by 1.9 cm, from an early nineteenth-century dollhouse set. The Met lists the culture as German on its object page. Which dollhouse the set belonged to is not stated in the record.",
+    "vocabulary": ["miniature", "scale", "glass", "transparent", "dollhouse", "vessel"],
+    "directions": [
+      "Have students measure out 1 by 1.9 centimeters on a ruler and discuss how small the bowl really is.",
+      "Ask students to design a miniature object from their own home and explain what must stay the same for it to be recognizable.",
+      "Discuss whether miniatures are toys, models, or art, and invite multiple viewpoints."
+    ]
+  }
+}

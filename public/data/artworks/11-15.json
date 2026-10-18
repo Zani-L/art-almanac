@@ -1,0 +1,159 @@
+{
+  "id": "met-11235",
+  "day": "11-15",
+  "title": "Sunrise",
+  "artist": "George Inness",
+  "date": "1887",
+  "medium": "Oil on canvas",
+  "movement": "Tonalism",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP232470.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP232470.jpg",
+    "credit": "The Metropolitan Museum of Art, Anonymous Gift, in memory of Emil Thiele, 1954",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A soft, hazy landscape at dawn, painted with blended colors and little sharp detail, with glowing light in the sky suggesting the sun rising over the land.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11235",
+    "objectId": "11235",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tag (Landscapes) and image URLs read from the record"
+  },
+  "context": "An oil landscape of 1887 by George Inness. In his later career Inness moved away from sharply detailed views toward soft, atmospheric scenes, and he is often linked to Tonalism, a style built on hazy, closely related colors.",
+  "descriptions": {
+    "k": "The sun is coming up. The painting looks soft and misty, like a dream. The colors blend together. Can you feel how quiet the morning is? What sounds might you hear?",
+    "g12": "George Inness painted a soft, misty sunrise. The colors melt into each other, so edges look blurry. The glow of the sun lights the sky. Everything feels quiet and new. How does this painting make you feel? What would the air smell like?",
+    "g35": "George Inness painted Sunrise in 1887 near the end of his life. Instead of sharp lines, he used soft, blended colors, so the land seems wrapped in morning mist. Notice how the glow of early light fills the scene. How does Inness make the morning feel quiet and calm? Why might an artist choose a blurry style?",
+    "g68": "By 1887 Inness had moved away from crisp, detailed landscapes toward hazy, atmospheric scenes in which colors blend and shapes soften. Sunrise captures the glow and mood of early morning more than the details of a place. This approach is often called Tonalism. Viewers have long connected Inness's late work with spiritual feeling, though a painting rarely proves one meaning. How do softness and blur change what you notice?",
+    "g910": "In Sunrise, Inness uses closely related colors, soft edges, and a glowing atmosphere to turn a landscape into a mood. The painting is often associated with Tonalism, which valued suggestion over exact description. Inness was interested in spiritual ideas, and many viewers read his late landscapes as meditations on nature and feeling. Because he left only partial commentary, such readings are interpretations. The picture rewards slow looking at how color and edge create atmosphere.",
+    "g1112": "Painted in 1887, Sunrise reflects the late style in which Inness traded detailed description for a suffused, atmospheric treatment of light and color. It is often linked to Tonalism, a label for painters who emphasized harmonies of tone and mood. Critics have connected Inness's late landscapes to spiritual outlook, to the influence of French landscape painting, and to a broader turn from documentary realism toward suggestion. Each reading depends on interpretation of a work that offers few explicit signs. The painting asks what it means for a landscape to describe a feeling rather than a place."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the morning feels like in this painting? Is it cold, warm, or sleepy?",
+      "emotion": "Does this painting feel quiet or loud? Tell what makes you say so.",
+      "observation": "What colors do you see in the sky and on the land?",
+      "analysis": "Where do your eyes go first? What do they look at next?",
+      "line": "Can you find sharp lines in this painting? Why do you think they are soft?",
+      "shape": "Can you find a big shape of land or sky? What does it look like?",
+      "color": "Which colors blend together? Do they look like mist, glow, or something else?",
+      "texture": "Does the painting look soft like a cloud or rough like a stone? What makes you say that?",
+      "space": "Does the land look close or far away? How can you tell?",
+      "light": "Where does the light seem to come from? What does it make glow?",
+      "meaning": "Sunrise means a new day begins. What do you hope for in a new day?",
+      "culture": "People have long watched the sun rise. Is there a morning habit in your family?",
+      "technique": "The artist used soft brushstrokes to blend colors. How do you think he made things look blurry?",
+      "personal": "Have you ever seen the sun rise? Tell what you remember.",
+      "critical": "The painter made things blurry on purpose. Is it better to see every detail or to feel a mood?"
+    },
+    "g12": {
+      "daily": "What do you think the artist wants you to feel in the early morning light?",
+      "emotion": "How does this misty morning make you feel? Which colors help you feel that way?",
+      "observation": "Describe five things you can see in the soft, glowing scene.",
+      "analysis": "How does the artist lead your eyes toward the brightest part of the painting?",
+      "line": "Why are the edges soft instead of sharp? How does that change the mood?",
+      "shape": "Which shapes can you pick out, even though they are blurry?",
+      "color": "Which colors are close to each other? How do they make the painting feel calm?",
+      "texture": "How do the soft brushstrokes make the air look misty?",
+      "space": "How does the soft haze make the faraway parts look farther away?",
+      "light": "Where is the light brightest, and how does it spread across the painting?",
+      "meaning": "A sunrise is a start of something new. What might the painter be saying about beginnings?",
+      "culture": "Many painters and poets have loved sunrises. Why do you think this moment feels special to people?",
+      "technique": "Inness blended colors instead of drawing sharp edges. Where do you see colors melting into each other?",
+      "personal": "What is a quiet moment in your day? How would you paint it?",
+      "critical": "Does a blurry painting show less of the world, or does it show something different? What do you think?"
+    },
+    "g35": {
+      "daily": "What do you think Inness wants you to notice about this morning, and what in the painting supports your idea?",
+      "emotion": "How do the soft colors and glowing light work together to create a peaceful mood?",
+      "observation": "After one minute of silent looking, what shapes and shades do you notice emerging from the haze?",
+      "analysis": "How does Inness organize the painting so that the light draws your attention first?",
+      "line": "How do soft edges instead of hard lines change the way you see the landscape?",
+      "shape": "How do the large, simple shapes help hold the painting together despite the blur?",
+      "color": "How does Inness use colors that are close to each other to create harmony?",
+      "texture": "How do the blended brushstrokes make the painting look like a mist rather than solid objects?",
+      "space": "How does haze and softness make the scene feel deep and far away?",
+      "light": "How does the glow of early light change the color of everything it touches?",
+      "meaning": "Why might an artist paint a feeling of morning rather than every detail of a place?",
+      "culture": "Inness painted in the late 1800s, when many Americans were moving to cities. Why might quiet landscapes have appealed to them?",
+      "technique": "Inness often reworked his paintings many times, adding glazes and layers. How might that help create the soft glow?",
+      "personal": "Think of a morning that felt special. What colors would you use to paint it?",
+      "critical": "If a painting does not show a real, exact place, can it still be true? Explain."
+    },
+    "g68": {
+      "daily": "How does Inness turn a landscape into a mood of early morning rather than a record of a place?",
+      "emotion": "How do softness, blur, and glow combine to create calm or reverence?",
+      "observation": "Scan the painting from foreground to horizon. Which areas are the clearest and which dissolve into haze?",
+      "analysis": "How does the composition lead the eye toward the source of light?",
+      "line": "How does the lack of firm outlines shape the sense of atmosphere?",
+      "shape": "How do broad, simple masses substitute for detailed objects in this painting?",
+      "color": "How does the narrow range of closely related colors support the painting's unity and mood?",
+      "texture": "How do layered, blended strokes create a feeling of mist or air?",
+      "space": "How does atmospheric haze create depth even without sharp detail?",
+      "light": "How does the glow of sunrise unify the colors of the whole scene?",
+      "meaning": "Some viewers read Inness's late landscapes as spiritual. What visual evidence supports or challenges that view?",
+      "culture": "How might the move toward softer, moodier landscapes reflect changes in American taste in the late nineteenth century?",
+      "technique": "How might Inness's practice of reworking his paintings in layers contribute to the glowing effect?",
+      "personal": "What does a blurry, quiet picture make you think about more than a detailed one?",
+      "critical": "Is a painting that suggests rather than describes harder or easier to interpret? Why?"
+    },
+    "g910": {
+      "daily": "How does Inness use softness and light to move landscape toward suggestion rather than description?",
+      "emotion": "How does atmospheric blending produce an emotional register of calm, stillness, or reverence?",
+      "observation": "Describe the visual hierarchy: what attracts attention first, and what devices produce that effect?",
+      "analysis": "Analyze how large tonal masses and a luminous focal area structure the composition.",
+      "line": "How does the dissolution of contour contribute to the painting's atmosphere and ambiguity?",
+      "shape": "How do simplified masses and loosely defined forms hold the composition together?",
+      "color": "How does the limited, harmonious palette convey both light and emotion?",
+      "texture": "How does the surface treatment, with blended and layered paint, support the impression of mist and glow?",
+      "space": "How does atmospheric haze create depth while keeping the viewer from reading the scene in precise detail?",
+      "light": "How does Inness treat dawn light as both a physical effect and an emotional symbol?",
+      "meaning": "How might the painting be read as a spiritual meditation on nature, and where does that reading become speculative?",
+      "culture": "How does Tonalism reflect a late-nineteenth-century shift from documentary detail to mood in American landscape painting?",
+      "technique": "How might repeated glazing and reworking contribute to the picture's luminous depth?",
+      "personal": "How does your own response to blur and quiet shape the way you interpret this painting?",
+      "critical": "Does the painting's vagueness invite more viewer imagination or reduce its meaning? Defend your view."
+    },
+    "g1112": {
+      "daily": "What can be argued from visual evidence about the painting's concern with feeling over description, and what remains debatable?",
+      "emotion": "How does the painting manage to suggest both stillness and expectancy, and what does this ambiguity do for the viewer?",
+      "observation": "Describe the painting's construction with precision. At what point does description turn into interpretation?",
+      "analysis": "Analyze how Inness constructs coherence from tone, mass, and diffusion of light.",
+      "line": "How does the replacement of outline with gradations of tone define the painting's approach to form?",
+      "shape": "How do loosely defined masses balance suggestion and structure?",
+      "color": "How does the harmony of related tones convey mood, and how might the work's age and varnish affect what we see?",
+      "texture": "How does the visible handling of paint call attention to the process of looking and to the painting's surface?",
+      "space": "How does the atmospheric treatment of space position the viewer between recognition and abstraction?",
+      "light": "In what ways does the painting treat light as both a record of dawn and a symbol of renewal?",
+      "meaning": "Evaluate readings of Sunrise as spiritual landscape, as Tonalist mood study, or as response to French painting. Which is best supported, and which is speculative?",
+      "culture": "How does the shift away from detailed Hudson River School realism reflect cultural changes in late nineteenth-century America?",
+      "technique": "What does the painting suggest about the relationship between process, repeated reworking, and the final effect of immediacy?",
+      "personal": "How does your own tolerance for ambiguity influence how you read a landscape that withholds detail?",
+      "critical": "Given the scarcity of explicit evidence about the painting's meaning, what standards of interpretation are most defensible?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tag (Landscapes), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The title indicates a calm dawn landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1887, near the end of George Inness's career, when he favored soft, atmospheric landscapes. The Met record tags the work only as a landscape, so descriptions here are kept general.",
+    "vocabulary": [
+      "Tonalism",
+      "atmosphere",
+      "glaze",
+      "haze",
+      "mood",
+      "focal point"
+    ],
+    "directions": [
+      "Have students try painting a sunrise with watercolor, blending colors while wet, and compare it with a sharp-edged drawing.",
+      "Ask students to describe the painting in sounds and smells before discussing visual elements.",
+      "Compare this soft landscape with a detailed Hudson River School painting from the archive."
+    ]
+  }
+}

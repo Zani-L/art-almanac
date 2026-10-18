@@ -1,0 +1,158 @@
+{
+  "id": "met-370457",
+  "day": "04-11",
+  "title": "Capriccio with Roman Ruins",
+  "artist": "Francesco Guardi",
+  "date": "18th century",
+  "medium": "Pen and brown ink, brush and brown wash, over graphite; framing lines in pen and brown ink drawn by the artist; sheet glued onto secondary paper support",
+  "region": "Italy (Venice)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP168260.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP168260.jpg",
+    "credit": "The Metropolitan Museum of Art, From the Collection of Rita and Frits Markus, Bequest of Rita Markus, 2005",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A drawing in brown ink and wash of ruined classical buildings with arches, drawn with quick, flickering lines and surrounded by a ruled frame.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/370457",
+    "objectId": "370457",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Arches, Ruins), classification (Drawings) and image URLs read from the record"
+  },
+  "context": "A drawing by the Venetian artist Francesco Guardi, dated by the museum only to the 18th century. A capriccio is an imagined view that combines buildings, often ruins, in ways that may not exist in real life. The record notes that the framing lines were drawn by the artist.",
+  "descriptions": {
+    "k": "This is a drawing of old broken buildings. You can see arches. Brown lines and soft brown paint make it look old. Which part would you climb on? What do you think lived here?",
+    "g12": "Francesco Guardi drew these old, ruined buildings in Italy long ago. Arches stand where walls have fallen. He used brown ink and soft brown paint. The lines look quick and wiggly, like they are dancing. Is this a real place, or did Guardi imagine it?",
+    "g35": "Francesco Guardi drew this capriccio, a word for an imagined scene that mixes buildings, often ruins. He used pen and brown ink with brown wash, which is thin, watery paint. Look for the arches and the quick, flickering lines. He even drew a frame around the picture. Why might an artist invent a scene instead of copying a real place?",
+    "g68": "Guardi made this drawing in the 18th century using pen, brown ink, and brown wash over graphite. A capriccio is an imagined scene that combines architecture, here arches and ruins, in new ways. His lines are quick and nervous, and the wash gives soft areas of shadow. The ruled frame he drew shows he treated the sheet as a finished picture. What can a drawing show that a painting might not?",
+    "g910": "In this capriccio, Guardi combines ruined arches and walls into an invented scene. Pen lines in brown ink create a quick, trembling outline, while brown wash adds shadow and depth, all drawn over a graphite underdrawing. The framing lines drawn by the artist suggest he intended the sheet as a complete work and not just a sketch. How does the lively, flickering line shape the mood of the ruins?",
+    "g1112": "Guardi's capricci belong to a taste for imagined architecture, often ruins, that flourished in eighteenth-century Italy. This sheet uses pen, brown wash, and graphite to produce a scene in which solidity and decay seem to flicker together. The artist-drawn frame suggests a self-sufficient work, though the museum dates it only broadly. The drawing invites questions about the line between fantasy and record, and about how a loose, quick hand can convey both vitality and ruin."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could walk through the biggest arch, what do you think you would find on the other side?",
+      "emotion": "Do these old buildings feel sleepy, spooky, or interesting to you? What do you see that tells you?",
+      "observation": "Find an arch. Can you find more than one? Count them.",
+      "analysis": "What part of the drawing do your eyes visit first? Why?",
+      "line": "The lines look wiggly and quick. Trace one in the air.",
+      "shape": "Arches are curved on top. What other shapes can you find in the old walls?",
+      "color": "This drawing is mostly brown. How does one color make it feel old?",
+      "texture": "How would the old stones feel if you touched them? Rough or smooth?",
+      "space": "Which walls are close to you and which are far away?",
+      "light": "Where are the dark brown spots? Where is the paper lighter?",
+      "meaning": "Why do you think the artist drew old, broken buildings?",
+      "culture": "People in Italy long ago saw old Roman ruins and liked to draw them. Where do you see old buildings near you?",
+      "technique": "The artist used a pen and watery brown paint. Where does the paint look soft?",
+      "personal": "What old place would you like to explore? Tell about it.",
+      "critical": "Do you think this is a real place or a pretend place? What makes you think so?"
+    },
+    "g12": {
+      "daily": "What do you think this place was long ago, and what is it like now?",
+      "emotion": "How do the quick, shaky lines make you feel about the old buildings?",
+      "observation": "List five parts of the drawing, such as arches, walls, and shadows.",
+      "analysis": "How does Guardi use dark and light brown to show what is near and what is far?",
+      "line": "Compare the quick, bendy lines with the straight lines of the frame. How are they different?",
+      "shape": "How do arches repeat through the drawing? What shapes sit between them?",
+      "color": "Only brown ink and brown paint are used. How does that change how you see the scene?",
+      "texture": "Where do you see rough, crumbly stone, and where does the paint look smooth and watery?",
+      "space": "How does Guardi show that the arches go back into the distance?",
+      "light": "Where does the paper stay light, and where does the wash make shadow?",
+      "meaning": "Why might an artist like to draw buildings that are old and broken?",
+      "culture": "Guardi lived in Venice but drew Roman-style ruins. Why might people be interested in ruins from long ago?",
+      "technique": "Guardi drew a frame around the picture. What does a frame do for a drawing?",
+      "personal": "If you drew an imaginary place, what would you put in it?",
+      "critical": "Is this drawing a quick sketch or a finished picture? Explain what you see."
+    },
+    "g35": {
+      "daily": "Imagine standing under one of the arches. What would you see, hear, and feel, and what details in the drawing helped you?",
+      "emotion": "What mood do the broken walls and shaky lines create? Which marks in the drawing help?",
+      "observation": "Look silently for one minute. What tiny marks, such as figures, windows, or cracks, do you find?",
+      "analysis": "How does Guardi arrange arches and walls so your eyes travel into the drawing?",
+      "line": "How does the quick, flickering line show that the buildings are old and crumbling?",
+      "shape": "How do round arches and flat walls create a pattern of repeating shapes?",
+      "color": "Why might brown ink and wash give a drawing an old and warm feeling?",
+      "texture": "How does the artist use ink lines and watery wash to make stone look rough and shadowy?",
+      "space": "What clues show that some ruins are near and others are far away?",
+      "light": "How does brown wash make some areas dark and others bright?",
+      "meaning": "A capriccio is an imagined scene. What do you think an artist could say with an invented view that a real view might not?",
+      "culture": "Why might people in the 1700s enjoy pictures of ancient Roman buildings in ruins?",
+      "technique": "Guardi drew in pencil first, then ink, then wash. Why might an artist work in this order?",
+      "personal": "Think of a place that is old or worn that you like. What do you enjoy about it?",
+      "critical": "How can you tell if a drawing is of a real place or an invention?"
+    },
+    "g68": {
+      "daily": "What makes this imagined group of ruins feel convincing even though it may not be a real place?",
+      "emotion": "How do the shaky, quick lines create a feeling of age or even a hint of mystery?",
+      "observation": "Describe the arches, walls, and shadows from front to back. Which parts have the most detail?",
+      "analysis": "How does the composition make the arches lead the eye through the scene?",
+      "line": "How do Guardi's quick pen strokes differ from the neat lines of the ruled frame?",
+      "shape": "How does the repetition of arches create rhythm, and where does the pattern break?",
+      "color": "How does limiting the drawing to brown tones affect the mood?",
+      "texture": "How does the combination of dry pen lines and wet wash suggest old, worn stone?",
+      "space": "How do overlapping arches and fading tones create depth on a flat sheet?",
+      "light": "How does the wash show where light hits and where it does not?",
+      "meaning": "Why might an artist and viewers in the 1700s be drawn to ruins? Give more than one reason.",
+      "culture": "How does a Venetian artist's interest in Roman ruins show a wider European fascination with the ancient past?",
+      "technique": "What does the artist-drawn frame suggest about how Guardi saw this drawing?",
+      "personal": "How would you design an imaginary ruin that told a story about the past?",
+      "critical": "How might a capriccio mix real and invented elements, and why might that matter to the viewer?"
+    },
+    "g910": {
+      "daily": "How does Guardi make an invented view of ruins feel plausible and alive?",
+      "emotion": "How does the nervous, flickering line contribute to a mood of both decay and vitality?",
+      "observation": "Describe the visual hierarchy of the drawing. What draws the eye first, and how?",
+      "analysis": "Analyze how the arrangement of arches and walls produces rhythm and depth in the composition.",
+      "line": "How does Guardi's loose, broken line differ from a precise architectural drawing, and what does that difference convey?",
+      "shape": "How does the repetition of arch forms create structure, and how does damage disrupt it?",
+      "color": "How does a monochrome palette of brown ink and wash focus attention on line and tone?",
+      "texture": "How do pen and wash combine to suggest weathered surfaces?",
+      "space": "How do gradations of wash and overlapping architecture generate recession into space?",
+      "light": "How does the contrast between untouched paper and washed areas imply light and shade?",
+      "meaning": "What might the combination of ruin and invention suggest about eighteenth-century attitudes toward the past?",
+      "culture": "How does the capriccio tradition connect to the demand of tourists and collectors for imaginary views of ancient Rome?",
+      "technique": "What does the combination of graphite underdrawing, ink, and wash reveal about the artist's process?",
+      "personal": "How does your own response to old, damaged places shape your reading of this drawing?",
+      "critical": "How should we treat a drawing as evidence for a real site when it belongs to a genre of invention?"
+    },
+    "g1112": {
+      "daily": "What visual evidence supports reading this sheet as a finished work, and what supports reading it as a sketch?",
+      "emotion": "How does the drawing balance melancholy associated with ruins and the energy of its line?",
+      "observation": "Describe the drawing's structure with precision. Where does description begin to imply interpretation?",
+      "analysis": "Analyze how Guardi constructs depth and unity from a limited set of marks and tones.",
+      "line": "How does the tension between nervous contour and the ruled frame define the sheet's character?",
+      "shape": "How do the arches function as both a formal device and a possible symbol of continuity and loss?",
+      "color": "How does the restriction to brown media shape the drawing's relationship to painting and print?",
+      "texture": "How does the interplay of dry line and fluid wash approximate the physical condition of ruin?",
+      "space": "How does the construction of space reflect the capriccio's freedom from topographical constraint?",
+      "light": "How does the exposed paper function as light, and what does that suggest about the economy of the medium?",
+      "meaning": "Evaluate readings of the capriccio as nostalgia, as architectural fantasy, and as commentary on time. Which can the sheet support?",
+      "culture": "How does a Venetian artist's engagement with Roman ruins reflect the Grand Tour economy and antiquarian interests?",
+      "technique": "What might the gluing of the sheet onto secondary paper tell us about how drawings were valued and preserved?",
+      "personal": "How might your own attachment to old places or ruins color how persuasive you find the drawing's mood?",
+      "critical": "Given that the museum dates the sheet only to the 18th century, what claims about its place in Guardi's career can we responsibly make?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Drawings) and tags (Arches, Ruins) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Francesco Guardi was a Venetian artist who made imagined views called capricci as well as views of real places. This sheet is a pen and wash drawing of ruins with a frame drawn by the artist.",
+    "vocabulary": [
+      "capriccio",
+      "ruins",
+      "pen and ink",
+      "wash",
+      "arch",
+      "underdrawing"
+    ],
+    "directions": [
+      "Have students make their own capriccio by combining parts of buildings they know into one imagined scene.",
+      "Ask students to compare pen lines and wash areas and describe what each does.",
+      "Discuss why people find ruins interesting, using this drawing as evidence."
+    ]
+  }
+}

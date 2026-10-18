@@ -1,0 +1,158 @@
+{
+  "id": "artic-95998",
+  "day": "02-04",
+  "title": "Old Man with a Gold Chain",
+  "artist": "Rembrandt van Rijn",
+  "date": "1631",
+  "medium": "Oil on panel",
+  "movement": "Dutch Golden Age",
+  "region": "Holland",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/3eaab3a3-2b47-9fdd-121c-050f6b8d9ccb/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. W. W. Kimball Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A head-and-shoulders portrait of an older man wearing a dark hat and a heavy gold chain, set against a shadowy background. Light falls on his face and the shining links of the chain.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/95998",
+    "objectId": "95998",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (portraits: male subject, chains, hats, jewelry, fashion, black (color)), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on a wooden panel made by Rembrandt van Rijn in 1631, early in his career. The Art Institute's subject terms list a male portrait, a chain, a hat and jewelry. Rembrandt was one of the leading painters of the Dutch Golden Age.",
+  "descriptions": {
+    "k": "An older man looks out at you. He wears a dark hat. A shiny gold chain hangs on his chest. The background is dark. What do you think he is thinking? Look at his face.",
+    "g12": "Rembrandt painted this older man almost four hundred years ago. He wears a dark hat and a shiny gold chain. Light shines on his face while the rest is shadowy. Where does the light look the strongest? What do you think he is feeling?",
+    "g35": "In 1631, the Dutch painter Rembrandt van Rijn painted this man in oil paint on a wooden panel. A dark hat, a heavy gold chain, and a dim background surround a face that seems to glow. Rembrandt loved to use light and shadow. Where is the light brightest, and how does it make you look closely at the man?",
+    "g68": "Rembrandt painted Old Man with a Gold Chain in 1631, when he was a young artist working in Holland. The dark hat and background push the eye toward the face, while the gold chain catches light. Records list this as a portrait with jewelry and fashion. How do light, shadow, and costume work together to suggest a character, and what do you still not know about this man?",
+    "g910": "This 1631 oil on panel shows Rembrandt's early mastery of dramatic lighting. Dark values dominate, so the lit face and glinting chain become the focal points. Costume details like the hat and gold chain may signal status or simply an interest in texture and fashion, and scholars debate how such studies functioned. How does the strongly directed light shape your interpretation of the sitter's age, character, and dignity?",
+    "g1112": "Old Man with a Gold Chain (1631) exemplifies the chiaroscuro that made Rembrandt famous in the Dutch Golden Age. Its tonal economy, tactile rendering of fur, metal, and skin, and ambiguous identity of the sitter invite competing readings: portrait, character study, or exercise in costume and light. How might the market for portraits in Holland and Rembrandt's ambitions as a young painter have shaped what you see?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the old man's face. What do you think he is thinking?",
+      "emotion": "Does he look kind, serious, or tired? What tells you?",
+      "observation": "Find the hat, the chain, and the face. Point to each one.",
+      "analysis": "Where is the light the brightest? Why does your eye go there?",
+      "line": "Trace the curve of the gold chain in the air. How does it hang?",
+      "shape": "The hat makes a big dark shape. What does it look like to you?",
+      "color": "Which colors can you find? Are there many bright ones or just a few?",
+      "texture": "Which looks shinier to you, the gold chain or the hat? Why?",
+      "space": "What do you think is behind the man? Is it a room or just darkness?",
+      "light": "Which parts are in the light, and which are hiding in shadow?",
+      "meaning": "If this man could talk, what story would he tell?",
+      "culture": "People long ago wore chains and hats like these to look special. What do people wear today to look special?",
+      "technique": "Rembrandt used oil paint on a piece of wood. How is that different from drawing with a pencil?",
+      "personal": "Who is an older person you know? How would you paint them?",
+      "critical": "What question would you ask the man if he stepped out of the painting?"
+    },
+    "g12": {
+      "daily": "Look at the man's eyes and mouth. What feeling do they show?",
+      "emotion": "Does the painting feel quiet or loud? Which parts make you say that?",
+      "observation": "List four things you see on the man, such as his hat, chain, beard, and clothes.",
+      "analysis": "How does the dark background help you see the man's face?",
+      "line": "Follow the lines of wrinkles or folds. Which ones tell you he is old?",
+      "shape": "How does the round hat shape frame his face?",
+      "color": "Rembrandt used mostly dark colors with a few bright spots. Where are the bright spots?",
+      "texture": "Compare the soft skin with the hard gold chain. How did the painter make them look different?",
+      "space": "The man fills most of the picture. How does that change how close you feel to him?",
+      "light": "Where does the light come from? How can you tell by looking at his face?",
+      "meaning": "Why might someone have wanted a painting of an old man with a gold chain?",
+      "culture": "In Holland long ago, people could pay painters for portraits. Why might they want one?",
+      "technique": "Rembrandt painted thick, shiny oil paint on wood. Where do you think the paint looks thickest?",
+      "personal": "How would you pose for a painting so people could see your personality?",
+      "critical": "Is this a picture of one real person, or an idea of an old man? What makes you think so?"
+    },
+    "g35": {
+      "daily": "What emotions or personality traits do you read in the old man's face? Which details give you clues?",
+      "emotion": "How would you describe the mood of the painting, and which choices of light and color build it?",
+      "observation": "Look closely at the chain and hat. What small details did Rembrandt include that you noticed late?",
+      "analysis": "How does Rembrandt guide your eye from the dark background to the lit face and then to the chain?",
+      "line": "Where do lines of the face, chain, and hat brim lead your eye, and what do they emphasize?",
+      "shape": "How do the rounded shapes of the hat and shoulders create a steady, solid figure?",
+      "color": "Rembrandt often used dark browns and blacks with warm highlights. How does that limited palette affect the mood?",
+      "texture": "How did the artist paint the difference between skin, metal, and fabric?",
+      "space": "How does the lack of a detailed background keep attention on the man?",
+      "light": "How does the contrast between light and dark create a feeling of drama?",
+      "meaning": "A gold chain can mean wealth or honor. What different ideas might it suggest about this man?",
+      "culture": "What can this painting tell you about Dutch life and clothing in the 1600s?",
+      "technique": "Oil paint dries slowly and can be layered. How might this have helped Rembrandt paint such rich light?",
+      "personal": "How do you decide what to show or hide when you draw or photograph a person?",
+      "critical": "Rembrandt left out much about who this man is. How does that affect how you interpret the painting?"
+    },
+    "g68": {
+      "daily": "What do the hat, chain, and expression suggest about this man, and what do you still not know?",
+      "emotion": "How does the dark background and glowing face create a mood of seriousness or reflection?",
+      "observation": "Describe the face, hat, and chain in order. Which detail did you read differently the second time?",
+      "analysis": "How does Rembrandt direct your eye from the darkness to the lit face and then to the chain?",
+      "line": "How do the contours of the hat and shoulders frame the face without hard outlines?",
+      "shape": "How do the round forms of the hat and head make the man feel solid and weighty?",
+      "color": "How does Rembrandt's limited palette of browns, blacks, and warm highlights shape the mood?",
+      "texture": "How do different brush handling choices make skin, metal, and cloth look unlike one another?",
+      "space": "Why might Rembrandt leave the background almost empty, and what does that do for the sitter?",
+      "light": "How does the strong contrast of light and dark create drama in the portrait?",
+      "meaning": "A gold chain could suggest wealth, honor, or a costume. Which reading seems best supported, and why?",
+      "culture": "What might the painting suggest about portraits and fashion in Holland in the 1630s?",
+      "technique": "How might painting in thin and thick layers of oil have helped create the glow of the face?",
+      "personal": "If someone painted your portrait, what would you want them to emphasize?",
+      "critical": "What can a portrait truly tell us about a person, and what can it hide?"
+    },
+    "g910": {
+      "daily": "Which facial details and the posture lead you to infer the sitter's character, and how secure is that inference?",
+      "emotion": "How does the tonal range establish a mood of gravity, and could the same lighting suggest other moods?",
+      "observation": "What does the way the paint catches on the chain and hat tell you about Rembrandt's close attention to surface?",
+      "analysis": "How does the composition use value contrast to establish a hierarchy of face, chain, and costume?",
+      "line": "How do the contours of the hat brim, beard, and chain structure the figure without a defined background?",
+      "shape": "How does the head-and-shoulders format and the broad hat shape stabilize the composition?",
+      "color": "How does a palette dominated by browns and blacks with warm accents focus the viewer's attention?",
+      "texture": "How do variations in brushwork distinguish skin, metal, and fabric, and what does that suggest about his technique?",
+      "space": "What does the withheld background suggest about the painting's purpose: portrait, study, or something between?",
+      "light": "How does the directed light imply a hidden source, and how does that affect the sitter's presence?",
+      "meaning": "Do the hat and gold chain signal status, costume, or an artistic exercise, and how can you weigh these readings?",
+      "culture": "How does this painting reflect the portrait market and artistic ambitions of Holland in the early 1630s?",
+      "technique": "How did oil on panel allow fine detail that might differ from canvas, and what visible evidence suggests it?",
+      "personal": "How does your own reaction to an older sitter compare to the way you expect a painter to treat age?",
+      "critical": "How reliable is a portrait as evidence about a person when the artist might be exploring costume and light?"
+    },
+    "g1112": {
+      "daily": "How does Rembrandt balance individualized observation with the possibility that this is a character study rather than a documentary portrait?",
+      "emotion": "To what degree does chiaroscuro produce emotional gravity, and how might that response be culturally conditioned?",
+      "observation": "Describe the surface in precise terms, separating what the paint does from what you infer about the sitter.",
+      "analysis": "Analyze how tonal hierarchy establishes face, hat, and chain as an ordered sequence of attention.",
+      "line": "How does the economy of contour and the modulation of edges, hard in the chain and soft in the face, serve Rembrandt's aims?",
+      "shape": "How does the massing of the hat and shoulders operate as a stable counter to the lit, detailed face?",
+      "color": "Evaluate how a limited, earth-toned palette with warm highlights contributes to the Dutch Golden Age taste for naturalism and richness.",
+      "texture": "What does the apparent handling of paint on panel suggest about Rembrandt's early technique and his interest in tactile illusion?",
+      "space": "How does the abstraction of the setting shift the work toward psychological presence rather than narrative context?",
+      "light": "Compare the dramatic, source-directed light here with the more diffuse light of other Dutch painters. What does Rembrandt gain?",
+      "meaning": "Weigh interpretations of the chain as honorific, theatrical prop, or exercise in rendering luxury, and say what evidence would help decide.",
+      "culture": "How did the Dutch Republic's art market and Rembrandt's early Leiden-period ambitions shape the production of tronie-like or portrait works?",
+      "technique": "What are the implications of working on panel in 1631, and how does the support affect what the surface shows?",
+      "personal": "How do cultural attitudes toward aging inform how we read the face, and can a modern viewer fully set them aside?",
+      "critical": "What limits does a single image place on claims about identity, and how should a museum label account for uncertainty?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (portraits: male subject, chains, hats, jewelry, fashion, black (color)) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1631 by Rembrandt van Rijn, early in his career, in oil on a wood panel. The museum record lists it as a male portrait with a hat, chain and jewelry. Scholars have discussed whether such works are portraits or studies; this entry makes no claim about the sitter's identity.",
+    "vocabulary": [
+      "Dutch Golden Age",
+      "chiaroscuro",
+      "portrait",
+      "oil on panel",
+      "highlight",
+      "value contrast"
+    ],
+    "directions": [
+      "Set up a lamp beside a volunteer in a dim room and sketch how light changes their face, then compare with the painting.",
+      "Ask students to write three different possible stories for the man using only visual clues.",
+      "Discuss the difference between a portrait of a specific person and a study of a type or character."
+    ]
+  }
+}

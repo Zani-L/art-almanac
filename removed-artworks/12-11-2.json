@@ -1,0 +1,155 @@
+{
+  "id": "artic-50087",
+  "day": "12-11",
+  "title": "The Cat Boat",
+  "artist": "Edward Hopper",
+  "date": "1922",
+  "medium": "Etching on off-white wove paper",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A black-and-white etching of a small sailboat on the water, made with fine lines and shading. The title names the boat as a cat boat; further details have not been confirmed from the record.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/50087",
+    "objectId": "50087",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Edward Hopper, American, 1882-1967), date, medium, place of origin, credit line and public-domain flag (false) read from the record. The record has no description or subject terms. No image linked because the work is in copyright."
+  },
+  "context": "Made in 1922 by the American artist Edward Hopper. The museum record lists an etching on off-white wove paper and the title The Cat Boat, and gives no description. A catboat is a type of small sailboat with a single sail. Hopper made a number of etchings in the early 1920s before becoming better known as a painter.",
+  "descriptions": {
+    "k": "This is a picture of a little sailboat, made with lines. It is black and white. Can you imagine the wind and the water? Where do you think the boat is going?",
+    "g12": "Edward Hopper made this picture of a small boat, called a cat boat. It is an etching, which means he scratched lines into metal and printed them. There is no color, just black lines on cream paper. How do the lines show water, wind, or sunlight?",
+    "g35": "Edward Hopper is famous for paintings, but he also made etchings. The Cat Boat (1922) is a print made by cutting lines into a metal plate, inking it, and pressing it on paper. A catboat is a small sailboat with one sail. How can black lines show water and light? What would you add in color?",
+    "g68": "Hopper made The Cat Boat in 1922 as an etching, scratching lines into a metal plate to print on paper. The title names a type of small sailboat, but the museum gives no further description. How can only line and tone show water, air, and sunlight, and how might Hopper's later paintings of quiet places connect to this print?",
+    "g910": "The Cat Boat (1922) is one of Hopper's early etchings, made before his reputation as a painter was established. The museum offers no description beyond title and medium, so the print must speak through line, tone, and composition. Consider how etching's incised lines create light and shadow, and how a simple subject like a small sailboat can carry mood without narrative.",
+    "g1112": "Hopper's etching The Cat Boat (1922) represents a period when printmaking offered him both income and a laboratory for compositional ideas that later informed his paintings. The museum record supplies only title, date, and medium, so interpretation depends on visual evidence. How do line density and tone construct light, water, and stillness, and what can an early print suggest about continuities in Hopper's sensibility without overreading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where do you see the boat? What parts does it have?",
+      "emotion": "Does this picture feel calm, windy, or sleepy? What helps you decide?",
+      "observation": "Find the water and the sky. Where are they?",
+      "analysis": "What do you see first? Why?",
+      "line": "Find a long, straight line. Where is it?",
+      "shape": "Look for triangles and curves. Where are they?",
+      "color": "This picture has no color. What colors would you add?",
+      "texture": "The picture is made of tiny lines. Where do they look close together?",
+      "space": "How far away is the boat? How do you know?",
+      "light": "Where does the picture look light and where does it look dark?",
+      "meaning": "Why do people sail small boats?",
+      "culture": "Have you ever been on a boat? What was it like?",
+      "technique": "How could you draw water using only lines?",
+      "personal": "Where would you sail the boat if you were in it?",
+      "critical": "Why might an artist make a black-and-white print instead of a painting?"
+    },
+    "g12": {
+      "daily": "What story could this little boat tell? Where has it sailed?",
+      "emotion": "What feeling does this quiet boat picture give you?",
+      "observation": "List the shapes and lines you see. What did you notice last?",
+      "analysis": "How does the sail lead your eyes around the picture?",
+      "line": "How do lines show water, sky, and the boat?",
+      "shape": "Which shapes in the boat are triangles, curves, or straight lines?",
+      "color": "There is no color. How do light and dark help you see things?",
+      "texture": "How can you tell tiny lines were used to make dark areas?",
+      "space": "How does the artist show the boat is close or far?",
+      "light": "Where is the sun or light in the picture?",
+      "meaning": "A cat boat is a small sailboat. Why might Hopper choose such a simple subject?",
+      "culture": "Hopper lived in the United States near the sea in summer. How might the sea inspire artists?",
+      "technique": "An etching starts as lines cut into metal. How is that different from drawing with pencil?",
+      "personal": "What simple thing would you make a print of?",
+      "critical": "Can a plain black-and-white picture still feel special? Explain."
+    },
+    "g35": {
+      "daily": "What can you tell about the boat and its place from lines alone?",
+      "emotion": "What mood does the print have, and which marks create it?",
+      "observation": "Look slowly. What small area of lines or shading did you notice late?",
+      "analysis": "How does Hopper arrange the boat and the horizon so the picture feels balanced?",
+      "line": "How do directions of lines show water, sky, and sail?",
+      "shape": "How do triangle sails and horizontal water lines contrast?",
+      "color": "The print has no color. How do light and dark take its place?",
+      "texture": "How do dense and open lines create texture?",
+      "space": "How does the artist show depth in a flat print?",
+      "light": "How does shading suggest the direction of sunlight?",
+      "meaning": "The museum offers only a title and medium. What can you say with confidence?",
+      "culture": "Hopper made prints before he became famous for paintings. Why might an artist try several media?",
+      "technique": "Why might an etching be made in several copies?",
+      "personal": "What do you think Hopper wanted viewers to feel?",
+      "critical": "How is a small print different from a large painting in the way you look at it?"
+    },
+    "g68": {
+      "daily": "How does Hopper use line alone to suggest water, sail, and air?",
+      "emotion": "How does the black-and-white palette shape the mood?",
+      "observation": "What do you know from the museum, and what must you infer from what you see?",
+      "analysis": "How does the composition place the boat in space?",
+      "line": "How do line direction and density create rhythm?",
+      "shape": "How do geometric sail shapes contrast with water lines?",
+      "color": "How does tonal contrast replace color?",
+      "texture": "How does an etched line differ from a pencil line?",
+      "space": "How does a flat sheet suggest horizon and distance?",
+      "light": "How does shading create a sense of light?",
+      "meaning": "What might Hopper learn by working in etching before painting, and how might that show up later?",
+      "culture": "How might summer boating have been part of American leisure in the 1920s?",
+      "technique": "Why might an artist simplify a subject to a single boat?",
+      "personal": "How would you create a print with a single subject and strong mood?",
+      "critical": "Can a small, quiet print be as important as a famous painting? Explain."
+    },
+    "g910": {
+      "daily": "How does Hopper evoke atmosphere through economy of line?",
+      "emotion": "How does the monochrome palette concentrate emotional tone?",
+      "observation": "Analyze how the composition places the boat within the water and sky.",
+      "analysis": "How do line direction and density create rhythm and space?",
+      "line": "How do geometric forms of the sail interact with horizontal bands?",
+      "shape": "How does tonal contrast build volume and light?",
+      "color": "How do etching techniques shape line character?",
+      "texture": "How does the sheet suggest space with minimal means?",
+      "space": "How does shading imply the source and quality of light?",
+      "light": "What responsibility do viewers have when the museum gives no description?",
+      "meaning": "How might early etchings help us see continuities in Hopper's later painting?",
+      "culture": "How does this print reflect early twentieth-century American interest in coastal leisure?",
+      "technique": "What does the small, quiet subject reveal about Hopper's attention to ordinary things?",
+      "personal": "How does your response change if you imagine the print in color?",
+      "critical": "How should we weigh a lesser-known work against an iconic one?"
+    },
+    "g1112": {
+      "daily": "How does the etching construct a convincing marine space from incised lines?",
+      "emotion": "How does the absence of color complicate or concentrate the work's emotion?",
+      "observation": "Distinguish the visual evidence from the narrative of Hopper's career. How do they affect interpretation?",
+      "analysis": "How does the compositional arrangement of boat and horizon convey stillness or tension?",
+      "line": "How does line density function as both description and rhythm?",
+      "shape": "How does geometric simplification anticipate Hopper's later painting?",
+      "color": "How does tonal range replace chromatic variety?",
+      "texture": "How does the etching medium shape the work's relationship to craft and reproduction?",
+      "space": "How does the flat sheet negotiate depth?",
+      "light": "How does the treatment of light connect to Hopper's later interest in illumination?",
+      "meaning": "With so little museum commentary, how can interpretation remain provisional and responsible?",
+      "culture": "How does printmaking figure in the economics and experimentation of early twentieth-century American artists?",
+      "technique": "How does the subject of leisure boating relate to broader cultural themes of the 1920s?",
+      "personal": "How do your own associations with coastal places shape your reading?",
+      "critical": "What does it mean to appreciate a minor work for its own qualities rather than as a precursor?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, artist and medium (etching) checked against the Art Institute of Chicago record; no concerning terms. The record has no description, so student text relies on the title and medium; a person must confirm the image before release. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1922 etching by Edward Hopper in the Art Institute of Chicago. The museum record gives only the title and medium, so a person must review the image. The work is in copyright, so no image is linked yet.",
+    "vocabulary": [
+      "etching",
+      "line",
+      "tone",
+      "catboat",
+      "composition",
+      "printmaking"
+    ],
+    "directions": [
+      "Have students scratch a simple boat scene into a foam plate and print it in one color.",
+      "Ask students to compare how dark and light are shown in a pencil drawing and a print.",
+      "Discuss how an artist can express mood without color."
+    ]
+  }
+}

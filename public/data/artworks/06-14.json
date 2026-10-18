@@ -1,0 +1,158 @@
+{
+  "id": "met-156212",
+  "day": "06-14",
+  "title": "Fan",
+  "artist": "Artist unknown",
+  "date": "third quarter 18th century",
+  "medium": "mother-of-pearl, paper, gouache",
+  "region": "France (probably)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ci/web-large/54.78.4_front_CP4.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ci/original/54.78.4_front_CP4.jpg",
+    "credit": "The Metropolitan Museum of Art, Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Orme Wilson, 1954",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A folding fan opened out in a half circle against a plain background. It has pale, shimmering mother-of-pearl sticks and a painted paper leaf showing small figures of people.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/156212",
+    "objectId": "156212",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, credit line, objectName, tags (Men, Women), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A folding fan made in the third quarter of the 18th century, which the Met describes as probably French. It combines mother-of-pearl sticks with a paper leaf painted in gouache, and the record's tags indicate that men and women appear in the painted scene.",
+  "descriptions": {
+    "k": "This is a folding fan. It opens like a half moon. The thin sticks are shiny, like the inside of a seashell. The paper part is painted with tiny people. How many people can you find?",
+    "g12": "This fan opens into a half circle. Its sticks are made of mother-of-pearl, the shiny inside of a shell. The paper has a painted scene with men and women. It was made in the 1700s, probably in France. What do you think the painted people are doing?",
+    "g35": "This folding fan was probably made in France in the middle of the 1700s. The sticks are mother-of-pearl, the smooth, shimmering lining of a shell, and the folded paper is painted with gouache, an opaque watercolor. The painted scene includes men and women. Fans were used to cool the face, but they could also show taste and wealth. What details of the painting would you want to look at closely?",
+    "g68": "This French-style fan from the middle of the eighteenth century joins two materials: shimmering mother-of-pearl sticks and a paper leaf painted in gouache. Like many fans of its time, it carries a small painted scene, here with men and women, which a viewer could study when it was open. A fan was both a useful tool and a fashion accessory. How does the shape of the fan, a half circle, affect how a painter arranges a scene?",
+    "g910": "Probably French and made in the third quarter of the eighteenth century, this fan turns an accessory into a portable picture. Gouache gives the leaf its opaque colors, while mother-of-pearl sticks add iridescence that changes with the angle of view. The semicircular format asks the painter to compose within a curved field. Consider how an object that opens and closes shapes both viewing and meaning, and what we cannot know about its owner.",
+    "g1112": "As an accessory that unfolds, this fan creates a distinctive relationship between object and viewer. The painted leaf, with its scene of men and women, would have been seen in motion and at close range, in social settings where how someone held or displayed a fan was part of self-presentation. The Met's record offers no owner or story, so interpretations of its imagery should be tentative. How do fans like this connect luxury craft, sociability, and gender in the eighteenth century?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine holding this fan at a party long ago. What would you do with it?",
+      "emotion": "Does the fan make you feel quiet, fancy, or playful? Why?",
+      "observation": "Find the shiny sticks and the painted paper. What else can you find?",
+      "analysis": "What do you look at first, the painted part or the shiny sticks?",
+      "line": "Trace the curve at the edge of the fan with your finger. Is it a big curve or a small one?",
+      "shape": "The fan makes a half circle. What other shapes can you find in the painting?",
+      "color": "Which colors in the painting are soft? Which are brightest?",
+      "texture": "The sticks look smooth and shiny. How is the paper different?",
+      "space": "Which painted people look close to you, and which look far away?",
+      "light": "Where do the shiny sticks catch the light?",
+      "meaning": "Why might someone want a picture on a fan instead of a plain fan?",
+      "culture": "This fan was made in France long ago. What do people use today to keep cool or look fancy?",
+      "technique": "The painted picture is very small. What do you think a painter used to make tiny people?",
+      "personal": "If you could paint a picture on a fan, what would it show?",
+      "critical": "Is a fan more useful or more beautiful? Tell why you think so."
+    },
+    "g12": {
+      "daily": "What do you think the men and women in the little painting are doing? Use clues from the picture.",
+      "emotion": "How does the soft, pale color of the fan make you feel?",
+      "observation": "List five things you see on this fan, from the sticks to the painting.",
+      "analysis": "How does the half-circle shape help you look at the painted scene?",
+      "line": "Find the long lines of the sticks. How do they spread out from one point?",
+      "shape": "The fan opens like a slice of a circle. How does the painting fit into that shape?",
+      "color": "Mother-of-pearl shimmers with soft colors. How do they look next to the painted paper?",
+      "texture": "Which part looks glossy and which part looks soft or flat?",
+      "space": "In the painted scene, how can you tell who is near and who is far?",
+      "light": "Mother-of-pearl changes as you move it. Where would the fan sparkle when it moves?",
+      "meaning": "Why might a person choose a fan with people painted on it?",
+      "culture": "The Met says this fan is probably French. What might a fan tell us about how people dressed for parties then?",
+      "technique": "Gouache is a thick, opaque paint. Why might it be good for a tiny picture on paper?",
+      "personal": "What do you carry with you that you like to show to friends? Tell about it.",
+      "critical": "A fan can cool you or show your style. Which job is more important? Give a reason."
+    },
+    "g35": {
+      "daily": "Imagine you are the owner of this fan in the 1700s. What would you want people to notice about it?",
+      "emotion": "What mood does the delicate painting and shimmering material give the fan?",
+      "observation": "Look for one minute at the painted scene. What small details about the people do you find?",
+      "analysis": "How does the painter arrange the scene so it fits the curved edge of the fan?",
+      "line": "How do the straight lines of the sticks compare with the curved edge of the fan?",
+      "shape": "A folded fan opens in a half circle. What shapes inside the painting echo that curve?",
+      "color": "Gouache colors are opaque, which means they cover what is beneath. How does that affect how the colors look?",
+      "texture": "How do the smooth sticks and the painted paper look and feel different?",
+      "space": "How can a painter show depth on a leaf of paper that is curved and folded?",
+      "light": "How do the sticks show changing light when the fan moves?",
+      "meaning": "Why might the painter include both men and women in the scene?",
+      "culture": "The fan is probably French, from around 1750 to 1775. What does it suggest about how people of that time showed their style?",
+      "technique": "Mother-of-pearl comes from inside shells. Why might a maker choose it for the sticks?",
+      "personal": "Think of something you wear or carry to show your style. How is it like this fan?",
+      "critical": "The record does not say who made or owned this fan. What can we still learn from it?"
+    },
+    "g68": {
+      "daily": "How does this fan work as both a tool and a miniature picture?",
+      "emotion": "How do the shimmering sticks and delicate painting create an elegant mood?",
+      "observation": "Describe the fan from the sticks to the leaf. Which details seem the most delicate?",
+      "analysis": "How does the fan's folded structure shape what the painter can show?",
+      "line": "How do the radiating lines of the sticks guide your eye toward the painted scene?",
+      "shape": "Why is the half circle a challenging format for a painted scene?",
+      "color": "How does the opaque color of gouache contrast with the shimmer of mother-of-pearl?",
+      "texture": "How might the touch of smooth shell differ from the touch of painted paper?",
+      "space": "How might the curve of the leaf, and the folds, affect how the picture appears in depth?",
+      "light": "How does the iridescence of mother-of-pearl change as the fan moves, and why might the owner have liked that effect?",
+      "meaning": "What might a scene with men and women suggest about social life in the fan's world?",
+      "culture": "How could a fan have been used to communicate or show status in eighteenth-century social settings?",
+      "technique": "Why would a maker combine two materials, shell and paper, in a single object?",
+      "personal": "What objects in your life are meant to be both used and seen by others?",
+      "critical": "How should we interpret the painted scene when we do not know who commissioned it?"
+    },
+    "g910": {
+      "daily": "How does the fan's ability to open and close change how a viewer experiences its imagery?",
+      "emotion": "How does the interplay of delicate painting and shimmering shell shape the fan's emotional tone?",
+      "observation": "Describe the hierarchy of elements: leaf, sticks, and painted figures. What draws attention first?",
+      "analysis": "How does the composition adapt to the fan's semicircular format and folds?",
+      "line": "How do radial lines of the sticks organize the viewer's gaze, and how does the painting respond to them?",
+      "shape": "How does the half-circle silhouette shape the visual logic of the scene?",
+      "color": "How does the matte, opaque palette of gouache contrast with the shifting luster of mother-of-pearl?",
+      "texture": "How does the combination of shell and paper show deliberate material contrasts?",
+      "space": "How do the folds of the leaf interact with the painted illusion of depth?",
+      "light": "How might mother-of-pearl have played with candlelight to make the fan seem alive?",
+      "meaning": "What might the scene of men and women communicate about courtship, leisure, or sociability, and where is that uncertain?",
+      "culture": "How does a fan like this reflect the role of accessories in expressing status and taste in eighteenth-century France?",
+      "technique": "What skills might be divided between the maker of the sticks, the painter of the leaf, and the assembler?",
+      "personal": "How does using an accessory change how you behave and how others see you?",
+      "critical": "Should a fan be judged as a painting, as a craft object, or as a fashion item? Defend one view."
+    },
+    "g1112": {
+      "daily": "What can be argued from what is visible about how this fan was used and viewed, and what remains conjecture?",
+      "emotion": "How does an object designed to be moved and glimpsed complicate a single emotional reading of its imagery?",
+      "observation": "Describe the fan's materials and composition precisely. Where does description become interpretation?",
+      "analysis": "Analyze how the fan's structure of leaf and sticks conditions its mode of address to the viewer.",
+      "line": "How does radial geometry structure the painted field, and what does that suggest about design conventions for fans?",
+      "shape": "How does the semicircular format constrain narrative composition, and how might painters have exploited it?",
+      "color": "How does the juxtaposition of opaque pigment and iridescent shell contribute to the fan's identity as luxury goods?",
+      "texture": "How do material properties such as the sheen of mother-of-pearl and the matte finish of gouache define the sensory experience of the object?",
+      "space": "How does an object that folds and unfolds challenge the idea of a fixed pictorial space?",
+      "light": "How does the object's dependence on motion and light complicate its representation in a still photograph?",
+      "meaning": "How might fans have functioned in coded social behavior, and what are the risks of overstating such claims?",
+      "culture": "How does the attribution to France in the third quarter of the eighteenth century place the fan within wider networks of fashion, trade, and craft specialization?",
+      "technique": "What does the combination of shell, paper, and gouache suggest about the division of labor in fan production?",
+      "personal": "How do your own habits of display and accessory shape what you assume this object meant to its owner?",
+      "critical": "What are the limits of interpreting a fan's imagery without knowing its owner, and what additional evidence would help?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, objectName (Fan), medium (mother-of-pearl, paper, gouache), and tags (Men, Women) checked against the museum record: no flagged terms. The painted scene itself was not visually inspected in this build, so its exact content is not described beyond the tags. A person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A folding fan probably made in France in the third quarter of the 18th century, with mother-of-pearl sticks and a leaf painted in gouache. The record does not describe the painted scene beyond tags for men and women.",
+    "vocabulary": [
+      "gouache",
+      "mother-of-pearl",
+      "leaf (of a fan)",
+      "stick",
+      "iridescent",
+      "accessory"
+    ],
+    "directions": [
+      "Have students fold a paper fan and design a scene that fits the half-circle shape.",
+      "Discuss which objects people carry today as both tools and fashion statements.",
+      "Compare how shimmering materials look in motion versus in a still photograph."
+    ]
+  }
+}

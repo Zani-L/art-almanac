@@ -1,0 +1,158 @@
+{
+  "id": "met-44319",
+  "day": "02-26",
+  "title": "Figure of a Standing Dog",
+  "artist": "Artist unknown",
+  "date": "1st–2nd century",
+  "medium": "Earthenware with green glaze",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/LC-1994_605_18-003.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/LC-1994_605_18-003.jpg",
+    "credit": "The Metropolitan Museum of Art, Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small pottery figure of a dog standing on four legs, covered in a glossy green glaze. The glaze pools and shines over the dog's body.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/44319",
+    "objectId": "44319",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Eastern Han dynasty, 25–220), creditLine, classification (Ceramics), tags (Dogs), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This glazed clay dog was made in China during the Eastern Han dynasty (25-220). Han-period tombs often contained pottery models of animals, houses, and everyday things, and dogs are among the animals commonly shown. The green color comes from a lead glaze, a type of glaze used in Han China.",
+  "descriptions": {
+    "k": "This is a little dog made of clay. It is covered with shiny green glaze. The dog stands on four legs. Is it ready to play or to guard? What do you think?",
+    "g12": "A potter in China made this dog from clay almost two thousand years ago. Then the dog was covered with shiny green glaze. It stands on four sturdy legs. Look at the dog's body and legs. Does it look friendly, watchful, or ready to run?",
+    "g35": "This dog was made in China during the Han dynasty, nearly two thousand years ago. The potter shaped it from clay and covered it with a green glaze that turns glossy when baked. Pottery animals like this were often placed in tombs. Look closely at the dog's stance and shape. What did the potter choose to show, and what did the potter leave out?",
+    "g68": "Made in the 1st or 2nd century during the Eastern Han dynasty, this earthenware dog is covered with a green lead glaze. Han tombs often held clay models of animals and household things, and dogs commonly appear among them. Notice the simple, sturdy forms: the potter captured the alert stance of the animal rather than every detail. How does the glossy glaze change the way you see the clay dog?",
+    "g910": "This standing dog reflects the Eastern Han practice of equipping tombs with ceramic models of animals and daily life. The potter reduces the animal to firm, simplified volumes, while the green lead glaze gives a bright, glassy surface that pools in places and thins in others. Scholars generally connect such figures to ideas about providing for the dead, though the exact beliefs varied. Consider how stance, proportion, and glaze together create a convincing, alert presence from a few bold forms.",
+    "g1112": "In Eastern Han funerary practice, ceramic models such as this green-glazed dog populated tombs with animals, buildings, and servants. The record dates the figure to the 1st-2nd century and classifies it as earthenware with green glaze. Interpretation requires caution: dogs may have been associated with guarding, companionship, or household life, but such meanings are inferred from wider evidence rather than stated by the object. Its simplified modeling and glossy glaze invite both close formal reading and critical thought about how we infer belief from material."
+  },
+  "questions": {
+    "k": {
+      "daily": "If this green clay dog could bark, what would it say? Tell what you think.",
+      "emotion": "Does the green dog look happy, sleepy, or alert? What shows you?",
+      "observation": "Count the dog's legs. What other parts of the dog can you find?",
+      "analysis": "What part of the green dog do you look at first? Why?",
+      "line": "Trace the dog's back with your finger in the air. Is it flat or curved?",
+      "shape": "What shapes could you use to build this dog from play dough?",
+      "color": "The dog is covered in green. Does it look like a grass green or a leaf green to you?",
+      "texture": "The green glaze looks shiny. How would the dog feel if you touched it gently?",
+      "space": "The dog stands on four legs. Which side of the dog can you see in the picture?",
+      "light": "Where does the shiny green skin catch the light? Point to a bright spot.",
+      "meaning": "Why might someone want a clay dog to stay with them for a very long time?",
+      "culture": "Long ago, people in China made dogs out of clay. What kinds of dogs do people keep today?",
+      "technique": "This dog was baked in a very hot oven called a kiln. What happened to the glaze to make it shiny?",
+      "personal": "If you had a pet dog made of clay, what would you name it?",
+      "critical": "Is the clay dog like a real dog or different? Find one thing that is the same and one that is different."
+    },
+    "g12": {
+      "daily": "What is the dog doing, and how can you tell from the way it stands?",
+      "emotion": "Does the dog seem calm, curious, or ready to guard? Which part tells you?",
+      "observation": "Describe the dog from head to tail. What parts are easy to see, and what is simplified?",
+      "analysis": "How did the potter shape the dog's body so it feels strong and steady?",
+      "line": "Find the line along the dog's back and the lines of its legs. How are they different?",
+      "shape": "Which parts of the dog look like blocks, and which look rounded?",
+      "color": "The dog is a single bright green. How does one color change the way you see its shape?",
+      "texture": "The glaze looks glassy and the clay beneath looks plain. How might those two surfaces feel different?",
+      "space": "The dog is a small sculpture you could walk around. What would you see from behind it?",
+      "light": "Where does the shiny glaze catch the most light on the dog's body?",
+      "meaning": "People placed clay animals in tombs so the person would have company and help. Why might a dog be a good choice?",
+      "culture": "This dog was made in Han China almost two thousand years ago. What does it show about how people felt about dogs?",
+      "technique": "The potter shaped the clay by hand or with molds, then glazed and fired it. Why is glaze useful as well as pretty?",
+      "personal": "What animal would you want near you if you had to go on a long journey? Why?",
+      "critical": "The potter left out many tiny details. Why might a simple dog still look like a dog?"
+    },
+    "g35": {
+      "daily": "What do you notice about this dog's stance, and what personality does it suggest?",
+      "emotion": "What mood does the dog's body language communicate? Use details from its stance as evidence.",
+      "observation": "Look for one minute. What small features of the dog's body or glaze can you find that you missed at first?",
+      "analysis": "How does the potter organize the dog's body, legs, and head so that the figure looks balanced?",
+      "line": "How do the curved and straight lines of the dog's back, legs, and tail work together?",
+      "shape": "What simple shapes did the potter use to build the dog? Which were hardest to join together?",
+      "color": "The green glaze gives the dog a strong color. How does that color affect the way you see the clay form beneath?",
+      "texture": "How does the shiny glaze make the dog's surface feel different from bare clay?",
+      "space": "The dog is a three-dimensional sculpture. What can you learn from this view, and what would you want to see from another angle?",
+      "light": "Where does the glaze reflect light, and what does that tell you about its glossy surface?",
+      "meaning": "Han dynasty tombs often contained clay animals. What might a dog have meant to the family who placed it there?",
+      "culture": "How is this dog like or unlike the pets and working dogs people have today?",
+      "technique": "The dog was shaped, glazed, and fired. Which of these steps do you think changed its appearance most?",
+      "personal": "Think of an animal you know well. What details would you use to show its character in clay?",
+      "critical": "What can this dog teach us about the Han dynasty, and what can it not tell us?"
+    },
+    "g68": {
+      "daily": "How does the potter give this small clay dog a sense of alertness with only a few bold forms?",
+      "emotion": "What attitude does the dog's posture express, and which features contribute?",
+      "observation": "Examine the dog from nose to tail. Which details are modeled carefully, and which are simplified?",
+      "analysis": "How do the body, legs, and head work together to create stability and a sense of readiness?",
+      "line": "How do the contours of the dog's back and legs define its pose, and where do they change direction?",
+      "shape": "How does the potter balance sturdy, block-like forms with softer curves to make a believable dog?",
+      "color": "How does a single, strong green glaze unify the figure, and what might be lost compared with a multicolored surface?",
+      "texture": "How does the glossy lead glaze alter the look of the clay body, and where might it have thickened or thinned?",
+      "space": "How does this sculpture occupy space, and what choices make it clear from a single viewpoint?",
+      "light": "How does the glaze's shine reveal the dog's volumes, and how might changing light affect its appearance?",
+      "meaning": "Why might Han families have included animal models like this dog in a tomb? What evidence supports your idea, and what remains uncertain?",
+      "culture": "What can a clay dog tell us about how Han households related to animals and about beliefs on caring for the dead?",
+      "technique": "Lead glazes turn glossy and green when fired. How would that technology make clay figures more striking than plain earthenware?",
+      "personal": "If you were to choose objects to accompany a memory of home, which animal or thing would you pick, and why?",
+      "critical": "Is a simplified animal figure less or more expressive than a very detailed one? Defend your view with this dog as evidence."
+    },
+    "g910": {
+      "daily": "How does the Han potter use simplification, posture, and glaze to give this dog a clear character?",
+      "emotion": "How does the dog's stance create an impression of vigilance or companionship without any detailed expression?",
+      "observation": "Describe this figure's visual hierarchy: which areas of form or glaze draw your attention first, and why?",
+      "analysis": "Analyze how the proportions of head, torso, and legs create a unified, believable animal presence.",
+      "line": "How does the contour of the dog's back and legs communicate tension and stability?",
+      "shape": "How does the translation of a living dog into basic volumes affect its character as a symbol?",
+      "color": "How does the monochrome green glaze shape our reading of the dog as an object rather than a lifelike animal?",
+      "texture": "How does the contrast between glassy glaze and underlying earthenware add to the figure's material presence?",
+      "space": "How does a modeled figure meant to stand in a tomb differ in spatial effect from an image meant to hang on a wall?",
+      "light": "How does reflected light across the glaze shape our perception of the dog's anatomy?",
+      "meaning": "How do scholars infer beliefs about the afterlife from tomb models, and what are the limits of that evidence?",
+      "culture": "How might the inclusion of a dog among tomb models reflect Han ideas about household, protection, and continuity?",
+      "technique": "How does the use of lead glaze and kiln firing combine practical and aesthetic purposes in this figure?",
+      "personal": "How does an object designed for burial change the way you think about the relationship between art and memory?",
+      "critical": "How should a viewer weigh the object's funerary purpose against its qualities as a work of art when evaluating it?"
+    },
+    "g1112": {
+      "daily": "What might it mean that a tomb figure so plainly simplified can still convey presence, and what does this suggest about how its makers worked?",
+      "emotion": "How does restraint in detail shape the emotional impact of this dog, and how might ancient and modern viewers differ in response?",
+      "observation": "Describe this dog with precision, noting where your language already begins to interpret.",
+      "analysis": "Analyze how mass, silhouette, and surface sheen together build a persuasive figure from minimal means.",
+      "line": "How does the outline of the dog balance naturalistic observation and stylization?",
+      "shape": "How does the reduction of an animal to compact volumes reflect broader strategies in ceramic tomb sculpture?",
+      "color": "How might the transformation of lead glaze in the kiln, and its aging in burial, affect the green we see today?",
+      "texture": "How does the vitreous glaze operate between decorative skin and protective coating, and why does that distinction matter for tomb objects?",
+      "space": "How does a small freestanding figure invite physical closeness that differs from the experience of monumental sculpture?",
+      "light": "How do museum display conditions mediate our perception of glossy glaze compared with the original tomb setting?",
+      "meaning": "Considering guard, companion, and offering as possible roles for tomb dogs, which interpretations are best supported, and which are speculative?",
+      "culture": "How do tomb models like this dog complicate the line between art, ritual, and documentation of everyday life in Han society?",
+      "technique": "What does the glazed earthenware technique suggest about workshop production, standardization, and demand in Eastern Han China?",
+      "personal": "How do your own associations with dogs shape your reading of this figure, and where might those associations mislead you?",
+      "critical": "Given what we cannot know about ancient viewers, how should museums balance aesthetic appreciation with historical caution for objects like this?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Figure of a Standing Dog), classification (Ceramics), medium (earthenware with green glaze), and tags (Dogs) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An Eastern Han dynasty (25-220) glazed pottery dog, 1st-2nd century. Han tombs commonly included ceramic models of animals and daily-life items.",
+    "vocabulary": [
+      "Han dynasty",
+      "earthenware",
+      "glaze",
+      "kiln",
+      "tomb model",
+      "stylization"
+    ],
+    "directions": [
+      "Have students sculpt a simple clay or play-dough animal using only three or four basic shapes.",
+      "Compare this dog with another animal figure from the archive and discuss what each shows about its culture.",
+      "Discuss why people place objects with a person who has died, and how customs differ around the world."
+    ]
+  }
+}

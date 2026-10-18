@@ -1,0 +1,158 @@
+{
+  "id": "met-677838",
+  "day": "04-20",
+  "title": "Processional Cross",
+  "artist": "Artist unknown (Ethiopia, Lasta region)",
+  "date": "early 15th century",
+  "medium": "Copper alloy",
+  "region": "Lasta region, Ethiopia",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP13314-041.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP13314-041.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Mariana and Ray Herrmann Gift, 2015",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A flat metal cross with decorated arms and patterned details, shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/677838",
+    "objectId": "677838",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, region, classification, tags (Cross), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A processional cross from the Lasta region of Ethiopia, made of copper alloy in the early 15th century. Christianity has a very long history in Ethiopia, and crosses of many designs were made for use in church life. A processional cross is carried in a procession, usually mounted on a staff. The record lists it as 35.6 centimeters tall.",
+  "descriptions": {
+    "k": "This is a cross made of metal. It was made in Ethiopia a very long time ago, more than 500 years. A cross like this can be carried on a pole. What patterns can you find on it?",
+    "g12": "This metal cross was made in Ethiopia more than 600 years ago. It is a processional cross, which means people carried it in a parade or procession. Look at the patterns on it. Which lines curve, and which lines are straight? Can you find a pattern that repeats?",
+    "g35": "This copper-alloy cross was made in the Lasta region of Ethiopia in the early 1400s. It is a processional cross, which means it was carried in church processions, often on a staff. Ethiopian crosses are known for their detailed patterns and many different shapes. Look for repeated patterns and for places where there is open space. How does the maker turn a simple cross into a decorated work of art?",
+    "g68": "Ethiopia has one of the oldest Christian traditions in the world, and metalworkers there have made crosses in a great variety of shapes. This processional cross, made in the Lasta region in the early 15th century, would have been carried on a staff in church ceremonies. Its decoration, made in metal, shows how a sacred symbol can also be an object of craft. Notice how patterns, edges, and empty spaces work together. How does the design make you look closely at every part of the cross?",
+    "g910": "This early 15th-century processional cross from the Lasta region reflects Ethiopia's long Christian tradition and its metalworkers' skill at turning a single symbol into many forms. Ethiopian crosses vary widely by region and period, and decoration may include interlace, openwork, and repeated motifs. As a processional object, it was made to be carried and seen in motion, which affects how we think about its shape and surface. How do ornament and symbol balance on this cross, and how might its use in procession have shaped its design?",
+    "g1112": "Ethiopian crosses form one of the richest bodies of metalwork in Christian art, and this early 15th-century example from the Lasta region shows both the long continuity of the tradition and its regional variety. Its form, ornament, and size suggest an object designed for movement and display in church procession, but the museum record gives limited detail about its original context. Studying a cross like this raises questions about how art objects serve religion and craft at the same time, and about how a museum's setting changes the way a devotional object is seen. How can a viewer respect its original purpose while analyzing its design?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What patterns do you see on this cross? Point to your favorite one.",
+      "emotion": "Does this cross feel calm, busy, or something else? Why?",
+      "observation": "What can you find on the cross? Point to three things.",
+      "analysis": "Which part of the cross grabs your eyes first? Which part comes next?",
+      "line": "Can you find a curved line on the cross? Trace it in the air.",
+      "shape": "What shapes can you find in the cross? Look for small shapes that repeat.",
+      "color": "What color is the metal? Is it light, dark, or in between?",
+      "texture": "Metal can feel smooth or bumpy. Which parts of the cross look bumpy?",
+      "space": "Do you see empty spaces in the cross, or is it all filled up? Point to what you see.",
+      "light": "Metal can reflect light. Which parts of the cross look bright, and which look dark?",
+      "meaning": "People carry crosses in parades to show something important. What do you carry when something is special?",
+      "culture": "This cross was made in Ethiopia. What do you know about Africa that you learned from other places or people?",
+      "technique": "Artists make metal crosses by pouring hot melted metal into molds. Why do you think they use metal?",
+      "personal": "What pattern would you put on a special object of your own?",
+      "critical": "This cross is very old. How can you tell it was made with care?"
+    },
+    "g12": {
+      "daily": "How did the maker turn a simple cross into something special? Point to details.",
+      "emotion": "What feeling does the cross give you, calm, proud, or something else? Show what makes you feel that.",
+      "observation": "Describe three patterns or details you can find on the cross.",
+      "analysis": "Which part of the cross do you notice first, and what leads your eyes to the other parts?",
+      "line": "Find curved lines and straight lines on the cross. Which ones are more common?",
+      "shape": "What shapes repeat on the cross? Show where they appear again.",
+      "color": "The cross is made of one metal. How do dark and light parts make the patterns easier to see?",
+      "texture": "Which parts of the cross look smooth, and which look carved or lined?",
+      "space": "Find places where you can see through the cross or where it has empty space. How does that change how it looks?",
+      "light": "Where would light shine on the cross, and where might there be shadows?",
+      "meaning": "A cross is a symbol for many Christians. Why do people make symbols look beautiful?",
+      "culture": "Ethiopia has a very long history of making crosses. Why might many people keep making a shape for hundreds of years?",
+      "technique": "The artist made a model first, then cast metal. Why might patterns be easier to make in a model than in hard metal?",
+      "personal": "What special object is carried or shown at events in your family or community?",
+      "critical": "This cross was made to be carried. How might that change its shape compared with one that stays on a wall?"
+    },
+    "g35": {
+      "daily": "How does the maker turn a simple cross shape into a work of art? Use details from the cross.",
+      "emotion": "What mood does the cross have, calm, solemn, or something else? Which details create it?",
+      "observation": "Look for one quiet minute. Which small details on the cross did you notice only after looking longer?",
+      "analysis": "How do the repeated patterns on the cross guide your eyes from the center to the edges?",
+      "line": "How do straight lines and curving lines work together in the design of the cross?",
+      "shape": "Find a shape that repeats on the cross. How does repetition make the design feel organized?",
+      "color": "The cross is made of one kind of metal. How does the maker use light and dark areas to show pattern?",
+      "texture": "How might cast metal show fine details? Which parts of the cross seem to have the finest detail?",
+      "space": "How does the maker use empty space and filled space to create a design?",
+      "light": "How might the cross look different in candlelight than in a bright museum?",
+      "meaning": "A processional cross is carried so many people can see it. Why might the design need to be clear from far away?",
+      "culture": "Ethiopia has a very long Christian history. What does the cross tell us about the importance of craft in that history?",
+      "technique": "Many Ethiopian crosses were cast in metal using wax models. Why do you think skilled workers were needed for this?",
+      "personal": "Think of an object you made with a lot of patience. How is making it like making this cross?",
+      "critical": "This object was made for use in church life but is now in a museum. What is gained and lost by seeing it there?"
+    },
+    "g68": {
+      "daily": "How does the maker balance a religious symbol with decorative design on this cross?",
+      "emotion": "What feeling does the cross suggest, such as solemnity or celebration, and what visual choices create it?",
+      "observation": "Describe the cross's overall shape and its small details separately. What stands out in each?",
+      "analysis": "How do repeated patterns and empty spaces create rhythm across the cross?",
+      "line": "How do lines, straight, curved, or interlaced, build the cross's design?",
+      "shape": "How does the maker use repeating shapes to unify the cross, and where does variation appear?",
+      "color": "How does the warm tone of copper alloy and the contrast of light and shadow affect your reading of the pattern?",
+      "texture": "How does cast metal allow a maker to show fine texture, and where do you see it on this cross?",
+      "space": "How do filled and open areas work together, and what effect do they have on how light passes through or around the cross?",
+      "light": "How would moving the cross in a procession change the way light plays on its surface?",
+      "meaning": "What visual features help make a symbol recognizable while still allowing artistic variation?",
+      "culture": "How do the many forms of Ethiopian crosses show both shared tradition and regional creativity?",
+      "technique": "What steps are involved in casting metal from a wax model, and how do they affect the design?",
+      "personal": "What symbols do you use to show belonging or beliefs, and how do you make them your own?",
+      "critical": "How might the experience of this cross differ for a worshiper in a procession and a viewer in a museum?"
+    },
+    "g910": {
+      "daily": "How does the cross combine symbolic clarity with decorative richness?",
+      "emotion": "How does the cross create reverence or presence through design alone?",
+      "observation": "Describe the cross's visual hierarchy. What draws your eye first, and which devices make it do so?",
+      "analysis": "Analyze how symmetry and repetition organize the cross, and where variation appears.",
+      "line": "How do outlines, incised lines, and openwork define the cross, and how do they relate to the overall form?",
+      "shape": "How do the major forms of the cross relate to the smaller shapes within them?",
+      "color": "How does the metallic surface and its tonal range, from highlight to shadow, give depth to the pattern?",
+      "texture": "How might casting allow fine details that other media could not, and where is this skill most evident?",
+      "space": "How do negative spaces and solid forms interact, and how might that matter to a cross designed to be seen in motion?",
+      "light": "How would changing light, such as candle flames or sunlight, alter the cross's appearance during a procession?",
+      "meaning": "How can a symbol be both universal within a religion and shaped by regional artistic traditions?",
+      "culture": "How does Ethiopia's long Christian history shape the design and use of crosses, and what makes regional types distinct?",
+      "technique": "How does lost-wax casting, if used here, shape the balance between planning and the final surface?",
+      "personal": "How do objects in your community serve both a religious or cultural purpose and an artistic one?",
+      "critical": "What are the benefits and risks of studying a devotional object mainly for its design?"
+    },
+    "g1112": {
+      "daily": "How does this cross show the interplay of devotion, craft, and regional style, and what evidence supports each?",
+      "emotion": "How might the experience of a cross in procession differ from studying it in a gallery, and what does that mean for how we read its emotional effect?",
+      "observation": "Describe the cross formally and precisely. Where do you want to add context that the object itself does not give?",
+      "analysis": "Analyze how repetition, symmetry, and openwork produce unity and variety, and how that might reflect workshop traditions.",
+      "line": "How do linear patterns, whether interlace or incised, make a flat object appear rich and layered?",
+      "shape": "How does the cross's silhouette participate in a regional tradition of form, and what questions does that raise about originality?",
+      "color": "How do the alloy and its patina influence our view of the cross's original appearance?",
+      "texture": "How might the surface of cast metal preserve evidence of the model, the mold, and later handling?",
+      "space": "How does openwork or negative space transform a solid metal object into something that appears both heavy and light?",
+      "light": "How might the intended viewing conditions of a church procession differ from museum lighting, and how does that alter perception?",
+      "meaning": "How can we study the artistic features of a devotional object while respecting that its primary purpose is religious?",
+      "culture": "How does the history of Christianity in Ethiopia, which long predates its arrival in many other regions, complicate common assumptions about Africa and religion?",
+      "technique": "What does the survival of metal crosses from the early 15th century suggest about their durability and the traditions of their making?",
+      "personal": "How does your own background influence the way you approach an object made for a religious tradition?",
+      "critical": "What does the term 'processional' tell us about how function shapes form, and what is lost when the function is not visible?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Processional Cross), classification (Metalwork-Bronze), object name (Cross), medium (copper alloy), and tag (Cross) checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A copper-alloy processional cross from the Lasta region of Ethiopia, early 15th century. It is a religious object from the Ethiopian Orthodox tradition, so approach it with respect and focus on design and craft.",
+    "vocabulary": [
+      "processional",
+      "copper alloy",
+      "casting",
+      "openwork",
+      "pattern",
+      "symbol"
+    ],
+    "directions": [
+      "Ask students to draw a simple cross and then add three kinds of repeated pattern, explaining their choices.",
+      "Discuss the difference between an object carried in motion and one displayed still, using this cross as an example.",
+      "Connect to geography: locate Ethiopia and the Lasta region on a map, and discuss the long history of Christianity in East Africa."
+    ]
+  }
+}

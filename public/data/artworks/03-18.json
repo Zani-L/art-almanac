@@ -1,0 +1,159 @@
+{
+  "id": "met-19910",
+  "day": "03-18",
+  "title": "Vase",
+  "artist": "Newcomb Pottery",
+  "date": "1902",
+  "medium": "Earthenware",
+  "movement": "Arts and Crafts",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/L.2009.22.220.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/L.2009.22.220.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Robert A. Ellison Jr., 2017",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A hand-decorated clay vase with a soft, matte-looking surface and a design of flowers wrapped around its body.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/19910",
+    "objectId": "19910",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker (Newcomb Pottery), date, medium, culture, country, public-domain flag, tag (Flowers), credit line and image URLs read from the record"
+  },
+  "context": "A clay vase from Newcomb Pottery, made in the United States in 1902. Newcomb Pottery was an art pottery associated with Newcomb College in New Orleans, where women decorated pieces by hand. The Met's record tags this vase with the subject Flowers.",
+  "descriptions": {
+    "k": "This vase is made of clay. Flowers are on its side. People made it by hand a long time ago. Look for the flower shapes. What colors do you see? Where would you put it in your home?",
+    "g12": "This clay vase was made in the United States in 1902. Flowers decorate its sides, and the surface looks soft instead of shiny. A person decorated the vase by hand. Can you find the flowers? Which parts of the design curve, and which parts stay still?",
+    "g35": "Newcomb Pottery made this vase in 1902. It is earthenware, a kind of clay baked in a very hot oven called a kiln. The Met lists flowers as the subject, and the design wraps around the curved body so that you must turn the vase to see it all. Look closely at the flowers and the colors. What do they tell you about the plants and the place that inspired the maker?",
+    "g68": "Newcomb Pottery began as part of Newcomb College in New Orleans, where women learned to design and decorate pottery by hand. This 1902 earthenware vase shows flowers, a favorite subject for the Arts and Crafts movement, which valued handmade objects and natural designs. Notice how the flowers must fit the vase's curved surface and how the colors give a calm, gentle effect. Why might makers in this period have preferred plants and handwork to machine-made decoration?",
+    "g910": "This 1902 Newcomb vase belongs to the American Arts and Crafts movement, which prized handmade design and natural motifs as a response to industrial mass production. The Met's tag of flowers points to the decorative scheme, in which a plant-based pattern is fitted to a curved, three-dimensional surface. Newcomb Pottery was tied to a New Orleans college program that trained women as designers and decorators, raising questions about craft, art, and women's work. Consider how the vase balances usefulness with beauty.",
+    "g1112": "Dated 1902, this earthenware vase belongs to Newcomb Pottery, an enterprise linked to Newcomb College in New Orleans, where women trained as designers and decorators during the Arts and Crafts movement. The floral subject recorded by the Met fits the movement's preference for nature, regional flora, and handwork. The vase also raises questions about the boundary between craft and fine art, the often unnamed labor behind decorative objects, and the market in which they were sold. Because the museum image shows only part of a three-dimensional form, the patterned surface must be imagined as wrapping the whole vase."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the flowers on the vase? Show where they are with your finger.",
+      "emotion": "Does this vase feel soft or hard to you? What do you see that makes you feel that?",
+      "observation": "What parts of the vase can you name? Look for the top, the middle, and the bottom.",
+      "analysis": "Where do your eyes begin on this vase? Where do they go next?",
+      "line": "Can you follow a curvy line on the vase with your finger? Where does it go?",
+      "shape": "What shapes do the flowers make? Are they round, pointy, or both?",
+      "color": "Which color on the vase do you like best? Where is it?",
+      "texture": "This vase looks like clay. How do you think it would feel in your hand?",
+      "space": "The flowers go around the vase. How could you see the part you cannot see in the photo?",
+      "light": "Does the vase look shiny or soft in the light? What do you notice?",
+      "meaning": "Why do you think someone put flowers on a vase?",
+      "culture": "This vase was made at a school where students learned to make pottery. What would you like to learn to make by hand?",
+      "technique": "Clay is baked in a very hot oven. Why do you think the clay needs to be baked?",
+      "personal": "What flower do you like best? Would you put it on a vase?",
+      "critical": "Would you use this vase or only look at it? Tell why."
+    },
+    "g12": {
+      "daily": "How does the flower design fit the curved shape of the vase? Point to where it bends.",
+      "emotion": "What feeling does this calm, flower-covered vase give you? Which parts help you feel it?",
+      "observation": "Look for two minutes. Tell about four things you notice on the vase.",
+      "analysis": "How does the flower design lead your eyes up and around the vase?",
+      "line": "Find lines that curve like stems and lines that frame the flowers. How are they different?",
+      "shape": "How are the shapes of the flowers like or unlike the shape of the whole vase?",
+      "color": "Which colors are soft and which are strong? How do they work together?",
+      "texture": "The vase has a soft, clay-like surface. How is that different from a shiny glass vase?",
+      "space": "A vase has a front and a back. What might the flowers look like on the side we cannot see?",
+      "light": "Where does the vase look lightest and where does it look darkest?",
+      "meaning": "Why might makers have decorated everyday things with flowers in 1902?",
+      "culture": "Newcomb Pottery was made by women artists in New Orleans. Why might handmade things have been important to them?",
+      "technique": "People decorated this vase by hand before it was baked. What might be tricky about drawing on a curved clay surface?",
+      "personal": "What object at home was made by hand? How do you feel about it compared with store-bought things?",
+      "critical": "Is a vase with flowers a work of art or just a useful object? Give a reason."
+    },
+    "g35": {
+      "daily": "How does the maker turn a simple clay container into something worth looking at closely?",
+      "emotion": "What mood does the flower decoration give to the vase? Which colors and shapes create it?",
+      "observation": "Spend one minute scanning the vase slowly. Which small details of the flower design do you notice?",
+      "analysis": "How do the flowers and the shape of the vase work together as one design?",
+      "line": "How do the curving lines of the flowers compare with the smooth outline of the vase?",
+      "shape": "The vase swells and narrows. How does the flower design make use of that shape?",
+      "color": "How do the colors of the flowers and background affect the calm look of the vase?",
+      "texture": "The surface of earthenware can look soft and matte instead of shiny. How does that change the way the flowers look?",
+      "space": "The design has to wrap around a rounded object. How is that harder than decorating a flat page?",
+      "light": "How does light play across the curved surface, and how does that change what you see?",
+      "meaning": "The Met lists flowers as the subject. Why might designers around 1900 have turned to plants for ideas?",
+      "culture": "Newcomb Pottery was connected to a college for women in New Orleans. What might this tell us about opportunities for women artists in 1902?",
+      "technique": "Earthenware is clay baked in a kiln. How might the maker plan a design knowing the vase will be baked afterward?",
+      "personal": "What would you want to decorate by hand, and what pattern would you choose?",
+      "critical": "Should handmade pottery be displayed beside paintings in a museum? Defend your view with details from the vase."
+    },
+    "g68": {
+      "daily": "How does the flower pattern make this vase more than just a container?",
+      "emotion": "What atmosphere does the decoration create, and how do the colors and shapes contribute to it?",
+      "observation": "Describe the vase from the bottom to the top. Where is the design most active, and where is it quiet?",
+      "analysis": "How does the decoration relate to the vase's form? Does it follow the curves or work against them?",
+      "line": "How do flowing lines and outlines give the flower pattern structure while keeping it graceful?",
+      "shape": "How do the repeated flower shapes give the vase rhythm as your eyes travel around it?",
+      "color": "How might a restrained color scheme support the handmade, natural character of the vase?",
+      "texture": "How does a matte clay-like surface differ from glossy glass or metal in the way it presents the design?",
+      "space": "How does a design on a three-dimensional object ask the viewer to move, unlike a design on a flat page?",
+      "light": "How does the curved body of the vase catch light, and how does that change the look of the pattern?",
+      "meaning": "Why might flowers, which fade, be an appealing subject for an object meant to last?",
+      "culture": "The Arts and Crafts movement valued handmade objects over factory goods. How does this vase reflect that belief?",
+      "technique": "Why might decorating pottery by hand require planning for both the shape of the vase and the baking process?",
+      "personal": "When have you preferred something handmade to something mass-produced? What made the difference?",
+      "critical": "Who should get credit for a hand-decorated pottery object: the school, the decorator, or the pottery name? Explain."
+    },
+    "g910": {
+      "daily": "How does the vase integrate floral ornament with its sculptural form to express Arts and Crafts values?",
+      "emotion": "How does the decorative scheme produce a mood of quiet domestic beauty, and which formal choices create it?",
+      "observation": "Describe the visual hierarchy of the vase. What draws your attention first, and how does the design guide you?",
+      "analysis": "Analyze how the floral pattern and the vase's profile reinforce one another.",
+      "line": "How do outline and flowing contour work in the flower design to balance clarity and softness?",
+      "shape": "How does the repetition of floral forms create rhythm across a curved surface?",
+      "color": "How does the vase's palette support the movement's emphasis on natural, harmonious design rather than showy ornament?",
+      "texture": "How does a matte earthenware surface contribute to the handmade character of the object?",
+      "space": "How must a decorator think about design differently when the surface curves around the viewer?",
+      "light": "How does light on a rounded, dull-surfaced object differ from light on glass, and what does that mean for the design?",
+      "meaning": "What might regionally inspired flower designs suggest about local identity and nature in the Arts and Crafts era?",
+      "culture": "How does a pottery connected to a women's college challenge or reinforce the era's ideas about craft, art, and work?",
+      "technique": "How do the demands of hand decoration and kiln firing affect the choices a designer can make?",
+      "personal": "How does your sense of an object's value change when you know it was decorated by hand?",
+      "critical": "Does the label craft limit how we judge this vase compared with a painting? Use visual evidence to argue your position."
+    },
+    "g1112": {
+      "daily": "What can be argued from the vase's form and decoration about how Arts and Crafts ideals were applied to American domestic objects?",
+      "emotion": "How does the vase evoke feeling through restraint, and how does that differ from the emotional strategies of painting?",
+      "observation": "Describe the decoration's organization precisely. When does description of the flowers begin to carry interpretation?",
+      "analysis": "Analyze how the vase's profile, surface, and floral ornament are made to cohere as a single design.",
+      "line": "How does linear patterning contain and articulate the floral subject, and what does that suggest about the decorator's training?",
+      "shape": "How do repeated floral shapes establish a rhythm that must be perceived over time as the viewer turns the vase?",
+      "color": "How might the choice of a limited, natural palette express both aesthetic and ethical values of the movement?",
+      "texture": "In what ways does matte earthenware align with ideas of honesty to materials, and where might that ideal be complicated by decoration?",
+      "space": "How does the vase's three-dimensional form resist the single viewpoint of a museum photograph, and how should that shape our reading of the image?",
+      "light": "How does the interaction of light and a low-gloss curved surface shape the experience of the object in a gallery versus a home?",
+      "meaning": "Evaluate readings of the floral subject as regional identity, decorative convention, or reform ideology, noting what the object alone cannot prove.",
+      "culture": "How does a college-linked pottery staffed by women decorators illuminate the intersection of education, gender, and the market for crafts around 1900?",
+      "technique": "What does the combination of hand decoration and kiln production suggest about the balance between individual artistry and workshop standardization?",
+      "personal": "How does your own relationship to handmade objects shape what you expect of a decorative vase as art?",
+      "critical": "What does the museum's decision to catalogue the maker as Newcomb Pottery, rather than a named decorator, imply about attribution, and what are the consequences?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium and tag (Flowers) read from the Met record; the object is a decorative earthenware vase.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Newcomb Pottery was linked to Newcomb College in New Orleans and is a well-known example of American Arts and Crafts pottery. The Met record dates this vase 1902 and tags the subject as flowers; check the museum image for the details of the design.",
+    "vocabulary": [
+      "earthenware",
+      "kiln",
+      "Arts and Crafts",
+      "matte",
+      "motif",
+      "decorative arts"
+    ],
+    "directions": [
+      "Have students sketch a flower design that will wrap around a paper cylinder, then compare how it looks from different sides.",
+      "Discuss why museums collect everyday handmade objects as well as paintings.",
+      "Compare with another vase in the archive and discuss how material changes the look of a design."
+    ]
+  }
+}

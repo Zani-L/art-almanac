@@ -1,0 +1,152 @@
+{
+  "id": "met-464480",
+  "day": "09-10",
+  "title": "Coffret",
+  "artist": "Artist unknown",
+  "date": "ca. 1190",
+  "medium": "Champlevé enamel on gilded copper (medallions); wood core with applied parchment, gesso, and traces of red paint (coffret)",
+  "movement": "Romanesque",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/md/web-large/DT240746.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/md/original/DT240746.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small medieval casket with a wooden core, decorated with round enamel medallions in colored glass on gilded copper, showing imaginary creatures.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/464480",
+    "objectId": "464480",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, object name (Coffret), date, medium, culture (French), classification (Enamels-Champlevé), tags (Mythical Creatures), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small casket, or coffret, made in France around 1190. Its decoration is a set of champlevé enamel medallions on gilded copper, mounted on a wooden core covered with parchment and gesso. The museum's tag for the medallions is mythical creatures.",
+  "descriptions": {
+    "k": "This is a small treasure box from long ago. It has round pictures on it, made of shiny colored glass and metal. The pictures show make-believe creatures. Can you find a creature with wings or a tail?",
+    "g12": "This little box, called a coffret, was made in France about 830 years ago. Its sides have round medallions, which are small round pictures. They are made of colored glass fired onto gold-covered copper. The pictures show imaginary creatures. Which creature would you most like to meet?",
+    "g35": "This coffret, a small casket, was made in France around 1190. The round medallions are champlevé enamel: craftspeople dug little hollows in gilded copper, filled them with colored glass powder, and heated them until the glass melted. The box itself is wood covered with parchment and gesso. The museum notes mythical creatures. Look at the medallions. How do the colors and shapes make the creatures stand out?",
+    "g68": "Around 1190, a French workshop made this coffret with champlevé medallions, which means the design is made by carving hollows in copper, filling them with powdered glass, and firing them. The copper is gilded, so gold shines between the colors. The medallions are mounted on a wooden box covered with parchment and gesso. The museum lists mythical creatures among the subjects. Why might a small treasure box be decorated with imaginary beasts, and how does the circular medallion shape guide the design?",
+    "g910": "This coffret of about 1190 pairs a wood core, covered with parchment and gesso and once painted red, with champlevé enamel medallions on gilded copper. The technique, carving cells into metal and filling them with glass, produces strong outlines and saturated color. The record's tag, mythical creatures, points to a taste for fantastic animals common in Romanesque art, though their meaning in a small box is debated. The coffret survives as an object assembled from several materials. How do contrast and enclosure shape the way the creatures appear?",
+    "g1112": "A French coffret of about 1190, this object combines a wooden casket, parchment, gesso, red paint, and champlevé enamel medallions on gilded copper. Its imagery of mythical creatures belongs to a medieval taste for fantastic beasts whose significance scholars discuss: they may have been decorative, moralizing, or protective. The record alone does not settle their purpose or the casket's original use. Because the object has been conserved and displayed in a museum, its present appearance may differ from its first. How do we separate the maker's design from the changes of time when interpreting such a piece?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a creature on the box. What is its name and what does it do?",
+      "emotion": "Do the creatures look friendly, silly, or fierce? What shows it?",
+      "observation": "Count the round pictures you can find. How many creatures are there?",
+      "analysis": "Which round picture do your eyes find first? What makes it stand out?",
+      "line": "Trace the line around a creature's body with your finger. Is it curved, pointy, or both?",
+      "shape": "The pictures are round circles on a box. What other shapes do you see in the creatures?",
+      "color": "Which colors do you see in the creatures? Which one is the brightest?",
+      "texture": "The metal is shiny and the colors are smooth glass. How would they feel different from wood?",
+      "space": "Where on the box do the round pictures sit? Show the middle and the edges.",
+      "light": "Gold and glass sparkle in the light. Which parts of the box would sparkle?",
+      "meaning": "What do you think this box was used to keep safe?",
+      "culture": "People in France long ago made small boxes like this. What do you keep in a box at home?",
+      "technique": "Craftspeople filled little hollows with colored glass and baked them. Why do you think they had to be careful?",
+      "personal": "If you had a treasure box, which imaginary creature would you put on it?",
+      "critical": "The creatures are from imagination, not nature. How can you tell?"
+    },
+    "g12": {
+      "daily": "What do the medallions on this coffret show? Use details to describe one creature.",
+      "emotion": "What feeling do the imaginary creatures give you, playful, scary, or mysterious? Which parts help you decide?",
+      "observation": "Describe two medallions. What colors, shapes, and creature parts do you see?",
+      "analysis": "How does the circle shape help the artist place the creature inside?",
+      "line": "Find the gold lines that separate the colors. How do they help you see the creature?",
+      "shape": "The medallions are round and the coffret is a box. How do the shapes work together?",
+      "color": "Look at the blue and other colors next to the gold. How do they make each other look brighter?",
+      "texture": "Enamel is glass, copper is metal, and the box has a wood core. Which part do you think is smoothest?",
+      "space": "The creatures fill their circles. How does the artist use all the space?",
+      "light": "Where would light make the gilded copper shine most?",
+      "meaning": "Imaginary creatures appear in many old stories. What stories might these creatures come from?",
+      "culture": "This coffret was made in France around 1190. What does it tell you about the things people valued then?",
+      "technique": "Champlevé means raised field. The artist carves hollows and fills them with glass. Why does that keep the colors apart?",
+      "personal": "Design your own medallion with an imaginary creature. What shape and colors will you use?",
+      "critical": "Is this box mainly useful or mainly beautiful? Use details to explain."
+    },
+    "g35": {
+      "daily": "How do the medallions turn a plain wooden casket into a treasure? Point to the details that matter most.",
+      "emotion": "What mood do the mythical creatures create, playful, mysterious, or something else? Which details support your idea?",
+      "observation": "Spend a minute looking at one medallion. What small details of the creature do you find?",
+      "analysis": "How are the medallions arranged on the coffret so the whole object feels balanced?",
+      "line": "How do the metal lines between the enamel colors work like drawn outlines?",
+      "shape": "How does the creature's body fit into the round shape, with curves echoing the frame?",
+      "color": "Enamel colors are bold and flat. How does the gilded copper help each color stand out?",
+      "texture": "Compare the glassy enamel, the shining metal, and the wood core. How might each feel and look?",
+      "space": "The creatures are flat shapes without much depth. How does the artist still make them feel lively?",
+      "light": "How might gilded copper and enamel look different in candlelight than in daylight?",
+      "meaning": "Why might a small box be decorated with imaginary creatures instead of everyday scenes?",
+      "culture": "Metal and enamel work was a skill of French workshops in the 1100s. What does a decorated coffret say about its owner?",
+      "technique": "The enamel is fired in a hot oven. Why might a workshop need to plan each color before firing?",
+      "personal": "What small object at home or school do you decorate or take care of? Why?",
+      "critical": "The record says traces of red paint remain on the coffret. What might the box have looked like when new?"
+    },
+    "g68": {
+      "daily": "How does the combination of materials, enamel, gilded copper, parchment, and wood, create the coffret's sense of value?",
+      "emotion": "Do the creatures feel decorative, humorous, or threatening? Use visual evidence.",
+      "observation": "List the visible materials and creature features. Which details are most carefully worked?",
+      "analysis": "How does the placement of medallions give the coffret order and rhythm?",
+      "line": "How do the metal divisions in champlevé act as outline and pattern?",
+      "shape": "How do round medallions interact with the rectangular box? What effect does that create?",
+      "color": "How do saturated enamel colors contrast with gold to attract attention?",
+      "texture": "How do the polished enamel and metal surfaces differ from the parchment and gesso of the box?",
+      "space": "How does a flat enamel surface suggest creatures with bodies and limbs in a limited space?",
+      "light": "How does reflection from gilded copper affect the way colors read?",
+      "meaning": "What might mythical creatures have meant in the Middle Ages: decoration, warning, or story? How certain can we be?",
+      "culture": "How did enamel work for churches and wealthy households make France known for metalwork in the 1100s?",
+      "technique": "How is champlevé different from painting, and what limits does it place on the design?",
+      "personal": "What kind of treasure box would you want, and how would you decorate it?",
+      "critical": "Because the box is a combination of old and later materials, how do we know what is original?"
+    },
+    "g910": {
+      "daily": "How do contrast, enclosure, and the medallion format give the creatures their visual impact?",
+      "emotion": "How does the colorful, compact decoration create a sense of preciousness?",
+      "observation": "Describe the hierarchy of the coffret's decoration. What do you notice first, and what produces that effect?",
+      "analysis": "Analyze how medallions and the casket form create a unified object.",
+      "line": "How does the metal line of the cell walls shape the contour and detail of each creature?",
+      "shape": "How does the creature's anatomy adapt to the circle in the Romanesque taste for fitting figures to their frame?",
+      "color": "How does the juxtaposition of saturated enamel with gold create a strong visual and symbolic effect?",
+      "texture": "How do hard enamel surfaces, gilded copper, and gesso-covered wood combine different tactile qualities?",
+      "space": "How do the flat, patterned surfaces of enamel relate to Romanesque ideas of space?",
+      "light": "How do gilding and glass interact with light to animate fixed images?",
+      "meaning": "How might mythical creatures function as decoration, moral lessons, or protective images, and what is speculation?",
+      "culture": "How does a coffret of this kind reflect medieval patterns of luxury, storage, and display?",
+      "technique": "What does the use of champlevé on a small object imply about workshop specialization?",
+      "personal": "What do you notice about how people today decorate objects they consider precious?",
+      "critical": "How do conservation and display choices affect what we believe a medieval object once looked like?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the coffret's imagery and materials about its original purpose, and what remains unknown?",
+      "emotion": "How does the compact brilliance of enamel shape a viewer's response, and how might that differ from the first audience's?",
+      "observation": "Describe the coffret's construction and decoration with precision. Which details are secure from the record?",
+      "analysis": "Analyze how enamel medallions and the casket structure shape the object's hierarchy of materials.",
+      "line": "How does the metal contour in champlevé balance decoration and description?",
+      "shape": "How does the adaptation of creatures to circular fields reflect broader decorative principles of the period?",
+      "color": "How might the original relationship of colors have changed through aging and conservation?",
+      "texture": "What does the combination of metal, glass, parchment, gesso, and paint imply about workshop collaboration?",
+      "space": "How does the object challenge distinctions between container, ornament, and sculpture?",
+      "light": "How does the interplay of enamel and gilding complicate photographing and displaying the object?",
+      "meaning": "Evaluate readings of the creatures as decorative fantasy, moral symbols, or protective images. What evidence would help?",
+      "culture": "What does a French coffret of about 1190 tell us about how secular and religious luxury objects overlapped in the Middle Ages?",
+      "technique": "How does the survival of traces of red paint complicate our idea of the coffret's original appearance?",
+      "personal": "How do your assumptions about medieval art as solemn or monstrous shape your response to these creatures?",
+      "critical": "What are the challenges of describing the function of an object when its early history is not recorded?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, object name (Coffret), classification (Enamels-Champlevé), medium and tag (Mythical Creatures) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content, but the exact creatures shown (for example dragons or fighting beasts) could not be confirmed from the metadata. The image file itself was not visually inspected in this build. A person should confirm in the review tool that the creatures are not frightening or violent before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A French casket of about 1190 with champlevé enamel medallions on gilded copper, mounted on a wood core covered with parchment, gesso, and traces of red paint. The record gives only the tag mythical creatures for the subjects.",
+    "vocabulary": ["coffret", "champlevé", "enamel", "gilding", "medallion", "gesso"],
+    "directions": [
+      "Have students draw a creature inside a circle using thick outlines, then fill each section with a flat color.",
+      "Discuss how an artist keeps colors apart in champlevé, and compare with cutting shapes from colored paper.",
+      "Ask students what small box they would decorate to protect something precious."
+    ]
+  }
+}

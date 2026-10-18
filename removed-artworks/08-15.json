@@ -1,0 +1,151 @@
+{
+  "id": "met-552045",
+  "day": "08-15",
+  "title": "Cat",
+  "artist": "Artist unknown",
+  "date": "664–30 B.C.",
+  "medium": "Pale blue faience",
+  "region": "Egypt, Late Period–Ptolemaic Period",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-17_194_2225_EGDP031557.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/LC-17_194_2225_EGDP031557.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small figure of a cat in pale blue, glassy-looking faience. It is shaped as a cat with a head, ears and body, and is about as tall as a coffee mug is wide.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/552045",
+    "objectId": "552045",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Cats), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small cat figure of pale blue faience from Egypt, made sometime between 664 and 30 B.C. (the Late Period to the Ptolemaic Period). It stands about 8.9 cm high. Cats were important animals in ancient Egypt, and cat figures appear in many materials.",
+  "descriptions": {
+    "k": "This is a little blue cat made a very long time ago in Egypt. It is shiny and smooth. It has ears and a face. It is small enough to hold in your hand. What do you think this cat is feeling?",
+    "g12": "This small pale blue cat was made in Egypt more than 2,000 years ago. It is made of faience, a shiny material like glass. Look for its ears, face, and body. Cats were loved in ancient Egypt. What do you think made people want to make a cat in blue?",
+    "g35": "This cat was made in ancient Egypt between 664 and 30 B.C. Faience is a glassy material, and artists often glazed it pale blue or green. The cat is small, only about 9 centimeters tall, so it could be held in the hand. Cats mattered to Egyptians, who valued them for hunting pests and linked them with certain gods. What details help you recognize the cat in this simple form?",
+    "g68": "Egyptians valued cats as animals in homes and granaries, and later they became strongly associated with the goddess Bastet. This faience cat, made between 664 and 30 B.C., simplifies the animal into a compact, recognizable form with a bright glaze. We do not know exactly how this figure was used, perhaps as an amulet, offering, or decoration. How does the artist balance realism and simplification in such a small figure?",
+    "g910": "This small cat shows how Late and Ptolemaic Period craftsmen used faience to create affordable yet appealing sculptures. The form is compact and stylized, and the pale blue glaze lends it a glassy brightness. Cats in Egypt were connected to household life and to religious ideas, including the goddess Bastet, but the record does not state this figure's purpose. How does the artist's economy of form shape our sense of the cat's character?",
+    "g1112": "The faience cat belongs to a large tradition of animal figures in Late Period and Ptolemaic Egypt. Its simplified, compact body and luminous glaze create a charming presence that also invites questions about use: amulet, offering, or household object. Associations between cats and divinity, especially Bastet, are well documented in Egyptian culture, yet the record gives no context for this figure, so we should be careful about assigning religious meaning. The object exemplifies how scale, material, and symbol converge in small-format art."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tiny blue cat is made of shiny material. What parts of a cat can you find?",
+      "emotion": "Does this cat look calm, curious, or sleepy? What tells you that?",
+      "observation": "Find the cat's ears and face. Point to them.",
+      "analysis": "Where do your eyes go first on the cat: the face, the ears, or the body?",
+      "line": "Trace the shape of the cat's back with your finger. Where does it curve?",
+      "shape": "What shapes make up the cat's head and body? Do you see any triangles?",
+      "color": "The cat is pale blue. Have you ever seen a blue cat before?",
+      "texture": "The cat looks shiny and smooth. How would it feel in your hand?",
+      "space": "This cat is small. How big do you think it is compared to your hand?",
+      "light": "Where does the shiny glaze catch the light on the cat?",
+      "meaning": "Why might someone keep a little cat figure close to them?",
+      "culture": "People in Egypt loved cats long ago, just like many people do now. How do you take care of animals?",
+      "technique": "This cat is made of faience, a glassy stuff that is baked in heat. What do you think that is like?",
+      "personal": "If you could have any cat, what would it look like?",
+      "critical": "Real cats are not blue. Why might the maker choose blue anyway?"
+    },
+    "g12": {
+      "daily": "What details tell you that this little blue figure is a cat?",
+      "emotion": "Does this cat feel gentle, proud, or playful? Which parts of its shape make you think so?",
+      "observation": "Describe the cat's head, ears, and body. What do you see?",
+      "analysis": "How does the artist show the cat's body in a few simple shapes?",
+      "line": "Where does the cat's outline curve and where does it point? Trace it.",
+      "shape": "Which part of the cat is the biggest shape, and which is the smallest?",
+      "color": "Why might the pale blue color make the cat look special?",
+      "texture": "The glaze looks glassy. How would it feel different from soft fur?",
+      "space": "The cat is small and compact. How does that make it feel like something to hold?",
+      "light": "Where would light make the cat sparkle most?",
+      "meaning": "Cats were important in Egypt. What might this little cat mean to its owner?",
+      "culture": "Egyptians made many cat figures. What does that tell you about how they felt about cats?",
+      "technique": "Faience can be shaped and then glazed. Which part of making this cat would you like to try?",
+      "personal": "Do you have a favorite small animal toy or figure? How is it like this cat?",
+      "critical": "There is no writing to explain this cat. What clues could help us guess what it was for?"
+    },
+    "g35": {
+      "daily": "How does the artist use simple shapes and a shiny glaze to make a cat that you recognize right away?",
+      "emotion": "What kind of personality does this cat have? Which details give you that feeling?",
+      "observation": "Take a full minute to look at the cat. What small details of the face or body did you notice last?",
+      "analysis": "How are the head and body arranged so the cat looks balanced?",
+      "line": "How do curves and pointed shapes, such as the ears, give the cat its character?",
+      "shape": "How do round and pointed shapes work together in the cat's form?",
+      "color": "Pale blue was a popular color for faience. How does it make the cat feel different from a natural-looking one?",
+      "texture": "Faience has a glassy surface. How is that surface different from the cat's real fur?",
+      "space": "The cat is small enough to hold. How does the size change how you might use or keep it?",
+      "light": "A glassy glaze reflects light. How might the figure look different in a dark room and in sunlight?",
+      "meaning": "Cats were valued for protecting grain from pests and linked with a goddess. How might that explain making cat figures?",
+      "culture": "What does the number of cat figures from ancient Egypt tell us about the place of animals in daily life and belief?",
+      "technique": "What steps do you think the maker followed to shape the cat and give it a glaze?",
+      "personal": "Think about how people keep small objects to remind them of someone or something. How could this cat serve that purpose?",
+      "critical": "We do not know how this figure was used. Why is it important to say so?"
+    },
+    "g68": {
+      "daily": "How does the artist condense a living cat into a small, glazed figure while keeping its character?",
+      "emotion": "How does the pale glaze change the feeling of the cat, compared with a realistic color?",
+      "observation": "List the cat's features that are clearly shown and those that are simplified. What choices stand out?",
+      "analysis": "How does the compact body make the figure feel stable and complete?",
+      "line": "How do outlines of ears, back, and tail, if visible, create the cat's silhouette?",
+      "shape": "How does the artist use geometric simplification to suggest the cat's sleekness?",
+      "color": "How might color help turn the cat from an ordinary animal into a special object?",
+      "texture": "How does the glossy glaze contrast with the soft fur the artist is representing?",
+      "space": "How does the figure's small scale influence how a viewer or owner would relate to it?",
+      "light": "How does the shiny surface react to light and affect the way we see the figure's form?",
+      "meaning": "Cats were connected to Bastet in Egyptian belief. How might that influence a viewer's understanding, and why must we still be cautious?",
+      "culture": "How do animal figures in faience suggest a market for affordable, appealing art in the Late and Ptolemaic periods?",
+      "technique": "How does the faience technique differ from carving stone or casting metal?",
+      "personal": "How do your feelings about pets or animals shape what you see in this cat?",
+      "critical": "How do we avoid reading too much into an object whose use is unknown?"
+    },
+    "g910": {
+      "daily": "How does the figure balance naturalism and stylization to create a cat that reads as both an animal and an object?",
+      "emotion": "How does the polish of the glaze and the compactness of the form produce a sense of calm or dignity?",
+      "observation": "Identify the features the artist emphasizes, such as ears, face, and posture, and describe how they structure the figure.",
+      "analysis": "Analyze how proportion and silhouette create the cat's identity within a small format.",
+      "line": "How does the figure's contour articulate the animal without relying on fine detail?",
+      "shape": "How do contrasting shapes, such as pointed ears and rounded body, define the cat's character?",
+      "color": "How does the pale blue of the faience shift the figure from realism toward symbolic or decorative meaning?",
+      "texture": "How does the glaze's gloss convey preciousness, and how might the material have been perceived in antiquity?",
+      "space": "How does the figure's compact form relate to its possible use as an amulet, offering, or household object?",
+      "light": "How might the reflectivity of glaze have affected the figure's presence in temple or home?",
+      "meaning": "How might the association of cats with Bastet inform, and complicate, readings of this single figure?",
+      "culture": "What does the popularity of cat imagery reveal about the roles of animals in Egyptian religion and daily life?",
+      "technique": "How does mold-making and glazing enable the production of many similar figures, and what does that imply about demand?",
+      "personal": "How does the intimacy of a small object differ from the monumental presence of a large statue?",
+      "critical": "What can an object like this tell us, and what can it not tell us, about ancient Egyptian attitudes toward cats?"
+    },
+    "g1112": {
+      "daily": "What might a single small cat figure reveal about the intersection of daily life, religion, and craft in Late Period Egypt?",
+      "emotion": "How does the reduction of the cat to its essentials shape an affective response, and how might ancient and modern responses diverge?",
+      "observation": "Describe the figure's formal qualities precisely. Where do your observations rely on knowledge about Egyptian cat imagery?",
+      "analysis": "Analyze how simplification and glazed color work together to turn a common animal into an emblem.",
+      "line": "How does silhouette function as the primary descriptive tool in a small molded or modeled figure?",
+      "shape": "How does the figure negotiate between anatomical observation and the formal conventions of Egyptian animal sculpture?",
+      "color": "How might the symbolic associations of blue and blue-green in Egyptian art affect interpretation of this cat?",
+      "texture": "How do the properties of faience, a manufactured and valued material, shape the meaning of the object?",
+      "space": "How might scale relate to function, from personal amulet to votive offering, and what evidence would be decisive?",
+      "light": "How might the luminous quality of faience have contributed to ideas of vitality or protection?",
+      "meaning": "Evaluate the claim that cat figures were primarily religious objects. What other uses must be considered?",
+      "culture": "How might the proliferation of small cat figures complicate the idea of animal worship as a simple practice?",
+      "technique": "What does the production of faience figures say about standardization, workshops, and access to luxury materials?",
+      "personal": "How does your relationship with animals shape the way you interpret ancient animal imagery?",
+      "critical": "How should museums balance public affection for subjects like cats with responsible description of uncertain evidence?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Cats), medium (faience) and period checked against the museum record. Subject is a small animal figure with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small faience cat from the Late or Ptolemaic Period. Cats were valued in Egyptian homes and linked with religious ideas, but the record does not say how this figure was used.",
+    "vocabulary": ["faience", "glaze", "Late Period", "Ptolemaic", "amulet", "stylization"],
+    "directions": [
+      "Have students sketch a cat using only three or four simple shapes and compare their choices.",
+      "Ask students to list possible uses for the figure and the evidence they would need.",
+      "Discuss why cultures make images of animals that matter to them."
+    ]
+  }
+}

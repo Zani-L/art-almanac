@@ -1,0 +1,159 @@
+{
+  "id": "met-451768",
+  "day": "02-03",
+  "title": "Luster Bowl with Four Camels",
+  "artist": "Artist unknown",
+  "date": "10th century",
+  "medium": "Earthenware; luster-painted on opaque white glaze",
+  "movement": "Abbasid-period luster ware",
+  "region": "Iraq",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DT4912.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DT4912.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Joseph Pulitzer Bequest, 1964",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round, shallow white-glazed bowl painted in a shimmering metallic luster. Four camels, each carrying a canopied seat on its back, are arranged around the bowl in a repeating, circling design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451768",
+    "objectId": "451768",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, tags (Camels) and image URLs read from the record; museum page text read for the subject and composition"
+  },
+  "context": "A bowl made in Iraq in the 10th century, painted with a shimmering metallic decoration called luster on a white glaze. The Met notes that camels are a rare subject on Abbasid luster bowls from Iraq, which more often show birds, imaginary animals, people, and plant patterns.",
+  "descriptions": {
+    "k": "Four camels walk around this bowl! Each camel carries a little seat on its back. They look like they are traveling together. The painting shimmers like metal. Can you walk your fingers around the bowl, following the camels?",
+    "g12": "A potter in Iraq painted four camels on this bowl a very long time ago. Each camel carries a seat, like a small tent, on its back. They seem to walk together in a circle. The paint shines a little like metal. Which camel would you follow, and where might it go?",
+    "g35": "This white bowl from 10th-century Iraq is painted with four camels carrying seats called palanquins, as if they were a caravan. The shimmering paint is called luster, made so that it gleams like metal. The Met notes that camels are rare on bowls like this, which more often show birds, imaginary creatures, or people. How does the circular design make the camels seem to keep moving?",
+    "g68": "Luster painting began in Iraq in the 9th century, and its metallic shimmer made ceramics look precious. On this bowl, four camels carrying palanquins circle a central medallion, in a repeating pattern the Met says gives dynamism and suggests a caravan. Camels are unusual on Iraqi luster bowls of this period. Consider how the artist uses repetition, empty space, and a curved surface to turn an animal subject into a rhythmic design. What might a caravan have meant to the people who used the bowl?",
+    "g910": "This bowl shows a notable departure: the Met identifies camels with palanquins as a rare subject among Abbasid-period luster bowls from Iraq, where birds, mythical beasts, figures, and plant patterns are more typical. The medallion layout and repetition give the design a sense of rotation, and the metallic luster set on opaque white glaze makes the animals seem to glow. Think about how decoration can turn a narrative idea, a caravan, into pattern, and why a potter might have chosen it.",
+    "g1112": "Luster ware was among the most prestigious ceramics of the Abbasid world, imitating the shimmer of precious metals. This bowl's four camels bearing palanquins are, according to the museum, a rare departure from the usual repertoire of birds, hybrid creatures, figures, and vegetal ornament. The medallion composition and repetition give an impression of a moving caravan while remaining decorative. Interpretations remain open: the imagery may reflect trade and travel, a pilgrimage or ceremonial procession, or simply the potter's invention, and the object alone cannot settle which."
+  },
+  "questions": {
+    "k": {
+      "daily": "Four camels walk around this bowl. Can you count them? What are they carrying?",
+      "emotion": "Do the camels look like they are in a hurry or taking their time? What makes you think so?",
+      "observation": "What is on each camel's back? Point to it and say what you see.",
+      "analysis": "How do the four camels sit on the bowl? Are they all in one corner or spread out? Show with your hand.",
+      "line": "Can you trace a camel's long, bendy neck with your finger? Which way does it curve?",
+      "shape": "The camels' seats look like little houses on their backs. What shapes do you see in them?",
+      "color": "The paint on this bowl shines a bit like metal. What color do you think it is?",
+      "texture": "The white glaze is smooth and the shiny paint sits on top. How do you think it would feel to touch?",
+      "space": "The camels go around the bowl like a ring. Which camel is nearest to you, and which is farthest?",
+      "light": "Shiny paint can glow when light moves across it. Where on this bowl would you look for sparkles?",
+      "meaning": "Where do you think the four camels are going together? Tell a short story.",
+      "culture": "People traveled with camels across hot lands long ago. What do you think they carried on the trip?",
+      "technique": "The potter painted these camels on the bowl by hand. Which part do you think was hardest to paint?",
+      "personal": "If you could ride a camel's seat, where would you want to go?",
+      "critical": "Why do you think the potter picked camels and not birds or flowers for this bowl?"
+    },
+    "g12": {
+      "daily": "Four camels with seats on their backs travel around this bowl. What do you think each camel is doing?",
+      "emotion": "Does this caravan feel busy, calm, or sleepy to you? Point to what shows that feeling.",
+      "observation": "Describe one camel from its head to its feet. What details can you find?",
+      "analysis": "The same kind of design repeats around the bowl. How does repeating the camels make you want to keep looking?",
+      "line": "Find a long curved line, like a camel's neck or back. How does the line help the camel look like it is walking?",
+      "shape": "The seats on the camels' backs are like small canopies. Which shapes make them up?",
+      "color": "The shiny paint is only one color against a white glaze. How does that make the camels stand out?",
+      "texture": "Which part of the bowl do you think is smooth and which part is a shimmering painted layer?",
+      "space": "The camels circle a middle space on the bowl. How does that circle make the bowl feel full?",
+      "light": "The paint has a metallic shimmer. How might the camels look different as you tilt the bowl?",
+      "meaning": "Imagine who sits in the seats on the camels. Who do you think is inside?",
+      "culture": "Camels were used for long trips across deserts in this part of the world. How does a camel help travelers?",
+      "technique": "The potter painted the shiny decoration on top of a white glaze. Why might white be a good background?",
+      "personal": "Have you ever traveled in a group, like in a car or on a bus? How was it like this caravan?",
+      "critical": "The Met says camels are rare on bowls like this one. Why might a potter do something unusual?"
+    },
+    "g35": {
+      "daily": "How does the artist make four painted camels on a bowl feel like a caravan on the move?",
+      "emotion": "What mood does the steady walk of the camels create? Which details support your idea?",
+      "observation": "Take a minute to look at just one camel. What parts of its body and its palanquin can you describe?",
+      "analysis": "How does the artist arrange the camels around the bowl so that no single animal feels left out?",
+      "line": "How do the flowing curves of the camels' necks and legs compare with the straight edges of the palanquins?",
+      "shape": "The camels and their seats form repeating shapes around a circle. How does repeating shapes create a pattern?",
+      "color": "How does the metallic luster stand against the opaque white glaze? What effect does that contrast have?",
+      "texture": "Luster gives a surface a metal-like sheen. How does that sheen change the way you imagine touching the bowl?",
+      "space": "A bowl is curved, so a picture on it wraps around. How does that help the camels seem to circle?",
+      "light": "Luster looks different depending on how light hits it. How might this bowl change as someone turns it?",
+      "meaning": "What do the palanquins suggest about who or what the camels might be carrying?",
+      "culture": "Camels and caravans were part of trade and travel in the Abbasid world. What might this bowl tell us about everyday life then?",
+      "technique": "Luster painting was a special technique involving metal compounds and a second firing. Why might people prize a bowl like this?",
+      "personal": "Think of a journey you remember well. How would you paint it on a bowl?",
+      "critical": "The Met says camels were rare on this kind of bowl. What could explain why this potter chose them?"
+    },
+    "g68": {
+      "daily": "How does the artist adapt a story-like subject, a caravan, to the round shape of a bowl?",
+      "emotion": "How does repetition create a feeling of steady movement, like a slow march? Which details build it?",
+      "observation": "Inventory the parts of the picture: camels, palanquins, and anything else. Which are most detailed?",
+      "analysis": "How does the medallion layout organize the four camels? What might happen to the effect if there were three or six?",
+      "line": "How do outlines and filled areas differ in this painting? Which lines carry the sense of movement?",
+      "shape": "How do the rounded bodies of the camels interact with the boxy shapes of the palanquins and the circle of the bowl?",
+      "color": "Luster is essentially one metallic tone on white. How does limited color make the shapes more or less readable?",
+      "texture": "How does the shimmering luster suggest richness or preciousness without any raised or carved texture?",
+      "space": "The picture has little depth and wraps around a concave form. How does the artist show direction and spacing?",
+      "light": "Luster reflects light unevenly as a bowl moves. How could that make the camels seem alive?",
+      "meaning": "The Met says the arrangement suggests a caravan. What other stories or ideas might the camels with palanquins evoke?",
+      "culture": "Luster ware started in Iraq and spread across the Islamic world. What does that spread suggest about artists and trade?",
+      "technique": "Luster is fired a second time in a special way. How might that process limit how a potter can plan a design?",
+      "personal": "What does a journey with a group of people mean to you? How could a repeating design capture that?",
+      "critical": "The camels are an unusual subject for this kind of bowl. What can we conclude and what can we not conclude from that?"
+    },
+    "g910": {
+      "daily": "How does the composition convert a traveling caravan into a rotating decorative pattern, and what does that choice emphasize?",
+      "emotion": "How does the rhythm of repeated camels shape the emotional tone of the bowl, calm, steady, or ceremonial?",
+      "observation": "Describe the hierarchy in the design: what is the main subject, what is secondary, and how do you know?",
+      "analysis": "Analyze the use of repetition, symmetry, and medallion structure in organizing the picture.",
+      "line": "How does the painter use contour and linear detail to distinguish animal bodies from palanquins in a single-color medium?",
+      "shape": "How does the contrast between organic animal forms and the architectural palanquins create visual tension?",
+      "color": "How does the metallic luster against opaque white glaze serve both as ornament and as a signal of luxury?",
+      "texture": "How does the pictorial treatment of the camels' coats or bodies, as far as you can see, suggest surface without actual relief?",
+      "space": "Why might an Abbasid luster painter favor flat, patterned space over illusionistic depth on a concave surface?",
+      "light": "How does luster make light part of the object's appearance rather than merely something that falls on it?",
+      "meaning": "What meanings could the subject of camels with palanquins carry, and which readings are speculative?",
+      "culture": "What does a rare camel subject tell us about the range of imagery in Abbasid Iraq beyond the standard repertoire?",
+      "technique": "How might the technical demands of luster painting have affected the simplification of the camels' forms?",
+      "personal": "How does an image of travel connect to your own sense of movement, migration, or journeys between places?",
+      "critical": "What evidence would be needed to claim that the camels refer to a specific journey, such as a pilgrimage or trade route?"
+    },
+    "g1112": {
+      "daily": "What argument can you make about the camels' role, as narrative, decoration, or both, using only evidence visible on the bowl?",
+      "emotion": "How does the controlled repetition of animals produce a mood that is neither dramatic nor static, and why does that matter?",
+      "observation": "Describe the bowl's design as precisely as you can. Where does description begin to shade into assumption?",
+      "analysis": "Evaluate how the medallion structure balances narrative suggestion against abstract pattern.",
+      "line": "How does the draftsmanship of contour and detail balance observation of animals against stylization?",
+      "shape": "Examine the relationship between the bowl's circular form, the radial placement of the camels, and the vertical masses of the palanquins.",
+      "color": "How does a monochrome metallic palette on a white ground shape the viewer's reading of both subject and status?",
+      "texture": "In what ways might luster's sheen substitute for physical texture in conveying value and richness?",
+      "space": "How does the design negotiate the wraparound nature of a concave vessel and a subject that implies lateral movement?",
+      "light": "How does a luster surface complicate any fixed idea of how this painting looks?",
+      "meaning": "Discuss the competing readings of the imagery, such as trade, pilgrimage, ceremony, or invention, and what evidence each would need.",
+      "culture": "How does this bowl complicate a picture of Abbasid ceramic imagery, and what does it imply about the potter's freedom?",
+      "technique": "What does the technology of luster, requiring a second firing, imply about workshop organization and the value of such objects?",
+      "personal": "How does your own cultural experience of travel and caravans, real or imagined, shape the story you see here?",
+      "critical": "How should we interpret a single unusual object when it is described as rare within a large body of work?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ceramics) and tag (Camels) checked against the museum record, and the museum page text read: subject is four camels carrying palanquins.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Luster painting, a technique that gives ceramics a metallic shimmer, began in Iraq in the 9th century and spread across the Islamic world. The Met describes camels as a rare subject on Abbasid luster bowls.",
+    "vocabulary": [
+      "luster",
+      "earthenware",
+      "glaze",
+      "palanquin",
+      "caravan",
+      "medallion"
+    ],
+    "directions": [
+      "Ask students to design a circular pattern with four repeating figures, then compare how repetition changes mood.",
+      "Discuss how camels and caravans connected distant places in the medieval world; locate Iraq on a map.",
+      "Tilt a shiny object under a lamp to explore how luster-like surfaces change with the light."
+    ]
+  }
+}

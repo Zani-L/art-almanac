@@ -1,0 +1,151 @@
+{
+  "id": "met-503679",
+  "day": "07-05",
+  "title": "Nyonganyonga",
+  "artist": "Artist unknown (possibly Barwe People)",
+  "date": "ca. 1900",
+  "medium": "Wood, shell, metal, beads",
+  "region": "Mozambique (possibly Barwe People)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302548.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP302548.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small hand-held African thumb piano with a row of thin metal tongues mounted on a wooden board. Shells and beads are attached to it as decoration or fittings.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503679",
+    "objectId": "503679",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification (Idiophone-Plucked / Depressed), dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "The nyonganyonga is a lamellophone, an instrument with metal tongues that a player depresses and releases with the thumbs. The Met dates this one to about 1900, attributes it possibly to the Barwe People of Mozambique, and lists wood, shell, metal and beads. It measures about 23.4 by 16.9 cm (9 3/16 by 6 5/8 in.), small enough to hold in the hands.",
+  "descriptions": {
+    "k": "This is a nyonganyonga. It is a small music maker from Africa. A row of thin metal tongues sits on a wooden board. A player uses their thumbs to press the tongues. See the shells and beads? Can you find them?",
+    "g12": "This is a nyonganyonga, a small instrument from Mozambique in Africa. A player holds it in their hands and presses the thin metal tongues with their thumbs. It is made of wood, metal, shells and beads. Which parts look like they are for playing, and which look like decoration?",
+    "g35": "The nyonganyonga is a lamellophone, an instrument with thin metal tongues that a player presses and releases with the thumbs. This one was made around 1900 in Mozambique, possibly by Barwe people. It is about 23 centimeters long, small enough to hold. The Met lists wood, shell, metal and beads. Look at how the metal tongues are arranged. What clues show it is built for hands?",
+    "g68": "This nyonganyonga, made around 1900 and possibly Barwe, comes from Mozambique. It is a lamellophone: metal tongues of different lengths are fixed on a wooden body, and the player's thumbs press and release them. Similar instruments are found across many parts of Africa under many names, and each community has its own versions. Shell and beads, listed by the Met, may add decoration or fittings. Consider what small, personal instruments reveal about everyday music-making.",
+    "g910": "This lamellophone, called a nyonganyonga and attributed possibly to the Barwe of Mozambique, dates to about 1900. Its design places metal tongues on a wooden body so that the player's thumbs control the notes. Lamellophones appear across Africa and have many local names and forms, so the label matters. Shell and beads, listed in the record, add to the object's surface but their exact role should be checked in the image. The instrument invites reflection on how portability, intimacy and craft shape music-making.",
+    "g1112": "This nyonganyonga, dated ca. 1900 and attributed with some hesitation to the Barwe of Mozambique, belongs to a family of lamellophones found throughout sub-Saharan Africa and, by later transmission, across the world. The record's hedge, possibly Barwe, signals that attribution is uncertain, a reminder that many instruments entered museum collections with limited documentation. Reading the object responsibly means attending to its construction, to its local name, and to the broader history of collecting that separated instruments from the communities who played and understood them."
+  },
+  "questions": {
+    "k": {
+      "daily": "This little instrument has thin metal tongues. Where do you think the player's thumbs go?",
+      "emotion": "Does this nyonganyonga look gentle or loud? What do you see that tells you?",
+      "observation": "Find the wooden part, the metal tongues and the shells or beads. Can you point to each?",
+      "analysis": "Where do your eyes look first on the nyonganyonga? Where do they go next?",
+      "line": "The metal tongues make a row of lines. Trace them with your finger in the air.",
+      "shape": "What shapes do you see in the wood, the tongues and the beads?",
+      "color": "What colors do you see? Which are shiny, and which are not?",
+      "texture": "If you could touch the metal, the wood and the beads, how would each feel?",
+      "space": "The tongues sit on the board. What do you think is under them?",
+      "light": "Where does the metal shine? Where does it look dark?",
+      "meaning": "Why might someone put shells and beads on a music maker?",
+      "culture": "This instrument is from Mozambique in Africa. What would you like to ask a person who plays it?",
+      "technique": "The player uses thumbs. Why do you think it is small enough to hold?",
+      "personal": "What small thing do you like to carry with you? Tell about it.",
+      "critical": "This instrument is small. Can a small instrument still be important? Tell why you think so."
+    },
+    "g12": {
+      "daily": "Where do you see the metal tongues? Show how a player's thumbs might reach them.",
+      "emotion": "What feeling does this small decorated instrument give you? Point to what makes you feel it.",
+      "observation": "Describe the wood, the metal and the decorations. What do you notice about each?",
+      "analysis": "How does the row of tongues help your eyes move across the instrument?",
+      "line": "The metal tongues make straight lines. Where do you see curved lines among the shells and beads?",
+      "shape": "The tongues look long and thin. How are they different from the board under them?",
+      "color": "Metal, wood, shells and beads have different colors. Which one stands out most?",
+      "texture": "Some parts are shiny and some are not. Where do you see the difference?",
+      "space": "The instrument is small enough to hold in two hands. How would that change how you play it?",
+      "light": "Look at where light hits the metal. What does that tell you about the surface?",
+      "meaning": "Why might a player decorate an instrument that they hold close?",
+      "culture": "This instrument was made in Mozambique around 1900. What can you learn about people from the materials they used?",
+      "technique": "A maker had to cut metal tongues in different lengths. Why might the lengths be different?",
+      "personal": "If you made your own instrument, what would you decorate it with?",
+      "critical": "We cannot hear this instrument in a picture. What do we learn by looking?"
+    },
+    "g35": {
+      "daily": "The nyonganyonga is made to be held and played with the thumbs. Which details in the picture show that it is built for a player's hands?",
+      "emotion": "What mood does this small, decorated instrument create? Which details cause it?",
+      "observation": "Describe the instrument from one side to the other. What materials and details can you find?",
+      "analysis": "How do the wooden body, metal tongues and decorations work together as a design?",
+      "line": "How do the lines of the metal tongues compare with the shapes of the wood and beads?",
+      "shape": "The tongues are narrow and the body is wide. How does that contrast shape the instrument's look?",
+      "color": "The Met lists wood, shell, metal and beads. How do those materials add variety of color?",
+      "texture": "Metal, shell and beads each have a different surface. Which ones look the smoothest?",
+      "space": "The instrument is small, about 23 centimeters long. How does its size affect how a person uses it?",
+      "light": "How does light on the metal and shell help you see small details?",
+      "meaning": "Shells and beads can be used for decoration. Why might a maker choose them?",
+      "culture": "Lamellophones have different names in different places. Why is it important to use the name nyonganyonga?",
+      "technique": "A maker must fix each metal tongue so it can move. What problems might come up in building that?",
+      "personal": "Do you have a favorite small object that you decorate or customize? How is it like this instrument?",
+      "critical": "The Met says the instrument is possibly Barwe. What does the word possibly tell you about how much is known?"
+    },
+    "g68": {
+      "daily": "How does the arrangement of metal tongues on the board show careful planning for a player's thumbs?",
+      "emotion": "What tone does the combination of shiny metal and added decoration create? Support your answer with details.",
+      "observation": "List each part of the instrument you can see before thinking about what it does.",
+      "analysis": "How does the design make you look first at the metal tongues, and what else guides your eyes?",
+      "line": "How do the repeating lines of the metal tongues create rhythm, and how do other lines vary it?",
+      "shape": "The instrument is small and compact. How do the shapes of the board and tongues fit together?",
+      "color": "How does contrast between metal, wood and beads help the details stand out?",
+      "texture": "How do the textures of shell, metal and wood add richness to the instrument's appearance?",
+      "space": "How does the way the tongues stand above the body suggest the space that lets them move?",
+      "light": "How does reflected light on the metal change the way you see the tongues?",
+      "meaning": "Why might beads and shell, the record's materials, matter to the instrument's owner? What should we avoid assuming?",
+      "culture": "Lamellophones appear in many African cultures. How can the same basic design take different local forms?",
+      "technique": "What does combining wood, metal, shell and beads suggest about a maker's skills and the materials available to them?",
+      "personal": "Where do you see personal decoration on tools or objects you use?",
+      "critical": "How does the uncertainty in the Met's label, possibly Barwe, affect how confidently we can interpret this instrument?"
+    },
+    "g910": {
+      "daily": "How does the instrument's compact structure make it an extension of the player's hands?",
+      "emotion": "What atmosphere does the combination of function and adornment create, and how might that change in performance?",
+      "observation": "Describe the visual hierarchy: the metal tongues, the body and the added materials. Which dominates?",
+      "analysis": "How do the structural parts and decorative parts of the instrument relate to one another?",
+      "line": "How does the repeating order of the tongues contrast with the more irregular lines of the decoration?",
+      "shape": "How does the proportion of narrow tongues to a wider body support the instrument's function?",
+      "color": "How do metallic and natural materials create contrast and unity in the object?",
+      "texture": "How do the surfaces of metal, shell, bead and wood make the instrument feel handmade and personal?",
+      "space": "How does the instrument's small size create a different relationship between player and object than a large instrument would?",
+      "light": "How might museum lighting change how reflective surfaces such as metal and shell appear?",
+      "meaning": "How can portable instruments carry personal or communal meanings, and why is it risky to name one meaning from the record alone?",
+      "culture": "How does the wide distribution of lamellophones across Africa complicate any single story of origin or meaning?",
+      "technique": "What does the design reveal about how makers solve problems of tuning and durability with metal and wood?",
+      "personal": "What is one small, personal object whose design says a lot about how you use it?",
+      "critical": "How do collecting practices of the late 19th century shape what a museum can say about this instrument?"
+    },
+    "g1112": {
+      "daily": "How does the object's construction and decoration make it both a precise tool and a personal possession, and what is lost when we see it only as a museum piece?",
+      "emotion": "How can an instrument's small scale suggest intimacy, and what are the risks of projecting emotion onto an object we cannot hear?",
+      "observation": "Distinguish between what you can see and what the record says. Which features cannot be confirmed from the image?",
+      "analysis": "How do the structural logic of the tongues and the decorative additions together define the object's character?",
+      "line": "How do the parallel lines of the tongues set up a visual order that the decoration both supports and disrupts?",
+      "shape": "How does the instrument's compact form reflect an emphasis on portability and touch?",
+      "color": "How does the contrast of metal, shell and wood suggest the sources and exchanges of materials?",
+      "texture": "How might wear and handling over time be evidence of use, and how can museums display that evidence?",
+      "space": "How does the instrument's size challenge museum conventions of displaying objects behind glass at a distance?",
+      "light": "How does photographic lighting emphasize certain materials, and how does it shape our assumptions about value?",
+      "meaning": "How might a player, a maker and a collector each read this instrument differently?",
+      "culture": "How does the tentative attribution to the Barwe illustrate the gaps in documentation for instruments collected around 1900?",
+      "technique": "How might the choice of metal for the tongues, and the ability to tune them, reflect knowledge of materials and sound?",
+      "personal": "How does your own musical background shape the assumptions you bring to unfamiliar instruments?",
+      "critical": "How can museums and communities work together to restore missing context to instruments in colonial-era collections?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Idiophone-Plucked / Depressed), medium (wood, shell, metal, beads), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A lamellophone called a nyonganyonga, dated to about 1900 and attributed possibly to the Barwe People of Mozambique. The record is brief and gives no information about its sound or use, so describe the playing technique as general information about lamellophones.",
+    "vocabulary": ["lamellophone", "thumb piano", "idiophone", "attribution", "Mozambique", "tongue (of an instrument)"],
+    "directions": [
+      "Compare this instrument with a xylophone or a music box: what vibrates in each?",
+      "Discuss why it matters to use an instrument's local name.",
+      "Talk about how the word possibly in a museum label shows the limits of what is known."
+    ]
+  }
+}

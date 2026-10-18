@@ -1,0 +1,158 @@
+{
+  "id": "artic-8983",
+  "day": "04-21",
+  "title": "Painting with Troika",
+  "artist": "Vasily Kandinsky",
+  "date": "January 18, 1911",
+  "medium": "Oil on cardboard; in artist's painted frame",
+  "movement": "Expressionism",
+  "region": "Germany",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/a45e5f55-d02b-ce98-8bab-3af549684f58/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A vividly colored, loosely painted scene with figures, a structure and an ox-drawn cart, set in a landscape that looks like a beach. Bright patches of color replace precise outlines.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/8983",
+    "objectId": "8983",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (born Moscow 1866, died Neuilly-sur-Seine 1944), date (January 18, 1911), place of origin (Germany), medium (oil on cardboard; in artist's painted frame), dimensions (69.7 x 97.3 cm), credit line, subject terms (troikas, people, landscapes, animals, oxen, carts), description about the Blaue Reiter, thumbnail alt text, is_public_domain true and image_id read from the record"
+  },
+  "context": "Dated January 18, 1911, this oil on cardboard was made in Germany by the Moscow-born Vasily Kandinsky. The Art Institute places it in the context of the Blaue Reiter group, which Kandinsky co-founded in Munich with Franz Marc and others, and notes that the troika and hand-painted frame reflect the group's interest in symbolic color and in non-Western, medieval and folk art.",
+  "descriptions": {
+    "k": "This picture is full of bright colors! There are people, animals, and a cart. The paint looks quick and happy. Can you find shapes that look like animals? What color do you see most?",
+    "g12": "Vasily Kandinsky painted this with bold, bright colors. The museum says it has people, oxen, and carts. Can you find them? The shapes are loose, not neat. Even the frame is painted! What does the color make you feel? What would you name each color's mood?",
+    "g35": "Vasily Kandinsky was born in Moscow and painted this in Germany in 1911. The museum's tags list a troika, people, oxen, and carts in a landscape. The colors are bright and the shapes are loose. Kandinsky even painted the frame himself. Why might an artist care more about color than about showing things exactly? Which part of the painting do you find first?",
+    "g68": "In 1911 Kandinsky helped found a Munich group called the Blaue Reiter with Franz Marc and others. They believed color and form could carry spiritual and emotional meaning. This oil on cardboard, tagged with a troika, oxen, carts, and people, uses loose brushwork and bright color, and even includes a painted frame. How does Kandinsky push shape and color away from realism, and what might he want you to feel?",
+    "g910": "Painting with Troika dates from 1911, when Kandinsky and his Blaue Reiter colleagues were exploring symbolic color and sources such as folk, medieval, and non-Western art. The museum's tags list a troika, oxen, carts, and figures, yet the forms are loose and the colors intense. The hand-painted frame extends the painting into an object. How does the balance between recognizable subjects and abstraction shape your interpretation?",
+    "g1112": "Painted in January 1911, this work stands at the threshold of Kandinsky's move toward abstraction. The Art Institute links it to the Blaue Reiter's emphasis on the spiritual weight of color and form and its borrowing from folk, medieval and non-Western art. Its recognizable motifs, a troika, oxen and carts, are dissolving into color. How would you argue for reading this as depiction, as proto-abstraction, or as both, and what visual evidence matters most?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a person, an animal, and a cart in the painting. Where are they?",
+      "emotion": "Does this painting feel calm or lively? What colors make you say that?",
+      "observation": "Which colors can you name? Point to the brightest one.",
+      "analysis": "Where do you look first? What made you look there?",
+      "line": "Find a curvy line and a straight line. Where are they?",
+      "shape": "Look for shapes that could be a cart or an ox. What shapes do you use to guess?",
+      "color": "If each color made a sound, what would the brightest color sound like?",
+      "texture": "The paint looks quick and loose. What would it feel like to touch?",
+      "space": "Which things look near and which look far? How do you decide?",
+      "light": "Find the lightest spot in the painting. What is next to it?",
+      "meaning": "The museum says there is a troika, a kind of Russian vehicle. What kind of trip might it be on?",
+      "culture": "The painter was born in Moscow and lived in Germany. What things in your life come from more than one place?",
+      "technique": "Even the frame is painted. Why might the painter paint the frame too?",
+      "personal": "Paint a feeling with just colors. Which colors would you pick for happy?",
+      "critical": "Which parts look like something real, and which look like only color?"
+    },
+    "g12": {
+      "daily": "Look at the loose shapes. What people, animals, or carts can you find?",
+      "emotion": "What feeling do the bright colors give you? Point to the color that does it.",
+      "observation": "Describe three colors you see and where they are.",
+      "analysis": "How does the painter place bright and dark colors so that your eyes move around?",
+      "line": "Find lines that look like they are moving quickly. Where are they?",
+      "shape": "The shapes are not exact. How does that change how the people and animals look?",
+      "color": "Kandinsky thought colors had feelings. What feeling does his red or blue give you?",
+      "texture": "How can you tell the paint was put on quickly?",
+      "space": "Some shapes are tiny and others are big. How does that change how deep the picture feels?",
+      "light": "Where does the painting look bright, and where does it look dark?",
+      "meaning": "What story might this painting be telling? Tell it in three sentences.",
+      "culture": "The painter lived in Germany but was born in Russia. What might he have remembered from home?",
+      "technique": "The painter painted the frame too. How does it change what you think of the picture?",
+      "personal": "If you painted a ride in a cart, what colors would you use?",
+      "critical": "Why might a painter use colors that are not real, like a bright red sky?"
+    },
+    "g35": {
+      "daily": "Where do your eyes go first in this painting, and what choices by Kandinsky guide them there?",
+      "emotion": "What mood do the colors create? Use two or three details to explain your idea.",
+      "observation": "Look slowly. What small shapes or marks do you notice that you missed at first?",
+      "analysis": "How does Kandinsky arrange the shapes and colors to keep your eyes moving across the painting?",
+      "line": "How do the dark lines and curved lines suggest movement of people, animals, and carts?",
+      "shape": "The shapes hint at oxen, carts, and people without every detail. How does that change how you look?",
+      "color": "Kandinsky believed colors can express feelings. Which colors here feel strong, and what do they express to you?",
+      "texture": "How do the thick, quick brushstrokes make the surface feel alive?",
+      "space": "How does the painter show space in the picture even though the forms are loose?",
+      "light": "How do light and dark colors set against each other to make parts of the painting glow?",
+      "meaning": "The museum says a troika is part of this painting. How would you tell a story about a journey from what you see?",
+      "culture": "Kandinsky was part of a group of artists in Munich. What does the painting tell you about how they wanted to paint?",
+      "technique": "Kandinsky painted this on cardboard instead of canvas and made a frame by hand. Why might that matter?",
+      "personal": "Think of a happy memory. What shapes and colors would you use to paint it?",
+      "critical": "Some people see a scene and others see just color. What evidence supports each view?"
+    },
+    "g68": {
+      "daily": "How does Kandinsky's mix of recognizable subjects and loose color challenge what you expect from a painting?",
+      "emotion": "How do saturated color and rapid brushwork create a feeling of energy or celebration?",
+      "observation": "What can you identify with confidence in the picture, and what is left to your imagination? Separate evidence from guess.",
+      "analysis": "How does the arrangement of colored areas move your eye across the composition without a single focal point?",
+      "line": "How do dark outlines or strokes suggest motion and separate color areas?",
+      "shape": "How does the painter simplify shapes such as carts and animals, and what does he gain by doing so?",
+      "color": "The museum says Kandinsky and his group valued the spiritual weight of color. How does color seem to work as feeling here?",
+      "texture": "How does the thick paint on cardboard affect the surface compared with a smooth finish?",
+      "space": "How does Kandinsky build space without traditional perspective?",
+      "light": "How do bright patches create a sense of glowing light rather than realistic shading?",
+      "meaning": "What kinds of journey or story might the troika, oxen, and carts suggest, and what must remain uncertain?",
+      "culture": "How do the Blaue Reiter's interests in folk and medieval art appear in the painting and its painted frame?",
+      "technique": "Why might a painter who wants to express feeling choose to paint the frame as part of the artwork?",
+      "personal": "How does your own response to color connect with Kandinsky's idea that colors can carry feeling?",
+      "critical": "How would you decide whether to call this painting abstract or representational?"
+    },
+    "g910": {
+      "daily": "How does Kandinsky's balance between recognizable motifs and abstract color shape your first reading of the painting?",
+      "emotion": "How does the intensity of the palette generate an emotional atmosphere, and how might it differ for different viewers?",
+      "observation": "Analyze how the arrangement of color patches directs attention without conventional focal hierarchy.",
+      "analysis": "How does the rhythm of lines and color areas create movement across the cardboard surface?",
+      "line": "How do loose contours both identify and dissolve forms such as oxen, carts, and figures?",
+      "shape": "How does simplification of form signal a shift from description toward expression?",
+      "color": "Evaluate how color functions here as an expressive system independent of natural appearance.",
+      "texture": "How does painted frame, brushy surface, and cardboard support challenge the idea of a polished fine-art object?",
+      "space": "How is pictorial space constructed when perspective and modeling are minimal?",
+      "light": "How does Kandinsky use contrasts of light and dark hue to substitute for naturalistic illumination?",
+      "meaning": "What might the troika motif suggest, given the artist's Russian origins and the museum's emphasis on symbolism, and where does speculation begin?",
+      "culture": "How does the work reflect the Blaue Reiter's interest in folk, medieval, and non-Western sources?",
+      "technique": "What does the handcrafted frame suggest about the relation between painting, object, and craft?",
+      "personal": "How does your own sense of color as emotion compare with Kandinsky's approach?",
+      "critical": "To what extent should titles guide viewing if the image does not clearly illustrate them?"
+    },
+    "g1112": {
+      "daily": "What argument about perception and feeling does the painting make through its formal choices?",
+      "emotion": "How does the vividness of color complicate any attempt to fix the painting's mood?",
+      "observation": "Describe the painting precisely, then identify which parts are claims drawn from the title and museum tags rather than from the image.",
+      "analysis": "Analyze how the picture balances dispersed color areas against emerging patterns of direction and rhythm.",
+      "line": "How does line operate here, as outline, accent, or independent force, and how does that anticipate Kandinsky's later abstraction?",
+      "shape": "Consider how the dissolution of figure into patches of color complicates the relationship between motif and form.",
+      "color": "How does the painting treat color as spiritual or psychological language, as the museum's context suggests?",
+      "texture": "How does the decision to paint on cardboard and to decorate the frame expand the boundaries of the artwork?",
+      "space": "How does the absence of linear perspective shift the viewer from observer of a scene to participant in a field of color?",
+      "light": "Discuss how light is rendered through hue contrasts rather than tonal gradation.",
+      "meaning": "Evaluate competing readings of the troika, as folk motif, memory of Russia, or purely pictorial device, against the available evidence.",
+      "culture": "How does the Blaue Reiter's drawing on non-Western, medieval, and folk art raise questions about borrowing and primitivism?",
+      "technique": "How does the work's date and location, Germany in 1911, position it between representation and abstraction?",
+      "personal": "How do your own cultural and sensory associations with color shape what you read in the painting?",
+      "critical": "What sources outside the image would help you decide how representational Kandinsky intended it to be?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (troikas, people, landscapes, animals, oxen, carts), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Dated January 18, 1911, made in Germany by the Moscow-born Kandinsky. The Art Institute links it to the Blaue Reiter group and notes its hand-painted frame. A troika is a Russian vehicle traditionally pulled by three horses; the record's tags also list oxen and carts.",
+    "vocabulary": [
+      "Blaue Reiter",
+      "Expressionism",
+      "abstraction",
+      "troika",
+      "palette",
+      "motif"
+    ],
+    "directions": [
+      "Have students paint a feeling, such as joy or worry, using only color and shape, then trade and guess each other's feelings.",
+      "Ask students to describe where recognizable objects begin to dissolve into color in this painting.",
+      "Discuss why an artist might paint the frame as part of the artwork."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-330051",
+  "day": "06-29",
+  "title": "Terracotta aryballos in the form of a ram",
+  "artist": "Artist unknown",
+  "date": "early 6th century BCE",
+  "medium": "Terracotta, painted",
+  "region": "Greek, Corinthian",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/kn268.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/kn268.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Nanette B. Kelekian, 2020",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small painted clay flask shaped like a ram, a male sheep. The vessel combines an animal's body and head with the small opening of a perfume container.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/330051",
+    "objectId": "330051",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A small painted clay flask from Corinth, a Greek city, made in the early 6th century BCE. An aryballos is a small container for perfumed oil, and this one is shaped like a ram.",
+  "descriptions": {
+    "k": "This tiny jar is shaped like a ram. A ram is a boy sheep. It was made of clay and painted a very long time ago in Greece. It held perfumed oil. What would you keep in a jar like this?",
+    "g12": "A potter in Corinth, a Greek city, made this little jar about 2,600 years ago. It is shaped like a ram, which is a male sheep. It is called an aryballos and held perfumed oil. The clay is painted. Look for the ram's head and body. Why would a potter shape a jar like an animal?",
+    "g35": "Corinth was a Greek city famous for its painted pottery. This aryballos, a small flask for perfumed oil, was shaped and painted in the form of a ram. Potters used the animal's body as the container, leaving a small opening for the oil. Look at how the painter adds details to the clay. How do the shape and the painting work together to make the ram look lively?",
+    "g68": "Corinthian potters were leaders in small, finely painted vases in the 7th and 6th centuries BCE. This aryballos in the form of a ram dates to the early 6th century BCE. Perfumed oil was a valued product, used in daily life and carried by athletes, so a charming container added to its appeal. Notice how the potter blends sculpture and painting. How does the painted surface turn a clay form into a convincing, appealing animal?",
+    "g910": "Combining sculpture and painted decoration, this ram-shaped aryballos shows the inventiveness of Corinthian workshops. The vessel's practical needs, a small opening and a body that holds oil, are absorbed into the form of an animal, and painted details give the surface character. Corinthian pottery was widely traded in the Mediterranean, and small containers like this circulated as both useful and attractive goods. What does the playful handling of a luxury product suggest about the market for it?",
+    "g1112": "This ram-shaped aryballos belongs to the Corinthian tradition, whose small painted vessels were exported widely and imitated, notably in Etruria. The object merges two modes, modeled form and painted detail, and invites questions about how animal imagery operated in daily and ritual life, where rams could carry several associations. The record does not establish the vase's specific findspot or use, so interpretation should remain careful. Consider what such a vessel reveals about commerce in scented oils and about the aesthetic interests of ordinary users."
+  },
+  "questions": {
+    "k": {
+      "daily": "What name would you give this ram jar?",
+      "emotion": "Does the ram look funny, calm, or proud? What tells you?",
+      "observation": "What parts of the ram can you point to?",
+      "analysis": "Where do your eyes look first on the ram?",
+      "line": "Can you find a curvy line on the ram's head or horns? Trace it in the air.",
+      "shape": "What shapes can you see in the ram's body and head?",
+      "color": "What colors do you see painted on the jar?",
+      "texture": "The jar is made of clay. How do you think the painted parts would feel?",
+      "space": "This jar is small. How would it look in your hand?",
+      "light": "Where is the jar light? Where is it dark?",
+      "meaning": "What story could you tell about this ram?",
+      "culture": "People in Greece made this jar long ago. Where have you seen sheep?",
+      "technique": "The potter shaped clay and added paint. What do you think came first?",
+      "personal": "If you made a jar in an animal shape, which animal would you pick?",
+      "critical": "Why would a potter make a tiny jar look like a ram?"
+    },
+    "g12": {
+      "daily": "What is this little jar for? What clues in its shape tell you?",
+      "emotion": "What feeling does a ram-shaped jar give you? Which part makes you feel that way?",
+      "observation": "Describe the ram from its head to its back. What do you notice?",
+      "analysis": "How does the potter guide your eyes around the ram?",
+      "line": "Find curved lines on the ram. Where do you see them?",
+      "shape": "What big shapes make up this ram? How do they fit together?",
+      "color": "Look at the painted colors or marks. How do they help you see a ram?",
+      "texture": "What clues tell you this jar is clay and not metal?",
+      "space": "How can you tell this jar is small?",
+      "light": "Where does the painted surface look lightest? Where darkest?",
+      "meaning": "Why might a potter choose a ram as a shape for a jar?",
+      "culture": "Corinth was a Greek city that sold its pottery far away. Why might people far away have wanted this jar?",
+      "technique": "Potters baked clay to make it hard. Why does a jar need that?",
+      "personal": "What animal would you paint on a jar for a friend?",
+      "critical": "Does this jar look more like a toy or a container? Explain."
+    },
+    "g35": {
+      "daily": "What details show the ram is also a container? Where might the oil go in and out?",
+      "emotion": "What mood does the ram have, playful or serious? Which details support your idea?",
+      "observation": "Look closely for one minute. What small painted details do you notice?",
+      "analysis": "How does the potter arrange the head and body so the ram looks balanced?",
+      "line": "How do the curved lines of the ram compare with any straight or painted lines?",
+      "shape": "How does the potter simplify the ram into basic shapes? Which shapes stand out?",
+      "color": "The Met lists the medium as terracotta, painted. How does paint add to the ram's appearance?",
+      "texture": "How might the painted surface look different from plain clay?",
+      "space": "This jar is a small three-dimensional sculpture. What might you see if you turned it around?",
+      "light": "How does light on the rounded body show the ram's form?",
+      "meaning": "Why might a ram have been a good choice for a perfume jar? List a few ideas.",
+      "culture": "Corinthian pottery was traded across the Mediterranean. What might the ram tell us about this trade?",
+      "technique": "A potter had to shape the clay, add paint, and bake it. Why would the order matter?",
+      "personal": "What small object do you own that could be shaped like an animal? Describe it.",
+      "critical": "Why might a potter pay attention to how a tiny perfume jar looks?"
+    },
+    "g68": {
+      "daily": "How does the potter turn a small container into a lively animal with shape and paint?",
+      "emotion": "What personality does the ram have, and which details create it?",
+      "observation": "List what you see from the head to the back. Which parts seem most carefully shaped or painted?",
+      "analysis": "How does the potter combine sculpture and painting in a single small object?",
+      "line": "How do the lines of the head, horns, and body, whether shaped or painted, affect the figure's mood?",
+      "shape": "How does the maker simplify a real ram? What is gained and what is lost?",
+      "color": "How do painted colors and marks help the viewer read the animal, and how does the base clay color matter?",
+      "texture": "How does the painted surface create a different kind of texture than plain clay?",
+      "space": "How does this small three-dimensional vessel occupy space differently from a painting?",
+      "light": "How would light and shadow change as the vessel is turned in the hand?",
+      "meaning": "Why might perfumed oil have been valued, and how does that affect the effort in making its container?",
+      "culture": "How does Corinthian pottery show the reach of Greek trade in the 6th century BCE?",
+      "technique": "How could a potter make a hollow animal that can also hold and pour oil? Describe the challenges.",
+      "personal": "What everyday containers around you are designed to be attractive? Compare them with this aryballos.",
+      "critical": "We do not know where this vase was found or who owned it. What can be said and what cannot?"
+    },
+    "g910": {
+      "daily": "How does the animal shape change the way we think about a vessel for perfumed oil?",
+      "emotion": "What emotional character does the ram project, and which formal choices create it?",
+      "observation": "Describe the visual hierarchy: what reads first, and how do paint and form guide the eye?",
+      "analysis": "Analyze how the ram's head, body, and the vessel's opening are combined, and where painted detail reinforces the modeled form.",
+      "line": "How do painted and modeled lines work together to define the ram's features?",
+      "shape": "How does the simplification of the ram contribute to its charm and its relationship to Archaic art?",
+      "color": "How does the contrast between clay tone and painted areas shape the viewer's reading?",
+      "texture": "How does surface finish distinguish a luxury product from an ordinary container?",
+      "space": "How does holding a small ram-shaped flask differ from looking at a flat painting of a ram?",
+      "light": "How might lamplight or daylight have affected the appearance of the vase?",
+      "meaning": "What meanings might a ram carry in the ancient Mediterranean, and what would be needed to support a claim about this vessel?",
+      "culture": "How does the wide export of Corinthian pottery complicate the idea of regional art as purely local?",
+      "technique": "How might a potter combine modeling, painting, and firing, and what risks does each step carry?",
+      "personal": "How do products today use animal shapes to make objects friendly or appealing?",
+      "critical": "What evidence would help a scholar decide whether this vase was an everyday item, a gift, or a grave offering?"
+    },
+    "g1112": {
+      "daily": "What arguments can be made about this aryballos from its form and painting, and where does the evidence run out?",
+      "emotion": "How might a small ornamental object shape emotion and identity for its owner, and how can we reason about this for an ancient culture?",
+      "observation": "Describe the ram's modeled form and painted marks precisely. Where do your observations assume things the record does not state?",
+      "analysis": "Analyze how the vase balances the demands of container, sculpture, and painted surface.",
+      "line": "How does line, modeled or painted, serve as the primary carrier of meaning in a small zoomorphic vessel?",
+      "shape": "How do modeled volume and painted detail pull the ram toward realism or toward pattern?",
+      "color": "How does painted decoration operate between description and ornament?",
+      "texture": "What can the object's surface suggest about workshop practice, wear, and survival?",
+      "space": "How does the tactile scale of the object shape relationships among maker, owner, and viewer?",
+      "light": "How does museum display affect our understanding of an object made to be held and used?",
+      "meaning": "How might animal imagery on vessels register cultural associations, and what would count as evidence for a symbolic reading of this ram?",
+      "culture": "How does the wide imitation of Corinthian forms in places like Etruria inform ideas of cultural exchange and influence?",
+      "technique": "What does the production of such vessels suggest about workshop specialization and mass production in Corinth?",
+      "personal": "How does classifying this flask as a vase, rather than a sculpture, shape its place in a museum?",
+      "critical": "What can responsible interpretation say about a flask with no recorded maker, findspot, or owner?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a small painted pottery flask shaped like a ram; no sacrifice or violence is indicated in the record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Corinthian aryballos, a small flask for perfumed oil, in the form of a ram, dated to the early 6th century BCE. Corinth exported painted pottery across the Mediterranean.",
+    "vocabulary": [
+      "aryballos",
+      "Corinthian",
+      "terracotta",
+      "perfumed oil",
+      "vessel",
+      "sculpture"
+    ],
+    "directions": [
+      "Have students design a small container in the shape of an animal and decide where it opens and pours.",
+      "Locate Corinth, Athens, and Etruria on a map and discuss how pottery traveled.",
+      "Compare this ram with another animal-shaped vessel and discuss what a potter had to simplify."
+    ]
+  }
+}

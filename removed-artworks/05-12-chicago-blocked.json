@@ -1,0 +1,158 @@
+{
+  "id": "artic-22732",
+  "day": "05-12",
+  "title": "Interior with Pink Wallpaper I, plate five from Landscapes and Interiors",
+  "artist": "Édouard Vuillard",
+  "date": "1899",
+  "medium": "Color lithograph on grayish-ivory China paper",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/90b66346-2855-510d-18ae-b15e74fb38d2/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Walter S. Brewster",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A color print of a room in a home, with dense patterns on the walls in pink and other warm colors and figures quietly busy with daily activities.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/22732",
+    "objectId": "22732",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1936.198, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A color lithograph made in France in 1899 by Édouard Vuillard as part of the album Landscapes and Interiors. The Art Institute describes bright colors and dense patterns giving an intimate glimpse into the artist's home, with figures absorbed in daily activities. It was printed by Auguste Clot and published by Ambroise Vollard.",
+  "descriptions": {
+    "k": "This is a picture of a room inside a home. The walls are full of patterns and warm colors. People are busy with quiet things. Can you find the pink? What would it feel like to sit in this room?",
+    "g12": "Édouard Vuillard made this print of a cozy room in a home. The walls are covered in patterns, and the colors are warm, like pink and gold. People are busy doing everyday things. What would you do if you walked into this room?",
+    "g35": "Édouard Vuillard made this color print in France in 1899. It shows the inside of a home, with bright colors and busy patterns on the walls. People are absorbed in their daily activities and seem a bit far away. Why might an artist choose to show ordinary life at home?",
+    "g68": "In Interior with Pink Wallpaper I (1899), Édouard Vuillard offers an intimate glimpse of home life through dense patterns and bright colors. The figures are absorbed in everyday activities, which gives the scene a quiet mystery. It is a color lithograph, so each color was printed separately. How do patterns and color make a private space feel both warm and mysterious?",
+    "g910": "Vuillard's color lithograph (1899) fills a domestic interior with dense pattern and saturated color, so that wallpaper almost competes with the figures absorbed in daily tasks. The mood is intimate yet distant. As part of an album that collectors were slow to buy, it shows an artist valuing private subjects over grand ones. How does pattern shape our sense of space and feeling here?",
+    "g1112": "Vuillard's lithograph (1899), from the album Landscapes and Interiors, merges figures and wallpaper into a field of dense pattern and saturated color, producing intimacy tinged with distance. Collectors resisted the album's private subject matter, though it now seems central to Vuillard's achievement. How does the print flatten space while deepening mood, and what does it suggest about the value of the domestic as a subject for modern art?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which colors do you see on the walls? Can you find the pink?",
+      "emotion": "Does this room feel cozy or lonely? What do you see that tells you?",
+      "observation": "Look for the people. What do you think they are doing?",
+      "analysis": "Why do you think the artist covered the walls with so many patterns?",
+      "line": "Trace a pattern line on the wall. Is it wavy or straight?",
+      "shape": "What shapes can you find in the patterns?",
+      "color": "Which colors feel warm to you? Point to them.",
+      "texture": "Does the paper look soft or hard? Tell us why.",
+      "space": "Is this room big or small? How can you tell?",
+      "light": "Where is the room lightest? Where is it darker?",
+      "meaning": "Why might an artist paint a room at home?",
+      "culture": "What rooms in your home have patterns?",
+      "technique": "The artist printed each color one at a time. Why might that take a long time?",
+      "personal": "If you made a picture of your favorite room, what would you show?",
+      "critical": "What would you change about the room?"
+    },
+    "g12": {
+      "daily": "Find the pink on the walls. How many places can you see it?",
+      "emotion": "Does this room seem quiet, cozy, or sleepy? Show us what you see that tells you.",
+      "observation": "Who is in the room, and what are they doing?",
+      "analysis": "Why do you think the artist put so many patterns on the walls?",
+      "line": "Follow one wavy line in the pattern. Where does it go?",
+      "shape": "Which repeating shapes can you find in the patterns?",
+      "color": "Which warm color do you like best in the print?",
+      "texture": "This print was made from ink on paper. Does it look soft or flat?",
+      "space": "Does the room look deep or flat to you? Why?",
+      "light": "Where does the room look lightest? Where is it a little darker?",
+      "meaning": "What do you think the artist loved about this room?",
+      "culture": "What patterns do you have on your clothes or walls at home?",
+      "technique": "The artist used a stone and ink for each color. Why might that take many steps?",
+      "personal": "If you drew your own room, what would you put on the walls?",
+      "critical": "What would you do if you could step into this room?"
+    },
+    "g35": {
+      "daily": "What details make this room feel like a real home?",
+      "emotion": "What feeling do the warm colors and busy patterns give you?",
+      "observation": "Describe what the people seem to be doing. Where are they in the room?",
+      "analysis": "Why do you think the artist made the patterns almost as important as the people?",
+      "line": "How do the lines in the patterns lead your eyes across the print?",
+      "shape": "How do the repeated shapes on the wall make the room feel busy?",
+      "color": "How do the pinks and other warm colors work together?",
+      "texture": "How can you tell this is a printed picture and not a painting?",
+      "space": "Does the room look deep or flat? What makes you say that?",
+      "light": "Where do the darker spots help you find the people?",
+      "meaning": "What does a picture of ordinary life at home tell us about what the artist cared about?",
+      "culture": "This was made in France about 125 years ago. How might home life then be like or different from yours?",
+      "technique": "The artist printed with a stone and ink. How is that different from drawing with a crayon?",
+      "personal": "If you drew people in your home, what everyday things would they be doing?",
+      "critical": "Is an ordinary room as interesting to look at as a grand palace? Explain."
+    },
+    "g68": {
+      "daily": "Where does your eye land first, and what pulls it there?",
+      "emotion": "How does the mix of bright color and dense pattern change the mood of the room?",
+      "observation": "Describe how the people and their activities are placed within the room.",
+      "analysis": "How does the artist blend the figures into the walls and furniture?",
+      "line": "How do repeated lines and curves in the pattern keep your eye moving?",
+      "shape": "How do the shapes of the people compare with the shapes in the wallpaper?",
+      "color": "How do warm colors like pink affect the atmosphere compared with cool colors?",
+      "texture": "How can you tell this color print was made in layers?",
+      "space": "How does the pattern make the room feel flat, and how does it still suggest depth?",
+      "light": "How do light and dark areas help separate figures from their surroundings?",
+      "meaning": "Why might Vuillard have chosen to show private home life instead of famous events?",
+      "culture": "The album did not sell quickly when it was first published. Why might people have overlooked such quiet subjects?",
+      "technique": "How did printing in color require planning from the artist?",
+      "personal": "What does the closeness of the room make you feel about the people in it?",
+      "critical": "Can a picture of a small, quiet moment be as powerful as a dramatic one? Give reasons."
+    },
+    "g910": {
+      "daily": "How does the composition merge figure and background, and what is the effect on the way you read the scene?",
+      "emotion": "How does the combination of saturated color and dense pattern create a mood that is both warm and slightly distant?",
+      "observation": "Examine the placement of figures within the room. What does it suggest about their relationship to one another and to the viewer?",
+      "analysis": "Analyze how the print balances pattern with areas of rest.",
+      "line": "How do repeated lines in the wallpaper set up a rhythm that governs the whole composition?",
+      "shape": "How do the shapes of the figures echo or resist the shapes of the patterns?",
+      "color": "How does the choice of a pink-dominated palette shape the emotional temperature of the scene?",
+      "texture": "What does the lithographic process, with color applied in stages, contribute to the look of the surface?",
+      "space": "How does the flattened space challenge conventional ideas of perspective while preserving a sense of place?",
+      "light": "How does the distribution of light and dark control the legibility of figures within the pattern?",
+      "meaning": "Why might Vuillard have viewed domestic subjects as worthy of an album?",
+      "culture": "How does the lukewarm reception of this series reflect the tastes of collectors around 1900?",
+      "technique": "How does Vuillard's use of lithography connect fine art and the world of publishing in Paris?",
+      "personal": "What does the sense of figures absorbed in their own world suggest about privacy and observation?",
+      "critical": "How would you argue for the importance of domestic scenes in the history of modern art?"
+    },
+    "g1112": {
+      "daily": "How does Vuillard's integration of figures and decorative surface unsettle the conventional hierarchy between subject and ground?",
+      "emotion": "In what ways does saturated, patterned color produce an emotional register that is simultaneously enveloping and estranging?",
+      "observation": "What interpretive questions arise from figures who are present yet absorbed, neither addressing nor acknowledging the viewer?",
+      "analysis": "Evaluate how the print negotiates between pattern as ornament and pattern as structure.",
+      "line": "How do the repeated motifs of the wallpaper function as a rhythmic field against which smaller gestures register?",
+      "shape": "How does the echo between figural and ornamental forms collapse distinctions that academic painting preserved?",
+      "color": "How does the dominance of rosy hues construct the psychological temperature of the interior?",
+      "texture": "What does the multi-stage color lithographic process imply about the intersection of craft, publishing, and avant-garde experiment?",
+      "space": "How does a compressed, tilted space reflect the Post-Impressionist rethinking of perspective?",
+      "light": "How does tonal distribution permit figures to emerge from and dissolve into the surrounding pattern?",
+      "meaning": "Why might a series focused on private spaces have struggled to find buyers, and how has that perception changed?",
+      "culture": "How does publishing through a dealer such as Ambroise Vollard situate this print within the Parisian art market?",
+      "technique": "What is the significance of a modern artist choosing the interior of his own world as a primary subject?",
+      "personal": "How does seeing a private domestic world treated with such care alter the way you regard your own surroundings?",
+      "critical": "To what extent does the print's quiet subject matter achieve a form of psychological depth that grand narrative painting might not?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (domestic scenes) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A color lithograph made in France in 1899 by Édouard Vuillard as part of the album Landscapes and Interiors. The Art Institute describes bright colors and dense patterns giving an intimate glimpse into the artist's home, with figures absorbed in daily activities. It was printed by Auguste Clot and published by Ambroise Vollard.",
+    "vocabulary": [
+      "lithograph",
+      "interior",
+      "pattern",
+      "domestic scene",
+      "Post-Impressionism",
+      "print"
+    ],
+    "directions": [
+      "Have students draw a favorite room at home and fill the walls with patterns, then discuss how pattern changes the feeling.",
+      "Ask students to look for repeating shapes in the print and make a repeat pattern of their own.",
+      "Discuss why a quiet everyday moment can be worth making art about."
+    ]
+  }
+}

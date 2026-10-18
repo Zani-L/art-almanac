@@ -1,0 +1,158 @@
+{
+  "id": "met-623095",
+  "day": "09-18",
+  "title": "Burgonet",
+  "artist": "Artist unknown",
+  "date": "ca. 1610",
+  "medium": "Steel, gold, copper alloy",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/aa/web-large/DP320268.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/aa/original/DP320268.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Arthur Ochs Sulzberger Bequest, 2013",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A steel helmet from France shown against a plain background, with a rounded crown and decorative gold-colored detail. It is displayed on its own, with no person wearing it.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/623095",
+    "objectId": "623095",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, dimensions, weight, credit line, classification (Helmets), objectName, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A burgonet is a type of helmet, and this French example from about 1610 is made of steel with gold and copper alloy. The Met records its height as about 36 cm and its weight as about 2.2 kilograms (4 lb. 15 oz.).",
+  "descriptions": {
+    "k": "This is a helmet from France. It is made of steel and shiny gold. It is a little heavy, about as heavy as a big bag of flour. Look at the curve on top. How would it feel on your head?",
+    "g12": "This helmet was made in France more than 400 years ago. It is called a burgonet. The main part is steel, and some parts are gold and copper. It weighs about two kilograms. Look at its round top and its decoration. Why might someone have wanted a helmet that looked this fancy?",
+    "g35": "A burgonet is a kind of helmet. This one was made in France around 1610 from steel, with gold and copper alloy, which is a mix of copper and other metals. It is about 36 centimeters tall and weighs a little over two kilograms. Metalworkers often made helmets both strong and beautiful. What details make this helmet look special?",
+    "g68": "Around 1610 French armorers still made helmets of fine quality, though by then armor was increasingly worn for ceremony and display. This burgonet combines steel with gold and copper alloy, a mix of strength and decoration. It is about 36 centimeters tall and weighs about 2.2 kilograms. How do the shape, the materials, and the surface show the skill of the maker? What might the decoration say about the wearer?",
+    "g910": "This burgonet from about 1610 shows armor design at the point where protection and display overlap. Steel provides the structure, while gold and copper alloy supply color and ornament. At about 36 centimeters tall and 2.2 kilograms, the helmet is substantial yet carefully shaped. The record does not say who owned it, so claims about rank or ceremony should stay tentative. Consider how a protective form can also communicate status and taste.",
+    "g1112": "As a French burgonet of about 1610, this helmet belongs to a period when armor was increasingly a symbol of rank and courtly display, though the Met's record does not tell us how it was used. The pairing of steel with gold and copper alloy suggests an interest in contrasting finishes, and the form itself reflects generations of refinement. How do we read an object that was built to protect but now survives as a work of craft, and what do we lose when we separate it from the person who wore it?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine lifting this helmet. How heavy do you think it feels, and where would you hold it?",
+      "emotion": "Does this helmet look strong, fancy, or calm? Why?",
+      "observation": "Find the round top and the shiny gold parts. What else do you see?",
+      "analysis": "What part of the helmet do your eyes go to first?",
+      "line": "Trace the line along the top of the helmet in the air. Where does it rise and fall?",
+      "shape": "Does the top of the helmet look like a dome, a ridge, or something else? Draw it in the air.",
+      "color": "Steel is gray and silver, and the gold is yellow. How do they look together?",
+      "texture": "Some parts are smooth steel and some are shiny gold. Which would feel colder?",
+      "space": "The helmet is hollow inside. Where would your head fit?",
+      "light": "Where does the helmet shine the brightest?",
+      "meaning": "Why would someone want a helmet to look so special?",
+      "culture": "This helmet was made in France more than 400 years ago. What do people wear today to protect their heads?",
+      "technique": "Metalworkers hammered steel into this shape. What tools might they have used?",
+      "personal": "If you could design a helmet for a parade, what colors would you pick?",
+      "critical": "Should a helmet be plain to work well or fancy to look good? Tell why."
+    },
+    "g12": {
+      "daily": "What would you notice first if this helmet were in the room with you?",
+      "emotion": "Does the mix of gray steel and shiny gold make the helmet feel serious or playful?",
+      "observation": "Look slowly all around the helmet. Name five parts or details you see.",
+      "analysis": "How does the shape of the helmet draw your eyes from the bottom edge to the top?",
+      "line": "Find long curved lines on the helmet. Where do they begin and end?",
+      "shape": "The helmet is rounded on top. How does the rest of it curve to fit around a head?",
+      "color": "The helmet uses silver-gray and gold. How do those colors make it look rich and strong?",
+      "texture": "Where does the metal look smooth and where does it look decorated?",
+      "space": "A helmet has to fit a head. What parts of the shape tell you where the face would be?",
+      "light": "Imagine light from a window. Where would it bounce off the helmet?",
+      "meaning": "A helmet protects the head. Why might a helmet also be made to look beautiful?",
+      "culture": "This is a French helmet from about 1610. What can a decorated helmet tell us about what people cared about then?",
+      "technique": "The helmet weighs about 2.2 kilograms. Why do you think the maker used strong steel?",
+      "personal": "What do you wear for protection that you also like how it looks? Tell about it.",
+      "critical": "Does decoration make a helmet less useful? Give a reason."
+    },
+    "g35": {
+      "daily": "Look at this burgonet for one minute. What three details would you point out to explain why it is special?",
+      "emotion": "What feeling does the combination of dark steel and bright gold give this helmet?",
+      "observation": "Which parts of the helmet seem simple and which parts seem decorated?",
+      "analysis": "How does the maker shape the helmet so it is strong and also pleasing to look at?",
+      "line": "How do lines along the helmet guide your eyes from its base to its top?",
+      "shape": "Compare the rounded crown to the lower parts of the helmet. How do they fit together?",
+      "color": "How does gold stand out against steel in this helmet?",
+      "texture": "How might steel, gold, and copper alloy look and feel different from each other?",
+      "space": "The helmet is about 36 centimeters tall. Why do you think its size is important to the way it is made?",
+      "light": "How does steel reflect light compared with gold?",
+      "meaning": "Why might a person in 1610 want a helmet decorated in this way?",
+      "culture": "The Met says this helmet is French. What do we know and not know about who used it?",
+      "technique": "The helmet is made of three materials. Why might a maker choose different metals for different parts?",
+      "personal": "Think of something you wear that is both useful and a way to show your style. How is it like this helmet?",
+      "critical": "How can we tell if a helmet was made for use, for show, or both? What would you look for?"
+    },
+    "g68": {
+      "daily": "What makes this helmet an object worth studying as craft, beyond its use as protection?",
+      "emotion": "How do the dark steel and bright metal details create a sense of dignity?",
+      "observation": "Describe the helmet from its crown to its lower edge. Which details look most carefully made?",
+      "analysis": "How does the helmet's shape balance protection with elegance?",
+      "line": "How do the curves of the crown relate to the lines that run lower down the helmet?",
+      "shape": "How does a helmet's shape need to follow the shape of a human head, and how does the maker add style within that limit?",
+      "color": "How does the pairing of steel and gold produce contrast and richness?",
+      "texture": "How would steel's smooth strength differ from the finish of gold and copper alloy details?",
+      "space": "The helmet is hollow and about 36 centimeters tall. How does its volume affect how it appears on display?",
+      "light": "How might the reflective qualities of steel and gold change in changing light?",
+      "meaning": "What might a decorated helmet have communicated to people who saw it in 1610?",
+      "culture": "By about 1610, armor was changing. Why might a maker still invest in a finely decorated helmet?",
+      "technique": "The Met lists steel, gold, and copper alloy. What skills would be needed to combine them?",
+      "personal": "What objects do you think show care by their makers even when no one sees every detail?",
+      "critical": "How should museums talk about armor as craft without losing the context of how it was used?"
+    },
+    "g910": {
+      "daily": "How does this burgonet shape a protective form into a statement of status and taste?",
+      "emotion": "How do mass, shine, and symmetry produce a sense of authority in the helmet?",
+      "observation": "Describe the visual hierarchy of the helmet. Which elements draw the eye first and why?",
+      "analysis": "How does the design integrate function and ornament without letting one overwhelm the other?",
+      "line": "How do the contours of the crown and the edges of the helmet establish rhythm?",
+      "shape": "How does the helmet's form combine rounded volumes with sharper edges, and what does that do for its silhouette?",
+      "color": "How do the cool tones of steel and the warm tones of gold and copper alloy create contrast?",
+      "texture": "How might variations in finish across the helmet communicate skill and value?",
+      "space": "How does a hollow form designed for a head sit in space on a stand or in a case?",
+      "light": "How do polished surfaces reflect their surroundings, and how does that change the helmet's appearance?",
+      "meaning": "How might ornament on protective gear signal status, ceremony, or fashion, and why is certainty difficult here?",
+      "culture": "How does a French helmet of about 1610 reflect the courtly culture and craft traditions of its time?",
+      "technique": "What does the use of multiple metals suggest about the specialization of armor workshops?",
+      "personal": "How does the context of display, in a museum rather than in use, change how you respond to the helmet?",
+      "critical": "Where does an object stop being equipment and start being art, and does this burgonet cross that line?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the object's materials and form about its use, and what remains conjecture?",
+      "emotion": "How does an object built to protect the body convey authority when it is separated from the wearer?",
+      "observation": "Describe the burgonet's formal qualities with precision. Where does description begin to imply an argument?",
+      "analysis": "Analyze how structure and ornament interact, and how that interaction relates to the object's status as craft.",
+      "line": "How does the helmet's contour combine functional geometry with aesthetic refinement?",
+      "shape": "How does the silhouette of a burgonet signal a historical type, and what does variation within a type reveal?",
+      "color": "How does the contrast between steel and gold and copper alloy express an aesthetic of display?",
+      "texture": "How do surface treatments communicate both protection and luxury, and what is lost in photographic reproduction?",
+      "space": "How does a helmet's interior, which cannot be seen, shape its exterior form and our understanding of it?",
+      "light": "How might the reflective surfaces have been seen in different settings, such as indoors and outdoors, and how does a gallery change that?",
+      "meaning": "How do we interpret armor produced in a period when it was both practical and increasingly ceremonial, and what do the records leave open?",
+      "culture": "How does a French burgonet fit into the wider European exchange of armor styles and workshop practices around 1610?",
+      "technique": "What questions about workshop practice and the division of labor arise from an object combining steel with gold and copper alloy?",
+      "personal": "How do your own associations with armor and display shape how you read this helmet?",
+      "critical": "What are the responsibilities of a museum when presenting armor as art while acknowledging its original purposes?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Helmets), objectName (Burgonet), medium (steel, gold, copper alloy), and absence of tags checked against the museum record: no flagged terms. The object is a helmet shown as a craft object, with no weapon or action.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A French burgonet, a type of helmet, from about 1610, made of steel with gold and copper alloy. Teachers should frame it as a craft object and focus on design, materials, and how objects communicate status.",
+    "vocabulary": [
+      "burgonet",
+      "steel",
+      "copper alloy",
+      "crown (of a helmet)",
+      "silhouette",
+      "armorer"
+    ],
+    "directions": [
+      "Compare this helmet with the Turkish copper helmet in the archive and discuss how two makers decorated protective headgear.",
+      "Have students sketch a helmet for a modern activity and add one decorative feature that does not harm its function.",
+      "Discuss how the weight of an object, here about 2.2 kilograms, changes our imagination of using it."
+    ]
+  }
+}

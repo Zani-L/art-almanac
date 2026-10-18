@@ -1,0 +1,151 @@
+{
+  "id": "met-546194",
+  "day": "05-11",
+  "title": "Arched Harp (shoulder harp)",
+  "artist": "Artist unknown",
+  "date": "ca. 1386–1300 BCE",
+  "medium": "Wood",
+  "region": "Egypt, New Kingdom (Dynasty 18, late)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP302724.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP302724.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1943",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wooden musical instrument with a long, gracefully curved neck that arcs up from a hollow, boat-shaped body. It is a harp from ancient Egypt, and the wood is a warm brown.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/546194",
+    "objectId": "546194",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Musical Instruments), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A wooden arched harp from Egypt's New Kingdom, made late in Dynasty 18 (about 1386–1300 BCE). The record calls it a shoulder harp, a type that was small enough to be carried and played in the hands. It is about 82 cm long measured diagonally.",
+  "descriptions": {
+    "k": "This is a harp! It is made of wood and is very old. It has a long curved neck and a hollow body. Strings would stretch across it. What kind of music do you think it made?",
+    "g12": "This wooden harp is from ancient Egypt, over 3,000 years old. Its long neck curves like a bow, and the body is hollow so sound can ring out. Strings once stretched between them. What song would you play on this harp?",
+    "g35": "This arched harp was made in Egypt about 3,300 years ago. Its wooden neck curves upward from a hollow body, and strings once ran between them. Because it is a shoulder harp, a musician could carry and play it. Look at how the curve and the body fit together. How do you think this shape helps the harp make music and stay light?",
+    "g68": "Made around 1386–1300 BCE, this wooden harp is a shoulder harp, built to be carried by a musician. Its curved neck and hollow soundbox form one graceful, simple shape, where every part serves the sound. Music in ancient Egypt was part of festivals, temple worship, and daily life. What does the harp's beauty tell you about how important music was to the people who made it?",
+    "g910": "This New Kingdom arched harp is a good example of form following function: a curved neck anchors the strings and a hollow body amplifies them. The elegant arc and the warm wooden surface give the instrument a sculptural presence even without its sound. Musical instruments in Egypt appear in many settings, from celebrations to ritual, but this object's specific use is not recorded in the record. How can a silent instrument still communicate performance?",
+    "g1112": "Surviving Egyptian harps allow us to study music through its material remains rather than its sound. The arched form joins engineering and aesthetics: the curve of the neck resists string tension while giving the instrument a distinctive profile. Wall paintings and other evidence suggest harps were part of both ceremony and entertainment, yet the music itself is lost. Consider how an instrument can be understood as sculpture, tool, and cultural witness, and what a museum display can and cannot convey about sound."
+  },
+  "questions": {
+    "k": {
+      "daily": "This wooden harp has a long curved neck. What do you think it would sound like?",
+      "emotion": "Would music from this harp feel happy, calm, or sleepy? Why?",
+      "observation": "Find the curved neck and the hollow body. Point to each one.",
+      "analysis": "Where do your eyes start on the harp and where do they end?",
+      "line": "Trace the curve of the harp's neck in the air. Is it a gentle curve or a sharp one?",
+      "shape": "The body of the harp is like a little boat. What other shapes do you see?",
+      "color": "The wood is warm and brown. What other things have this color?",
+      "texture": "Does the wood look smooth or rough? How do you know?",
+      "space": "Where would the strings go on the harp? Show with your finger.",
+      "light": "Where does the light make the wood look golden?",
+      "meaning": "Why might a musician in Egypt have wanted a harp of their own?",
+      "culture": "This harp is more than three thousand years old. What kinds of music makers do you know today?",
+      "technique": "A person shaped this curve out of wood. How might they have bent or carved it?",
+      "personal": "What song would you play on this harp if you could?",
+      "critical": "After so many years, strings may be missing. How can you tell it is a harp anyway?"
+    },
+    "g12": {
+      "daily": "How can you tell this is a harp even if you cannot hear it? Use clues from its shape.",
+      "emotion": "Does this harp look gentle, strong, or both? Which part helps you decide?",
+      "observation": "Describe the shape of the neck and the body. How are they different?",
+      "analysis": "How do the neck and the body fit together to make one instrument?",
+      "line": "Follow the harp's curved neck with your eyes. Where does the curve feel the strongest?",
+      "shape": "What shapes put together make this harp, such as arcs and ovals?",
+      "color": "The wood is a natural brown. How is that different from a painted instrument?",
+      "texture": "How might the wooden surface feel when a musician holds it?",
+      "space": "The body is hollow inside. Why do you think a harp needs empty space?",
+      "light": "Where does the wood look lighter, and where darker? What does that tell you about its shape?",
+      "meaning": "Music was part of festivals and temples in ancient Egypt. What might a harp have meant to people there?",
+      "culture": "Egyptian artists also painted harps on walls. Why might people want pictures of music?",
+      "technique": "Making a harp takes carving, shaping, and fitting parts together. Which step do you think is the hardest?",
+      "personal": "Do you play or enjoy an instrument? How is it like or unlike this harp?",
+      "critical": "Without strings or sound, can an instrument still be beautiful? What do you think?"
+    },
+    "g35": {
+      "daily": "Look at the curve of the neck and the body together. How do they help a harp do its job?",
+      "emotion": "What feeling does the curving shape of this harp give you? Which details do that?",
+      "observation": "Spend a minute studying the wood. What small marks, edges, or surface details do you notice?",
+      "analysis": "How are the neck and soundbox arranged so that the harp feels balanced?",
+      "line": "How does the long arc of the neck give the harp its personality?",
+      "shape": "The harp is made of a long arc and a hollow, boat-like body. How do these shapes contrast?",
+      "color": "The wood has a natural brown color and no bright paint that we can see. How does that change how you look at its shape?",
+      "texture": "What can you tell about the wood from the way it looks? How might it feel in your hands?",
+      "space": "The harp is made to hold strings across empty space. How does empty space act like part of the instrument?",
+      "light": "How does light on a curved wooden surface show its shape?",
+      "meaning": "What might it say about a society that made an instrument so graceful and careful?",
+      "culture": "Egyptians used music at feasts and in worship. How does the harp fit into those parts of life?",
+      "technique": "Shoulder harps had to be light and strong. How do you think the maker achieved both?",
+      "personal": "Think of a sound that makes you feel something. How could an instrument's shape help create it?",
+      "critical": "We only see the harp, not hear it. How might our understanding of the instrument be limited?"
+    },
+    "g68": {
+      "daily": "How does the harp's form show that it was made for sound as well as for the eye?",
+      "emotion": "How does the sweeping curve of the neck create a mood of grace? Identify the choices behind it.",
+      "observation": "Describe the harp from top to bottom. Which parts do you think are the most carefully crafted?",
+      "analysis": "How do the proportions of neck and soundbox create balance? What would change if one were larger?",
+      "line": "How does the long, flowing line of the harp contrast with the more compact body?",
+      "shape": "How do the arc of the neck and the curved body relate to each other as repeating forms?",
+      "color": "With natural wood as the main color, what visual qualities does the harp rely on instead?",
+      "texture": "How might the finish of the wood have affected how the instrument was handled and valued?",
+      "space": "How does the open space between neck and body shape our sense of the instrument's volume?",
+      "light": "How does light reveal the harp's curved surfaces, and why does the curve matter?",
+      "meaning": "In what ways might an instrument like this signal skill, celebration, or ritual in Egyptian life?",
+      "culture": "How might the presence of harps in Egyptian wall paintings and tombs deepen our understanding of this object?",
+      "technique": "What does the way the harp is built suggest about woodworking skill in the New Kingdom?",
+      "personal": "How do you decide whether an instrument is beautiful by sight or by sound? Which matters more to you?",
+      "critical": "What are the challenges of studying music from a time when no recordings exist?"
+    },
+    "g910": {
+      "daily": "How does the harp balance structure, function, and visual elegance?",
+      "emotion": "How does the arc of the neck establish a feeling of poise or tension without any decoration?",
+      "observation": "Identify the main parts of the harp and describe how they work together visually.",
+      "analysis": "Analyze how the arched form manages tension while also creating the instrument's overall silhouette.",
+      "line": "How does the sweeping contour of the harp work as both an engineering solution and an aesthetic gesture?",
+      "shape": "How does the hollow, boat-like body play against the slender arc of the neck?",
+      "color": "How does an undecorated wooden surface shift attention to form and material?",
+      "texture": "How might the grain and finish of the wood contribute to the instrument's sense of age and craft?",
+      "space": "How does the open frame, which is meant to hold strings, activate the space around the harp?",
+      "light": "How does light on the curving surfaces emphasize the instrument's three-dimensionality?",
+      "meaning": "Why might an instrument be treated as a status object or ritual item in some contexts, and what is uncertain about this harp's use?",
+      "culture": "How does a harp reflect the role of music in Egyptian ceremonial and social life?",
+      "technique": "What does the structure suggest about how woodworkers planned for sound, strength, and portability?",
+      "personal": "How does knowing an object was made for use change the way you judge its beauty?",
+      "critical": "How should museums present instruments whose sound can no longer be heard?"
+    },
+    "g1112": {
+      "daily": "How can an instrument without its sound or strings still function as evidence of performance practice?",
+      "emotion": "How does the silent presence of the harp produce its own kind of expressive effect, and how might that differ from hearing it?",
+      "observation": "Describe the harp's construction. Where does observation of structure depend on outside knowledge of how harps worked?",
+      "analysis": "Analyze the relationship between acoustic function and sculptural form in the arched harp.",
+      "line": "How does the continuous arc unify the instrument, and how might that unity reflect Egyptian design values?",
+      "shape": "How does the interplay of curve and cavity define the harp's visual and acoustic logic?",
+      "color": "What can we infer, and what can we not, about the original surface or color of the harp from its present appearance?",
+      "texture": "How might wear, age, and conservation affect what viewers see in the wood today?",
+      "space": "How does the harp define a void that is essential to its identity as an instrument?",
+      "light": "How might museum lighting, compared with a lived setting, change our perception of the harp?",
+      "meaning": "How do depictions of harps in other Egyptian media inform, and perhaps limit, what we can say about this object's meaning?",
+      "culture": "What does the survival of wooden instruments suggest about the role of music in elite and ritual life, and which gaps remain?",
+      "technique": "How might the craft of woodworking and instrument making reveal cooperation between specialized workshops?",
+      "personal": "How does your own experience of music shape your sense of an instrument that cannot be played?",
+      "critical": "What are the ethical and scholarly questions raised by displaying an instrument as art when its original purpose was sound?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Musical Instruments), medium (wood) and period checked against the museum record. Subject is a musical instrument with no people named in the record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A New Kingdom arched harp of wood, called a shoulder harp in the record. Surviving Egyptian instruments are rare, so objects like this help us picture how music was made.",
+    "vocabulary": ["harp", "soundbox", "New Kingdom", "arc", "tension", "instrument"],
+    "directions": [
+      "Have students sketch an imagined scene where this harp is played, then explain who is listening.",
+      "Ask students to compare how a rubber band stretched over a box makes sound, linking to how a hollow body helps.",
+      "Discuss why we study objects that no longer make sound."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-437479",
+  "day": "03-15",
+  "title": "The Return of the Cattle",
+  "artist": "Hubert Robert",
+  "date": "ca. 1773–75",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP264408.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP264408.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Lucy Work Hewitt, 1934",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A countryside farm scene in which cows are brought home by a group of people, including men, women and boys, in a soft rural landscape.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437479",
+    "objectId": "437479",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Farms, Boys, Men, Women, Cows) and image URLs read from the record"
+  },
+  "context": "An oil painting by the French artist Hubert Robert, made around 1773–75. Robert is best known for views of ruins and gardens, so a farm scene with cows shows a different side of his work. The record's tags list cows, farms, and several people.",
+  "descriptions": {
+    "k": "Cows are coming home to the farm. Men, women, and boys walk with them. Can you find a cow? Which person do you think is leading the way? What sounds would you hear?",
+    "g12": "Hubert Robert, a French painter, shows the end of a day on a farm. Cows are coming home, and men, women, and boys are with them. The scene feels busy but friendly. What jobs do you think each person has? What sounds and smells are in this picture?",
+    "g35": "Hubert Robert is often known for paintings of old ruins, but here he painted a farm. Cows are being brought home by a group of people, including boys, men, and women. Look for how the animals and people are arranged, and how the scenery around them looks. Why might a painter choose an everyday farm moment instead of a grand event?",
+    "g68": "Painted around 1773–75, this scene shows the return of cattle to a farm. Hubert Robert, known for ruins and gardens, turns here to rural life, grouping animals and people across the canvas. Notice how the cows and figures create a rhythm of shapes and how soft light and trees set the mood. Eighteenth-century French viewers often liked idealized country scenes. Is this a realistic farm, an ideal one, or a mix?",
+    "g910": "Hubert Robert, famous for ruins and park views, here paints an evening scene of cattle returning home. Rural labor appears gentle and orderly: animals and figures are grouped to guide the eye, and soft light unifies the landscape. Many eighteenth-century paintings of country life were made for city audiences and present an idealized version of work on the land. How does Robert's picture balance observation with a pleasing, composed vision?",
+    "g1112": "In this canvas of about 1773–75, Hubert Robert offers a pastoral subject, cattle and country people at the close of the working day, within a career otherwise associated with ruins and architectural fantasies. Like much rural imagery made for urban French patrons, it can be read as sympathetic observation, as nostalgic idealization, or as both. The composition's harmony and softened labor invite questions about whose view of the countryside it records and what it leaves out."
+  },
+  "questions": {
+    "k": {
+      "daily": "Where do you think the cows are going, and who is taking them there?",
+      "emotion": "Does this farm feel noisy or calm? What do you see that makes you say so?",
+      "observation": "Find the cows. How many can you count? Who is walking with them?",
+      "analysis": "Which cow or person do you see first? Why do you think it catches your eye?",
+      "line": "Can you trace the path the cows might walk? Draw it in the air.",
+      "shape": "Look at the big shapes of the cows and the farm buildings. How are they different?",
+      "color": "What earthy colors do you see on the cows and the ground?",
+      "texture": "How do you think a cow's side would feel? How about the leaves on the trees?",
+      "space": "Which cow is closest to you and which one is farther away?",
+      "light": "Is it bright or soft in this picture? Where does the light seem to land?",
+      "meaning": "What do you think is happening at the end of a day on this farm?",
+      "culture": "People here live and work on a farm long ago. What jobs would a boy or a woman do?",
+      "technique": "The painter used oil paint to make trees and animals look soft. Where do you see it?",
+      "personal": "Have you ever seen a cow or a farm? Tell about it.",
+      "critical": "What do you think the people say to each other as they walk with the cows?"
+    },
+    "g12": {
+      "daily": "What is happening in this farm scene, and which people look most important to the work?",
+      "emotion": "What feeling does the end of the day on a farm give you? Which parts make you feel that way?",
+      "observation": "List five things you see, from the cows to the buildings and the people.",
+      "analysis": "How does the painter group the cows and people so your eyes move across the picture?",
+      "line": "Find lines made by the cows' bodies, the path, and the buildings. How do they move your eyes?",
+      "shape": "Which shapes repeat in the cows, the people, and the trees? How does that feel?",
+      "color": "Which colors feel warm and which feel cool in this scene? Where do you see each?",
+      "texture": "Which things look rough, like bark, and which look soft, like clouds or fur?",
+      "space": "How does the painter show that some cows are far away and some are near?",
+      "light": "Where does light shine in the picture and where does it fade into shadow?",
+      "meaning": "Why might someone in a city have liked a painting of a quiet farm?",
+      "culture": "People long ago in France depended on cows for milk and work. How do we get these things today?",
+      "technique": "Robert used soft brushstrokes in the sky and leaves. How does that change the feeling?",
+      "personal": "What is your favorite part of the end of a day? How is it like or unlike this farm?",
+      "critical": "Do you think everything on this farm is as neat as the painting shows? Why or why not?"
+    },
+    "g35": {
+      "daily": "Imagine you are one of the people in the picture. What is your job, and what do you see around you?",
+      "emotion": "What is the mood of this farm scene, and which choices by the painter create it?",
+      "observation": "Look silently for one minute. What small details about the people and animals did you notice that you missed at first?",
+      "analysis": "How does Robert arrange cows, people, and buildings so they feel like they belong together?",
+      "line": "How do diagonal lines and curving paths guide you through the picture?",
+      "shape": "How do the large shapes of the cows and the smaller shapes of the people create balance?",
+      "color": "How do browns, greens, and soft sky colors work together? Which colors stand out?",
+      "texture": "How does the artist show the difference between fur, cloth, leaves, and stone?",
+      "space": "What clues show the scene has a foreground, a middle, and a distance?",
+      "light": "How does the soft light affect the mood of the end of the day?",
+      "meaning": "Robert often painted ruins. What changes when he paints a working farm instead?",
+      "culture": "Many city people in France liked paintings of country life. What might they have enjoyed about it?",
+      "technique": "Robert used oil paint to build glowing, soft effects. How might this help a farm scene feel gentle?",
+      "personal": "Think about work that you or your family do at the end of the day. How does that compare with this scene?",
+      "critical": "A painter can choose what to show and what to leave out. What do you think Robert left out of this farm?"
+    },
+    "g68": {
+      "daily": "How does this return of the cattle turn a routine task into a scene worth studying?",
+      "emotion": "How do the soft light and the slow movement of the animals shape the feeling of the scene?",
+      "observation": "Describe the scene from foreground to background. Which details seem most carefully arranged?",
+      "analysis": "How does Robert use the grouping of cows and people to create rhythm and direction?",
+      "line": "How do the paths and lines of the animals' bodies lead the eye through the composition?",
+      "shape": "How do repeated rounded shapes of cows and trees contrast with the straighter lines of buildings?",
+      "color": "How does the earthy palette unify the picture? Where does a contrasting color draw attention?",
+      "texture": "How do varied brushstrokes suggest fur, foliage, and architecture?",
+      "space": "How do overlapping figures, shrinking sizes, and atmospheric softness give depth?",
+      "light": "How does the quality of light suggest time of day and mood?",
+      "meaning": "Does the painting seem to celebrate country life, observe it, or both? Cite details.",
+      "culture": "Why might an artist famous for ruins and gardens turn to a farm scene, and who might have wanted it?",
+      "technique": "How can an artist use soft transitions in oil paint to build a sense of atmosphere?",
+      "personal": "How do you picture the countryside? How does Robert's version match or differ?",
+      "critical": "How can a painting of country work be both sympathetic and idealized? What might be missing?"
+    },
+    "g910": {
+      "daily": "How does Robert transform ordinary farm work into an orderly, pleasing vision?",
+      "emotion": "How does the gentle light and the unhurried grouping of animals produce a mood of calm?",
+      "observation": "Describe the visual hierarchy of the scene. What do you notice first, and what devices cause that?",
+      "analysis": "Analyze how the interplay of animals, figures, trees, and buildings forms a harmonious composition.",
+      "line": "How do diagonals and curves of bodies and paths establish movement across the canvas?",
+      "shape": "How do the massed forms of the cattle and the framing trees and buildings structure the picture?",
+      "color": "How does a harmonious palette of earth tones and soft sky colors support the mood?",
+      "texture": "How does Robert use brushwork to differentiate living creatures from architecture and landscape?",
+      "space": "How does the arrangement of elements build a believable recession from near figures to the distance?",
+      "light": "How does atmospheric lighting unify the diverse elements of the scene?",
+      "meaning": "How does the painting reflect an urban viewpoint on rural life, and what might that viewpoint hide?",
+      "culture": "How do pastoral subjects in French eighteenth-century painting relate to the tastes of city patrons?",
+      "technique": "How does Robert's handling of paint here compare with the crisp architectural detail we might expect in his ruin paintings?",
+      "personal": "How does your relationship to farms or the countryside shape what you notice here?",
+      "critical": "What are the limits of using an idealized rural scene as evidence of daily life at the time?"
+    },
+    "g1112": {
+      "daily": "What claims about rural life can be supported by the picture, and which depend on assumptions about patronage and genre?",
+      "emotion": "How does the painting's calm tone complicate or reinforce its depiction of labor?",
+      "observation": "Describe the painting's formal organization with precision. Where does description already shade into interpretation?",
+      "analysis": "Analyze how Robert's composition balances narrative incident with landscape unity.",
+      "line": "How do the rhythms of bodies, paths, and architecture structure the viewer's movement through the picture?",
+      "shape": "How does the interplay of organic and built forms define the painting's sense of order?",
+      "color": "How might the aging of varnish and pigments alter what we see in the palette, and how does that matter for interpretation?",
+      "texture": "How does the variety of touch across the canvas assert the painter's command of different materials?",
+      "space": "How does the structure of space position us as observers of work rather than participants in it?",
+      "light": "How does light as atmosphere reconcile the picture's different zones and subjects?",
+      "meaning": "Weigh readings of the work as sympathetic observation, nostalgic idealization, or decorative landscape. What evidence would differentiate them?",
+      "culture": "How does a painter associated with ruins and park design enter the market for pastoral imagery, and what does that say about Enlightenment-era attitudes to nature and labor?",
+      "technique": "What might the softness of Robert's handling suggest about the picture's intended setting and function, such as a decorative scheme?",
+      "personal": "How does your own distance from or closeness to rural work shape your reading of this scene?",
+      "critical": "Whose perspective does the painting privilege, and whose labor and experience might it leave out?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Farms, Boys, Men, Women, Cows) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Hubert Robert was a French painter best known for ruins and garden views. This farm scene of about 1773–75 shows him working in a pastoral mode that appealed to city audiences.",
+    "vocabulary": [
+      "pastoral",
+      "idealized",
+      "foreground",
+      "middle ground",
+      "atmosphere",
+      "oil paint"
+    ],
+    "directions": [
+      "Have students draw a quick map of where people and animals stand and discuss what it shows about composition.",
+      "Ask groups to list what a farm worker might notice that a city painter might leave out.",
+      "Compare this farm with the harbor and ruin scenes by other artists in the archive to see how landscapes tell different stories."
+    ]
+  }
+}

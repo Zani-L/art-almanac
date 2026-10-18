@@ -1,0 +1,159 @@
+{
+  "id": "met-436653",
+  "day": "12-16",
+  "title": "Woodland Road",
+  "artist": "Meyndert Hobbema",
+  "date": "ca. 1670",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP252576.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP252576.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mary Stillman Harkness, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A landscape of a road winding through a wooded area, with tall trees and patches of sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436653",
+    "objectId": "436653",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Meyndert Hobbema was a Dutch landscape painter best known for views of woods, paths and rural buildings. This canvas was made around 1670. Dutch landscape painting was a popular market in the 1600s, and Hobbema's wooded scenes were widely admired by later collectors.",
+  "descriptions": {
+    "k": "A road goes into the woods. Tall trees stand on both sides. Sky peeks through the leaves. Where does the road go? Would you like to walk on it? What might you find?",
+    "g12": "A road winds through a woodland. Tall trees stand along the way, and bits of sky show through. Hobbema painted this in the Netherlands long ago. Follow the road with your eyes. Where does it take you, and what do you hope to find?",
+    "g35": "Meyndert Hobbema painted this woodland road around 1670. Trees crowd the sides and the road leads your eye into the picture. In the Netherlands, painters often made landscapes of the local countryside. Look at the leaves, the road and the patches of sky. How does Hobbema make the woods feel thick in some places and open in others?",
+    "g68": "Hobbema specialized in wooded landscapes, and Woodland Road (about 1670) uses a path to draw the viewer into a world of trees, shade and sky. The painting is carefully designed: dark foliage frames lighter areas, and the road acts as a guide. Dutch landscapes like this appealed to buyers who enjoyed the countryside as an idea as well as a place. How does Hobbema balance shadow and light, and does the scene feel real or arranged?",
+    "g910": "In Woodland Road, Hobbema arranges trees, path and sky into a composed view that feels natural. The winding road invites the viewer in, while masses of foliage create alternating zones of shade and light. Landscape was a major commercial genre in the Dutch Republic, and Hobbema's reputation grew strongly with later collectors. The scene may be based on observation, but it is also a studio composition. How does the balance between order and irregularity shape your response to the woodland?",
+    "g1112": "Painted around 1670, Woodland Road shows Hobbema's characteristic interest in the interplay of path, foliage and sky. The composition guides the viewer along the road while varied tones suggest shifting light among trees. Scholars treat Dutch landscape as both observed and constructed, and caution against assuming that such views document a specific place unless evidence says so. How does the painting use convention to create a sense of authenticity, and what does that suggest about how landscapes persuade us?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Walk down this road with your eyes. What do you find as you go?",
+      "emotion": "Does the woods feel cozy, sleepy or a little spooky? What shows you?",
+      "observation": "Can you find the road, the trees and the sky? Point to each one.",
+      "analysis": "Where does the road start, and where does it seem to go?",
+      "line": "Trace the road with your finger. Is it straight or does it bend?",
+      "shape": "What shapes do the trees make? Are the leaves big clumps or tiny dots?",
+      "color": "Which colors do you see in the leaves and the road?",
+      "texture": "How would the leaves feel? How would the road feel under your feet?",
+      "space": "Which trees are close to you, and which are far down the road? How can you tell?",
+      "light": "Where does the light come through the trees? Where is it shady?",
+      "meaning": "Who might walk on this road? Where are they going?",
+      "culture": "People in the Netherlands long ago walked and traveled on country roads. What roads do you use?",
+      "technique": "The painter made lots of leaves with tiny dabs of paint. Where could you use dabs in a picture?",
+      "personal": "Have you ever walked in the woods? What did you see and hear?",
+      "critical": "Why do you think the painter put a road in the picture?"
+    },
+    "g12": {
+      "daily": "How does the road invite you into the woods? Show the part that pulls you in.",
+      "emotion": "What feeling do the shade and the bits of bright sky give you? What shows it?",
+      "observation": "Describe three things you see close up and three things you see far away.",
+      "analysis": "How do the trees on each side work like a frame around the road?",
+      "line": "How does the road change direction? How do the tree trunks add upward lines?",
+      "shape": "Compare the shapes of the leaf clumps with the shape of the road.",
+      "color": "Which greens and browns do you see? How do they change from dark to light?",
+      "texture": "How does the painter make leaves look many and busy?",
+      "space": "How does the painter make the road look like it goes far into the distance?",
+      "light": "Find the brightest patch of sky or road. How does it stand out from the dark trees?",
+      "meaning": "Where might this road lead to, a village, a farm or a river?",
+      "culture": "What does this painting tell you about the land in the Netherlands long ago?",
+      "technique": "How might the painter mix many shades of green? What would you try?",
+      "personal": "Would you like to take a walk here? What would you do?",
+      "critical": "Is this woods a real place or something the painter imagined? How can you tell?"
+    },
+    "g35": {
+      "daily": "Hobbema uses the road to lead you through the woods. What details along the way hold your attention?",
+      "emotion": "What mood do the shade and light create? Point to details that set it.",
+      "observation": "Look carefully from front to back. What details do you find in the trees, the road and the sky?",
+      "analysis": "How does the painter arrange the trees so your eyes travel from the road to the sky?",
+      "line": "How do the road and the tree trunks create lines that guide you through the painting?",
+      "shape": "How do the big, round masses of leaves compare with the narrow shapes of trunks?",
+      "color": "How does Hobbema use different greens and browns to make the woods look deep?",
+      "texture": "How does the painter suggest the feel of leaves, bark and dirt?",
+      "space": "How do overlapping trees and a narrowing road show the distance?",
+      "light": "Where does sunlight break through the leaves? How does it change the colors?",
+      "meaning": "Why might an artist choose a simple road through woods as a subject?",
+      "culture": "Why might people in the 1600s have wanted a painting of woods and roads in their homes?",
+      "technique": "Painters often start with dark colors and add lighter ones. Where might Hobbema have added lighter colors?",
+      "personal": "Think of a path you know. How is it like or different from this road?",
+      "critical": "Does the painting look like a photograph of a real place? What evidence helps you decide?"
+    },
+    "g68": {
+      "daily": "How does Hobbema combine road, trees and sky to make a landscape that feels both natural and arranged?",
+      "emotion": "How do areas of shadow and light shape the mood of the woodland?",
+      "observation": "List what you see in the foreground, middle ground and background. Which details are easy to miss?",
+      "analysis": "How does the composition use framing trees and a winding road to lead the viewer's eye?",
+      "line": "How do the curve of the road and the vertical trunks create a rhythm across the painting?",
+      "shape": "How do clumps of foliage form larger shapes that organize the canvas?",
+      "color": "How does the range of greens, browns and light tones create depth and unity?",
+      "texture": "How does the painter use brushwork to render foliage so it feels dense and varied?",
+      "space": "Which devices, such as overlap, atmospheric haze and a narrowing road, create depth?",
+      "light": "How do bright patches and dark masses create contrast, and what effect does this have on mood?",
+      "meaning": "What might a path into the woods suggest to a viewer, beyond simple travel?",
+      "culture": "How did the market for landscape paintings shape the kinds of scenes artists like Hobbema produced?",
+      "technique": "What approach would a painter take to render hundreds of leaves without painting each one?",
+      "personal": "How do wooded places make you feel, and how does this painting capture or change that feeling?",
+      "critical": "How can we tell what in a landscape painting is observed and what is invented?"
+    },
+    "g910": {
+      "daily": "How does Hobbema create the sense of a natural woodland while clearly composing it?",
+      "emotion": "How does the alternation of shade and brightness produce a mood of quiet invitation?",
+      "observation": "Describe the painting's visual hierarchy. What draws the eye first, and how does the path keep it moving?",
+      "analysis": "Analyze how masses of foliage, road and sky are balanced in the composition.",
+      "line": "How does the road act as a structural line and how do tree trunks counter or reinforce it?",
+      "shape": "How does the contrast between rounded foliage masses and linear trunks create visual rhythm?",
+      "color": "How does the tonal range of greens and earth colors produce unity and depth?",
+      "texture": "How does varied brushwork convey the irregularity of foliage and the solidity of earth?",
+      "space": "How does the placement of the viewer on the road shape the sense of entering the scene?",
+      "light": "How does filtered light animate the surface of the woods and suggest time of day?",
+      "meaning": "How do you weigh readings of the scene as a record of rural life, a pleasing arrangement, or an ideal of nature?",
+      "culture": "How did Hobbema's wooded landscapes meet the tastes of Dutch buyers, and how did later collectors shape his reputation?",
+      "technique": "How does a painter combine studies from nature with studio composition to produce a finished landscape?",
+      "personal": "How does moving through a natural space change your perception, and how does the painting recreate that experience?",
+      "critical": "What is gained and lost when a landscape is composed to look effortlessly natural?"
+    },
+    "g1112": {
+      "daily": "What does this painting ask us to believe about the natural world, and what devices make that belief easy?",
+      "emotion": "How does the painting evoke feeling through light and enclosure, and how might different viewers respond differently?",
+      "observation": "Describe the formal organization of the painting as precisely as possible before interpreting. Which choices were hardest to describe neutrally?",
+      "analysis": "How does Hobbema's composition balance enclosure with openness, and what does the balance imply?",
+      "line": "How do the road and trunks establish a structure that supports the illusion of unplanned nature?",
+      "shape": "How do mass and silhouette of foliage create a stage-like frame for the road?",
+      "color": "How does the restricted palette of greens and earth tones produce atmosphere, and what does it exclude?",
+      "texture": "How does the handling of paint produce the convincing sense of foliage, and where does the illusion break down on close viewing?",
+      "space": "How does the painting position the viewer in the landscape, and what is the effect of an inviting path?",
+      "light": "How does intermittent light give the woods temporal depth, and how does that affect interpretation?",
+      "meaning": "How should an interpreter treat the absence of an explicit narrative or symbol in a landscape?",
+      "culture": "What can the later popularity of Dutch wooded landscapes tell us about shifting tastes in nature and the picturesque?",
+      "technique": "How does the process of building a landscape in oil relate to the experience of looking at one?",
+      "personal": "What associations with woods and paths do you bring that may color your reading of the scene?",
+      "critical": "How do landscape conventions shape what we consider natural, and whose experience of land do they leave out?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Roads, Landscapes) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A wooded landscape by Meyndert Hobbema, made around 1670 in the Dutch Republic. Landscape was a major genre for Dutch painters, and Hobbema's reputation grew with later collectors.",
+    "vocabulary": [
+      "landscape",
+      "foliage",
+      "foreground",
+      "background",
+      "framing",
+      "filtered light"
+    ],
+    "directions": [
+      "Take students outside to sketch a tree-lined path and compare how they show depth.",
+      "Discuss the difference between a place that is observed and one that is composed.",
+      "Compare with Ruisdael's Wheat Fields, which gives the sky more space."
+    ]
+  }
+}

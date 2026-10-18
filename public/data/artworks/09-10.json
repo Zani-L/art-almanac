@@ -1,0 +1,159 @@
+{
+  "id": "met-16345",
+  "day": "09-10",
+  "title": "Conversation Piece",
+  "artist": "Lilly Martin Spencer",
+  "date": "ca. 1851–52",
+  "medium": "Oil on canvas",
+  "movement": "American genre painting",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT4335.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT4335.jpg",
+    "credit": "The Metropolitan Museum of Art, Maria DeWitt Jesup and Morris K. Jesup Funds, 1998",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A scene of family life inside a home, with a mother, a father, and an infant, and a doll among the household objects, painted in rich detail.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/16345",
+    "objectId": "16345",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Interiors, Infants, Fathers, Mothers, Dolls) and image URLs read from the record"
+  },
+  "context": "An oil painting of about 1851 to 1852 by Lilly Martin Spencer, a woman artist who was born in England, grew up in Ohio, and became known for lively scenes of home life. The title borrows a term for informal group pictures set in a domestic space.",
+  "descriptions": {
+    "k": "A mother, a father, and a baby are together in a room. There is a doll too. It looks like a busy, warm home. What do you think everyone is doing or saying?",
+    "g12": "Lilly Martin Spencer painted a family at home. A mother, a father, and a baby share a room, and a doll is nearby. Spencer liked to show real life with warm feeling. What do you think the family is talking about?",
+    "g35": "Lilly Martin Spencer painted this scene of family life around 1851. The title Conversation Piece names a type of picture that shows people together at home. Look for the mother, father, baby, and doll, and notice the furniture and rich colors. What do the poses and details tell you about how this family lives?",
+    "g68": "Conversation Piece is a genre painting, meaning a scene of ordinary life, by Lilly Martin Spencer, a woman who supported a large family by painting. Spencer filled her domestic scenes with humor, warmth, and carefully described objects. Here a mother, father, infant, and doll fill a home interior. The title borrows from a tradition of informal group portraits. What story can you read in the way the figures relate to each other?",
+    "g910": "Spencer's Conversation Piece draws on the tradition of informal group portraits to present a family at home, with a mother, father, infant, and doll in a richly furnished interior. Spencer was a professional woman artist in mid-nineteenth-century America, working in a genre often associated with sentiment and domestic life. The painting's warmth can be read as affectionate, humorous, or idealized. Because the record does not identify the sitters, readers should be cautious about assuming the family is Spencer's own.",
+    "g1112": "Lilly Martin Spencer worked professionally in a period when few American women made a living as painters, and her domestic scenes, such as Conversation Piece of about 1851 to 1852, balanced popular sentiment with sharp observation. The title recalls a European tradition of informal group portraits, yet the picture shows a modest American household with an infant, parents, and a doll. Scholars debate how far such images celebrate domestic ideals and how far they gently test them through humor and detail. The record does not identify the sitters, so biographical readings remain tentative."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the mother and father are talking about?",
+      "emotion": "Does this home feel noisy, cozy, or calm? Why?",
+      "observation": "Who do you see in this room? Count the people and look for the doll.",
+      "analysis": "Who do you look at first? Why do you think that happens?",
+      "line": "Can you find a straight line in the furniture? Can you find a curvy line in the clothes?",
+      "shape": "What shapes do you see in the doll, the baby, and the furniture?",
+      "color": "What is your favorite color in the room? Which colors are warm?",
+      "texture": "Which things in the room look soft? Which look hard?",
+      "space": "Who is near the front of the picture? Who is farther back?",
+      "light": "Where does the light fall in the room? What does it touch?",
+      "meaning": "Why might the doll be in the room? Make up a short story.",
+      "culture": "This family lived long ago. What in the room is like your home and what is different?",
+      "technique": "The painter used oil paint to make fabric look soft. Where can you find cloth that looks soft?",
+      "personal": "What do you like to do with your family at home? Tell one thing.",
+      "critical": "Why might an artist paint a family at home instead of a king or a queen?"
+    },
+    "g12": {
+      "daily": "What is happening in this home right now? Use the picture to tell the story.",
+      "emotion": "What feeling do you get from the family? Point to the parts that help you feel it.",
+      "observation": "List five things you see in the room, from clothing to objects.",
+      "analysis": "How are the family members placed in the picture? Who seems connected to whom?",
+      "line": "Follow the lines of the furniture and clothing. How do they lead your eyes to the family?",
+      "shape": "Find round shapes and straight shapes in the room. Which one do you see more?",
+      "color": "Which colors in the picture look rich and warm? How do they make the home feel?",
+      "texture": "Show how you can tell soft cloth from hard wood in the painting.",
+      "space": "How does the painter show the room as a place you could walk into?",
+      "light": "Where does the light seem to come from? Does it feel soft or sharp?",
+      "meaning": "Why might the doll be an important detail in a family picture?",
+      "culture": "People in the 1850s had no cameras at home. Why might a family want a painting of their life?",
+      "technique": "Spencer painted many tiny details in cloth and furniture. Where do you notice careful painting?",
+      "personal": "How is your family time like or unlike this scene?",
+      "critical": "Is this scene an exact record or a happy idea of family life? How can you tell?"
+    },
+    "g35": {
+      "daily": "What story do you think Spencer wants you to read in this family scene, and which details support it?",
+      "emotion": "Is the mood warm, funny, serious, or something else? What details help you decide?",
+      "observation": "After one minute of silent looking, what small objects and details do you notice around the family?",
+      "analysis": "How does Spencer arrange the mother, father, infant, and doll so they feel like one scene?",
+      "line": "How do the lines of furniture and clothing help guide your eyes through the room?",
+      "shape": "How do the rounded shapes of the figures compare with the straighter shapes of the furniture?",
+      "color": "How does Spencer use warm colors and rich fabrics to make the home feel comfortable?",
+      "texture": "How does she paint fabric, skin, and wood so they feel different from each other?",
+      "space": "How can you tell how far the room goes back? Look at the size and placement of the objects.",
+      "light": "Where is the brightest light, and how does it help you notice something important?",
+      "meaning": "The doll sits among adults and a baby. What might it suggest about childhood or family life?",
+      "culture": "Lilly Martin Spencer painted to earn money for her family. What might that tell us about women's work in the 1850s?",
+      "technique": "Spencer worked in oil paint and was known for lively details. How can you tell she looked closely at real life?",
+      "personal": "Think of a time when your family was all in one room. What did it feel like?",
+      "critical": "The title says conversation. What conversation do you think is going on, and what clues help you decide?"
+    },
+    "g68": {
+      "daily": "How does Spencer make an ordinary family moment into a story you want to read?",
+      "emotion": "How do the poses and the arrangement of the family create warmth or humor?",
+      "observation": "Scan the room from foreground to background. Which details are most carefully painted?",
+      "analysis": "How does the composition link the family members and the objects around them?",
+      "line": "How do the lines of furniture, clothing, and gestures guide the eye among the figures?",
+      "shape": "How do the repeated curves of the figures contrast with the geometry of the room?",
+      "color": "How do rich, saturated colors make the home feel prosperous or lively?",
+      "texture": "How does Spencer distinguish cloth, wood, and skin, and why does that matter for a domestic scene?",
+      "space": "How does the placement of the figures in the room give a sense of an actual home?",
+      "light": "How does light direct attention to certain figures and objects?",
+      "meaning": "What do the presence of an infant and a doll suggest about generations and roles in the family?",
+      "culture": "How might Spencer's position as a professional woman painter have shaped how she depicted family life?",
+      "technique": "How does Spencer's blend of careful detail and lively gesture make the scene feel both staged and natural?",
+      "personal": "What does this scene make you think about how families spend time together?",
+      "critical": "Does the painting show a typical family or an ideal one? What details help you decide?"
+    },
+    "g910": {
+      "daily": "How does Spencer use the conversation piece tradition to give a domestic scene both dignity and humor?",
+      "emotion": "How does the arrangement of the figures balance affection with the liveliness of family life?",
+      "observation": "Among the parents, the infant, the doll, and the furnishings, what holds your eye first, and which painted devices place it there?",
+      "analysis": "Analyze how Spencer balances figures, furnishings, and space to unify the composition.",
+      "line": "How do gesture and direction of the figures link the characters across the canvas?",
+      "shape": "How do rounded forms of the figures create rhythm against the structure of the interior?",
+      "color": "How do saturated colors and contrasts focus attention on the central relationships?",
+      "texture": "How does Spencer's attention to varied materials add to the painting's sense of lived-in comfort?",
+      "space": "How does the shallow or enclosed space shape the viewer's role as a witness to a private moment?",
+      "light": "How does the treatment of light contribute to the painting's mood of domestic ease?",
+      "meaning": "How might the doll and infant suggest ideas about childhood and generational roles, and where do such readings become speculative?",
+      "culture": "How does Spencer's work as a woman professional painter in mid-nineteenth-century America affect how we read her domestic scenes?",
+      "technique": "How does her detailed, polished technique appeal to the market for genre painting?",
+      "personal": "How does your own experience of family shape what you notice first in this scene?",
+      "critical": "Does the painting idealize domestic life, or does it hint at its complications? Support your view with visual evidence."
+    },
+    "g1112": {
+      "daily": "What can be argued about this painting's view of family life from visual evidence, and what remains uncertain?",
+      "emotion": "How does the painting's mix of sentiment and observation complicate any single reading of its mood?",
+      "observation": "Inventory the figures, the doll, and the interior details exactly as shown. Which entries in your list are already a reading of the family?",
+      "analysis": "Analyze how Spencer organizes figures and objects to produce a sense of narrative without a single clear action.",
+      "line": "How do gestures and directional forces within the scene guide the viewer through the narrative?",
+      "shape": "How does the interplay of figure groups and domestic furnishings produce both unity and tension?",
+      "color": "How might the color scheme communicate prosperity, warmth, or sentiment, and how might aging affect what we see?",
+      "texture": "How does the attention to varied surfaces serve both the illusion of reality and the conventions of genre painting?",
+      "space": "How does the domestic interior position the viewer in relation to the family as insider or observer?",
+      "light": "In what ways does light function as description and as an emotional or narrative device?",
+      "meaning": "Evaluate readings of the painting as celebration of domestic ideals, gentle satire, or personal reflection. Which is best supported, and which is speculative?",
+      "culture": "How does the work reflect the cultural expectations of women and domesticity in the 1850s, and how did Spencer's career complicate them?",
+      "technique": "What does the painting reveal about the professional strategies of an American woman painter in a market for popular genre scenes?",
+      "personal": "How do your own expectations about family and domestic space shape your reading?",
+      "critical": "Given that the record does not identify the sitters, what standards of evidence should govern biographical interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Interiors, Infants, Fathers, Mothers, Dolls), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. An infant appears; the tags suggest a clothed domestic scene, but this should be confirmed visually.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Lilly Martin Spencer was born in England, raised in Ohio, and worked as a professional painter in New York and elsewhere, earning money to support her family. A conversation piece is an informal group portrait set in an everyday space.",
+    "vocabulary": [
+      "genre painting",
+      "conversation piece",
+      "interior",
+      "composition",
+      "narrative",
+      "domestic"
+    ],
+    "directions": [
+      "Have students act out the scene silently and then invent the dialogue.",
+      "Ask students to list jobs women could and could not do in the 1850s and compare them with Spencer's career.",
+      "Discuss what the painting shows about family life and what it leaves out."
+    ]
+  }
+}

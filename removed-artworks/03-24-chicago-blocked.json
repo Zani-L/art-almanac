@@ -1,0 +1,158 @@
+{
+  "id": "artic-180545",
+  "day": "03-24",
+  "title": "Portrait of Philippe Coypel and His Wife",
+  "artist": "Charles-Antoine Coypel",
+  "date": "1742",
+  "medium": "Pastel on blue laid paper, pieced, laid down on canvas",
+  "movement": "French Rococo portraiture",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/70b5f843-8885-d0f7-f167-e992cf36bac1/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Regenstein Endowment",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A soft pastel portrait of two people, a man and a woman, shown close together in eighteenth-century clothing against a muted background, drawn in chalky colors on blue paper.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/180545",
+    "objectId": "180545",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2003.63, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A double portrait in pastel made in 1742 by the French artist Charles-Antoine Coypel. The Art Institute notes that it probably honors the tenth anniversary of the death of his brother Philippe. Pastel is powdered color pressed into sticks, which gives a soft, velvety look.",
+  "descriptions": {
+    "k": "Two people are sitting close together in this picture. It is made with soft, chalky colors. Can you find their faces? Do they look friendly? Show us how you would sit next to someone you love.",
+    "g12": "An artist named Charles-Antoine Coypel made this picture of two people in 1742. He used soft colored chalk called pastel on blue paper. They are shown close together, like a family photo from long ago. What do you think they might say to each other?",
+    "g35": "Charles-Antoine Coypel drew this double portrait in pastel in 1742 in France. A man and a woman are shown together, and the museum says it probably honors his brother Philippe ten years after his death. Pastel gives the picture a soft, powdery look. Why might an artist make a portrait to remember someone?",
+    "g68": "This 1742 pastel by Charles-Antoine Coypel pairs two sitters in a single portrait. The Art Institute suggests it marks the tenth anniversary of the death of the artist's brother Philippe, so the picture may be about memory as well as likeness. Pastel is made from powdered pigment, and its soft, velvety surface is easy to smudge. How does the medium suit a portrait meant to honor someone?",
+    "g910": "Coypel's 1742 double portrait, made in pastel on blue paper laid down on canvas, probably commemorates the tenth anniversary of his brother Philippe's death. Pastel's powdery surface can create delicate skin tones and soft transitions. Presenting two sitters together invites questions about relationship, status, and remembrance. What can a portrait tell us about the bond between people, and what can it never reveal?",
+    "g1112": "Charles-Antoine Coypel's pastel double portrait (1742) is thought to mark the tenth anniversary of his brother Philippe's death, combining likeness with commemoration. Pastel's fragile, velvety surface suited the Rococo taste for softness and refinement, while the blue ground gives the sitters tonal warmth. How does a double portrait negotiate individuality and relationship, and in what sense is a memorial portrait both about presence and absence?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you see in this picture? Point to their faces.",
+      "emotion": "Do these two people look happy, serious, or calm to you? What shows it?",
+      "observation": "What are the people wearing? Find something fancy.",
+      "analysis": "Why do you think they are sitting so close?",
+      "line": "Trace the outline of one person's shoulders. Is it curvy or straight?",
+      "shape": "What shapes do you see in their clothes and hair?",
+      "color": "Which colors do you see most? Are they soft or bright?",
+      "texture": "The picture looks powdery. Does it look hard or fluffy to you?",
+      "space": "Who is closer to you, the man or the woman? How can you tell?",
+      "light": "Where does the light seem to fall on their faces?",
+      "meaning": "Why do people make pictures of family members?",
+      "culture": "People long ago dressed differently than we do. What would you wear in a picture like this?",
+      "technique": "The artist used chalky pastels. How is that different from using a pencil?",
+      "personal": "If you made a picture of you with someone special, who would it be?",
+      "critical": "What would you ask these two people if they could talk?"
+    },
+    "g12": {
+      "daily": "How are the two people sitting or standing together? Show it with your body.",
+      "emotion": "Do the two people look friendly, proud, or shy? Tell us what makes you think so.",
+      "observation": "Describe one thing each person is wearing.",
+      "analysis": "Why do you think the artist put both people in the same picture?",
+      "line": "Follow the outline of the people's clothes. Are the lines soft or sharp?",
+      "shape": "Which round shapes can you find in the clothes or faces?",
+      "color": "Which soft colors stand out the most? Where do you see them?",
+      "texture": "Does the chalky pastel look fluffy or hard? What makes you think that?",
+      "space": "Which person seems to stand a little closer to you?",
+      "light": "Where does light fall most clearly on the faces?",
+      "meaning": "Why do you think people long ago wanted pictures of themselves?",
+      "culture": "People in old pictures wear different clothes than we do. What clothes would you wear for a picture today?",
+      "technique": "The artist used powdery chalk on blue paper. What could be tricky about that?",
+      "personal": "If you made a picture with someone you love, how would you place yourselves?",
+      "critical": "What would you like to ask the people in this picture?"
+    },
+    "g35": {
+      "daily": "What do the faces of the man and woman tell you about how they feel?",
+      "emotion": "How does the soft, chalky look change the mood of the picture?",
+      "observation": "Describe the clothes each person is wearing. What details can you find?",
+      "analysis": "Why do you think the artist put the two people so near each other?",
+      "line": "Follow the lines of their clothing with your eyes. Where do they lead?",
+      "shape": "How do soft, rounded shapes make the people look gentle?",
+      "color": "Which colors are used for skin, clothes, and background? How do they work together?",
+      "texture": "How did the artist make the pastel look smooth and velvety?",
+      "space": "How does the background make the two people stand out?",
+      "light": "Where do you see the lightest spots on faces and clothes?",
+      "meaning": "The museum says this probably honors the artist's brother. Why might someone make a picture to remember a person?",
+      "culture": "This was made in France almost 300 years ago. What can the clothes tell you about that time?",
+      "technique": "Why might pastel be harder to use than pencil or paint?",
+      "personal": "If you made a picture to remember someone you love, what would you show?",
+      "critical": "Do you think a portrait can show what a person is really like? Explain your thinking."
+    },
+    "g68": {
+      "daily": "Where do your eyes land first, and what draws them there?",
+      "emotion": "What mood does the soft pastel texture create compared with a sharp pencil drawing?",
+      "observation": "Describe the two sitters' poses. What do their positions suggest about their relationship?",
+      "analysis": "How does the artist arrange the figures so they feel like a pair rather than two separate portraits?",
+      "line": "How do the lines of clothing and posture guide you from one sitter to the other?",
+      "shape": "How do the soft curves of sleeves and collars shape the overall look of the picture?",
+      "color": "How does the blue paper affect the colors of the skin and clothing?",
+      "texture": "How did the artist use pastel to make cloth and skin look so different?",
+      "space": "How does the shallow background keep your attention on the people?",
+      "light": "How does soft lighting on the faces help make them look gentle and lifelike?",
+      "meaning": "The museum suggests this honors the artist's brother, Philippe. How might knowing that change the way you see it?",
+      "culture": "What can eighteenth-century clothes and hairstyles tell you about how people wanted to look in France then?",
+      "technique": "Pastel smudges easily. Why might that make it a delicate material for a lasting portrait?",
+      "personal": "How would you create a double portrait to show how two people are connected?",
+      "critical": "Is a portrait mostly about how someone looks or about how they are remembered? Give your view."
+    },
+    "g910": {
+      "daily": "How does the composition negotiate the relationship between two sitters in a single frame?",
+      "emotion": "How does the soft, powdery texture of pastel shape the emotional tone of a memorial portrait?",
+      "observation": "Examine the sitters' postures and expressions. What might they imply about status, affection, or formality?",
+      "analysis": "Analyze how the artist balances the two figures so that neither dominates entirely.",
+      "line": "How do the flowing contours of fabric and form create a gentle rhythm across the sheet?",
+      "shape": "How do rounded, soft-edged shapes support the Rococo preference for delicacy?",
+      "color": "How does the blue ground influence the harmony of flesh tones, fabric colors, and background?",
+      "texture": "What does the velvety surface reveal about the technical demands of working in pastel?",
+      "space": "How does the limited depth of the setting focus the viewer on faces and clothing?",
+      "light": "How does the handling of light model the sitters' faces and give them a sense of presence?",
+      "meaning": "If the portrait honors a brother ten years after his death, how does that context change its meaning?",
+      "culture": "How does portraiture in eighteenth-century France reflect ideas of refinement, family, and social position?",
+      "technique": "Why would an artist as prominent as Coypel choose pastel for a work with personal meaning?",
+      "personal": "In what ways might a double portrait reveal more about a relationship than a single one?",
+      "critical": "Can a commemorative portrait ever capture a person's character, or does it mainly reflect the memory of the maker? Defend your view."
+    },
+    "g1112": {
+      "daily": "How does the double-portrait format structure a visual argument about relationship, and what compositional means signal intimacy or distance?",
+      "emotion": "In what ways does pastel's matte, fragile surface lend itself to a tone of tenderness and fragility suited to commemoration?",
+      "observation": "What interpretive questions arise when a portrait is made to mark the anniversary of a death rather than to document a living sitter?",
+      "analysis": "Evaluate how the arrangement of two bodies in one field establishes balance and hierarchy.",
+      "line": "How do the soft, continuous contours of drapery and figure sustain a rhythm characteristic of Rococo taste?",
+      "shape": "How do rounded forms and tonal blending contribute to the idealization typical of eighteenth-century portraiture?",
+      "color": "How does the colored ground function as a unifying tone that modulates every other hue applied over it?",
+      "texture": "What does the handling of powdery pigment reveal about the technical virtuosity required to render skin, fabric, and light?",
+      "space": "How does the compressed pictorial space direct the viewer toward psychological presence rather than setting?",
+      "light": "How does the careful modeling of illumination animate the sitters, and what does it suggest about the artist's training?",
+      "meaning": "How might a memorial purpose alter the way viewers read the sitters' expressions and gestures?",
+      "culture": "How do conventions of French portraiture shape what is shown and what is withheld about the sitters' lives?",
+      "technique": "How does Coypel's position as a leading artist inform the way we interpret a personal, family-centered commission?",
+      "personal": "What distinctions can be drawn between a portrait as likeness, as document, and as act of remembrance?",
+      "critical": "To what extent can any portrait overcome the gap between visual resemblance and lived identity, and how does this one address that gap?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (double portrait, pastel, drawing) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release. The portrait commemorates a person who had died; teachers may wish to introduce the memorial purpose gently.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A double portrait in pastel made in 1742 by the French artist Charles-Antoine Coypel. The Art Institute notes that it probably honors the tenth anniversary of the death of his brother Philippe. Pastel is powdered color pressed into sticks, which gives a soft, velvety look.",
+    "vocabulary": [
+      "portrait",
+      "pastel",
+      "double portrait",
+      "Rococo",
+      "commemorate",
+      "likeness"
+    ],
+    "directions": [
+      "Have students draw a double portrait of two friends or family members using chalk pastels on colored paper.",
+      "Ask students to compare how a pastel portrait feels compared with a photograph.",
+      "Discuss how an artwork can help people remember someone and invite students to share ways their families remember people."
+    ]
+  }
+}

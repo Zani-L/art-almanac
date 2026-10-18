@@ -1,0 +1,159 @@
+{
+  "id": "ahp-impression-sunrise",
+  "day": "03-01",
+  "title": "Impression Sunrise",
+  "artist": "Claude Monet",
+  "date": "1872",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "/images/ahp-impression-sunrise.jpg",
+    "credit": "Musée Marmottan Monet, Paris; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/9237/claude-monet-impression-sunrise-1872-obelisk-art-history.jpg"
+  },
+  "altText": "A hazy harbor scene at dawn with a small bright orange sun low in a grey-blue sky. Its orange light shimmers in short strokes on the water, where a few dark boats float and distant shapes fade into the mist.",
+  "source": {
+    "museum": "Musée Marmottan Monet, Paris",
+    "url": "https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/",
+    "objectId": "impression-sunrise",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, collection, public-domain statement)"
+  },
+  "context": "An oil painting by Claude Monet from 1872, now in the Musée Marmottan Monet in Paris. The page tags it with seascapes, boats and sunrise. The title is widely linked to the name of the Impressionist movement.",
+  "descriptions": {
+    "k": "The sun is low and orange. The sky and water are grey and blue. Little boats float in the mist. Can you find the sun? What time of day do you think it is?",
+    "g12": "Claude Monet painted a sunrise over water. A small orange sun glows in the grey-blue mist. Dark boats sit on the water, and the orange light shimmers on it. Which parts look clear, and which look blurry?",
+    "g35": "Claude Monet painted Impression, Sunrise in 1872. A small orange sun and its reflection glow against cool grey and blue, while boats and shapes fade into mist. Instead of tiny details, Monet used quick strokes to catch a moment of light. Where do you see the sharpest spot, and where do things dissolve?",
+    "g68": "Monet's Impression, Sunrise (1872) shows a harbor at dawn in loose, visible brushstrokes. The orange sun and its reflection are the warmest points in a field of cool greys and blues, and boats and distant forms dissolve into haze. The title is linked to the name of the Impressionist movement. How does the painting favor a fleeting effect of light over precise detail?",
+    "g910": "Impression, Sunrise (1872) is closely associated with the naming of Impressionism. Monet prioritizes atmosphere and the changing effect of light: sketch-like strokes, a limited cool palette and one concentrated note of orange. How do these choices turn a harbor scene into an impression of a moment, and how might that have challenged expectations of finished painting?",
+    "g1112": "Impression, Sunrise (1872) is often cited in the story of Impressionism, a movement whose critics first used the term for a sketch-like look. Monet's handling, in which hue and brushstroke carry atmosphere more than outline, presses on the line between sketch and finished work. How does the painting make a transient effect feel durable, and what is gained or lost by treating light as the subject?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the orange sun? Point to it.",
+      "emotion": "Does the harbor feel quiet or noisy? What do you see that makes you say that?",
+      "observation": "Find the boats. How many can you spot?",
+      "analysis": "What time of day do you think it is, and how can you tell?",
+      "line": "Move your finger in the shape of the shimmering orange line on the water. Is it straight or wiggly?",
+      "shape": "The sun is a round shape. What other shapes can you find in the mist?",
+      "color": "What colors make up the misty morning sky and the shimmering water?",
+      "texture": "The paint looks quick and fuzzy. How would it feel to touch?",
+      "space": "Which things look close and which look far away in the mist?",
+      "light": "Where does the sun light up the water?",
+      "meaning": "Why might the painter paint a sunrise instead of a busy day?",
+      "culture": "Many boats sail from harbors like this. Have you ever seen boats on water?",
+      "technique": "Monet painted fast with small strokes. How is that different from drawing every little detail?",
+      "personal": "What would you look at first on a misty morning by the water?",
+      "critical": "What would you change in the picture if it were afternoon?"
+    },
+    "g12": {
+      "daily": "How does one small orange sun change the whole grey-blue picture?",
+      "emotion": "What feeling does this early morning mist give you, and which colors help?",
+      "observation": "List the shapes you can find on the water, from front to back.",
+      "analysis": "Why does your eye go to the orange sun and its reflection first?",
+      "line": "How do the short strokes on the water show that it is moving?",
+      "shape": "How do the dark boat shapes differ from the round sun?",
+      "color": "How do the orange and the blue-grey colors look when they sit side by side?",
+      "texture": "How can you tell the painter painted quickly and not slowly?",
+      "space": "How does the mist make the faraway boats look hazy?",
+      "light": "Where does the sunlight turn the water orange, and where does it stay grey?",
+      "meaning": "Why might Monet care more about the morning light than about each boat?",
+      "culture": "This harbor scene shows people at work on boats. What might life near a harbor be like?",
+      "technique": "What do you notice about the strokes Monet used to make the water look like it is moving?",
+      "personal": "If you could stand there, what sounds and smells might you notice?",
+      "critical": "Would you want more details in this picture or is it fine as it is? Use what you see."
+    },
+    "g35": {
+      "daily": "Which parts of this harbor scene look sharp, and which parts blur into mist?",
+      "emotion": "What mood do the cool colors and the small orange sun create together?",
+      "observation": "Look closely at the boats. What details can you tell, and what is left unclear?",
+      "analysis": "How does the orange reflection on the water help guide your eye from the sun toward you?",
+      "line": "How do the quick horizontal strokes help the water look as if it is moving?",
+      "shape": "How do the sharp shapes of the boats compare with the soft shapes of the mist?",
+      "color": "How does Monet use a small amount of orange in a mostly cool picture to make it glow?",
+      "texture": "How do the rough, visible brushstrokes make the painting feel quick and sketched?",
+      "space": "How does fading detail in the background make the harbor seem to stretch far away?",
+      "light": "How does the hazy light feel different from bright midday light?",
+      "meaning": "Why might Monet want to paint his impression of a moment rather than a detailed map of a harbor?",
+      "culture": "What does the painting suggest about harbors as places of work and travel in France in the 1870s?",
+      "technique": "What do you think was hard about painting moving light on water so quickly?",
+      "personal": "What place have you seen at dawn or dusk, and how would you paint it?",
+      "critical": "Some early viewers thought paintings like this looked unfinished. What do you think, using what you see?"
+    },
+    "g68": {
+      "daily": "How does the single warm orange accent change the way you read the cool, hazy scene?",
+      "emotion": "What atmosphere does the dawn light create, and which colors and strokes build it?",
+      "observation": "Compare how the boats in front and the shapes in the distance are painted. What differences stand out?",
+      "analysis": "How does the diagonal of the sun's reflection connect the sky to the foreground?",
+      "line": "How do the short, broken horizontal strokes on the water differ from the softer strokes in the sky?",
+      "shape": "How do the dark, simple shapes of the boats act against the soft shapes of the mist?",
+      "color": "How do the warm sun and cool sky-and-water tones remain close in brightness, and what effect does that have?",
+      "texture": "What do the visible brushstrokes tell you about the pace and aim of the painting?",
+      "space": "How does atmospheric haze create depth even though the details are minimal?",
+      "light": "How does Monet suggest the effect of light without drawing rays or outlines?",
+      "meaning": "What might the title Impression, Sunrise suggest about the painter's aim?",
+      "culture": "How might ports and industry in 1870s France have shaped a subject like this?",
+      "technique": "Why might loose strokes and blended edges suit a subject that changes by the minute?",
+      "personal": "How does it feel to look at an unfinished-seeming scene, and what do you fill in yourself?",
+      "critical": "Is a sketch-like painting less skilled than a finely detailed one? Use evidence from this work."
+    },
+    "g910": {
+      "daily": "How does the concentration of the warm sun against the cool field establish the picture's focal point?",
+      "emotion": "How does the atmosphere of early morning arise from color and edge rather than from detail?",
+      "observation": "Examine the boats and shoreline forms. How much information do they give, and why might Monet limit it?",
+      "analysis": "How does the sun's reflection create a vertical axis in an otherwise horizontal composition?",
+      "line": "How does the contrast between choppy water strokes and smoother sky strokes establish different kinds of movement?",
+      "shape": "How do the simplified silhouettes of the boats contribute to the painting's sense of atmosphere?",
+      "color": "How does Monet balance warm and cool hues of similar value, and what shimmering effect results?",
+      "texture": "What does the openly sketch-like surface suggest about Impressionist values compared with academic finish?",
+      "space": "How does tonal fading in the distance construct a believable harbor space with minimal modeling?",
+      "light": "How is light treated as the subject of the picture, rather than as a means of illuminating objects?",
+      "meaning": "How might the painting's title and loose style have challenged expectations about what a finished work should be?",
+      "culture": "How might a working harbor in France in the 1870s reflect the era's industry and modern life?",
+      "technique": "What are the advantages and risks of painting a transient effect directly and quickly?",
+      "personal": "What does this painting make you reconsider about how long you spend looking at a scene?",
+      "critical": "Does a title like Impression change how you judge the painting's completeness? Support your view."
+    },
+    "g1112": {
+      "daily": "How does the painting compel the viewer to complete forms the paint only suggests, and with what consequences for interpretation?",
+      "emotion": "Does the mood arise from the subject of dawn, from the restricted palette, or from the loose handling? Weigh the evidence.",
+      "observation": "Examine the boats and distant forms. At what point do they stop reading as objects and become marks, and why does that matter?",
+      "analysis": "How does the reflected orange axis organize an otherwise horizontal, atmospheric composition?",
+      "line": "How does the contrast of broken water strokes and more fluid sky handling convey different kinds of motion?",
+      "shape": "How does the reduction of boats to dark silhouettes relate to modern ideas about simplification?",
+      "color": "How does Monet exploit close value relationships between warm and cool hues, and what does this reveal about color as structure?",
+      "texture": "How does the visible facture challenge the Academic ideal of a polished surface?",
+      "space": "How does the painting create a sense of space without relying on linear perspective or detailed modeling?",
+      "light": "What does it mean for light and atmosphere to be the primary subject, and how does that shift the role of the harbor?",
+      "meaning": "How did the name Impressionism, associated with this work, shape both its reception and later readings of the movement?",
+      "culture": "How might the depiction of an industrial or commercial harbor complicate the image of Impressionism as purely pastoral or leisurely?",
+      "technique": "What are the limits of a transient effect as a basis for lasting art, and how does this painting answer them?",
+      "personal": "How does your own habit of looking at screens and quick images change how you meet a painting about a passing moment?",
+      "critical": "What would a defense of the painting as finished work look like, and what counterargument would you raise?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on canvas), movement, year, collection and tags (seascapes, boats, sunrise and sunset) read from the arthistoryproject.com page text; no concerning terms (no nudity, violence, death or frightening imagery). Only page text was read; the image file was not visually inspected, and a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1872 by Claude Monet, now in the Musée Marmottan Monet in Paris. The title is linked to the name of the Impressionist movement.",
+    "vocabulary": [
+      "Impressionism",
+      "brushstroke",
+      "atmosphere",
+      "reflection",
+      "warm and cool colors",
+      "seascape"
+    ],
+    "directions": [
+      "Have students paint a quick 5-minute sunrise or sunset with only three colors and compare how much detail they included.",
+      "Ask students to cover the orange with a finger and describe how the mood changes.",
+      "Discuss why a quick sketch-like painting can still be a finished artwork."
+    ]
+  }
+}

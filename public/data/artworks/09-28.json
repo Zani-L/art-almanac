@@ -1,0 +1,159 @@
+{
+  "id": "met-44632",
+  "day": "09-28",
+  "title": "One Hundred Horses",
+  "artist": "Giuseppe Castiglione (Lang Shining)",
+  "date": "datable to 1723–25",
+  "medium": "Handscroll; ink on paper",
+  "movement": "Qing dynasty court painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP355646.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP355646.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Friends of Asian Art Gifts, 1991",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A section of a very long handscroll showing many horses in an open landscape with trees and grassy ground. The horses stand, graze and rest in different poses.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/44632",
+    "objectId": "44632",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period (Qing dynasty), tag (Horses), dimensions (image about 94 cm by 789 cm), public-domain flag, credit line and image URLs read from the record. The artistDisplayName field was blank; the name used is the constituent artist name in the record, Giuseppe Castiglione (Lang Shining)."
+  },
+  "context": "A very long handscroll of horses datable to 1723 to 25 in the Qing dynasty, listed in the Met record under the artist name Giuseppe Castiglione (Lang Shining). Castiglione was an Italian Jesuit who worked as a painter at the Qing court and is known for blending European and Chinese methods. The record gives its image size as about 94 cm by 789 cm.",
+  "descriptions": {
+    "k": "This very long picture is full of horses. Some stand, some eat grass, and some rest. There are trees and open ground too. Pick one horse. What is it doing? Where would it like to go?",
+    "g12": "An artist at the emperor's court in China painted this scroll of many horses. It is almost eight meters long! The horses stand, eat, and rest in a wide, grassy place with trees. Pick your favorite horse. How is it standing? What is it thinking?",
+    "g35": "Giuseppe Castiglione was an Italian artist who painted at the Chinese court. This scroll, about eight meters long, shows a crowd of horses in a landscape. Look at the shapes of their bodies and the way light and shadow make them look round. Why might a court painter fill a long scroll with horses? Which horse tells the best story?",
+    "g68": "Castiglione, an Italian Jesuit known in China as Lang Shining, served the Qing court and combined European shading and anatomy with Chinese brush and scroll traditions. This handscroll, about eight meters long, fills a landscape with horses in many poses. Horses were valued at court as symbols of strength and good fortune. How do you notice both traditions at work, and what does the scroll format add?",
+    "g910": "Datable to 1723 to 25, One Hundred Horses shows how Qing court painting absorbed European techniques of modeling and anatomy while retaining the handscroll format. Castiglione, working as a court painter, presents numerous horses in varied poses within a landscape, and the long format controls pacing as the viewer unrolls it. Horses held cultural associations with vigor and good governance, though the record gives no single intended meaning. How do hybrid techniques shape meaning?",
+    "g1112": "As a Jesuit painter at the Qing court, Castiglione created hybrid images that fused European approaches to volume and light with Chinese formats like the handscroll. One Hundred Horses, datable to 1723 to 25, invites debate: does it celebrate imperial abundance, demonstrate cross-cultural technique, or both? The very long format raises questions about viewing, pacing, and the repeated study of animal form. Because intentions are not documented in the record, evidence-based readings should remain tentative."
+  },
+  "questions": {
+    "k": {
+      "daily": "Pick one horse in the picture. What is it doing, and what do you think it will do next?",
+      "emotion": "Do the horses look calm or excited? What do you see that tells you?",
+      "observation": "Count some horses you can see. Which one is the easiest to spot?",
+      "analysis": "Are the horses close together or spread out? How does that change the picture?",
+      "line": "Trace the line along a horse's back and neck. What shape does it make?",
+      "shape": "Horses have round bodies and thin legs. Where can you find those shapes?",
+      "color": "What colors do the horses have? Can you find one that looks different from the others?",
+      "texture": "How do you think a horse's coat would feel? Does the painter make it look smooth or fuzzy?",
+      "space": "Which horses seem near you, and which seem far away?",
+      "light": "Where does the light seem to touch the horses? Where are they darker?",
+      "meaning": "Why might an emperor want a picture with so many horses?",
+      "culture": "The artist came from Italy and painted in China. What might he have learned from both places?",
+      "technique": "The painter made the horses look round, like real animals. How do you think he did that?",
+      "personal": "Have you ever seen a horse? What did you notice about how it moved?",
+      "critical": "The scroll is much longer than a normal picture. Why might the painter want it so long?"
+    },
+    "g12": {
+      "daily": "Choose one horse and describe its pose. What does its body show about what it is doing?",
+      "emotion": "What is the mood of this horse gathering, peaceful or lively? Which horses help you decide?",
+      "observation": "Describe five different horses you can see. How are their poses different?",
+      "analysis": "How does the painter group the horses so that the scroll does not feel boring or crowded?",
+      "line": "Compare the smooth lines of a horse's body with the lines of the ground or trees. How do they differ?",
+      "shape": "How do the round shapes of horse bodies and the straight shapes of legs make a pattern?",
+      "color": "How does the artist use different shades to tell the horses apart from one another?",
+      "texture": "How does the painter show the difference between the horses' smooth coats and the rough ground?",
+      "space": "How does the artist show that some horses are in front and others behind?",
+      "light": "Where do you see light and shadow on the horses? How does that make them look solid?",
+      "meaning": "What do horses stand for in your mind, such as strength, speed, or friendship? How does the painter show it?",
+      "culture": "This painting was made for a court in China by an artist from Italy. Why is that interesting?",
+      "technique": "This scroll is almost eight meters long. What would be hard about painting something so long?",
+      "personal": "If you had to paint a hundred of anything, what would you choose and why?",
+      "critical": "Does painting many horses make the picture better or just bigger? Explain."
+    },
+    "g35": {
+      "daily": "What details show that the painter studied real horses closely?",
+      "emotion": "What mood does the scene of many horses create? Which choices by the painter build that mood?",
+      "observation": "Look at a short section for one minute. What small details about the horses' poses or surroundings did you notice last?",
+      "analysis": "How does Castiglione arrange horses of different poses so your eyes keep moving along the scroll?",
+      "line": "How do the outlines and inner marks show the shape of muscles and bones under a horse's coat?",
+      "shape": "How do the rounded forms of the horses contrast with the shapes of the trees and ground?",
+      "color": "How are lighter and darker coats used to make individual horses stand out?",
+      "texture": "How does the painter suggest the feel of a horse's hair, a tree trunk, and the ground using only brush marks?",
+      "space": "How does the painter make the horses seem to stand in a real, deep place?",
+      "light": "Look for shading on the horses. How does it make them look three-dimensional?",
+      "meaning": "Horses were important at the Qing court. What might a large painting of horses say about the people who owned it?",
+      "culture": "Castiglione was an Italian who worked for the emperor. What does this tell you about the exchange of ideas between Europe and China?",
+      "technique": "Chinese painters traditionally used lines, while European painters used shading. Where can you see both ideas in the horses?",
+      "personal": "Think of an animal you know well. What features would you need to notice to paint it accurately?",
+      "critical": "Is it fair to call this painting Chinese, European, or both? Use evidence."
+    },
+    "g68": {
+      "daily": "How does the scroll use repetition and variety to keep a hundred horses interesting?",
+      "emotion": "How does the painting convey peace or vitality through the poses of the horses?",
+      "observation": "Describe how the horses are arranged from one side of the visible section to the other. Where do they cluster, and where do they spread out?",
+      "analysis": "How does the horizontal format help control the viewer's pacing and attention?",
+      "line": "How do contour and interior lines work to show the weight and movement of the horses?",
+      "shape": "How do repeated oval body shapes and angled legs form a visual rhythm?",
+      "color": "How might variation in tone among the horses help a viewer tell individuals apart in a crowd?",
+      "texture": "How does the painter distinguish hair, bark, and ground? Which technique seems most convincing?",
+      "space": "How are overlapping and placement used to build depth for so many animals?",
+      "light": "How does shading give volume to the horses, and how is that different from traditional outline-based Chinese painting?",
+      "meaning": "Horses could symbolize vigor and good government at the Qing court. How might a viewer respond to that meaning in this scroll?",
+      "culture": "How does the work reflect Castiglione's position as a European painter in a Chinese court?",
+      "technique": "What does the combination of European modeling and Chinese scroll format tell you about the artist's skills?",
+      "personal": "What would it be like to study one subject for a long time, like these horses? How might it change your seeing?",
+      "critical": "Does the scroll show a real place or an idealized one? What evidence supports each view?"
+    },
+    "g910": {
+      "daily": "Which formal elements most clearly show Castiglione's blending of European and Chinese methods?",
+      "emotion": "How does the variety of poses create a mood of calm abundance rather than action?",
+      "observation": "Describe the visual hierarchy in a section. How do pose, placement, and tone direct attention?",
+      "analysis": "Analyze how repetition with variation controls rhythm in a composition meant to be viewed in sequence.",
+      "line": "How does the interplay of contour and modeling define the horses' anatomy?",
+      "shape": "How do the curves and angles of the horses' bodies create a pattern across the scroll?",
+      "color": "How does tonal variation across coats help organize the crowd and distinguish individuals?",
+      "texture": "How does the artist differentiate surfaces such as hair, foliage, and ground through brush technique?",
+      "space": "How does the painting produce depth and credible space for numerous overlapping figures?",
+      "light": "How does shading and highlight convey volume, and how does this reflect European influence?",
+      "meaning": "What might horses have signified at the Qing court, and how reliable is that reading for this particular scroll?",
+      "culture": "How do court workshops and the presence of foreign artists shape the character of Qing painting?",
+      "technique": "How does painting at this scale and length require planning, and how is it visible in the arrangement?",
+      "personal": "How does the experience of looking at a very long image differ from a single scene for you?",
+      "critical": "How should we weigh the artist's foreign origin against the Chinese format and patronage in labeling the work?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the scroll's visual evidence about cross-cultural exchange, and what remains uncertain?",
+      "emotion": "How does the serenity of a horse gathering complicate readings of the work as simply imperial display?",
+      "observation": "Describe the scroll's construction of figures and space with precision. When does description become interpretation?",
+      "analysis": "Analyze how repetition, variation, and sequence structure the experience of a scroll with this many animals.",
+      "line": "How do contour and modeling coexist, and what does that coexistence suggest about the hybrid training of the artist?",
+      "shape": "How do repeated forms balance naturalism with an ordered, almost decorative pattern?",
+      "color": "How does the use of tone within a limited palette govern emphasis and differentiation?",
+      "texture": "How does the painting evoke varied surfaces with a restrained medium, and what does it say about the artist's observational methods?",
+      "space": "How does the handscroll's temporal viewing complicate Western-derived illusions of deep space?",
+      "light": "How does modeled light interact with a format that traditionally relies less on cast shadow?",
+      "meaning": "How do readings of the scroll as imperial emblem, cross-cultural experiment, or animal study differ, and what evidence supports each?",
+      "culture": "How does the Jesuit presence at court shape how we narrate encounters between European and Chinese art, and what narratives might be oversimplified?",
+      "technique": "What does the attribution of the scroll to Castiglione suggest about workshops, assistants, and authorship in court painting?",
+      "personal": "How does your own sense of originality or hybridity shape your response to an artist who works between two traditions?",
+      "critical": "How should we evaluate claims of influence when a work blends traditions, and what standards of evidence apply?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period, tag (Horses), dimensions and constituent artist in the Met record were checked; the subject is horses in a landscape with no people-focused or violent content known from the record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Giuseppe Castiglione (Lang Shining) was an Italian Jesuit painter at the Qing court. The Met record gives the date as datable to 1723 to 25 and the format as a handscroll about 7.9 meters long; its artist field is blank and the name comes from the record's constituent entry.",
+    "vocabulary": [
+      "handscroll",
+      "court painting",
+      "Jesuit",
+      "modeling",
+      "Qing dynasty",
+      "composition"
+    ],
+    "directions": [
+      "Have students measure out eight meters of floor to feel the scale of the scroll.",
+      "Ask students to draw one animal first by outline and then with shading, and compare.",
+      "Discuss how ideas and techniques travel between cultures."
+    ]
+  }
+}

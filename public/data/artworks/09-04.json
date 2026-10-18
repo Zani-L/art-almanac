@@ -1,0 +1,159 @@
+{
+  "id": "met-63345",
+  "day": "09-04",
+  "title": "Page from the Mustard Seed Garden Manual of Painting",
+  "artist": "Wang Gai",
+  "date": "first edition printed in 1679",
+  "medium": "Woodblock print; ink and color on paper",
+  "movement": "Qing dynasty printed painting manual",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/CP46.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/CP46.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1924",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A page from a printed painting manual showing a landscape with houses, printed from carved woodblocks in ink and color on paper. Fine lines outline the buildings and scenery.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/63345",
+    "objectId": "63345",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Qing dynasty), classification (Prints), tags (Houses, Landscapes), public-domain flag, credit line and image URLs read from the record. The record gives no further description of the page."
+  },
+  "context": "A page from the Mustard Seed Garden Manual of Painting, a printed guide for learning to paint that the Met records as first printed in 1679, in the Qing dynasty. This page is a woodblock print in ink and color. Printed manuals like this spread painting patterns and methods to many students.",
+  "descriptions": {
+    "k": "This picture was printed, not painted. It shows houses in a landscape. The lines are thin and neat. It comes from a book that taught people how to paint. What would you like to learn to draw?",
+    "g12": "This page comes from a book that taught people how to paint. It was printed from carved wooden blocks in China. It shows houses in a landscape, with thin, careful lines. Many students could look at the same page. What would you copy first from this page?",
+    "g35": "This page is from the Mustard Seed Garden Manual of Painting, a book that taught artists how to paint trees, rocks, houses, and more. It was printed from carved woodblocks in ink and color, so many copies could be made. Look at the houses and the landscape around them. How is a printed page different from a painting?",
+    "g68": "The Mustard Seed Garden Manual was a famous Chinese guide to painting, first printed in 1679, that used woodblock printing to spread models of landscapes, plants, and figures. This page, with houses in a landscape, would have helped students learn how to draw forms and compose a scene. Printing in color took skilled carvers and printers. How does a printed manual change who can learn to paint?",
+    "g910": "Printed manuals such as the Mustard Seed Garden Manual made the models of Chinese painting widely accessible. First issued in 1679 in the Qing dynasty, it taught through examples, here a landscape with houses, that students could copy. The woodblock technique required designers, carvers, and printers to translate brushwork into carved lines. Consider how print mediates between the painter's brush and the learner's hand.",
+    "g1112": "This page complicates the boundary between art and instruction: it is a woodblock-printed model for learning landscape painting, issued in 1679, that nonetheless has formal beauty of its own. Print culture in late imperial China broadened the audience for painting, while translating individual brushwork into carved line. Note the double process, from an artist's design to a carver's cut to a printer's impression, and consider what changes along the way."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the houses on this printed page. How many can you count?",
+      "emotion": "Does this scene feel cozy or lonely? What do you see that makes you say so?",
+      "observation": "Look for the houses and the land around them. What else can you find?",
+      "analysis": "This page teaches how to draw. What do you think the student should look at first?",
+      "line": "The lines are thin and neat. Trace a line that outlines a house or a hill.",
+      "shape": "Houses have special shapes. Can you find a roof shape and draw it in the air?",
+      "color": "The page has ink and color. Which colors can you find?",
+      "texture": "The print has fine lines that look like tiny scratches. Where do they make something look bumpy?",
+      "space": "What looks close to you on this page, and what looks farther away?",
+      "light": "Is the page bright or soft in color? What does that do to the scene?",
+      "meaning": "Who might live in a house like this one? Tell a little story.",
+      "culture": "This page comes from a book from long ago that taught people to paint. Why would someone want a book like that?",
+      "technique": "This picture was printed from a carved block of wood. How is a print different from a painting?",
+      "personal": "What would you like to learn how to draw? Who could teach you?",
+      "critical": "If many people have copies of the same page, is it still special? Why or why not?"
+    },
+    "g12": {
+      "daily": "Imagine you are a student learning from this page. What would you try to copy first, and why?",
+      "emotion": "What feeling does the quiet landscape with houses give you? Point to clues.",
+      "observation": "List five things you see on the page, from houses to the land around them.",
+      "analysis": "How does the page arrange houses and landscape to help a student learn about composition?",
+      "line": "The lines are clear and careful. Where do they look thicker and where do they look thinner?",
+      "shape": "Find the shapes of roofs, walls, and hills. How do they fit together?",
+      "color": "How does the color help show what is a house and what is part of the land?",
+      "texture": "How do the printed lines suggest different surfaces, such as roofs or ground?",
+      "space": "How does the printmaker show that some houses are in front of other things?",
+      "light": "How do the light and dark areas help you see the shapes more clearly?",
+      "meaning": "Why do you think the book includes a picture of houses in a landscape?",
+      "culture": "Printing allowed many people to have copies of the same page. How is that like books you read today?",
+      "technique": "Carvers cut lines into wood so the page could be inked and printed. What would be tricky about carving such thin lines?",
+      "personal": "Have you ever learned something by following a picture in a book? What was it?",
+      "critical": "Is a page that teaches people how to draw a work of art too? Explain your thinking."
+    },
+    "g35": {
+      "daily": "What details on this page would help a student learn to draw houses in a landscape?",
+      "emotion": "What mood does this printed landscape set? How do the lines and colors help?",
+      "observation": "Spend a minute studying the houses and landscape. What small details did you see only after a while?",
+      "analysis": "How does the page show where the houses sit in the landscape and what surrounds them?",
+      "line": "How do the printed lines outline buildings differently from natural shapes such as hills or trees?",
+      "shape": "Compare the straight shapes of the houses with the shapes of the landscape. What contrasts do you notice?",
+      "color": "How does color printing add information or interest to a page that would also work in black ink?",
+      "texture": "How do the fine printed marks suggest rough ground, roofs, or plants?",
+      "space": "How does the page create depth on a flat sheet?",
+      "light": "How might the choice of color and tone help show a time of day or a feeling?",
+      "meaning": "The page is a model for learners. What do you think the book was trying to teach about how to see the world?",
+      "culture": "Color woodblock printing took skill and teamwork. What does this suggest about how art and books were made in China at that time?",
+      "technique": "A printmaker carves a block for each color or line. Why would printing in color be harder than printing in black?",
+      "personal": "What do you think is the best way to learn art: copying or inventing? Why?",
+      "critical": "Does it matter that this is a print and not a painting made by hand? Explain."
+    },
+    "g68": {
+      "daily": "How does this single page balance being a lesson and being a good-looking picture?",
+      "emotion": "How does the arrangement of buildings and landscape create a sense of calm order?",
+      "observation": "Describe how the page is organized, from houses to surrounding scenery. What choices seem most careful?",
+      "analysis": "How might a student use this page to learn about composition, such as placing buildings in a landscape?",
+      "line": "How do printed outlines turn the painter's brush into carved lines? What is gained or lost in that translation?",
+      "shape": "How do repeated roof and wall shapes create rhythm, and how do natural shapes contrast with them?",
+      "color": "How does color in a woodblock print support the lesson, and why might the printers include it?",
+      "texture": "Which marks on the page stand for materials like tile, ground, or plant life? How do you know?",
+      "space": "How does the page suggest depth with overlap and placement rather than perspective?",
+      "light": "How does the use of tone and color suggest atmosphere in a printed scene?",
+      "meaning": "What does a manual's choice of a house in a landscape suggest about the kind of scenes painters were expected to master?",
+      "culture": "How did printed painting manuals spread knowledge in the Qing dynasty, and who might have used them?",
+      "technique": "Describe the steps from a painter's design to a printed page. Where might skill be hidden?",
+      "personal": "How is learning from a manual different from learning from a teacher in person?",
+      "critical": "Does copying from a manual help or limit an artist's creativity? Argue for one side."
+    },
+    "g910": {
+      "daily": "Which visible features of this page show its dual role as teaching tool and aesthetic object?",
+      "emotion": "How does the page's controlled, orderly design shape the emotional tone of the landscape?",
+      "observation": "Describe the page's visual hierarchy. What draws attention first among houses, landscape, and color?",
+      "analysis": "Analyze how the composition models relationships between architecture and landscape for a student.",
+      "line": "How does the transformation of brushwork into carved line affect clarity, rhythm, and expressiveness?",
+      "shape": "How do geometric architectural forms play against organic landscape forms in the design?",
+      "color": "How does the use of color printing affect the page's function and appeal?",
+      "texture": "How do the printed marks encode texture, and how conventionalized are they?",
+      "space": "How does the page build depth and structure through placement and overlap?",
+      "light": "How does tonal arrangement support legibility and mood in a printed model?",
+      "meaning": "How might a manual's model scenes reflect shared ideals about home, retreat, and nature?",
+      "culture": "How did print culture in late imperial China broaden access to painting, and what tensions did it create?",
+      "technique": "How do the distinct roles of designer, carver, and printer shape the final image?",
+      "personal": "How does using a model change the way you learn a skill? When has it helped or limited you?",
+      "critical": "What do we gain and lose by treating a manual page as fine art rather than as a teaching tool?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this page about the relation between instruction and artistic value, and what is uncertain?",
+      "emotion": "How does the page's didactic purpose complicate any reading of personal feeling in the image?",
+      "observation": "Describe the page precisely. At what point does careful description reveal choices about teaching and style?",
+      "analysis": "Analyze how the composition serves both as a model for emulation and as a self-contained image.",
+      "line": "How does the translation of brush line into carved line shift the relation between hand, tool, and image?",
+      "shape": "How do formalized shapes of buildings and landscape elements function as a visual vocabulary for learners?",
+      "color": "How does color printing alter the status of the page between diagram and picture?",
+      "texture": "How do printed texture marks standardize the painter's repertoire, and what does that imply about transmission of style?",
+      "space": "How does a manual's treatment of space reflect conventions that students would recognize and reproduce?",
+      "light": "How do tone and color suggest atmosphere within the limits of the print medium?",
+      "meaning": "How do manuals shape the meanings of the scenes they include, and who controls those meanings?",
+      "culture": "How does the manual's wide circulation affect narratives of Chinese painting as the domain of scholar-elites?",
+      "technique": "How does collaborative production complicate the idea of a single artist, and how does the record's credit to Wang Gai reflect this?",
+      "personal": "How do your own experiences of tutorials or templates shape your sense of creativity and authorship?",
+      "critical": "How should we assess a mass-produced image against a unique painting, and what standards of value apply?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Prints), period and tags (Houses, Landscapes) in the Met record were checked; the subject is a landscape with houses on a painting-manual page.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Mustard Seed Garden Manual was a widely used painting guide first printed in 1679. The record credits Wang Gai and gives no further description of this page, so let students describe what they see.",
+    "vocabulary": [
+      "woodblock print",
+      "manual",
+      "landscape",
+      "carver",
+      "Qing dynasty",
+      "reproduction"
+    ],
+    "directions": [
+      "Have students make a simple stamp or eraser print to see how a printed image differs from a drawing.",
+      "Ask students to write short drawing instructions for the page as if teaching a classmate.",
+      "Discuss the roles of designer, carver, and printer in producing one page."
+    ]
+  }
+}

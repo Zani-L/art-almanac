@@ -1,0 +1,158 @@
+{
+  "id": "met-244650",
+  "day": "11-23",
+  "title": "Glass pourer flask",
+  "artist": "Artist unknown",
+  "date": "2nd–early 3rd century CE",
+  "medium": "Glass",
+  "region": "Roman",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP204574.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP204574.jpg",
+    "credit": "The Metropolitan Museum of Art, The Cesnola Collection, Purchased by subscription, 1874–76",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Roman glass pourer flask, a small glass bottle made to pour liquid, with a narrow neck and a body made of blown glass.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/244650",
+    "objectId": "244650",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A Roman glass pourer flask of the 2nd to early 3rd century CE. The Met's object name, pourer flask, indicates a bottle shaped to pour liquid, made from blown glass.",
+  "descriptions": {
+    "k": "This is a glass bottle from ancient Rome. It was made to pour liquid. Glass is made from hot, melted sand. Can you find the narrow neck? What would you pour from a bottle like this?",
+    "g12": "Romans made this glass bottle about 1,800 years ago. It is called a pourer flask because it was made to pour liquid out. Glass can be clear or colored, and it shines when light goes through it. Look at the neck and the body. How would you hold it to pour?",
+    "g35": "This pourer flask was blown from glass by a Roman glassmaker in the 2nd or early 3rd century CE. To blow glass, a maker heats it until it is soft and shapes it by blowing through a long pipe. Look at the neck, the body, and the opening. Which parts help the flask pour liquid? How does the shape show its job?",
+    "g68": "Glassblowing, invented around the 1st century BCE in the eastern Mediterranean, made glass containers cheap and common in the Roman Empire. This pourer flask, from the 2nd to early 3rd century CE, shows how a maker shaped a vessel for a particular job. Compare the neck, body, and opening and think about how each part helps pouring and holding. How does design for use also create beauty?",
+    "g910": "A pourer flask shows how function shapes form: the narrow opening, neck, and body are arranged to control the flow of liquid. Blown glass made such vessels light, practical, and widely available across the Roman Empire. Glass also behaves in a unique way with light, which gives even a plain bottle a quiet visual presence. Consider how a modest object demonstrates technology, trade, and taste. What can everyday containers tell us that grand monuments cannot?",
+    "g1112": "This Roman pourer flask is typical of the blown-glass revolution that put glassware into everyday life across the Empire. The record identifies its form but not its contents, origin, or workshop, so ideas about its use, whether for oils, perfume, or other liquids, should be treated cautiously. The transparency of glass complicates how we see form, since inner and outer surfaces register together. Consider how museum display, which isolates and lights an object, differs from the household or burial settings where such flasks were used."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think someone poured from this bottle?",
+      "emotion": "Does this pouring bottle look gentle or fancy? What tells you?",
+      "observation": "Can you find the neck, the body, and the opening? Point to each.",
+      "analysis": "Where do your eyes look first? Where do they look next?",
+      "line": "Follow the line from the opening down the neck. Trace it in the air.",
+      "shape": "What shapes make up the bottle?",
+      "color": "Is the glass clear, or does it have a tint? What do you see?",
+      "texture": "How do you think the glass would feel? Smooth, cool, or bumpy?",
+      "space": "Look at the neck and the body. Which part is narrow, and which is wide?",
+      "light": "Where do you think light shines through this glass?",
+      "meaning": "Imagine a Roman kitchen. What might happen when someone picks up this bottle?",
+      "culture": "Romans made this pourer long ago. What do you pour from at home?",
+      "technique": "The maker shaped hot glass. How do you think the neck was made?",
+      "personal": "What liquid would you like to pour from a bottle like this?",
+      "critical": "Why is the neck narrow? What does that help with?"
+    },
+    "g12": {
+      "daily": "How do you think this bottle was used? What clues help you decide?",
+      "emotion": "Does the narrow neck make the bottle feel careful or fancy? Which parts help you decide?",
+      "observation": "Describe the bottle from the top to the bottom. What do you notice?",
+      "analysis": "How does the shape lead your eyes from the opening down to the base?",
+      "line": "Find a curved line on the bottle. Where does it go?",
+      "shape": "What shapes make up the bottle? Look at the neck and the body.",
+      "color": "What color does the glass seem to be? How is it like glass you see today?",
+      "texture": "How can you tell glass is hard and smooth?",
+      "space": "Where is the empty space inside this bottle? How does the glass wrap around it?",
+      "light": "How do you think light looks passing through this glass?",
+      "meaning": "Why might Romans have liked glass bottles?",
+      "culture": "People today also use glass bottles. How is this bottle like or unlike one you know?",
+      "technique": "Glass is shaped while hot. Why might that be tricky?",
+      "personal": "Design your own pouring bottle. Where would you put the opening?",
+      "critical": "Would you rather have a plain pourer or a decorated one? Explain."
+    },
+    "g35": {
+      "daily": "What features of this flask show it was made for pouring?",
+      "emotion": "Does this flask feel careful or casual? Which details make you think so?",
+      "observation": "Look closely for one minute. What small details of the neck, rim, and body do you notice?",
+      "analysis": "How does the maker arrange the neck, shoulders, and body so the flask is balanced?",
+      "line": "How do the vertical lines of the neck compare with the curve of the body?",
+      "shape": "How does the narrow neck change the way you see the body of the flask?",
+      "color": "Glass can be clear or tinted. How might the color of this glass change the mood?",
+      "texture": "Glass looks hard and smooth. What might it feel like to hold this flask?",
+      "space": "A flask has an inside space and an outside shape. How do they relate here?",
+      "light": "Light passes through glass. How might that make a plain bottle beautiful?",
+      "meaning": "Why might Romans have chosen glass for storing and pouring liquids?",
+      "culture": "What might a pourer like this tell us about how people stored and used liquids in Roman homes?",
+      "technique": "Why must a glassmaker work quickly before the glass cools and hardens?",
+      "personal": "What simple objects in your home are well designed for their job? How are they like this flask?",
+      "critical": "Why might a flask for pouring have been kept, buried, or saved? Give more than one possibility."
+    },
+    "g68": {
+      "daily": "How does the maker design a simple glass flask for pouring and for looking at?",
+      "emotion": "What feeling does the flask's shape give, and how do neck and body proportions create it?",
+      "observation": "List what you observe, from the opening to the base. Which details seem most purposeful?",
+      "analysis": "How do neck, shoulder, and body proportions affect how the flask looks and works?",
+      "line": "How do the vertical and curved lines in the flask create balance?",
+      "shape": "How do the narrow neck and wide body balance each other as shapes?",
+      "color": "What can you say about this glass color or clarity, and how might aging have changed it?",
+      "texture": "How would handling this flask feel different from handling a clay jug? Use what you know about glass.",
+      "space": "How does the flask divide space into inside and outside, and how does glass blur that boundary?",
+      "light": "How does light passing through the glass create a changing appearance as the flask is turned?",
+      "meaning": "How does the shape suggest what the flask was meant to do? Offer more than one idea about its contents.",
+      "culture": "How might cheap, light glass bottles have changed how Romans stored and shared liquids?",
+      "technique": "What does a pourer's spout or opening demand from a glassmaker, compared with shaping a plain jar?",
+      "personal": "Which everyday objects around you are skillfully designed but rarely noticed? Compare them with this flask.",
+      "critical": "What can the object itself tell us, and which questions about contents need other evidence?"
+    },
+    "g910": {
+      "daily": "How does the maker's design for pouring shape the aesthetic of this flask?",
+      "emotion": "What emotional effect does the vessel's restraint have, and how do its proportions contribute?",
+      "observation": "Describe the visual hierarchy of the flask: how do neck, shoulder, and body structure your attention?",
+      "analysis": "Analyze how proportion organizes the flask into an efficient and elegant whole.",
+      "line": "How do contour lines define the vessel's profile, and where do they change direction?",
+      "shape": "How does the contrast between a narrow neck and a fuller body shape the flask's character?",
+      "color": "How does the clarity or tint of this glass change what the viewer notices about the pourer's shape?",
+      "texture": "How does the smooth, glassy surface convey control and craft in a utilitarian object?",
+      "space": "How do the pourer's narrow opening and fuller body create tension between inside and outside?",
+      "light": "How might daylight passing through the flask reveal its form, and how might lamplight change it?",
+      "meaning": "How might a pourer's design reflect Roman habits of serving and sharing liquids?",
+      "culture": "How does a blown glass pourer show the reach of technology in the Roman Empire?",
+      "technique": "What technical skills are needed to blow and shape a vessel while it is hot, and how might they have been passed on?",
+      "personal": "How do the bottles you use every day balance function and appearance? Compare with this pourer.",
+      "critical": "What evidence, such as residues or find context, would help scholars decide what this flask held?"
+    },
+    "g1112": {
+      "daily": "What can be inferred about Roman daily life and design from a simple pourer flask, and what exceeds the evidence?",
+      "emotion": "How does a pourer's restrained design shape our emotional response to an everyday object?",
+      "observation": "Describe the pourer's proportions and edges precisely. How does lighting in a photograph affect what you can describe?",
+      "analysis": "Analyze how function, such as pouring, structures form in a blown glass vessel.",
+      "line": "Where does the pourer's outline seem to disappear into light, and what does this say about drawing with glass?",
+      "shape": "How does the relation of neck to body establish the vessel's identity and its sense of balance?",
+      "color": "How much of the glass color we see today is original, and how might burial or weathering have changed it?",
+      "texture": "What might the surface of this flask reveal about its making and its long history?",
+      "space": "How does the opposition of inner void and outer shape define vessel forms in glass?",
+      "light": "How would a pourer have interacted with lamplight on a table, and what does museum lighting change?",
+      "meaning": "How can a pourer, with no image or inscription, support arguments about Roman life, and where do those arguments become speculative?",
+      "culture": "How does the wide use of blown glass vessels inform debates about trade and daily life in the Empire?",
+      "technique": "What does the flask's form suggest about quick, repeated production, and what do we not know about its workshop?",
+      "personal": "How do the origins of the Cesnola Collection shape how we should read the flask's provenance?",
+      "critical": "How should scholars write about a pourer's use when the museum record gives no contents?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a glass container with no figures indicated in the record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Roman blown-glass pourer flask of the 2nd to early 3rd century CE. By this time glassblowing was widespread across the Roman Empire.",
+    "vocabulary": [
+      "flask",
+      "glassblowing",
+      "pourer",
+      "transparent",
+      "Roman Empire",
+      "function"
+    ],
+    "directions": [
+      "Have students sketch a pouring bottle and label the neck, shoulder, body, and opening, explaining how each helps.",
+      "Pour water from different containers and compare which pours best, linking shape to function.",
+      "Discuss how a plain bottle can still be beautiful, using light as evidence."
+    ]
+  }
+}

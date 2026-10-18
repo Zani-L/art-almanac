@@ -1,0 +1,158 @@
+{
+  "id": "met-192861",
+  "day": "03-06",
+  "title": "Cup and saucer (gobelet litron et soucoupe)",
+  "artist": "Sèvres Manufactory",
+  "date": "1776",
+  "medium": "Soft-paste porcelain",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/22055.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/22055.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of John L. Cadwalader, 1914",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small porcelain cup with a handle, resting on a matching round saucer. Both pieces are decorated with flowers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/192861",
+    "objectId": "192861",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, tags (Flowers), dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A cup and saucer made in 1776 at the Sèvres porcelain manufactory, the French royal factory near Paris. The Met lists soft-paste porcelain as its material. The cup is about 7 cm tall and the saucer about 13.7 cm across.",
+  "descriptions": {
+    "k": "This is a tiny cup with a saucer under it. They are made of shiny porcelain and decorated with flowers. The cup has a handle. Can you find the flowers? What would you drink from a cup this small?",
+    "g12": "This cup and saucer were made in France in 1776. They are made of soft, creamy porcelain. Flowers decorate them. The cup is only about seven centimeters tall, so it fits in your hand. Look for the handle and the round saucer. Why might someone keep something this small and pretty?",
+    "g35": "This cup and saucer come from Sèvres, a porcelain factory near Paris that made fine tableware for the French king and wealthy buyers. It was made in 1776 from soft-paste porcelain, and flowers are part of its decoration. The cup is only about seven centimeters tall. Compare the cup and saucer. How are their shapes alike, and how do they work together?",
+    "g68": "Sèvres was the French royal porcelain factory, and in 1776 its tableware was a symbol of wealth and fashion. This set is soft-paste porcelain, a glassy material made differently from the hard-paste porcelain of Meissen. The cup, called a gobelet litron, and its saucer carry floral decoration. How do the small size, the handle, and the matching saucer show that this was designed for use as well as show? What might its owner have wanted others to notice?",
+    "g910": "This 1776 cup and saucer from Sèvres shows how a royal factory turned everyday drinking vessels into luxury goods. The restrained cylindrical form of the cup and the matching round saucer provide a stable frame for floral decoration, which was a favorite subject in the period. Soft-paste porcelain, a glassy body distinct from hard-paste, gave Sèvres its recognizable soft look. Consider how scale, matched parts, and surface decoration signal status as well as function.",
+    "g1112": "Sèvres cups and saucers such as this one of 1776 sit at the intersection of technology, patronage, and fashion. Soft-paste porcelain, favored in France before hard-paste became dominant there, allowed distinctive surfaces; the flowers named in the Met record connect it to a widespread taste for floral ornament. The piece is small and domestic, yet its manufacture depended on royal support and specialized labor. Ask how such objects construct ideas of refinement, and what the museum setting hides about everyday use."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the flowers on this tiny cup and saucer? Where are they?",
+      "emotion": "Does this little cup make you feel gentle or noisy? Why?",
+      "observation": "How many parts can you see: cup, saucer, and handle? Point to each one.",
+      "analysis": "Why do you think the cup sits on a saucer? What could the saucer catch?",
+      "line": "Trace the curve of the cup's handle with your finger. Does it make a loop?",
+      "shape": "The saucer is a circle. What other circles do you see in the picture?",
+      "color": "Which colors are in the flowers? Which one would you pick for your own cup?",
+      "texture": "How do you think the shiny cup would feel if you touched it gently?",
+      "space": "Where does the cup sit on the saucer? Is it in the middle or off to one side?",
+      "light": "Which parts of the cup look shiny where the light touches them?",
+      "meaning": "Why do you think someone painted flowers on a cup instead of animals or houses?",
+      "culture": "This cup was made in France more than two hundred years ago. How is it like a cup you use today?",
+      "technique": "A painter made these flowers by hand. What would you need to paint a flower on a cup?",
+      "personal": "If you had a tiny cup, what would you put in it? Tell us about it.",
+      "critical": "Would you use this cup every day or keep it safe on a shelf? Why?"
+    },
+    "g12": {
+      "daily": "What do you see first on this cup and saucer, and what makes it stand out?",
+      "emotion": "What mood do the flowers and the tiny size give you? Show where you see it.",
+      "observation": "Describe the flowers, the handle, and the saucer. What else can you find?",
+      "analysis": "How do the cup and the saucer match? Look for shapes and decorations that go together.",
+      "line": "Find a curved line on the handle and another on the saucer's edge. How are they alike?",
+      "shape": "The cup is a tall round shape, and the saucer is a flat circle. How do the two shapes fit together?",
+      "color": "How do the colors of the flowers stand out against the shiny porcelain?",
+      "texture": "Porcelain is hard and smooth. Which parts of this set look the smoothest and shiniest?",
+      "space": "The cup sits in the center of the saucer. How does that make the set feel balanced?",
+      "light": "Where do you think the light shines on the glossy porcelain?",
+      "meaning": "Flowers can make people think of spring and gardens. What do they make you think of on a cup?",
+      "culture": "A king's factory in France made this cup. Why might fancy cups have been important to rich families?",
+      "technique": "Soft-paste porcelain is made from a mix that looks glassy when fired. How might that change how the cup looks?",
+      "personal": "What is your favorite cup or bowl at home? How is it like this one?",
+      "critical": "Is a cup this small and pretty meant to be used, looked at, or both? Give a reason from the picture."
+    },
+    "g35": {
+      "daily": "What details of this small cup and saucer deserve a second look, and why?",
+      "emotion": "What feeling do the flowers and delicate size give this set? Which details create it?",
+      "observation": "Look carefully at the cup and the saucer for one minute. Which flower details can you find on each?",
+      "analysis": "How do the cup, handle, and saucer work as a team, and how do the decorations tie them together?",
+      "line": "How do the curves of the handle and the circle of the saucer contrast with the cup's straighter sides?",
+      "shape": "How do the circle of the saucer and the cylinder of the cup repeat or contrast with each other?",
+      "color": "How do the colors of the flowers stand out against the pale porcelain, and why might the artist choose that contrast?",
+      "texture": "How would the glossy porcelain and the painted decoration feel different to the touch?",
+      "space": "How is the cup placed in relation to the saucer, and how does this arrangement help the design feel balanced?",
+      "light": "How does the shiny surface of soft-paste porcelain react to light compared with a plain clay cup?",
+      "meaning": "Flowers were popular decorations in the 1700s. What might they have meant to the people who owned this set?",
+      "culture": "Sèvres made porcelain for the French king and wealthy customers. What does that tell you about who might drink from a cup like this?",
+      "technique": "Soft-paste porcelain was fired and then decorated with painted flowers. Why might a decorator need steady hands?",
+      "personal": "What small, beautiful object do you take special care of? How is that like caring for this cup?",
+      "critical": "Does the fact that this cup was made for rich buyers change how you see it? Explain."
+    },
+    "g68": {
+      "daily": "How does this tiny cup and saucer show that an everyday object can also be a statement of status?",
+      "emotion": "How do scale, symmetry, and floral decoration shape the feeling of this set?",
+      "observation": "Examine the cup and saucer. Which details seem to be there for use, and which for beauty?",
+      "analysis": "How do the matching shapes and shared flowers help the cup and saucer look like one design?",
+      "line": "How do the handle's curve and the saucer's rim create rhythm across the set?",
+      "shape": "How does the cylindrical form of the cup compare with the wide, shallow saucer, and what does each shape do?",
+      "color": "How do the colors of the flowers interact with the porcelain's pale ground to focus attention?",
+      "texture": "How might the glassy softness of soft-paste porcelain affect how the decoration looks and feels?",
+      "space": "How does the saucer extend the cup's presence on a table, and what role does empty space play in the design?",
+      "light": "How might candlelight or daylight in a 1700s room have changed how this glossy surface looked?",
+      "meaning": "What might flowers on tableware communicate about nature, leisure, and refinement?",
+      "culture": "What does it suggest that a royal factory made objects as small as a cup and saucer?",
+      "technique": "Soft-paste porcelain is a glassy mix distinct from hard-paste. How might a different material change a maker's choices?",
+      "personal": "What would a cup that expresses you look like? What would you decorate it with?",
+      "critical": "How would your view of the set change if you learned it was used daily versus kept only for display?"
+    },
+    "g910": {
+      "daily": "How does this 1776 cup and saucer turn a functional pair into a statement of taste?",
+      "emotion": "How do delicacy, scale, and floral ornament create the set's emotional tone?",
+      "observation": "Describe the visual hierarchy of cup, handle, saucer, and flowers. What leads the eye?",
+      "analysis": "Analyze how the cup's cylindrical profile and the saucer's wide disc form a stable, balanced unit.",
+      "line": "How does the contrast between the handle's curve and the straight sides of the cup create visual interest?",
+      "shape": "How do the geometries of the cup and saucer provide a framework for floral decoration?",
+      "color": "How does color in the flowers work against the quiet, light ground of the porcelain?",
+      "texture": "How does the glassy character of soft-paste porcelain shape the look of the glaze and the paint?",
+      "space": "How does the pairing of cup and saucer define a small, self-contained composition on the table?",
+      "light": "How might the reflective glaze make the decoration seem to shift with the viewer's position?",
+      "meaning": "How might a motif such as flowers connect to eighteenth-century ideas about nature, elegance, and the garden?",
+      "culture": "How does the royal setting of Sèvres shape the status of ordinary-seeming objects such as a drinking cup?",
+      "technique": "How does soft-paste porcelain differ in feel and behavior from hard-paste, and how might that affect the work of decorators?",
+      "personal": "How do you decide when an everyday object is worth treating as precious?",
+      "critical": "To what extent does the object's function limit or enable its status as art?"
+    },
+    "g1112": {
+      "daily": "What does a cup and saucer from the royal factory suggest about how luxury was staged in late eighteenth-century France?",
+      "emotion": "How does the contrast between a modest function and a refined surface affect the way the viewer responds to this set?",
+      "observation": "Describe the set as precisely as you can. Which observations already depend on assumptions about eighteenth-century taste?",
+      "analysis": "Analyze how structure, matched parts, and surface ornament combine into a coherent design.",
+      "line": "How do the contour of the cup, the loop of the handle, and the rim of the saucer form a system of related curves?",
+      "shape": "How does the pairing of vertical cup and horizontal saucer create a stable but varied composition?",
+      "color": "How might the choice of floral color have signaled sophistication, and how might aging change what we see?",
+      "texture": "How does the material character of soft-paste porcelain, a glassy body, distinguish this set from hard-paste wares?",
+      "space": "How does the matched pairing of cup and saucer define a small zone of display and use on a table?",
+      "light": "How might the object's gloss have worked with candlelight in its original setting, and how does museum lighting alter that?",
+      "meaning": "How do floral motifs on tableware negotiate between decoration, nature, and the display of wealth?",
+      "culture": "How do state-supported factories complicate the relationship between artists, craftspeople, and patrons in the period?",
+      "technique": "What does the choice of soft-paste over hard-paste reveal about technical priorities and the aesthetics of the Sèvres factory?",
+      "personal": "How do your own habits of using or saving special objects influence how you read this piece?",
+      "critical": "What do museums gain and lose when displaying tableware as sculpture rather than as items for use?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, maker, medium, department and tags (Flowers) read from the Met record. A porcelain cup and saucer with floral decoration, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Sèvres was the French royal porcelain manufactory and a leader in European luxury tableware. The Met dates this cup and saucer to 1776 and describes the material as soft-paste porcelain.",
+    "vocabulary": [
+      "porcelain",
+      "soft-paste",
+      "manufactory",
+      "saucer",
+      "decoration",
+      "luxury"
+    ],
+    "directions": [
+      "Have students design a cup and saucer with a matching flower motif and explain how the two pieces connect.",
+      "Ask students to compare this set with a cup in their home and discuss which features show status and which show function.",
+      "Discuss why a royal factory would make such small, delicate objects."
+    ]
+  }
+}

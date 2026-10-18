@@ -1,0 +1,158 @@
+{
+  "id": "met-200654",
+  "day": "02-11",
+  "title": "Teapot",
+  "artist": "Meissen Manufactory",
+  "date": "ca. 1725, decorated ca. 1735",
+  "medium": "Hard-paste porcelain",
+  "region": "Germany",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/147863.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/147863.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of James A. Lewis and Son, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small porcelain teapot with a rounded body, a curved spout and a handle. Its glossy white surface is painted with small landscape scenes that include trees.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/200654",
+    "objectId": "200654",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, tags (Landscapes, Trees), height, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small teapot made at the Meissen porcelain factory near Dresden, Germany. The Met dates the porcelain to about 1725 and its decoration to about 1735. Meissen was the first European factory to make hard-paste porcelain, which Europeans had long imported from China.",
+  "descriptions": {
+    "k": "This little teapot is made of shiny porcelain. It has a spout, a handle, and tiny painted pictures of trees and land. It is only about as tall as a hand. What would you pour from it?",
+    "g12": "This teapot is only about twelve centimeters tall. It was made of porcelain in Germany long ago. Painters added tiny scenes with trees and land. Porcelain is thin, hard, and shiny. Look at the spout, the handle, and the little pictures. What would it be like to hold?",
+    "g35": "This teapot was made at Meissen, a factory in Germany that learned to make hard, white porcelain in the early 1700s. Before that, Europeans had to buy porcelain from China. The teapot is small, and its painted decoration shows landscapes with trees. The Met says it was made around 1725 and painted around 1735. Why might someone have wanted such a fancy teapot for tea?",
+    "g68": "Meissen was the first European factory to make true hard-paste porcelain, copying a material that had long been imported from China and prized by wealthy buyers. This small teapot, about 12 centimeters high, was made around 1725 and decorated around 1735, so its shape and its painted landscapes were created in separate steps. How do the curved handle, spout, and tiny scenes work together? What does a tea set tell us about status and trade in the 1700s?",
+    "g910": "This Meissen teapot represents a moment when European workshops competed to match imported Asian porcelain. Its compact, rounded form is balanced by a curved spout and handle, while small painted landscapes with trees turn a useful object into a miniature picture surface. The record gives separate dates for the porcelain (about 1725) and the decoration (about 1735), which hints at a multi-stage process. Consider how scale, glaze, and painted detail encourage close, intimate looking.",
+    "g1112": "Meissen's teapots belong to the early history of European porcelain, when a closely guarded technical secret became a source of prestige for rulers and a challenge to Chinese and Japanese imports. This example, with landscapes and trees painted around 1735 on a body made about 1725, raises questions about workshops, collaboration, and taste. It was designed for the ritual of tea yet invites viewing as a miniature painting. Ask how its size, gloss, and decoration balance usefulness, luxury, and display."
+  },
+  "questions": {
+    "k": {
+      "daily": "This teapot is tiny and shiny. What would you want to pour out of it?",
+      "emotion": "Does this little teapot make you feel fancy, silly, or calm? Why?",
+      "observation": "Find the spout, the handle, and the painted trees on this teapot. Point to each.",
+      "analysis": "Which part of the teapot would you hold, and which part would the tea come out of?",
+      "line": "Trace the curve of the handle in the air. Does it bend a little or a lot?",
+      "shape": "The teapot body is round. What other round things do you know?",
+      "color": "What colors do you see on the little painted pictures? Which one do you like best?",
+      "texture": "Porcelain is hard and smooth, like a shiny plate. How would this teapot feel on your fingers?",
+      "space": "This teapot is very small. What could you put next to it to show how small it is?",
+      "light": "Where does the teapot look shiniest? What do you think makes it sparkle?",
+      "meaning": "Why would a person paint tiny trees on a teapot instead of leaving it plain?",
+      "culture": "People in Germany made this teapot long ago for drinking tea. What do you drink at home?",
+      "technique": "A painter used a tiny brush to add the pictures. What would be hard about painting on a curved teapot?",
+      "personal": "If you had a tiny teapot, what scene would you paint on it?",
+      "critical": "Is this teapot made to be used, looked at, or both? What clues tell you?"
+    },
+    "g12": {
+      "daily": "What do you notice first on this tiny teapot, and why does it catch your eye?",
+      "emotion": "What feeling do you get from something so small and delicate? Point to the parts that cause it.",
+      "observation": "Name four parts of this teapot, from the spout to the painted scenes.",
+      "analysis": "How do the round body, the curved spout, and the handle fit together to make one teapot?",
+      "line": "Find a curved line on the spout and another on the handle. How are they alike or different?",
+      "shape": "What big shape is the body of the teapot? How do the small shapes of the painted scenes fit on it?",
+      "color": "The porcelain is pale and the painting adds color. How do the painted scenes stand out against the white?",
+      "texture": "Porcelain is hard and glossy. What parts of the teapot look smoothest?",
+      "space": "The painted scenes show land and trees on a curved surface. How does the painter make a small picture feel like a place?",
+      "light": "Shiny glaze reflects light. Where on the teapot do you think the light would bounce the most?",
+      "meaning": "Landscapes on a teapot might bring nature to the table. Why might people want that?",
+      "culture": "Germans learned to make porcelain like the kind from China. Why might people have wanted to make it themselves?",
+      "technique": "A teapot like this was shaped first and painted later. Why might painters add pictures after the shape is made?",
+      "personal": "What small object do you treasure? What makes it special to you?",
+      "critical": "Would you use a teapot like this every day, or save it for special times? Give a reason."
+    },
+    "g35": {
+      "daily": "What details on this small teapot make you want to lean in and look closer?",
+      "emotion": "What mood does this delicate teapot create, and which details help create it?",
+      "observation": "Look at the painted scenes for one minute. What landscape details can you find that you missed at first?",
+      "analysis": "How are the shape of the teapot and the painted scenes arranged so that the teapot looks balanced?",
+      "line": "How do the curves of the spout and handle compare with the shape of the body?",
+      "shape": "How does the rounded body make room for painted scenes, and how do the spout and handle add different shapes?",
+      "color": "How do the colors of the painted landscapes stand out against the pale porcelain?",
+      "texture": "How do the glossy glaze and the painted decoration give the teapot different surfaces to notice?",
+      "space": "How does the painter show trees and land on a small curved surface? Does it look flat or deep?",
+      "light": "How does the shiny glaze change the way the painted scenes look when light hits them?",
+      "meaning": "Why might a maker decorate a teapot with landscapes and trees? What might people feel when they see them at the tea table?",
+      "culture": "Meissen learned to make porcelain in the early 1700s, when it was a prized import from China. Why might a European ruler want a factory like this?",
+      "technique": "The Met says the teapot was made around 1725 and decorated around 1735. What might that tell you about how it was made?",
+      "personal": "Think of a small thing you use that is also beautiful. How is it like this teapot?",
+      "critical": "Is a teapot like this mostly useful or mostly for show? Use details from the teapot to explain."
+    },
+    "g68": {
+      "daily": "How does a small teapot become a showpiece of skill and wealth?",
+      "emotion": "How do scale and delicacy shape the feeling this teapot gives off? Which details matter most?",
+      "observation": "List the parts of this teapot from top to bottom. Which are for use and which are for decoration?",
+      "analysis": "How do the body, spout, and handle balance one another, and where do the painted scenes draw attention?",
+      "line": "How do the curves of the spout and handle echo or contrast with the contour of the body?",
+      "shape": "How does the rounded form give the painter a surface for landscape scenes, and how does the curve affect what can be shown?",
+      "color": "Why might the decorators have used painted color on a pale ground? How does that affect where you look?",
+      "texture": "How does porcelain's glassy surface differ from painted passages on it? What do they suggest about luxury?",
+      "space": "How do trees and landscape suggest depth on a small, curved surface, and what limits does the object impose?",
+      "light": "How do glaze and glossy white porcelain react to light compared with a matte clay pot?",
+      "meaning": "Landscapes on a tea service may bring ideas of leisure and nature into the home. What other meanings can you imagine?",
+      "culture": "Why was it a big deal for a European factory to succeed in making hard-paste porcelain, and how might that change who could own such objects?",
+      "technique": "The record gives different dates for making the teapot and decorating it. How might a multi-step process affect the final look?",
+      "personal": "What everyday object do you think should be made beautiful? Why?",
+      "critical": "Should an object like this be seen as art, craft, or a status symbol? What evidence supports each view?"
+    },
+    "g910": {
+      "daily": "How do scale, glaze, and painted detail combine to make this teapot a miniature work of art?",
+      "emotion": "How does the teapot's compact size invite an intimate, almost private kind of looking?",
+      "observation": "Describe the visual hierarchy: what draws the eye first among form, glaze, and painted scenes?",
+      "analysis": "Analyze how the rounded body, spout, and handle form a balanced design that also supports the decoration.",
+      "line": "How do the sweeping curves of the spout and handle give the teapot rhythm, and how do painted details contrast with them?",
+      "shape": "How does the curved surface constrain and shape the painted landscape scenes?",
+      "color": "How does the interplay of painted color and pale porcelain organize attention across the surface?",
+      "texture": "How do the sheen of porcelain and the thin line of paint produce different qualities of surface?",
+      "space": "How can a landscape composition be adapted to a curved, three-dimensional object, and what compromises result?",
+      "light": "How might the gloss of the glaze make the painted scenes shift in appearance as the viewer moves?",
+      "meaning": "How might landscapes and trees on a tea object connect to ideas of leisure, nature, and refinement in the early 1700s?",
+      "culture": "How did Europeans' admiration for imported Asian porcelain shape Meissen's early products?",
+      "technique": "What does the gap between the dates of manufacture and decoration suggest about the division of labor in a porcelain workshop?",
+      "personal": "How does your own idea of luxury compare with a small, hand-painted teapot?",
+      "critical": "How should we weigh the object's practical function against its role as a display of wealth and technical achievement?"
+    },
+    "g1112": {
+      "daily": "What does this teapot suggest about the relationship between technology, luxury, and taste in early eighteenth-century Europe?",
+      "emotion": "How might the contrast between a humble function, pouring tea, and a refined surface create a particular emotional register?",
+      "observation": "Describe the teapot's form and surface with precision. Where does description already imply a judgment about quality?",
+      "analysis": "Analyze how structural form and applied decoration interact, and whether one dominates the other.",
+      "line": "How does the teapot's contour balance function and elegance, and how do painted lines add a second system of drawing?",
+      "shape": "How does the interplay of rounded volume and extended spout and handle produce a recognizable but individual silhouette?",
+      "color": "How might the palette of the painted scenes have been intended to signal refinement against the white ground?",
+      "texture": "How does the object foreground the materiality of porcelain, and why was that material so desirable?",
+      "space": "How does a painted landscape on a three-dimensional vessel complicate the idea of pictorial space?",
+      "light": "In what ways does glaze make the object responsive to its setting, and how might museum lighting change its effect?",
+      "meaning": "What competing interpretations might explain the choice of landscape imagery on tea ware: nostalgia for nature, display of taste, or something else?",
+      "culture": "How does a German court-supported factory's imitation of Asian porcelain complicate ideas of originality, borrowing, and prestige?",
+      "technique": "How might separate stages of manufacture and decoration have affected authorship, and how do museums attribute such objects?",
+      "personal": "How do your own habits around tea, coffee, or shared meals influence how you imagine this teapot being used?",
+      "critical": "Is it useful to call a teapot like this a work of art? What assumptions about art and craft does that question reveal?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, maker, medium, department and tags (Landscapes, Trees) read from the Met record. A porcelain teapot with landscape decoration, so no sensitive content is expected.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Meissen, near Dresden, was the first European factory to produce hard-paste porcelain in the early 1700s. The Met dates this teapot to about 1725 and its painted decoration to about 1735.",
+    "vocabulary": [
+      "porcelain",
+      "hard-paste",
+      "glaze",
+      "manufactory",
+      "landscape",
+      "spout"
+    ],
+    "directions": [
+      "Have students design a painted landscape for a curved teapot and explain how the curve changes their composition.",
+      "Ask students to discuss why a material that came from far away might be valued so highly.",
+      "Compare this teapot with a modern mug and list which features signal use and which signal display."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "cma-1922.1132",
+  "day": "07-20",
+  "title": "Maine Coast",
+  "artist": "Rockwell Kent",
+  "date": "1907",
+  "medium": "Oil on canvas",
+  "movement": "American landscape painting (early 20th century)",
+  "region": "United States (Monhegan Island, Maine)",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1922.1132/1922.1132_web.jpg",
+    "credit": "Cleveland Museum of Art, Hinman B. Hurlbut Collection (1922.1132)",
+    "license": "Public domain. Released under the Cleveland Museum of Art Open Access program",
+    "licenseUrl": "https://clevelandart.org/open-access"
+  },
+  "altText": "A coastal landscape painted in oil on canvas, showing the Maine coast in winter as seen from the artist's studio window.",
+  "source": {
+    "museum": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1922.1132",
+    "objectId": "1922.1132",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "Cleveland Museum of Art open-access API record (title, creator, date, medium, culture, credit line, description, did_you_know, CC0 status, image URL)"
+  },
+  "context": "An oil painting on canvas by Rockwell Kent, made in 1907 and now in the Cleveland Museum of Art. The museum says it shows a winter scene from Kent's studio window on Monhegan Island, off the coast of Maine, where he lived year-round from 1906 to 1908.",
+  "descriptions": {
+    "k": "This painting shows a place by the sea in Maine. The painter looked out of his window to paint it. Look at the land and the sky. What do you see outside the window? Is it cold or warm?",
+    "g12": "Rockwell Kent painted the Maine coast as he saw it from his studio window. He painted it in winter, on an island called Monhegan. Look at the land, the water and the sky. What would you hear and feel if you stood there?",
+    "g35": "In 1907, Rockwell Kent painted this winter view of the Maine coast from his studio window on Monhegan Island. Most artists visited in summer, but Kent lived there all year. Look at the land, the sea and the sky. What can you tell about the place and the season?",
+    "g68": "Kent painted Maine Coast in 1907, when he lived year-round on Monhegan Island and worked jobs such as well digger and carpenter. The museum says he painted this winter scene from his studio window. How does the view of a rugged island coast in winter differ from the way summer visitors might have painted it?",
+    "g910": "Rockwell Kent painted Maine Coast in 1907 on Monhegan Island, where he lived year-round from 1906 to 1908. Unlike most artists who came in summer, he painted the island in winter, from his studio window. How might living in a place through all seasons shape how an artist paints its landscape?",
+    "g1112": "Maine Coast (1907) comes from Kent's year-round residence on Monhegan Island, a place that drew artists for its rugged landscape but mostly in summer. The museum notes this winter scene was painted from his studio window, and Kent later sought cold, remote places like Alaska and Greenland. How does the view from a window frame the relationship between artist and landscape?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the land by the sea. Which part do you see first?",
+      "emotion": "How does this place feel to you, cold or cozy? What do you see that makes you say so?",
+      "observation": "Find the sky. What do you notice in it?",
+      "analysis": "Which part of the painting is nearest to you, and which part is far away?",
+      "line": "Find a long line where two parts of the picture meet. Where does it go?",
+      "shape": "Find the big shapes in the painting. What does each one look like?",
+      "color": "Which color do you see the most? Point to where it is.",
+      "texture": "Imagine touching the land in this picture. Would it feel soft, rough or bumpy?",
+      "space": "The painter looked out a window. Where do you think the window was, high up or low down?",
+      "light": "Find the lightest part of the picture. What do you think makes it bright?",
+      "meaning": "XX?",
+      "culture": "The painter lived on an island in winter. What do you think he did there all day?",
+      "technique": "The painter used oil paint. How do you think he put the paint on the canvas?",
+      "personal": "If you could look out your window and paint what you see, what would you paint?",
+      "critical": "What is one thing you wonder about this place?"
+    },
+    "g12": {
+      "daily": "Why do you think the painter chose to paint the view from his window instead of something far away?",
+      "emotion": "What feeling does the winter coast give you, and what in the painting makes you feel it?",
+      "observation": "List five things you can find in this painting of the coast.",
+      "analysis": "Where does your eye go first, and what in the painting makes it look there?",
+      "line": "Which lines in the painting show the edge of the land and the edge of the sea?",
+      "shape": "What big shapes make up the land, the sea and the sky in this painting?",
+      "color": "What colors does the painter use for winter? How do they make you feel?",
+      "texture": "How did the painter make the land look rough or smooth in his painting?",
+      "space": "How can you tell which parts of the coast are close and which are far away?",
+      "light": "Where does the light fall on the land and the sea? Where is it darker?",
+      "meaning": "What story could you tell about someone who lives by this coast in winter?",
+      "culture": "Most artists came to this island in summer. What might be different about a winter picture?",
+      "technique": "How can you tell the painting is made with oil paint on canvas?",
+      "personal": "How would you dress to visit this coast in winter?",
+      "critical": "How would this painting change if it showed the coast in summer?"
+    },
+    "g35": {
+      "daily": "Which details of the landscape show that the painter looked closely at the place where he lived?",
+      "emotion": "What mood does this winter coast create, and which parts of the painting help create it?",
+      "observation": "Describe the land, the water and the sky. What do you notice first about each?",
+      "analysis": "How did Kent arrange the land, sea and sky so that the picture feels balanced?",
+      "line": "How do the edges of the land and the horizon lead your eye through the painting?",
+      "shape": "What large shapes make up the coast, and how do they fit together in the picture?",
+      "color": "How do the colors Kent used help you feel the season and the place?",
+      "texture": "How might the surface of the rocks, ground and water feel if you could touch them, and how did Kent suggest this with paint?",
+      "space": "How does Kent show distance in the view from his window?",
+      "light": "How does the light in the painting help you tell that it is winter?",
+      "meaning": "Kent lived on the island all year. How might that have changed what he chose to paint?",
+      "culture": "Monhegan Island attracted many artists. Why might its rugged landscape be so interesting to paint?",
+      "technique": "Kent used oil paint on canvas. What do you notice about how the paint was applied?",
+      "personal": "What would you want to ask Kent about living on an island in winter?",
+      "critical": "Why might a winter picture of a place feel different from a summer one?"
+    },
+    "g68": {
+      "daily": "Which parts of the composition most strongly convey the ruggedness of the island coast, and how?",
+      "emotion": "How do the colors and light create the mood of a cold season along the Maine coast?",
+      "observation": "Compare the foreground, middle ground and background. What changes in detail and color as you move back?",
+      "analysis": "How does Kent organize the land, water and sky to build a balanced composition?",
+      "line": "How do the horizon line and the edges of the land guide your eye through the picture?",
+      "shape": "How do the large masses of land and sea contrast with each other in the composition?",
+      "color": "How might a limited or muted winter palette affect the mood compared with a bright summer scene?",
+      "texture": "How does Kent use paint to suggest the textures of rock, ground and water?",
+      "space": "How does the view from a window shape the viewer's position and sense of space?",
+      "light": "How does the quality of winter light affect the way forms look in this landscape?",
+      "meaning": "Kent worked as a well digger and carpenter while living on the island. How might this affect his view of the place?",
+      "culture": "Many artists visited Monhegan in summer, but Kent stayed in winter. What might he have learned that visitors did not?",
+      "technique": "How does Kent's use of oil on canvas help him convey a changing, weather-driven landscape?",
+      "personal": "How does painting a place where you live differ from painting a place you only visit?",
+      "critical": "What can a landscape painting tell us about the artist's relationship to a place, and what can it not tell us?"
+    },
+    "g910": {
+      "daily": "How does the painting use the view from a studio window to shape the viewer's relationship to the coast?",
+      "emotion": "How do light and color work together to establish the character of a winter landscape?",
+      "observation": "Examine how Kent paints the meeting of land, sea and sky. What do your observations suggest about his focus?",
+      "analysis": "How does the compositional structure convey the openness and exposure of an island coast?",
+      "line": "How do the horizon and the contours of the land structure the space and guide the viewer's eye?",
+      "shape": "How does the arrangement of large forms create a sense of stillness or tension in the landscape?",
+      "color": "How does Kent's restrained or contrasting use of color communicate the season and the atmosphere?",
+      "texture": "How does the surface handling of the paint differentiate the rugged land from the water and sky?",
+      "space": "How does the depth created in the composition affect your sense of the distance between the studio and the coast?",
+      "light": "How does the handling of winter light affect the clarity and mood of the scene?",
+      "meaning": "How might Kent's year-round presence on the island, as a laborer and an artist, have shaped this painting differently from a summer visitor's view?",
+      "culture": "How does Maine Coast fit into the tradition of American artists drawn to remote, rugged places?",
+      "technique": "How does Kent's use of oil paint allow him to balance observation of a specific place with personal expression?",
+      "personal": "How does your own sense of place shape how you respond to a landscape like this?",
+      "critical": "To what extent can a landscape painting be both a specific place and an expression of an artist's feelings? Use evidence from the image."
+    },
+    "g1112": {
+      "daily": "How does the window as a viewing position structure the relationship between observer and landscape in this picture?",
+      "emotion": "In what ways does the painting's atmosphere suggest the isolation or austerity of a winter island?",
+      "observation": "What do the transitions between land, sea and sky reveal about Kent's priorities in observing the coast?",
+      "analysis": "How does the compositional structure translate the physical experience of an exposed coast into pictorial terms?",
+      "line": "How do the horizon and contours organize a spatial reading, and where might they destabilize it?",
+      "shape": "How do the large masses in the picture function both as observed forms and as abstracted shapes?",
+      "color": "How might Kent's choice of palette position this work relative to a summer, vacation-oriented idea of coastal painting?",
+      "texture": "How does the paint handling register the contrast between hard rock, soft atmosphere and moving water?",
+      "space": "How does the implied vantage point complicate any claim that the painting is a neutral record of the view?",
+      "light": "How does the treatment of light contribute to an emotional rather than only descriptive account of the place?",
+      "meaning": "Kent later painted in cold, remote places including Alaska, Newfoundland and Greenland. What might this painting suggest about the beginning of that interest?",
+      "culture": "How do notions of rugged, remote nature in early twentieth-century American art shape our reading of this painting?",
+      "technique": "How does the oil on canvas medium allow Kent to blend close observation with expressive interpretation?",
+      "personal": "How does your experience of a place you know well compare with the experience of one you visit, and how might that apply to this painting?",
+      "critical": "What evidence would you use to argue that the painting is more about the artist's inner life than about the island itself?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: No sensitive content expected from the museum text (a winter coastal landscape). Checked from Cleveland Museum of Art open-access API text (title, creator, date, medium, culture, credit line, description, CC0 status). The image file has not been viewed yet; a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1907 by Rockwell Kent, now in the Cleveland Museum of Art. The museum says Kent lived year-round on Monhegan Island, Maine, from 1906 to 1908, unlike most artists who visited in summer, and painted this winter scene from his studio window.",
+    "vocabulary": [
+      "landscape",
+      "Monhegan Island",
+      "horizon",
+      "foreground",
+      "oil on canvas",
+      "season"
+    ],
+    "directions": [
+      "Have students look out a classroom or home window and make a quick sketch of the view, noting the season and the weather.",
+      "Ask older students to compare this winter view with a summer coastal painting and discuss how season changes mood.",
+      "Discuss how living in a place year-round might change the way an artist sees it."
+    ]
+  }
+}

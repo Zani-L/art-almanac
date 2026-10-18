@@ -1,0 +1,158 @@
+{
+  "id": "met-451721",
+  "day": "05-15",
+  "title": "Plate Depicting a Female Figure Riding a Fantastic Winged Beast",
+  "artist": "Artist unknown",
+  "date": "probably 8th century",
+  "medium": "Silver; gilded, chased, and engraved, with applied elements",
+  "region": "Iran",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP216057.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP216057.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1963",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round silver plate with gilded details. In the center, a female figure rides a winged, imaginary creature.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451721",
+    "objectId": "451721",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country (Iran), dimensions, tags (Women, Mythical Creatures), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A silver plate from Iran, dated by the museum as probably 8th century. It is about 20.6 centimeters across and decorated with gilding, chasing, engraving, and applied elements. Its central scene shows a female figure riding a fantastic winged beast.",
+  "descriptions": {
+    "k": "A woman rides a winged creature! It is not a real animal. It is a make-believe beast with wings. The plate is made of shiny silver, with gold-colored parts. Where do you think they are flying?",
+    "g12": "This round silver plate comes from Iran, made about 1,200 years ago. A woman rides a winged beast that comes from imagination. Some parts of the plate are gilded, which means covered in a thin layer of gold. Look at the beast's wings. What kind of animal does it remind you of?",
+    "g35": "This silver plate from Iran is about 20 centimeters wide and was probably made in the 8th century. Its picture shows a female figure riding a fantastic winged beast, a creature that does not exist in nature. The metalworker chased and engraved the design and gilded parts of it, then added extra pieces called applied elements. Look at the figure and the beast. What details show movement, and what do the wings add?",
+    "g68": "Probably made in the 8th century in Iran, this silver plate shows a female figure riding a fantastic winged beast. Its maker used chasing and engraving to shape the design, gilding to add golden highlights, and applied elements attached to the surface. Winged creatures were a long-standing subject in Iranian art. A round plate also challenges a designer: the figure and beast must be arranged to fit the circle. How does the composition suggest motion, and what might a fantastic creature have meant to its owner?",
+    "g910": "This plate, probably of the 8th century from Iran, belongs to the long tradition of decorated silver in Iran, which scholars often connect with earlier Sasanian work. The central subject, a female figure on a winged beast, joins narrative with ornament. The metalworker combined chasing, engraving, gilding, and applied elements to create contrast between silver and gold. Scholars have asked whether such images illustrate stories, symbols, or courtly decoration, and the record alone does not settle this. How do the circular format and the interplay of materials shape what the viewer notices?",
+    "g1112": "A silver plate probably of the 8th century from Iran, this object comes from a period in which, scholars often note, earlier Sasanian visual traditions lingered under new political and religious conditions. The imagery of a female figure on a winged beast could be read as myth, courtly allegory, or decorative fantasy; the surviving evidence is not enough to fix one meaning. Its mix of chasing, engraving, gilding, and applied elements shows technical sophistication. How should we balance formal analysis with interpretive caution, and what do we lose when plates like this are studied apart from their original context?"
+  },
+  "questions": {
+    "k": {
+      "daily": "A woman rides a winged beast! Where do you think they are flying?",
+      "emotion": "Does the ride look exciting, calm, or scary? What shows it?",
+      "observation": "Find the rider, the wings, and the round edge of the plate. Which one is easiest to see?",
+      "analysis": "What tells you this beast is make-believe and not a real animal?",
+      "line": "Trace the curve of one wing in the air. Is it a long line or a short line?",
+      "shape": "The plate is a circle. What shapes do the wings and the beast's body make inside it?",
+      "color": "Some parts are silver and some are gold-colored. Which parts are gold?",
+      "texture": "The plate is made of metal. Which parts of it look shiny and which look carved?",
+      "space": "Is the beast in the middle of the plate or near the edge? Show where.",
+      "light": "Silver and gold both shine. How does the plate look when light hits it?",
+      "meaning": "Make up a name for this winged beast. What does it do?",
+      "culture": "This plate comes from Iran, long ago. What shiny metal objects do you see at home?",
+      "technique": "Metalworkers tap and carve patterns into silver. Why do you think it takes a lot of patience?",
+      "personal": "If you could ride a winged creature, where would you go?",
+      "critical": "Why do you think the artist chose an imaginary beast instead of a real animal?"
+    },
+    "g12": {
+      "daily": "What is happening in the middle of this plate? Use the details to tell the story.",
+      "emotion": "What feeling does a rider on a winged beast give you? Which part makes you feel it?",
+      "observation": "Describe the rider and the beast. What do you notice about their bodies and the wings?",
+      "analysis": "How does the artist fit the rider and beast inside the circle of the plate?",
+      "line": "Find curved lines in the wings and body of the beast. How do they show movement?",
+      "shape": "The beast is made of imaginary parts. Which shapes remind you of animals you know?",
+      "color": "Silver is gray-white, and gilded parts look golden. How do the two colors work together?",
+      "texture": "Some lines are engraved, which means cut into the metal. Where do you see tiny cut lines?",
+      "space": "The plate is flat, but the picture can look like it has depth. What helps you see that?",
+      "light": "Tilt a shiny plate and the bright spots move. Where might they be on this plate?",
+      "meaning": "A winged beast comes from stories and imagination. What story might this plate tell?",
+      "culture": "This plate was made in Iran about 1,200 years ago. What does it tell you about the art people enjoyed?",
+      "technique": "Gilding means adding a thin layer of gold. Why might an artist add gold to a silver plate?",
+      "personal": "Draw or describe your own fantastic creature. What parts would you give it?",
+      "critical": "Is this plate more like a useful dish or a work of art? Use details to explain."
+    },
+    "g35": {
+      "daily": "How does the metalworker make the winged beast and its rider the clear focus of the plate? Point to details.",
+      "emotion": "What mood does the scene have, adventurous, graceful, or something else? Which details create that feeling?",
+      "observation": "Look slowly across the plate. Which small details do you see that you missed at first?",
+      "analysis": "How are the figure, beast, and any surrounding decoration arranged to fit the round shape?",
+      "line": "How do chased and engraved lines show the wings, the body, and the rider's pose?",
+      "shape": "How do curved shapes of the wings and the beast's body echo the round shape of the plate?",
+      "color": "How does gilding make parts of the silver plate stand out? What would change without it?",
+      "texture": "Chasing and engraving create different surface marks. How might each feel and look?",
+      "space": "How does the artist suggest movement through the picture on a small, flat plate?",
+      "light": "How might light play on silver and gold to make the picture seem to shimmer?",
+      "meaning": "The record calls the creature fantastic. What might a winged beast have stood for in a story?",
+      "culture": "The plate is from Iran, where metalwork was an important art. What does it suggest about the skills of artists there?",
+      "technique": "Applied elements are separate pieces added to the surface. How might that make the plate more complex to build?",
+      "personal": "Think of an imaginary creature from a story you love. How would you show it in metal?",
+      "critical": "The date is given as probably the 8th century. Why would a museum use the word probably?"
+    },
+    "g68": {
+      "daily": "How does the composition give a sense of flight and movement within a fixed circle?",
+      "emotion": "Is the mood graceful, powerful, or dreamlike? Support your answer with visual details.",
+      "observation": "List the figures, creature parts, and decorative details you can see. Which are most carefully rendered?",
+      "analysis": "How does the metalworker balance the rider and the beast so neither dominates?",
+      "line": "How does the combination of chased and engraved line create variety in the surface?",
+      "shape": "How do the curving wings and body shape the plate's overall design?",
+      "color": "How do silver and gilding create contrast and focus attention?",
+      "texture": "How do raised and recessed areas make the surface lively, even without color?",
+      "space": "How does the artist create depth on a plate only a few centimeters thick?",
+      "light": "How might reflections on the polished metal change what viewers notice as they move?",
+      "meaning": "What might a woman riding a winged beast suggest in a story or a symbol? Which readings are speculation?",
+      "culture": "How might trade and gift-giving have made silver plates travel and carry images across regions?",
+      "technique": "What do chasing, engraving, gilding, and applied elements each add, and why combine them?",
+      "personal": "What do you imagine a plate like this was used for, and how did that affect its design?",
+      "critical": "What does the lack of a named maker or known findspot limit in our understanding of this plate?"
+    },
+    "g910": {
+      "daily": "How do the plate's materials and composition work together to turn a fantastic subject into a convincing image?",
+      "emotion": "How does the interplay of silver brilliance and gold accents contribute to the plate's atmosphere of wonder?",
+      "observation": "Describe the visual hierarchy of the plate. What do you notice first, and what produces that effect?",
+      "analysis": "Analyze how the circular field shapes the arrangement of rider, beast, and any ornament.",
+      "line": "How does engraved and chased line produce rhythm and contour, and how does it compare with line in drawing?",
+      "shape": "How does the beast's composite anatomy express imagination through combined forms?",
+      "color": "How does gilding create a hierarchy of emphasis on a silver ground?",
+      "texture": "How do applied elements and chased relief add dimension beyond what engraving alone could do?",
+      "space": "How does the shallow depth of the plate relate to conventions for figures in relief?",
+      "light": "How does reflection from polished silver complicate the reading of fine surface details?",
+      "meaning": "How might the figure on a winged beast be read as myth, courtly entertainment, or decoration, and what limits our certainty?",
+      "culture": "How does this plate reflect continuity and change in Iranian metalwork after the Sasanian period?",
+      "technique": "What does the combination of four techniques suggest about workshop skill and patron expectations?",
+      "personal": "What kinds of fantasy images attract you, and how do they compare with this plate?",
+      "critical": "What do we lose in understanding when a luxury object is shown without its original setting?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the plate's imagery and technique, and which claims about its meaning remain tentative?",
+      "emotion": "How does the plate's fantastic subject and shining surface shape a viewer's response, and how might that differ from its first audience?",
+      "observation": "Describe the plate's surface and imagery precisely. Which observations are secure from the record?",
+      "analysis": "Analyze how the plate integrates narrative image and ornamental design on a circular field.",
+      "line": "How does incised and chased line allow for both description and decoration here?",
+      "shape": "How does the hybrid body of the creature relate to older traditions of composite beasts in Iranian art?",
+      "color": "How might the plate's original colors have differed, given that gilding and silver tarnish change over time?",
+      "texture": "What does the interplay of relief and engraving suggest about workshop technique?",
+      "space": "How does the plate's format shape the viewer's physical engagement, and how does display in a museum change it?",
+      "light": "How does the movement of light on silver relate to the experience of an object handled or viewed in an interior?",
+      "meaning": "Evaluate readings of the female rider as figure of story, symbol of power, or decorative fantasy. What evidence is available?",
+      "culture": "How do the plate's date and Iranian origin complicate a straightforward label of Sasanian or Islamic?",
+      "technique": "What can applied elements tell us about repair, restoration, or original design?",
+      "personal": "How do your own expectations about fantasy images shape what you look for in historical examples?",
+      "critical": "How should museums balance aesthetic appreciation of luxury objects with the gaps in what we know about their making and use?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, country and tags (Women, Mythical Creatures) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content, but the figure's clothing could not be confirmed from the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A silver plate from Iran, probably 8th century, with a central scene of a female figure on a winged beast. The record gives no culture or maker, and its meaning is not established.",
+    "vocabulary": [
+      "gilding",
+      "chasing",
+      "engraving",
+      "applied elements",
+      "fantastic creature",
+      "relief"
+    ],
+    "directions": [
+      "Have students design a circular plate with an imaginary creature, planning where silver and gold would go.",
+      "Discuss how composite creatures appear in stories and art from different cultures.",
+      "Ask students why a museum might say probably in a date, and what evidence could support it."
+    ]
+  }
+}

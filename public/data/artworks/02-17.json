@@ -1,0 +1,159 @@
+{
+  "id": "met-437192",
+  "day": "02-17",
+  "title": "Sports on a Frozen River",
+  "artist": "Aert van der Neer",
+  "date": "ca. 1660",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146485.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP146485.jpg",
+    "credit": "The Metropolitan Museum of Art, The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small oil painting of an evening winter scene on a frozen river, where many tiny figures skate and play on the ice beneath a wide sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437192",
+    "objectId": "437192",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Skating, Rivers, Winter, Evening, Ice) and image URLs read from the record"
+  },
+  "context": "An oil painting on wood made around 1660 by Aert van der Neer, a Dutch painter who is widely known for winter and evening landscapes. The record's tags describe skating, a river, winter, evening and ice.",
+  "descriptions": {
+    "k": "It is winter, and the river is frozen. Tiny people skate and play on the ice. The sky is big. It is almost evening. What game would you play out there?",
+    "g12": "A long time ago in the Netherlands, rivers froze in winter and people went out to play. This painter shows tiny skaters on the ice and a very big sky. The light is the soft light of evening. Can you find a person who is sliding? What are the others doing?",
+    "g35": "Aert van der Neer lived in the Dutch Republic and was known for painting winter and evening scenes. Here a frozen river becomes a playground, with many small people skating and enjoying the ice. Look at how much of the picture is sky and how little is people. How does that make the river feel? What clues tell you the day is ending?",
+    "g68": "Around 1660, van der Neer painted a frozen river alive with people, a theme popular in the Dutch Golden Age. Notice how small the figures are compared with the wide landscape and sky. The glow of evening unifies the scene and sets its mood. Why might Dutch buyers have wanted pictures of winter leisure for their homes? What does the painter's choice of scale suggest about people and nature?",
+    "g910": "Sports on a Frozen River is a compact oil painting on wood in which landscape, not any single figure, is the main subject. Van der Neer scatters tiny skaters across the ice and lets the evening sky and low horizon organize the space. The result mixes observation of ordinary recreation with careful arrangement of light. How does scale shift our sense of who or what the picture is about?",
+    "g1112": "Van der Neer's winter scene sits within a Dutch tradition of landscapes that double as records of daily life and as studies of atmosphere. The tiny figures can be read as a cheerful portrait of communal leisure, but also as a reminder of human scale beside nature. Scholars interpret such paintings in different ways, and the picture itself offers no single answer. How do light, scale and the small format support competing readings?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which tiny skater would you like to be? What are you doing on the ice?",
+      "emotion": "Does this evening feel busy, quiet, or sleepy? What do you see that tells you?",
+      "observation": "How many people can you find on the ice? Try to point to five.",
+      "analysis": "Is there more sky or more ice? Why do you think the painter chose that?",
+      "line": "Where does the ice stop and the sky start? Trace that line with your finger.",
+      "shape": "The skaters look like tiny shapes. Which shapes can you find on the ice?",
+      "color": "Which colors are in the evening sky? Do they feel warm or cool?",
+      "texture": "How do you think the ice would feel if you touched it with your mitten?",
+      "space": "Which skaters are close to you and which are far away? How can you tell?",
+      "light": "Where is the sky brightest? How does that light touch the ice?",
+      "meaning": "What do you think the skaters will do when it gets dark?",
+      "culture": "Children and grown-ups in the Netherlands skated on frozen rivers. What can you do outside when it is cold where you live?",
+      "technique": "This painting is small and has many tiny people. How do you think the artist painted them so small?",
+      "personal": "What is your favorite thing to do in snow or cold weather?",
+      "critical": "Is this a quiet picture or a noisy one? What makes you think so?"
+    },
+    "g12": {
+      "daily": "Pretend you are on this frozen river at evening. What do you hear, see and do?",
+      "emotion": "What feeling does the glow of evening give this winter scene? Which parts help?",
+      "observation": "Find three different things people are doing on the ice. Describe each one.",
+      "analysis": "How does the painter make the big sky feel important? Compare it with the small skaters.",
+      "line": "Find the long, flat line of the horizon. How does it make the scene feel calm?",
+      "shape": "Look at the groups of skaters. What shapes do the groups make on the ice?",
+      "color": "Which colors in the sky and on the ice feel cold? Which feel warm? Point to them.",
+      "texture": "How does the painter show that the river surface is smooth and hard?",
+      "space": "Choose a skater far away and one nearby. What helps you see which is farther?",
+      "light": "Where does the evening light seem strongest? What parts stay darker?",
+      "meaning": "Why might a river that people can play on be so special in winter?",
+      "culture": "In the Netherlands long ago, the winters could be icy. How might that change how people spend their days?",
+      "technique": "This painting is on wood, not canvas. How might a smooth wooden panel help with tiny details?",
+      "personal": "What place near you feels busy and happy like this ice? Tell about it.",
+      "critical": "Would this painting be as good if the skaters were bigger? Explain what would change."
+    },
+    "g35": {
+      "daily": "What is the most interesting thing happening on the ice, and what makes you choose it?",
+      "emotion": "How do the evening light and the many small activities combine to set the mood?",
+      "observation": "After a minute of silent looking, what small action or detail did you notice that you missed at first?",
+      "analysis": "How does van der Neer use the sky, horizon and groups of skaters to organize the picture?",
+      "line": "How do the horizon and the edges of the riverbanks create lines that lead your eye into the distance?",
+      "shape": "How do the tiny shapes of people compare with the large shapes of sky and ice?",
+      "color": "How do the colors of the evening sky relate to the colors on the ice and the figures?",
+      "texture": "How does the artist make the ice look smooth while the landscape beyond looks different?",
+      "space": "What techniques does van der Neer use to make the frozen river seem to stretch far away?",
+      "light": "Where does the light come from, and how does it change how the ice and the people look?",
+      "meaning": "What might the painting say about how people and nature share the world?",
+      "culture": "Winter pastimes were popular subjects for Dutch artists. What does that suggest about how people in the Netherlands lived and what they enjoyed?",
+      "technique": "Why might an artist paint on a small wood panel when the scene has so many details?",
+      "personal": "Think of a favorite season and what you do outdoors in it. How would you show it in a painting?",
+      "critical": "Does this look like a photograph of a real day, or a scene the painter arranged? Explain your reasoning."
+    },
+    "g68": {
+      "daily": "How does van der Neer turn a common winter activity into a picture worth studying closely?",
+      "emotion": "How do the glow of evening and the scattered, tiny skaters shape the mood of the painting?",
+      "observation": "List the different activities you can detect on the ice. Which are easiest to miss?",
+      "analysis": "How does the painter balance the busy ice with the large, open sky?",
+      "line": "How does the strong horizontal of the horizon interact with smaller diagonals and clusters of people?",
+      "shape": "How do repeated tiny figures create rhythm against the broad, flat shape of the frozen river?",
+      "color": "How does the palette of an evening winter sky support the feeling of a day winding down?",
+      "texture": "How might brushwork suggest the slick surface of ice versus the softer sky?",
+      "space": "How do scale, overlapping and the low horizon create deep space in a small panel?",
+      "light": "How does the low evening light affect shadows, reflections and the overall atmosphere?",
+      "meaning": "What might the small size of the people compared with the sky suggest about people and the natural world?",
+      "culture": "Why might Dutch households in the 1600s have wanted scenes of winter play on frozen rivers?",
+      "technique": "What are the advantages of oil on wood for painting fine details and glowing skies?",
+      "personal": "How would you paint a gathering you remember in a way that shows both the people and the setting?",
+      "critical": "How realistic is this scene, and how might the artist have adjusted reality to make a better picture?"
+    },
+    "g910": {
+      "daily": "How does the painting transform ordinary winter recreation into a study of light and scale?",
+      "emotion": "How does van der Neer evoke atmosphere through evening light and distance rather than through expressive faces?",
+      "observation": "Describe the visual hierarchy of the painting. What draws attention first, and which choices cause that?",
+      "analysis": "How do horizon placement, sky proportion and clusters of figures organize the viewer's movement through the scene?",
+      "line": "How does the interplay of the horizon with the paths of skaters build both calm and movement?",
+      "shape": "How do small, vertical human forms interact with the broad horizontal planes of ice and sky?",
+      "color": "How does a controlled, atmospheric palette unify many small incidents into one scene?",
+      "texture": "How does the artist differentiate ice, sky and distant land through brush handling rather than strong outline?",
+      "space": "How do aerial perspective and the low horizon contribute to the sense of expansive space?",
+      "light": "How does light operate here as both description of a time of day and as an organizing structure?",
+      "meaning": "How might the contrast between tiny people and a large sky be read as cheerful, humble or both?",
+      "culture": "How does this painting reflect the place of landscape and everyday leisure in the Dutch Republic's art market?",
+      "technique": "What does painting on a wood panel suggest about the work's scale, finish and intended viewing?",
+      "personal": "How do crowds and open landscapes affect your own sense of belonging or smallness?",
+      "critical": "What does the painting choose to show about winter, and what aspects of cold-weather life does it leave out?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about the painting's balance between social scene and atmospheric landscape, and what remains uncertain?",
+      "emotion": "How does the painting's quiet evening light complicate any attempt to assign it a single dominant emotion?",
+      "observation": "Describe the picture's construction with precision. Where does careful description become interpretation?",
+      "analysis": "Analyze how van der Neer reconciles the many incidents on the ice with a unified, atmospheric whole.",
+      "line": "How does the subordination of contour to tonal transitions shape the way we read distance and form?",
+      "shape": "How does the tension between tiny figures and the vast horizontal field position human activity within the composition?",
+      "color": "How might the work's age and varnish affect the colors we see today, and how should that temper interpretation?",
+      "texture": "How does the handling of paint on a smooth panel simulate different surfaces, and what does that say about illusion in Dutch landscape painting?",
+      "space": "How does the construction of space position the viewer in relation to the skaters, and what effect does that distance have?",
+      "light": "In what ways does the treatment of evening light work as both observation of nature and a device for emotional tone?",
+      "meaning": "Evaluate competing readings of the scene, such as celebration of communal pleasure or reflection on human smallness. Which is best supported by the visible evidence?",
+      "culture": "What does the popularity of winter scenes in the Dutch Golden Age suggest about local identity, climate and the art market, and what evidence would test that idea?",
+      "technique": "What might the painting's small format and wood support suggest about its production and use, and where does the evidence stop?",
+      "personal": "How does your own relationship to cold weather and public space shape how you read this scene?",
+      "critical": "Given that a painting is a made image, what standards should we use when using it as evidence of everyday life in the 1600s?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Skating, Rivers, Winter, Evening, Ice), medium and classification (Paintings) read from the Met record: a winter recreation landscape. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Aert van der Neer was a Dutch landscape painter known for winter and evening scenes. Frozen rivers were popular subjects in the Dutch Golden Age.",
+    "vocabulary": [
+      "Dutch Golden Age",
+      "landscape",
+      "horizon line",
+      "scale",
+      "aerial perspective",
+      "oil on panel"
+    ],
+    "directions": [
+      "Ask students to draw a thumbnail that shows how the picture is divided between sky and ice, then discuss why.",
+      "Have students pick a tiny group of figures and write what they are doing, then compare how others read the same group.",
+      "Compare with another winter scene in the archive and discuss how each artist handles scale."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "artic-187703",
+  "day": "08-13",
+  "title": "Seaside, Port of Honfleur",
+  "artist": "Eugène Louis Boudin",
+  "date": "c. 1860",
+  "medium": "Pastel on blue wove paper",
+  "movement": "Realism and early Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/68679127-b7b5-6359-dbca-9d1635f6280b/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Helmuth Bartsch Endowment",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small pastel drawing of a seaside harbor scene, with soft colors for sky, water, and shore sketched quickly on blue paper.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/187703",
+    "objectId": "187703",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2006.129, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A small pastel made in France around 1860 by Eugène Boudin, who was born in Honfleur, a picturesque harbor town in Normandy. The Art Institute notes that he was self-taught, began experimenting with pastel in the 1850s, and likely made this kind of landscape outdoors; such work was very influential for the young Claude Monet.",
+  "descriptions": {
+    "k": "This is a small picture of a seaside harbor made with soft colored chalk. The paper is blue. Can you find the sky and the water? Take a deep breath like you are by the sea.",
+    "g12": "Eugène Boudin drew the harbor of Honfleur, the town where he grew up. He used soft colored chalk on blue paper. The picture is small, and the strokes are quick, like he drew it while standing outside. What do you think the weather is like?",
+    "g35": "Eugène Boudin was born in Honfleur, a harbor town in Normandy, and drew this seaside scene around 1860 with pastel on blue paper. He likely worked outdoors, drawing quickly to catch the sky and water. A young artist named Claude Monet learned from his outdoor pictures. Why might it help to draw outdoors?",
+    "g68": "Eugène Boudin, a native of Honfleur, made this small pastel of the harbor around 1860, likely working outdoors. The Art Institute notes that this kind of landscape was very influential for the young Claude Monet. The blue paper gives the sky and water a ready-made tone. How do quick strokes and a toned ground help capture a passing moment of sea and sky?",
+    "g910": "Boudin, self-taught and a native of Honfleur, experimented with pastel in the 1850s. This small harbor view (c. 1860), probably made outdoors, shows how a quick medium and a toned blue paper capture the changeable air of Normandy. His outdoor work later influenced the young Monet. How does working directly from nature change the look and feeling of a landscape?",
+    "g1112": "Boudin's small pastel of Honfleur's harbor (c. 1860), likely made en plein air, exemplifies the improvisatory sketch that fascinated younger painters, including the young Claude Monet. The blue wove paper provides a ground that unifies sky and water, while pastel permits rapid notation of atmosphere. How does the work's apparent modesty belie its historical importance, and how does the sketch complicate distinctions between preparatory study and finished picture?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What colors do you see in the sky and the water?",
+      "emotion": "Does this place feel calm or stormy? What do you notice?",
+      "observation": "Look at the harbor. What do you think is in it?",
+      "analysis": "Why do you think the artist drew such a quick picture?",
+      "line": "Trace the line where the water meets the land. Is it straight or curvy?",
+      "shape": "What shapes can you find in the picture?",
+      "color": "Which colors are soft and which are bold?",
+      "texture": "Does the chalk look smooth or scratchy?",
+      "space": "Is the sea close or far? How can you tell?",
+      "light": "Where does the sky look lightest?",
+      "meaning": "Why might someone draw a harbor?",
+      "culture": "Have you ever been to the sea? What did you see?",
+      "technique": "The artist used soft pastel chalk. How is it different from using a pencil?",
+      "personal": "If you were drawing outside, what would you draw?",
+      "critical": "What would you add to this harbor scene?"
+    },
+    "g12": {
+      "daily": "Which colors do you see in the sky? Which are in the water?",
+      "emotion": "Does this seaside feel peaceful, windy, or cloudy? What tells you?",
+      "observation": "What might be in the harbor? Point to where you think it is.",
+      "analysis": "Why do you think the artist made this picture so quickly?",
+      "line": "Follow the long line where the sky meets the sea. Is it flat?",
+      "shape": "Which shapes do you see in the clouds and the shore?",
+      "color": "Which soft colors stand out on the blue paper?",
+      "texture": "Is the chalk smooth or scratchy? How do you know?",
+      "space": "Is the shore near you or far? Show us with your hands.",
+      "light": "Where is the sky the lightest?",
+      "meaning": "Why do you think the painter drew his own hometown?",
+      "culture": "What sounds might you hear at a harbor?",
+      "technique": "The paper is already blue. How might that help the artist?",
+      "personal": "If you drew outside, what would you draw first?",
+      "critical": "What would you add to this harbor?"
+    },
+    "g35": {
+      "daily": "What clues tell you what the weather and the time of day are like?",
+      "emotion": "What feeling do the soft colors give you?",
+      "observation": "Describe what you see in the harbor and the sky.",
+      "analysis": "Why do you think the artist left some parts unfinished and sketchy?",
+      "line": "How do the long, flat lines of the horizon make the picture feel?",
+      "shape": "How do the shapes of the shoreline and the sky fit together?",
+      "color": "How does the blue paper show through the pastel colors?",
+      "texture": "How can you tell this was made with chalk rather than paint?",
+      "space": "How does the artist show that the sea stretches far away?",
+      "light": "Where does light touch the water, and how can you tell?",
+      "meaning": "What might the artist have loved about his hometown?",
+      "culture": "Boudin lived in the 1800s in Normandy. How might his town have been different from yours?",
+      "technique": "Why might it be exciting to draw outside rather than in a studio?",
+      "personal": "What place near you would you like to draw outside?",
+      "critical": "Is a quick sketch as important as a finished painting? Explain your thinking."
+    },
+    "g68": {
+      "daily": "What do you notice first about the harbor scene, and what led your eyes there?",
+      "emotion": "How do the soft tones and fast strokes create a mood?",
+      "observation": "Describe how the sky, water, and land are arranged. Which takes up the most space?",
+      "analysis": "How does the artist use horizontal lines to organize the scene?",
+      "line": "How does the horizon line shape the way you look across the picture?",
+      "shape": "How do the loose shapes of boats or shore compare with the broad areas of sky and water?",
+      "color": "How does the blue paper add to the colors the artist chose?",
+      "texture": "What do the visible pastel strokes tell you about how quickly the artist worked?",
+      "space": "How does the artist make a small sheet of paper feel as big as the sea?",
+      "light": "How does Boudin show the changing light of the sky?",
+      "meaning": "How did Boudin's hometown shape what he chose to draw?",
+      "culture": "The young Claude Monet learned from Boudin. Why might an older artist's outdoor sketches be useful to a beginner?",
+      "technique": "Why do you think the museum values a small sketch like this?",
+      "personal": "What does it take to capture a moment of weather with a few strokes?",
+      "critical": "How is sketching outdoors different from copying a photograph?"
+    },
+    "g910": {
+      "daily": "What compositional decisions give this small sheet a sense of breadth?",
+      "emotion": "How do the soft tones and visible strokes create a mood of passing atmosphere?",
+      "observation": "Examine how the harbor, sky, and shore are balanced. What dominates, and why?",
+      "analysis": "Analyze how horizontals structure the scene and how departures from them add interest.",
+      "line": "How does the horizon line establish stability while the sketchy handling suggests movement?",
+      "shape": "How do the loosely indicated forms contribute to a feeling of transience?",
+      "color": "How does the toned blue ground unify the palette and influence the perceived temperature of the scene?",
+      "texture": "What does the pastel handling reveal about speed and spontaneity?",
+      "space": "How does the vast sky relative to the land shape the viewer's sense of space?",
+      "light": "How does the notation of light and atmosphere anticipate Impressionism?",
+      "meaning": "How does the fact that Boudin was self-taught and a native of Honfleur affect your reading of this work?",
+      "culture": "Why might the example of outdoor sketching have been so persuasive to Monet?",
+      "technique": "How does this sketch complicate the line between preparatory study and finished work?",
+      "personal": "What does the choice of pastel over oil suggest about the artist's priorities?",
+      "critical": "How might the immediacy of a plein air sketch be valued differently from the polish of a studio painting?"
+    },
+    "g1112": {
+      "daily": "How does the compressed format yet expansive sky convey a sense of breadth that exceeds the sheet's modest dimensions?",
+      "emotion": "In what ways does the broken, rapid handling produce an affect of transience rather than monumentality?",
+      "observation": "What interpretive questions arise from a work that appears to record a moment rather than construct a composition?",
+      "analysis": "Evaluate how the arrangement of sky, water, and shore balances stability and flux.",
+      "line": "How do the dominant horizontals interact with sketchy accents to articulate depth?",
+      "shape": "How does the minimal articulation of forms invite the viewer to complete the scene perceptually?",
+      "color": "How does the blue wove ground operate as an active element in the color relations rather than a neutral support?",
+      "texture": "What does the pastel's immediacy suggest about the relation between medium and the experience of weather?",
+      "space": "How does the proportion of sky to land position the viewer within an atmosphere rather than before a view?",
+      "light": "How does Boudin's attention to shifting light anticipate Impressionist concerns, and where does it differ?",
+      "meaning": "How might the artist's origins in Honfleur have shaped his sustained engagement with the coast?",
+      "culture": "What does the influence on Monet suggest about how artistic ideas pass between generations?",
+      "technique": "How does the survival and valuation of such sketches change our understanding of the history of landscape painting?",
+      "personal": "What does a hurried sketch like this suggest about the value you place on immediacy versus polish in your own work?",
+      "critical": "To what extent does the work challenge the hierarchy that privileged the finished studio picture over outdoor notation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (seaside, harbor, pastel) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small pastel made in France around 1860 by Eugène Boudin, who was born in Honfleur, a picturesque harbor town in Normandy. The Art Institute notes that he was self-taught, began experimenting with pastel in the 1850s, and likely made this kind of landscape outdoors; such work was very influential for the young Claude Monet.",
+    "vocabulary": [
+      "pastel",
+      "harbor",
+      "plein air",
+      "horizon",
+      "sketch",
+      "Normandy"
+    ],
+    "directions": [
+      "Take students outside to make quick pastel or crayon sketches of the sky and ground, working for only five minutes.",
+      "Ask students to compare a quick outdoor sketch with a slower, more detailed drawing of the same scene.",
+      "Discuss how a toned paper changes the colors that are drawn on it."
+    ]
+  }
+}

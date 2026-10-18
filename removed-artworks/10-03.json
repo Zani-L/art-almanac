@@ -1,0 +1,158 @@
+{
+  "id": "met-255371",
+  "day": "10-03",
+  "title": "Bronze statuette of a lion",
+  "artist": "Artist unknown",
+  "date": "6th century BCE",
+  "medium": "Bronze",
+  "region": "Etruscan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP245963.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP245963.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Walter C. Baker, 1971",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small bronze statuette of a lion, made by Etruscan artists. The metal figure shows the animal's body and head in a strong, fixed pose.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/255371",
+    "objectId": "255371",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (Lions), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A small bronze lion made by Etruscan artists in Italy in the 6th century BCE. Lions did not live in Italy, but images of lions were popular in Etruscan and Greek art, often as symbols of strength.",
+  "descriptions": {
+    "k": "This is a lion made of metal. It is very small. An artist in Italy made it a very long time ago. The metal is called bronze. How would a lion like this roar?",
+    "g12": "This little lion is made of bronze, a strong metal. The Etruscans, who lived in Italy, made it more than 2,500 years ago. Lions did not live in Italy, so the artist may have learned about lions from art and stories. Look at the head and body. What makes this lion look strong?",
+    "g35": "The Etruscans made this bronze lion in the 6th century BCE. Lions did not live in Italy, but Etruscan artists knew lions from art, stories, and trade with other lands. A lion often stood for strength and power. Look closely at the lion's head and body. How does the artist show that this animal is strong, even though the statuette is small?",
+    "g68": "This Etruscan bronze lion dates to the 6th century BCE, during the Archaic period. Lions were not native to Italy, so Etruscan artists worked from images and ideas shared across the Mediterranean, adapting them in their own way. Lions often suggested strength, protection, and status. Look at how the artist simplifies and stylizes the animal's features. What do you notice that seems more like a design than a real lion?",
+    "g910": "An Etruscan bronze lion shows how Archaic artists treated animals as powerful emblems more than as portraits from life. Because lions were not native to Italy, the image is a product of cultural exchange: models and ideas circulated around the Mediterranean, and Etruscan craftspeople reshaped them. Stylization, such as simplified anatomy and pattern-like features, can give the animal an emblematic quality. Consider how scale, material, and form combine to give this small lion presence. What might it have meant to its owner?",
+    "g1112": "This Etruscan lion belongs to a long Mediterranean tradition of lion imagery, one that Etruscan artists absorbed, adapted, and made their own. The animal's meaning, as protector, symbol of power, or decorative motif, depends on its context, which the record does not specify, so interpretation should stay open. The statuette also raises questions about how artists represent creatures they may have known mostly through images. Consider how stylization, scale, and bronze work together to create an emblem rather than a record of a living animal."
+  },
+  "questions": {
+    "k": {
+      "daily": "What name would you give this bronze lion?",
+      "emotion": "Does this lion feel strong, sleepy, or friendly? What tells you?",
+      "observation": "What parts of the lion can you point to?",
+      "analysis": "Where do your eyes go first on the lion? Where do they go next?",
+      "line": "Can you find a curvy line on the lion? Trace it in the air.",
+      "shape": "What shapes do you see in the lion's head and body?",
+      "color": "What color is the metal? What else is that color?",
+      "texture": "How do you think the metal lion would feel? Cold, smooth, or bumpy?",
+      "space": "This lion is small. How big would it be in your hand?",
+      "light": "Where does the metal shine? Where is it darker?",
+      "meaning": "What story could you tell about this lion?",
+      "culture": "Lions do not live in Italy. How might the artist have learned what a lion looks like?",
+      "technique": "The artist used metal to make this lion. What do you think the artist did first?",
+      "personal": "If you made a metal animal, which animal would you pick?",
+      "critical": "Why would an artist make a tiny lion out of bronze?"
+    },
+    "g12": {
+      "daily": "What is this lion doing? What clues do you see?",
+      "emotion": "What feeling does this lion give you, strong or gentle? Which part shows that?",
+      "observation": "Describe the lion from head to tail. What do you notice?",
+      "analysis": "How does the artist guide your eyes along the lion's body?",
+      "line": "Find curved lines and straight lines in the lion. Where are they?",
+      "shape": "What big shapes make up the lion? How do they fit together?",
+      "color": "Bronze can look brown, gold, or green. What colors do you see?",
+      "texture": "What parts of the lion might be smooth? What parts might be rough?",
+      "space": "If you could walk around the lion, what parts would you see?",
+      "light": "Where is the lion bright? Where is it dark?",
+      "meaning": "Why might people long ago have wanted a lion statue?",
+      "culture": "Lions do not live in Italy. Where might the artist have seen a lion?",
+      "technique": "Metal can be melted and poured into a shape. Why might this work for a small lion?",
+      "personal": "What would you make a small statue of if you wanted to feel brave?",
+      "critical": "Does this lion look like a real lion or a pattern? Explain."
+    },
+    "g35": {
+      "daily": "What details tell you this is a lion even though it is small?",
+      "emotion": "What mood does the lion have? Which details support your idea?",
+      "observation": "Look closely for one minute. What small features do you notice on the head and body?",
+      "analysis": "How does the artist arrange the head, body, and legs so the lion looks strong?",
+      "line": "How do the curved lines compare with the straighter parts of the lion's body?",
+      "shape": "How does the artist simplify the lion into basic shapes? Which shapes stand out?",
+      "color": "Bronze changes color with age. How might that change how we see this lion today?",
+      "texture": "How might an artist suggest a mane or fur on a hard metal surface?",
+      "space": "This is a three-dimensional sculpture. What might you see from the back or side?",
+      "light": "How does light on bronze show the lion's rounded form?",
+      "meaning": "Why might an Etruscan artist choose a lion to show strength or protection?",
+      "culture": "Lions did not live in Italy. What does that tell us about travel, trade, and ideas?",
+      "technique": "Bronze is often cast by pouring melted metal into a mold. Why might casting be useful for a small statue?",
+      "personal": "What object do you have that stands for something strong or brave? Describe it.",
+      "critical": "Why do you think a small lion was made and kept for so long?"
+    },
+    "g68": {
+      "daily": "How does the artist give a tiny metal lion a feeling of power?",
+      "emotion": "What character does the lion project, and which details create it?",
+      "observation": "List what you observe from the head to the tail. Which parts seem most carefully shaped?",
+      "analysis": "How does the artist balance real animal features with pattern-like simplification?",
+      "line": "How do the lines of the body create stability or tension?",
+      "shape": "How does the artist reduce the lion to simple forms while keeping it recognizable?",
+      "color": "How does the color and finish of bronze shape our response to the lion?",
+      "texture": "How can a hard metal surface suggest the thickness of a mane or the strength of muscle?",
+      "space": "How does the statuette occupy space differently from a painted lion?",
+      "light": "How does light on the metal change the way the lion looks from different angles?",
+      "meaning": "What ideas about strength or protection might people have connected to lions?",
+      "culture": "How does a lion made in Italy show Etruscan connections to other Mediterranean cultures?",
+      "technique": "What steps does casting bronze require, and what problems might the maker face?",
+      "personal": "What symbols or animals do people use today to stand for strength? Compare them with this lion.",
+      "critical": "We do not know this lion's original use. What possibilities seem likely, and what evidence is missing?"
+    },
+    "g910": {
+      "daily": "How does the maker give this small statuette the presence of a powerful animal?",
+      "emotion": "What emotional effect does the lion's pose and expression have, and how are they created?",
+      "observation": "Describe how the lion's head, body, and legs are ranked in importance. What formal devices make the head so prominent?",
+      "analysis": "Analyze how the lion's masses are organized to convey stability, tension, or alertness.",
+      "line": "How do contour and incised or modeled lines define the lion's identity as an emblem?",
+      "shape": "How does stylization of anatomy shape the lion's emblematic quality?",
+      "color": "How does bronze's color and patina shape our reading of an ancient object?",
+      "texture": "How does surface treatment give the impression of fur or muscle on a hard material?",
+      "space": "How does a small free-standing figure change the viewer's relationship to it compared with relief?",
+      "light": "How does the reflectivity of bronze affect how its volume is read?",
+      "meaning": "What range of meanings might lions carry in the ancient Mediterranean, and how could context change them?",
+      "culture": "How does the image of a lion in Etruria show cultural exchange rather than a purely local tradition?",
+      "technique": "How does casting in bronze allow detail while limiting what a maker can do?",
+      "personal": "How do contemporary logos or mascots use animals as emblems, and how is the lion here similar or different?",
+      "critical": "What evidence would help determine whether this lion was an offering, a decoration, or part of a larger object?"
+    },
+    "g1112": {
+      "daily": "What claims about this lion's meaning can be defended from its form, and what remains speculative?",
+      "emotion": "How do emblematic animals evoke emotion differently from realistic portraits of animals?",
+      "observation": "Set out the lion's form in careful detail before interpreting it. Which features resist description without interpretation?",
+      "analysis": "Analyze how scale, posture, and material interact to form the lion's presence.",
+      "line": "How does contour in the lion balance observation and convention?",
+      "shape": "How does the balance of naturalism and stylization reflect Archaic approaches to representing animals?",
+      "color": "How do the color and patina of ancient bronze complicate our sense of what the Etruscans saw?",
+      "texture": "What can the surface of the object tell us about casting, finishing, and later history?",
+      "space": "How does the figure's small scale create intimacy compared with monumental lion sculpture?",
+      "light": "How might firelight or sunlight have made this bronze lion look different, and what changes under museum lighting?",
+      "meaning": "Evaluate possible contexts for this object, such as votive, decorative, or part of furniture. What would count as evidence for each?",
+      "culture": "How does lion imagery in Etruria complicate claims about originality and influence in ancient art?",
+      "technique": "What do techniques of bronze casting suggest about workshop organization and technical knowledge in Archaic Etruria?",
+      "personal": "How does the museum's presentation of this lion as a collectible bronze shape how we see it?",
+      "critical": "How should we treat an anonymous work whose maker, findspot, and original use are largely unknown?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (Lions) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a small bronze lion; no hunting, fighting, or injury is indicated in the record. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small Etruscan bronze lion of the 6th century BCE (Archaic period). Lions were not native to Italy, so Etruscan artists drew on images and ideas from around the Mediterranean.",
+    "vocabulary": [
+      "bronze",
+      "statuette",
+      "Etruscan",
+      "Archaic",
+      "casting",
+      "emblem"
+    ],
+    "directions": [
+      "Ask students to draw an animal as a symbol, simplifying it to its key features, and explain what it represents.",
+      "Locate Italy and the places lions lived on a map and discuss how images travel.",
+      "Compare this lion with a modern mascot or logo animal and discuss what each simplifies."
+    ]
+  }
+}

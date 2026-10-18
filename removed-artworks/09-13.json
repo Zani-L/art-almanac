@@ -1,0 +1,158 @@
+{
+  "id": "met-13638",
+  "day": "09-13",
+  "title": "Coverlet, Agriculture & Manufactures pattern",
+  "artist": "Artist unknown",
+  "date": "1837",
+  "medium": "Wool and cotton, woven",
+  "region": "United States (Mid-Atlantic)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/TP563.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/TP563.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Laura Tillson Vail, 1925",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woven wool and cotton bed coverlet with a patterned design that includes eagles and flowers.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/13638",
+    "objectId": "13638",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, region, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "A woven coverlet dated 1837 from the Mid-Atlantic United States, catalogued by the Met under the pattern name Agriculture and Manufactures. It is wool and cotton, and the record lists eagles and flowers among its imagery.",
+  "descriptions": {
+    "k": "This is a bed cover woven from wool and cotton thread. It was made in America in 1837. Look for eagles and flowers in the pattern. Where do you see a bird? Where do you see a flower?",
+    "g12": "This coverlet is a woven bed cover from America, made in 1837. Wool and cotton threads make the pattern. Eagles and flowers are part of it. The pattern is called Agriculture and Manufactures. What do you think those words mean? Find an eagle and a flower.",
+    "g35": "This coverlet was woven in 1837 in the Mid-Atlantic United States from wool and cotton. Its pattern name, Agriculture and Manufactures, points to farming and making goods. Eagles and flowers appear in the design. Weavers often chose patterns from a set of designs. Look at the eagles and the flowers. Why might someone want eagles on a bed cover?",
+    "g68": "Woven in 1837 in the Mid-Atlantic United States, this wool and cotton coverlet carries the pattern name Agriculture and Manufactures, a title that reflects themes of farming and the making of goods. Eagles and flowers appear among its motifs. Eagles were popular symbols in the young United States, though the Met's record does not explain this coverlet's intentions. Look at how the motifs repeat and combine. How do pattern names and imagery work together to suggest a shared idea?",
+    "g910": "This 1837 coverlet from the Mid-Atlantic United States combines wool and cotton in a woven design catalogued as the Agriculture and Manufactures pattern. Eagles and flowers sit within it, joining national symbolism with decorative nature imagery. Coverlet weavers often worked with named patterns that customers could choose, so imagery can reflect shared tastes as much as individual invention. Consider what a household might have communicated by choosing such a coverlet, while recognizing that the record does not tell us who owned it.",
+    "g1112": "Dated 1837, this woven wool and cotton coverlet is catalogued under the pattern name Agriculture and Manufactures, a title that situates it within an American moment of economic optimism and national self-image, although the record itself does not state its intent. Eagles and flowers combine patriotic and ornamental registers. Because weavers often drew on shared pattern books, the imagery may speak to market taste more than personal expression. The object invites questions about how domestic textiles carried civic ideas and how we read symbols without documentation."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find an eagle in the coverlet. What shape are its wings?",
+      "emotion": "Does this bed cover feel proud, cozy, or both? What do you see that tells you?",
+      "observation": "How many flowers can you find? Count them with your finger.",
+      "analysis": "Do your eyes look at the eagles or the flowers first? Why?",
+      "line": "Find a line that makes the edge of a wing or petal. Trace it in the air.",
+      "shape": "Which shape is bigger, an eagle or a flower? Point to each.",
+      "color": "What colors of thread did the weaver use? Which stands out most?",
+      "texture": "Wool is warm and cotton is smooth. How do you think this cover feels?",
+      "space": "Are the eagles and flowers close together or far apart? Show us.",
+      "light": "Which parts of the pattern look light? Which look dark?",
+      "meaning": "Eagles are big birds that fly high. Why might a pattern have eagles?",
+      "culture": "This coverlet was made in America in 1837. What animals or flowers do you see on things in your home?",
+      "technique": "A loom crosses threads to make cloth. How do you think the eagles got into the weave?",
+      "personal": "Which animal would you want on your bed cover?",
+      "critical": "Eagles and flowers are woven into this cover. What clue helps you tell which is which?"
+    },
+    "g12": {
+      "daily": "How does the weaver fit eagles and flowers into one pattern? Show one place where they meet.",
+      "emotion": "Does the pattern feel strong, gentle, or both? Which parts make you feel that?",
+      "observation": "Describe an eagle and a flower from the coverlet. What do their shapes look like?",
+      "analysis": "How do the repeated eagles and flowers guide your eyes across the coverlet?",
+      "line": "Look for stepped edges where the pattern changes color. Why might woven lines look blocky?",
+      "shape": "Find the shape of an eagle's wings. Which part of a flower is most like them?",
+      "color": "How do the thread colors make the eagles and flowers stand out from the ground?",
+      "texture": "The coverlet is woven from wool and cotton. How do you think it feels warm and strong?",
+      "space": "Is there more pattern or more plain space? How does that change how you see the coverlet?",
+      "light": "Where does the pattern look brightest? What colors help?",
+      "meaning": "The pattern is called Agriculture and Manufactures. What do you think farms and factories have to do with a bed cover?",
+      "culture": "People in the Mid-Atlantic in 1837 used woven coverlets on beds. What do families use today to stay warm?",
+      "technique": "A loom crosses threads to make pictures. Why would a weaver need a careful plan to weave eagles and flowers?",
+      "personal": "If you could name a pattern for your own bed cover, what would you call it?",
+      "critical": "Why do you think weavers repeated popular patterns instead of making a new design each time?"
+    },
+    "g35": {
+      "daily": "How do the eagles and flowers help this coverlet show both nature and pride? Use details from the weaving.",
+      "emotion": "What mood does a pattern of eagles and flowers create? Which details add to it?",
+      "observation": "Take a minute to scan the coverlet. What small details in the eagles or flowers do you notice later?",
+      "analysis": "How does the weaver organize eagles, flowers, and other pattern parts so the coverlet feels balanced?",
+      "line": "Woven lines are made from threads, so curves look stepped. How can you see that on the eagles?",
+      "shape": "How do the shapes of eagles and flowers repeat or change? What gives the coverlet rhythm?",
+      "color": "How do two or three thread colors give the pattern contrast?",
+      "texture": "How would a woven coverlet feel different from a quilt or embroidery?",
+      "space": "How does the pattern fill the coverlet's surface? What would a plain coverlet feel like by comparison?",
+      "light": "Look for strong light and dark contrast. How does it help you recognize the eagles?",
+      "meaning": "The pattern name Agriculture and Manufactures suggests ideas about work and growth. How might eagles and flowers connect?",
+      "culture": "Eagles were popular on American objects in the 1800s. Why might a family choose them for a bed?",
+      "technique": "The weave turns threads into pictures. Why must the weaver plan ahead for the whole pattern?",
+      "personal": "What symbols would you choose to put on something in your home that shows what you value?",
+      "critical": "Do you think the maker or the customer chose the eagles? What evidence would help decide?"
+    },
+    "g68": {
+      "daily": "How do the pattern name and the eagle and flower imagery combine to express a shared idea?",
+      "emotion": "How does the combination of symbol and decoration affect the coverlet's tone?",
+      "observation": "List the motifs you find and where they appear. Which are easy to overlook?",
+      "analysis": "How does repetition organize the surface, and where does variation interrupt it?",
+      "line": "How do stepped woven edges shape the look of eagles and flowers?",
+      "shape": "How are eagles and flowers simplified into woven shapes? What natural details are lost or kept?",
+      "color": "How do contrasting thread colors produce the figure and ground in this design?",
+      "texture": "How do wool and cotton together affect the coverlet's texture and function?",
+      "space": "How is a bed covering's design different from a picture hung on a wall?",
+      "light": "How does contrast in value make the pattern readable from a distance?",
+      "meaning": "Why should we be careful when explaining what eagles meant to a household in 1837?",
+      "culture": "How might the name Agriculture and Manufactures reflect economic and national ideas in the 1830s?",
+      "technique": "How did weavers use named patterns, and what does this say about shared designs and customer choice?",
+      "personal": "What symbols are on things you use every day, and what do they say about your community?",
+      "critical": "How does knowing a pattern name change what you see, and how might it also limit your reading?"
+    },
+    "g910": {
+      "daily": "How does this coverlet fuse national symbolism with decorative floral design?",
+      "emotion": "How do rhythm, contrast, and recognizable symbols shape the emotional register of the coverlet?",
+      "observation": "Describe the visual hierarchy of the pattern. Which motifs dominate, and which devices create that effect?",
+      "analysis": "Analyze how repetition and variation unify the coverlet's field.",
+      "line": "How does the logic of weaving influence the contour of motifs such as eagles?",
+      "shape": "How do positive and negative shapes interlock to produce the eagles and flowers?",
+      "color": "How does the limited palette of wool and cotton threads produce clarity and contrast?",
+      "texture": "How do the fibers combine to meet the needs of a functional bed covering?",
+      "space": "How does an all-over woven design compare with pictorial space in painting?",
+      "light": "How does value contrast, not shading, make the figures legible?",
+      "meaning": "How might the combination of eagles, flowers, and the pattern title have signaled values in 1837, and what limits our certainty?",
+      "culture": "How do named coverlet patterns reflect a commercial weaving culture in the Mid-Atlantic?",
+      "technique": "How does woven structure make pattern and cloth one thing, unlike embroidery or printing?",
+      "personal": "How do symbols in your surroundings shape how you understand your community?",
+      "critical": "How might national imagery on domestic objects both reflect and promote shared ideals?"
+    },
+    "g1112": {
+      "daily": "What claims about taste and values can the coverlet support, and which would require evidence about its owners?",
+      "emotion": "How can emblematic imagery produce a sense of pride or comfort, and how might different viewers respond differently?",
+      "observation": "Describe the coverlet's structure and motifs precisely. Where does your description depend on knowing weaving terms?",
+      "analysis": "Analyze the relationship between pattern name, imagery, and surface organization.",
+      "line": "How does the loom's grid condition the vocabulary of line, and how do weavers work with or against that limit?",
+      "shape": "How do eagles and flowers function as repeatable units, and what is gained or lost by treating them as such?",
+      "color": "How might wool and cotton age differently, and how does that affect what we see now?",
+      "texture": "How does the coverlet's function as a bed covering complicate its framing as pure image?",
+      "space": "How does the all-over field relate to domestic space and to ideas of order in the household?",
+      "light": "How do conservation needs shape the way museums present coverlets?",
+      "meaning": "Evaluate competing readings of the eagle as patriotic emblem, popular motif, or both. What evidence would help?",
+      "culture": "How does a named pattern like Agriculture and Manufactures connect textiles to the economic and civic rhetoric of the 1830s?",
+      "technique": "What does the use of loom attachments or pattern systems suggest about the relationship between craft and early industrialization?",
+      "personal": "How does your own familiarity with national symbols shape your reaction to eagles on a domestic textile?",
+      "critical": "What is lost when we treat patriotic imagery in domestic textiles as simple decoration, and what is lost when we over-read it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, culture, region, and tags (Eagles, Flowers) checked against the museum record; eagles appear as decorative or emblematic motifs and no flagged terms were found. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A woven coverlet dated 1837 from the Mid-Atlantic United States, catalogued under the pattern name Agriculture and Manufactures. The Met's record lists eagles and flowers; check the image for any woven text before teaching.",
+    "vocabulary": [
+      "coverlet",
+      "loom",
+      "motif",
+      "pattern name",
+      "emblem",
+      "wool and cotton"
+    ],
+    "directions": [
+      "Have students design their own household pattern using a symbol that represents their community.",
+      "Discuss why pattern names (like Agriculture and Manufactures) might matter to the people who bought coverlets.",
+      "Compare this woven coverlet with an embroidered one in the archive."
+    ]
+  }
+}

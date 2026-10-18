@@ -1,0 +1,159 @@
+{
+  "id": "met-436896",
+  "day": "06-17",
+  "title": "Portrait of a Woman with a Man at a Casement",
+  "artist": "Fra Filippo Lippi",
+  "date": "ca. 1440",
+  "medium": "Tempera on wood",
+  "movement": "Italian Renaissance",
+  "region": "Italy (Florence)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP159891.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP159891.jpg",
+    "credit": "The Metropolitan Museum of Art, Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woman in profile sits in a room, wearing a richly decorated dress and jewelry. A man appears at an open window beside her, with a landscape visible beyond.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436896",
+    "objectId": "436896",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A tempera painting by the Florentine artist Fra Filippo Lippi, made around 1440. The Met describes it as the earliest surviving double portrait in Italian painting, the first to place sitters in a home, and the first to include a view onto a landscape. It may celebrate an engagement.",
+  "descriptions": {
+    "k": "A woman sits in a room. She wears a fancy dress with shiny jewels. A man looks in through a window. Behind him you can see land and sky. What do you think they are saying?",
+    "g12": "Fra Filippo Lippi painted this in Florence, Italy, about 580 years ago. A woman sits in a room in a fancy dress and jewelry, and we see her from the side. A man leans in at a window. Beyond him is a landscape. Look at the shiny jewels on her. What might this picture celebrate?",
+    "g35": "Fra Filippo Lippi painted this double portrait in Florence around 1440. It is the first Italian portrait of two people to place them in a home and to show a landscape through a window. The woman wears an elegant dress, jewels, and fur, and her sleeve is embroidered with a word meaning faithful. The man looks in from outside. What clues do you see that this might be about a special moment in their lives?",
+    "g68": "Lippi painted this around 1440, and the Met calls it the earliest surviving double portrait in Italian painting, the first to set sitters in a domestic space and the first with a view onto a landscape. The woman's embroidered sleeve spells out the word lealta, meaning faithful, and her jewels, fur, and pearls suggest wealth. The sitters may be a couple who married around 1436, which suggests the picture celebrated an engagement or marriage. How do the window and the woman's profile pose shape how we see each person?",
+    "g910": "Lippi's double portrait of about 1440 combines three firsts, according to the Met: two sitters together, a domestic interior, and a window view onto landscape. The woman, in profile, dominates the composition; her embroidered sleeve, jewels, fur, and pearls signal status, while the word lealta (faithful) suggests a message about loyalty. The man at the window holds the Scolari family arms, and the sitters may be a couple married around 1436. Consider how profile pose, costly dress, and the window frame work together to present a marriage as both love and alliance.",
+    "g1112": "Lippi's panel is notable for its innovations: a double portrait set in a home, with a window opening onto landscape. The woman's profile, jeweled dress, and embroidered word lealta project fidelity and status, while the man at the casement, holding the Scolari arms, occupies an in-between space. The sitters may be Lorenzo di Ranieri Scolari and Angiola di Bernardo Sapiti, who married around 1436, but the identification is not certain. As the Met suggests, the portrait functions as a trophy of an alliance between wealthy families; whether it also expresses personal affection remains a matter of interpretation."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the man at the window is saying to the woman?",
+      "emotion": "Do these two look happy, quiet, or something else? What do you see that makes you say so?",
+      "observation": "Find the woman, the man, and the window. Point to each one.",
+      "analysis": "Who do you look at first, the woman or the man? What makes you look there?",
+      "line": "Trace the side of the woman's face from her forehead to her chin with your finger in the air.",
+      "shape": "What shapes do you see in the window and in the woman's dress?",
+      "color": "Which colors do you see? Which color is your favorite?",
+      "texture": "Which parts look shiny, like jewels? Which look soft, like cloth?",
+      "space": "What is inside the room? What is outside the window?",
+      "light": "Where does light fall on the woman's face? Which parts are darker?",
+      "meaning": "Her sleeve has a word on it. What word would you put on a sleeve?",
+      "culture": "This was painted in Italy a very long time ago. How is the woman's dress like or unlike clothes today?",
+      "technique": "This painting is on wood. What do you think the artist needed to paint on it?",
+      "personal": "What special clothes do you wear for special days? Tell about them.",
+      "critical": "Why might the painter show the man looking in through a window?"
+    },
+    "g12": {
+      "daily": "What do you think is happening between the woman and the man? Point to clues.",
+      "emotion": "What mood does this picture have: quiet, proud, or something else? Which parts help you decide?",
+      "observation": "Describe five details of the woman's dress, hair, and jewelry.",
+      "analysis": "How does the painter make you look at the woman first and the man second?",
+      "line": "Follow the clear edge of the woman's profile. How does it make her look calm and proud?",
+      "shape": "Look at the window frame and the woman's shape. How do they fit together in the picture?",
+      "color": "Which colors in the dress and jewels stand out? How do they show that she is rich?",
+      "texture": "Find fur, pearls, and cloth. How does the artist make each one look different?",
+      "space": "How can you tell the man is outside and the woman is inside?",
+      "light": "Where does the light seem to come from? What does it help you see?",
+      "meaning": "The sleeve has an embroidered word that means faithful. What might that tell us about the picture?",
+      "culture": "People in Florence long ago had portraits painted for special events. What events do we take photos of today?",
+      "technique": "The painter used tempera, which dries quickly. Why might an artist paint in small, careful strokes?",
+      "personal": "What would you want people to know about you in a portrait? What would you wear?",
+      "critical": "Why do you think the woman is shown from the side and not looking at us?"
+    },
+    "g35": {
+      "daily": "What clues in the painting suggest this might celebrate an engagement or marriage?",
+      "emotion": "What mood does the portrait create? Which details, like the woman's pose or the man's position, help?",
+      "observation": "Take one minute of silent looking. What small details of the dress, jewelry, and window do you notice?",
+      "analysis": "How does Lippi use the window, the room, and the landscape to organize the picture?",
+      "line": "How does the sharp outline of the woman's profile compare with the softer lines of her clothing?",
+      "shape": "How does the window frame the man and the landscape? How does that shape guide your eyes?",
+      "color": "How do the colors and shiny details of the dress show wealth and care?",
+      "texture": "How does Lippi paint pearls, fur, and fabric so each looks different?",
+      "space": "The Met says this is the first Italian portrait of two people to show a landscape through a window. How does that view change the space of the room?",
+      "light": "How does light help the woman's face and jewels stand out?",
+      "meaning": "Her sleeve spells a word that means faithful. What ideas about marriage or promises could that suggest?",
+      "culture": "Wealthy families in Renaissance Florence arranged marriages and ordered portraits. What might a portrait say about a family?",
+      "technique": "Tempera is made with egg and dries fast. How might that shape the fine details in the jewelry and embroidery?",
+      "personal": "What object or detail would you add to a portrait of yourself to tell people who you are?",
+      "critical": "How do we know the identity and story behind a portrait that is almost 600 years old? What might still be a guess?"
+    },
+    "g68": {
+      "daily": "How do the profile pose, the embroidered word, and the window work together to tell a story about this couple?",
+      "emotion": "Does the picture show warmth, formality, or both? Use visual evidence to support your view.",
+      "observation": "List the details of dress and jewelry. Which seem designed to show wealth and which to show meaning?",
+      "analysis": "How does the composition give the woman more visual weight than the man? What choices create this?",
+      "line": "How does the crisp contour of the profile emphasize dignity and clarity?",
+      "shape": "How do the window frame and the woman's upright figure create a stable composition?",
+      "color": "How does color help display costly materials such as embroidery, pearls, and fur?",
+      "texture": "How does Lippi separate different textures, such as metal, fabric, and skin?",
+      "space": "How do the interior and the landscape view create two zones within one small picture?",
+      "light": "How does the light create contrast between the woman's face and the darker areas?",
+      "meaning": "The woman's sleeve says lealta, meaning faithful. How might that word shape our reading of the portrait?",
+      "culture": "The Met suggests the portrait may celebrate an engagement. How might marriage between wealthy families involve more than love?",
+      "technique": "What makes tempera on wood different from oil on canvas in the look of fine detail?",
+      "personal": "Think of how people share news about important events today. How is a painting like this similar or different?",
+      "critical": "The woman is the center of the picture, but her story is not recorded. How might a viewer today give her more attention?"
+    },
+    "g910": {
+      "daily": "How do the formal choices in this portrait, such as profile, window, and costume, construct a message about marriage?",
+      "emotion": "How does the portrait convey emotion through convention and restraint rather than expression?",
+      "observation": "Describe the visual hierarchy of the panel. What draws attention first, and which devices produce that effect?",
+      "analysis": "Analyze how the figures, window, and landscape divide the space and balance the composition.",
+      "line": "How does the strong profile line work as a symbol of dignity as well as a descriptive outline?",
+      "shape": "How does the stable geometry of the sitter and window frame contribute to the portrait's formality?",
+      "color": "How does the painting use rich color and shiny detail to signal status and value?",
+      "texture": "How does the rendering of pearls, fur, and embroidery demonstrate the artist's technical skill?",
+      "space": "What changes when a portrait gains a window onto landscape? How does this alter the relation between sitter and world?",
+      "light": "How does even, clear light support the portrait's emphasis on form and ornament?",
+      "meaning": "How might the word lealta and the display of jewels connect ideas of loyalty and wealth?",
+      "culture": "How did marriage portraits in Renaissance Florence serve family alliances as well as personal ties?",
+      "technique": "How does tempera's linear precision suit the portrait's depiction of embroidery and jewelry?",
+      "personal": "How do the ways you present yourself to others, such as dress or posts, resemble or differ from this portrait's strategies?",
+      "critical": "How might focusing on the woman's costly dress and her role as a partner in a match shape our understanding of her agency?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the picture about the portrait's purpose, and what remains uncertain?",
+      "emotion": "How can a portrait convey feeling when its conventions limit expression? Where might emotion reside here?",
+      "observation": "Describe the double portrait's construction as precisely as you can. Which observations about the figures and the window seem to need interpretation already?",
+      "analysis": "Analyze how innovations such as domestic setting, double portrait, and window view reshape the genre.",
+      "line": "How does the use of profile reflect a debt to medals and classical models, and how does Lippi adapt it?",
+      "shape": "How does the interplay of the sitter's upright geometry and the window frame produce stability and tension?",
+      "color": "How does the painting use color and costly detail to turn costume into a language of status?",
+      "texture": "How does the rendering of different materials participate in the portrait's argument about wealth?",
+      "space": "How does the window complicate the boundary between private interior and public world?",
+      "light": "How does the portrait's even illumination serve the descriptive aims of Florentine painting at this date?",
+      "meaning": "Evaluate readings of the work as an engagement portrait, a marriage alliance, or a celebration of fidelity. What supports each?",
+      "culture": "How do Renaissance ideas about marriage, property, and gender shape the possible meanings of the image?",
+      "technique": "What does the use of tempera suggest about the painting's date and the technical choices available to Lippi?",
+      "personal": "How do your own assumptions about love and marriage shape your reading of the portrait? Where might they mislead?",
+      "critical": "How cautious should we be about naming the sitters when the identification remains uncertain? What evidence matters?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Men, Portraits, Profiles, Women) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Florence around 1440. The Met describes it as the earliest surviving double portrait in Italian painting and notes that the sitters may be Lorenzo di Ranieri Scolari and Angiola di Bernardo Sapiti, who married around 1436.",
+    "vocabulary": [
+      "double portrait",
+      "profile",
+      "casement",
+      "tempera",
+      "embroidery",
+      "patron"
+    ],
+    "directions": [
+      "Ask students to draw a quick profile of a partner and discuss what a profile can and cannot show.",
+      "Have students design a sleeve or badge with one word that represents a value, as in the embroidered 'lealta'.",
+      "Discuss how people today mark milestones with images and what those images say about status."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-438738",
+  "day": "05-27",
+  "title": "Haystacks, Morning, Eragny",
+  "artist": "Camille Pissarro",
+  "date": "1899",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20613-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-20613-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Douglas Dillon, 2003",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A countryside view in morning light with rounded haystacks standing in a field. The scene is painted in soft, small dabs of green, gold, and blue under a pale morning sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/438738",
+    "objectId": "438738",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Landscapes, Morning, Haystacks), credit line, and image URLs read from the record"
+  },
+  "context": "Camille Pissarro painted this farm landscape in 1899 at Eragny, the village in northern France where he lived from the 1880s. Born in the Danish West Indies, he was the oldest of the original Impressionist painters and took part in all eight of their group exhibitions.",
+  "descriptions": {
+    "k": "Big round haystacks sit in a field. It is early morning. The light is soft and quiet. Everything looks fresh and new. What do you think a farmer does here today?",
+    "g12": "Camille Pissarro painted haystacks on a quiet morning. The paint is in tiny dabs of green, gold, and blue. The light looks soft and fresh, like a day just starting. What time of day does it feel like to you? What do you notice that tells you?",
+    "g35": "Camille Pissarro lived in the village of Eragny in France and painted the farmland around it. In this 1899 picture, haystacks stand in a field in early light. He used many tiny dabs of color rather than smooth paint. Look at how the colors mix in your eye from far away. Why might the title include the word Morning?",
+    "g68": "Painted in 1899 near his home at Eragny, this scene turns a simple farm subject, haystacks, into a study of morning light. Pissarro used small, layered touches of color so the air itself seems to shimmer. The title tells you the time of day, which was central to the Impressionist interest in changing light. How does the painter make a plain field feel alive?",
+    "g910": "Pissarro, the senior figure among the Impressionists, spent his later years painting the fields and farms near Eragny. Here, haystacks anchor a scene in which color, not outline, builds form and atmosphere. The title emphasizes a specific moment, reflecting a movement that treated light as its true subject. Consider how his choice of a humble rural subject and his patient, layered touch express respect for ordinary working landscapes.",
+    "g1112": "Haystacks, Morning, Eragny belongs to Pissarro's late rural landscapes, in which he combined Impressionist concern with transient light and a long-standing interest in working countryside. The layered, broken handling dissolves form into atmosphere, yet the composition remains carefully balanced. Interpretations vary on how political his rural subjects were, given his anarchist sympathies; the painting itself shows no overt message. How can we weigh biography against what the picture visibly offers?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think a farmer will do in this field today?",
+      "emotion": "Is this morning sleepy, happy, or busy? What makes you think so?",
+      "observation": "Find the haystacks. How many can you count?",
+      "analysis": "What is the biggest thing in the picture? What is the smallest?",
+      "line": "Look for the line where the field meets the sky. Is it flat or wavy?",
+      "shape": "The haystacks are round like little hills. What other round shapes do you see?",
+      "color": "Find the greens, the golds, and the blues. Which do you like best?",
+      "texture": "How would a haystack feel if you touched it? Soft, prickly, or both?",
+      "space": "What is near you in this picture and what is far away?",
+      "light": "Where does the morning light seem the softest? Where might it be brighter?",
+      "meaning": "What do you think is inside a haystack, and why do farmers make them?",
+      "culture": "Farmers made haystacks to save food for animals. What other things do people save for later?",
+      "technique": "The painter used tiny dabs of paint. Can you dab your finger in the air like his brush?",
+      "personal": "What is your favorite time of day, and what does it look like?",
+      "critical": "Why might a painter choose to paint haystacks instead of a castle?"
+    },
+    "g12": {
+      "daily": "What clues tell you it is early morning? Show us where you see them.",
+      "emotion": "How does this quiet farm scene make you feel? Which parts help create that feeling?",
+      "observation": "List four things you see in the field, from the haystacks to the sky.",
+      "analysis": "How does the artist place the haystacks so your eyes move across the picture?",
+      "line": "Find the soft lines where the field ends and the sky begins. How do they feel to look at?",
+      "shape": "How do the round haystacks look different from the flat field around them?",
+      "color": "Which colors seem warm and which seem cool? How do they work together for morning light?",
+      "texture": "Which parts look soft and which look dry and rough? Show how you can tell.",
+      "space": "How can you tell some haystacks are closer to you than others?",
+      "light": "Follow the morning light across the field. Where does it look gentle?",
+      "meaning": "Haystacks show that the harvest has been gathered. What does that tell you about the season?",
+      "culture": "Farm life in France in 1899 was very different from ours. What do you think a farmer's work was like then?",
+      "technique": "Pissarro used many tiny brush marks. Where can you see them best?",
+      "personal": "What is a quiet moment in your morning? How could you paint it?",
+      "critical": "Is this picture a photograph-like copy or an impression? Give a reason for your answer."
+    },
+    "g35": {
+      "daily": "What might this field have looked like a few hours later? What would change in the painting?",
+      "emotion": "How would you describe the mood of this morning scene? Use two details as evidence.",
+      "observation": "Spend one minute looking only at the colors in the shadows of the haystacks. What colors do you find besides gray or black?",
+      "analysis": "How do the haystacks anchor the picture, and what fills the space around them?",
+      "line": "How does the soft line of the horizon affect the sense of calm in the picture?",
+      "shape": "How do the rounded shapes of the haystacks compare with the wide, flat shapes of the field and sky?",
+      "color": "How does Pissarro use tiny dots and dabs of different colors to make the light look warm and cool at once?",
+      "texture": "How do the little brush marks suggest dry grass and hay without drawing each blade?",
+      "space": "What tricks does the painter use to make the field look deep, such as size, color, or overlapping?",
+      "light": "The title says Morning. How does the light in the painting help you believe it is early in the day?",
+      "meaning": "Haystacks mean the work of the harvest is done. What might they say about the passing of seasons?",
+      "culture": "Pissarro lived in a village and painted farmland near it. What does this tell you about what he valued?",
+      "technique": "Impressionists used short strokes of pure color placed side by side. How does that differ from blending paint on a palette?",
+      "personal": "Choose a moment that changes quickly, such as sunrise or sunset. How would you paint it so the time is clear?",
+      "critical": "Why might the same field look different each morning? What does that mean for painters?"
+    },
+    "g68": {
+      "daily": "How does Pissarro make a plain farm field feel both specific and timeless?",
+      "emotion": "What emotional tone do the soft colors and quiet subject create? Which choices matter most?",
+      "observation": "Describe the zones of the picture: field, haystacks, background, sky. How does the handling differ in each?",
+      "analysis": "How does the composition balance the solid haystacks against the open sky and field?",
+      "line": "How does the absence of hard outlines affect the sense of air and light?",
+      "shape": "How do the mound-like haystacks echo or contrast with the shapes of trees and hills, if present?",
+      "color": "How does placing warm and cool colors next to each other create the vibration of morning light?",
+      "texture": "How do layered strokes create a surface that seems to shimmer?",
+      "space": "How does the painter make the eye move from the foreground into the distance without strong lines?",
+      "light": "How does the painter depict light as something that fills the air rather than only strikes objects?",
+      "meaning": "Why might the Impressionists have found farm subjects as compelling as city life?",
+      "culture": "How might farming life around a village like Eragny have shaped the subjects Pissarro chose?",
+      "technique": "Pissarro experimented with short, dotted strokes at times in the 1880s and 1890s. How might that approach appear in this painting?",
+      "personal": "What everyday places near you might be worth painting repeatedly, and why?",
+      "critical": "Is a painting about light and mood less meaningful than one with a clear story? Defend your answer."
+    },
+    "g910": {
+      "daily": "What does Pissarro want you to notice about this ordinary field, and which visual choices tell you?",
+      "emotion": "How does the painting build quiet emotion through light and color rather than narrative?",
+      "observation": "Describe the visual hierarchy of the scene. What do you look at first, and what devices direct you?",
+      "analysis": "Analyze how the arrangement of haystacks, field, and sky creates stability within a surface of broken color.",
+      "line": "How does the painting rely on edges of color and tone rather than outline to define form?",
+      "shape": "How do the repeated, rounded forms of the haystacks create rhythm and unity?",
+      "color": "How does Pissarro's juxtaposition of complementary or contrasting hues produce a vibrating, luminous effect?",
+      "texture": "How do the layered touches of paint function both as description of hay and grass and as a visible surface in themselves?",
+      "space": "How does the painting reconcile a flat pattern of strokes with a convincing sense of recession?",
+      "light": "How does attention to a specific time of day connect this painting to Impressionist ideas about light?",
+      "meaning": "How might Pissarro's choice of laboring countryside reflect his values, and how should we weigh that against what the picture shows?",
+      "culture": "How does a painting of a French farm in 1899 reflect the relation between rural life and Paris-based art markets?",
+      "technique": "How might working on a landscape over time at the same site shape the unity of this painting?",
+      "personal": "How does focusing on a single moment of the day change how you notice a familiar place?",
+      "critical": "Pissarro is often called a mentor to younger painters. What qualities in this work might have made him an influential model?"
+    },
+    "g1112": {
+      "daily": "What is at stake in painting a haystack field as a study of light, and how does this picture make that case?",
+      "emotion": "How does the painting's emotional restraint complicate a reading of it as simply pastoral?",
+      "observation": "Describe the picture's surface and structure, then consider where description already begins to interpret.",
+      "analysis": "How does Pissarro reconcile the tension between momentary effect and carefully organized composition?",
+      "line": "How does the painting's dissolution of contour challenge older ideas of drawing as the foundation of painting?",
+      "shape": "How do the haystacks function as both observed objects and abstract anchors in the composition?",
+      "color": "How does the painting's chromatic logic relate to scientific color theories circulating in the 1880s and 1890s, and how far can that link be pressed?",
+      "texture": "What does the layered, accumulated surface suggest about duration, both of looking and of making?",
+      "space": "How does the painting's modest depth and broken handling negotiate between window-like illusion and flat surface?",
+      "light": "In what ways does the title's emphasis on morning frame the painting as a record of perception rather than a view of a place?",
+      "meaning": "Pissarro held anarchist sympathies. Is it persuasive to read that politics into this landscape, or does it risk over-interpretation?",
+      "culture": "How does the representation of the rural world in late 19th-century France reflect urban viewers' ideas about the countryside?",
+      "technique": "How does Pissarro's late practice illustrate the Impressionist method evolving rather than ending after the 1870s?",
+      "personal": "How do your own associations with rural places influence what you consider authentic or sentimental here?",
+      "critical": "How should art history account for artists like Pissarro whose role as mentor and collaborator is less celebrated than that of a few famous peers?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Landscapes, Morning, Haystacks), classification (Paintings), and medium checked against the museum record. The subject is a rural landscape with no figures indicated by the tags.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted at Eragny in northern France in 1899. Pissarro took part in all eight Impressionist group exhibitions and mentored younger painters.",
+    "vocabulary": [
+      "Impressionism",
+      "haystack",
+      "harvest",
+      "broken color",
+      "atmosphere",
+      "horizon"
+    ],
+    "directions": [
+      "Show the painting from far away on a screen and then close up, and ask students how the dabs of color behave.",
+      "Have students paint the same simple shape twice, with morning and evening colors, and compare.",
+      "Discuss how the season and time of day appear in the title and in the picture."
+    ]
+  }
+}

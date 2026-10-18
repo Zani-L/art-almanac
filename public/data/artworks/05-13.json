@@ -1,0 +1,159 @@
+{
+  "id": "met-471065",
+  "day": "05-13",
+  "title": "Roundel with the Flight into Egypt",
+  "artist": "Artist unknown",
+  "date": "1480–90",
+  "medium": "Colorless glass, vitreous paint and silver stain",
+  "movement": "Late Gothic",
+  "region": "Germany",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi32-24-2.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/cl/original/cdi32-24-2.jpg",
+    "credit": "The Metropolitan Museum of Art, The Cloisters Collection, 1932",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round panel of nearly clear glass painted in dark lines and yellow-gold tones. It shows a woman holding an infant, a man, and a donkey traveling together.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/471065",
+    "objectId": "471065",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (German), classification (Glass-Stained), tags (Infants, Men, Women, Donkeys, Virgin Mary, Jesus, Flight Into Egypt, Joseph), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small round stained-glass panel, or roundel, made in Germany in 1480–90 and now at The Cloisters. It shows the Flight into Egypt, a Gospel story in which Mary, Joseph, and the infant Jesus travel with a donkey. It is made of colorless glass decorated with paint and silver stain.",
+  "descriptions": {
+    "k": "A family travels with a donkey. A baby is carried. A man walks along. This picture is made of glass, and light shines through it. Where do you think they are going?",
+    "g12": "This round glass picture was made in Germany over 500 years ago. It shows Mary, Joseph, and baby Jesus traveling with a donkey. In the story, they went to Egypt to find safety. The glass is almost clear. Dark painted lines and a yellow-gold color make the picture. How does the donkey help tell the story?",
+    "g35": "This roundel, a small round piece of window glass, was made in Germany in 1480–90 and now belongs to The Cloisters. It shows the Flight into Egypt, a story in which Mary, Joseph, and the infant Jesus travel with a donkey to find safety. The glass itself is colorless. The artist drew details with dark paint and used silver stain, which turns glass yellow when fired. Look for the figures and the donkey. How does the artist show that they are traveling?",
+    "g68": "Roundels like this one were small glass panels often set into the windows of private homes, where people could see them up close. This German example from 1480–90 shows the Flight into Egypt. Instead of colored glass, the artist used colorless glass, dark vitreous paint for drawing and shading, and silver stain, which turns yellow when fired, to add warm tones. The story is told in a compact circle. How do the poses of the figures and the donkey suggest a journey, and why might a household choose this subject?",
+    "g910": "This roundel, made in Germany in 1480–90, belongs to a tradition of small, detailed glass panels made for close viewing rather than for large church windows. The artist worked in colorless glass, using vitreous paint for line and shading and silver stain for yellow and gold. The Flight into Egypt is compressed into a circular field, so the figures, the donkey, and the sense of travel must be conveyed with economy. How do the line quality and the limited palette of glass, black, and yellow shape the picture's mood and clarity?",
+    "g1112": "A German roundel of 1480–90, this panel exemplifies the late medieval taste for small devotional images that could be viewed at close range, often in domestic settings. Its technique, vitreous paint and silver stain on colorless glass, allows fine drawing and soft yellow tones that differ from the saturated colors of church windows. The Flight into Egypt offered a familiar theme of family travel and divine protection. Scholars may read such images as devotion, narrative, or social display. How does the choice of medium shape the viewer's experience, and how do we weigh these possible functions?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the donkey, the baby, and the man? Point to each one.",
+      "emotion": "Does the family look tired, calm, or hopeful? What shows it?",
+      "observation": "How many people can you find? Which one is carrying something special?",
+      "analysis": "Which part of the picture do your eyes look at first? Why?",
+      "line": "Trace the dark lines that make the donkey's back and legs. Are they curvy or straight?",
+      "shape": "The glass is a circle. What shapes do you see inside the circle?",
+      "color": "This glass is mostly clear with dark and yellow-gold parts. Where do you see the yellow-gold?",
+      "texture": "Glass is smooth and cool. Which parts of the picture look soft, like cloth or fur?",
+      "space": "Who is closest to you in this picture? Who or what is farther away?",
+      "light": "Light shines through this glass like a window. What do you think the picture looks like in a sunny room?",
+      "meaning": "The family is going on a long trip. What do you think they might need to bring?",
+      "culture": "People long ago put little glass pictures in their windows. What do you see out of your own window?",
+      "technique": "The artist painted dark lines on glass and then baked it. Why do you think the artist had to be careful?",
+      "personal": "Tell about a trip you took with your family. Who came along?",
+      "critical": "The artist did not use bright colors here. How does that change how the picture feels?"
+    },
+    "g12": {
+      "daily": "How can you tell this family is on a journey? Point to the details that show it.",
+      "emotion": "What feeling does this quiet travel scene give you? Which part helps you feel that way?",
+      "observation": "Describe the people and the donkey. What is each one doing?",
+      "analysis": "How does the circle shape of the glass help the artist place the people and animal?",
+      "line": "Look at the dark painted lines. Which lines show clothing, and which show the donkey?",
+      "shape": "Find the shape of the baby, the donkey's body, and the round edge. How do they fit together?",
+      "color": "The glass has dark paint and yellow-gold stain. How do just a few colors make the picture clear?",
+      "texture": "Glass is hard, but the picture shows soft things like cloth. How does the artist suggest softness?",
+      "space": "Where is the front of the picture, and where is the back? What helps you tell?",
+      "light": "Light shines through this panel. Which parts would glow the brightest?",
+      "meaning": "In the story, the family goes to Egypt to be safe. How does the picture show care and protection?",
+      "culture": "This glass was made in Germany over 500 years ago. Why might a family want a picture like this in a window?",
+      "technique": "Silver stain turns yellow in the oven. What would the glass look like without it?",
+      "personal": "Who takes care of you when you travel? How do they do it?",
+      "critical": "The artist used the same small space to tell a whole story. What is easy to see and what is hard to see?"
+    },
+    "g35": {
+      "daily": "What details in the roundel tell you that Mary, Joseph, and the child are traveling? Give two examples.",
+      "emotion": "What is the mood of the journey, calm, anxious, or hopeful? Which details support your answer?",
+      "observation": "Look at the figures and the donkey slowly. What small details do you notice in their clothes and posture?",
+      "analysis": "How does the artist arrange the people and the donkey to fill the circle without crowding it?",
+      "line": "How do thick and thin painted lines show folds of clothing and the shape of the donkey?",
+      "shape": "How does the circular frame affect the shapes of the figures and the path they follow?",
+      "color": "The glass is colorless, with black paint and yellow stain. How does this limited set of colors affect the picture?",
+      "texture": "A glass painter has no brushstrokes of thick color. How might the artist hint at texture in the donkey or cloth?",
+      "space": "How does the artist show that the figures move across the picture instead of standing still?",
+      "light": "Because light passes through glass, the picture changes during the day. How might this panel look different in morning and evening?",
+      "meaning": "The Flight into Egypt is a story of finding safety. What parts of the picture show protection?",
+      "culture": "Roundels were set in homes as well as chapels. Why might a family choose a picture of a family journey?",
+      "technique": "Painted details are fired onto the glass so they last. Why would the artist have to plan every line before firing?",
+      "personal": "Think about a time you moved or traveled to a new place. How is that like or unlike this story?",
+      "critical": "We know the title of the roundel and its date, but not the artist. What can the object itself tell us?"
+    },
+    "g68": {
+      "daily": "How does the artist suggest movement and care within the limits of a small round panel?",
+      "emotion": "How does the restrained palette of glass, black, and yellow shape the emotional tone of the scene?",
+      "observation": "List the elements you can identify, such as figures, donkey, and background. Which receive the most detail?",
+      "analysis": "How does the circular format influence the composition of the figures and the donkey?",
+      "line": "How does the artist use line alone to describe fabric, bodies, and animal form?",
+      "shape": "How do the figures' overlapping shapes create a single group within the roundel?",
+      "color": "How does silver stain add warmth to colorless glass? Where might it be most effective here?",
+      "texture": "How does the painter suggest soft materials on a hard transparent surface?",
+      "space": "How does the artist create a sense of place without a detailed landscape?",
+      "light": "How does transparency change the way line and tone are seen compared with paint on opaque panel?",
+      "meaning": "Why might a story of safe travel be meaningful in a household setting? What other meanings could viewers take from it?",
+      "culture": "How might the late medieval practice of private devotion explain small glass panels like this one?",
+      "technique": "How do paint and silver stain each require firing, and how might they combine for effect?",
+      "personal": "How does the picture's focus on family travel connect to your experience of caring and being cared for?",
+      "critical": "How does knowing it is a small window panel change the way you judge its detail and skill?"
+    },
+    "g910": {
+      "daily": "How does the roundel balance narrative clarity with the intimate scale of a small glass panel?",
+      "emotion": "How does restraint in color and line produce a tone of quiet devotion?",
+      "observation": "Describe the visual hierarchy. Which figure draws the eye first, and how does the composition achieve that?",
+      "analysis": "Analyze how the circular field organizes figures and animal into a unified moving group.",
+      "line": "How does linear drawing in vitreous paint define form, and where does it become expressive?",
+      "shape": "How do curves of the donkey's body and the figures' garments echo the circular frame?",
+      "color": "How does silver stain function as both color and light, and why is that significant in colorless glass?",
+      "texture": "How might fine paint modulation create the effect of volume or cloth on glass?",
+      "space": "How does the artist suggest a journey through gesture and placement rather than a detailed landscape?",
+      "light": "How does transmitted light make the panel different from a painting that reflects light?",
+      "meaning": "How could the Flight into Egypt be read as devotional narrative, a model of family protection, or both?",
+      "culture": "How do roundels illustrate the movement of religious imagery from churches into private homes?",
+      "technique": "What does the combination of paint, stain, and firing suggest about the specialized knowledge of glass painters?",
+      "personal": "How do stories of travel and shelter resonate with your own sense of home?",
+      "critical": "How do we separate what the roundel shows from what we know about the Gospel story?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the roundel's visual evidence about its narrative focus, and what depends on knowledge of the story?",
+      "emotion": "How does the panel's scale and restraint invite intimate viewing, and how might that differ from monumental church glass?",
+      "observation": "Describe the roundel's composition with precision. Which elements are secure from the record and which are inferred?",
+      "analysis": "Analyze how a circular, transparent format shapes both composition and reception.",
+      "line": "How does the painter's line, fixed by firing, negotiate between description and expression?",
+      "shape": "How does the figure group's relation to the circle reflect broader conventions in late medieval design?",
+      "color": "How does the absence of colored glass redefine what counts as color in stained glass?",
+      "texture": "What does the illusion of fabric and animal form reveal about the painter's skills with a limited vocabulary?",
+      "space": "How does the roundel manage narrative time and place with minimal setting?",
+      "light": "How does the interplay of daylight and glass shape the roundel's changing appearance, and how is that lost in museum display?",
+      "meaning": "Evaluate readings of the roundel as personal devotion, narrative illustration, or social display. What evidence would support each?",
+      "culture": "How does a German roundel reflect wider networks of glass painting and patronage in northern Europe?",
+      "technique": "How might silver stain, introduced for such work in the 14th century, change the aesthetic of glass painting?",
+      "personal": "How does your own experience of home or displacement affect how you interpret a story of travel?",
+      "critical": "What does the context of a museum like The Cloisters change about how we interpret a panel made for a different setting?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Glass-Stained), medium and tags (Infants, Men, Women, Donkeys, Virgin Mary, Jesus, Flight Into Egypt, Joseph) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small German stained-glass roundel from 1480–90 at The Cloisters. It shows a familiar Gospel story told through colorless glass, painted lines, and silver stain. The record gives no size, so check the museum page if scale matters to your lesson.",
+    "vocabulary": [
+      "roundel",
+      "stained glass",
+      "vitreous paint",
+      "silver stain",
+      "colorless glass",
+      "devotional image"
+    ],
+    "directions": [
+      "Have students draw a travel scene inside a circle using only black marker, then add yellow for warmth.",
+      "Hold a transparency or tracing paper to a window to discuss how transmitted light differs from reflected light.",
+      "Discuss how stories of travel and shelter appear in different cultures and times."
+    ]
+  }
+}

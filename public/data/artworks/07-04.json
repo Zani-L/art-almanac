@@ -1,0 +1,158 @@
+{
+  "id": "cma-1975.263",
+  "day": "07-04",
+  "title": "The Large Tree",
+  "artist": "Paul Gauguin",
+  "date": "1891",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "Tahiti",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1975.263/1975.263_web.jpg",
+    "credit": "Cleveland Museum of Art, Gift of Barbara Ginn Griesinger (1975.263)",
+    "license": "Public domain. Released under the Cleveland Museum of Art Open Access program",
+    "licenseUrl": "https://clevelandart.org/open-access"
+  },
+  "altText": "A large tree with dark green leaves shades a row of four women. Nearby, a second tree and a pink thatched roof can be seen. The scene is painted in rich, bold colors in oil on canvas.",
+  "source": {
+    "museum": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1975.263",
+    "objectId": "1975.263",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record for 1975.263 (title, date, medium, dimensions, credit line, museum description and Did You Know text)"
+  },
+  "context": "An oil painting on canvas by Paul Gauguin, made in 1891 and now in the Cleveland Museum of Art. The museum's description says Gauguin left his family and his career as a stockbroker for Tahiti in 1891 and that this canvas is among the first he painted there.",
+  "descriptions": {
+    "k": "Look at the big tree with dark green leaves. Four women are in a row under its shade. There is a pink roof too. Point to the tree, the women and the pink roof. Which spot looks coolest?",
+    "g12": "Paul Gauguin painted four women in a row beneath a large tree with dark green leaves. Nearby is a roof made of thatch, dried plants, and it is painted pink. The picture shows cool shade and hot sun. Look closely at the colors. Where would you rather sit?",
+    "g35": "Paul Gauguin painted The Large Tree in 1891 with oil on canvas. Four women are lined up like a frieze, a band of figures in a row, beneath the dark green leaves of one tree, while a second tree adds a pattern to a pink thatched roof. Notice how the painter suggests cool shade and hot sun. Which colors feel most surprising to you?",
+    "g68": "Gauguin made The Large Tree in 1891, soon after leaving France for Tahiti. The museum describes rich colors and stylized figures meant to feel symbolic and mysterious, with four women arranged in a frieze-like row beneath the tree. Gauguin was a European who moved to Tahiti, and historians and Tahitians have questioned how Europeans pictured Polynesia. How do color and arrangement shape the way you see these women? Use details as evidence.",
+    "g910": "Painted in 1891, The Large Tree is among the first canvases Gauguin made in Tahiti after leaving his family and his career as a stockbroker in France. The museum describes its rich colors and stylized figures as symbolic and mysterious. It is also a European visitor's view, and historians and Tahitians critique how Europeans depicted Polynesia. How do color and composition build this scene, and whose perspective does it reflect?",
+    "g1112": "Gauguin's The Large Tree (1891) is among the first canvases he painted after moving from France to Tahiti. The museum label quotes his remark \"I obtain symphonies,\" about color harmonies that represent nothing real in the absolute sense, and it calls the figures and colors symbolic and mysterious. The painting also belongs to a European tradition of picturing Polynesia that historians and Tahitians critique. How do the frieze-like figures and rich color balance symbolism, observation and projection? Weigh the evidence."
+  },
+  "questions": {
+    "k": {
+      "daily": "Point to the big tree. What color are its leaves?",
+      "emotion": "Imagine sitting in the shade under this tree. How would it feel, cool or warm?",
+      "observation": "Count the women in the painting. Point to each one.",
+      "analysis": "Find the women standing in a row. Point to the tree that covers them.",
+      "line": "Trace the top edge of the pink roof with your finger. What shape does it make?",
+      "shape": "Trace around the big shape of the leaves. What shape does it make?",
+      "color": "Find the pink roof. What other colors are near it?",
+      "texture": "The roof is made of thatch, which is dried plants. How might it feel if you touched it?",
+      "space": "Point to the large tree. How do you know it is large?",
+      "light": "Where would the sun feel hot? Where is the cool shade? Point to both.",
+      "meaning": "What do you think the women are doing under the tree?",
+      "culture": "This painting shows a warm island called Tahiti. What do you wear when the weather is hot?",
+      "technique": "The painter used oil paint on canvas. Look for brush marks. Where can you see them?",
+      "personal": "Where is your favorite shady spot? Tell a partner about it.",
+      "critical": "If you could give this painting a new name, what would you call it?"
+    },
+    "g12": {
+      "daily": "Why do you think Gauguin named this painting The Large Tree when four women are in it too?",
+      "emotion": "What feeling do you get from the cool shade under the dark green leaves?",
+      "observation": "List five things you can find in the painting, starting with the tree, the women and the pink roof.",
+      "analysis": "The four women are arranged in a row. How does that arrangement make your eyes move from one to the next?",
+      "line": "Follow the line of the women with your eyes. Where does your eye travel?",
+      "shape": "How is the big shape of the tree's leaves different from the shapes of the women?",
+      "color": "Why does the pink roof catch your eye? What colors sit near it?",
+      "texture": "How would the thatched roof feel if you touched it, and how is that different from the leaves?",
+      "space": "How does the painter show that the women are sheltered by the tree?",
+      "light": "Where does the painting feel shady, and where does it feel sunny? What tells you?",
+      "meaning": "What story could the four women be part of? Use the picture to explain your idea.",
+      "culture": "Gauguin traveled from France to Tahiti, a warm island far away. What might look new to a visitor there?",
+      "technique": "How can you tell the paint was put on with a brush?",
+      "personal": "Where near you do people go to get out of the hot sun? How is it like or unlike this place?",
+      "critical": "What do you think Gauguin cared about showing most: the people, the tree or the colors? Explain."
+    },
+    "g35": {
+      "daily": "Which details of the tree, the women and the roof make you want to keep looking, and why?",
+      "emotion": "How does the painting make the cool shade feel different from the hot sun outside it? Point to details that support your idea.",
+      "observation": "Describe the arrangement of the four women and the two trees, using at least three details you can see.",
+      "analysis": "Why might Gauguin have lined the four women up in a row, like a decoration running along a wall?",
+      "line": "How do the outlines of the tree, the women and the roof lead your eyes across the painting?",
+      "shape": "How does the huge shape of the tree's leaves compare with the shapes of the women beneath it?",
+      "color": "The museum describes the colors as rich. Which colors stand out most to you, and what mood do they create?",
+      "texture": "How does Gauguin's brushwork help you imagine the difference between cool shade and hot sun?",
+      "space": "How does the large tree seem to shelter the women, and what do you notice about its size?",
+      "light": "Which colors help show cool shade, and which help show hot sun?",
+      "meaning": "Gauguin wanted the colors and figures to feel mysterious. What mood or story do you think he hoped to suggest?",
+      "culture": "Gauguin left France for Tahiti in 1891. What clues in the painting tell you it shows a warm place far from Europe?",
+      "technique": "How could oil paint help a painter make rich, strong colors like these?",
+      "personal": "If you could stand inside this painting, where would you stand, and what would you hear and feel?",
+      "critical": "Gauguin was a visitor from France. How might a person who lived in Tahiti picture this same scene differently?"
+    },
+    "g68": {
+      "daily": "What choices about color, pattern and arrangement make this scene feel more like a dream than a snapshot?",
+      "emotion": "How do the dark green leaves and the brighter, sunlit areas create a mood of shelter, calm or mystery?",
+      "observation": "Compare how Gauguin paints the tree, the roof and the women. What similarities and differences do you notice in his brushwork and color?",
+      "analysis": "How does the frieze-like row of four women organize the composition, and what role does the second tree's pattern play?",
+      "line": "The museum calls the figures stylized. How do their outlines and simplified forms change how real or symbolic they feel?",
+      "shape": "How does the large mass of leaves balance the repeated forms of the figures?",
+      "color": "Gauguin spoke of creating color harmonies he called symphonies. How do the colors here work together, and do they look natural or invented?",
+      "texture": "How do Gauguin's brushstrokes differ between the shaded and sunlit parts, and what sensations do they suggest?",
+      "space": "How does the tree frame the women, and does the scene feel deep, flat or both?",
+      "light": "How do cool shade and hot sun contrast in the painting, and which colors carry that contrast?",
+      "meaning": "The museum says Gauguin wanted the colors and figures to evoke private thoughts and emotions. What could you read into this scene, and what evidence supports it?",
+      "culture": "Gauguin was a European who moved to Tahiti. How might that have shaped what he chose to show and how he showed it?",
+      "technique": "Gauguin used rich color to express mood. What does oil paint on canvas let a painter do with color?",
+      "personal": "Think of a place that feels like shelter to you. How would you paint it so others could feel that?",
+      "critical": "Historians and Tahitians have criticized how European artists pictured Polynesia. What might they point to in a painting like this, and what might still be admired?"
+    },
+    "g910": {
+      "daily": "How do the arrangement of figures and the treatment of color make this image feel both specific and symbolic?",
+      "emotion": "How does Gauguin's rich palette shape the emotional register of the scene, and how might a different palette change it?",
+      "observation": "Examine the transition between the shaded area beneath the leaves and the sunlit areas. How is it handled in paint?",
+      "analysis": "How does the frieze-like arrangement of four women create rhythm, and where does the composition resist that regularity?",
+      "line": "How do the stylized outlines of the figures and the pattern on the roof contribute to a decorative rather than documentary effect?",
+      "shape": "How do simplified, stylized forms shift emphasis from anatomical accuracy toward overall design?",
+      "color": "Gauguin described harmonies of color that depict nothing real in the absolute sense. Where in this painting does color seem to serve harmony more than description?",
+      "texture": "How does the brushwork distinguish cool shade from hot climate, and what does it add to the painting's atmosphere?",
+      "space": "How does the canopy create an enclosed, sheltering space within the picture, and how does that shape the viewer's position?",
+      "light": "How is the contrast between light and shade conveyed through color and brushwork, and with what effect on mood?",
+      "meaning": "Gauguin intended symbolic, mysterious effects. Which aspects of the image invite a symbolic reading, and which resist a single interpretation?",
+      "culture": "Gauguin left his family and his career as a stockbroker in France for Tahiti. How should knowing that shape, or not shape, your reading of the painting?",
+      "technique": "How do the qualities of oil paint help Gauguin pursue rich color and decorative pattern?",
+      "personal": "What assumptions do you bring to a painting of a place you have never been, and how can you test them against the evidence?",
+      "critical": "Historians and Tahitians critique European depictions of Polynesia. Which features of this painting could support such a critique, and which complicate it?"
+    },
+    "g1112": {
+      "daily": "How does The Large Tree negotiate between decorative design, symbolism and the observation of a specific climate?",
+      "emotion": "To what extent does the painting's emotional pitch arise from color relations rather than from narrative content?",
+      "observation": "What does close looking at the pink roof and the second tree reveal about the role of pattern in unifying the picture?",
+      "analysis": "How might the frieze-like sequence of figures depart from naturalistic conventions, and what does Gauguin gain by adopting it?",
+      "line": "How do outline, repetition and pattern work together to flatten or to structure space in this composition?",
+      "shape": "How do stylized figures and a dominant canopy establish a hierarchy between nature and human presence?",
+      "color": "Gauguin spoke of obtaining symphonies. How can color function as both composition and meaning here, and what is lost if it is read only descriptively?",
+      "texture": "How does the paint handling register the contrast between shade and heat, and what might that suggest about Gauguin's priorities as a painter?",
+      "space": "How might the sheltering canopy and frieze arrangement position the viewer relative to the women?",
+      "light": "How does the painting translate contrasting sensations of heat and shade into pictorial terms?",
+      "meaning": "The museum frames the work as symbolic and mysterious. How do you weigh that framing against the possibility that the painting also projects a European's expectations onto a place?",
+      "culture": "How does Gauguin's position as a European newly arrived in French-ruled Tahiti intersect with the painting's reception today, and why does that matter?",
+      "technique": "How does Gauguin's use of oil on canvas to build rich, non-naturalistic color connect to Post-Impressionism's turn from optical description toward expression?",
+      "personal": "How do your own cultural position and expectations shape what you see in a picture of people from a place that is not your own?",
+      "critical": "How can a painting be both admired for formal invention and critiqued for the way it pictures others? Build an argument from specific features of this work."
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Metadata screened from the Cleveland Museum of Art Open Access record: title, date (1891), medium (oil on canvas), subject (four women beneath a large tree in Tahiti) and the museum's description. No violent or graphic content is indicated. The Tahiti context is handled factually in the older bands. The image file has not been viewed yet, and a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1891 by Paul Gauguin, now in the Cleveland Museum of Art. According to the museum, it is among the first canvases Gauguin painted in Tahiti after leaving his family and career as a stockbroker in France. Treat the Tahiti context carefully: Gauguin was a European who moved there, and historians and Tahitians critique how Europeans depicted Polynesia.",
+    "vocabulary": [
+      "frieze",
+      "thatch",
+      "stylized",
+      "symbolic",
+      "Post-Impressionism",
+      "oil on canvas"
+    ],
+    "directions": [
+      "With younger students, stay with looking: count the figures, name the colors, and find where the painting feels shady and where it feels sunny.",
+      "Ask students to paint or draw a shady place they know using bold, invented colors, and explain why they chose them.",
+      "With older students, discuss whose point of view a painting shows. Ask what a European visitor might include or leave out about a place, and why historians and Tahitians critique such images."
+    ]
+  }
+}

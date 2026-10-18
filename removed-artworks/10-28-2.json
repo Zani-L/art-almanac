@@ -1,0 +1,155 @@
+{
+  "id": "artic-26083",
+  "day": "10-28",
+  "title": "The Cloisters",
+  "artist": "Andrew Wyeth",
+  "date": "1949",
+  "medium": "Tempera on board",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A quiet, nearly empty room with brown walls lit by soft light, painted in careful detail. A small bird sculpture made of chalk sits in the room.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/26083",
+    "objectId": "26083",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Andrew Wyeth, American, 1917-2009), date, medium, place of origin, credit line, curatorial description (an empty room at the Ephrata Cloister in Pennsylvania, a former German Seventh-day Baptist colony; made during a 1949 visit with his aunt Elizabeth, who appeared in early studies but was removed as he simplified the space to focus on light on the brown walls; a chalk bird sculpture evokes the site's history) and public-domain flag (false) read from the record. The record has no subject terms. No image linked because the work is in copyright."
+  },
+  "context": "Painted in 1949 by the American artist Andrew Wyeth. The museum says it shows an empty room at the Ephrata Cloister in Pennsylvania, a former German Seventh-day Baptist colony. Wyeth simplified the space to focus on light on the brown walls, and the chalk bird sculpture is a type made by colony residents.",
+  "descriptions": {
+    "k": "This is a quiet, nearly empty room. The walls are brown, and soft light falls on them. A little bird sculpture sits there. Who do you think used this room long ago?",
+    "g12": "Andrew Wyeth painted an empty room in an old building in Pennsylvania. Soft light shines on the brown walls. A small bird sculpture made of chalk sits in the room. Nobody is there, but you can feel people from the past. What do you think happened here?",
+    "g35": "Andrew Wyeth painted The Cloisters in 1949. It shows an empty room at the Ephrata Cloister in Pennsylvania, where a religious community once lived. At first Wyeth's aunt Elizabeth was in early studies, but he removed her to focus on light on the brown walls. A chalk bird sculpture is in the room. How does an empty room tell a story?",
+    "g68": "Wyeth's The Cloisters (1949) shows an empty room at the Ephrata Cloister, a former German Seventh-day Baptist colony in Pennsylvania. The museum says his aunt Elizabeth appeared in early studies but he removed her to focus on light on the brown walls. The chalk bird sculpture reflects objects made by colony residents. How can absence, light, and one small object suggest a history?",
+    "g910": "In The Cloisters (1949), Wyeth reduced a room at the Ephrata Cloister to light, brown walls, and a chalk bird sculpture. The museum notes that he removed his aunt Elizabeth from the composition as he simplified, so her earlier presence lingers as absence. Consider how restraint, tempera's precision, and the lone object work together to evoke both a community's past and a mood of quiet.",
+    "g1112": "Wyeth's tempera The Cloisters distills a room at the Ephrata Cloister into brown walls, raking light, and a chalk bird, a form the museum links to the colony's residents. By removing his aunt Elizabeth during the process, he turned presence into absence. How do the painting's austerity and exacting technique balance documentary precision with elegy, and how should we weigh knowledge of the figure's removal against what the finished image shows?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think used this room long ago?",
+      "emotion": "Does the room feel peaceful, lonely, or spooky? What do you see that tells you?",
+      "observation": "Find the bird. Where is it?",
+      "analysis": "What do you notice first? Why?",
+      "line": "Find a straight line in the walls. Where does it go?",
+      "shape": "Look for squares and rectangles. Where are they?",
+      "color": "What colors are in the room? Which is the most?",
+      "texture": "Do the walls look smooth or rough? How can you tell?",
+      "space": "How big or small does the room feel?",
+      "light": "Where does the light fall?",
+      "meaning": "Why might someone make a bird from chalk?",
+      "culture": "Long ago people lived in places like this. Where do you live now?",
+      "technique": "How would you paint walls so they look real?",
+      "personal": "If you walked into the room, what would you hear?",
+      "critical": "Why might an artist paint an empty room?"
+    },
+    "g12": {
+      "daily": "What story could this empty room tell? Use clues in the picture.",
+      "emotion": "What feeling does the quiet, empty room give you?",
+      "observation": "List what you see: walls, light, bird, and more. What did you notice last?",
+      "analysis": "How does the light lead your eyes around the room?",
+      "line": "Which lines of the walls and floor feel straight and steady?",
+      "shape": "What shapes make up the room? Which one is the most important?",
+      "color": "How do the brown colors make the room feel?",
+      "texture": "How does Wyeth show old plaster or wood?",
+      "space": "How does he show the room has space inside?",
+      "light": "Where is light the brightest and where does it fade?",
+      "meaning": "Wyeth removed his aunt from the painting. How does an empty room feel different from a room with a person?",
+      "culture": "The room was in a place where a religious community lived. How might that change how you see it?",
+      "technique": "Wyeth used tempera, a paint made with egg. Why might it help show tiny details?",
+      "personal": "When have you been in a quiet empty room? How did it feel?",
+      "critical": "Can an empty room be a good subject for a painting? Explain."
+    },
+    "g35": {
+      "daily": "What clues show the room is old and used, even though nobody is there?",
+      "emotion": "What mood does the painting have, and which details build it?",
+      "observation": "Look slowly at the walls and the bird. What small detail did you notice late?",
+      "analysis": "How does Wyeth arrange the room so your eyes go to the bird?",
+      "line": "How do the lines of walls and corners keep the picture calm?",
+      "shape": "How do the flat wall shapes compare with the small bird?",
+      "color": "How do browns and soft colors create the atmosphere?",
+      "texture": "How does tempera paint let Wyeth show fine details on wall surfaces?",
+      "space": "How does the empty room feel large or small?",
+      "light": "How does light across the walls become the main subject?",
+      "meaning": "The museum says Wyeth took out his aunt. What changes when a person is removed?",
+      "culture": "What might a chalk bird tell us about the people who lived there?",
+      "technique": "Why might an artist simplify a scene by taking things out?",
+      "personal": "What empty place do you know that has a story?",
+      "critical": "Why do you think quiet paintings can be powerful?"
+    },
+    "g68": {
+      "daily": "How does Wyeth make light on walls into the real subject of the painting?",
+      "emotion": "How does the muted palette shape the mood?",
+      "observation": "What do you know from the museum, and what must you infer from the painting?",
+      "analysis": "How does the composition use emptiness to direct attention?",
+      "line": "How do the strong vertical and horizontal lines create stillness?",
+      "shape": "How does the small bird contrast with the large wall shapes?",
+      "color": "How do earth tones create warmth or austerity?",
+      "texture": "How does the precision of tempera support a feeling of stillness?",
+      "space": "How is space shaped when almost nothing is in the room?",
+      "light": "How does light show time of day or passing time?",
+      "meaning": "The museum says the bird sculpture evokes the colony's history. How can one object suggest a community?",
+      "culture": "Why might Wyeth remove his aunt from the picture?",
+      "technique": "How does knowing this room was in a religious colony affect your reading, and how would it differ without that knowledge?",
+      "personal": "What small object could stand for a place or time you know?",
+      "critical": "How does absence work as a subject?"
+    },
+    "g910": {
+      "daily": "How does Wyeth convey presence through absence?",
+      "emotion": "How does the restrained palette establish emotional tone?",
+      "observation": "Analyze how the composition uses simplification to focus on light and a single object.",
+      "analysis": "How do architectural lines produce order and quiet?",
+      "line": "How does the small bird work against the large planes of wall?",
+      "shape": "How do earth tones evoke age and memory?",
+      "color": "How does tempera's matte, precise finish affect the mood?",
+      "texture": "How does the painting use empty space to suggest history?",
+      "space": "How does light function as the principal subject?",
+      "light": "How does the chalk bird act as symbol or evidence of a community?",
+      "meaning": "How does the museum's account of removing the aunt change your reading of the finished work?",
+      "culture": "How does the setting at the Ephrata Cloister inform the painting's mood?",
+      "technique": "How does Wyeth's realism differ from photographic accuracy?",
+      "personal": "How does your response change if you imagine a figure restored?",
+      "critical": "What does the painting suggest about how artists edit what they see?"
+    },
+    "g1112": {
+      "daily": "How does the painting transform a documented site into an elegy?",
+      "emotion": "How does the austere palette sustain a mood between serenity and melancholy?",
+      "observation": "Distinguish the evidence in the finished painting from the process the museum documents. How does that process change interpretation?",
+      "analysis": "How does the composition make emptiness the central presence?",
+      "line": "How do rectilinear structures contribute to the painting's stillness?",
+      "shape": "How does the bird function in scale and symbol against the architecture?",
+      "color": "How do the muted browns relate to the history of the site?",
+      "texture": "How does tempera's exactness contribute to a heightened, almost hallucinatory realism?",
+      "space": "How does the space balance specificity and abstraction?",
+      "light": "How does light become both description and metaphor?",
+      "meaning": "How might the colony's religious history inflect the reading of the room, without determining it?",
+      "culture": "How does the removal of Elizabeth from the composition raise questions about authorship and memory?",
+      "technique": "How does Wyeth's American Realism relate to modernist abstraction in mid-century art?",
+      "personal": "How do your own associations with empty rooms shape your response?",
+      "critical": "What is the value of reading a painting through its making?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium and curatorial description checked against the Art Institute of Chicago record; an empty room with a bird sculpture and no concerning terms. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1949 tempera painting by Andrew Wyeth in the Art Institute of Chicago showing an empty room at the Ephrata Cloister in Pennsylvania. The museum notes Wyeth removed his aunt from early studies to focus on light and walls. The work is in copyright, so no image is linked yet.",
+    "vocabulary": [
+      "tempera",
+      "American Realism",
+      "composition",
+      "absence",
+      "light",
+      "simplification"
+    ],
+    "directions": [
+      "Have students sketch a familiar room, then redraw it with the person removed and discuss the feeling change.",
+      "Ask students to list what an object, like the chalk bird, suggests about a place's history.",
+      "Discuss how an artist's edits shape a final picture."
+    ]
+  }
+}

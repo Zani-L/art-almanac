@@ -1,0 +1,158 @@
+{
+  "id": "artic-157115",
+  "day": "09-02",
+  "title": "Chief Blanket (Third Phase)",
+  "artist": "Navajo (Diné) weaver",
+  "date": "c. 1860/65",
+  "medium": "Wool, single interlocking tapestry weave; twined edges; corner tassels",
+  "movement": "Navajo (Diné) textile art",
+  "region": "Navajo Nation (Arizona, New Mexico, and Utah), United States",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/eaf75c38-a467-4408-5276-2c2e21bc8ca9/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Robert Allerton Endowment",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A large hand-woven wool blanket with a bold pattern of diamonds, including a large stepped diamond at the center, arranged on a field of bands, with tassels at the corners.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/157115",
+    "objectId": "157115",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 2001.151, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A Navajo (Diné) wool blanket woven around 1860 to 1865 in single interlocking tapestry weave. The Art Institute notes that it features diamond motifs with a central stepped diamond, was worn by prominent men as a sign of status, and reflects Navajo beliefs about weaving and balance with the world.",
+  "descriptions": {
+    "k": "This blanket was woven by hand from wool. It has big diamond shapes in the middle. Can you find the big diamond in the center? Draw a diamond in the air with your finger!",
+    "g12": "A Navajo weaver made this blanket by hand from wool. It has bold diamonds and bands, with a big stepped diamond in the middle. Important people wore blankets like this. What do you notice about the pattern?",
+    "g35": "This blanket was woven by a Navajo (Diné) weaver around 1860 to 1865. A large stepped diamond sits in the center, with more diamonds and bands around it. Prominent men wore blankets like this to show importance. How can a pattern of simple shapes feel so strong and balanced?",
+    "g68": "Woven around 1860 to 1865, this Diné chief blanket uses diamond motifs with a central stepped diamond. Such blankets were worn by prominent men as signs of status, and weaving itself reflects Navajo beliefs about balance with the world. The wool is woven in a single interlocking tapestry weave. How do repeated shapes and a strong center create harmony?",
+    "g910": "This chief blanket (c. 1860/65) is a Diné wool weaving with diamond motifs and a central stepped diamond, worn by prominent men as an emblem of status. Weaving is tied to Navajo ideas about balance. The interlocking tapestry technique builds each diamond row by row. How do geometry, symmetry, and craft combine to communicate authority and balance?",
+    "g1112": "Woven c. 1860 to 1865, this Diné chief blanket of the third phase organizes diamond motifs around a central stepped diamond, a design worn by prominent men as an emblem of status and linked in Navajo thought to weaving and balance. The single interlocking tapestry weave constructs diagonals step by step on the loom's grid. How does the blanket integrate technique, symbolism, and social function, and what does it suggest about the relationship between pattern and power?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the biggest diamond in the blanket?",
+      "emotion": "Does this blanket feel strong or gentle? What do you see that tells you?",
+      "observation": "Find a band or stripe. How many can you count?",
+      "analysis": "Why do you think the big diamond is in the middle?",
+      "line": "Trace the edge of a diamond with your finger. How many corners does it have?",
+      "shape": "What shapes do you see over and over?",
+      "color": "Which colors do you see? Which is your favorite?",
+      "texture": "Does the blanket look soft or scratchy? Tell us how you know.",
+      "space": "If you wore this blanket, would it be heavy or light?",
+      "light": "Which parts look lighter and which look darker?",
+      "meaning": "Why might someone wear a special blanket?",
+      "culture": "What blankets do you have at home? How are they different?",
+      "technique": "The weaver used wool and a loom. How is weaving like drawing with thread?",
+      "personal": "If you wove a blanket, what shape would you put in the center?",
+      "critical": "What would you change about the pattern?"
+    },
+    "g12": {
+      "daily": "Where is the biggest diamond? Point to it.",
+      "emotion": "Does this blanket feel proud, quiet, or loud? Show us what you see that tells you.",
+      "observation": "Describe the stripes or bands next to the diamond.",
+      "analysis": "Why do you think the weaver put the biggest diamond in the middle?",
+      "line": "Follow the zigzag edge of a diamond. What happens at each corner?",
+      "shape": "Which shapes repeat across the blanket?",
+      "color": "Which two colors stand out most? Where do they meet?",
+      "texture": "How can you tell the blanket was woven from wool thread?",
+      "space": "If you wore this blanket on your shoulders, what would others see?",
+      "light": "Which parts look lighter, and which look darker?",
+      "meaning": "Why do you think this blanket was important to the person who wore it?",
+      "culture": "Who in your life wears special clothes for important days?",
+      "technique": "The weaver made this one row at a time. Why do you think that took patience?",
+      "personal": "If you made a blanket, what shape would you weave in the center?",
+      "critical": "What would you change about the pattern?"
+    },
+    "g35": {
+      "daily": "How does the pattern make you feel when you look at it?",
+      "emotion": "What mood do the strong shapes and bands give you?",
+      "observation": "Describe the pattern from the center to the edges.",
+      "analysis": "Why do you think the center diamond is stepped, like stairs?",
+      "line": "How do the lines of the diamonds and bands move your eyes across the blanket?",
+      "shape": "How do the diamonds fit together with the bands?",
+      "color": "Which colors repeat in the blanket? Where do you see them?",
+      "texture": "How can you tell the blanket was woven by hand?",
+      "space": "Does the pattern look flat or deep? Explain.",
+      "light": "How does the contrast of light and dark parts make the shapes stand out?",
+      "meaning": "The museum says important men wore blankets like this. What does clothing say about a person?",
+      "culture": "This blanket was woven by a Diné weaver around 160 years ago. What can it tell you about their skill?",
+      "technique": "Why might it take a long time to weave a big blanket?",
+      "personal": "Is weaving art, craft, or both? Explain your thinking.",
+      "critical": "What do you think the weaver wanted people to feel when they saw this blanket?"
+    },
+    "g68": {
+      "daily": "What draws your eye first to this blanket, and why?",
+      "emotion": "How does the arrangement of bands and diamonds create a feeling of order and strength?",
+      "observation": "Describe how the design is arranged across the width of the blanket.",
+      "analysis": "How does the central stepped diamond anchor the whole design?",
+      "line": "How do the stripes and diagonal edges create movement and stability at the same time?",
+      "shape": "How do the repeated diamonds create rhythm?",
+      "color": "How do contrasting colors help separate the diamonds from the bands?",
+      "texture": "What does the tight weave tell you about the weaver's skill?",
+      "space": "How does the pattern use symmetry to create balance?",
+      "light": "How might light and dark contrast make the blanket stand out when worn?",
+      "meaning": "What does it mean for a blanket to show status, and how might that have worked?",
+      "culture": "How does weaving connect to Navajo ideas of balance with the world?",
+      "technique": "How might this blanket be used differently from a painting on a wall?",
+      "personal": "What do the twined edges and tassels add to the blanket's finish?",
+      "critical": "How would you explain the importance of this blanket to someone who has never seen one?"
+    },
+    "g910": {
+      "daily": "How does the central stepped diamond organize the symmetrical composition?",
+      "emotion": "How do the strong geometry and symmetrical layout produce a mood of dignity and balance?",
+      "observation": "Examine how the design moves from the center to the edges. What visual hierarchy results?",
+      "analysis": "Analyze how the alternating bands and diamonds generate rhythm across the field.",
+      "line": "How do diagonal edges built on a loom's grid create stepped forms rather than smooth curves?",
+      "shape": "How do repeated diamonds create both unity and variety within the blanket?",
+      "color": "How does color contrast define the figures and the ground in the design?",
+      "texture": "What does the density of the interlocking tapestry weave suggest about the labor and expertise involved?",
+      "space": "How does the all-over design resist a single viewpoint, and how might wearing the blanket change its visibility?",
+      "light": "How might the blanket's design have been legible from a distance when worn?",
+      "meaning": "How might a garment that signals status carry social meaning beyond its visual appearance?",
+      "culture": "How does the tie between weaving and balance in Navajo thought broaden your understanding of the object?",
+      "technique": "What does the classification as a Third Phase chief blanket suggest about stylistic development over time?",
+      "personal": "How should museums balance display of beauty with explanation of cultural meaning?",
+      "critical": "To what extent can pattern alone communicate authority?"
+    },
+    "g1112": {
+      "daily": "How does the blanket's hierarchical organization around a central stepped diamond translate symmetry into an image of order and authority?",
+      "emotion": "In what ways does geometric abstraction here carry cultural meaning rather than mere decoration?",
+      "observation": "What interpretive questions arise from an object whose design is inseparable from its function as a garment of status?",
+      "analysis": "Evaluate how rhythmic alternation of bands and diamonds produces both stability and animation.",
+      "line": "How does the logic of the loom, building diagonals as stepped forms, shape the visual vocabulary of the design?",
+      "shape": "How does the interplay of repetition and variation sustain interest across a large field?",
+      "color": "How does chromatic contrast articulate the figure-ground relationships within the pattern?",
+      "texture": "What does the compactness of the interlocking weave suggest about the relationship between technique and prestige?",
+      "space": "How does a design intended for a moving body complicate the assumption that textiles are viewed as flat images?",
+      "light": "How might the visibility of the bold geometry at a distance support the blanket's role in public display?",
+      "meaning": "How does the connection between weaving and balance in Navajo belief complicate Western categories of art and craft?",
+      "culture": "How does the Third Phase designation situate this blanket within a historical sequence of Diné textile styles?",
+      "technique": "What responsibilities do museums have when displaying objects whose meanings extend beyond aesthetics?",
+      "personal": "How does knowing that design can carry identity and authority make you reconsider what you wear or display?",
+      "critical": "To what extent do the formal qualities of this blanket invite comparison with abstract painting, and what might such comparison obscure?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (textile, weaving, blanket) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Navajo (Diné) wool blanket woven around 1860 to 1865 in single interlocking tapestry weave. The Art Institute notes that it features diamond motifs with a central stepped diamond, was worn by prominent men as a sign of status, and reflects Navajo beliefs about weaving and balance with the world.",
+    "vocabulary": [
+      "chief blanket",
+      "tapestry weave",
+      "diamond motif",
+      "symmetry",
+      "Diné (Navajo)",
+      "status"
+    ],
+    "directions": [
+      "Have students fold a sheet of grid paper and design a symmetrical diamond pattern, coloring in stepped shapes.",
+      "Ask students to trace the pattern from the center outward and describe what stays the same and what changes.",
+      "Discuss how clothing and textiles can show identity and respect, using examples from students' own cultures with care and consent."
+    ]
+  }
+}

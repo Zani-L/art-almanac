@@ -1,0 +1,159 @@
+{
+  "id": "met-1432",
+  "day": "11-04",
+  "title": "Card table",
+  "artist": "Artist unknown (American)",
+  "date": "ca. 1800",
+  "medium": "Mahogany, satinwood, holly with white pine, sycamore, birch",
+  "movement": "Federal period",
+  "region": "United States, Mid-Atlantic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ADA226.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ADA226.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Flora E. Whiting, 1971",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small wooden table on slender legs, made of polished mahogany with lighter woods. It is a card table, with a top meant for playing games.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/1432",
+    "objectId": "1432",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium (list of woods), region, dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An American card table dated about 1800 in the Met record, from the Mid-Atlantic region. It combines mahogany, satinwood, and holly with white pine, sycamore, and birch. Card tables were made for games such as cards and often have tops that fold when not in use. This one measures about 35 inches (88.9 cm) wide.",
+  "descriptions": {
+    "k": "This small table was made for playing card games. It stands on thin legs. It is made of shiny wood in different colors. Would you play a game here? What game would you choose?",
+    "g12": "This is a card table, a small table made for playing games. It was built in America about two hundred years ago. The wood is smooth, and some woods are darker and some lighter. It has thin legs. Where would you put the cards?",
+    "g35": "This card table was made in the Mid-Atlantic United States around 1800. People used card tables for games, and many fold up to save space when not used. The Met lists mahogany, satinwood, and holly among its woods, which gives a mix of dark and light tones. Why do you think a maker would use several kinds of wood in one small table?",
+    "g68": "Around 1800, card playing was a popular social pastime, and a card table was both furniture and a stage for entertaining. This Mid-Atlantic example uses mahogany, satinwood, and holly, woods chosen for color and polish, with plainer woods such as white pine and birch for the hidden structure. Its dimensions, about 35 inches wide and 17 inches deep, suggest a top that folds. How does a maker balance beauty, function, and cost in a piece like this?",
+    "g910": "This card table of about 1800 reflects the Federal taste for light, refined furniture with contrasts of wood. The record lists mahogany, satinwood, and holly for visible surfaces and white pine, sycamore, and birch for supporting parts, showing how makers matched materials to purpose. The thin proportions give it elegance, while the folding function suggests changing use in a household. Consider how it shaped the choreography of leisure, hosting, and display.",
+    "g1112": "Card tables of the Federal era offer a window into sociability and display, since games were a central part of polite entertaining. This Mid-Atlantic table of about 1800, with imported and local woods, shows how makers organized luxury and economy within a single object: showy mahogany, satinwood, and holly for surfaces, and plainer woods for structure. Ask how such furniture communicates taste and class, and how its anonymous maker, global timber trade, and shifting use complicate the story."
+  },
+  "questions": {
+    "k": {
+      "daily": "What game would you play on this table? Tell us who would sit at it.",
+      "emotion": "Does this table look fancy, friendly, or serious? Why?",
+      "observation": "Find the top, the legs, and the skirt under the top. Point to each.",
+      "analysis": "Why do you think the legs are thin? What do they hold up?",
+      "line": "Trace a long thin line from the top of a leg down to the floor.",
+      "shape": "What shape does the top of the table have? Look at the edges.",
+      "color": "Which parts of the table are dark and which are light? Can you point to both?",
+      "texture": "The wood looks smooth and polished. How would it feel under your hand?",
+      "space": "How many people could sit around this table? Show with your fingers.",
+      "light": "Where does the polished wood shine? Where does it look darker?",
+      "meaning": "Why might a family have a special table just for playing games?",
+      "culture": "People in America played cards on tables like this long ago. What games does your family play?",
+      "technique": "A woodworker joined many pieces of wood to make this table. What do you think was hardest?",
+      "personal": "What game or activity do you like to do at a table with friends?",
+      "critical": "Would you rather play at a plain table or a fancy one? Why?"
+    },
+    "g12": {
+      "daily": "What do you notice first about this small card table?",
+      "emotion": "What feeling do you get from a table made for playing games?",
+      "observation": "Describe the table. Name its legs, top, and the woods you can see.",
+      "analysis": "How do the thin legs and the flat top work together to make a steady table?",
+      "line": "Find the straight, slim lines of the legs. How do they make the table look?",
+      "shape": "Look at the top and the legs. What shapes do they make together?",
+      "color": "Which woods look dark and which look light? How do they work together?",
+      "texture": "Polished wood is smooth and shiny. Which parts look the smoothest?",
+      "space": "This table is small. How would it fit in a room with chairs around it?",
+      "light": "Where does the light make the table shine?",
+      "meaning": "Why might people choose to decorate a table used for games?",
+      "culture": "In 1800, people played cards for fun at home. What do people do for fun at home now?",
+      "technique": "A maker used woods of different colors in one table. Why might that be hard to do?",
+      "personal": "What table at home do you like best? What do you do there?",
+      "critical": "Can a game table be art? Give a reason."
+    },
+    "g35": {
+      "daily": "What details of this card table show that it was made for guests and special times?",
+      "emotion": "What mood does the polished wood and slim shape give the table?",
+      "observation": "Look at the table for one minute. What details of the legs and top did you not notice at first?",
+      "analysis": "How do the top, skirt, and legs fit together to make a balanced design?",
+      "line": "How do the straight, slender legs affect the way the table looks?",
+      "shape": "How do the shape of the top and the shape of the legs relate to each other?",
+      "color": "How do dark mahogany and lighter woods create contrast?",
+      "texture": "How might a polished table surface feel different from a rough wooden board?",
+      "space": "How does the small size of the table suit a room where people gather?",
+      "light": "How does the polished wood reflect light, and how does that affect the look of the table?",
+      "meaning": "Why might a family choose beautiful woods for a table that people will use for games?",
+      "culture": "How did card playing fit into social life in the early United States?",
+      "technique": "The Met lists more than one kind of wood. Why might a maker use costly wood for the top and plain wood inside?",
+      "personal": "What game or hobby do you enjoy that needs a special table or space?",
+      "critical": "Is a table that folds up more useful than a fixed one? Think about how a home might use it."
+    },
+    "g68": {
+      "daily": "How does a game table show both the fun and the fashion of the early republic?",
+      "emotion": "How do slender proportions and polished wood shape the table's character?",
+      "observation": "Scan from top to legs. Which details show the maker's skill in choosing and joining woods?",
+      "analysis": "How do proportion and light and dark woods work together in the design?",
+      "line": "How do slender vertical lines of the legs contrast with the horizontal edge of the top?",
+      "shape": "How does the table's shape suit its function as a place for games and as a piece of furniture?",
+      "color": "How does contrast among mahogany, satinwood, and holly draw attention to certain parts?",
+      "texture": "How does the polished surface signal care and luxury?",
+      "space": "How might a folding top change how the table fits into a room?",
+      "light": "How might light from a window or candles have made the woods glow?",
+      "meaning": "What does it suggest about social life that families bought furniture just for card games?",
+      "culture": "How do imported woods such as mahogany link this table to global trade?",
+      "technique": "Why might makers use cheaper woods for hidden parts and costly ones for visible parts?",
+      "personal": "What objects in your home are meant to bring people together?",
+      "critical": "Does an unsigned table deserve the same attention as a famous painting? Explain."
+    },
+    "g910": {
+      "daily": "How does the card table turn leisure into a refined social ritual?",
+      "emotion": "How do slender proportions and polish give the table a polite, composed character?",
+      "observation": "Describe the hierarchy of top, skirt, and legs. What draws the eye first?",
+      "analysis": "Analyze how the table's structure reflects the lightness and balance typical of Federal furniture.",
+      "line": "How does linear economy in the legs and edges create elegance?",
+      "shape": "How do the table's geometry and proportions work together as a stable but light form?",
+      "color": "How do the contrasts of mahogany, satinwood, and holly emphasize craft and cost?",
+      "texture": "How do surface finish and wood grain shape the table's impression of refinement?",
+      "space": "How does a folding or compact table support flexible use of a room?",
+      "light": "How might reflective finishes have contributed to the sense of luxury in a candlelit interior?",
+      "meaning": "How can a game table reveal values around leisure, manners, and display in the early republic?",
+      "culture": "How does the use of imported timbers connect this table to wider trade networks?",
+      "technique": "How does matching different woods to visible and structural roles show a maker's knowledge of materials?",
+      "personal": "How does the idea of dedicating furniture to play compare with how you use spaces?",
+      "critical": "How do class and access shape which objects survive in museum collections?"
+    },
+    "g1112": {
+      "daily": "What does a card table reveal about how sociability and consumption were staged in the Federal era?",
+      "emotion": "How might the table's polite surface hide or reveal the tensions of games, stakes, and status?",
+      "observation": "Describe the table's materials and form precisely. Where does description depend on assumptions about use?",
+      "analysis": "Analyze how structure, proportion, and surface contrast form a coherent design.",
+      "line": "How do slender lines participate in neoclassical ideas of order and restraint?",
+      "shape": "How might the table's geometry have accommodated both display and the practicalities of play?",
+      "color": "How might contrast among woods signal skill and cost, and how has age changed those colors?",
+      "texture": "How does the finish embody ideas of care, labor, and luxury?",
+      "space": "How might a table that can change shape reflect shifting uses of domestic rooms?",
+      "light": "How does the table's finish respond to light, and how might that have affected its original setting?",
+      "meaning": "How do furniture types tied to leisure reflect broader debates about luxury and virtue in the early republic?",
+      "culture": "How does the table's mix of imported and local woods illustrate global trade and regional craft?",
+      "technique": "What can structural woods tell historians about workshops, regions, and the division of labor?",
+      "personal": "How do your own habits of play and hospitality shape how you imagine this table in use?",
+      "critical": "What can an unsigned table teach historians, and what questions must remain open without a maker's name?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, culture, medium, department and dimensions read from the Met record; the record lists no subject tags. A wooden card table, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Card tables were popular social furniture in the early United States, and many have tops that fold when not in use. The Met record dates this table to about 1800 and lists several woods.",
+    "vocabulary": [
+      "card table",
+      "mahogany",
+      "satinwood",
+      "Federal period",
+      "veneer",
+      "proportion"
+    ],
+    "directions": [
+      "Have students sketch a table for a favorite game and describe how its design fits the activity.",
+      "Ask students to list woods they know and discuss why makers use different woods in one object.",
+      "Discuss how furniture shapes the way people behave and talk when they gather."
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "artic-34181",
+  "day": "06-01",
+  "title": "La durée poignardée (Time Transfixed)",
+  "artist": "René Magritte",
+  "date": "1938",
+  "medium": "Oil on canvas",
+  "movement": "Surrealism",
+  "region": "Belgium",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A tall, quiet painting of a bare, paneled room with a fireplace. A clock sits on the mantel, a mirror hangs above, and a black steam locomotive comes out of the fireplace, with smoke rising into the chimney.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/34181",
+    "objectId": "34181",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Belgian, 1898-1967), date, place of origin (Belgium), medium, dimensions (147 x 98.7 cm), credit line (Joseph Winterbotham Collection), style (Surrealism), subject terms (interiors, trains, clocks, mirrors, illusion, mantles, fireplaces), short description, description, thumbnail alt text and public-domain flag (false; copyright notice present) read from the record. No image linked because the work is in copyright."
+  },
+  "context": "Painted in 1938 by the Belgian Surrealist René Magritte. The Art Institute notes that he sought poetic secrets through unexpected juxtapositions, here pairing a train with a fireplace, linked by smoke so viewers connect the locomotive's exhaust with a chimney's. The museum also points to the incongruous scale that gives the everyday room a sense of mystery.",
+  "descriptions": {
+    "k": "Look! A train is coming out of a fireplace! There is a clock on top. There is a mirror above it. Smoke goes up the chimney. This is not real. It is a painter's imagination. What would you say to the train?",
+    "g12": "This painting shows a quiet room with a fireplace. A small black train comes out of it! A clock sits on the mantel and smoke rises up the chimney. Trains do not live in fireplaces, so the painter surprises us. What questions would you ask the painter?",
+    "g35": "René Magritte painted this in 1938. At first it looks like a calm, tidy room with a clock and a mirror. Then you notice a steam train coming out of the fireplace! The smoke goes up the chimney like it belongs there. Magritte liked to put unrelated things together to make us wonder. Why might he choose a train and a fireplace? What would you change to make it even stranger?",
+    "g68": "Magritte, a Belgian Surrealist, painted a locomotive emerging from a fireplace in 1938. The Art Institute says he looked for poetic secrets by joining unrelated things, linking train and fireplace through smoke. The room is realistic and orderly, yet the scale is impossible, which makes the ordinary feel mysterious. Why does a calm, precise painting style make the surprise stronger? What might the clock add?",
+    "g910": "In Time Transfixed (La durée poignée), Magritte renders an impossible event, a locomotive from a hearth, with deadpan realism. The museum explains the pairing as a poetic juxtaposition linked by smoke, with incongruous scale enhancing mystery. The clock, mirror, and bare room invite speculation about time and illusion, but Magritte often resisted fixed explanations. How do the realistic painting and the impossible scene interact, and what readings seem supported?",
+    "g1112": "Magritte's 1938 canvas presents the impossible with the clarity of a catalog illustration: a locomotive emerges from a fireplace, linked to the chimney by smoke. The Art Institute describes this juxtaposition as a search for poetic secrets and notes the unsettling scale. The French title suggests time stabbed or transfixed, though Magritte famously resisted symbolic decoding. How should we weigh the title, the clock and mirror, and the absence of explanation when interpreting a Surrealist image?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the clock, the mirror, and the train. What else is in the room?",
+      "emotion": "Is this room funny, strange, or quiet? What do you see that makes you say so?",
+      "observation": "Point to the black train and the white wall. What do you notice about them?",
+      "analysis": "Which is larger in the picture, the fireplace or the train? What does that make you think?",
+      "line": "Find a straight line on the mantel and a curved line on the train. Where are they?",
+      "shape": "Look at the shapes of the fireplace and the train. How are they alike or different?",
+      "color": "The room is mostly gray and white. Why does the black train stand out?",
+      "texture": "Imagine touching the train, the wall, and the mirror. How would each one feel?",
+      "space": "The train is coming toward you. How can you tell?",
+      "light": "Where does the light fall in the room? Point to a bright spot.",
+      "meaning": "What do you think the train is doing in the fireplace? Tell a short story.",
+      "culture": "Trains used to be powered by steam. What do you know about how trains work?",
+      "technique": "The painter made the train look real. How could you paint something real that could never happen?",
+      "personal": "If something surprising came out of your fireplace, what would you want it to be?",
+      "critical": "How would you change the picture to make it even more surprising?"
+    },
+    "g12": {
+      "daily": "Look at the train and the fireplace. What is surprising about them being together?",
+      "emotion": "What feeling does this quiet room with a train give you? Point to what causes it.",
+      "observation": "List everything you see on the mantel and in the room.",
+      "analysis": "How does the painter place the train, clock, and mirror so your eyes know where to look?",
+      "line": "Find the straight lines of the room and the curved line of the train. How do they work together?",
+      "shape": "How are the shapes of the train and the fireplace similar, such as the chimney and the smokestack?",
+      "color": "The room is plain and the train is black. How does that help the train stand out?",
+      "texture": "The painting looks very smooth. How does that make the strange train look real?",
+      "space": "How does the train seem to come toward us from the fireplace?",
+      "light": "Where does the light touch the wall, the mantel, and the train?",
+      "meaning": "Why do you think the painter put a clock above the train?",
+      "culture": "A painter in Belgium made this in 1938. What do you think trains meant to people then?",
+      "technique": "How did the painter make something impossible look so real?",
+      "personal": "What would you do if you saw a train come out of your wall?",
+      "critical": "Why might an artist want to show something that could never happen?"
+    },
+    "g35": {
+      "daily": "What do you notice first in this painting, and what choices by Magritte lead your eyes there?",
+      "emotion": "What mood does the plain room and the surprising train create? Use details to explain.",
+      "observation": "Look slowly at the mantel and the mirror. What small details do you notice besides the train?",
+      "analysis": "How does Magritte arrange the clock, mirror, and train in the middle of the painting?",
+      "line": "How do the straight lines of the room contrast with the curved shape of the train?",
+      "shape": "How does the smoke connect the train to the chimney? What shapes does it make?",
+      "color": "The room is made of quiet grays and whites. How does the dark train change the mood?",
+      "texture": "How does the very smooth painting surface make the train look real?",
+      "space": "How does the train seem to come out of the fireplace into the room?",
+      "light": "How does light and shadow make the train and the room look three-dimensional?",
+      "meaning": "What could the train and clock together suggest about time? Offer more than one idea.",
+      "culture": "Magritte was part of the Surrealists, artists who painted dreams and surprises. How does this painting fit that idea?",
+      "technique": "Magritte painted very carefully and smoothly. Why might that help make the surprise stronger?",
+      "personal": "Think of something ordinary in your home. What strange thing could you pair with it?",
+      "critical": "The museum says the smoke links the train and the chimney. Why is that connection important?"
+    },
+    "g68": {
+      "daily": "How does the combination of a precise, realistic style and an impossible scene shape your reaction?",
+      "emotion": "How does the quiet, empty room influence the feeling of mystery around the train?",
+      "observation": "Separate what is visible from what is impossible. What exactly looks real, and what do you know cannot be?",
+      "analysis": "How does Magritte organize clock, mirror, mantel, and train along a strong central axis?",
+      "line": "How do the diagonal motion of the locomotive and the straight edges of the room create contrast?",
+      "shape": "How does the shape of the locomotive echo or contrast with the fireplace opening and the chimney?",
+      "color": "How does a limited palette of grays, black, and white add to the sense of calm and strangeness?",
+      "texture": "How does the smooth, almost invisible brushwork contribute to the illusion?",
+      "space": "How does the incongruous scale of the train in the fireplace create tension in the painting's space?",
+      "light": "How does even, soft light make the impossible scene feel like an ordinary moment?",
+      "meaning": "The museum says Magritte hoped to find poetic secrets through juxtaposition. What secrets or ideas do you see?",
+      "culture": "How does this work fit with Surrealist interests in dreams and the unexpected in the 1930s?",
+      "technique": "Why might Magritte choose a plain, matter-of-fact painting style for a fantastic idea?",
+      "personal": "How does your own experience of dreams or imagination connect to this painting?",
+      "critical": "How would you respond to someone who says the painting must symbolize one thing?"
+    },
+    "g910": {
+      "daily": "How do Magritte's choices of realism and impossible juxtaposition shape your first interpretation of the painting?",
+      "emotion": "How does the contrast between the orderly room and the intruding train generate unease or humor?",
+      "observation": "Analyze the visual hierarchy: how do clock, mirror, and locomotive compete or cooperate for attention?",
+      "analysis": "How does the strong vertical axis, from mirror through clock to the train's smoke, structure the composition?",
+      "line": "How do the straight architectural lines and the curving locomotive and smoke clarify depth and form?",
+      "shape": "How does the mirror, as a rectangle of reflection, relate formally and conceptually to the other shapes?",
+      "color": "How does the restrained palette support the sense of calm that makes the intrusion more striking?",
+      "texture": "In what ways does the invisible brushwork of the painting serve the illusion?",
+      "space": "How does the scale of the train relative to the fireplace create a deliberate distortion of expectation?",
+      "light": "How does the even illumination of the room help present the impossible as ordinary?",
+      "meaning": "Evaluate readings related to time, memory, and illusion suggested by the title and objects, and note where interpretation becomes speculative.",
+      "culture": "How does the painting connect to Surrealist ideas and to the European context of the late 1930s?",
+      "technique": "How does a deadpan realist technique support Magritte's interest in the gap between images and reality?",
+      "personal": "How does your response to the painting change if you focus on the title rather than the image?",
+      "critical": "To what extent should viewers resist assigning a single symbolic meaning to a Surrealist image?"
+    },
+    "g1112": {
+      "daily": "What argument about perception, time, or illusion can you build from the painting's formal and iconographic evidence?",
+      "emotion": "How does the tension between a serene setting and an intrusive locomotive complicate any single emotional label?",
+      "observation": "Describe the painting precisely, then identify which statements reflect your interpretations of its title or symbols.",
+      "analysis": "Analyze how the central axis and symmetrical arrangement create a stable framework for an unstable event.",
+      "line": "How does the diagonal drive of the locomotive disrupt and enliven the rectilinear room?",
+      "shape": "Consider the formal rhyme between the chimney, the smokestack, and the mirror's frame, and what it suggests about pictorial logic.",
+      "color": "How does the near-monochrome palette heighten the effect of the mismatch between ordinary room and impossible event?",
+      "texture": "How does the polished, impersonal surface align with Magritte's interest in painting as a vehicle of ideas?",
+      "space": "How does the manipulation of scale and location undermine our trust in pictorial space?",
+      "light": "Discuss how the room's neutral light supports a reading of the scene as simultaneously plausible and impossible.",
+      "meaning": "Evaluate competing interpretations of the title and of the clock and train, and weigh Magritte's resistance to symbolic decoding.",
+      "culture": "How does the work position itself within Surrealism's investigation of the unconscious, and where does it diverge by its cool clarity?",
+      "technique": "How does the museum's description of juxtaposition as poetic discovery change the way you think about intention?",
+      "personal": "How do your own expectations about meaning in art shape your response to a work that withholds it?",
+      "critical": "What kinds of evidence would justify, or undermine, a claim that this painting is about time?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (interiors, trains, clocks, mirrors, illusion, mantles, fireplaces), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image shows a steam locomotive emerging from a fireplace as a surreal juxtaposition; there is no figure, violence, or injury. The work is in copyright, so no image is linked. The French title includes the word poignardée (stabbed), which students may ask about, and a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1938 by the Belgian Surrealist René Magritte. The French title La durée poignée is rendered Time Transfixed in the museum's title; the word poignée means stabbed, so teachers may want to explain the English title's sense of time pinned in place. The work is in copyright, so no image is linked yet.",
+    "vocabulary": [
+      "Surrealism",
+      "juxtaposition",
+      "illusion",
+      "incongruous",
+      "mantel",
+      "scale"
+    ],
+    "directions": [
+      "Have students pair two unrelated objects in a drawing and explain what link, like the smoke here, makes the pairing feel connected.",
+      "Ask students to compare the painting's title in French and English and discuss how a title can shape what we look for.",
+      "Discuss why Magritte might paint an impossible event in a very realistic style."
+    ]
+  }
+}

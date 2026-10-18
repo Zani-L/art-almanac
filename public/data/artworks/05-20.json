@@ -1,0 +1,157 @@
+{
+  "id": "met-368845",
+  "day": "05-20",
+  "title": "Three Peonies",
+  "artist": "Anne Vallayer-Coster",
+  "date": "ca. 1810",
+  "medium": "Pen and gray ink, brush and gray wash, over black chalk",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-29049-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP-29049-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Renée Sacks Bequest, 2005",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A drawing of three peony flowers with ruffled petals, made in shades of gray with fine pen lines and soft washes. The blooms are shown with stems and leaves on a pale sheet.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/368845",
+    "objectId": "368845",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Flowers, Peonies), classification, and image URLs read from the record"
+  },
+  "context": "A drawing of peonies by Anne Vallayer-Coster, a French painter of still lifes who lived from 1744 to 1818. The Met's record gives the date as about 1810 and the medium as pen and gray ink and gray wash over black chalk, so the sheet is made in tones of gray.",
+  "descriptions": {
+    "k": "Three big flowers called peonies. Their petals look ruffled and soft. There are no bright colors, only grays. Can you find the darkest spot and the lightest spot? Which flower do you like best?",
+    "g12": "Anne Vallayer-Coster drew these three peony flowers. She did not use bright colors. She used gray ink, gray paint, and chalk. Look at the ruffled petals and the dark and light spots. How can gray show a soft flower?",
+    "g35": "Anne Vallayer-Coster was a French artist famous for painting still lifes, which are pictures of objects such as flowers and food. Here she drew three peonies with pen, gray ink, and gray wash over chalk. There is no color, yet the petals look soft and layered. How do dark and light grays help you see each petal?",
+    "g68": "Vallayer-Coster made this drawing around 1810. It uses pen, brush, and gray washes over a chalk drawing, so every shape is built from tones of one color. Notice how fine pen lines define petal edges while washes make the blooms look rounded. How does working in grays change the way we see flowers, and why might an artist who usually painted in color choose this approach?",
+    "g910": "In Three Peonies, Vallayer-Coster builds volume with pen lines and gray washes over underdrawing in black chalk. With color removed, attention shifts to contour, contrast, and the folds of the petals. The composition places the blooms close together, so shapes overlap and the eye moves between them. Consider how a monochrome drawing differs from a painted still life, and what her long career as a still-life specialist suggests about how she observed objects.",
+    "g1112": "This sheet, dated about 1810, shows Vallayer-Coster translating a favorite still-life subject into tone. Pen and brush work over chalk underdrawing creates a range from crisp line to soft modeling, without the aid of hue. Such drawings can be read as studies, finished works, or both, and the record does not settle that question. Consider how a woman artist who gained recognition within the French academic system approached a subject often considered modest, and how monochrome draws attention to structure and rhythm."
+  },
+  "questions": {
+    "k": {
+      "daily": "Pretend you can smell these peonies. What would they smell like?",
+      "emotion": "Do these flowers feel soft or strong? Show it with your hands.",
+      "observation": "How many flowers can you find? Point to a stem or a leaf too.",
+      "analysis": "Which flower do your eyes go to first? What made you look there?",
+      "line": "Find a thin pen line on a petal. Can you trace it with your finger in the air?",
+      "shape": "Are the flowers round, square, or pointy? Which shapes do the petals make?",
+      "color": "This picture uses only grays. Can you find the darkest gray and the lightest gray?",
+      "texture": "How do the petals look? Do they look smooth like silk or crinkly like paper?",
+      "space": "Which flower looks closest to you? Which looks tucked behind?",
+      "light": "Where does the gray look lighter, as if light touches the flower?",
+      "meaning": "If these flowers were a gift, who would you give them to?",
+      "culture": "People in many places give or grow flowers. When do people give flowers where you live?",
+      "technique": "The artist used a pen and a wet brush with gray ink. What do you think each tool did?",
+      "personal": "What is your favorite flower? How would you draw it in gray?",
+      "critical": "Do you think flowers need color to look pretty? What do you see here that says yes or no?"
+    },
+    "g12": {
+      "daily": "How can gray ink and gray paint make flowers look soft and full?",
+      "emotion": "What feeling comes from looking at these gray peonies? Point to a part that helps.",
+      "observation": "Describe the three flowers. How are they alike and how are they different?",
+      "analysis": "How are the three flowers placed so that they overlap and make a group?",
+      "line": "Where do you see thin pen lines and where do you see soft gray areas? What does each do?",
+      "shape": "Each peony is made of many curved petal shapes. How do they fit together?",
+      "color": "There is no bright color here. What do light and dark grays show that colors might show?",
+      "texture": "Which petals look ruffled and which look smooth? How can you tell?",
+      "space": "How does the artist show that one petal is in front of another?",
+      "light": "Where is the lightest part of the flowers? What does it tell you about where the light comes from?",
+      "meaning": "Why might an artist choose a flower as a subject to draw again and again?",
+      "culture": "Vallayer-Coster lived in France, where many artists drew flowers and objects. Why do you think still-life pictures were popular?",
+      "technique": "She used chalk, then ink, then wash. Why might she do the chalk first?",
+      "personal": "Have you picked or smelled a flower you loved? How would you show it in gray?",
+      "critical": "Which is better for a flower, color or gray? Give a reason from the picture."
+    },
+    "g35": {
+      "daily": "How does Vallayer-Coster show the shape and softness of peonies without using any color?",
+      "emotion": "What mood does the gray palette create, and how might it differ from a bright painting of the same flowers?",
+      "observation": "Take a quiet minute to look. What details in the petals, stems, or leaves did you notice only after looking longer?",
+      "analysis": "How does the artist group three flowers so the arrangement feels both natural and well planned?",
+      "line": "How do fine pen lines and soft brush areas work together to describe a petal?",
+      "shape": "How do the repeated curves of the petals create a pattern across each flower?",
+      "color": "Gray is the main color here. How many different light and dark values can you find?",
+      "texture": "How does the artist suggest ruffles and folds using only line and tone?",
+      "space": "How does overlapping help the flowers seem to have front and back?",
+      "light": "How do areas of light paper and darker wash help the blooms look three-dimensional?",
+      "meaning": "Flowers in art can stand for beauty or for time passing. What idea do these peonies bring to you, and why?",
+      "culture": "Vallayer-Coster was a woman artist who was admired in France. Why might it matter that she became known for her skill?",
+      "technique": "The artist drew first with chalk, then added pen and wash. How might each step change the look of the drawing?",
+      "personal": "What detail in your own surroundings would you like to study as closely as this artist studied peonies?",
+      "critical": "Is a drawing in grays less impressive than a painting in color? Explain with details from this sheet."
+    },
+    "g68": {
+      "daily": "What does Vallayer-Coster gain by showing peonies only in tones of gray?",
+      "emotion": "How does the monochrome treatment affect the tone of the drawing, from delicate to dramatic?",
+      "observation": "Describe how you would move through the sheet from the flower heads to the stems. Which details seem most carefully handled?",
+      "analysis": "How does the crowded grouping of blooms create rhythm, and where does the eye rest?",
+      "line": "How does the contrast between crisp pen lines and soft wash define edges and curves?",
+      "shape": "How do circular and oval masses of petals combine into three distinct flowers while still reading as a unit?",
+      "color": "Without hue, what tools does she use to separate one petal from another?",
+      "texture": "How can the density of pen lines and the wetness of the wash suggest different petal textures?",
+      "space": "Where do you see overlapping and tonal shifts create depth in a small group of flowers?",
+      "light": "How does the artist use contrast to model light on the petals, and where is it strongest?",
+      "meaning": "Why might a skilled still-life artist draw a subject like peonies in a monochrome sheet instead of a colored painting?",
+      "culture": "Women in France in her time faced limits in the art world. How might that make her success as an academy member notable?",
+      "technique": "How do layered media, including chalk underdrawing, ink, and wash, give the drawing flexibility?",
+      "personal": "What is the value of drawing something slowly, even if you could take a photograph of it?",
+      "critical": "Does the lack of color make this sheet a study or a finished artwork? What evidence supports your view?"
+    },
+    "g910": {
+      "daily": "How does the sheet make the structure of peonies the main subject once color is removed?",
+      "emotion": "How does tonal restraint affect the expressive quality of a subject usually associated with abundance?",
+      "observation": "Describe the visual hierarchy of the three blooms and how line and wash direct attention.",
+      "analysis": "Analyze how overlapping masses and the cluster of the three flowers produce unity and variety.",
+      "line": "How does the interplay of pen contour and brush-applied wash shape the sense of volume?",
+      "shape": "How do repeated, folding forms of petals create rhythm, and how does Vallayer-Coster vary them?",
+      "color": "How does a gray-based scale replace chromatic contrast to separate forms and create focus?",
+      "texture": "How do variations in line density and wash tone communicate the delicacy and layering of petals?",
+      "space": "How does the shallow arrangement of flowers create intimacy while still suggesting depth?",
+      "light": "How does the relationship of paper tone and wash depth stand in for illumination?",
+      "meaning": "Does the monochrome format shift the work toward study, ornament, or contemplation? Which evidence supports each reading?",
+      "culture": "How might Vallayer-Coster's role in the French art world shape the way we interpret a modest subject treated with great skill?",
+      "technique": "What does the combination of chalk, pen, and wash suggest about the order and control involved in making the sheet?",
+      "personal": "How does viewing a familiar object in monochrome change your attention to its form?",
+      "critical": "How do ideas about floral subjects as gentle or minor affect how viewers value this drawing, and do you accept those ideas?"
+    },
+    "g1112": {
+      "daily": "What does the translation of a chromatically rich subject into tone reveal about how Vallayer-Coster understood the structure of a bloom?",
+      "emotion": "How does the sheet generate affect through delicacy of mark rather than hue, and how stable is that reading?",
+      "observation": "Describe the sheet's physical facts, such as chalk underdrawing, pen, and wash, before interpreting. At what point does description turn into claim?",
+      "analysis": "How do density, overlap, and contour organize the sheet into a coherent but not rigid arrangement?",
+      "line": "How does the sheet position line and tone as complementary instruments rather than competitors?",
+      "shape": "How do the repeated forms of petals anticipate or resist ornamental readings of the subject?",
+      "color": "What is gained and lost when a subject associated with color is represented monochromatically, and who benefits from the exchange?",
+      "texture": "How does mark variation simulate material qualities, and what does it tell us about the artist's training in illusionistic description?",
+      "space": "How does the compressed, nearly frontal arrangement relate to the conventions of still-life drawing?",
+      "light": "In what ways does the sheet use the paper itself as an active element of illumination?",
+      "meaning": "Given the record's brevity, what can responsibly be said about the function of the sheet as study, gift, or independent work?",
+      "culture": "How should we understand a woman's position within the French academic system around 1800, and how does this drawing complicate narratives of that period?",
+      "technique": "What might technical analysis reveal about the sequence of media, and how would that influence our reading of the drawing's process?",
+      "personal": "How do your own expectations about flowers, feminine associations, and domestic subjects shape your response to this work?",
+      "critical": "How might canonical hierarchies of genre have affected the reception of still-life artists, and does this sheet invite us to reconsider them?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Flowers, Peonies), medium, and classification (Drawings) checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Anne Vallayer-Coster (1744–1818) was a French still-life painter who gained recognition within the French academic system. This drawing is made in tones of gray with pen, wash, and chalk.",
+    "vocabulary": [
+      "still life",
+      "monochrome",
+      "wash",
+      "value",
+      "contour",
+      "black chalk"
+    ],
+    "directions": [
+      "Have students draw a flower using only one pen and one gray wash, noticing how many values they can make.",
+      "Ask students to compare this drawing with a color photograph of a peony and list what each shows best.",
+      "Discuss why some subjects, like flowers, were once considered less important and who decides."
+    ]
+  }
+}

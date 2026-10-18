@@ -1,0 +1,159 @@
+{
+  "id": "met-49243",
+  "day": "02-04",
+  "title": "Blossoming plum",
+  "artist": "Jin Nong",
+  "date": "dated 1759",
+  "medium": "Hanging scroll; ink on paper",
+  "movement": "Qing dynasty ink painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-32591-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-32591-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of John M. Crawford Jr., 1988",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A hanging scroll in black ink on paper showing a branch of a plum tree in blossom, with small flowers along dark, angled branches. Written lines of inscription may appear on the paper beside the branch.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/49243",
+    "objectId": "49243",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Qing dynasty), tag (Plants), public-domain flag, credit line and image URLs read from the record. The presence of an inscription is typical of the genre but was not read from the record."
+  },
+  "context": "A hanging scroll dated 1759 by Jin Nong, a Qing dynasty artist from Yangzhou who is widely known for his paintings of plum blossoms and for his unusual calligraphy. It is painted in ink on paper. Plum trees bloom in late winter and are admired in Chinese culture as symbols of endurance.",
+  "descriptions": {
+    "k": "This picture shows a plum tree branch with small flowers. The branch bends and zigs. The flowers are tiny and light. The painter used black ink. Can you follow the branch with your finger?",
+    "g12": "Jin Nong painted this flowering plum in China about 260 years ago. He used black ink on paper. The branch bends and turns, and small flowers sit along it. Plum trees bloom while winter is still cold. How does the branch seem to move?",
+    "g35": "Jin Nong lived in the Qing dynasty and was famous for painting plum blossoms. In this hanging scroll from 1759 he uses ink on paper to show a branch full of small flowers. The plum blooms in cold weather, so it became a symbol of strength. How do the bending branch and tiny blossoms make the picture feel alive?",
+    "g68": "Jin Nong, who worked in Yangzhou, was admired as an independent-minded artist and calligrapher, and plum blossoms were among his favorite subjects. Dated 1759, this scroll uses only ink on paper to build a flowering branch. Because plums bloom in late winter, they were linked with perseverance and purity. How might an artist use a simple branch to express a personal outlook?",
+    "g910": "This 1759 hanging scroll shows how Qing dynasty individualist painters used a traditional subject, the plum, to express a distinctive personal manner. Jin Nong is known for both painting and idiosyncratic calligraphy, and the two arts closely relate in his brushwork. Notice how angled branches, small blossoms, and open paper create rhythm and tension. How can the same subject carry both inherited meaning and personal style?",
+    "g1112": "In Jin Nong's plum, a subject loaded with cultural associations of resilience and moral purity is handled through an individual, sometimes austere brush manner. Scholars often place him among the Yangzhou artists who valued independence in a commercial city, though interpretations of such labels vary. The scroll is dated 1759, and its meaning can be argued from visual evidence: branch rhythm, tonal contrast, and use of blank paper. How does tradition become a means of self-expression?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Follow the plum branch from one end to the other. Where does it turn the most?",
+      "emotion": "Does this branch feel strong, shy, or sleepy? Tell what you see.",
+      "observation": "Find the flowers on the branch. How many can you count?",
+      "analysis": "Which part of the branch stands out most? Why do your eyes go there?",
+      "line": "Draw the shape of the branch in the air. Is it straight, bent, or zigzag?",
+      "shape": "The flowers are tiny round dots. Where are they gathered together?",
+      "color": "The painting is made with black ink. Where is the ink darkest, and where is it light?",
+      "texture": "Would the branch feel smooth or bumpy? What do the marks tell you?",
+      "space": "Is the branch big or small on the paper? Where is the empty space?",
+      "light": "Which flowers look the brightest against the dark branch?",
+      "meaning": "Plum flowers bloom when it is cold. What might that tell us about the plant?",
+      "culture": "People in China have loved plum trees for a very long time. What do you love to see in winter?",
+      "technique": "The painter used a brush and ink. How do you think he made the thick branch and the tiny flowers?",
+      "personal": "What is something you keep doing even when it is hard? How is that like this branch?",
+      "critical": "Why might a painter choose to paint a branch and not a whole tree?"
+    },
+    "g12": {
+      "daily": "Look at how the branch turns and crosses. Which angle surprises you most, and why?",
+      "emotion": "What feeling do the sharp bends of the branch and the tiny flowers give you together?",
+      "observation": "Describe the branch, the flowers, and the empty paper. What is in each part of the picture?",
+      "analysis": "How does the painter make the eye travel along the branch from bottom to top?",
+      "line": "Compare thick, dark lines with thin, light ones. Where do they appear?",
+      "shape": "Find angles in the branches and circles in the flowers. How do they work together?",
+      "color": "Only black ink is used. How does the painter show strong branches and soft flowers?",
+      "texture": "How does the painter show the rough bark of the branch compared with the soft petals?",
+      "space": "Why might the painter leave so much empty paper around the branch?",
+      "light": "The flowers look pale against dark lines. How does that make them seem to glow?",
+      "meaning": "The plum blooms in the cold. Why might people admire a flower that does that?",
+      "culture": "This hanging scroll was meant to be hung on a wall. How would a scroll like this change a room?",
+      "technique": "Jin Nong painted with one color of ink. What tricks can a painter use to make one color look many ways?",
+      "personal": "If you could paint a plant that matches your personality, what would you choose?",
+      "critical": "Do you think a plain branch can have a big meaning? Explain with something you see."
+    },
+    "g35": {
+      "daily": "What details make this plum branch feel energetic and a little bit bold?",
+      "emotion": "What mood does the zigzag branch with tiny flowers create? Which choices build that mood?",
+      "observation": "Look for a full minute. What small marks or details on the branch did you notice last?",
+      "analysis": "How does the painter balance the heavy dark branch with the light, empty paper?",
+      "line": "How do the angles in the branch create tension and movement compared with soft, curved lines?",
+      "shape": "How do the many small flower shapes contrast with the long shape of the branch?",
+      "color": "With only black ink, how does Jin Nong make some areas strong and others delicate?",
+      "texture": "How does the painter suggest old, rough wood and fresh, tender blossoms using the same ink?",
+      "space": "How does the open paper help the plum branch stand out and feel calm?",
+      "light": "How does the painting suggest a cold, clear day without any color?",
+      "meaning": "In Chinese culture the plum stands for courage in hard times. How could you see that idea in how Jin Nong paints it?",
+      "culture": "Jin Nong lived in the Qing dynasty and was known for being independent. How might a plum painting show that kind of personality?",
+      "technique": "Ink on paper is hard to correct. Which strokes in this scroll look the most confident to you?",
+      "personal": "Think of a person you admire for staying strong. How might you paint them as a plant?",
+      "critical": "Is a painting more powerful when it shows a lot or when it shows only a little? Use this scroll as evidence."
+    },
+    "g68": {
+      "daily": "How does Jin Nong give such a simple subject the force of a personal statement?",
+      "emotion": "How do the sharp turns of the branch and the delicate blossoms create a mix of toughness and tenderness?",
+      "observation": "Trace the structure of the branch and describe where it splits. Which parts are most detailed?",
+      "analysis": "How do the angles of the branch work with the blank paper to create balance in the composition?",
+      "line": "How does the painter vary the thickness and direction of lines to give the branch energy?",
+      "shape": "How do the angular branch shapes contrast with the round flower shapes?",
+      "color": "How can ink alone produce a range from deep black to pale gray, and where does Jin Nong use that range?",
+      "texture": "Where do you see brushwork that feels dry and rough, and where does it feel wet and smooth?",
+      "space": "In ink painting, empty space is part of the design. How does the blank paper contribute to the mood here?",
+      "light": "How does the contrast of pale blossoms and dark branches create a feeling of clear winter light?",
+      "meaning": "Plum blossoms are linked with perseverance. What other meanings might a viewer find in Jin Nong's scroll?",
+      "culture": "Why might artists in a busy city like Yangzhou have chosen subjects that suggest quiet independence?",
+      "technique": "Jin Nong was also a calligrapher. Where in this painting can you see the brush acting like a writing tool?",
+      "personal": "What does it take to keep doing something quietly for a long time? How could a painting show that?",
+      "critical": "Can we read an artist's personality from a painting of a plant? What are the limits of that idea?"
+    },
+    "g910": {
+      "daily": "Which brush decisions in this scroll most clearly mark a personal manner within a traditional subject?",
+      "emotion": "How does the painting evoke austerity and quiet endurance through line and contrast rather than narrative?",
+      "observation": "Describe the visual hierarchy of branch, blossom, and blank paper. What formal cues guide attention?",
+      "analysis": "Analyze how the angular rhythm of the branch and the sparse blossoms produce balance in a vertical format.",
+      "line": "How do changes in line weight and direction create structure and tension within the branch?",
+      "shape": "How do the contrast between angular wood and compact blossom forms and the surrounding void define the composition?",
+      "color": "How does the range of ink tone in a monochrome work establish emphasis and mood?",
+      "texture": "How does brush handling distinguish old wood from delicate flowers?",
+      "space": "How does emptiness operate as an active element in the composition?",
+      "light": "How is a cold, clear atmosphere suggested by contrast alone?",
+      "meaning": "How might the plum's traditional associations be both honored and personalized in this scroll, and where does interpretation become speculative?",
+      "culture": "How does Jin Nong's association with independent artists in Yangzhou frame the way we read a plum painting from his hand?",
+      "technique": "How do the demands of ink on paper, where mistakes remain, shape the visible confidence of the brushwork?",
+      "personal": "What does it mean to adopt a traditional subject and make it your own? Where have you done this?",
+      "critical": "How should we weigh a label like Eight Eccentrics against what we can see directly in this one scroll?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this scroll's visual form about Jin Nong's relation to tradition, and what requires outside evidence?",
+      "emotion": "How does the restraint of a monochrome plum painting complicate the attribution of a single mood or message?",
+      "observation": "Describe the scroll's brushwork and composition with precise vocabulary. At what point does description imply interpretation?",
+      "analysis": "Analyze how branch rhythm, blossom placement, and void produce tension and unity within a vertical format.",
+      "line": "How does the relation between painting line and calligraphic line in Jin Nong's work blur the boundary between image and writing?",
+      "shape": "How do angular and rounded forms generate visual dialogue without relying on botanical description?",
+      "color": "How does tonal variation in a single ink substitute for color, and how might paper aging shift our experience?",
+      "texture": "How does the visible evidence of brush speed and pressure convey the artist's bodily involvement?",
+      "space": "How does blank paper operate as pictorial space, atmosphere, and potential symbol?",
+      "light": "How does monochrome handling evoke winter light, and how does it compare with other traditions of showing seasons?",
+      "meaning": "How do readings of the plum as moral emblem, seasonal marker, or self-image differ, and what evidence supports each for an eighteenth-century artist?",
+      "culture": "How might the commercial culture of Yangzhou complicate romantic narratives of the independent eccentric artist?",
+      "technique": "What does the interplay of spontaneity and discipline in ink-plum painting suggest about the relation between skill and expression?",
+      "personal": "How does your own idea of individuality shape how you read an artist who uses a traditional subject in an unusual way?",
+      "critical": "How should we evaluate the common claim that style reveals the artist's character when evidence for intentions is limited?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tag (Plants) in the Met record were checked; the subject is a flowering plum branch.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Jin Nong (1687 to 1763) worked in Yangzhou and is often grouped with the so-called Eight Eccentrics of Yangzhou, though that label is a later convention. The scroll is dated 1759.",
+    "vocabulary": [
+      "hanging scroll",
+      "plum blossom",
+      "ink tone",
+      "calligraphic line",
+      "Qing dynasty",
+      "symbol"
+    ],
+    "directions": [
+      "Have students draw a branch with angular bends using one thick and one thin marker, then add blossoms.",
+      "Discuss how a traditional subject can still express a personal style.",
+      "Compare this scroll with the Yuan dynasty plum from another day and note what is similar and different."
+    ]
+  }
+}

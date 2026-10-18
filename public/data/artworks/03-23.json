@@ -1,0 +1,159 @@
+{
+  "id": "met-37871",
+  "day": "03-23",
+  "title": "Shri Raga: Folio from a ragamala series (Garland of Musical Modes)",
+  "artist": "Artist unknown (India, Rajasthan, Bundi)",
+  "date": "mid-17th century",
+  "medium": "Ink and opaque watercolor on paper",
+  "movement": "Rajput painting, Bundi school",
+  "region": "India (Rajasthan, Bundi)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP156126.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP156126.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Phillips, Gold and Company, 1981",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small Indian miniature painting in opaque watercolor. A ruler sits playing a long stringed instrument, with two musicians beside him, in a detailed palace setting with architecture and a flowering tree.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/37871",
+    "objectId": "37871",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, classification, tags, public-domain flag, image URLs, credit line) and the Met catalog page label text"
+  },
+  "context": "A page from a ragamala, a series of paintings that picture Indian musical modes (ragas), painted at the Bundi court in Rajasthan in the mid-17th century. The Met's label says the ruler plays a rudra vina with two musicians and that the painting refers to fall harvest festivals. It also notes the complex architecture and jewel-like flowering tree as typical of Bundi painting.",
+  "descriptions": {
+    "k": "A ruler sits and plays music. He plays a long string instrument. Two musicians sit beside him. There is a palace and a tree with flowers. Can you almost hear the music? What do you hear?",
+    "g12": "This small painting from India shows a ruler playing music. His instrument is a long stringed one called a rudra vina. Two other musicians play with him. Look for the palace walls and the flowering tree. The painting pictures a piece of music called a raga. How would this music sound?",
+    "g35": "This tiny painting from Bundi, in Rajasthan, India, is one page from a ragamala, which means a garland of musical modes. A raga is a pattern of notes for a certain mood. Here a ruler plays a rudra vina while two musicians join him, and the scene celebrates fall harvest festivals. Notice the palace and the jewel-like tree. How does the painter show music with no sound?",
+    "g68": "In India, painters turned musical modes, called ragas, into pictures. This page, from a mid-17th-century ragamala made in Bundi, shows a ruler playing a rudra vina with two musicians. The Met notes that rulers shown as performers are rare in Bundi and Kota painting, and that the scene refers to fall harvest festivals. The elaborate buildings and jewel-like tree are typical of Bundi style. How can a painter suggest a mood that we usually hear rather than see?",
+    "g910": "A ragamala translates musical modes into visual poetry. This Bundi folio of the mid-17th century presents Shri Raga as a ruler playing the rudra vina, accompanied by two musicians, with a link to the fall harvest festivals. The Met observes that a ruler shown as performer is rare in Bundi and Kota painting. Intricate architecture and a jewel-like flowering tree reflect the school's style. How do composition and setting translate a raga's mood, and what might a court gain from portraying a ruler as a musician?",
+    "g1112": "This folio from a Bundi ragamala of the mid-17th century raises questions about how an art of sound can be pictured. The ruler as performer on the rudra vina is, as the Met notes, a rare image in Bundi and Kota painting, and the reference to fall harvest festivals ties the raga to season and celebration. Complex architecture and a jewel-like flowering tree exemplify Bundi style. Consider whether the image illustrates a raga, flatters a patron, or does both, and what evidence would support each view."
+  },
+  "questions": {
+    "k": {
+      "daily": "The ruler is playing a long string instrument. If it could make a sound, what sound would it make?",
+      "emotion": "Do the musicians look happy, sleepy, or serious to you? Show us the face you see.",
+      "observation": "Find the three musicians. Point to the instrument the ruler is playing.",
+      "analysis": "Where do your eyes go first in this tiny painting? What made them go there?",
+      "line": "Find the strings and the long body of the instrument. Trace a straight line along it.",
+      "shape": "The palace is made of rectangles and arches. Can you find one?",
+      "color": "Look for bright, jewel-like colors. Which color do you see the most?",
+      "texture": "The leaves on the tree look like tiny jewels. How might they feel if you could touch them?",
+      "space": "Some people are in front and some buildings are behind. What is in front, and what is behind?",
+      "light": "This painting has no real shadows. Which parts look bright because of their color?",
+      "meaning": "Fall is harvest time, when people celebrate together. How might music help people celebrate?",
+      "culture": "In India, music has patterns called ragas. What kind of music or song do your family or friends enjoy together?",
+      "technique": "This painting is very small. How careful must the painter have been to paint tiny tree leaves?",
+      "personal": "If you could play any instrument with friends, which would you choose?",
+      "critical": "How can a painting, which is silent, show us music?"
+    },
+    "g12": {
+      "daily": "The ruler plays a rudra vina while two musicians join him. What music do you imagine they are playing?",
+      "emotion": "What feeling does this scene give you: joyful, peaceful, or proud? Which details help you decide?",
+      "observation": "Describe the people, the buildings, and the tree. What small details can you find?",
+      "analysis": "How does the artist show who the most important person is in this painting?",
+      "line": "Find the long, thin lines of the instrument and the straight lines of the buildings. How do they differ from the tree's curvy shapes?",
+      "shape": "The painting uses many flat shapes, like walls and doorways. How do they fit together?",
+      "color": "The Bundi style is known for jewel-like color. Which bright colors do you notice, and how do they work together?",
+      "texture": "The tree and the buildings look decorated and detailed. How can you tell different surfaces apart?",
+      "space": "This picture is tall and narrow. How does the artist fit the musicians, buildings, and tree into the space?",
+      "light": "Look for places where the color seems to shine. How does the painter show that without real shadows?",
+      "meaning": "This painting pictures a piece of music called a raga. How might a painter turn a sound into a scene?",
+      "culture": "The painting also refers to fall harvest festivals. How do people celebrate harvests where you live?",
+      "technique": "The painting is ink and opaque watercolor on paper. Why might small painted details look so clear and bright?",
+      "personal": "What song makes you feel a certain mood, like calm or excitement? How would you paint that song?",
+      "critical": "Why might a ruler want to be shown playing music in a painting?"
+    },
+    "g35": {
+      "daily": "A ruler plays the rudra vina with two musicians beside him. What do you think the painter wants us to feel about this moment?",
+      "emotion": "Music has moods. What mood does this painting suggest, and what visual clues in the setting support your idea?",
+      "observation": "Spend a minute scanning the whole page. What small details in the architecture or tree stand out?",
+      "analysis": "How does the artist use the placement of the three musicians and the buildings around them to organize the page?",
+      "line": "How do the straight lines of the palace compare with the lines of the instrument and the tree?",
+      "shape": "Which shapes repeat in the architecture, and how do they make the painting feel orderly?",
+      "color": "The Met calls the tree 'jewel-like.' How do bright colors in the tree and buildings work together?",
+      "texture": "How does the painter suggest different materials, such as stone walls, cloth, and leaves, using only paint and ink?",
+      "space": "The painter shows many things in a small flat space. How does he suggest that some parts are inside and others outside?",
+      "light": "This painting does not use realistic shadows. How does it still show brightness and richness?",
+      "meaning": "A ragamala shows musical modes as scenes. Why might a painter and a patron enjoy picturing sounds as paintings?",
+      "culture": "The Met says the painting refers to fall harvest festivals. What does this tell you about how music and seasons connect in Indian culture?",
+      "technique": "These small paintings were made with ink and opaque watercolor on paper. What skills would an artist need to paint such tiny details?",
+      "personal": "Think of a song tied to a season or holiday for you. How might you picture it in a painting?",
+      "critical": "The Met says it is rare to see a ruler playing an instrument in Bundi painting. Why might a court painter choose a rare idea?"
+    },
+    "g68": {
+      "daily": "How does this painting turn an invisible thing, a musical mode, into something we can see?",
+      "emotion": "How does the arrangement of calm figures and decorated architecture shape the mood of the raga?",
+      "observation": "List what you see from the musicians to the setting. Which details seem chosen to show wealth or celebration?",
+      "analysis": "How does the composition organize ruler, musicians, buildings, and tree so that the viewer's eye moves through the page?",
+      "line": "How do precise lines in the buildings and instrument give the painting clarity, and where does the tree soften them?",
+      "shape": "How do flat, geometric architectural shapes contrast with the organic shapes of the flowering tree?",
+      "color": "How do saturated colors, typical of Rajput painting, create a rich, festive effect without realistic shading?",
+      "texture": "How does the painter suggest richness, such as fabrics, jewel-like leaves, and patterned surfaces, in a flat painting?",
+      "space": "Indian miniature painters often combine several viewpoints in one scene. Where do you see this, and why might it be useful?",
+      "light": "Without cast shadows, how does the painter use color to suggest a bright, joyful day?",
+      "meaning": "The Met links the scene to fall harvest festivals. How might season, music, and mood combine in one image?",
+      "culture": "Ragamala paintings connect Indian music, poetry, and painting. What might that tell you about how arts were valued at the Bundi court?",
+      "technique": "Opaque watercolor allows layers of color and fine detail. How does that suit a tiny, intricate painting?",
+      "personal": "How would you design a picture to show the mood of your favorite piece of music?",
+      "critical": "Rulers appear in many court paintings. What might this painting accomplish by showing a ruler as a musician instead of a warrior or a judge?"
+    },
+    "g910": {
+      "daily": "How does this folio translate Shri Raga's mood into figures, setting, and seasonal reference?",
+      "emotion": "How does the stillness of the performers and the richness of the setting build an emotional atmosphere without showing sound?",
+      "observation": "Describe the visual hierarchy among ruler, accompanists, architecture, and tree, and identify what produces it.",
+      "analysis": "How does the painting's layered architectural framework contain and emphasize the performance?",
+      "line": "How does crisp linework support legibility and decorative effect in this miniature?",
+      "shape": "How do geometric architectural forms and the ornamental tree create contrast and unity within the page?",
+      "color": "How does the palette articulate festive richness, and how might color also signal the identity of a raga?",
+      "texture": "How does the painter evoke luxurious surfaces and patterns through layers of opaque watercolor?",
+      "space": "How does the miniature's flattened, multiple-viewpoint space differ from European perspective, and what does it enable?",
+      "light": "How does the painting create radiance through color relationships rather than through directional light?",
+      "meaning": "How do the performer, seasonal reference, and setting together express the idea of a raga, and what remains open to interpretation?",
+      "culture": "How does the portrayal of a ruler as performer, rare in Bundi and Kota according to the Met, reflect court values and self-presentation?",
+      "technique": "What does the use of ink and opaque watercolor on a small paper folio imply about workshop practice and viewing conditions?",
+      "personal": "How do music and visual art shape your sense of mood, and how might your experience compare with a viewer at a 17th-century court?",
+      "critical": "How does showing a musician-ruler affect how we judge power and culture? What other motives besides illustration might be at work?"
+    },
+    "g1112": {
+      "daily": "What can we argue from the evidence in the image about how it represents Shri Raga, and what must we take from outside sources?",
+      "emotion": "How does a visual art attempt to render the affect of a musical mode, and how successful is it here in your view?",
+      "observation": "Describe the folio's visual organization with precision. Where does naming a feature already rely on knowing the conventions of ragamala painting?",
+      "analysis": "Analyze how the miniature balances narrative, symbolism, and ornament in a very small format.",
+      "line": "How does the painter's controlled linework reconcile descriptive clarity with the decorative demands of Bundi style?",
+      "shape": "How do the flat geometries of architecture and the stylized tree shape the page's rhythm and its sense of order?",
+      "color": "How might color operate here as an equivalent for sound and mood, and how does age or reproduction affect our perception of it?",
+      "texture": "How does the miniature's simulated richness of surface serve both realism and courtly display?",
+      "space": "How does the miniature's compression and layering of space challenge assumptions about linear perspective as a standard of realism?",
+      "light": "How do color and ornament replace the effects of light and shadow, and what might that choice say about the painting's priorities?",
+      "meaning": "Evaluate readings of the image as an illustration of a raga, as a courtly portrait, and as a seasonal celebration. How might they overlap?",
+      "culture": "How does the ragamala tradition link music, poetry, and painting, and what does a ruler's presence as performer suggest about the court's cultural self-image?",
+      "technique": "What does the fine handling of opaque watercolor suggest about the economics of court workshops and the intended audience for such pages?",
+      "personal": "How do your own assumptions about how music should look shape your reading of this painting?",
+      "critical": "Given limited documentation about specific artists and patrons, what standards of evidence should govern claims about the painter's intentions?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, culture, and tags (Musical Instruments, Men) checked against the museum record, and the Met label text describing a ruler playing the rudra vina with two musicians and a harvest-festival reference was read. No violence, nudity, or frightening content is indicated.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A mid-17th-century page from a Bundi ragamala. Ragas are Indian musical modes tied to moods, times, and seasons. The ruler plays a rudra vina accompanied by two musicians, according to the Met label.",
+    "vocabulary": [
+      "ragamala",
+      "raga",
+      "Rajput painting",
+      "opaque watercolor",
+      "miniature",
+      "rudra vina"
+    ],
+    "directions": [
+      "Play a short excerpt of Indian classical music and ask students to sketch the mood in color and shape before they look at the painting.",
+      "Compare how this painting suggests sound with how a student's drawing of their favorite song does.",
+      "Discuss how seasons and festivals appear in art and music from students' own cultures."
+    ]
+  }
+}

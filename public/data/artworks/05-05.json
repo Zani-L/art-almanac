@@ -1,0 +1,158 @@
+{
+  "id": "met-42497",
+  "day": "05-05",
+  "title": "Dish with dragon amid waves",
+  "artist": "Artist unknown",
+  "date": "Ming dynasty (1368–1644), Xuande mark and period (1426–35)",
+  "medium": "Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14609-026.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-026.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Richard E. Linburn, in memory of Richard E. Linburn, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A white porcelain dish painted in deep blue with a dragon and swirling waves. The blue design stands out against the glossy white glaze.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/42497",
+    "objectId": "42497",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, medium, period (Ming dynasty, Xuande mark and period, 1426–35), creditLine, classification (Ceramics), tags (Dragons), public-domain flag, and image URLs read from the record. The objectDate field is empty, so the date field uses the record's period text."
+  },
+  "context": "This porcelain dish was made at the Jingdezhen kilns in China during the Xuande period (1426-35) of the Ming dynasty. The blue design was painted with cobalt before the glaze was applied and fired. In Chinese art, dragons are often linked with power and good fortune, and with water and rain.",
+  "descriptions": {
+    "k": "A dragon swims through waves on this white dish. It is painted in deep blue. Find the dragon. Find the waves. Is the dragon friendly or fierce? What do you think?",
+    "g12": "This dish was made in China almost 600 years ago. A painter used deep blue to paint a dragon among curling waves. The dragon twists across the white dish. Follow its body with your finger. Where does it start and where does it go?",
+    "g35": "This dish comes from Jingdezhen, China, in the early 1400s. A painter used cobalt blue to paint a dragon among waves, then covered the dish with clear glaze. In Chinese culture, dragons are often linked with water and with power. Look at how the dragon's body curls and how the waves swirl around it. How does the painter show movement with just one color?",
+    "g68": "Made during the Xuande period, a time when Jingdezhen's blue-and-white wares were especially admired, this dish features a dragon amid waves. The blue was painted under a transparent glaze, which keeps it bright. Dragons in Chinese art are often connected with water, rain, and imperial power. How does the curving body of the dragon and the swirl of waves fill the circular dish? What does one color allow the painter to emphasize?",
+    "g910": "This Xuande-period dish exemplifies Ming blue-and-white porcelain at a high level of craft. The dragon and waves are arranged to suit the dish's circular field, and the cobalt paint, applied under the glaze, gives crisp lines and varied tone against the white body. Dragons were associated with water and, in many contexts, with imperial authority, so a dish like this may have had courtly associations; the record, however, does not specify its use. Consider how rhythm, curve, and contrast organize the design.",
+    "g1112": "As Xuande-marked blue-and-white from Jingdezhen, this dish belongs to a tradition often associated with court taste in the early 15th century. The dragon amid waves joins a creature linked with water, rain, and, in many contexts, imperial authority to a pattern of rhythmic curves that fits the circular format. Yet the Met's record does not state who used it, so claims about court use remain inference. The painting asks how a single pigment can produce depth, power, and movement, and how reign marks shape our sense of authenticity and value."
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the blue dragon on this dish swimming to? Tell the story of its trip through the waves.",
+      "emotion": "Does the dragon on this dish look gentle or strong to you? What makes you think so?",
+      "observation": "Find the dragon's body and the waves. Point to each one.",
+      "analysis": "Does your eye go to the dragon or the waves first? Why?",
+      "line": "Trace the dragon's long body with your finger. How many times does it curl?",
+      "shape": "Which shapes do the waves make? Are they round, pointy, or swirly?",
+      "color": "The dragon is painted in blue on white. How does the blue make the dragon stand out?",
+      "texture": "The dish is smooth and shiny. How do you think the blue dragon would feel under your hand?",
+      "space": "Is the dragon in the middle of the dish or near the edge? How does that feel?",
+      "light": "Where does the glossy glaze shine on this dish?",
+      "meaning": "In China, dragons are linked with water and rain. Why might a dragon be swimming here?",
+      "culture": "People in China have told stories about dragons for a very long time. What dragon stories do you know?",
+      "technique": "The painter used blue paint before the shiny glaze. Why might the blue stay so bright?",
+      "personal": "If you had a pet dragon, what would you name it?",
+      "critical": "Is this dragon scary or friendly? Find something in the picture to explain."
+    },
+    "g12": {
+      "daily": "How does the painter make the dragon look as if it is moving through water on a flat dish?",
+      "emotion": "Does the dragon feel powerful, playful, or calm? What details make you think that?",
+      "observation": "Describe the dragon and its waves. What parts can you find, such as its body and tail?",
+      "analysis": "How does the painter fit a long dragon onto a round dish?",
+      "line": "Follow the curling blue lines of the waves and the dragon. Which are thick and which are thin?",
+      "shape": "What round and curly shapes repeat in the waves? How do they match the dish?",
+      "color": "Only blue and white are used. How do dark and light blue make the dragon look different from the waves?",
+      "texture": "The painter may have shown scales with small marks. Where do you see little patterns or lines?",
+      "space": "Which parts of the picture look closer to you, and which look farther away?",
+      "light": "The glaze makes the blue look deep and shiny. Where do you see the brightest shine?",
+      "meaning": "Dragons often stand for strength and good luck in China. Why might that matter on a dish?",
+      "culture": "This dish was made in Ming China, in a city famous for porcelain. What might people there have been proud of?",
+      "technique": "The artist painted the blue under the glaze, so mistakes were hard to fix. How might that change how the painter worked?",
+      "personal": "What kind of picture would you paint on a plate to show strength?",
+      "critical": "Could this dish be for eating, for show, or both? What clues help you decide?"
+    },
+    "g35": {
+      "daily": "How does the painter show a powerful dragon among waves using only blue paint? Use details to explain.",
+      "emotion": "What feeling does the dragon give the dish, strength, calm, or something else? Which details cause it?",
+      "observation": "Look for one minute. What small details in the dragon's body or the waves did you not notice at first?",
+      "analysis": "How does the painter arrange the dragon and waves to fill the round dish evenly?",
+      "line": "How do the lines of the dragon's body differ from the lines of the waves?",
+      "shape": "How do the swirling shapes of the waves echo the curves of the dragon?",
+      "color": "How does the painter use light and dark blue to show different parts of the dragon and the waves?",
+      "texture": "How do the smooth glaze and the painted scales and waves create different surface effects?",
+      "space": "How does the painter show the dragon moving in and out of the waves?",
+      "light": "How does the clear glaze over the blue paint add shine and depth?",
+      "meaning": "Dragons in Chinese art are often tied to water and power. How might this dragon connect to those ideas?",
+      "culture": "Jingdezhen porcelain was admired far beyond China. Why might a dish like this have been valuable?",
+      "technique": "The cobalt blue was painted before glaze and firing. What does that tell you about the planning needed?",
+      "personal": "Which animal or creature would you choose to show strength on a dish, and why?",
+      "critical": "Why might a dragon be a good design for a dish made in the early 1400s? What other explanations are possible?"
+    },
+    "g68": {
+      "daily": "How does the design make the dragon feel both powerful and fluid within a small circular field?",
+      "emotion": "What impression of strength or grace does the dragon give, and which painted details create it?",
+      "observation": "Study how the dragon's body weaves through the waves. Where does it overlap or disappear?",
+      "analysis": "How does the composition use circular movement to unify dragon, waves, and dish?",
+      "line": "How does the painter vary line thickness and direction to separate dragon from water?",
+      "shape": "How do the curling shapes of the waves create rhythm around the dragon?",
+      "color": "How does cobalt blue produce a range of tones from pale washes to deep, dark lines?",
+      "texture": "How are scales, waves, and glaze surface contrasted in the painting and the finished dish?",
+      "space": "How does overlapping create the illusion that the dragon moves through layers of water?",
+      "light": "How does the transparent glaze affect the depth and brilliance of the blue?",
+      "meaning": "Dragons are tied to water and imperial power in many Chinese contexts. How might both ideas matter on a dragon amid waves?",
+      "culture": "Why might the Xuande period be remembered for its blue-and-white porcelain, and how did dragons feature in this tradition?",
+      "technique": "How does underglaze painting require confidence and planning from the painter?",
+      "personal": "What symbols represent power or protection in your own culture, and how are they pictured?",
+      "critical": "How can we tell whether a dish like this was made for ordinary use or for special occasions?"
+    },
+    "g910": {
+      "daily": "How does the composition resolve the tension between a dynamic creature and a fixed circular frame?",
+      "emotion": "How does the painted dragon project authority or vitality without color variety?",
+      "observation": "Describe the hierarchy of attention in the design, from dragon to waves to open white space.",
+      "analysis": "Analyze how curve, repetition, and contrast organize the dragon-and-wave pattern.",
+      "line": "How does the painter's brushwork vary between confident contour and finer detail?",
+      "shape": "How do circular waves and the sinuous dragon form relate to the geometry of the dish?",
+      "color": "How does the range of cobalt tones against white porcelain create depth and focus?",
+      "texture": "How does the painter suggest texture, such as scales and water, through marks rather than modeled surface?",
+      "space": "How does the design suggest depth on a curved plate without linear perspective?",
+      "light": "How does the glassy glaze alter the visual intensity of the blue?",
+      "meaning": "What are the strengths and limits of reading the dragon as imperial emblem versus water spirit?",
+      "culture": "How might a Xuande-marked dish have functioned in early Ming social and political life?",
+      "technique": "How does the combination of underglaze painting and high-fired porcelain demand technical coordination?",
+      "personal": "How do symbols of power on objects around you shape your sense of authority or tradition?",
+      "critical": "How do reign marks complicate our understanding of authenticity, workshop, and date?"
+    },
+    "g1112": {
+      "daily": "How does this dish negotiate between naturalistic motion and a rigorously organized decorative scheme?",
+      "emotion": "How does restraint of palette heighten rather than reduce the dragon's expressive force?",
+      "observation": "Describe the dish exactly. Where does naming the creature a dragon rely on tradition rather than pure observation?",
+      "analysis": "Analyze the figure-ground relationship between dragon, waves, and white porcelain.",
+      "line": "How does the brush line relate this porcelain painting to other Chinese calligraphic and pictorial traditions?",
+      "shape": "How does the circular format shape the design of a creature that moves through space?",
+      "color": "How do cobalt quality, application, and firing affect the tonal subtleties we see today?",
+      "texture": "How does the contrast between the painted design and the vitreous glaze affect the viewer's reading of surface?",
+      "space": "How does the painter evoke water and space with minimal means, and where does the ambiguity of white ground matter?",
+      "light": "How does the porcelain body's luminosity amplify the cobalt's effect, and how does museum lighting change it?",
+      "meaning": "Evaluate readings of the dragon as imperial emblem, water spirit, or auspicious motif. Which are best supported for this object?",
+      "culture": "How does Jingdezhen porcelain's relation to court demand and global trade shape our narrative of Ming art?",
+      "technique": "What does Xuande-period craftsmanship imply about workshop organization, and what remains undocumented for this dish?",
+      "personal": "How does your understanding of dragons from other cultures shape or limit your reading of this Chinese dragon?",
+      "critical": "Given the Met's record lists no patron or use, how should we qualify claims about this dish's courtly role?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Dish with dragon amid waves), classification (Ceramics), medium (porcelain with underglaze cobalt blue), and tags (Dragons) checked against the museum record; a decorative ornamental dragon is not a frightening subject in itself, but nothing in the record rules out how it is drawn.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Ming dynasty (Xuande period, 1426-35) blue-and-white porcelain dish from Jingdezhen. Confirm from the image how the dragon and waves are arranged.",
+    "vocabulary": [
+      "Ming dynasty",
+      "porcelain",
+      "cobalt blue",
+      "underglaze",
+      "reign mark",
+      "motif"
+    ],
+    "directions": [
+      "Have students draw a creature that curls around the inside of a circle, then compare designs.",
+      "Compare dragons in Chinese art with dragons from other cultures and discuss what each stands for.",
+      "Discuss why an artist might choose one color only and what it emphasizes."
+    ]
+  }
+}

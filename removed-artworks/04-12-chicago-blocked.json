@@ -1,0 +1,158 @@
+{
+  "id": "artic-25825",
+  "day": "04-12",
+  "title": "Woman at the Piano",
+  "artist": "Pierre-Auguste Renoir",
+  "date": "1875–76",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/8f06717c-9ede-f22b-d13b-327a50c22f9c/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A painting of a woman in a light, gauzy white gown with black trim playing an upright piano in a room. Soft blue tones, a candleholder and plants glow around her.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/25825",
+    "objectId": "25825",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1841-1919), date, place of origin (France), medium, dimensions (93 x 74 cm), credit line, style (Impressionism), subject terms (pianos, portraits, plants, musical instruments, interior, candleholder, blue, leisure, women, music), thumbnail alt text, exhibition history (second Impressionist exhibition, 1876, as Femme au Piano), is_public_domain true and image_id read from the record. The record has no description text."
+  },
+  "context": "Renoir painted this around 1875-76, and the Art Institute's exhibition history records that it was shown at the second Impressionist exhibition in Paris in 1876 under the title Femme au Piano. The record lists subjects including a piano, a candleholder, plants, and the color blue, but it gives no further description of the work.",
+  "descriptions": {
+    "k": "A woman sits at a piano and plays music. She wears a soft white dress. The room is full of cool blue colors. Can you find a candleholder? Can you find plants? What song do you think she plays?",
+    "g12": "A woman plays an upright piano in a quiet room. She wears a light, airy white dress with black trim. Soft blues fill the picture. Look for a candleholder and some plants. If you could hear this painting, what would the music sound like?",
+    "g35": "Pierre-Auguste Renoir painted this woman playing the piano around 1875 and 1876. It was shown at an Impressionist exhibition in Paris in 1876. Her gauzy white dress glows against the cool blue room. Look for the candleholder and the plants. How does the painter use soft brush marks to make the room feel quiet and musical?",
+    "g68": "Renoir painted a woman at an upright piano in the mid-1870s, and the work was shown at the second Impressionist exhibition in 1876. The museum's record lists a piano, a candleholder, plants, and blue tones among its subjects. Her light gown and the blurred, shimmering room make the scene feel more like a moment than a posed portrait. How do soft edges and color create a feeling of music and calm?",
+    "g910": "Woman at the Piano was exhibited with the Impressionists in 1876. Renoir combines portrait and interior: a sitter in a gauzy gown, a piano, plants, and a candleholder dissolve into soft, blue-toned brushwork. The museum offers no description, so interpretation depends on what you can see. How do brushstroke, color, and cropping suggest private absorption in music, and what limits come with reading a mood from a single image?",
+    "g1112": "Renoir's Woman at the Piano belongs to the Impressionist interest in modern domestic leisure and the interplay of figure and atmosphere. The Art Institute record notes its showing at the second Impressionist exhibition (1876) and lists subjects but offers no interpretation. Is the painting best read as portrait, genre scene, or study of light and color? How would you weigh the evidence of the picture itself against the assumptions we bring to images of women and music?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the woman, the piano, and the candleholder. Where is each one?",
+      "emotion": "Does the blue room around the pianist feel hushed or busy? Show us what makes you think so.",
+      "observation": "Point to something blue. How many blue things can you find?",
+      "analysis": "Where are the woman's hands? What are they doing?",
+      "line": "Look at the black trim on her dress. What shapes does it make?",
+      "shape": "Find a round shape and a straight shape. Where are they?",
+      "color": "Which colors are soft and which are strong? Point to each one.",
+      "texture": "Her dress looks light and gauzy. What would it feel like to touch?",
+      "space": "Is the woman near you or far away? What helps you decide?",
+      "light": "Where does the light touch her dress? Show us with your finger.",
+      "meaning": "What song do you think she plays? Hum a little bit of it.",
+      "culture": "Long ago, many homes had a piano. What music do you hear at home?",
+      "technique": "The painter used tiny, soft brushstrokes. Pretend to paint like that in the air.",
+      "personal": "If you could play any instrument, what would it be?",
+      "critical": "What would you say to her when she finishes playing?"
+    },
+    "g12": {
+      "daily": "Look at the woman at the piano. What do you notice about her pose and what she wears?",
+      "emotion": "How does this quiet room make you feel? Point to something that gives you that feeling.",
+      "observation": "Name the things you see in the room besides the woman.",
+      "analysis": "How does the painter place the woman and the piano so they fit in the picture?",
+      "line": "Find the black lines on her dress and the edges of the piano. How do they help you see their shapes?",
+      "shape": "How do the soft edges of the dress make her shape different from the hard shape of the piano?",
+      "color": "The painter used a lot of blue and white. How do these colors set the mood?",
+      "texture": "Her dress looks like thin, floaty cloth. How does the painter make it look that way?",
+      "space": "How can you tell the piano is behind her hands and the room goes back?",
+      "light": "Where does the light look brightest in the painting? How does the painter show it?",
+      "meaning": "Why might the artist choose a woman playing music for a painting? What do you think?",
+      "culture": "The painting is from the 1870s in France. What do you see that looks old-fashioned?",
+      "technique": "The painter used small, soft brush marks. How do they make the picture shimmer?",
+      "personal": "Have you ever played or heard live music? Tell how it felt.",
+      "critical": "If the painting could play music, what instruments would you hear? Why?"
+    },
+    "g35": {
+      "daily": "Where do your eyes go first in this painting, and what choices by Renoir lead them there?",
+      "emotion": "What mood does the painting have? Use details of color and pose to explain.",
+      "observation": "Look slowly across the whole canvas. What small details do you notice in the background?",
+      "analysis": "How does Renoir arrange the woman, the piano, and the room so the painting feels balanced?",
+      "line": "How do the black trim lines on the gown and the edges of the piano guide your eyes?",
+      "shape": "How do soft, flowing shapes in the dress compare with firmer shapes in the piano?",
+      "color": "Blue is a main color here. How does Renoir use it to make the room feel calm?",
+      "texture": "How does Renoir paint the thin, airy cloth of the dress so it looks delicate?",
+      "space": "How does the artist show the piano and woman as being inside a room with some depth?",
+      "light": "How does light seem to glow on the dress and fade in the room?",
+      "meaning": "What do you think the woman is thinking about while she plays?",
+      "culture": "The museum says this was shown in 1876 with a group of painters called the Impressionists. What do you think was unusual about their style?",
+      "technique": "Renoir uses small, blended brushstrokes. How do they make a picture feel soft?",
+      "personal": "Think about a quiet activity you love. How would you paint it so it feels calm?",
+      "critical": "How is a painting of someone playing music different from a photo of it?"
+    },
+    "g68": {
+      "daily": "How does Renoir's choice to show a woman absorbed in music shape the mood of this interior scene?",
+      "emotion": "How do the cool blues and glowing whites work together to create a sense of calm or intimacy?",
+      "observation": "What can you actually see about her pose and surroundings? Separate evidence from what you imagine about her.",
+      "analysis": "How does the arrangement of figure, piano, and background objects organize the composition?",
+      "line": "How do dark trim lines and soft edges give the picture a mix of definition and haze?",
+      "shape": "How does the soft, rounded shape of the gown differ from the geometric form of the piano?",
+      "color": "How does a limited range of blues and whites unify the scene and highlight the figure?",
+      "texture": "How does Renoir use quick, feathery brushwork to suggest sheer fabric and shimmering air?",
+      "space": "How does the layout place the viewer close to the pianist yet still create a sense of room behind her?",
+      "light": "How does diffused indoor light, with a candleholder in the scene, shape what you notice?",
+      "meaning": "The museum gives no explanation of the picture. What can you infer from the subjects it lists, and what must stay open?",
+      "culture": "How does a scene of home music-making reflect leisure in middle-class France in the 1870s?",
+      "technique": "Why might Renoir paint in soft, blended strokes rather than clear outlines?",
+      "personal": "How does your own experience of music or quiet spaces shape your reading of this scene?",
+      "critical": "How would you decide whether this is a portrait of a specific person or a general scene?"
+    },
+    "g910": {
+      "daily": "How do Renoir's choices of pose, cropping, and light shape your first interpretation of this interior?",
+      "emotion": "How does the dominance of cool blue and white produce a particular emotional atmosphere?",
+      "observation": "Analyze the hierarchy of the composition: how do figure, instrument, and decoration compete or cooperate?",
+      "analysis": "How do the diagonal and vertical elements of the pianist and the piano structure the picture?",
+      "line": "How does Renoir blur contour so that line dissolves into color and light?",
+      "shape": "How does the contrast of soft, flowing forms with the rigid instrument create tension and harmony?",
+      "color": "How does the near-monochrome blue palette interact with white highlights and dark accents?",
+      "texture": "How do varied brushstrokes distinguish gauzy fabric, wood, and background plants?",
+      "space": "How does the close viewpoint position the viewer as an observer within the room?",
+      "light": "How does Renoir blend artificial and natural light effects, and what do they suggest about time of day?",
+      "meaning": "The record gives only subject terms. How can you build an evidence-based interpretation of mood without a museum description?",
+      "culture": "How does a painting of a woman at a piano relate to ideas about domestic leisure and accomplishment in the nineteenth century?",
+      "technique": "How does the work's inclusion in the 1876 Impressionist exhibition shape our reading of its loose handling?",
+      "personal": "How does the painter's attention to atmosphere compare with how photography might capture a musical moment?",
+      "critical": "To what extent does the painting invite viewers to project a story, and what are the risks of doing so?"
+    },
+    "g1112": {
+      "daily": "What claim could be made about music, femininity, and domestic space from this painting, and how well does formal evidence support it?",
+      "emotion": "How do the muted blues and soft handling make the mood difficult to reduce to a single label?",
+      "observation": "Describe the painting precisely, then identify which parts of your account are inference rather than observation.",
+      "analysis": "Analyze how Renoir balances figure and environment so that neither fully dominates.",
+      "line": "How does the dissolution of contour into brushwork express the Impressionist interest in perception over description?",
+      "shape": "Consider how the formal contrast between the pianist's fluid dress and the instrument's rigid structure functions as a pictorial argument.",
+      "color": "How does the tonal and chromatic coherence of the picture, built chiefly from blues and whites, shape the viewer's response?",
+      "texture": "How does the facture, from feathery gown to thicker surrounding strokes, indicate the process of building a surface?",
+      "space": "How does the proximity of the viewpoint complicate the boundary between observer and subject?",
+      "light": "Discuss how candlelight or soft interior light is rendered through color relations rather than strict tonal modeling.",
+      "meaning": "Evaluate competing categories for the work, portrait, genre scene, or study of atmosphere, and weigh evidence for each.",
+      "culture": "How does the painting engage the social meanings attached to women and music in 1870s France?",
+      "technique": "How does the work's 1876 exhibition context affect how its apparent informality should be read?",
+      "personal": "How do your own assumptions about gender and domestic art shape what you see here?",
+      "critical": "What additional sources would you need to learn more about the sitter and the intent of the painting?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (pianos, portraits, plants, musical instruments, interior, candleholder, blue, leisure, women, music), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The record has no description text, so student text sticks to the listed subjects and the thumbnail alt text. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted around 1875-76 and shown at the second Impressionist exhibition in Paris in 1876. The Art Institute record lists subjects but gives no description, so classroom discussion should rest on close looking.",
+    "vocabulary": [
+      "Impressionism",
+      "interior",
+      "portrait",
+      "brushwork",
+      "palette",
+      "atmosphere"
+    ],
+    "directions": [
+      "Have students list every blue they can find in the painting and describe how each differs.",
+      "Ask students to write a short paragraph describing the music they imagine, then explain which visual clues led them there.",
+      "Discuss how an artist can suggest sound in a silent picture."
+    ]
+  }
+}

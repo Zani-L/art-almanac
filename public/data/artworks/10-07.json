@@ -1,0 +1,159 @@
+{
+  "id": "met-437880",
+  "day": "10-07",
+  "title": "Young Woman with a Lute",
+  "artist": "Johannes Vermeer",
+  "date": "ca. 1662–63",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP354965.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP354965.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Collis P. Huntington, 1900",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A quiet room in soft light, where a young woman sits near a window holding a lute. A map hangs on the wall behind her.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437880",
+    "objectId": "437880",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag (true), primaryImage and primaryImageSmall URLs, credit line (Bequest of Collis P. Huntington, 1900), classification (Paintings) and tags (Interiors, Women, Music, Lutes, Maps) read from the record."
+  },
+  "context": "Painted around 1662 to 1663 by the Dutch artist Johannes Vermeer. The Met's record classifies it as a painting and tags it with interiors, women, music, lutes and maps. Vermeer is known for quiet indoor scenes of daily life lit by soft daylight.",
+  "descriptions": {
+    "k": "A young woman sits in a quiet room holding a lute, an old kind of guitar. A map hangs on the wall. Soft light comes into the room. What song do you think she is playing?",
+    "g12": "Johannes Vermeer painted a young woman with a lute, a musical instrument like a guitar. She is in a quiet room with a map on the wall. Soft light fills the space. It feels like a still moment. What sound do you imagine? What is she looking at?",
+    "g35": "Johannes Vermeer painted this about 1662 to 1663 in the Netherlands. A young woman holds a lute, an instrument like a guitar, in a quiet room with a map on the wall. Vermeer is known for painting soft daylight in everyday scenes. How does the light make the room feel? What do the lute and the map tell you about her world?",
+    "g68": "Vermeer's Young Woman with a Lute (about 1662 to 1663) shows a woman with a lute in an interior with a map on the wall, according to the Met's tags. Vermeer is known for quiet domestic scenes lit by soft daylight. How do light, objects, and stillness create a mood, and what might the music and the map suggest about the life of someone in a Dutch home?",
+    "g910": "Young Woman with a Lute (c. 1662–63) is typical of Vermeer's quiet interiors: a single figure, a few objects, and soft light. The Met's tags list music, a lute, and a map, objects that may suggest ideas of harmony, travel, or the wider world, though interpretations vary. Consider how Vermeer's calm composition and treatment of light make an ordinary moment feel significant, and what a viewer can responsibly infer from the objects.",
+    "g1112": "Vermeer's Young Woman with a Lute condenses a typical Dutch Golden Age subject, music-making in a domestic interior, into a restrained arrangement of figure, instrument, and map. Scholars have read such objects as signs of harmony, longing, or global trade, but the Met's record offers tags rather than interpretation. How does Vermeer's controlled light and composition create ambiguity between narrative and stillness, and how should we weigh symbolic readings against observed evidence?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What song do you think the woman is about to play?",
+      "emotion": "Does the room feel peaceful, sleepy, or lonely? What do you see that tells you?",
+      "observation": "Find the lute and the map. Where are they?",
+      "analysis": "What do you see first? Why do your eyes go there?",
+      "line": "Find a straight line on the wall or window. Where does it go?",
+      "shape": "Look for a curved shape on the lute. Where is it?",
+      "color": "Which colors are in the room?",
+      "texture": "Cloth, wood, and paper look different. Which looks soft and which looks hard?",
+      "space": "Is she close to the window or far? How can you tell?",
+      "light": "Where does the light come into the room?",
+      "meaning": "Why might a map hang in a house?",
+      "culture": "Music is part of life in many homes. What music do you hear at home?",
+      "technique": "How would you paint soft light coming through a window?",
+      "personal": "Who might the woman be playing for?",
+      "critical": "Why might an artist paint a quiet moment instead of a big adventure?"
+    },
+    "g12": {
+      "daily": "What is the woman doing, and what do you think she will do next?",
+      "emotion": "What feeling does the soft light and quiet give you?",
+      "observation": "List the objects in the room. What did you notice last?",
+      "analysis": "How do the window, woman, and lute lead your eyes around the room?",
+      "line": "Which lines of the lute, chair, and map look straight or curved?",
+      "shape": "Which shapes look round or square? How do they fit in the room?",
+      "color": "How do the colors make the room feel warm or cool?",
+      "texture": "How can you tell the lute is wood and the map is paper?",
+      "space": "How does the artist show that the room has depth?",
+      "light": "Where is the light the brightest, and what does it touch?",
+      "meaning": "Why might the artist have chosen a map for the wall?",
+      "culture": "Vermeer lived in the Netherlands, a country with many ships and travelers. What might a map mean to people there?",
+      "technique": "How does Vermeer make light look so soft?",
+      "personal": "When have you been in a quiet room listening to music?",
+      "critical": "Does something have to happen in a painting for it to be interesting? Explain."
+    },
+    "g35": {
+      "daily": "What clues tell you about the woman's life and her time?",
+      "emotion": "What feeling does the quiet room give you, and which details build it?",
+      "observation": "Look slowly at the light and shadows. What small detail did you notice late?",
+      "analysis": "How does Vermeer arrange the woman, window, and map so the room feels balanced?",
+      "line": "How do the lines of the room's furniture and windows create order?",
+      "shape": "How do the shapes of the lute and chair contrast with the rectangle of the map?",
+      "color": "How do warm and cool colors work together here?",
+      "texture": "How does Vermeer show different materials such as cloth, wood, and paper?",
+      "space": "How does he create a feeling of depth in a small room?",
+      "light": "How does light from the window shape the whole painting?",
+      "meaning": "What might music and a map suggest about the woman's world?",
+      "culture": "Vermeer painted in the 1600s. How does this room compare with rooms today?",
+      "technique": "How would you describe Vermeer's way of painting light?",
+      "personal": "What everyday moment would you paint to make it feel special?",
+      "critical": "Why do you think people still love quiet pictures like this?"
+    },
+    "g68": {
+      "daily": "How does Vermeer make an everyday moment feel special?",
+      "emotion": "How do light and color create a calm mood?",
+      "observation": "What do the tags (music, lute, map) tell you, and what is left for you to infer?",
+      "analysis": "How does the composition organize the woman, lute, and map in space?",
+      "line": "How do horizontal and vertical lines create stability?",
+      "shape": "How do the curved lute shapes contrast with the rectangles of room and map?",
+      "color": "How does Vermeer's color harmony add to the quiet atmosphere?",
+      "texture": "How does soft handling of paint make surfaces look real?",
+      "space": "How does he create a convincing room using perspective?",
+      "light": "How does the light from a window model forms gently?",
+      "meaning": "What might a map suggest in a home of the Dutch Golden Age?",
+      "culture": "How might music-making have been part of daily life in the Netherlands in the 1600s?",
+      "technique": "Why might Vermeer choose few objects and a single figure?",
+      "personal": "How would you stage a quiet moment for a painting?",
+      "critical": "How do you decide whether an object is a symbol or just part of the scene?"
+    },
+    "g910": {
+      "daily": "How does Vermeer elevate a domestic moment through composition and light?",
+      "emotion": "How does the cool, soft light establish emotional tone?",
+      "observation": "Analyze how the arrangement of figure, instrument, and map forms a stable, layered composition.",
+      "analysis": "How do the strong horizontals and verticals contrast with the curve of the instrument?",
+      "line": "How do geometric elements of the room serve the figure?",
+      "shape": "How does restrained color harmony create unity?",
+      "color": "How does Vermeer's smooth handling of paint support the illusion of materials?",
+      "texture": "How does linear perspective build the sense of enclosed space?",
+      "space": "How does daylight define volume and mood?",
+      "light": "How might the lute and the map carry associations of harmony or the wider world, and why should such readings be tentative?",
+      "meaning": "How does the painting reflect Dutch Golden Age interest in domestic life?",
+      "culture": "How does Vermeer's choice of a woman alone with an instrument invite thought about private experience?",
+      "technique": "How does your response change if you read the scene as a narrative versus a study of light?",
+      "personal": "How should viewers weigh symbolic readings against observation?",
+      "critical": "Why might this style of painting feel contemporary despite its age?"
+    },
+    "g1112": {
+      "daily": "How does Vermeer balance narrative suggestion with compositional stillness?",
+      "emotion": "How does the quality of light create a mood that is both intimate and distant?",
+      "observation": "Distinguish what the Met's tags establish from the symbolic readings scholars propose.",
+      "analysis": "How does the composition use architecture and objects to frame the figure?",
+      "line": "How does the interplay of rectilinear forms and the curved lute create visual tension?",
+      "shape": "How does color harmony relate to Vermeer's reputation for optical precision?",
+      "color": "How does the soft modeling of paint contribute to the painting's atmosphere?",
+      "texture": "How does the perspective system construct a controlled, theatrical interior?",
+      "space": "How does light operate as both description and subject?",
+      "light": "How do music and cartography function as motifs in Dutch art, and what are the risks of overinterpreting them?",
+      "meaning": "How does the painting engage Dutch Golden Age culture of trade, domesticity, and display?",
+      "culture": "How does the figure's ambiguous activity, playing or pausing, complicate interpretation?",
+      "technique": "How does Vermeer's relatively small output and reputation shape how we encounter his work?",
+      "personal": "How do your own assumptions about quiet pictures shape your attention?",
+      "critical": "What does it mean to treat a painted interior as evidence of a historical period?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), tags (Interiors, Women, Music, Lutes, Maps) and medium checked against the Met record; no concerning terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A c. 1662–63 oil painting by Johannes Vermeer in the Met's collection, tagged with interiors, women, music, lutes and maps. It shows a woman with a lute in a quiet room lit by soft daylight.",
+    "vocabulary": [
+      "Dutch Golden Age",
+      "interior",
+      "perspective",
+      "lute",
+      "symbol",
+      "soft light"
+    ],
+    "directions": [
+      "Have students set up a corner of the classroom with light from a window and sketch it using only light and shadow.",
+      "Ask students to list the objects in the painting and brainstorm what each might say about her life, separating guesses from evidence.",
+      "Discuss how daily-life paintings can serve as historical clues."
+    ]
+  }
+}

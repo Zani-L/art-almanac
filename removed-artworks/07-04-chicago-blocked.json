@@ -1,0 +1,158 @@
+{
+  "id": "artic-44018",
+  "day": "07-04",
+  "title": "Croquet Scene",
+  "artist": "Winslow Homer",
+  "date": "1866",
+  "medium": "Oil on canvas",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f7b2db45-f393-653c-07ef-84319b0cdb92/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Friends of American Art Collection; Goodman Fund",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A group of men and women in 1860s clothing play croquet on an outdoor lawn on a sunny day. Their long dresses, hats and mallets stand out against the green grass.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/44018",
+    "objectId": "44018",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (fashion, women, men, leisure, weather/seasons), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the American artist Winslow Homer, dated 1866. The Art Institute's subject terms list fashion, women, men, leisure and weather. Homer painted several croquet scenes in the 1860s, when the game was a new craze in the United States.",
+  "descriptions": {
+    "k": "People are playing a game outside. They play on a lawn. The ladies wear long dresses. Some wear hats. It looks like a sunny day. What do you think the game is? Would you like to play?",
+    "g12": "Winslow Homer painted people playing croquet on a lawn. Croquet is a game where you hit a ball through little hoops with a mallet. The women wear long dresses and hats. Find the colors you like. What do you think they are saying to each other?",
+    "g35": "Winslow Homer painted Croquet Scene in 1866. Croquet was a new, popular game then, played outdoors by men and women together. Notice the long dresses and hats, which tell us about fashion long ago. Homer painted ordinary life in America. What does the painting show about how people had fun, and what do you notice about their clothes?",
+    "g68": "Winslow Homer painted Croquet Scene in 1866, not long after the American Civil War. Croquet was a fashionable new pastime that men and women could play together outdoors, and Homer painted several scenes of it. The museum's subject terms point to fashion, leisure, and weather. What does this scene suggest about leisure and social life at the time, and how do the clothes and poses tell the story?",
+    "g910": "Croquet Scene (1866) belongs to a series in which Winslow Homer explored a new, genteel pastime. Croquet allowed men and women to play together, and the paintings attend closely to clothing, posture, and open-air light. Painted soon after the Civil War, the picture sets leisure beside a changing nation. How does Homer treat fashion and pose, and what might the choice of such a subject reveal about American life in the 1860s?",
+    "g1112": "Croquet Scene (1866) is part of Winslow Homer's early exploration of modern American leisure. Croquet's popularity enabled mixed-gender social play, and the painting's attention to dress, posture, and sunlight reflects a developing realism. Painted in the wake of the Civil War, it can be read as a record of leisure, a study of changing social norms, or both. How do you weigh these readings, and what evidence in the composition supports them?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the people in the painting. What game are they playing?",
+      "emotion": "Do the people look happy or serious? What tells you?",
+      "observation": "Find a hat and a long dress. Where are they?",
+      "analysis": "Where do your eyes go first on the lawn? Why?",
+      "line": "Find a long, straight line made by a mallet or a person standing.",
+      "shape": "Look at the shape of the dresses. What do they look like?",
+      "color": "What colors are in the dresses? Which one is your favorite?",
+      "texture": "Does the grass look soft or rough? Tell us what you see.",
+      "space": "Where is the closest person? Where is the farthest?",
+      "light": "Is it a sunny day? Show us what tells you.",
+      "meaning": "Why do you think people play games like this outside?",
+      "culture": "People long ago wore different clothes. What would you wear to play today?",
+      "technique": "Homer painted this with oil paint. How might he make a lawn look like grass?",
+      "personal": "What outdoor game do you like to play with friends?",
+      "critical": "If you could join this game, what would you say?"
+    },
+    "g12": {
+      "daily": "Look at how the people stand and move. What are they doing?",
+      "emotion": "How does the painting feel: lazy, lively, or something else? What shows it?",
+      "observation": "List five things you can see, from clothing to the grass.",
+      "analysis": "How does Homer arrange the players so you can tell they are playing together?",
+      "line": "Which long lines in the painting show the players' mallets or their bodies?",
+      "shape": "How do the big shapes of dresses compare with the thin shapes of mallets?",
+      "color": "Which colors make the clothes stand out against the green lawn?",
+      "texture": "How does the painter make the cloth look different from the grass?",
+      "space": "How does Homer show that some players are closer to you than others?",
+      "light": "Where do you see light and shadow on the lawn and the clothes?",
+      "meaning": "Why might the artist choose a game as a subject for a painting?",
+      "culture": "Croquet was a new craze in 1866. What new games or fads are popular now?",
+      "technique": "How might Homer have painted fabric and grass differently?",
+      "personal": "Describe a game you could paint. How would you show people having fun?",
+      "critical": "Are paintings of everyday fun as important as paintings of big events? Why?"
+    },
+    "g35": {
+      "daily": "What clues in the poses and clothing show how the players interact? What remains unclear?",
+      "emotion": "How would you describe the mood of the painting, and which colors and shapes set it?",
+      "observation": "Take a quiet minute. What small details did you notice last?",
+      "analysis": "How does Homer arrange the figures so your eye moves across the lawn?",
+      "line": "How do the vertical figures and mallets create a rhythm across the picture?",
+      "shape": "How do the flowing shapes of the dresses contrast with the tall, narrow forms of mallets?",
+      "color": "How do the colors of the clothes stand out or blend with the lawn and sky?",
+      "texture": "How does the paint make clothing, grass, and sky feel different from each other?",
+      "space": "How does Homer use overlap and size to show depth across the lawn?",
+      "light": "How does sunlight give the scene a sense of a certain time of day?",
+      "meaning": "Why might a new fashionable game like croquet appeal to a painter of modern life?",
+      "culture": "How does the painting show how people in the 1860s dressed for fun?",
+      "technique": "Homer once worked as an illustrator. How might that background show in a painting like this?",
+      "personal": "How does painting an ordinary activity make you think about your own daily life as art?",
+      "critical": "How should we weigh a painting of leisure made soon after a national crisis like the Civil War?"
+    },
+    "g68": {
+      "daily": "What do the poses and clothes suggest about how the players interact, and what do you wonder about?",
+      "emotion": "What mood do the open light and bright clothes create, and what might it leave out?",
+      "observation": "Describe the players from left to right. Which detail rewards a second look?",
+      "analysis": "How does Homer arrange figures across the lawn so your eye moves from person to person?",
+      "line": "How do the vertical mallets and standing figures create a rhythm?",
+      "shape": "How do the big shapes of the dresses contrast with the thin shapes of the equipment?",
+      "color": "How do the colors of the clothes pop against the green lawn and sky?",
+      "texture": "How does Homer paint cloth, grass, and sky so each feels different?",
+      "space": "How do size and overlap show depth on the lawn?",
+      "light": "How does the sunlight tell you the weather and time of day?",
+      "meaning": "Why might a painter in 1866 choose a modern fashionable game as a subject?",
+      "culture": "What does the painting suggest about how men and women spent time together in the 1860s?",
+      "technique": "Homer was trained as an illustrator. How might that show in this scene?",
+      "personal": "What modern pastime would you paint to show your time?",
+      "critical": "Is a scene of leisure less important than a scene of history? Argue using this painting."
+    },
+    "g910": {
+      "daily": "How do the figures' poses and the arrangement on the lawn construct a sense of social interaction?",
+      "emotion": "How do bright, open light and clothing details produce a mood of ease, and could that be incomplete?",
+      "observation": "Examine how details of clothing and gesture reward close attention. What do they communicate about the period?",
+      "analysis": "Analyze how Homer arranges figures across the lawn to create rhythm and interplay.",
+      "line": "How do the verticals of mallets and standing figures structure the picture?",
+      "shape": "How do the large masses of the costumes contrast with the narrow forms of the game equipment?",
+      "color": "Evaluate how the palette of costumes against green grass creates both harmony and emphasis.",
+      "texture": "What does the handling of paint suggest about Homer's developing realism and his observation of outdoor light?",
+      "space": "How does the open lawn suggest social space, and how do the figures define it?",
+      "light": "How does the painting render sunlight and shade, and how does that connect to broader developments in nineteenth-century painting?",
+      "meaning": "How might Croquet Scene be read as a document of leisure, a study of fashion, or a reflection of postwar America?",
+      "culture": "How did croquet's popularity change social interaction between men and women in the 1860s?",
+      "technique": "How did Homer's early career in illustration and his attention to everyday life shape his painting?",
+      "personal": "How does your understanding of a painting change when you learn when it was made?",
+      "critical": "How should a museum frame a painting of leisure from a period of great national upheaval?"
+    },
+    "g1112": {
+      "daily": "How does Homer's attention to social choreography on the lawn shape your reading of the painting as observation or commentary?",
+      "emotion": "To what extent does bright open light produce ease, and what might such cheerfulness leave unsaid about the period?",
+      "observation": "Analyze how details of costume and gesture serve as evidence of social conventions and as formal elements.",
+      "analysis": "How does the distribution of figures and costumes establish compositional rhythm across the field?",
+      "line": "How do repeated verticals and diagonals produce structure without a single dominant focal point?",
+      "shape": "How do the masses of dress and the thin forms of mallets generate contrast that animates the scene?",
+      "color": "Assess the palette's role in balancing naturalism with decorative effect.",
+      "texture": "What does the handling of paint reveal about Homer's early realism and its relation to illustration?",
+      "space": "How does the lawn function as social stage, and how does the compositional layout suggest relations among players?",
+      "light": "How does Homer render open-air light, and how does that position him relative to French Impressionism, without overstating the connection?",
+      "meaning": "Weigh readings of the painting as a record of leisure, a commentary on gender and courtship, or a reflection of postwar America.",
+      "culture": "How might croquet's brief rise as a mixed-gender sport inform what viewers read into the scene?",
+      "technique": "How did Homer's training and early journalism shape his approach to everyday subjects?",
+      "personal": "How do you assess the relationship between what a painting shows and what it leaves out about its historical moment?",
+      "critical": "How might museums use works of leisure to complicate narratives about the nineteenth-century United States?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (fashion, women, men, leisure, weather/seasons) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1866 by Winslow Homer in oil on canvas. The museum lists fashion, women, men, leisure and weather as subjects. The record gives no further description of the figures, so this entry stays general; image not visually reviewed.",
+    "vocabulary": [
+      "genre painting",
+      "American Realism",
+      "croquet",
+      "fashion",
+      "composition",
+      "oil on canvas"
+    ],
+    "directions": [
+      "Have students sketch a game they play outdoors, focusing on the poses of the players.",
+      "Ask students to compare clothing in the painting with what they wear to play and list differences.",
+      "Discuss why a new game or fad might attract an artist's attention."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-62932",
+  "day": "12-13",
+  "title": "Female dancer",
+  "artist": "Artist unknown",
+  "date": "7th–8th century",
+  "medium": "Earthenware with traces of pigment",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/71271.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/71271.jpg",
+    "credit": "The Metropolitan Museum of Art, Fletcher Fund, 1928",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small clay figure of a woman dancer, standing in a graceful pose in long clothing. Faint traces of paint remain on the pale, earthy surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/62932",
+    "objectId": "62932",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Tang dynasty, 618–907), creditLine, classification (Tomb Pottery), public-domain flag, and image URLs read from the record (record has no tags)"
+  },
+  "context": "This clay figure of a woman dancer was made in China during the Tang dynasty (618-907) and is classed as tomb pottery, meaning figures made to be placed in burials. Tang tombs sometimes contained figures of musicians and dancers. Traces of the original paint remain on the surface.",
+  "descriptions": {
+    "k": "This is a small clay dancer from long ago. She stands in a graceful pose. A little of her paint is left. How would you stand to copy her? Can you dance like her?",
+    "g12": "A potter in China made this dancer from clay more than a thousand years ago. She was painted, and a few traces of the paint are left. She stands in a graceful pose. Try to copy her pose with your body. What music do you think she is dancing to?",
+    "g35": "This dancer comes from Tang dynasty China, made of earthenware and once painted. Only traces of color remain. Tang tombs often held figures of dancers and musicians, so the dead could have entertainment. Look at her pose and her clothing. How does the potter make a still figure seem to move? What do you think the music might sound like?",
+    "g68": "This Tang earthenware figure of a dancer retains only traces of its original pigment, so we must imagine how bright it once looked. Tomb pottery of this kind often included entertainers such as dancers and musicians, reflecting a taste for music and performance at the Tang court and in elite life. How does the pose suggest movement or rhythm? What details of clothing and posture matter most, and how might paint have changed the effect?",
+    "g910": "A Tang tomb figure of a dancer, this earthenware sculpture invites questions about performance, loss, and imagination. Only traces of pigment survive, so what we see is partly the effect of time. The pose, balancing stillness and implied movement, conveys the grace associated with Tang performance, though the Met's record does not specify a dance or occasion. Consider how the potter uses posture, drapery, and proportion to suggest rhythm, and how burial context shapes what such figures mean.",
+    "g1112": "This 7th-8th century dancer was made for burial, which raises questions about why entertainers appear in tombs: as sources of pleasure for the afterlife, as signs of status, or as reflections of living culture. The record's note of traces of pigment reminds us that our view of it is partial, as paint has largely worn away. A figure that stills a moving art form also asks how sculpture can capture time. Which readings can the evidence support, and which remain speculative?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How would you move your arms and body to dance like this clay dancer?",
+      "emotion": "Does the dancer look joyful, calm, or shy to you? What shows it?",
+      "observation": "Find the dancer's head, body, and clothes. What else can you find?",
+      "analysis": "What part of the dancer do your eyes go to first? Why?",
+      "line": "Trace the dancer's body in the air. Do the lines curve or stay straight?",
+      "shape": "What shapes does the dancer's clothing make? Are they long, round, or wavy?",
+      "color": "The clay is pale and has a little paint left. What colors can you find?",
+      "texture": "The clay looks dry and earthy. How would it feel to touch?",
+      "space": "How much room do you need to dance like her?",
+      "light": "Where does light fall on the dancer and where is it shadowed?",
+      "meaning": "Why might someone want a dancer figure to keep them company?",
+      "culture": "People in China made dancers from clay long ago. What dances do people do in your family or community?",
+      "technique": "The dancer was made from clay and baked in a kiln. How did the clay change?",
+      "personal": "What music makes you want to dance? Show a move.",
+      "critical": "The dancer is not moving. How can an artist make a still figure feel like dancing?"
+    },
+    "g12": {
+      "daily": "What is the dancer doing, and how can you tell from her pose?",
+      "emotion": "What feeling does the dancer give you, graceful or shy? What shows it?",
+      "observation": "Describe the dancer from head to foot. Find five things.",
+      "analysis": "How does the potter place the dancer's head, arms, and body to show balance?",
+      "line": "Follow the flowing lines of her clothes and body. Which lines make her feel like she is moving?",
+      "shape": "What shapes make up her clothing and body? How do they flow together?",
+      "color": "Only traces of paint are left. Where do you see color, and what might it have looked like before?",
+      "texture": "The clay is plain and dry in places. How is that different from a smooth, glazed figure?",
+      "space": "She is a sculpture you can walk around. What would you see if you stood behind her?",
+      "light": "Where do the folds of her clothing make shadows?",
+      "meaning": "Dancers were part of entertainment in Tang times. Why might someone place a dancer in a tomb?",
+      "culture": "This dancer was made in Tang China. What does she tell you about the music and dance people enjoyed?",
+      "technique": "The potter shaped her from clay and painted her afterward. Why might paint wear away over time?",
+      "personal": "What kind of dancing or movement do you like best?",
+      "critical": "We cannot see all of the paint. How might the figure look different if it were brightly colored?"
+    },
+    "g35": {
+      "daily": "How does the potter suggest dance and music in a figure that is completely still? Use details to explain.",
+      "emotion": "What mood does the dancer's pose and bearing express?",
+      "observation": "Look for one minute. What small details in her clothing, pose, or surface did you notice?",
+      "analysis": "How are the parts of the dancer's body arranged to give a sense of balance?",
+      "line": "How do the flowing lines of her clothing help suggest movement?",
+      "shape": "How do the shapes of her clothing and body create a graceful outline?",
+      "color": "Only traces of paint survive. What can you learn from them, and what are you left to imagine?",
+      "texture": "How does the unglazed earthenware surface differ from glazed pottery like the camel in the archive?",
+      "space": "How does a standing sculpture show movement differently from a drawing of a dancer?",
+      "light": "How do folds and curves in her clothes catch light and shadow?",
+      "meaning": "Why might entertainers such as dancers be included in Tang tombs?",
+      "culture": "What does a dancer figure suggest about the arts valued in Tang society?",
+      "technique": "What steps do you think the potter followed to shape, fire, and paint the figure?",
+      "personal": "Think of a performance you have seen. What moment would you choose to freeze in clay?",
+      "critical": "How can an object made for a tomb still tell us about the lives of living people?"
+    },
+    "g68": {
+      "daily": "How does the potter capture the grace of dance in a still, earthenware figure?",
+      "emotion": "How do posture and proportion create a graceful or composed impression?",
+      "observation": "Examine the figure from head to base. Which details of clothing and posture are most carefully modeled?",
+      "analysis": "How does the figure's silhouette create a sense of rhythm or balance?",
+      "line": "How do flowing lines in the clothing suggest motion in a still pose?",
+      "shape": "How do elongated, curved forms contribute to the dancer's elegance?",
+      "color": "How does the loss of most pigment change the way we see the dancer?",
+      "texture": "How does the matte clay surface differ in effect from glazed tomb figures?",
+      "space": "How does the figure occupy space, and what angles best show her pose?",
+      "light": "How do folds in the clothing create light and shadow that suggest movement?",
+      "meaning": "Why might dancers and musicians accompany the dead, and what do scholars debate about this practice?",
+      "culture": "What can tomb entertainers reveal about performance, class, and gender in Tang China?",
+      "technique": "How could molds and hand finishing help potters produce many figures with individual touches?",
+      "personal": "What emotion does moving to music express for you, and how could art capture it?",
+      "critical": "Does this figure show real Tang dancers or an idealized image? Support your view."
+    },
+    "g910": {
+      "daily": "How does the figure balance stillness and implied motion to evoke dance?",
+      "emotion": "How does the dancer's bearing create a mood of grace or restraint?",
+      "observation": "Describe the figure's visual hierarchy, from head and gesture to clothing and base.",
+      "analysis": "Analyze how proportion and posture produce a unified, rhythmic figure.",
+      "line": "How do vertical and flowing diagonal lines in clothing and pose build a sense of movement?",
+      "shape": "How does the potter reduce the dancer to elegant, elongated volumes?",
+      "color": "How does the survival of traces of pigment complicate our judgment of the figure's original effect?",
+      "texture": "How do worn surface and remaining pigment shape the figure's materiality?",
+      "space": "How does a freestanding figure suggest choreography in space?",
+      "light": "How do folds and curves of clothing interact with light to suggest motion?",
+      "meaning": "How might a dancer in a tomb be read as entertainment, status, or part of a hoped-for afterlife, and where does evidence run out?",
+      "culture": "How do female performers in Tang tomb pottery shape our understanding of women's roles in elite culture?",
+      "technique": "What do mold-made forms and applied pigment suggest about workshop practice in Tang ceramics?",
+      "personal": "How do forms of movement and performance in your own culture shape your reading of this figure?",
+      "critical": "How should we weigh a figure's funerary purpose against our enjoyment of it as art?"
+    },
+    "g1112": {
+      "daily": "What does it mean to sculpt a moving art in a still medium for an audience of the dead?",
+      "emotion": "How does the contrast between lost color and surviving grace shape the figure's emotional effect today?",
+      "observation": "Describe the dancer with precision, separating what the record states from what you infer.",
+      "analysis": "Analyze how the figure's gesture and proportion work as a compact choreography.",
+      "line": "How does the figure's contour mediate between naturalism and stylized elegance?",
+      "shape": "How does the translation of dance into volumes reflect broader Tang ideals of grace?",
+      "color": "How should museums present figures whose original polychromy has largely vanished?",
+      "texture": "How does weathering after burial change our reading of the figure's surface?",
+      "space": "How does a small freestanding figure invite closeness that differs from monumental sculpture?",
+      "light": "How does museum lighting emphasize or flatten the folds that suggest motion?",
+      "meaning": "Consider the dancer as a sign of pleasure, status, or social order. What do such readings assume about the beliefs of the buried?",
+      "culture": "How does a female dancer complicate or confirm narratives about cosmopolitan Tang culture, and what are the limits of that inference?",
+      "technique": "What questions about workshop specialization does a mold-made, painted tomb figure raise?",
+      "personal": "How does your own view of dance and performance shape the way you imagine this figure's original use?",
+      "critical": "How cautious should we be in reading entertainers in tombs as evidence of everyday entertainment?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Female dancer), classification (Tomb Pottery), and medium (earthenware with traces of pigment) checked against the museum record; the record has no tags. Nothing in these suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Tang dynasty (7th-8th century) tomb figure of a dancer, earthenware with traces of pigment. Confirm clothing and pose details from the image before class discussion.",
+    "vocabulary": [
+      "Tang dynasty",
+      "tomb pottery",
+      "earthenware",
+      "pigment",
+      "gesture",
+      "silhouette"
+    ],
+    "directions": [
+      "Have students strike the dancer's pose and describe which muscles and balance it needs.",
+      "Ask students to imagine and sketch the dancer in full color, then compare their ideas.",
+      "Discuss how artists show movement in still works and find examples in the archive."
+    ]
+  }
+}

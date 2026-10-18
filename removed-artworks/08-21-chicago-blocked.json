@@ -1,0 +1,158 @@
+{
+  "id": "artic-14586",
+  "day": "08-21",
+  "title": "The Poet's Garden",
+  "artist": "Vincent van Gogh",
+  "date": "1888",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/d4bc1723-7cbc-d36d-a9cb-f84553f2a6f6/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A garden full of tall grasses with small white flowers in the foreground, a grove of trees with leaves from deep green to gold, a dense yellow sky, and a small blue mountain peak at the far left.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/14586",
+    "objectId": "14586",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (landscapes, garden, poets, bushes, flora, foliage, flowers, trees, green), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Vincent van Gogh, dated 1888, when he lived in Arles in the south of France. The Art Institute's subject terms list a garden, poets, bushes, trees and flowers. Van Gogh painted a group of garden pictures for the Yellow House, the home he was preparing for fellow artists.",
+  "descriptions": {
+    "k": "This is a garden with tall grass and little white flowers. There are trees with green and gold leaves. The sky is yellow. Can you find the small blue mountain? Why do you think the sky is yellow?",
+    "g12": "Vincent van Gogh painted this garden in the south of France. Tall grass and white flowers are close to you. Trees with green and gold leaves stand behind. The sky is thick and yellow. How do the brushstrokes make the garden look alive?",
+    "g35": "Vincent van Gogh painted The Poet's Garden in 1888 in Arles, France. Tall grass with small white flowers fills the front, while trees with green and gold leaves rise behind them under a bright yellow sky. A tiny blue mountain peeks in at the left. Van Gogh used thick, short brushstrokes. How do they give the garden energy?",
+    "g68": "Van Gogh painted The Poet's Garden in 1888, when he lived in Arles in southern France. Tall grasses and flowers in the foreground lead to a grove of trees, a thick yellow sky, and a small blue mountain at the left. Layers of short, thick strokes give the scene movement. How does the combination of vivid color and energetic marks affect your sense of the place?",
+    "g910": "The Poet's Garden (1888) was painted in Arles, where Van Gogh hoped to establish an artists' community. The saturated yellows and greens and the thickly applied, directional strokes charge a public garden with feeling. The title and the subject terms invite associations with poetry, though scholars caution against reading too much into them. How do color, mark, and composition convey an emotional response to place?",
+    "g1112": "In The Poet's Garden (1888), Van Gogh combines Post-Impressionist expressive color with a densely worked, directional touch. Made in Arles during a period of intense productivity and ambitions for a collaborative studio, the picture transforms a public garden into something charged with mood. Interpretations of the title and of the artist's state of mind should be handled cautiously. How do formal choices create meaning without our needing a fixed biographical story?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the garden. What colors do you see in the sky?",
+      "emotion": "Does this garden feel quiet or full of energy? What do you see that tells you?",
+      "observation": "Find the tall grass, the trees, and the small blue mountain. Which do you see first?",
+      "analysis": "What is near you in the painting and what is far away?",
+      "line": "Van Gogh used short, thick strokes. Can you move your finger the way the paint goes?",
+      "shape": "Find a round, bushy tree shape. Where is it?",
+      "color": "Which colors are the brightest: yellow, green, or blue?",
+      "texture": "Does the paint look flat or lumpy? Tell us what you see.",
+      "space": "How do the tall grasses seem to move?",
+      "light": "Where does the picture feel brightest?",
+      "meaning": "Why might the sky be yellow in this painting?",
+      "culture": "Van Gogh was from the Netherlands but painted in France. What garden or park do you know?",
+      "technique": "Van Gogh used thick paint. What happens when you pile paint on?",
+      "personal": "What would you plant in your own garden to paint?",
+      "critical": "If you could walk in this garden, what would you hear?"
+    },
+    "g12": {
+      "daily": "Look at the grass, the trees, and the yellow sky. What feeling do you get?",
+      "emotion": "Is this a calm garden or an energetic one? Show us what tells you.",
+      "observation": "List five things you see: colors, plants, and shapes.",
+      "analysis": "How does Van Gogh help you look from the tall grass to the trees to the mountain?",
+      "line": "Which brushstrokes look short and bouncy?",
+      "shape": "How do the round tree shapes sit near the tall, thin grass?",
+      "color": "Yellow and green are close on the color wheel. How do they work together here?",
+      "texture": "How does the thick paint make the leaves feel different from the sky?",
+      "space": "How can you tell the mountain is far away?",
+      "light": "The yellow sky glows. What time of day do you think it is?",
+      "meaning": "Van Gogh said this was a poet's garden in the title. What kind of garden would a poet like?",
+      "culture": "Van Gogh lived in a town in southern France. What clues in the painting show a warm place?",
+      "technique": "Van Gogh used lots of paint. Why might thick paint be good for showing grass?",
+      "personal": "What color would you use for a sky if you wanted it to show a feeling?",
+      "critical": "Does the sky have to be blue to be right? Explain."
+    },
+    "g35": {
+      "daily": "What details show that this is a garden? What details seem imagined?",
+      "emotion": "How would you describe the mood, and which colors and strokes create it?",
+      "observation": "Look slowly from the grass to the mountain. What small details did you notice last?",
+      "analysis": "How does Van Gogh lead your eye from the tall grass to the trees and sky?",
+      "line": "How do the short, thick strokes make lines of motion in the grass and leaves?",
+      "shape": "How do the rounded tree shapes and the tall grasses contrast?",
+      "color": "How do greens, golds, and yellow make the garden feel warm and glowing?",
+      "texture": "How does thick paint, called impasto, give the garden a bumpy surface?",
+      "space": "How does the small mountain help show how far the space goes?",
+      "light": "How does the glowing yellow sky change how the garden looks?",
+      "meaning": "Van Gogh painted garden pictures to decorate his home. What might he have hoped people would feel there?",
+      "culture": "What do the colors tell you about the climate in the south of France?",
+      "technique": "Why might an artist choose bright colors over natural ones?",
+      "personal": "What place near you could you paint with bold color, and what mood would you give it?",
+      "critical": "Is it more important for a painting to be accurate or to show feeling? Use this one."
+    },
+    "g68": {
+      "daily": "How do the saturated colors and thick strokes tell you about how Van Gogh felt, and what remains uncertain?",
+      "emotion": "What mood do the golden light and active grass create, and what might change that mood?",
+      "observation": "Describe the foreground, the grove, the sky, and the mountain. What did you notice last?",
+      "analysis": "How does the composition guide you through the garden from the grass to the distant peak?",
+      "line": "How do directional brushstrokes describe movement in the leaves and grass?",
+      "shape": "How do rounded tree masses and vertical grass blades set up a visual rhythm?",
+      "color": "How does Van Gogh use yellow and green with small touches of blue for emphasis?",
+      "texture": "How does the thick impasto affect how light hits the painting's surface?",
+      "space": "How does the small blue mountain set the garden into a bigger landscape?",
+      "light": "How does the yellow sky act as both light source and mood?",
+      "meaning": "The title mentions a poet. How might a title shape how you see a painting, even if its meaning is uncertain?",
+      "culture": "How might Van Gogh's move from the Netherlands to southern France have changed his color and subjects?",
+      "technique": "How is Van Gogh's technique different from the soft brushwork of Impressionism?",
+      "personal": "How do you decide whether strong color in a painting expresses a feeling or just decorates?",
+      "critical": "How would you test whether this garden is observed, imagined, or both?"
+    },
+    "g910": {
+      "daily": "How do vivid color and agitated brushwork construct a mood beyond mere description of a garden?",
+      "emotion": "How does the glowing sky and dense foliage create warmth, and could the intensity also feel unsettling?",
+      "observation": "Examine how the contrast between foreground grasses and distant peak organizes depth.",
+      "analysis": "Analyze how the composition builds a path of attention from the foreground to the horizon.",
+      "line": "How do the directional strokes act as both description and expressive marks?",
+      "shape": "How do the repeated shapes of trees and grass blades create rhythm?",
+      "color": "Evaluate Van Gogh's use of near-complementary contrasts and saturated yellows to generate emotional intensity.",
+      "texture": "What does the buildup of impasto reveal about the pace and process of painting?",
+      "space": "How does the high horizon and compressed space affect your sense of the garden as a stage or a refuge?",
+      "light": "How is light conveyed by color rather than by shadow?",
+      "meaning": "What are the risks of reading Van Gogh's paintings only through his biography?",
+      "culture": "How did the Arles period and the plan for a shared studio influence the group of garden paintings?",
+      "technique": "How does his approach build on Impressionism while moving toward expressive ends?",
+      "personal": "How does your response change if you set aside what you know about Van Gogh's life?",
+      "critical": "How might the painting's popularity both help and limit fresh looking?"
+    },
+    "g1112": {
+      "daily": "How does the tension between observed garden and heightened color position the work between description and expression?",
+      "emotion": "To what extent does the saturated palette convey vitality, and how might biographical narratives over-determine that reading?",
+      "observation": "Analyze the spatial structure from dense foreground to distant peak and how the sky compresses the scene.",
+      "analysis": "How does the compositional rhythm of trunks, foliage, and grasses organize a field of intense marks?",
+      "line": "How does the directional impasto operate as expressive notation as well as description?",
+      "shape": "How do recurring organic shapes establish a pattern that both unifies and agitates the surface?",
+      "color": "Assess how simultaneous contrast and heightened local color structure the painting's emotional register.",
+      "texture": "What does the physical build-up of paint suggest about Van Gogh's engagement with materiality?",
+      "space": "How does the compressed spatial field relate to Japanese prints and Post-Impressionist concerns with the picture plane?",
+      "light": "How does the painting replace atmospheric light with chromatic light, and with what implications?",
+      "meaning": "How should critics weigh the mythology around Van Gogh against the formal and documentary evidence of his letters and paintings?",
+      "culture": "How did the project of decorating the Yellow House for fellow artists shape the aims of this painting?",
+      "technique": "In what ways does the painting extend and depart from Impressionist practice?",
+      "personal": "How does popularity shape the way viewers anticipate Van Gogh's paintings, and how can that be resisted?",
+      "critical": "How might one construct a case that this garden is a place, a mood, or a statement about painting?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (landscapes, garden, poets, bushes, flora, foliage, flowers, trees, green) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1888 in Arles by Vincent van Gogh, in oil on canvas. The museum record lists a garden, poets, bushes, trees, flowers and green. The record's place of origin lists the Netherlands (his birthplace); he was living in France. Avoid over-reading his biography.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "impasto",
+      "expressive color",
+      "foreground",
+      "horizon",
+      "directional brushwork"
+    ],
+    "directions": [
+      "Have students paint a garden or tree using thick strokes and non-natural color to express a feeling.",
+      "Ask students to compare bold and soft color choices by painting the same shape twice.",
+      "Discuss how titles change the way we see a painting."
+    ]
+  }
+}

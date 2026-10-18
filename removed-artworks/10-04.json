@@ -1,0 +1,159 @@
+{
+  "id": "met-471960",
+  "day": "10-04",
+  "title": "Roundel with Adoration of the Kings",
+  "artist": "Artist unknown",
+  "date": "1510–20",
+  "medium": "Colorless glass, vitreous paint and silver stain",
+  "movement": "Northern Renaissance",
+  "region": "North Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/cl/web-large/DP241182.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/cl/original/DP241182.jpg",
+    "credit": "The Metropolitan Museum of Art, The Cloisters Collection, 1972",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round panel of nearly clear glass painted with dark lines and yellow-gold tones. It shows the Virgin Mary with the Christ Child receiving a visit from the kings, the Magi.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/471960",
+    "objectId": "471960",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (North Netherlandish), classification (Glass-Stained), diameter, tags (Madonna and Child; Adoration of the Magi), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A round stained-glass panel made in the northern Netherlands in 1510–20. It is about 22 centimeters across and made of colorless glass with vitreous paint and silver stain. It shows the Adoration of the Kings, the Gospel story in which the Magi visit the infant Jesus.",
+  "descriptions": {
+    "k": "Kings come to visit a baby. A mother holds the child. The kings brought gifts. This round picture is made of glass, and light shines through it. What gift would you bring to a baby?",
+    "g12": "This round glass picture was made in the Netherlands about 500 years ago. It shows kings visiting a baby, with his mother. In the story, the kings, called the Magi, brought gifts. Dark painted lines and yellow-gold color show the scene. What do you think the kings are bringing?",
+    "g35": "This roundel is a round piece of window glass about 22 centimeters wide, made in the northern Netherlands in 1510–20. It shows the Adoration of the Kings, a Gospel story in which the Magi bring gifts to the infant Jesus. The glass is colorless. The artist drew details in dark paint and added silver stain, which turns glass yellow when fired. Look for the mother, the child, and the visitors. How does the artist show who is important?",
+    "g68": "This roundel from the northern Netherlands, 1510–20, tells the story of the Adoration of the Kings, in which the Magi visit the infant Jesus. Rather than using colored glass, the artist worked in colorless glass, drawing and shading with dark vitreous paint and adding silver stain, which turns yellow when fired. About 22 centimeters across, it was made to be seen up close. How does the circle shape the grouping of the figures, and how do line and tone work without strong color?",
+    "g910": "Made in the northern Netherlands in 1510–20, this roundel compresses the Adoration of the Kings into a circle about 22 centimeters across. The artist used colorless glass, vitreous paint for line and shading, and silver stain for yellow tones, a technique suited to detailed, close-viewed panels. The subject, with the Madonna and Child receiving visitors, allowed a clear hierarchy of figures. How do linear drawing and the restrained palette focus attention, and what does the format add to the story?",
+    "g1112": "This northern Netherlandish roundel of 1510–20 reduces the Adoration of the Kings to a circular field of about 22 centimeters, relying on vitreous paint and silver stain on colorless glass rather than saturated pot-metal color. That choice shifts emphasis from color to drawing and tonal modeling, a mode associated with panels made for close viewing. The Adoration was a favored subject across devotional media, and scholars may read such panels as devotion, narrative, or display. How does the medium shape the reading of a familiar story, and what remains uncertain about the panel's original setting?"
+  },
+  "questions": {
+    "k": {
+      "daily": "A baby has visitors with gifts. What gift would you bring, and why?",
+      "emotion": "Does this glass picture feel calm, joyful, or special? What shows it?",
+      "observation": "Look for the mother, the baby, and the kings. Who do you find first?",
+      "analysis": "Which person do your eyes look at first? What helps them stand out?",
+      "line": "Trace the dark lines of a king's clothes in the air. Are they straight, wavy, or both?",
+      "shape": "The glass is a circle. What shapes do the people make inside it?",
+      "color": "This glass is mostly clear with dark lines and yellow-gold parts. Where do you see the yellow-gold?",
+      "texture": "Glass is hard and smooth, but the picture shows soft cloth. How do you think the artist made cloth look soft?",
+      "space": "Who is closest to you in this picture? Who is farther away?",
+      "light": "Light shines through this glass like a window. What would you see if it was in a sunny room?",
+      "meaning": "The kings have traveled to see the baby. What do you think they feel when they arrive?",
+      "culture": "People long ago hung small glass pictures in windows. What do you see out of your window at home?",
+      "technique": "The artist painted dark lines on glass and then baked it so the lines would stay. Why must the artist be careful?",
+      "personal": "Tell about a time you gave a gift or got a gift. How did it feel?",
+      "critical": "There are no bright colors here. How does the picture still tell its story?"
+    },
+    "g12": {
+      "daily": "How can you tell this scene is about a special visit? Point to the details that show it.",
+      "emotion": "What feeling does this scene of kings and a baby give you? Which part helps you feel it?",
+      "observation": "Describe the people in the picture. What are they doing with their hands and bodies?",
+      "analysis": "How does the artist use the circle to arrange the mother, baby, and kings?",
+      "line": "Look at the dark painted lines. Which lines show clothing, and which show faces or hands?",
+      "shape": "Find the shapes of the figures and the round edge. How do they fit together?",
+      "color": "Dark paint and yellow-gold stain are the only colors on the kings and the child. How do they still make the scene clear?",
+      "texture": "Glass is hard, but the picture shows cloth and crowns. How does the artist show different surfaces?",
+      "space": "Where is the front of the picture and where is the back? What helps you tell?",
+      "light": "Light passes through glass. Which parts of this picture would glow the most?",
+      "meaning": "In the story the kings bring gifts to a child. How does the picture show respect?",
+      "culture": "This glass was made in the Netherlands about 500 years ago. Why might a family want this scene in a window?",
+      "technique": "Silver stain turns the glass yellow when it is baked. Where do you think the yellow shows up on the crowns and gifts?",
+      "personal": "What gift would you make by hand for someone special?",
+      "critical": "The artist has a small circle to tell a big story. What is easy to see and what is hard to see?"
+    },
+    "g35": {
+      "daily": "What details in the roundel show that the kings are honoring the child? Give two examples.",
+      "emotion": "What is the mood of the scene, quiet, joyful, or solemn? Which details support your answer?",
+      "observation": "Look at the figures slowly. What small details do you notice in their clothes, crowns, and poses?",
+      "analysis": "How does the artist arrange the Madonna, the child, and the kings to fill the circle?",
+      "line": "How do thick and thin painted lines show folds of cloth and the shapes of faces?",
+      "shape": "How does the circular frame affect the shapes of the figures and the way they gather?",
+      "color": "With colorless glass, black lines, and yellow stain, how does the artist make the visitors stand out from the Madonna?",
+      "texture": "A glass painter works with thin lines and tone. How might the artist suggest rich cloth or fur?",
+      "space": "How does the artist create a sense of depth in a picture only about 22 centimeters wide?",
+      "light": "Because light passes through glass, the picture changes through the day. How might this one look different in morning and evening?",
+      "meaning": "The Adoration of the Kings is a story of visitors bringing gifts. What does the picture show about respect and welcome?",
+      "culture": "Roundels were often set in the windows of homes. Why might a family choose a picture of this story?",
+      "technique": "The painted lines are fired onto the glass to last. Why would the artist plan each line before firing?",
+      "personal": "Think of a time you welcomed a visitor. How is it like or unlike this scene?",
+      "critical": "We know the date but not the artist's name. What can the roundel itself tell us about the maker's skill?"
+    },
+    "g68": {
+      "daily": "How does the roundel make a quiet, crowded gathering feel focused on one child?",
+      "emotion": "How does the restrained palette of glass, black, and yellow shape the scene's tone of reverence?",
+      "observation": "List the figures and objects you can identify. Which receive the most detail?",
+      "analysis": "How does the composition place the Madonna and Child in relation to the kings within the circle?",
+      "line": "How does the artist use line alone to describe fabric, faces, and gifts?",
+      "shape": "How do overlapping figures create a grouped shape in the roundel?",
+      "color": "How does silver stain add warmth to colorless glass, and where might it be most effective?",
+      "texture": "How does the painter suggest soft or rich materials on a hard transparent surface?",
+      "space": "How does the artist create depth with overlap and size rather than detailed scenery?",
+      "light": "How does transparency change how lines and tones appear compared with paint on an opaque panel?",
+      "meaning": "Why was the Adoration of the Kings a popular subject, and what different messages might viewers take from it?",
+      "culture": "How might private devotion in the early 1500s explain the demand for small, detailed glass panels?",
+      "technique": "How do paint and silver stain each need firing, and how might they combine?",
+      "personal": "How does the picture's focus on welcome and gifts connect to your experience of hospitality?",
+      "critical": "How does knowing the roundel is small and meant for close viewing change how you judge its detail?"
+    },
+    "g910": {
+      "daily": "How does the roundel balance a crowded scene with a clear focal point in a small circular space?",
+      "emotion": "How does restraint in color and line produce a tone of reverence?",
+      "observation": "Describe the visual hierarchy. Which figure draws the eye first, and how is that achieved?",
+      "analysis": "Analyze how the circular field organizes the Madonna, the child, and the visiting kings.",
+      "line": "How does linear drawing in vitreous paint define form and character?",
+      "shape": "How do the figure group's contours relate to the curve of the frame?",
+      "color": "How does silver stain function as both color and light in colorless glass?",
+      "texture": "How might fine tonal modulation in paint suggest the volume of cloth and bodies?",
+      "space": "How does the artist build a sense of place with minimal setting?",
+      "light": "How does transmitted light change the way viewers perceive the roundel compared with a painting?",
+      "meaning": "How might the Adoration be read as narrative, devotional example, or a statement about reverence, and which reading is strongest?",
+      "culture": "How do roundels show religious imagery moving into households in the northern Renaissance?",
+      "technique": "What does the combination of paint, stain, and firing suggest about the knowledge of glass painters?",
+      "personal": "How do stories about gifts and honor resonate with your own sense of respect?",
+      "critical": "How do we separate what the roundel shows from what we know from the Gospel story?"
+    },
+    "g1112": {
+      "daily": "What does the roundel’s imagery establish about the Adoration, and what depends on knowing the Gospel account beyond the glass?",
+      "emotion": "How do the panel's scale and restraint invite intimate viewing, in contrast to monumental church glass?",
+      "observation": "Describe how the kings, the Madonna, and the child are placed within the 22-centimeter circle. Which details are secure and which inferred?",
+      "analysis": "Analyze how the roundel’s transparency and circular frame shape the way the visitors approach the child.",
+      "line": "How does painted line, fixed by firing, negotiate between description and expression?",
+      "shape": "How does the grouping of figures within the circle reflect conventions in northern Renaissance design?",
+      "color": "How does the near absence of color glass redefine what counts as color in stained glass?",
+      "texture": "What does the illusion of cloth and ornament reveal about the painter's skill with a limited vocabulary?",
+      "space": "How does the roundel manage narrative time and place with little setting?",
+      "light": "How does the interplay of daylight and glass shape the roundel's appearance, and what is lost in museum display?",
+      "meaning": "Weigh readings of this Adoration as private devotion, story illustration, or display of status. What would each reading need as evidence?",
+      "culture": "How does a North Netherlandish roundel of 1510–20 reflect networks of glass painting, print sources, and patrons in northern Europe?",
+      "technique": "How might silver stain, long used by glass painters, affect the aesthetic of a panel without colored glass?",
+      "personal": "How does your own experience of hospitality or pilgrimage shape how you read the visit of the Magi?",
+      "critical": "What does moving a panel made for a domestic setting into a museum like The Cloisters change in how we interpret it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Glass-Stained), medium and tags (Madonna and Child; Adoration of the Magi) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A North Netherlandish stained-glass roundel from 1510–20 at The Cloisters, about 22 centimeters across. It shows a familiar Gospel story using colorless glass, painted lines, and silver stain.",
+    "vocabulary": [
+      "roundel",
+      "stained glass",
+      "vitreous paint",
+      "silver stain",
+      "Magi",
+      "devotional image"
+    ],
+    "directions": [
+      "Pair this roundel with the Flight into Egypt roundel in the archive and compare how each artist fills the circle.",
+      "Have students draw a gift-giving scene in a circle using only black and yellow.",
+      "Discuss how light passing through glass makes a picture look different from a printed picture."
+    ]
+  }
+}

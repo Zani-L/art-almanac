@@ -1,0 +1,158 @@
+{
+  "id": "met-11131",
+  "day": "02-14",
+  "title": "Palm Tree, Nassau",
+  "artist": "Winslow Homer",
+  "date": "1898",
+  "medium": "Watercolor and graphite on off-white wove paper",
+  "region": "American",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-21448-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP-21448-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Amelia B. Lazarus Fund, 1910",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A watercolor of a palm tree by a beach, its long fronds streaming to one side as if blown by wind. The paint is loose and bright, with pencil lines visible and bare paper left white.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11131",
+    "objectId": "11131",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Beaches, Palms, Wind), and image URLs read from the record"
+  },
+  "context": "A watercolor by the American artist Winslow Homer, dated 1898 in the Met's record. Nassau is the capital of the Bahamas, where Homer painted during winter trips. The tags in the record mention beaches, palms, and wind.",
+  "descriptions": {
+    "k": "A palm tree stands near the beach. Its leaves look like long green feathers. Do you think the wind is blowing? Which way are the leaves going? Show with your hands.",
+    "g12": "Winslow Homer painted this palm tree in Nassau, in the Bahamas. He used watercolor, which is paint mixed with water. The leaves look like they are blowing in the wind. See the pencil lines and the white paper left bare. How does the tree seem to move?",
+    "g35": "Winslow Homer was an American artist who traveled to warm places in winter and painted what he saw. This watercolor shows a palm tree in Nassau, in the Bahamas. Look at how the long leaves bend and sweep, and where the artist left white paper to shine like sunlight. What clues show that the wind is strong?",
+    "g68": "Homer made this watercolor in 1898 on a trip to Nassau. Watercolor lets an artist work fast, which suits a subject like a palm tree in wind, where movement matters more than small details. Notice how washes of color suggest leaves and how white paper works as bright light. Why might a painter choose watercolor for travel, and how does speed shape the picture?",
+    "g910": "In Palm Tree, Nassau, Homer uses fluid washes and visible graphite to capture a tree in motion. The sweeping fronds create strong diagonal rhythms, while unpainted paper provides the brightest light. Watercolor leaves little room for correction, so the sheet shows decisions made quickly. Consider how Homer, known for rugged northern seascapes, treats a tropical subject, and how the sheet balances careful observation with spontaneous handling of paint.",
+    "g1112": "Homer's Bahamas watercolors are often discussed as some of his most daring work in the medium, and this 1898 sheet shows why: transparent washes, bare paper, and graphite underdrawing convey wind and heat with great economy. The record gives only a place and a subject, so interpretation should stay close to what can be seen. Consider how an American artist's travel to a Caribbean setting might shape his choices, and how such works can be read as both direct observation and constructed picture."
+  },
+  "questions": {
+    "k": {
+      "daily": "Make your body into this palm tree. How do your arms bend when the wind blows?",
+      "emotion": "Does this place feel sleepy or lively? What in the picture tells you?",
+      "observation": "Point to the tree's trunk and its leaves. What else can you find?",
+      "analysis": "Which part of the palm tree do your eyes visit first? Why?",
+      "line": "The leaves look like long, curvy lines. Can you draw one in the air?",
+      "shape": "What shapes do the palm leaves make? Are they pointy, round, or long?",
+      "color": "Which colors do you see in the tree? Which one is brightest?",
+      "texture": "How would a palm leaf feel if you touched it? Soft, scratchy, or smooth?",
+      "space": "Is the tree big or small in the paper? What is behind it?",
+      "light": "Where did the artist leave the paper white? What could the white look like?",
+      "meaning": "If this palm tree could talk, what would it say about the wind?",
+      "culture": "Palm trees grow in warm places like the Bahamas. Where have you seen one, or what plants grow near your home?",
+      "technique": "This painting is made with watery paint. How do you think the artist made the leaves so quick and swishy?",
+      "personal": "Have you ever stood in a strong wind? Tell what it felt like.",
+      "critical": "Why do you think the artist left some parts without paint?"
+    },
+    "g12": {
+      "daily": "Look at the palm leaves. What shows you that the wind is blowing?",
+      "emotion": "Is the mood of this place calm, wild, or something else? Pick a detail to explain.",
+      "observation": "Name five things you notice, from the trunk to the edges of the paper.",
+      "analysis": "How do the leaves point in a way that moves your eyes across the page?",
+      "line": "Where do you see pencil lines? How are they different from the painted parts?",
+      "shape": "Are the palm leaves more like long lines or big blobs? How does that change the feeling?",
+      "color": "Which greens or other colors did Homer use? Where do the colors blend into each other?",
+      "texture": "Which parts of the palm look quick and thin, and which look darker and heavier?",
+      "space": "Does the palm tree feel close to you or far away? What helps you decide?",
+      "light": "Where does the white paper make the picture feel sunny?",
+      "meaning": "What do you think the artist liked most about this tree?",
+      "culture": "Homer lived in the United States but painted in the Bahamas. Why might an artist travel to paint a new place?",
+      "technique": "Watercolor dries quickly and is hard to fix. How might that help the artist paint a windy tree?",
+      "personal": "What is the most interesting tree you have seen? How would you paint it?",
+      "critical": "Does this look finished or like a quick sketch? What do you see that makes you think so?"
+    },
+    "g35": {
+      "daily": "What details in this watercolor make you feel the wind and warmth of Nassau?",
+      "emotion": "How would you describe the mood of this painting, and which choices by Homer help create it?",
+      "observation": "After a minute of quiet looking, what small details of leaves, trunk, or ground did you notice that you missed at first?",
+      "analysis": "How does Homer use the direction of the palm leaves to organize the whole picture?",
+      "line": "Compare the curved sweep of the fronds with the straighter lines of the trunk. How do they work together?",
+      "shape": "Which shapes in the tree look planned and which look quick? Give evidence from the picture.",
+      "color": "How do the brighter and darker colors in the tree and its surroundings affect each other?",
+      "texture": "How does the artist suggest the feel of leaves and bark using only brush marks and pencil?",
+      "space": "How does Homer show where the tree stands in its setting, even with little detail in the background?",
+      "light": "How does the white of the paper help the painting look sunny? Point to places where it works best.",
+      "meaning": "The tags for this work include wind. How could the wind be the real subject, more than the tree?",
+      "culture": "Homer painted in the Bahamas during winter trips. What can a painting like this tell us, and not tell us, about a place?",
+      "technique": "Why might Homer have drawn lightly in pencil before painting? Look for traces of it in the picture.",
+      "personal": "Think of a windy day you remember. What would you need to show to make a viewer feel it?",
+      "critical": "A quick watercolor of one tree can be as powerful as a big painting. Do you agree? Explain with evidence."
+    },
+    "g68": {
+      "daily": "How does Homer turn a single palm tree into a picture about movement and weather?",
+      "emotion": "What feeling do the bending leaves create, and how does the loose brushwork help?",
+      "observation": "Describe the picture from the trunk upward to the leaves. Which details are the most carefully handled?",
+      "analysis": "How do the diagonal sweeps of the fronds give the composition energy compared with a straight, upright tree?",
+      "line": "Where does Homer rely on painted edges instead of drawn outlines, and where does graphite show? What is the difference in effect?",
+      "shape": "How do the large shape of the tree and the empty spaces around it balance each other?",
+      "color": "How does the range of greens and neighboring colors suggest sunlight and shade on the leaves?",
+      "texture": "Which marks make the leaves feel flexible and the trunk feel firm? How are they painted differently?",
+      "space": "How can a picture with so little background still suggest a beach and open air?",
+      "light": "Watercolor artists often treat white paper as light. Where does Homer do this, and how does it change the picture?",
+      "meaning": "Is this a portrait of a plant, a record of weather, or something else? Support your view with details.",
+      "culture": "Homer was famous for scenes of New England and the sea. How might painting in the Bahamas have changed his choices?",
+      "technique": "What are the risks and rewards of painting wind with fast, transparent washes?",
+      "personal": "What everyday scene in your life could be painted quickly to capture a moment? How would you do it?",
+      "critical": "Can a sketch-like watercolor be as valuable as a polished painting? What standards would you use?"
+    },
+    "g910": {
+      "daily": "How do Homer's brush handling and composition together convey wind, heat, and place with so few marks?",
+      "emotion": "How does the sheet create a sense of energy without any figures or action beyond the tree?",
+      "observation": "What draws attention first in this palm tree sheet, and which brush choices produce that effect?",
+      "analysis": "Analyze how the diagonal rhythm of the fronds anchors the composition and directs movement across the sheet.",
+      "line": "How does the interplay of graphite underdrawing and painted edges shape the sheet's sense of spontaneity?",
+      "shape": "How does the tree's irregular silhouette contrast with the open space around it to build tension?",
+      "color": "How do variations in the greens and surrounding hues create both depth and atmosphere?",
+      "texture": "How does Homer differentiate fibrous trunk and flexible leaves through wash, pigment density, and edge?",
+      "space": "How does the near absence of setting shift attention to the tree, and what does the viewer infer about the surroundings?",
+      "light": "How does reserved paper function as sunlight here, and how would the sheet change if it were fully covered?",
+      "meaning": "Does the work seem to record a place, study a motif, or explore the medium? Which evidence supports each reading?",
+      "culture": "How might the Caribbean setting, seen by a northern American artist on a visit, shape both subject and viewer expectations?",
+      "technique": "How do the limits of transparent watercolor, such as quick drying and little room for correction, show in the sheet?",
+      "personal": "How does an image made quickly and loosely change your expectations about what makes art skillful?",
+      "critical": "How might the tropical subject have been viewed as exotic, and how does Homer's treatment support or complicate that idea?"
+    },
+    "g1112": {
+      "daily": "How does the sheet balance observation and artifice in representing a tree in wind, and what visual evidence supports your view?",
+      "emotion": "How does the work evoke mood through gesture and tone rather than narrative, and what is lost if we try to name a single feeling?",
+      "observation": "Describe the sheet's physical facts, such as washes, graphite, and untouched paper, before interpreting. Where does description start to become judgment?",
+      "analysis": "Analyze how the sheet's economy of means produces both structure and movement.",
+      "line": "How does graphite function as scaffold, and how does the painted edge sometimes override or ignore it?",
+      "shape": "How does the tree's asymmetrical form create tension against the sheet's rectangular format?",
+      "color": "How might local color and observed light interact here, and where does Homer favor expressive over descriptive color?",
+      "texture": "How does the interplay of pigment and paper surface create a material presence that reproduction may flatten?",
+      "space": "How does the work suggest an environment without describing it, and what does this imply about the viewer's role in completing the scene?",
+      "light": "In what sense is light in transparent watercolor a matter of what the artist declines to paint?",
+      "meaning": "How might this sheet be read within the wider interest in tropical subjects among northern artists, and what are the limits of such a reading from a single work?",
+      "culture": "How do travel, tourism, and the market for watercolors shape the way we read Homer's images of the Bahamas?",
+      "technique": "What does the handling suggest about the speed and sequence of work, and what might remain uncertain without technical study?",
+      "personal": "How does your own familiarity or unfamiliarity with such trees shape what you see as accurate or invented?",
+      "critical": "What standards of evidence should we apply when claiming that a quick study expresses a particular emotion or experience of its maker?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Beaches, Palms, Wind), medium, and credit line checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Winslow Homer (1836–1910) is known for American scenes and the sea, and he painted in the Bahamas during winter travels. This sheet pairs watercolor with graphite underdrawing.",
+    "vocabulary": [
+      "watercolor",
+      "wash",
+      "graphite",
+      "underdrawing",
+      "reserved paper",
+      "frond"
+    ],
+    "directions": [
+      "Have students paint a plant outdoors or from a photograph in ten minutes, leaving some paper white.",
+      "Ask students to act out the tree's pose and then find which lines in the painting match their movement.",
+      "Discuss why artists travel and how a new place can change what they paint."
+    ]
+  }
+}

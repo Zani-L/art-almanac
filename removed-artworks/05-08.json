@@ -1,0 +1,151 @@
+{
+  "id": "met-60980",
+  "day": "05-08",
+  "title": "Covered box with peonies and seasonal flowers",
+  "artist": "Artist unknown",
+  "date": "early 15th century",
+  "medium": "Carved red lacquer",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP255461.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP255461.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Arthur M. Sackler Gift, 1974",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A covered box with a deep red surface, carved with large peony blossoms, leaves, and other flowers. The carved flowers rise from the red background in rounded, layered shapes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/60980",
+    "objectId": "60980",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Ming dynasty, Yongle period, 1403–24), creditLine, classification (Lacquer), public-domain flag, and image URLs read from the record (record has no tags)"
+  },
+  "context": "This box was made in China in the early 15th century, during the Yongle period (1403-24) of the Ming dynasty. Carved red lacquer is made by building up many layers of lacquer, a tree sap coating, and then carving designs into the thick surface. Peonies were a favorite flower in Chinese art.",
+  "descriptions": {
+    "k": "This is a red box with a lid. Flowers are carved all over it. They are big, round peonies with leaves. Find the biggest flower. What color is the box? Can you see the petals?",
+    "g12": "This red box was made in China more than 600 years ago. An artist carved big peonies and other flowers into it, so they rise from the surface. Look for petals and leaves. Are the flowers crowded or spaced out? Why might someone want a box covered in flowers?",
+    "g35": "This box was made in China in the early 1400s. Its red surface is lacquer, a coating made from tree sap, built up in many layers. An artist then carved peonies and other flowers into the thick lacquer. Look at how petals curl and leaves overlap. What parts of the carving look deep, and what looks shallow? Why might peonies have been a popular design?",
+    "g68": "Carved red lacquer was a prized craft in Ming China. Artisans coated an object with many thin layers of lacquer and, when it was thick enough, carved designs into it, much as a sculptor carves wood. This Yongle-period box shows peonies and other seasonal flowers in rounded, overlapping forms. How does carving create light and shadow on a flat, red surface? Why might flowers from different seasons appear together?",
+    "g910": "This early 15th-century box shows the sculptural potential of lacquer: the carver cuts through layers to produce full, rounded blossoms against a ground of patterned or smooth red. Peonies are often associated with wealth and honor in Chinese culture, and flowers of different seasons together may suggest abundance and continuity, though such readings are interpretive. Consider how rhythm, overlap, and the depth of carving combine, and what the labor of lacquer, which required patience between layers, implies about value.",
+    "g1112": "Produced in the Yongle period, this box belongs to a courtly tradition of carved red lacquer. Its imagery of peonies and flowers from various seasons turns the surface into a sculpted garden, where undercut carving creates shadow and depth. Peonies have long been linked with prosperity and rank, yet associations vary with context and audience. Because lacquer demands many layers and long drying, the object also embodies time and labor as aspects of value. How do ornament, material, and symbolic reading intersect in a luxury object designed for handling?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What could you keep inside this red flower box? Tell what you would hide in it.",
+      "emotion": "Does this red box feel quiet or lively to you? What makes you say that?",
+      "observation": "Find a big flower on the box. What else is carved near it?",
+      "analysis": "What do your eyes look at first on the box, the flowers or the red? Why?",
+      "line": "Trace the curve of a petal on the box in the air. Is it round or pointy?",
+      "shape": "Can you find a round flower shape and a long leaf shape? Point to each one.",
+      "color": "The box is a rich red. What things do you know that are red like this?",
+      "texture": "The flowers are carved so they stick up. How would they feel if you ran your fingers over them?",
+      "space": "Some flowers are in front of others. Which flower looks closest to you?",
+      "light": "Look for shadows around the carved flowers. Where are the dark spots?",
+      "meaning": "Why might someone put flowers on a box that holds special things?",
+      "culture": "People in China have loved peony flowers for a very long time. What flower do you love?",
+      "technique": "The artist carved the flowers into thick lacquer, like carving in soap. What do you think is hard about that?",
+      "personal": "If you could carve your own box, which flowers would you put on it?",
+      "critical": "Why do you think the artist covered the box with so many flowers?"
+    },
+    "g12": {
+      "daily": "How do the carved flowers make this box look like a little garden?",
+      "emotion": "How does the red color and crowd of flowers make you feel? Point to what causes it.",
+      "observation": "List five things you can find on this box, such as petals and leaves. Which was hardest to see?",
+      "analysis": "How does the artist arrange the flowers so they fill the box without crashing together?",
+      "line": "Find curved lines in the petals and leaves. How do they make the flowers look soft?",
+      "shape": "Which flower shapes are round, and which leaf shapes are long? How do they fit together?",
+      "color": "The box is mostly one color, red. How does this help you see the carved shapes?",
+      "texture": "Some parts are carved deep and some are shallow. How would the box feel if you could touch it?",
+      "space": "How does the carving make some flowers look closer than others?",
+      "light": "Where do you see shadows between the petals? What do they tell you about how deep the carving is?",
+      "meaning": "Peonies often stand for good things like richness and honor in China. Why might a family want peonies on a box?",
+      "culture": "This box was made in the Ming dynasty. What does the careful carving tell you about the people who made or owned it?",
+      "technique": "Lacquer is built up in many thin layers before it is carved. Why might that take a long time?",
+      "personal": "What do you keep in a special box or place at home? How would you decorate it?",
+      "critical": "Is this box more useful or more beautiful? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "How does the carver turn a red lacquer surface into a garden of peonies and other flowers? Point to details.",
+      "emotion": "What mood does the red surface and crowd of carved flowers create? Which details create it?",
+      "observation": "Look for one minute. What small details in the petals, leaves, or edges of the box did you miss at first?",
+      "analysis": "How does the artist arrange the peonies, smaller flowers, and leaves to cover the lid and sides of the box?",
+      "line": "How do the curving lines of petals and leaves differ from the straighter edges of the box?",
+      "shape": "How does the artist use round blossoms and long leaves to make a pattern that repeats?",
+      "color": "Why might the artist have chosen one deep red for the whole box? How does it affect the carved shapes?",
+      "texture": "How do the carved areas create a rough and smooth surface? What would you feel if you touched the box?",
+      "space": "How does overlapping help the flowers look as if they sit in front of and behind each other?",
+      "light": "How do shadows in the carved hollows make the flowers look three-dimensional?",
+      "meaning": "Peonies are linked with wealth and honor in Chinese culture. What might the mix of seasonal flowers add to that idea?",
+      "culture": "What can a carved lacquer box tell us about the skills and tastes of the Ming court period?",
+      "technique": "Many layers of lacquer had to be applied and dried before carving. What does that tell you about the value of this box?",
+      "personal": "Which objects in your life are decorated because someone wanted them to feel special?",
+      "critical": "Would you call this box a craft or a sculpture? Give reasons based on how it is made and what it looks like."
+    },
+    "g68": {
+      "daily": "How does carving in lacquer let the artist treat a box almost like a sculpture covered in blossoms?",
+      "emotion": "How does the dense arrangement of blossoms on deep red create a mood of richness or celebration?",
+      "observation": "Scan the box from the center outward. How does the pattern change, and where do you find the most detail?",
+      "analysis": "How does the carver balance large peonies against smaller flowers and leaves to avoid a crowded look?",
+      "line": "How do the carved contours of petals and stems guide the eye around the box?",
+      "shape": "How do repeated round blossoms and pointed leaves produce rhythm across the surface?",
+      "color": "How does a monochrome red surface focus attention on form and shadow rather than hue?",
+      "texture": "How might the contrast of polished lacquer and deeply carved hollows shape the way the box feels and looks?",
+      "space": "How does the depth of carving create layers of foreground and background in a very shallow space?",
+      "light": "How do light and shadow within the carved lines make the flowers appear to project from the surface?",
+      "meaning": "What ideas might peonies and seasonal flowers together have conveyed to the owner of this box, and why are such readings uncertain?",
+      "culture": "How does a luxury box like this reflect the importance of refined craft in the Ming dynasty and the Yongle period?",
+      "technique": "Why would the layering and carving of lacquer demand both patience and skill from the artisan?",
+      "personal": "What does it say about a culture when it decorates everyday containers so carefully? Does your own culture do this?",
+      "critical": "Are objects meant to be handled and used diminished or enhanced by lavish decoration? Argue using this box."
+    },
+    "g910": {
+      "daily": "How does the carver's control of depth and repetition turn flowers into a unified, sculptural surface?",
+      "emotion": "How does the saturation of the red ground and the density of ornament shape the object's emotional presence?",
+      "observation": "Describe the visual hierarchy: how do scale, depth, and position differentiate the main peonies from the supporting forms?",
+      "analysis": "Analyze how the design organizes a three-dimensional box as a continuous pattern across lid and sides.",
+      "line": "How do the carved edges of petals and the undulating stems act as line in a medium that is cut rather than drawn?",
+      "shape": "How does the interplay of circular blossoms and pointed leaves produce visual rhythm?",
+      "color": "How does the restriction to one color heighten attention to carved form and shadow?",
+      "texture": "How does the contrast between smooth, polished lacquer surfaces and deeply cut hollows enrich the object's tactile quality?",
+      "space": "How does the carver build layered depth in relief, and how does overlap clarify what is near and far?",
+      "light": "How do shadows cast within carved recesses change as the box is turned, and how does this activate the pattern?",
+      "meaning": "How might the pairing of peonies with flowers of other seasons suggest ideas about abundance or the cycle of the year, and where does that become speculative?",
+      "culture": "What does the labor-intensive production of carved lacquer suggest about patronage and status in early Ming China?",
+      "technique": "How do the sequential layering and carving of lacquer shape the aesthetic possibilities of the medium?",
+      "personal": "How does a lavishly decorated functional object affect the way you think about everyday luxury?",
+      "critical": "What assumptions do we bring to floral ornament as decoration rather than serious subject matter, and how does this box challenge them?"
+    },
+    "g1112": {
+      "daily": "What does the box show about how a craft medium, through deep carving and floral abundance, can create a sculptural world on a handheld scale?",
+      "emotion": "How does the interplay of density and polish produce a mood of controlled opulence, and might ancient viewers have felt differently?",
+      "observation": "Describe the box's surface as exactly as you can. Where does naming a flower as a peony already depend on cultural knowledge?",
+      "analysis": "Analyze how the ornament relates to the box's form, including the question of whether the pattern respects or ignores the junction of lid and body.",
+      "line": "How does the cut line in lacquer differ from the brush line of painting, and what does this suggest about the carver's authorship?",
+      "shape": "How does the cultivation of recurring floral shapes create a shared visual vocabulary across Chinese decorative arts?",
+      "color": "How does the choice of red lacquer, a color with many cultural associations, interact with the object's floral imagery?",
+      "texture": "How do the polished and cut surfaces together dramatize the contrast between hand-finished material and natural subject?",
+      "space": "How does the carver translate the idea of depth into a few millimeters of material, and what does this say about illusion in decorative art?",
+      "light": "How does the object's visual character change under different lighting, and what does that imply for how it was originally seen and handled?",
+      "meaning": "Consider peonies as symbols of prosperity, rank, or seasonal beauty. Which reading best fits a box for private use, and why is certainty difficult?",
+      "culture": "How does early Ming imperial taste for carved lacquer intersect with questions of workshop organization, diplomacy, or gifts, and what do we not know about this particular box?",
+      "technique": "What does the extended process of lacquer layering suggest about time, labor, and craft knowledge as part of the box's meaning?",
+      "personal": "How do your assumptions about decoration, luxury, or femininity in flower imagery shape your response to this box?",
+      "critical": "Without documentation about the maker or owner, how should we frame claims about the box's original purpose?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Covered box with peonies and seasonal flowers), classification (Lacquer), and medium (carved red lacquer) checked against the museum record; the record has no tags. Nothing in these suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An early 15th-century (Yongle period, Ming dynasty) carved red lacquer box. Whether the box is round or another shape, and the exact flowers carved on it, should be confirmed from the image.",
+    "vocabulary": ["lacquer", "carving in relief", "Ming dynasty", "peony", "motif", "undercutting"],
+    "directions": [
+      "Have students carve a simple flower into a soap bar or sketch a relief design, then discuss how shadow shows depth.",
+      "Ask students to research which flowers are symbolic in different cultures and compare them to the peony.",
+      "Discuss the time it takes to make an object, and how patience and labor can add to its value."
+    ]
+  }
+}

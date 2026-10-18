@@ -1,0 +1,158 @@
+{
+  "id": "artic-64029",
+  "day": "01-12",
+  "title": "Bouquet of Flowers in an Earthenware Vase",
+  "artist": "Attributed to Jan Brueghel the Elder",
+  "date": "c. 1610",
+  "medium": "Oil on panel",
+  "movement": "Flemish Baroque still life",
+  "region": "Flanders",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/599e0546-ed58-0224-a623-39a8e3b51ef8/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Arthur Keating",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A large bouquet of many kinds of flowers, including tulips, irises, peonies and daffodils, bursting from a plain earthenware vase against a dark background. Jewelry and pearls are set beside the vase.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/64029",
+    "objectId": "64029",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1948.570, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on panel made around 1610 in Flanders and attributed to Jan Brueghel the Elder. The Art Institute's subject terms list tulips, daffodils, irises, peonies, a vase, jewelry and pearls. Flower paintings like this let artists show off careful looking at nature.",
+  "descriptions": {
+    "k": "Look at all these flowers in one vase! There are tulips, irises, and big round peonies. Some flowers are open and some are still closed. Can you find your favorite flower?",
+    "g12": "Jan Brueghel's studio painted this big bouquet long ago. Tulips, irises, and peonies all stand together in a plain clay vase. The background is dark, so the flowers seem to glow. Which flower do you want to look at first?",
+    "g35": "This painting from about 1610 shows a huge bouquet in a simple earthenware vase, with jewelry and pearls nearby. The museum lists tulips, daffodils, irises, and peonies. Flowers from different seasons are shown together, which could not happen in a real garden. Why might a painter choose to gather them all in one picture?",
+    "g68": "Attributed to Jan Brueghel the Elder, this panel painting from around 1610 crowds tulips, daffodils, irises, and peonies into a humble clay vase, with jewelry and pearls beside it. Flowers that bloom at different times appear together, so the bouquet is an invention rather than a record. How does the contrast between the plain vase and the rich blooms shape the way you read the picture?",
+    "g910": "This Flemish bouquet (c. 1610), attributed to Jan Brueghel the Elder, combines flowers from different seasons in a modest earthenware vase, accompanied by jewelry and pearls. The dark ground isolates each bloom for close study. Such paintings could celebrate both nature's variety and the wealth and curiosity of collectors. What tensions do you see between natural abundance and human display?",
+    "g1112": "Attributed to Jan Brueghel the Elder, this panel (c. 1610) assembles tulips, daffodils, irises, and peonies, species that never flower together, beside jewelry and pearls, in a deliberately plain vase. The picture works as a compendium of observation, luxury, and artifice. How does it hold together close botanical study, symbolic suggestion, and the pleasure of display, and which of these seems to dominate?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many different kinds of flowers can you count? Which colors do you see most?",
+      "emotion": "Does this bouquet make you feel happy, calm, or surprised? Show us what you see that tells you.",
+      "observation": "Find a tulip and an iris. How are they different?",
+      "analysis": "Why do you think your eyes go to the middle of the bouquet first?",
+      "line": "Trace the curvy stems and leaves in the air. Which way do they go?",
+      "shape": "Flowers have round, pointy, and ruffled shapes. Which shapes can you find?",
+      "color": "Pick one flower and name its colors. Are any flowers the same?",
+      "texture": "Which petals look soft and thin? Which look thick and heavy?",
+      "space": "The flowers seem to come toward you. How does the dark behind them help?",
+      "light": "Where do the flowers look brightest? Where is it darkest?",
+      "meaning": "Why might someone paint flowers that will never wilt?",
+      "culture": "Flowers grow in gardens all around the world. What flowers grow near where you live?",
+      "technique": "The artist painted with oil paint on a wooden board. How is that different from drawing with markers?",
+      "personal": "If you could add one thing beside this vase, what would it be?",
+      "critical": "What would you change if you were arranging this bouquet?"
+    },
+    "g12": {
+      "daily": "Which flower in the bouquet would you pick first, and where is it?",
+      "emotion": "Do these flowers make you feel cheerful or quiet? Tell us what you see that gives you that feeling.",
+      "observation": "Name three flowers you can spot. Where does each one sit in the vase?",
+      "analysis": "Why do you think the bright flowers look so glowing against the dark background?",
+      "line": "Follow one stem from the vase up to its flower. What path does it take?",
+      "shape": "Which flowers are round and which are long and thin?",
+      "color": "Which bright color is used most in the bouquet? Where else does it appear?",
+      "texture": "Which petals look silky, and which look thick? What helps you tell?",
+      "space": "The bouquet seems to reach out toward you. What makes it feel so close?",
+      "light": "Where are the brightest spots of light on the petals?",
+      "meaning": "What do you think the painter loved about flowers?",
+      "culture": "People everywhere give flowers as gifts. When have you seen flowers given?",
+      "technique": "The painter used tiny brushes for every petal. Which part might have taken the longest?",
+      "personal": "If you could pick one flower from this bouquet for a friend, which would it be?",
+      "critical": "What would you do differently if you painted these flowers?"
+    },
+    "g35": {
+      "daily": "Which flowers seem to stand out most, and which hide behind others?",
+      "emotion": "What feeling does the dark background give to the bright flowers?",
+      "observation": "List five different flowers you can spot, and tell where each one is in the bouquet.",
+      "analysis": "Why do you think the painter put the biggest flowers near the center?",
+      "line": "How do the curving stems and leaves lead your eyes around the picture?",
+      "shape": "How are the round peonies different in shape from the long, narrow irises?",
+      "color": "Which colors are used most, and how do the reds and yellows stand out from the dark?",
+      "texture": "How did the painter make some petals look silky and others look heavy?",
+      "space": "How does the dark space around the vase make the flowers feel close to you?",
+      "light": "Where is light shining on the petals, and how can you tell?",
+      "meaning": "What might the painter want us to notice about nature when everything is so carefully shown?",
+      "culture": "The museum says this was made in Flanders about 400 years ago. What can flowers tell us about people's lives then?",
+      "technique": "The painter had to be patient with oil paint on a panel. What parts look like they took the most time?",
+      "personal": "If you made a bouquet from your own memories, which flowers would you choose and why?",
+      "critical": "What do you think makes this painting more interesting than a photograph of a bouquet?"
+    },
+    "g68": {
+      "daily": "Which parts of the bouquet draw you in first, and what makes them stand out?",
+      "emotion": "How would the mood change if this bouquet sat in front of a bright, sunny wall instead of a dark one?",
+      "observation": "Describe the order in which your eyes travel around the bouquet. What guides you?",
+      "analysis": "How does the painter balance the heavy flowers at the center with the lighter ones near the edge?",
+      "line": "How do the lines of stems and leaves create movement even though flowers are still?",
+      "shape": "Compare the shapes of the tulips, the peonies, and the leaves. What different patterns do they make?",
+      "color": "How do warm reds and yellows work against cool blues and greens in this bouquet?",
+      "texture": "What details show you the difference between a delicate petal and a sturdy leaf?",
+      "space": "How does the painter make the flowers feel layered, with some in front and some behind?",
+      "light": "How does the light seem to hit the flowers, and what does the shadow tell you?",
+      "meaning": "Tulips, daffodils, irises, and peonies bloom at different times. What might the artist be saying by putting them together?",
+      "culture": "Why do you think people in the 1600s wanted paintings of flowers on their walls?",
+      "technique": "What skills did the painter need to make so many different petals look believable?",
+      "personal": "What would you want to collect and paint if you wanted to show what you love about the world?",
+      "critical": "Do you think a painted bouquet can show something a real one cannot? Explain your thinking."
+    },
+    "g910": {
+      "daily": "What choices in this composition make the dense cluster of flowers feel organized rather than chaotic?",
+      "emotion": "How does the strong contrast between dark ground and bright petals shape the mood of the painting?",
+      "observation": "Examine the plain vase beside the elaborate bouquet. What is the effect of that contrast?",
+      "analysis": "Analyze how the painter arranges color, size, and overlap to guide your eye through the bouquet.",
+      "line": "How do the curving stems and drooping leaves introduce rhythm into a motionless subject?",
+      "shape": "Compare the geometry of the tulip cups, the layered peonies, and the blade-like iris leaves. What do these differences accomplish?",
+      "color": "How does the painter use temperature and saturation to separate neighboring flowers?",
+      "texture": "What does the fine, controlled surface suggest about the painter's working method?",
+      "space": "How is shallow depth used to push the bouquet toward the viewer?",
+      "light": "How does the light create form on petals, and why might this level of detail matter to a patron?",
+      "meaning": "What might it mean to place flowers from different seasons together in a single, permanent image?",
+      "culture": "How might a painting like this reflect the wealth, trade, and curiosity of its time in Flanders?",
+      "technique": "Why would an artist attributed to a famous workshop choose to render so many species with such precision?",
+      "personal": "What does the inclusion of jewelry and pearls beside the vase make you think about beauty and value?",
+      "critical": "To what extent is this picture a record of nature and to what extent a display of the painter's skill? Defend your view."
+    },
+    "g1112": {
+      "daily": "How does the arrangement reconcile dense accumulation with legible, individual blooms, and what visual strategies make that possible?",
+      "emotion": "In what ways does the dark ground generate an almost theatrical emotional register, and how might it also isolate the flowers as objects of study?",
+      "observation": "What interpretive questions arise from setting an unadorned earthenware vase against such luxurious blooms?",
+      "analysis": "Evaluate how scale, overlap, and tonal accents establish a hierarchy among the flowers.",
+      "line": "How do the curved stems and turning leaves produce a sense of living growth within a fixed arrangement?",
+      "shape": "How does the painter exploit the contrasting forms of cup, ruffle, and blade to create a catalogue of natural structure?",
+      "color": "Analyze how saturated hues and subtle transitions allow neighboring species to stay distinct while remaining harmonious.",
+      "texture": "What does the smooth, highly finished handling of the panel suggest about the aims and audience of such pictures?",
+      "space": "How does the compression of space contribute to the sense that the bouquet exists for contemplation rather than as part of a scene?",
+      "light": "How does naturalistic lighting support the illusion of touchable petals, and why would that illusion appeal to collectors?",
+      "meaning": "What might a bouquet of species that never bloom together imply about the relationship between observation and invention?",
+      "culture": "How does a picture like this connect to early modern networks of trade, botany, and collecting?",
+      "technique": "How does the attribution to Jan Brueghel the Elder complicate or enrich the way you think about authorship in workshop practice?",
+      "personal": "What associations arise when jewelry and pearls share the space with flowers, and how do they shape the meaning of the picture?",
+      "critical": "Is the value of such a painting best judged by its fidelity to nature or by the intellectual and aesthetic pleasure it constructs? Argue from evidence in the work."
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (still life, foliage, tulips, daffodils, irises, peonies, vase, jewelry, pearls, flowers) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting on panel made around 1610 in Flanders and attributed to Jan Brueghel the Elder. The Art Institute's subject terms list tulips, daffodils, irises, peonies, a vase, jewelry and pearls. Flower paintings like this let artists show off careful looking at nature.",
+    "vocabulary": [
+      "still life",
+      "bouquet",
+      "earthenware",
+      "panel painting",
+      "attributed",
+      "composition"
+    ],
+    "directions": [
+      "Bring a few real flowers and have students draw them slowly, then compare their drawings with Brueghel's detail.",
+      "Ask students to count the kinds of flowers and sort them by shape or color on a chart.",
+      "Discuss why a painter might combine flowers that do not bloom at the same time and what a photograph could not do."
+    ]
+  }
+}

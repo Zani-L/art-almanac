@@ -1,0 +1,158 @@
+{
+  "id": "met-46627",
+  "day": "12-03",
+  "title": "Vase with Butterflies",
+  "artist": "Katō Tomotarō",
+  "date": "late 19th century",
+  "medium": "Porcelain with cobalt blue, pink, and white under transparent glaze",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-43529-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-43529-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Charles Stewart Smith, 1893",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A porcelain vase from Japan decorated with butterflies. The decoration uses cobalt blue, pink, and white beneath a clear glaze.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/46627",
+    "objectId": "46627",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, classification (Ceramics), culture (Japan), tag (Butterflies), and image URLs read from the record"
+  },
+  "context": "A porcelain vase credited to the Japanese potter Katō Tomotarō and dated by the Met to the late 19th century. The Met's medium line says the colors cobalt blue, pink, and white lie under a transparent glaze, and the butterflies are named in the title.",
+  "descriptions": {
+    "k": "This is a vase made of porcelain in Japan. Butterflies decorate it! The colors are blue, pink, and white. Can you find the butterflies? How many wings can you count? Would you put flowers in this vase?",
+    "g12": "A potter in Japan made this porcelain vase long ago. Butterflies are painted on it in blue, pink, and white. A clear glaze covers the colors, so the vase looks smooth and shiny. Where do you see the butterflies? How do the colors work together on the round vase?",
+    "g35": "Katō Tomotarō, a Japanese potter, is credited with this porcelain vase from the late 1800s. Butterflies decorate it in cobalt blue, pink, and white under a clear glaze, which means the colors were painted before the glaze was added and fired. Look at how the butterflies wrap around the curved surface. Why might an artist choose butterflies to decorate a vase?",
+    "g68": "This vase combines a useful object with delicate decoration. The Met's record says the cobalt blue, pink, and white colors lie under a transparent glaze, which protects the design and gives the surface a glassy shine. Butterflies are a popular subject in Japanese art and may suggest the lightness of spring, though meanings vary. Notice how the artist fits flying insects onto a curved surface. How does the vase's shape change how you view the design?",
+    "g910": "Katō Tomotarō's Vase with Butterflies uses underglaze color on porcelain, so the decoration sits beneath a transparent glaze rather than on top of it. The curved form of the vase and the scattered butterflies invite you to move around it, seeing the design unfold. In Japanese art, butterflies appear in many contexts and can carry different associations, so a single reading would be uncertain. Consider how technique, shape, and motif combine to turn a utilitarian form into a display piece.",
+    "g1112": "As a late 19th-century Japanese porcelain with underglaze decoration, Vase with Butterflies belongs to a period when Japanese ceramics were widely exhibited and collected abroad, which helps explain its presence in a Western museum. The butterfly motif carries varied associations in East Asian visual culture, but the record offers no text to anchor one. Underglaze technique matters here: color applied before glazing and firing resists wear and gains depth. What can the form, surface, and motif support, and what must remain open?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the butterflies on the vase? How many can you count?",
+      "emotion": "Does this vase feel gentle or loud? Show with your face.",
+      "observation": "Find blue, pink, and white on the vase. Where is each color?",
+      "analysis": "What part of the vase do your eyes go to first?",
+      "line": "Trace the curve of the vase's side in the air.",
+      "shape": "The vase is round and the butterflies have wings. What shapes do you see?",
+      "color": "Which color do you like best on the vase? Why?",
+      "texture": "The vase is covered in shiny glaze. How would it feel if you touched it?",
+      "space": "Hold your hands like a vase. Where would the butterflies be if you turned it around?",
+      "light": "Where does the light shine on the vase? Look for a bright spot.",
+      "meaning": "Butterflies can make people think of spring. What does this vase make you think of?",
+      "culture": "This vase is from Japan. What things at home do you use to hold flowers?",
+      "technique": "Colors were painted on before the shiny glaze. Why might the glaze go on last?",
+      "personal": "What would you put in this vase?",
+      "critical": "Why might someone decorate a vase with butterflies instead of plain stripes?"
+    },
+    "g12": {
+      "daily": "How does the artist make butterflies look like they are flying around the vase?",
+      "emotion": "What feeling does the soft blue and pink give you?",
+      "observation": "Describe the vase's shape, the butterflies, and the colors you see.",
+      "analysis": "How are the butterflies spread over the vase so the design feels balanced?",
+      "line": "Find the outline of a butterfly's wings. Is it thick or thin?",
+      "shape": "How do the wing shapes of the butterflies compare with the round shape of the vase?",
+      "color": "Which colors are used for the butterflies and which for the rest of the vase?",
+      "texture": "The glaze makes the vase smooth and shiny. Why might that be good for a vase?",
+      "space": "How does the curved surface change how you see the butterflies?",
+      "light": "How does the shiny surface change as light moves over the vase?",
+      "meaning": "Why might butterflies be a favorite subject for decoration?",
+      "culture": "People in Japan made fine porcelain that was admired around the world. Why might people far away want vases like this?",
+      "technique": "The colors are under the glaze. How does that protect the design?",
+      "personal": "If you could decorate a vase, what would you paint on it?",
+      "critical": "Is a vase like this mostly a useful object or an artwork? Explain what you see."
+    },
+    "g35": {
+      "daily": "How do the butterflies and the vase's shape work together to create a design?",
+      "emotion": "What mood do the colors and butterflies create?",
+      "observation": "Take a quiet minute to look at each butterfly. What small details did you notice?",
+      "analysis": "How are the butterflies arranged to lead your eyes around the vase?",
+      "line": "How do outlines and patterns help the butterflies stand out on the surface?",
+      "shape": "How do the wing shapes repeat, and how do they contrast with the vase's round form?",
+      "color": "How do cobalt blue, pink, and white work together, and which one stands out?",
+      "texture": "How does the transparent glaze change how the surface looks and feels?",
+      "space": "Because the vase is three-dimensional, how is looking at it different from looking at a flat picture?",
+      "light": "How does the glossy glaze reflect light and change how the colors look?",
+      "meaning": "Butterflies are linked with spring and change in many cultures. What might they add to a vase?",
+      "culture": "In the late 1800s Japanese porcelain was exhibited and collected abroad. Why might this vase have interested museum visitors?",
+      "technique": "Underglaze means the colors are painted before the clear glaze is added. What advantage might that give?",
+      "personal": "What is a decoration you love on an everyday object? Why do you love it?",
+      "critical": "Does a decoration need a deep meaning to be worth looking at? Use the vase to discuss."
+    },
+    "g68": {
+      "daily": "How does the artist fit a flying insect design onto a curved porcelain surface?",
+      "emotion": "How do the soft colors and butterfly motifs create a delicate, cheerful mood?",
+      "observation": "Describe the vase from the neck to the base. Which areas show the most decoration?",
+      "analysis": "How does the arrangement of butterflies create rhythm around the vase?",
+      "line": "How do outlines and patterns help the butterflies read clearly against the porcelain?",
+      "shape": "How does the vase's curved silhouette interact with the repeating butterfly shapes?",
+      "color": "How does limited color, including cobalt blue, create unity and contrast?",
+      "texture": "How does glossy glaze contrast with painted details?",
+      "space": "How does the object's roundness change what is visible from different sides?",
+      "light": "How does the shine of the glaze affect the way colors appear?",
+      "meaning": "What could the repeated butterflies suggest, and why should we be careful about picking just one meaning?",
+      "culture": "How did international exhibitions help make Japanese ceramics popular outside Japan?",
+      "technique": "How does painting under the glaze protect the design and give it depth?",
+      "personal": "How does using a beautiful object daily change how you notice it?",
+      "critical": "How should museums balance admiration of craft with understanding the history of collecting?"
+    },
+    "g910": {
+      "daily": "How do technique, form, and motif combine to make this vase more than a container?",
+      "emotion": "How does the decoration create lightness and delicacy on a solid vessel?",
+      "observation": "Describe the visual hierarchy of the design. What draws attention, and how?",
+      "analysis": "How does the arrangement of butterflies respond to the vase's contour?",
+      "line": "How does the quality of outline and pattern define the butterflies and tie them to the form?",
+      "shape": "How do repeated wing shapes interact with the vessel's curves to create rhythm?",
+      "color": "How does the restrained palette of cobalt blue, pink, and white shape the vase's character?",
+      "texture": "How does the contrast between smooth glaze and painted detail affect the surface?",
+      "space": "How does the vase's three-dimensionality change the viewer's experience of the design?",
+      "light": "How does the glaze create highlights that shift as the viewer moves?",
+      "meaning": "What associations might butterflies carry in Japanese visual culture, and where does reading become speculative?",
+      "culture": "How does the vase's place in a Western museum reflect late 19th-century patterns of trade, exhibition, and collecting?",
+      "technique": "What does underglaze decoration reveal about the skills and planning required of a porcelain artist?",
+      "personal": "How does a functional object with decoration differ from a purely decorative artwork in how you respond?",
+      "critical": "How might the context of international exhibition have shaped what Japanese makers produced?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the vase's form and decoration about how technique and motif shape its meaning?",
+      "emotion": "How does the delicacy of the decoration interact with the solidity of porcelain to shape the object's presence?",
+      "observation": "Describe the vase's construction with precision. When does description of the butterflies begin to imply interpretation?",
+      "analysis": "Analyze how the decoration negotiates between the vessel's curved surface and the viewer's shifting vantage point.",
+      "line": "How does the balance of outline and pattern contribute to a design that is both graphic and ornamental?",
+      "shape": "How does the interplay of motif and silhouette establish a rhythm unique to three-dimensional objects?",
+      "color": "How does underglaze cobalt and color operate within Japanese ceramic traditions, and how might wear or age affect what we see?",
+      "texture": "How does the contrast between glaze and decoration shape the object's tactile and visual qualities?",
+      "space": "How does the vessel's form complicate the idea of a single viewpoint?",
+      "light": "How does the reflective glaze make the object's appearance contingent on lighting and movement?",
+      "meaning": "Evaluate readings of the butterfly motif as seasonal sign, symbol of transformation, or decorative pattern. Which can the evidence support?",
+      "culture": "How does the vase relate to the global circulation of Japanese ceramics in the late 19th century, and how do scholars qualify such claims?",
+      "technique": "What do the materials and underglaze methods suggest about the workshop practices behind the vase, and what remains unknown?",
+      "personal": "How do your own associations with butterflies or ceramics shape what you notice, and where might they limit your reading?",
+      "critical": "With a broad date and little documentation in the record, what standards of evidence should govern claims about the vase's making and meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ceramics), culture (Japan), and tag (Butterflies) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A late 19th-century Japanese porcelain vase with butterflies, credited to Katō Tomotarō. The Met records its colors as cobalt blue, pink, and white under a transparent glaze.",
+    "vocabulary": [
+      "porcelain",
+      "underglaze",
+      "glaze",
+      "motif",
+      "cobalt blue",
+      "vessel"
+    ],
+    "directions": [
+      "Have students design a repeating butterfly pattern for a curved surface, such as a paper cup, and discuss how curvature changes the design.",
+      "Discuss why painting under a glaze helps protect a design.",
+      "Compare how this vase and another ceramic in the archive combine function with decoration."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-503930",
+  "day": "07-12",
+  "title": "Guitar",
+  "artist": "Jean-Baptiste Voboam",
+  "date": "1697",
+  "medium": "Spruce, tortoiseshell, mother-of-pearl, ivory, ebony",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DT1108a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DT1108a.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Clara Mertens Bequest, in memory of André Mertens, 1989",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small French guitar from the 1690s with a rounded body, a long neck and a decorated sound hole. Shiny inlaid materials appear on its surfaces.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503930",
+    "objectId": "503930",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, culture, country, classification (Chordophone-Lute-plucked-fretted), dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "Jean-Baptiste Voboam made this guitar in France in 1697; the Voboam name is associated with Paris guitar making in the later 1600s. The Met lists spruce, tortoiseshell, mother-of-pearl, ivory and ebony, and gives its height as about 97 cm (38 1/8 in.). It is a Baroque guitar, smaller and with a different string layout from today's guitar.",
+  "descriptions": {
+    "k": "This guitar is from France. It is more than 300 years old. It has a small body and a long neck. It has shiny parts, like a shell that gleams. Can you find something that shines?",
+    "g12": "A maker named Jean-Baptiste Voboam made this guitar in France in 1697. It is smaller than many guitars today. The Met says it has shiny materials, like mother-of-pearl, which comes from shells. Where do you see shine and decoration?",
+    "g35": "Jean-Baptiste Voboam made this guitar in France in 1697. It is a Baroque guitar, smaller than a modern one. The Met lists spruce, tortoiseshell, mother-of-pearl, ivory and ebony. Mother-of-pearl is the shiny inner layer of a shell. Look at the sound hole and the neck. What details show that the maker wanted this guitar to be beautiful as well as playable?",
+    "g68": "This guitar by Jean-Baptiste Voboam, made in France in 1697, shows the craft of Baroque guitar making in Paris, where the Voboam name was associated with fine instruments. The Met lists spruce for the top, with tortoiseshell, mother-of-pearl, ivory and ebony, a mix that points to both structure and luxury decoration. How does the maker combine dark and bright materials, and what might that tell us about the people who owned such guitars?",
+    "g910": "Voboam's guitar of 1697 is an example of French Baroque luxury craft. Smaller than today's guitars, it combines a spruce top with tortoiseshell, mother-of-pearl, ivory and ebony, materials that suggest an expensive commission, though the exact decoration should be read from the image. The guitar was fashionable in French society of the period, and its refined surfaces indicate that appearance mattered as much as music. Consider how these materials raise questions about trade, resources and how museums talk about them today.",
+    "g1112": "Dated 1697 and credited to Jean-Baptiste Voboam, this guitar belongs to the French Baroque culture of fine instrument making. The record lists spruce, tortoiseshell, mother-of-pearl, ivory and ebony, a palette that signals both skill and expense. Its decoration invites questions about status, fashion and patronage, but the record gives no owner or documented use. The use of tortoiseshell and ivory also raises historical questions about global trade in animal materials and about how museums address that history while still explaining the craftsmanship."
+  },
+  "questions": {
+    "k": {
+      "daily": "This French guitar has shiny parts. Which part do you think sparkles the most?",
+      "emotion": "Does this guitar look fancy or plain to you? What do you see that makes you say so?",
+      "observation": "Find the neck, the body and the round hole. What else do you see?",
+      "analysis": "Do your eyes go first to the shiny decoration or the long neck? What do they find next?",
+      "line": "Can you find a thin line that runs around the guitar? Trace it in the air.",
+      "shape": "The body is rounded like a gentle figure eight. Can you see where it gets narrower?",
+      "color": "What dark colors and light colors do you see on the guitar?",
+      "texture": "Which parts of this guitar look shiny and smooth?",
+      "space": "There is a hole in the front. What do you think is inside?",
+      "light": "Where does the guitar seem to glow?",
+      "meaning": "Why might a maker use shiny shell on a guitar?",
+      "culture": "This guitar was made in France more than 300 years ago. What would you like to ask the maker?",
+      "technique": "A maker cut tiny pieces to decorate the guitar. What tools might be needed for such small work?",
+      "personal": "If you could decorate a guitar, what would you use?",
+      "critical": "This guitar is smaller than many today. What other differences can you see?"
+    },
+    "g12": {
+      "daily": "Voboam used dark and shiny materials together. Where do you see them meet on the guitar?",
+      "emotion": "What feeling do the shiny details give you? Point to the part that makes you feel it.",
+      "observation": "Describe the body, the neck and the decoration. What do you notice about each?",
+      "analysis": "How does the shape of the body lead your eyes to the neck?",
+      "line": "Find thin lines and thick shapes on the guitar. How do they work together?",
+      "shape": "The body is rounded and the neck is long and straight. How do these shapes contrast?",
+      "color": "Which parts of the guitar are dark, and which are bright? How do they help each other stand out?",
+      "texture": "Shell, wood, and other materials feel different. Which parts look smooth and which look carved?",
+      "space": "The sound hole opens a hollow space. Why might a guitar need hollow space?",
+      "light": "Look for places that reflect light. What might the material be?",
+      "meaning": "Why would someone choose to own a guitar with such fine decoration?",
+      "culture": "This guitar was made in France in 1697. What does its decoration tell you about the people who liked it?",
+      "technique": "The maker combined many materials in one guitar. Why might that be hard?",
+      "personal": "What is the most beautiful thing you own, and why do you like it?",
+      "critical": "Which matters more for a guitar, how it looks or how it plays? Explain what you see."
+    },
+    "g35": {
+      "daily": "The record lists tortoiseshell, mother-of-pearl, ivory and ebony. How do these materials help create the guitar's rich look?",
+      "emotion": "What mood does the rich, shiny decoration create? Which details cause it?",
+      "observation": "Describe the guitar from the top of the neck to the base of the body. What details do you find?",
+      "analysis": "How do the decorated areas lead your eyes around the guitar?",
+      "line": "How do thin decorative lines contrast with the long, clear line of the neck?",
+      "shape": "The guitar has curves in its body and a straight neck. How do they balance each other?",
+      "color": "How do dark materials such as ebony and bright materials such as mother-of-pearl create contrast?",
+      "texture": "Mother-of-pearl looks glossy and wood looks softer. Which textures can you find?",
+      "space": "The hollow body and sound hole make an inner space. How does the outside suggest it?",
+      "light": "How does light bounce off shiny materials? Where might you see it?",
+      "meaning": "Why might an owner in 1697 have chosen a guitar that shows off rare materials?",
+      "culture": "France in the late 1600s was a center for fashion and the arts. How might this guitar show that?",
+      "technique": "Making tiny inlaid pieces fit perfectly needs patience. What other skills would the maker need?",
+      "personal": "What is something you have kept in good condition because it is special?",
+      "critical": "Some of these materials come from animals. How might that make people today think about such objects?"
+    },
+    "g68": {
+      "daily": "How does Voboam combine bright and dark materials to make the guitar stand out as a luxury object?",
+      "emotion": "What tone do the glossy materials and graceful outline set? Support your answer with details.",
+      "observation": "List the parts of the guitar and the materials you can see before interpreting what they mean.",
+      "analysis": "How does the decoration relate to the structural parts, the neck, body and sound hole?",
+      "line": "How do thin inlaid lines add detail without breaking the guitar's overall shape?",
+      "shape": "How does the curved body balance against the straight neck?",
+      "color": "How does color contrast among tortoiseshell, mother-of-pearl and ebony create emphasis?",
+      "texture": "How do natural materials such as shell and wood provide different surface qualities?",
+      "space": "How does the sound hole act as both an opening and a decorative focal point?",
+      "light": "How does shimmering material change in different light, and why would that matter to an owner?",
+      "meaning": "What might this guitar say about its owner's taste and wealth, and why should we not be certain?",
+      "culture": "How does a Baroque guitar show the connection between music and social life in 1690s France?",
+      "technique": "What would a maker need to know to combine spruce with delicate inlays?",
+      "personal": "What object in your life is valued for both beauty and use?",
+      "critical": "How might museums talk about tortoiseshell and ivory in ways that respect history and current concern for animals?"
+    },
+    "g910": {
+      "daily": "How do the material choices in Voboam's guitar communicate status while the instrument still works as a musical tool?",
+      "emotion": "What atmosphere do polish, shine and fine detail create, and how does the guitar's age change it?",
+      "observation": "Describe the guitar's visual hierarchy: sound hole, body, neck. What does the eye focus on first?",
+      "analysis": "How does the guitar organize decorative richness around its structural parts?",
+      "line": "How does fine linear detail contrast with the larger forms of the body and neck?",
+      "shape": "How do the proportions of this Baroque guitar differ from those of a modern guitar, and what does this suggest about its use?",
+      "color": "How does the interplay of dark and shimmering materials create a refined palette?",
+      "texture": "How might different materials create layered reflections across the surface of the guitar?",
+      "space": "How does the sound hole link visible decoration to hidden acoustic space?",
+      "light": "How do museum lights emphasize shimmer and gloss in a way different from candlelight?",
+      "meaning": "What might a decorated guitar have symbolized in French society in 1697, and what evidence limits the claim?",
+      "culture": "How did guitar making connect Parisian workshops to wider European musical taste?",
+      "technique": "What craft knowledge is required to join thin decorative materials to a resonating instrument?",
+      "personal": "How do you decide when to spend more on the look of something that works well enough?",
+      "critical": "How does the history of tortoiseshell and ivory trade complicate the way we admire this guitar?"
+    },
+    "g1112": {
+      "daily": "How does this guitar make visible the intersection of music, luxury and global trade in the late 17th century?",
+      "emotion": "How does shimmering, delicate decoration invite admiration, and how might that feeling be complicated by knowledge of its materials?",
+      "observation": "Distinguish what the image shows from what the record states. Which materials can you identify visually?",
+      "analysis": "How do structure, ornament and material balance in this guitar's overall design?",
+      "line": "How do fine decorative lines and the primary contour of the body represent different layers of design?",
+      "shape": "How do the proportions of the instrument relate to Baroque guitar technique, and what do we not know about its use?",
+      "color": "How does the contrast between dark and lustrous materials function as a sign of skill and wealth?",
+      "texture": "How do polished and natural surfaces together shape how the guitar reads as a crafted object?",
+      "space": "How does a museum display of a hollow, resonant object differ from its intended use in a room?",
+      "light": "How does photographic lighting emphasize luster and affect our sense of the original appearance?",
+      "meaning": "How might patrons and makers in Paris have shaped the meaning of a guitar like this one?",
+      "culture": "How do materials like tortoiseshell and mother-of-pearl point to networks of trade far beyond France?",
+      "technique": "How do the technical challenges of inlay and resonance constrain a maker's decorative choices?",
+      "personal": "How does your own sense of luxury shape how you read this object?",
+      "critical": "How can a museum honor craftsmanship while acknowledging the ethical and environmental questions raised by historical materials?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Chordophone-Lute-plucked-fretted), medium (includes tortoiseshell and ivory, noted neutrally), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Baroque guitar by Jean-Baptiste Voboam, made in France in 1697. The record lists tortoiseshell and ivory among its materials, which can support a discussion of historical trade and present-day conservation. The record does not describe the decoration in detail.",
+    "vocabulary": [
+      "Baroque guitar",
+      "mother-of-pearl",
+      "tortoiseshell",
+      "ebony",
+      "inlay",
+      "luxury"
+    ],
+    "directions": [
+      "Compare this guitar with the Italian guitar by Matteo Sellas from the same century.",
+      "Discuss where materials like mother-of-pearl, ebony and tortoiseshell come from.",
+      "Design a decorated instrument and explain how the design helps or hinders playing."
+    ]
+  }
+}

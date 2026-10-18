@@ -1,0 +1,159 @@
+{
+  "id": "met-436559",
+  "day": "12-06",
+  "title": "Castle by a River",
+  "artist": "Jan van Goyen",
+  "date": "1647",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145936.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145936.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1964",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A river landscape with a castle on the bank and boats on the water, under a large, soft sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436559",
+    "objectId": "436559",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Jan van Goyen was one of the leading Dutch landscape painters of the 1600s. His river views are often painted in a narrow range of soft browns, greens and grays, with large skies. This panel is dated 1647.",
+  "descriptions": {
+    "k": "A castle stands by a river. Boats float on the water. The sky is big and soft. The colors are quiet. Can you find the castle? Can you find a boat? Who might live in the castle?",
+    "g12": "A castle rises beside a river, and boats rest on the water. The sky is wide and gentle. The colors are soft and misty, like a quiet morning. Jan van Goyen painted this in the Netherlands long ago. What would it feel like to float on that river?",
+    "g35": "Jan van Goyen painted this river scene in 1647. A castle stands on the bank, and boats move on the water. He often used soft browns, greens and grays and gave the sky lots of space, which makes his pictures feel calm and misty. Rivers were like roads in the Netherlands. How do the colors and the big sky change how you feel about the castle and boats?",
+    "g68": "Van Goyen was known for river landscapes in which a limited, harmonious palette and a large sky create a hazy mood. In Castle by a River (1647) the castle, boats and water sit low in the picture while the sky takes up much of the panel. Rivers were important for travel and trade, but the painting suggests quiet more than busyness. How do the muted colors and the placement of the castle shape your mood?",
+    "g910": "Castle by a River shows van Goyen's tonal approach to landscape: a restrained palette of browns, greens and grays binds castle, river, boats and sky into a single atmosphere. The low horizon gives the sky a leading role, and the buildings and boats appear as modest accents within a broad space. Dutch rivers carried trade and travel, but the painting is more about air and light than about commerce. How does tonal unity affect your sense of place and time?",
+    "g1112": "Painted in 1647, Castle by a River exemplifies van Goyen's mature tonal landscapes, in which a narrow range of color and a high sky replace detailed description. Such pictures can be read as celebrating the Dutch waterways, as studies of atmosphere, or as part of a thriving market for affordable landscapes. Scholars caution against assuming a specific location unless documents support it. How does the painting's restraint shape its meaning, and what does it ask a viewer to supply?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who might live in the castle by the river? Tell about them.",
+      "emotion": "Does this place feel foggy and quiet, or sunny and loud? What shows you?",
+      "observation": "Can you find the castle, the boats and the water? Point to each one.",
+      "analysis": "Is there more sky or more land in this picture? How can you tell?",
+      "line": "Trace the edge of the river with your finger. Where does it go?",
+      "shape": "What shapes does the castle make? Can you find a tall one?",
+      "color": "The colors are soft browns, greens and grays. Which one do you like?",
+      "texture": "How would the water feel if you touched it? How would the castle wall feel?",
+      "space": "Which things are close to you and which are far away? How can you tell?",
+      "light": "Where does the sky look brightest?",
+      "meaning": "Where do you think the boats are going?",
+      "culture": "Long ago, people in the Netherlands traveled by boat on rivers. What do you use to travel?",
+      "technique": "The painter used soft colors to make mist. What would you use to make a misty look?",
+      "personal": "Have you ever seen a castle or a river? Tell about it.",
+      "critical": "Why might the painter put the castle so low in the picture?"
+    },
+    "g12": {
+      "daily": "How does the soft, misty color make this river scene feel quiet? Point to a spot that shows it.",
+      "emotion": "What feeling does the big, gentle sky give you?",
+      "observation": "Describe the castle, the boats, the water and the sky. What do you notice first?",
+      "analysis": "Where do your eyes go first, and how do they move across the river?",
+      "line": "Find a line that runs side to side and a line that goes up. How do they fit together?",
+      "shape": "Compare the tall shape of the castle with the long, flat shape of the river.",
+      "color": "The picture uses a few soft colors. How do they match each other?",
+      "texture": "How does the painter make the water look flat and the sky look soft?",
+      "space": "How does the painter show that the river goes far away?",
+      "light": "Where is the sky lightest, and how does it light the river?",
+      "meaning": "What might be happening in the castle, and what might be happening on the river?",
+      "culture": "Rivers were like roads in the Netherlands. What clues in the picture show people using the river?",
+      "technique": "Why might using only a few colors make a picture feel peaceful?",
+      "personal": "If you were on one of the boats, what would you look at?",
+      "critical": "Does the castle look important or small in this picture? Why do you think so?"
+    },
+    "g35": {
+      "daily": "Van Goyen used soft colors and a big sky. How do they change the way you see the castle and the boats?",
+      "emotion": "What mood do the mist-like colors and the river give this scene? Point to details that help.",
+      "observation": "Look slowly across the picture. What details do you find on the castle, the boats and the water?",
+      "analysis": "How does the painter arrange the castle, river and boats so your eyes travel across the picture?",
+      "line": "How do the horizon and the riverbank lines help the picture feel calm?",
+      "shape": "How do the castle's upright shapes contrast with the flat, wide shapes of water and sky?",
+      "color": "Van Goyen used a small set of related colors. How does that make the painting feel unified?",
+      "texture": "How does the painter suggest the feel of water, stone and sky?",
+      "space": "How does the painter use size, haze and overlap to show distance?",
+      "light": "Describe where the light comes from and how it spreads over the river.",
+      "meaning": "What might a castle by a river say about the history of the Netherlands?",
+      "culture": "Why might Dutch buyers in the 1600s have wanted paintings of local rivers and old buildings?",
+      "technique": "Painters of this time often painted on wood panels. How might a smooth panel help with soft colors?",
+      "personal": "Think of a misty or foggy day you remember. How is this painting like it?",
+      "critical": "Is this a record of a real castle, or might it be an invented one? What do you think?"
+    },
+    "g68": {
+      "daily": "How does van Goyen make atmosphere the main subject of a picture with a castle and boats?",
+      "emotion": "How do the muted colors and large sky shape the mood?",
+      "observation": "List the buildings, boats and landscape features you can find. Which are easy to miss?",
+      "analysis": "How does the composition balance the castle with the open sky and water?",
+      "line": "How do the horizon and riverbanks form horizontal bands, and how do the vertical towers contrast with them?",
+      "shape": "How do small shapes of boats and buildings relate to the large shapes of sky and water?",
+      "color": "How does the restricted palette create harmony and a sense of mist?",
+      "texture": "How does the painter suggest different surfaces using only subtle changes of tone?",
+      "space": "Which devices create depth along the river and into the haze?",
+      "light": "How does diffused light unify the scene and set the time of day?",
+      "meaning": "What might this quiet view of a river and castle suggest about how Dutch viewers saw their country?",
+      "culture": "How did rivers shape trade and daily life in the Dutch Republic, and how does the painting reflect that?",
+      "technique": "How does painting with a narrow range of colors demand special control of light and dark?",
+      "personal": "What does a quiet landscape make you think about? How does this one compare?",
+      "critical": "How can we tell whether a landscape painting shows a particular place or an invented one?"
+    },
+    "g910": {
+      "daily": "How does van Goyen's tonal restraint turn a castle and river into a study of atmosphere?",
+      "emotion": "How do harmony of color and openness of space shape the painting's emotional register?",
+      "observation": "Describe the painting's visual hierarchy. What do you see first, and how does the painter manage subtlety?",
+      "analysis": "Analyze how the low horizon and large sky redistribute importance within the composition.",
+      "line": "How do horizontal bands structure the scene, and how do verticals interrupt them?",
+      "shape": "How do compact architectural and boat forms act as accents within the expanse?",
+      "color": "How does the tonal palette unify disparate elements, and what are its expressive effects?",
+      "texture": "How does the painter evoke different materials with minimal contrast?",
+      "space": "How do atmospheric effects extend the sense of depth across the river?",
+      "light": "How does soft, even light shape mood and unify the elements of the landscape?",
+      "meaning": "How do you weigh readings of the painting as a celebration of waterways, a study of mood, or a market product?",
+      "culture": "How did van Goyen's productivity and style respond to the growing market for affordable landscapes?",
+      "technique": "How might working in a narrow tonal range have allowed efficiency without losing atmosphere?",
+      "personal": "What does your reaction to subdued color tell you about your preferences in art?",
+      "critical": "Does the lack of vivid detail make the painting more universal or less specific? Defend your view."
+    },
+    "g1112": {
+      "daily": "What does the painting ask a viewer to supply that it does not state, and how does its tonal restraint invite that?",
+      "emotion": "How does the painting evoke feeling through atmosphere rather than narrative, and how stable is that response across viewers?",
+      "observation": "Describe the formal organization as precisely as you can before interpreting. Where did you notice yourself filling gaps?",
+      "analysis": "How does the composition use proportion between sky, water and buildings to determine meaning?",
+      "line": "How do the dominant horizontals create calm, and how do isolated verticals suggest human presence?",
+      "shape": "How does the contrast between the modest human structures and the expansive sky shape ideas of scale?",
+      "color": "How does limited color operate as a stylistic signature and as a strategy for unity?",
+      "texture": "How does the painter generate material difference with minimal chromatic variation?",
+      "space": "How does atmospheric recession produce a sense of continuity between earth and sky?",
+      "light": "How does diffuse light contribute to ambiguity of time and weather?",
+      "meaning": "How should we interpret the presence of a castle in a landscape that appears to emphasize air and water?",
+      "culture": "What can tonal landscapes reveal about the market and the self-image of the Dutch Republic in the mid-1600s?",
+      "technique": "How might the speed and economy of van Goyen's method be visible in the finished surface?",
+      "personal": "How does your response to quiet, low-contrast images shape the way you value this painting?",
+      "critical": "How should we judge a painting whose appeal rests on subtlety rather than incident?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Castles, Rivers, Boats) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A river landscape on wood by Jan van Goyen, dated 1647. He is known for tonal landscapes with a limited palette and a large sky.",
+    "vocabulary": [
+      "tonal painting",
+      "palette",
+      "horizon",
+      "atmosphere",
+      "river landscape",
+      "panel"
+    ],
+    "directions": [
+      "Have students paint a scene using only three related colors plus white.",
+      "Discuss how a large sky changes the feeling of a picture.",
+      "Locate rivers in the Netherlands and talk about how they were used for travel and trade."
+    ]
+  }
+}

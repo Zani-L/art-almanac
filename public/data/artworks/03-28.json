@@ -1,0 +1,160 @@
+{
+  "id": "met-415681",
+  "day": "03-28",
+  "title": "Alpine Landscape with a Deep Valley",
+  "recordTitle": "Alpine Landscape with a Deep Valley, from \"The Large Landscapes\"",
+  "artist": "Johannes van Doetecum I",
+  "date": "ca. 1555–56",
+  "medium": "Etching and engraving; second state of two",
+  "movement": "Northern Renaissance",
+  "region": "Low Countries (Antwerp)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP826015.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP826015.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1926",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black-and-white print of a wide mountain landscape seen from a high point, looking down into a deep valley. The scene is built from thousands of fine lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/415681",
+    "objectId": "415681",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page for the designer, series, and publisher credits"
+  },
+  "context": "A print from the series The Large Landscapes, made around 1555–56 by Johannes van Doetecum I (with Lucas van Doetecum) after a design by Pieter Bruegel the Elder, and published by Hieronymus Cock of Antwerp. Printing from metal plates let one landscape be sold in many copies.",
+  "descriptions": {
+    "k": "This is a picture of tall mountains and a deep, deep valley. We look down from very high up. It is made of thousands of tiny lines. What would it feel like to stand up there?",
+    "g12": "A big mountain landscape stretches out in this print. We look down from high above into a deep valley. The picture was made in the Netherlands almost 500 years ago, using tiny lines cut into metal. How does the artist make the land look far away?",
+    "g35": "This print shows a deep valley in the Alps, seen from a high viewpoint. Pieter Bruegel the Elder made the design, and printmakers named Doetecum cut it into metal plates so many copies could be printed and sold. Look at how tiny lines make mountains, rocks, and distance. How does the artist make you feel as if you are looking down from a mountaintop?",
+    "g68": "This print belongs to The Large Landscapes, made around 1555–56 after designs by Pieter Bruegel the Elder. Bruegel is known to have traveled to Italy and crossed the Alps, and views like this may draw on that experience. The Doetecum brothers translated his design into etched and engraved lines, and the publisher Hieronymus Cock sold the prints in Antwerp. How do tiny lines create distance, rock, and atmosphere? What is gained and lost when a drawing becomes a print?",
+    "g910": "Alpine Landscape with a Deep Valley is one of the Large Landscapes, designed by Bruegel and printed by Johannes and Lucas van Doetecum for the Antwerp publisher Hieronymus Cock around 1555–56. The high viewpoint opens a vast space in which human presence feels small, a way of seeing landscape that was becoming popular in the Netherlands. Etching and engraving allowed fine, varied lines to suggest mist, rock, and distance. Consider the collaboration among designer, printmakers, and publisher, and what it means to attribute the image to Bruegel.",
+    "g1112": "Produced around 1555–56, this print raises questions of authorship and mediation: Bruegel supplied the design, the Doetecum workshop translated it into etched and engraved line, and Hieronymus Cock published and sold it in Antwerp. The panoramic viewpoint and deep valley suit the ambition of the series, which brought alpine scenery to audiences who may never have seen mountains. Whether the image records a particular place or composes an ideal one is open to debate, and the second-state impression we see reminds us that prints could be reworked after the first edition."
+  },
+  "questions": {
+    "k": {
+      "daily": "What would you see if you stood on top of this mountain?",
+      "emotion": "Does this place feel big, quiet, or a little scary? What do you see that makes you say so?",
+      "observation": "Find the mountains, the valley, and the tiny lines. Which one can you point to first?",
+      "analysis": "Start at the front of the picture and look into the valley. What do your eyes pass along the way?",
+      "line": "This picture is made of lots of tiny lines. Can you find lines that go up and down?",
+      "shape": "What shapes do you see in the mountains and rocks?",
+      "color": "This picture is only black ink on paper. What do the dark and light parts show?",
+      "texture": "How would the rocks and trees feel to touch? Rough or smooth?",
+      "space": "What is close to you? What is far away? How can you tell?",
+      "light": "Which parts of the picture are light? Which parts are dark?",
+      "meaning": "If you could walk into this picture, where would you go first?",
+      "culture": "An artist in the Netherlands made this long ago, and the Netherlands is flat. Why might people there love pictures of mountains?",
+      "technique": "This picture was made from lines cut into metal. How do you think the artist made such tiny lines?",
+      "personal": "Have you ever looked down from a high place? Tell about it.",
+      "critical": "How does the artist show that the valley is very deep?"
+    },
+    "g12": {
+      "daily": "How does the artist make you feel as if you are high up looking down? Point to details that help.",
+      "emotion": "What feeling do you get from this big landscape? Which part makes you feel that way?",
+      "observation": "Describe five things you see, from the front of the picture to the faraway hills.",
+      "analysis": "How does the artist lead your eyes from the front of the picture into the deep valley?",
+      "line": "Find lines that are thick and dark and lines that are thin and light. How do they show rock and air?",
+      "shape": "Look at the mountains. What big shapes do they make together?",
+      "color": "There are no colors here, only ink. How does the artist show things that are near and far?",
+      "texture": "How does the artist use lines to make rock look rough and trees look leafy?",
+      "space": "Things far away look smaller and paler. Where do you see that in this picture?",
+      "light": "Where does the print look brightest? Where does it look darkest?",
+      "meaning": "Imagine a traveler walking here. What might the traveler see and feel?",
+      "culture": "Many people in the Netherlands had never seen real mountains. Why would they want a picture like this?",
+      "technique": "A printmaker cut lines into metal so many copies could be made. Why is making many copies useful?",
+      "personal": "What is the biggest view you have ever seen? How did it make you feel?",
+      "critical": "This print is a copy of a drawing by another artist. Does that change how you see it? Why?"
+    },
+    "g35": {
+      "daily": "How does the print make you feel as though you are looking down into a deep valley?",
+      "emotion": "What mood does the landscape create? Which details add to it?",
+      "observation": "Look slowly across the print for one minute. Which tiny marks or shapes did you miss at first?",
+      "analysis": "How does the artist arrange the mountains, valley, and sky to lead your eyes through the picture?",
+      "line": "How do straight and curved lines show different things like rocks, hills, and trees?",
+      "shape": "How do the big shapes of the mountains make the picture feel strong and wide?",
+      "color": "The print uses only dark lines on pale paper. How can lines alone make mountains look light on one side and shadowy on the other?",
+      "texture": "How does the artist use tiny marks to show different surfaces such as rock, trees, and water?",
+      "space": "How does the artist show that some parts are close and others are far away?",
+      "light": "Compare areas of bare paper with areas packed with lines. What does each do to the mountains and the valley?",
+      "meaning": "The viewer looks over a huge landscape that may have only tiny people. What might that say about people and nature?",
+      "culture": "Hieronymus Cock sold prints like this in Antwerp. Why might people in a busy trading city want mountain scenes?",
+      "technique": "Printmakers copied Bruegel's design onto metal plates so the picture could be printed many times. What is good about that?",
+      "personal": "What is a favorite outdoor place you know? How would you draw it with only lines?",
+      "critical": "Bruegel designed it, but others cut the plates. Who should we think of as the artist?"
+    },
+    "g68": {
+      "daily": "How does the print use a high viewpoint to make the landscape feel vast?",
+      "emotion": "Is the mood peaceful, awe-inspiring, or threatening? Support your view with visual evidence.",
+      "observation": "List what you see from foreground to background. Which parts of the print are most detailed?",
+      "analysis": "How does the composition lead your eye from the near edge to the far valley and mountains?",
+      "line": "How do hatching and cross-hatching create tone, form, and depth?",
+      "shape": "How do the large, angular forms of the mountains compare with the smaller shapes of trees and details?",
+      "color": "With no color, how does the print use tone and contrast to show near and far?",
+      "texture": "How do different kinds of line create the impression of rocky, wooded, and misty areas?",
+      "space": "How does the print use overlapping forms and fading detail to create deep space?",
+      "light": "How does the balance of dark and light areas give the landscape drama?",
+      "meaning": "The landscape may be both real and imagined. What clues help you decide how to read it?",
+      "culture": "Bruegel crossed the Alps on his way to Italy. Why might a Dutch or Flemish audience find alpine views fascinating?",
+      "technique": "Etching and engraving cut lines into a metal plate. How might that process affect how fine and varied the lines can be?",
+      "personal": "How does a place seem different when you see it from far above, such as from an airplane or a high hill?",
+      "critical": "A design by one artist was turned into a print by others. How should we credit the work?"
+    },
+    "g910": {
+      "daily": "How does the print combine observation and invention to produce an image of the Alps?",
+      "emotion": "How does the scale of the landscape shape the emotional experience of looking?",
+      "observation": "Describe the visual hierarchy of the print. What do you notice first, second, and third, and what causes that order?",
+      "analysis": "Analyze how the composition builds depth through a high viewpoint and layered planes.",
+      "line": "How do variations in density and direction of line create volume and atmosphere without color?",
+      "shape": "How do the mountains' massive forms contrast with smaller details to suggest scale?",
+      "color": "How does tonal contrast replace color in establishing mood and distance?",
+      "texture": "How do etched and engraved marks differ, and how are they used here to describe surface?",
+      "space": "How does the panoramic format and deep valley shape the viewer's position relative to the land?",
+      "light": "How does the distribution of light and shadow control attention and mood in the landscape?",
+      "meaning": "How might the print's emphasis on distance and scale suggest ideas about nature and human life, and how far can we claim intent?",
+      "culture": "How did publishers like Hieronymus Cock shape the market for landscape prints in 16th-century Antwerp?",
+      "technique": "What are the advantages and limits of etching and engraving for translating a drawn design into a printed image?",
+      "personal": "How does the experience of seeing a grand landscape in print differ from seeing it in person?",
+      "critical": "How does attributing the print to Bruegel affect how we value the roles of the printmakers and publisher?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the print about how landscape was imagined in mid-16th-century Antwerp, and what is uncertain?",
+      "emotion": "How does the panoramic scale generate feeling without a narrative? What are the risks of naming that feeling?",
+      "observation": "Describe the landscape print's construction as exactly as you can. Which parts of your description already involve interpretation?",
+      "analysis": "Analyze how the print balances topographic plausibility and composed ideal landscape.",
+      "line": "How does the translation of a drawn design into etched and engraved line shape the final look, and what might be lost?",
+      "shape": "How do the print's massive forms and fine detail relate to the conventions of 16th-century landscape?",
+      "color": "How does the absence of color complicate comparisons with painted landscapes of the time?",
+      "texture": "How do the conventions of printed line stand in for observed surface, and what does that suggest about visual knowledge?",
+      "space": "How does the print's high viewpoint relate to ideas of mastery over land and the viewer's position?",
+      "light": "How does tonal structure serve compositional drama rather than strictly naturalistic light?",
+      "meaning": "Evaluate readings of the image as record, ideal landscape, or reflection on human smallness. What evidence supports each?",
+      "culture": "How did the circulation of prints after designs by Bruegel contribute to the formation of a market for landscape images?",
+      "technique": "What does the presence of a second state tell us about the workshop's practices and the print's life after first publication?",
+      "personal": "How do your own experiences with mountains or heights shape how you interpret this scene?",
+      "critical": "How should we describe the authorship of a work produced by a designer, printmakers, and a publisher?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, medium, and tags (Landscapes) checked against the museum record, and the museum's web credits read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A print from The Large Landscapes series, c. 1555–56, credited to Johannes van Doetecum I after Pieter Bruegel the Elder, with Lucas van Doetecum, and published by Hieronymus Cock of Antwerp. The Met lists this impression as a second state.",
+    "vocabulary": [
+      "etching",
+      "engraving",
+      "print",
+      "hatching",
+      "viewpoint",
+      "state (of a print)"
+    ],
+    "directions": [
+      "Have students draw a mountain scene using only lines and shading, then discuss how distance was shown.",
+      "Discuss the roles of designer, printmaker, and publisher, and compare with teamwork in a modern project.",
+      "Compare this print with a satellite or aerial photograph of mountains."
+    ]
+  }
+}

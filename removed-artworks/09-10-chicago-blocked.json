@@ -1,0 +1,158 @@
+{
+  "id": "artic-66042",
+  "day": "09-10",
+  "title": "Trompe-l'Oeil Still Life with a Flower Garland and a Curtain",
+  "artist": "Adriaen van der Spelt and Frans van Mieris",
+  "date": "1658",
+  "medium": "Oil on panel",
+  "movement": "Dutch Golden Age",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/4a04138f-43d8-cd9f-5ac4-478cd8828210/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Wirt D. Walker Fund",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A painted garland of many kinds of flowers, including a tulip, hanging in front of a blue curtain that looks so real it seems you could pull it aside.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/66042",
+    "objectId": "66042",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1949.585, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on panel made in the Netherlands in 1658. The Art Institute credits the flower garland to Adriaen van der Spelt and the trompe-l'oeil blue curtain to Frans van Mieris. About twenty types of flowers are shown, and the curtain echoes an ancient Greek story about a painter who fooled his rival with a painted curtain.",
+  "descriptions": {
+    "k": "A garland of flowers hangs in front of a blue curtain. The painting is so tricky that the curtain looks real! Can you find a tulip? Pretend to pull the curtain open with your hand.",
+    "g12": "This painting plays a trick on your eyes. The blue curtain looks like real cloth you could pull aside, and the flowers look like they are hanging right in front of it. Two painters worked together on it. Can you find a tulip?",
+    "g35": "Adriaen van der Spelt and Frans van Mieris painted this in the Netherlands in 1658. Van der Spelt painted the garland of about twenty kinds of flowers, and van Mieris painted the blue curtain. Trompe-l'oeil means fool the eye, and the curtain looks so real it seems you could touch it. How does a painter trick your eyes?",
+    "g68": "This 1658 panel combines Adriaen van der Spelt's flower garland of about twenty species with a trompe-l'oeil blue curtain painted by Frans van Mieris. Trompe-l'oeil, French for fool the eye, makes painted things look real enough to touch. The curtain echoes an ancient story of a painter who fooled his rival. How does the painting play with the difference between a picture and reality?",
+    "g910": "Van der Spelt's flower garland and van Mieris's painted curtain (1658) combine in a trompe-l'oeil designed to make the viewer doubt what is real. The curtain recalls an ancient Greek anecdote about a painter fooled by a rival's painted drape. The challenge between illusion and viewer is part of the pleasure. What does a painting about deception reveal about how we look at pictures?",
+    "g1112": "This 1658 collaboration between Adriaen van der Spelt, who painted the garland of some twenty flower types, and Frans van Mieris, who painted the trompe-l'oeil curtain, stages an old contest between illusion and reality. The curtain alludes to an ancient anecdote of a painter deceived by a rival's painted veil. Because the picture draws attention to its own deception, it becomes a commentary on seeing. How does a work whose subject is illusion complicate our trust in images?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which flowers can you find? Point to the tulip.",
+      "emotion": "Does this painting feel playful or serious? What shows it?",
+      "observation": "Look at the curtain. Does it look real or painted?",
+      "analysis": "Why do you think the painters made the curtain look so real?",
+      "line": "Trace the curve of the flower garland. Does it go up or down?",
+      "shape": "What shapes do the flowers and leaves make?",
+      "color": "Which colors do you see in the flowers? Which color is the curtain?",
+      "texture": "Does the curtain look soft like cloth? Tell us how you know.",
+      "space": "Is the garland in front of the curtain or behind it? How can you tell?",
+      "light": "Where does light shine on the flowers or the curtain?",
+      "meaning": "Why might a painter want to trick your eyes?",
+      "culture": "What tricks or illusions have you seen that fooled your eyes?",
+      "technique": "Two artists worked on this painting. What do you think each one did?",
+      "personal": "If you could hide something behind this curtain, what would it be?",
+      "critical": "What would you add to the painting to make a better trick?"
+    },
+    "g12": {
+      "daily": "Can you find a tulip? Point to your favorite flower.",
+      "emotion": "Does this painting feel funny, calm, or tricky? Show us what you see that tells you.",
+      "observation": "Describe the curtain. What color is it?",
+      "analysis": "Why do you think the painters made the curtain look so real?",
+      "line": "Follow the folds of the curtain with your finger. Are they straight or wavy?",
+      "shape": "Which round and pointy shapes do you see in the flowers?",
+      "color": "Which colors in the flowers stand out against the blue?",
+      "texture": "Does the curtain look soft like cloth? What tells you?",
+      "space": "Do the flowers seem to hang in front of the curtain? How can you tell?",
+      "light": "Where does light shine on the petals and cloth?",
+      "meaning": "Why do you think artists like to trick the eye?",
+      "culture": "Have you ever thought something painted was real? What happened?",
+      "technique": "Two painters worked on this picture together. What might each one do?",
+      "personal": "If you could hide something behind the curtain, what would you hide?",
+      "critical": "What would you add to make the trick even better?"
+    },
+    "g35": {
+      "daily": "What makes this painting look like a trick?",
+      "emotion": "What feeling do the bright flowers and deep blue curtain give you?",
+      "observation": "Describe the flowers you see in the garland.",
+      "analysis": "Why do you think the painters put a curtain in the picture?",
+      "line": "How do the folds in the curtain look like real cloth?",
+      "shape": "How do the round flowers contrast with the long folds of the curtain?",
+      "color": "How do the colors of the flowers pop against the blue curtain?",
+      "texture": "How did the painters make the surface of the curtain look soft and the petals look delicate?",
+      "space": "How does the curtain make you feel as if you could step into the painting?",
+      "light": "Where do you see light and shadow that make things look real?",
+      "meaning": "What might the ancient story about a painted curtain mean for how we look at paintings?",
+      "culture": "This was painted in the Netherlands almost 370 years ago. Why might people have loved flowers and tricks in art?",
+      "technique": "Why might painters enjoy showing off how real they can make things look?",
+      "personal": "Have you ever been fooled by a picture? What happened?",
+      "critical": "Do you think it is fun or a little unfair to trick people with a painting? Explain."
+    },
+    "g68": {
+      "daily": "What is the first thing that draws your eye, and how does the painting hold your attention?",
+      "emotion": "How does the deep blue curtain affect the mood of the bright flowers?",
+      "observation": "Describe the garland and how the flowers are arranged along it.",
+      "analysis": "How do the painters arrange flowers and curtain so that the garland looks as if it is hanging in front of fabric?",
+      "line": "How do folds in the curtain create lines that guide your eye?",
+      "shape": "How does the curtain's large, simple shape contrast with the many small flower shapes?",
+      "color": "How do cool blue and warm flower colors work together?",
+      "texture": "What details make the cloth and petals look realistic?",
+      "space": "How does the painting blur the line between painted space and your own space?",
+      "light": "How does the painters' treatment of light make flowers and curtain look three-dimensional?",
+      "meaning": "How does the story of an ancient painter fooled by a painted curtain relate to this painting?",
+      "culture": "Why do you think Dutch collectors in the 1600s enjoyed illusions?",
+      "technique": "What is the effect of two different painters working on one picture?",
+      "personal": "How might a painting that fools the eye change the way we see all paintings?",
+      "critical": "What makes a successful illusion, and does it require the viewer's cooperation?"
+    },
+    "g910": {
+      "daily": "What compositional strategies maintain the illusion that the garland and curtain occupy the viewer's space?",
+      "emotion": "How does the intensely saturated curtain heighten the delicacy of the flowers?",
+      "observation": "Examine the variety of flowers in the garland. What does that variety suggest about the painters' skills and ambitions?",
+      "analysis": "Analyze how the arrangement of garland and curtain creates both depth and surface.",
+      "line": "How do the curving garland and the vertical folds of the curtain organize the picture?",
+      "shape": "How do the contrasting forms of curtain and flowers show different kinds of painterly mastery?",
+      "color": "How do the cool and warm colors increase the sense of three-dimensionality?",
+      "texture": "What does the careful rendering of textures reveal about the painters' technical aims?",
+      "space": "How does the picture dissolve the frame between represented and actual space?",
+      "light": "How does consistent lighting support the credibility of the illusion?",
+      "meaning": "How does the curtain allude to the ancient Greek rivalry between painters, and why would that resonate in 1658?",
+      "culture": "How does the collaborative authorship complicate the idea of a single artist's genius?",
+      "technique": "How does trompe-l'oeil reflect Dutch Golden Age interest in observation, display, and wit?",
+      "personal": "What kind of relationship does the painting establish between artist and viewer?",
+      "critical": "Is the pleasure of an illusion greater when we are fooled or when we recognize the trick? Argue your view."
+    },
+    "g1112": {
+      "daily": "How does the painting stage the contest between illusion and revelation, and what compositional devices make the viewer an active participant?",
+      "emotion": "In what ways does the saturated curtain operate as both a dramatic foil and a framing device for the garland?",
+      "observation": "What does the assemblage of some twenty species suggest about the intersection of botany, collecting, and virtuosity?",
+      "analysis": "Evaluate how the layering of garland over curtain constructs a believable but ultimately paradoxical space.",
+      "line": "How do the rhythmic curves of the garland and the folds of the fabric create a counterpoint of lines?",
+      "shape": "How does the juxtaposition of delicate petals and heavy drapery demonstrate range in the painters' technical repertoires?",
+      "color": "How do chromatic temperature and tonal modeling reinforce the sensation of tactile reality?",
+      "texture": "What does the near-invisible handling of paint imply about the value placed on concealment of process?",
+      "space": "How does the picture complicate the boundary between painted surface and actual space, and why does that matter philosophically?",
+      "light": "How does consistent, naturalistic light function as a rhetorical strategy of persuasion?",
+      "meaning": "How does the reference to the ancient anecdote of a painted veil position the work in a long tradition of artistic competition?",
+      "culture": "How does the collaboration between two painters affect our understanding of authorship in seventeenth-century workshops?",
+      "technique": "How might trompe-l'oeil express both the confidence and the anxieties of Dutch Golden Age visual culture?",
+      "personal": "What does being aware of the trick, and still enjoying it, reveal about your own relationship to illusion and trust?",
+      "critical": "To what extent does the picture ask the viewer to doubt the reliability of vision?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (still life, curtains, flowers) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting on panel made in the Netherlands in 1658. The Art Institute credits the flower garland to Adriaen van der Spelt and the trompe-l'oeil blue curtain to Frans van Mieris. About twenty types of flowers are shown, and the curtain echoes an ancient Greek story about a painter who fooled his rival with a painted curtain.",
+    "vocabulary": [
+      "trompe-l'oeil",
+      "still life",
+      "garland",
+      "illusion",
+      "collaboration",
+      "Dutch Golden Age"
+    ],
+    "directions": [
+      "Have students draw a folded piece of paper or cloth and use shading to make it look real, then compare drawings.",
+      "Ask students to list the flowers they can name and sort them by color, then discuss the details the painters needed to observe.",
+      "Discuss what it means to be fooled by an image and how artists, photographers, and designers use illusion today."
+    ]
+  }
+}

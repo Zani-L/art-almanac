@@ -1,0 +1,158 @@
+{
+  "id": "met-40484",
+  "day": "09-27",
+  "title": "Writing box with decoration of seven deer in autumn grasses",
+  "artist": "Artist unknown",
+  "date": "19th century",
+  "medium": "Gold maki-e, inlaid mother-of-pearl, and lead on black lacquer",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-21879-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-21879-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Florence and Herbert Irving, 2020",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black lacquer box decorated in gold and shimmering inlay with a design of deer among autumn grasses.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/40484",
+    "objectId": "40484",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A writing box made in Japan in the 19th century, during the Edo period. It is black lacquer decorated with gold maki-e, mother-of-pearl inlay, and lead, and its design shows seven deer among autumn grasses. Writing boxes held an inkstone, ink stick, brushes, and water dropper.",
+  "descriptions": {
+    "k": "This is a shiny black box with a picture on it. Deer walk among autumn grasses. The picture is made with gold. Some parts sparkle like shells. What do you think is inside this box?",
+    "g12": "This black box from Japan was made to hold writing tools. Seven deer stand among tall grasses on the lid, and the design is made of gold and shiny shell. The black background makes them glow. Can you count the deer? Where do you think they are looking?",
+    "g35": "This is a writing box from Japan, made to hold an inkstone, ink stick, and brushes. Its black lacquer is decorated with gold powder in a technique called maki-e, plus shiny mother-of-pearl. The design shows seven deer among autumn grasses. Look at how the gold stands out against the black. Why might a maker decorate a box for writing with deer and autumn plants?",
+    "g68": "Made in the 19th century, this writing box uses maki-e, in which designs are drawn in lacquer and gold powder is sprinkled on before it sets. Mother-of-pearl and lead add other shines. Deer among autumn grasses is a classic combination in Japanese poetry and art, so the box may call up the season and its mood. The dark ground sets off the shimmering design. How do you think the box looked when opened by lamplight?",
+    "g910": "The box transforms a functional object into a small landscape. Gold maki-e, mother-of-pearl, and lead create varied reflective effects against black lacquer, which makes the deer and grasses seem to glow. Deer among autumn plants are a motif with strong poetic associations in Japanese culture, though how a specific owner read them is not recorded. Consider how a writing box, linked to literacy and refinement, uses imagery and luxury materials to signal taste.",
+    "g1112": "This writing box exemplifies how Edo-period lacquer fused function, craft, and cultural reference. Gold maki-e, inlaid mother-of-pearl, and lead produce layered optical effects on black lacquer, yielding a design that changes with light. The pairing of deer and autumn grasses draws on a long poetic and pictorial tradition, which gives the object a literary resonance, though individual meanings can only be inferred. Because the box was meant to be handled and opened, display behind glass reduces our access to part of its intended experience. How do material and motif shape meaning?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What would you write with the tools inside this box?",
+      "emotion": "Does this box feel quiet, fancy, or sleepy to you? What do you see that tells you?",
+      "observation": "What can you find on the box? Point to a deer and some grass.",
+      "analysis": "Where do your eyes go first on the box? Why?",
+      "line": "Can you find thin lines like grass? Trace one in the air.",
+      "shape": "What shapes do the deer make? Are they round, long, or tall?",
+      "color": "What colors do you see? Which parts sparkle?",
+      "texture": "Lacquer is very smooth. How do you think the box would feel to touch?",
+      "space": "The deer are in grass. Which ones look closer, and which look farther?",
+      "light": "Where does the gold catch the light? How does the black make it stand out?",
+      "meaning": "What might the deer be doing in the grass? Make up a story.",
+      "culture": "This box is from Japan. What special box or case do you have for your things?",
+      "technique": "Someone sprinkled gold powder on sticky lacquer to make the picture. Why do you think that took patience?",
+      "personal": "What animal would you put on a box for your favorite things?",
+      "critical": "This box is for writing tools. Why might someone decorate it so much?"
+    },
+    "g12": {
+      "daily": "What do you think the deer are doing in the autumn grasses? Use clues you see.",
+      "emotion": "What feeling does this autumn scene give you? Which parts help?",
+      "observation": "Describe five things you see on the box, from the deer to the grass.",
+      "analysis": "How does the artist arrange the deer and plants on the lid?",
+      "line": "Find thin lines for grasses. How do they make the lid feel?",
+      "shape": "What shapes do the deer and grasses make? Which are curved and which are straight?",
+      "color": "Black and gold look very different. How do they help each other?",
+      "texture": "Which parts look shiny, smooth, or bumpy? Show where you see it.",
+      "space": "How does the artist make the lid feel like a field?",
+      "light": "Where does the gold shine? What does shine do to the picture?",
+      "meaning": "Why might someone want deer on a writing box?",
+      "culture": "People in Japan have long loved to notice the seasons. How does this box show autumn?",
+      "technique": "Lacquer is a smooth, hard coating. Why would an artist choose it for a box?",
+      "personal": "What season do you like best? How would you decorate a box to show it?",
+      "critical": "Would you use this box every day or keep it special? Explain."
+    },
+    "g35": {
+      "daily": "What season and mood does the artist show, and what details support your idea?",
+      "emotion": "What mood does the box have? Which design choices create it?",
+      "observation": "Look closely for one minute. What small details in the deer or grasses did you miss at first?",
+      "analysis": "How does the artist arrange seven deer and grasses on a rectangular lid?",
+      "line": "How do thin lines of the grasses compare with the larger shapes of the deer?",
+      "shape": "What shapes repeat, and how do they give the design rhythm?",
+      "color": "How do black, gold, and shell shine work together to make the design stand out?",
+      "texture": "How might lacquer, gold powder, and mother-of-pearl feel different if you could touch them?",
+      "space": "How does the artist suggest a field on a small, flat surface?",
+      "light": "How might the box look different in candlelight or sunlight?",
+      "meaning": "Deer and autumn grasses go together in many Japanese poems. Why might this be a good design for a writing box?",
+      "culture": "Why might people in Edo-period Japan have wanted beautiful tools for writing?",
+      "technique": "Maki-e means sprinkled picture. How does sprinkling gold create a design?",
+      "personal": "Think of a special box or case you own. What would you put on it?",
+      "critical": "Why might a useful object be made so beautiful? Give two possible reasons."
+    },
+    "g68": {
+      "daily": "How does the box turn a container for writing tools into a miniature autumn landscape?",
+      "emotion": "What atmosphere do the dark ground and gold design create?",
+      "observation": "List what you see across the lid. Which details seem most carefully placed?",
+      "analysis": "How does the composition use grass, deer, and open space to guide the eye?",
+      "line": "How do fine lines of grass contrast with the solid forms of deer?",
+      "shape": "How do the shapes of deer and plants balance each other across the lid?",
+      "color": "How does the limited palette of black, gold, and shell emphasize the design?",
+      "texture": "How do maki-e, inlay, and lacquer create different surface effects?",
+      "space": "How does the artist suggest depth and distance on a small flat lid?",
+      "light": "How does the reflective gold change with the viewer's position or the light source?",
+      "meaning": "What might autumn deer have suggested to a person writing at this box? Offer more than one idea.",
+      "culture": "What does the existence of such a luxurious writing box suggest about the value of writing and poetry?",
+      "technique": "Maki-e involves many steps and waiting for lacquer to set. How does the slow process show in the result?",
+      "personal": "What everyday tools in your life have been made beautiful, and why?",
+      "critical": "How does seeing the box closed behind glass limit what we can understand about it?"
+    },
+    "g910": {
+      "daily": "How do material, motif, and function combine to give this writing box meaning?",
+      "emotion": "How does the contrast between dark ground and glowing design produce atmosphere?",
+      "observation": "Describe the visual hierarchy. What draws the eye first, and how does the design reward longer looking?",
+      "analysis": "Analyze how the artist arranges deer and grasses on the lid.",
+      "line": "How does line quality differentiate plants from animals in the design?",
+      "shape": "How do repeated deer forms and plant shapes create rhythm?",
+      "color": "How does the restricted palette highlight reflective materials?",
+      "texture": "How do different decorative techniques create tactile and visual contrasts on a single surface?",
+      "space": "How does the design suggest depth and field without conventional perspective?",
+      "light": "How does metallic and shell inlay respond to changing light, and why might that matter for lacquer?",
+      "meaning": "What literary or seasonal associations might deer and autumn grasses have carried, and which are documented?",
+      "culture": "How does a writing box reflect the status of literacy and refined taste in Edo-period society?",
+      "technique": "How do the multiple layers and steps in lacquer decoration shape what is possible in design?",
+      "personal": "How does the idea of beautiful tools shape how you think about everyday objects?",
+      "critical": "How does museum display affect our understanding of objects made to be handled?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this writing box about how objects carry cultural and poetic meaning, and what remains uncertain?",
+      "emotion": "How does the box evoke mood through reflection and restraint rather than narrative?",
+      "observation": "Describe the box's decoration with precision. Where does description shade into interpretation?",
+      "analysis": "Analyze how the composition uses rhythm and asymmetry within the lid's rectangle.",
+      "line": "How does line function in lacquer decoration compared with painting?",
+      "shape": "How do animal and plant forms balance within the lid's geometry?",
+      "color": "How might aging have affected the box's black ground and metallic elements?",
+      "texture": "How does the combination of lacquer, metal, and shell complicate the divide between painting and sculpture?",
+      "space": "How does the box's spatial logic differ from Western illusionism, and what does it do for the viewer?",
+      "light": "How does display lighting change an object whose appearance depended on movement and shifting light?",
+      "meaning": "Evaluate possible readings of the deer and autumn grasses, such as literary allusion, seasonal marker, or decoration. What evidence is needed?",
+      "culture": "How does the writing box illustrate the intersection of craft, literacy, and status in Edo society?",
+      "technique": "What does lacquer decoration reveal about specialization, time, and cost in craft production?",
+      "personal": "How does your own experience of writing tools shape your reading of this luxury object?",
+      "critical": "What is lost when museums display a handled object as a static image, and how might we compensate?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Lacquer), medium, and tags (Deer) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century Edo-period writing box with gold maki-e, mother-of-pearl, and lead on black lacquer. Writing boxes held the tools for calligraphy.",
+    "vocabulary": [
+      "lacquer",
+      "maki-e",
+      "writing box",
+      "inlay",
+      "motif",
+      "Edo period"
+    ],
+    "directions": [
+      "Let students plan a decorated lid for a pencil box using only a limited palette.",
+      "Ask students to pair an animal with a season they associate with it, then justify the pairing.",
+      "Compare with the other writing boxes in the archive and discuss how each chooses a motif."
+    ]
+  }
+}

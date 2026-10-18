@@ -1,0 +1,159 @@
+{
+  "id": "met-11113",
+  "day": "01-29",
+  "title": "Cannon Rock",
+  "artist": "Winslow Homer",
+  "date": "1895",
+  "medium": "Oil on canvas",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap06.1281.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap06.1281.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of George A. Hearn, 1906",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A seascape with no people in it, showing a heavy swell of dark blue-green water rolling in beneath a wide sky, with white foam on the waves. The picture is mostly sea and sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11113",
+    "objectId": "11113",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Seascapes, Waves) and image URLs read from the record"
+  },
+  "context": "An oil seascape by Winslow Homer, dated 1895. Homer lived for many years on the coast of Maine at Prouts Neck, and the ocean became the main subject of his later paintings. The title refers to a named rock or ledge in the sea.",
+  "descriptions": {
+    "k": "Big waves roll in from the sea. White foam splashes on the water. Look at the blue and green. Can you hear the waves crash? What do you think the sea would smell like?",
+    "g12": "Winslow Homer painted this big, moving sea. Waves roll in and break into white foam. Look at the many blues and greens. No people are here, only water and sky. How does the painting make you feel the power of the ocean?",
+    "g35": "Winslow Homer lived beside the Atlantic Ocean in Maine and painted the sea again and again. In Cannon Rock, the title names a rock in the water, but the waves are what you notice most. Look at how swirls of white foam and layers of green and blue make the water seem to move. What parts feel calm, and what parts feel strong?",
+    "g68": "By the 1890s Homer had settled on the Maine coast and made the sea his main subject. Here he gives the waves most of the space and uses thick, active strokes of paint to suggest their weight and motion. The title points to a particular rock, yet the painting seems less about a place than about the ocean's force. With no people, viewers are left to imagine their own place on the shore. How does that choice change the mood?",
+    "g910": "Cannon Rock shows how Homer moved from illustrating human stories to studying the sea itself. He builds the water from broad, varied strokes of green, blue, and white, so the surface feels heavy, changeable, and alive. The absence of figures makes nature the subject, and it raises the question of how we, as viewers, stand in relation to such power. Because Homer rarely explained his pictures, scholars read this focus on the ocean in different ways and treat their conclusions as interpretations.",
+    "g1112": "In Cannon Rock of 1895, Homer treats the ocean as a subject complete in itself, in a way that places him between nineteenth-century realism and a more modern interest in painted surface. The mass of water and the expressive, visible handling of paint can be read as an attempt to convey what the sea feels like as well as how it looks. Critics have connected such late seascapes to the sublime, to a retreat from human drama, or to Homer's own isolation at Prouts Neck, though Homer said little himself. The evidence in the image supports a strong case for engagement with natural force, while the biographical readings remain speculative."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could stand beside this sea, what sounds would you hear?",
+      "emotion": "Does this sea feel gentle or strong to you? Show with your face or hands.",
+      "observation": "How many different colors can you find in the water? Name them.",
+      "analysis": "Where do your eyes go first in this seascape? Why do you think so?",
+      "line": "Can you find curvy lines in the waves? Trace one in the air with your finger.",
+      "shape": "Which part of the water looks like a hill? Point to it.",
+      "color": "Find the white foam. What colors sit right beside it?",
+      "texture": "Would this water feel smooth or bumpy if you could touch it? Why?",
+      "space": "Is the water near us or far away? Where does the sea stop and the sky begin?",
+      "light": "Where does the water look the brightest? Where does it look dark?",
+      "meaning": "Imagine a boat far off in this sea. What do you think its sailors are thinking?",
+      "culture": "Homer lived by the ocean in the state of Maine. What would living near the sea be like?",
+      "technique": "The artist used thick oil paint. How do you think he made the foam look so splashy?",
+      "personal": "Have you seen big waves or a lake in a storm? Tell about it.",
+      "critical": "There are no people in this picture. Does that make you feel safe or small? Why?"
+    },
+    "g12": {
+      "daily": "What do you think the sea is doing right now, and what do you see that tells you?",
+      "emotion": "How does this ocean make you feel? Point to colors or shapes that cause the feeling.",
+      "observation": "List five details you see in the waves, the foam, and the sky.",
+      "analysis": "How does the artist lead your eyes through the rolling waves from one side to the other?",
+      "line": "Find the curved lines in the water. How do they show that the waves are moving?",
+      "shape": "How do the big rounded shapes of the waves make the sea look heavy and strong?",
+      "color": "Which blues and greens are dark, and which are light? How do they help the water look deep?",
+      "texture": "Show how you can tell which parts of the water look foamy and which look smooth.",
+      "space": "How does Homer show that some waves are close to you and others are far away?",
+      "light": "Where does light hit the water? How does it help make the waves look round?",
+      "meaning": "The title names a rock, but the waves are the star. Why might the artist choose to focus on the sea?",
+      "culture": "Homer painted the Maine coast over a hundred years ago. What might he have noticed living near the ocean every day?",
+      "technique": "Homer used oil paint in thick and thin strokes. Where do you see brushstrokes that look like moving water?",
+      "personal": "What is a place in nature that makes you feel small or amazed? How is it like this sea?",
+      "critical": "Would this picture feel different with a ship in it? Why do you think the artist left it out?"
+    },
+    "g35": {
+      "daily": "What do you think Homer wants you to notice most about this sea, and what evidence in the painting supports your idea?",
+      "emotion": "Is the sea in this painting calm, powerful, or threatening? Which choices of color and shape create that feeling?",
+      "observation": "After one minute of silent looking, what small details in the foam and water do you notice that you missed at first?",
+      "analysis": "How does Homer organize the sea and sky so that your eyes keep moving across the canvas?",
+      "line": "Compare the long, rolling curves of the waves with the sharper, broken lines of the foam. What does each kind of line do?",
+      "shape": "How does the large, rounded form of the swell make the water feel heavy?",
+      "color": "How does Homer mix greens, blues, and whites to make the water look deep and cold?",
+      "texture": "How do the thick strokes of paint help you imagine the feel of salt spray and rushing water?",
+      "space": "How can you tell how far the water stretches? Look at the sizes of the waves and the horizon.",
+      "light": "Where is the light brightest on the waves, and how does it change the color of the water?",
+      "meaning": "The painting is named for a rock, but you see mostly sea. What might the name and the picture together suggest?",
+      "culture": "Many Maine communities lived by fishing and sailing. How might people living on that coast have thought about the ocean?",
+      "technique": "Homer lived close to the shore and watched the sea for years. How might that long watching help him paint it?",
+      "personal": "Think of a time you watched something powerful in nature. How is your feeling like or unlike the feeling here?",
+      "critical": "Why might an artist choose to paint the sea without any people? What would be different if people were shown?"
+    },
+    "g68": {
+      "daily": "How does Homer make the viewer feel the weight and force of the ocean without showing a single person?",
+      "emotion": "What mood does the painting create, and which elements, such as color, brushwork, and scale, build it?",
+      "observation": "Describe the picture from the water at the front to the horizon. Which details seem most carefully rendered?",
+      "analysis": "How does the composition balance the heavy swell against the open sky? What happens to the balance if one side grows?",
+      "line": "How do the rolling curves and breaking foam lines create rhythm across the canvas?",
+      "shape": "How does the mass of the main wave function as a dominant shape, and how do smaller shapes support it?",
+      "color": "Which colors are most saturated and which are muted? How does that contrast affect the sense of depth and power?",
+      "texture": "How does the thick application of paint suggest water and foam, and where does the surface look thinner or smoother?",
+      "space": "How do overlapping waves and a shifting horizon create a feeling of depth in a scene with no objects for scale?",
+      "light": "How does the pattern of bright foam against darker water help describe the movement of the waves?",
+      "meaning": "Without human figures, what role does the viewer play in the scene? Offer more than one reading.",
+      "culture": "How might the relationship of New England coastal communities to the sea have shaped what people wanted from paintings like this?",
+      "technique": "How does Homer's painting of foam, with quick strokes and bright whites, compare with how a photograph might show it?",
+      "personal": "What does the sense of scale in this painting remind you of in your own experience of nature?",
+      "critical": "The title names a particular rock, but the painting does not make it the star. What might that tell us about the artist's priorities?"
+    },
+    "g910": {
+      "daily": "How does Homer's focus on the sea alone, with no figures or ships, reshape what a seascape can express?",
+      "emotion": "How does the physical handling of paint contribute to the painting's emotional force?",
+      "observation": "Describe the visual hierarchy: what draws the eye first, and what devices create that effect?",
+      "analysis": "Analyze how Homer balances turbulence in the water against the stability of the horizon and sky.",
+      "line": "How do the irregular, curving edges of the waves and foam create implied motion?",
+      "shape": "How does the massing of the wave as a large, simplified form contribute to the painting's sense of monumentality?",
+      "color": "How does Homer use a narrow range of greens, blues, and whites to describe light and depth, and why might he avoid stronger contrasts?",
+      "texture": "How does the thick, varied paint surface imitate the physical qualities of water, and how does it call attention to paint itself?",
+      "space": "How does the near-absence of landmarks complicate your sense of distance and your own position as a viewer?",
+      "light": "How does Homer use bright accents of foam to model the shape of the swell?",
+      "meaning": "How might the painting be read in relation to ideas of the sublime, and where does that interpretation reach its limits?",
+      "culture": "How do the coast of Maine and the culture of the seaside shape the way Homer approached this subject?",
+      "technique": "How does Homer's later approach to painting the sea compare with the clear, narrative style of his earlier illustrations?",
+      "personal": "How does your own experience of nature's scale influence the way you interpret this painting?",
+      "critical": "Does the absence of human presence strengthen or weaken the painting's meaning? Defend your view with visual evidence."
+    },
+    "g1112": {
+      "daily": "What can you argue about this painting from visual evidence alone, and what claims about Homer's intent go beyond that evidence?",
+      "emotion": "How does the painting resist reducing the ocean to a single emotion such as fear or calm, and what does this ambiguity offer the viewer?",
+      "observation": "Describe the painting's construction with precision. At what point does your description start to become interpretation?",
+      "analysis": "Analyze how Homer constructs energy and equilibrium through the relation of water, foam, and sky.",
+      "line": "How does the painting's reliance on mass and tone rather than outline define its approach to form?",
+      "shape": "How do the simplified, monumental forms of the swell relate to ideas of abstraction in later painting?",
+      "color": "How does Homer's limited, closely tuned palette organize the picture, and how might the work's age affect what we see today?",
+      "texture": "How does the visible surface of paint compete with, or reinforce, the illusion of water?",
+      "space": "How does the controlled lack of anchoring objects place the viewer within or against the sea?",
+      "light": "In what ways does Homer treat light as both a record of natural conditions and a structuring device?",
+      "meaning": "Evaluate competing readings, such as the sublime, solitude, or pure observation of nature. Which is best supported by the image, and which is speculative?",
+      "culture": "How does the picture participate in late nineteenth-century American attitudes toward nature, the coast, and the idea of national identity?",
+      "technique": "What does the painting suggest about the relationship between observation at the shore and invention in the studio?",
+      "personal": "How might your own relationship to the sea, or to open nature, shape what you expect a painting of it to do?",
+      "critical": "Given how little Homer said about his paintings, what standards of evidence should we use when interpreting a work like this?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Seascapes, Waves), medium and credit line checked against the museum record for nudity, violence, shipwreck or other frightening content; none indicated. The tags list no figures or boats.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1895, when Homer lived at Prouts Neck on the Maine coast. The painting shows waves around a named rock in the sea, and its main subject is the ocean itself.",
+    "vocabulary": [
+      "seascape",
+      "realism",
+      "swell",
+      "brushstroke",
+      "horizon",
+      "sublime"
+    ],
+    "directions": [
+      "Ask students to describe the sea with five verbs, then match each verb to a place in the painting.",
+      "Have students sketch the wave shape with three or four bold lines before discussing color.",
+      "Compare this painting with a photograph of the ocean and discuss what paint can show that a photo cannot."
+    ]
+  }
+}

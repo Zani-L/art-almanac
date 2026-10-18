@@ -1,0 +1,159 @@
+{
+  "id": "met-464379",
+  "day": "03-02",
+  "title": "Plate with David Anointed by Samuel",
+  "artist": "Artist unknown",
+  "date": "629–630",
+  "medium": "Silver",
+  "movement": "Byzantine",
+  "region": "Byzantine Empire",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/md/web-large/DT11583.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/md/original/DT11583.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of J. Pierpont Morgan, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A round silver plate with a scene in raised figures. A man pours oil on the head of a young man, David, as other figures look on.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/464379",
+    "objectId": "464379",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Byzantine), classification (Metalwork-Silver), tags (Rams, David), dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A silver plate made in the Byzantine Empire in 629–630. It belongs to the group known as the David Plates, found on Cyprus, which show episodes from the life of David as told in the Bible. This one shows the prophet Samuel anointing David.",
+  "descriptions": {
+    "k": "This is a shiny silver plate. A man named Samuel pours oil on David's head. In the story, this means David will become a king. The plate was made more than 1,300 years ago. Who do you see in the picture?",
+    "g12": "Long ago, a metalworker made this silver plate in the Byzantine Empire. It shows a story from the Bible. The prophet Samuel pours oil on David to show he will one day be a king. David watched over sheep, so look for an animal in the picture. How do you think David feels?",
+    "g35": "This silver plate was made in the Byzantine Empire in 629–630. It is one of a set of nine found on Cyprus, and each plate shows a scene from the life of David, a shepherd who becomes a king in the Bible. Here the prophet Samuel anoints David by pouring oil on his head. The plate is about 26 centimeters wide and weighs more than a kilogram. Look at the figures' poses. How does the artist show who is important?",
+    "g68": "This is one of the David Plates, nine silver plates found on Cyprus and dated to 629–630, during the reign of Emperor Heraclius. Each shows an episode from David's life as told in the Bible. Here Samuel anoints David, marking him as a future king. The metalworker had to tell the story clearly inside a circle, using the arrangement, gestures, and clothing of the figures. Some scholars link the series to the emperor's own image as a ruler chosen by God, though this is debated. What visual choices make the central action easy to read?",
+    "g910": "The David Plates, made in 629–630 and found on Cyprus, combine biblical narrative with the visual language of Byzantine court art. Here Samuel anoints David, and the metalworker relies on figure arrangement and gesture to emphasize a sacred moment. The classical-looking figures show how Byzantine art continued older Roman models. Scholars debate whether the series carried a political message tied to Emperor Heraclius, since David was a model of a divinely chosen ruler. How do composition and the sheer weight and value of silver help convey importance?",
+    "g1112": "The David Plates are a rare survival of seventh-century Byzantine silverwork, linked by control stamps to the reign of Heraclius, around 629–630. This plate shows Samuel anointing David, a scene of divine selection that some scholars connect to imperial ideology after the emperor's campaigns against Persia; others caution that biblical narrative can be read without a political key. The classicizing figures suggest continuity with Roman art rather than a sharp break. How should we balance religious meaning, imperial context, and artistic tradition when reading a single object, and what evidence would be convincing for each?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Samuel is pouring oil on David's head. What do you think David is feeling right then?",
+      "emotion": "Does this silver plate show a happy moment, a quiet moment, or a serious moment? What clues do you see?",
+      "observation": "Look for the people in the picture. How many can you find, and who looks most important?",
+      "analysis": "Where do your eyes go first on this plate? What helps them go there?",
+      "line": "Find a curved line near the edge of the round plate. Trace it with your finger.",
+      "shape": "The plate is a circle. What other shapes can you find inside the picture?",
+      "color": "Silver is a shiny gray-white metal. Which parts of the plate look the shiniest or the darkest?",
+      "texture": "The people on the plate are raised up from the silver. How do you think they would feel to touch?",
+      "space": "Which people are in front and which are behind? How can you tell?",
+      "light": "Shiny silver bounces light back to your eyes. Where does the plate look brightest?",
+      "meaning": "In the story, oil on the head means David will become a king. How do you think a person feels when they hear that?",
+      "culture": "This plate was made in the Byzantine Empire, long ago. What special things in your home are made of metal?",
+      "technique": "A metalworker shaped this plate from silver. Why do you think silver was chosen for something so special?",
+      "personal": "Tell about a time when someone chose you for something important.",
+      "critical": "David is a shepherd in the story. What in the picture might remind you of sheep?"
+    },
+    "g12": {
+      "daily": "How does the artist show that Samuel is doing something important to David? Find the gesture.",
+      "emotion": "What mood does the scene give you, joyful, quiet, or serious? Point to what makes you feel it.",
+      "observation": "Describe the people in the scene. What are they doing with their hands and bodies?",
+      "analysis": "Which figure is the center of the picture? How does the artist show it?",
+      "line": "Follow the circle around the edge of the plate. How does it frame the story inside?",
+      "shape": "Look at how the figures stand. What shapes do their bodies and clothes make?",
+      "color": "The plate is silver, one shiny color. How does the artist show different figures without using paint?",
+      "texture": "Which parts of the plate look raised and smooth? Which look more detailed?",
+      "space": "Show where the front of the picture is and where the back is. How does the artist make that clear on a flat plate?",
+      "light": "What happens to a shiny silver plate when you tilt it? Where might the bright spots move?",
+      "meaning": "Samuel pours oil to show David will be a king. How does the picture tell that without any words?",
+      "culture": "The Byzantine Empire made art about Bible stories. Why might a story about a shepherd who became a king be shown on a plate?",
+      "technique": "A silver plate takes careful hammering and tooling. Why would a metalworker work slowly on it?",
+      "personal": "If you could be chosen for something special, what would you want it to be?",
+      "critical": "How is a story told on a plate different from a story in a book? Which tells it better?"
+    },
+    "g35": {
+      "daily": "How does the metalworker make the anointing of David the clearest moment on the plate? Point to details that show it.",
+      "emotion": "What feeling does the scene have, ceremony, calm, or something else? Which details support your idea?",
+      "observation": "Take one minute of silent looking. Which small details in the figures and clothing do you notice?",
+      "analysis": "How are the figures placed so that Samuel and David stand out from the others?",
+      "line": "How do the lines of the clothing folds compare with the smooth outline of the plate?",
+      "shape": "How does the circular plate shape the way the figures are arranged inside it?",
+      "color": "The plate is all silver. How can one color still show lighter and darker areas?",
+      "texture": "The figures are raised from the metal. How does that raised surface differ from a flat painted picture?",
+      "space": "How does the artist show that some figures are closer to you than others on a shallow plate?",
+      "light": "Silver reflects light. How might the plate look different by candlelight than in a bright room?",
+      "meaning": "Samuel pours oil on David. What does this action show about David's future in the story?",
+      "culture": "These plates were found on Cyprus and made in the Byzantine Empire. What does that tell you about how far art could travel?",
+      "technique": "The plate weighs over a kilogram. How might the weight and the shine of the silver add to its importance?",
+      "personal": "Think of an object you would save for a very special day. How is it like this plate?",
+      "critical": "The tags for this plate mention rams. Why might an artist include a sheep-related detail in a story about a shepherd?"
+    },
+    "g68": {
+      "daily": "How does the composition help you read the anointing at a glance, even with no color and no words?",
+      "emotion": "Is the mood of the scene solemn, joyful, or both? Use visual evidence from gestures and poses.",
+      "observation": "List the figures and objects you can see. Which ones seem most carefully placed?",
+      "analysis": "How does the metalworker balance the central action against the other figures in a circular frame?",
+      "line": "How do outlines and drapery lines guide your eye toward Samuel's hand and David's head?",
+      "shape": "How do the circle of the plate and the poses of the figures work together to focus attention?",
+      "color": "Without color, how does a single metal show contrast? Look for areas of bright and dark.",
+      "texture": "How does raised relief differ from engraved lines? Which one do you see on this plate?",
+      "space": "How does the artist create depth on a plate that is only a few centimeters thick?",
+      "light": "How might the plate's shine change what a viewer notices as they move or as the light changes?",
+      "meaning": "Why might a Byzantine viewer in the 600s care about a story of a young shepherd chosen as a future king?",
+      "culture": "Some scholars link the David Plates to Emperor Heraclius. How might ruling families use stories to build their image?",
+      "technique": "A silver plate is hammered and tooled by hand. What skills and tools would a metalworker have needed?",
+      "personal": "Think of a time you were trusted with something new. How does that connect to the anointing?",
+      "critical": "How strong is the evidence for a political meaning in this scene, and what other readings fit the details?"
+    },
+    "g910": {
+      "daily": "How do arrangement, gesture, and material work together to make the anointing feel significant?",
+      "emotion": "How does the scene create gravity and ceremony without strong facial expression or color?",
+      "observation": "Describe the visual hierarchy: which figure or action draws attention first, and which devices produce that effect?",
+      "analysis": "Analyze how the circular format shapes the composition and the story the plate tells.",
+      "line": "How does the treatment of drapery lines reflect classical models, and how does it contribute to the figures' dignity?",
+      "shape": "How do the figures' postures create a rhythm of vertical and curved forms inside the round plate?",
+      "color": "How does the shine of silver, and its limited tonal range, shape the plate's visual character?",
+      "texture": "How does the contrast between raised and recessed areas produce the illusion of volume?",
+      "space": "How does the metalworker suggest a stage-like space for the figures on a shallow, circular surface?",
+      "light": "How does reflected light animate relief figures on a plate, and how could that have mattered in a dining or display setting?",
+      "meaning": "How might Samuel's anointing of David be read as a general image of chosen leadership, and where does that reading become speculative?",
+      "culture": "How do the David Plates show Byzantine art drawing on classical traditions while serving a Christian story?",
+      "technique": "What does a work in silver imply about the patron's wealth and the workshop's skill?",
+      "personal": "How does your own experience of recognition or responsibility shape how you read this scene?",
+      "critical": "Given debates about the plates' purpose, what standards of evidence should govern political interpretations of a religious image?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the plate itself about its meaning, and which claims depend on outside evidence such as stamps and context?",
+      "emotion": "How does the plate's formal restraint convey authority, and what risk is there in assigning feelings to figures in relief?",
+      "observation": "Describe the figures and their arrangement with precision. Which details are secure and which are matters of interpretation?",
+      "analysis": "Analyze how classical figure types are adapted to a biblical subject on a luxury silver object.",
+      "line": "How does line in drapery and outline convey continuity with late Roman art and difference from it?",
+      "shape": "How does the circular field create tension between centrality and the figures' individual outlines?",
+      "color": "How does monochrome metal shift attention toward gesture, outline, and surface modeling?",
+      "texture": "What does the plate's surface treatment suggest about techniques of silverworking in the 600s?",
+      "space": "How does the shallow, stage-like space reflect or depart from classical conventions of depth?",
+      "light": "How do the reflective qualities of silver complicate how we photograph and interpret reliefs in museum settings?",
+      "meaning": "Evaluate readings of the plate as biblical illustration, imperial message, or both. What does each require us to assume?",
+      "culture": "How do the plates' date, context of finding on Cyprus, and links to Heraclius complicate a view of Byzantine art as purely religious?",
+      "technique": "What does the use of control stamps tell us about silver as an object of state oversight, and how might that shape interpretation?",
+      "personal": "How do modern ideas of leadership shape the way you read a scene of divine selection?",
+      "critical": "How should museums present objects that can be read as both devotional art and political statements?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, culture, classification (Metalwork-Silver), medium and tags (Rams, David) checked against the Met Collection API record. The scene is a calm anointing; nothing in the metadata points to nudity, violence or frightening content. (The tags of other plates in the same set, such as the battle with Goliath, were not used.)",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "One of nine silver David Plates found on Cyprus and dated by control stamps to the reign of Heraclius, 629–630. Teach it as an example of Byzantine storytelling in precious metal, and note that scholars debate its political meaning.",
+    "vocabulary": [
+      "Byzantine Empire",
+      "silver",
+      "relief",
+      "anoint",
+      "prophet",
+      "control stamp"
+    ],
+    "directions": [
+      "Ask students to retell the scene in a few sentences using only what they see, then compare with the story of David.",
+      "Have students sketch a circular design that tells a story with only three figures and one important gesture.",
+      "Discuss why leaders in different times have used images of chosen or special rulers."
+    ]
+  }
+}

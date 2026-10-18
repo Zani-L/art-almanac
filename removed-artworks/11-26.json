@@ -1,0 +1,151 @@
+{
+  "id": "met-312673",
+  "day": "11-26",
+  "title": "Tunic",
+  "artist": "Artist unknown (Ica (?))",
+  "date": "13th–15th century",
+  "medium": "Camelid hair, cotton",
+  "region": "Ica (?), Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1979_206_463a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1979_206_463a.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide woven tunic made of camelid hair and cotton, shown flat, about one and a half meters wide and wider than it is tall.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312673",
+    "objectId": "312673",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (given as Ica (?)), country, credit line, classification (Textiles-Woven), objectName (Tunic), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "A woven tunic of camelid hair and cotton from Peru, dated to the 13th to 15th century. The Met's record attributes it to the Ica culture with a question mark, which means the attribution is uncertain. The tunic is about 59 3/4 inches (roughly 152 centimeters) wide.",
+  "descriptions": {
+    "k": "This is a very wide tunic, a kind of long shirt. Weavers in Peru made it from cotton and soft animal hair. It is wider than it is tall. Can you picture someone wearing it? What do you see in the cloth?",
+    "g12": "A weaver in Peru made this tunic from cotton and the hair of animals like llamas. It is wider than it is tall, about as wide as a grown-up with arms stretched out. The museum thinks it may come from the Ica people. What do you notice in the weaving?",
+    "g35": "This tunic was woven in Peru between the 13th and 15th centuries from camelid hair, from animals such as llamas, and cotton. The museum says it may be from the Ica culture, but it is not certain. It is about 152 centimeters wide, wider than it is tall. Look at how the weaver arranged color and pattern across such a wide cloth. How does size change a design?",
+    "g68": "This tunic of camelid hair and cotton was made in Peru between the 13th and 15th centuries and is attributed to the Ica culture with a question mark. That mark is honest: scholars are not sure. At about 152 centimeters wide, it is a broad rectangle, and its design is part of the weave itself. Looking closely at the cloth can show skill and choices, but the record gives no information about the wearer or meaning of the design.",
+    "g910": "Dated to the 13th to 15th century, this tunic is attributed to the Ica culture, with the Met's question mark signaling uncertainty about its origins. Its broad, rectangular format creates a large field for color and pattern built through weaving. Combining camelid hair and cotton uses fibers from different Andean environments. The record offers no iconographic reading, so a cautious viewer begins with materials, structure, and scale before suggesting any social or symbolic meaning.",
+    "g1112": "This Peruvian tunic, dated to the 13th to 15th century, carries an uncertain attribution (Ica, with a question mark), a reminder that museum labels often record best judgments rather than settled facts. Its wide format and fiber combination invite analysis of how weavers planned large fields of color and pattern. The record does not document wearer, function, or findspot, so claims about status or ritual are speculative. The tunic is a good case for distinguishing evidence, inference, and open questions."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tunic is very wide. What do you notice first when you look at it?",
+      "emotion": "Does this big woven cloth feel warm, plain, or fancy? What makes you say so?",
+      "observation": "What colors and lines can you find in this tunic? Name three.",
+      "analysis": "Where do your eyes go first on this wide cloth? Where do they travel next?",
+      "line": "Can you find lines that go across the tunic? Trace one with your finger.",
+      "shape": "The tunic is wider than it is tall. What things have a wide shape like this?",
+      "color": "Which colors do you like in this tunic? Which one do you see most?",
+      "texture": "How do you think this cloth feels? Soft like wool or smooth like cotton?",
+      "space": "The tunic is as wide as a grown-up with arms stretched out. Stretch your arms. How big is that?",
+      "light": "Which spots on the wide tunic look pale, and which look deep and dark?",
+      "meaning": "Who do you imagine wearing a tunic like this? What would they be doing?",
+      "culture": "People in Peru made this tunic long ago. What clothes do you know that are woven from thread?",
+      "technique": "The cloth came from cotton and animal hair. How do you think the threads were made?",
+      "personal": "If you could weave a tunic, what colors would you use?",
+      "critical": "The museum is not sure who made this tunic. Why might that be?"
+    },
+    "g12": {
+      "daily": "What do you see in the weaving of this wide tunic? Tell about one detail.",
+      "emotion": "What feeling does this tunic give you: calm, busy, or something else? Point to what helps you decide.",
+      "observation": "Describe the tunic from the left side to the right side. What changes as you look?",
+      "analysis": "How is the cloth organized? Look for stripes, bands, or repeated parts.",
+      "line": "Find lines that run across the cloth. Which are straight and which are not?",
+      "shape": "The tunic is a wide rectangle. What smaller shapes can you find inside it?",
+      "color": "Which colors are used, and which ones sit next to each other?",
+      "texture": "The tunic mixes cotton and camelid hair. Which parts might feel softer or fuzzier?",
+      "space": "The cloth is about 152 centimeters wide. How much of a person would it cover?",
+      "light": "Imagine sunlight on the tunic. Which colors would look brightest?",
+      "meaning": "Why might someone wear a big, carefully woven tunic?",
+      "culture": "People in the Andes used camelid hair for cloth. Why might hair from animals like llamas be good for clothing?",
+      "technique": "Weaving means threads cross over and under. How does that build a big cloth?",
+      "personal": "What clothing of yours is big, comfortable, and special?",
+      "critical": "The museum used a question mark for the culture. What does that tell you about what we know?"
+    },
+    "g35": {
+      "daily": "How does the weaver use a very wide cloth to organize color and pattern?",
+      "emotion": "What mood does the tunic's size and design give you? Which details support your idea?",
+      "observation": "Study the tunic for one minute. List the colors, bands, and patterns you notice from side to side.",
+      "analysis": "How does the arrangement of color across the tunic help balance such a wide shape?",
+      "line": "How do horizontal and vertical threads create the lines you see in the tunic?",
+      "shape": "How does a wide rectangle give a weaver space for repeating parts?",
+      "color": "How do the colors in the tunic work together? Which ones are used for contrast?",
+      "texture": "How do cotton and camelid hair differ, and how might that show in the cloth?",
+      "space": "A wide tunic is made to be worn on the body. How might it fall or fold when someone wears it?",
+      "light": "How does the weave change the way light falls across the cloth?",
+      "meaning": "The record does not say who wore this tunic. What can we learn just from the cloth?",
+      "culture": "The Andes had many weaving traditions. What does it mean that the museum is unsure of this tunic's culture?",
+      "technique": "Why might weaving a wide cloth take patience and planning?",
+      "personal": "Think of something you made slowly. How did patience change the result?",
+      "critical": "A question mark in a museum label shows doubt. Why is it helpful for museums to show doubt?"
+    },
+    "g68": {
+      "daily": "How does the tunic's large format shape the weaver's design choices?",
+      "emotion": "How can scale create a feeling of presence, even in a flat piece of cloth?",
+      "observation": "Describe the tunic in sections from left to right. Which parts repeat and which change?",
+      "analysis": "How does the arrangement of pattern guide the eye across such a wide shape?",
+      "line": "How do woven lines and bands give the tunic structure and rhythm?",
+      "shape": "How might a wide rectangle affect the way a design is planned?",
+      "color": "How could the use of camelid hair and cotton affect the color range available?",
+      "texture": "How might two fibers give the surface variety even without added decoration?",
+      "space": "How would wearing the tunic change a wide flat cloth into a three-dimensional form?",
+      "light": "How could light and movement change how the colors appear when the tunic is worn?",
+      "meaning": "Why is it risky to claim a tunic shows status or belonging when the culture is uncertain?",
+      "culture": "How does a question mark in an attribution reflect the work scholars do to learn about the past?",
+      "technique": "How do weavers keep a long, wide pattern consistent from one end to the other?",
+      "personal": "How does uncertainty change the way you talk about something you are studying?",
+      "critical": "How do the gaps in a record affect how we should phrase our claims about an artwork?"
+    },
+    "g910": {
+      "daily": "How do scale, structure, and fiber choice combine in this tunic to create visual impact?",
+      "emotion": "How does the sheer size of the woven field contribute to the tunic's presence?",
+      "observation": "Describe the tunic's visual organization, noting repetition, bands, and any changes across the width.",
+      "analysis": "Analyze how the weaver uses the wide rectangle as a framework for composition.",
+      "line": "How do the directions of warp and weft shape the lines you can see?",
+      "shape": "How does the garment's format shape the geometry of its design?",
+      "color": "How do color contrasts organize the cloth, and how might time have changed them?",
+      "texture": "How does the pairing of cotton and camelid hair create visual and tactile variety?",
+      "space": "How does a worn garment, unlike a hanging textile, change in space with the movement of the body?",
+      "light": "How does a woven surface scatter light compared with a painted one, and what does that mean for how color is perceived?",
+      "meaning": "What distinguishes a hypothesis about Andean textiles from a supported claim when the record is silent?",
+      "culture": "How do uncertain attributions affect how museums group and present Andean textiles?",
+      "technique": "What planning and labor does a wide woven garment require?",
+      "personal": "How does knowing an object's origin is uncertain change how you approach it?",
+      "critical": "How do museum labels shape trust, and what is gained when they admit uncertainty?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this tunic's form and materials, and what depends on evidence the record does not provide?",
+      "emotion": "How does the interplay of scale and repetition produce aesthetic effect in a textile, and how is this effect culturally conditioned?",
+      "observation": "Describe the tunic precisely. Which words reflect assumptions about use or origin?",
+      "analysis": "Analyze how the wide rectangular format functions as a field for compositional decisions.",
+      "line": "How does the weave's grid limit and enable the kinds of lines possible in design?",
+      "shape": "How might the format of a tunic reflect conventions of Andean garment-making?",
+      "color": "How do dye, fiber, and age interact to shape the color we see, and what can we responsibly infer about original appearance?",
+      "texture": "How do material choices record the movement of fibers and knowledge across Andean regions?",
+      "space": "How does the shift from body-worn garment to flat museum object alter its meaning and reading?",
+      "light": "How do conservation limits on light affect our experience of a textile?",
+      "meaning": "How should scholars frame claims about status, region, or ritual use for a tunic with an uncertain attribution?",
+      "culture": "How does the question mark after Ica illustrate the difficulty of assigning ancient objects to cultural groups?",
+      "technique": "What does the scale of the weaving suggest about labor, training, and collaboration?",
+      "personal": "How do your assumptions about clothing and status in the past shape what you expect from an ancient garment?",
+      "critical": "What ethical issues arise in assigning identities to anonymous Andean makers, and how might descendant communities contribute?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Woven), objectName (Tunic), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected, and the woven design is not described in the record, so a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Met's record attributes this Peruvian tunic to the Ica culture with a question mark and dates it to the 13th to 15th century. It gives no information on pattern, wearer, or use.",
+    "vocabulary": ["tunic", "camelid", "Ica", "attribution", "weaving", "Andes"],
+    "directions": [
+      "Have students measure out the tunic's width (about 152 cm) on the floor and imagine how it would be worn.",
+      "Ask students to discuss what a question mark in a museum label tells us.",
+      "Compare two woven fabrics from home, noticing fiber, color, and structure."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-449534",
+  "day": "12-14",
+  "title": "Tughra (Insignia) of Sultan Süleiman the Magnificent (r. 1520–66)",
+  "artist": "Artist unknown",
+  "date": "ca. 1555–60",
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "movement": "Ottoman court calligraphy and illumination",
+  "region": "Turkey (Istanbul)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP234753.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP234753.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1938",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large, ornate sultan's seal drawn in calligraphy on paper. Lines of Arabic script sweep from the right into a big oval on the left, with three tall wavy strokes rising at the top, and the spaces filled with scrolling flowers in gold and blue.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/449534",
+    "objectId": "449534",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tag (Insignia) and image URLs read from the record; museum page text read for the tughra's structure, decoration, size, and Istanbul attribution"
+  },
+  "context": "A tughra, the stylized royal signature of an Ottoman sultan, made in Istanbul around 1555 to 1560 for Süleiman the Magnificent. The Met notes that Süleiman introduced a standard design, and that this example is filled with scrolling floral vines in gold and blue.",
+  "descriptions": {
+    "k": "This is a sultan's special signature! It is made of big, swooping writing. Three tall wavy strokes rise at the top, and a big loop curves on one side. Gold and blue flowers fill the spaces. Can you trace a swoop?",
+    "g12": "A tughra is a fancy signature for a ruler. This one belongs to Sultan Süleiman, who ruled the Ottoman Empire long ago. Tall wavy strokes rise at the top and big loops sweep around. Gold and blue flowers curl through the spaces. Why would a ruler want such a fancy signature?",
+    "g35": "This is a tughra, the royal signature and seal of an Ottoman sultan, made in Istanbul around 1555 to 1560 for Süleiman the Magnificent. The Met says each sultan's tughra was a little different, but they included his name, his father's name, and his title. Three tall wavy strokes rise at the top and a large oval sweeps to the left. Gold and blue vines fill the surface. How can a signature also be a work of art?",
+    "g68": "The Ottoman sultans placed a tughra on every royal edict. The Met explains that Süleiman the Magnificent, who ruled from 1520 to 1566, introduced a standard design: lines starting on the right, a large oval to the left, letters at the center bottom, and three vertical wavy strokes at the top. Each sultan's version differed slightly. Here the surface is filled with scrolling floral vines in gold and blue. How does the design balance official function with artistry?",
+    "g910": "A tughra functions as signature, seal, and emblem of authority. The Met notes that Süleiman introduced a standard form, built from horizontal lines at the right, a sweeping oval on the left, and three vertical axes above, and typically including the sultan's name, his father's name, his title, and a phrase meaning eternally victorious. This example, of about 1555 to 1560, fills its structure with gold and blue floral scrolls. Consider how calligraphy and illumination give an administrative mark the presence of a monumental design.",
+    "g1112": "The tughra shows how writing could be turned into a visual emblem of sovereignty. The Met reports that Süleiman introduced a standardized design for the tughra, which in this example, made in Istanbul around 1555 to 1560, is elaborated with gold and blue scrolling vines. Because the format combined a sultan's name, patrilineal ancestry, title, and a phrase of victory, it presented rule as lineage and legitimacy. Whether viewers read the words, recognized the form, or simply responded to its scale and gold, it would have communicated imperial authority."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the three tall, wavy strokes at the top of the tughra. Can you trace one?",
+      "emotion": "Does this signature look shy or proud? What do you see that makes you say so?",
+      "observation": "What colors do you see in the flowers that fill the spaces?",
+      "analysis": "Which part of the design is the biggest? Where do your eyes go first?",
+      "line": "Use your finger to follow the big loop without lifting it. Where do you end up?",
+      "shape": "Can you find the big oval shape? What other shapes do you see?",
+      "color": "Gold and blue are used a lot. How do these two colors look together?",
+      "texture": "Gold paint can look shiny. Which parts do you think would feel different from the paper?",
+      "space": "The design is tall in some places and wide in others. Where is there the most empty space?",
+      "light": "Gold catches light. If you moved the page, which parts would flash?",
+      "meaning": "A sultan used this instead of a plain signature. Why do you think he wanted it so grand?",
+      "culture": "A ruler long ago had a special signature. What makes a signature special to you?",
+      "technique": "The artist used a pen, paint, and gold. Which one do you think was used for the big swoops?",
+      "personal": "If you designed a signature that was only yours, how would it look?",
+      "critical": "How can you tell this is more than an ordinary signature?"
+    },
+    "g12": {
+      "daily": "A tughra is a ruler's fancy signature. What parts of this one make it look important?",
+      "emotion": "What feeling does this big, swooping design give you? Point to the part that does it.",
+      "observation": "Describe the tall strokes, the loops, and the flowers.",
+      "analysis": "How do the big shapes and the tiny flowers work together on one page?",
+      "line": "Find a long, smooth line and a curly line. How do they make the design move?",
+      "shape": "The Met says the tughra has a big oval. How does the oval help hold the design together?",
+      "color": "Gold and blue fill the spaces. How do these colors make the black ink stand out?",
+      "texture": "Imagine touching the gold parts and the plain paper. How might they feel different?",
+      "space": "How do the flowers fill the gaps between the strokes?",
+      "light": "Gold shines when light hits it. How would this page look in candlelight?",
+      "meaning": "The tughra includes the sultan's name and title. Why would a ruler want his name written this way?",
+      "culture": "Every royal order from the sultan had a tughra on it. Why might a seal help people trust an order?",
+      "technique": "The tughra uses calligraphy, which is beautiful handwriting. Why might it take a lot of skill?",
+      "personal": "Have you practiced making your name look fancy? How did you do it?",
+      "critical": "Is this more like a signature, a logo, or a painting? Explain your thinking."
+    },
+    "g35": {
+      "daily": "How does the tughra turn the words of a sultan's name into a powerful picture?",
+      "emotion": "How does the scale and swoop of the design create a feeling of power?",
+      "observation": "Take a minute to find the three vertical strokes, the large oval, and the lines at the right. What do you notice?",
+      "analysis": "How does the design use tall lines, a wide oval, and small decoration to create balance?",
+      "line": "The Met describes three vertical wavy axes. How do they create rhythm at the top?",
+      "shape": "How does the large oval contrast with the tall strokes that rise above it?",
+      "color": "Why might the artist choose gold and blue for a ruler's mark?",
+      "texture": "How do the flowing vines add richness to a surface that is mostly lines?",
+      "space": "How does the artist fill the space inside and around the loops with decoration?",
+      "light": "How might gold look different in daylight than in lamplight?",
+      "meaning": "The tughra includes the sultan's name, his father's name, and his title. What does this tell you about how rulers wanted to be known?",
+      "culture": "Süleiman made a standard design for the tughra. Why might a ruler want all his official documents to look the same?",
+      "technique": "A tughra needs ink, paint, and gold. Why might a team of specialists have been needed?",
+      "personal": "If you could make a seal to represent your family, what would it include?",
+      "critical": "Why can a design be powerful even if you cannot read the words?"
+    },
+    "g68": {
+      "daily": "How does the tughra combine information, calligraphy, and decoration in one design?",
+      "emotion": "How do the strong curves and tall lines create a sense of authority?",
+      "observation": "List the parts of the design: lines, oval, vertical axes, vines. Which are structural and which are decorative?",
+      "analysis": "How does the standard layout described by the Met guide your eye from the right to the left side?",
+      "line": "How does the calligraphy's line quality create both elegance and force?",
+      "shape": "How do the large oval and the three vertical strokes form a memorable overall silhouette?",
+      "color": "How do gold and blue floral vines contrast with the black calligraphy?",
+      "texture": "How do dense decoration and open lines of writing give the surface variety?",
+      "space": "How does the filling of spaces with vines affect how you read the main lines?",
+      "light": "How does gold bring light into the design, and why might that suit a sultan's emblem?",
+      "meaning": "A tughra includes the sultan's name, father, title, and a victory phrase. How does that build an image of rule?",
+      "culture": "How might the tughra have helped officials and the public recognize an authentic royal document?",
+      "technique": "Why might it take a skilled calligrapher and an illuminator to produce a design like this?",
+      "personal": "What symbols or signatures do you recognize instantly without reading them?",
+      "critical": "How can an administrative mark also be considered fine art?"
+    },
+    "g910": {
+      "daily": "How does the tughra transform a signature into an emblem of imperial authority?",
+      "emotion": "How does the grandeur of scale and gold shape the viewer's sense of the ruler's power?",
+      "observation": "Describe the visual hierarchy of the tughra's structure and decoration.",
+      "analysis": "Analyze how the standardized form brings order to a complex arrangement of lines.",
+      "line": "How does the interplay of long horizontal strokes and tall vertical axes produce dynamism within a fixed format?",
+      "shape": "How does the large oval create a counterpoint to the rising verticals?",
+      "color": "How do gold and blue create a ceremonial richness while letting the black calligraphy remain legible?",
+      "texture": "How do the dense vines contrast with the sparse strokes of the lettering?",
+      "space": "How does the decoration activate the negative space within the calligraphic structure?",
+      "light": "How does the gold turn the tughra into a surface that responds to the viewer's position?",
+      "meaning": "The tughra includes ancestry, title, and a victory phrase. How does it present legitimacy and continuity?",
+      "culture": "What does the tughra's role on all royal edicts tell us about the importance of visual authentication in Ottoman administration?",
+      "technique": "How does the collaboration of calligrapher and illuminator shape the final design?",
+      "personal": "How do emblems, logos, or signatures shape trust in your everyday life?",
+      "critical": "How should we distinguish an artwork made to impress from an official instrument of government, and does the tughra do both?"
+    },
+    "g1112": {
+      "daily": "What does this tughra reveal about how Ottoman rulers used calligraphy to visualize sovereignty, and what remains unsaid?",
+      "emotion": "How does the interplay of monumental scale and fine ornament produce a sense of awe, and how might that differ across audiences?",
+      "observation": "Describe the tughra's structure precisely and distinguish what is standard to the form from what is particular to this example.",
+      "analysis": "Evaluate how the standardized design permits individuality, since each sultan's tughra differs slightly.",
+      "line": "How does the calligraphic line function as both text and abstract form?",
+      "shape": "Discuss how the tughra's silhouette works as a recognizable emblem, similar to a modern logo.",
+      "color": "How do gold and blue serve to elevate an administrative document into a courtly artwork?",
+      "texture": "How do variations in density across the page affect the way the eye reads the structure?",
+      "space": "How does the decoration shape the viewer's reading of figure and ground in a calligraphic composition?",
+      "light": "How does the metallic gold complicate any fixed image of how the tughra looked in its original context?",
+      "meaning": "How do names, ancestry, and a phrase of victory work together to project legitimacy, and how might a reader interpret them differently from a viewer?",
+      "culture": "How does the tughra reflect the relationship between writing, bureaucracy, and imperial image in Süleiman's reign?",
+      "technique": "What does the combination of ink, opaque watercolor, and gold suggest about the status of the workshop that produced it?",
+      "personal": "How does your own reading of a script you do or do not know affect your response to this emblem?",
+      "critical": "How should historians weigh a decorative tughra against the documents it was meant to authorize in understanding Ottoman power?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices) and tag (Insignia) checked against the museum record, and the museum page text read: calligraphic emblem with floral scrolls, no figural imagery.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A tughra is an Ottoman sultan's stylized signature and seal, applied to royal edicts. This one dates to about 1555 to 1560 and was made for Süleiman the Magnificent in Istanbul.",
+    "vocabulary": [
+      "tughra",
+      "sultan",
+      "Ottoman",
+      "calligraphy",
+      "illumination",
+      "edict"
+    ],
+    "directions": [
+      "Have students design a personal tughra-like emblem from the letters of their names, using one large loop and vertical strokes.",
+      "Discuss how emblems, seals, and logos communicate authority, then compare with a modern example.",
+      "Compare this emblem with the Iznik dish in the archive to see how Ottoman designers used flowers and scrolls in different media."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-435888",
+  "day": "01-03",
+  "title": "Soap Bubbles",
+  "artist": "Jean Siméon Chardin",
+  "date": "ca. 1733–34",
+  "medium": "Oil on canvas",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP356133.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP356133.jpg",
+    "credit": "The Metropolitan Museum of Art, Wentworth Fund, 1949",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A young man leans on a ledge and blows a bubble through a pipe, while a smaller child looks on nearby. The bubble hangs at the end of the pipe, catching a gleam of light against a plain, dim background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435888",
+    "objectId": "435888",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags and image URLs read from the record"
+  },
+  "context": "An oil painting by the French artist Jean Siméon Chardin, made around 1733–34. Chardin painted several versions of this subject. Bubbles have long been used in European art as a reminder that life and beauty do not last, though viewers read this picture in different ways.",
+  "descriptions": {
+    "k": "A young man blows a bubble through a pipe. A smaller child watches nearby. The bubble is round and shiny, and it is about to float away. Where does the light touch it? What do you think happens next?",
+    "g12": "Jean Siméon Chardin painted this in France almost 300 years ago. A young man leans on a ledge and blows a bubble through a pipe. A child watches close by. The bubble is thin, round, and shiny, and it could pop at any second. Everything feels quiet and still. What are they waiting for?",
+    "g35": "Chardin, a French painter, liked to show ordinary people doing simple things. Here a young man carefully blows a bubble while a child looks on. Notice how the bubble seems almost see-through, with light shining on its curved surface. Everyone in the picture is focused on something that will not last long. Why might an artist choose such a tiny, fragile moment to paint?",
+    "g68": "Chardin painted this around 1733–34 and returned to the subject in several other versions. Instead of a grand story, he chose a quiet moment of concentration: a young man shaping a bubble while a child watches. European artists had long used bubbles to suggest that life is brief, and some viewers see that idea here too. Look at how soft light, a calm composition, and a plain background keep your attention on the bubble itself.",
+    "g910": "In Soap Bubbles, Chardin builds a whole picture around something that lasts only seconds. The figures lean toward the bubble, and their attention directs ours. The plain background and gentle light make the glassy sphere the focal point. Bubbles were a familiar symbol of fleeting life in European art, so the scene may carry a moral note, yet Chardin presents it with warmth rather than warning. How does he balance the everyday and the symbolic?",
+    "g1112": "Chardin's Soap Bubbles draws on a long European tradition in which bubbles stand for the brevity of life, yet the painting treats its figures with notable tenderness and without obvious moralizing. Its subject is modest, its handling of light and paint restrained, and its meaning open. Some viewers emphasize the vanitas reading; others stress Chardin's attention to concentration, childhood, and the dignity of ordinary activity. The painting rewards readings that weigh both symbolic tradition and what is actually shown."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the young man and the child are waiting to see the bubble do?",
+      "emotion": "How do you think the child feels while watching the bubble? Show it with your face.",
+      "observation": "Find the pipe, the bubble, and the child. Which one did you spot first?",
+      "analysis": "Where do the two faces look? What does that tell you about what matters most here?",
+      "line": "Trace the round line of the bubble in the air. What other curved lines can you find?",
+      "shape": "The bubble is a circle. What other round or curved shapes do you notice near it?",
+      "color": "Which colors in the picture are quiet and dark, and which spot is bright?",
+      "texture": "How would the bubble feel if you touched it? How would the ledge feel?",
+      "space": "Who is closest to you, the young man or the child? What makes you think so?",
+      "light": "Where is the shiny spot on the bubble? Why does it look so bright?",
+      "meaning": "Bubbles do not last long. Why might a painter want to paint one?",
+      "culture": "This picture is from France long ago. How do you play with bubbles today?",
+      "technique": "The painter used oil paint to make a bubble look thin and glassy. How might he have made it shine?",
+      "personal": "Tell about a time you blew bubbles or watched them float. What did you do?",
+      "critical": "What do you think was happening just before this moment? What clues helped you decide?"
+    },
+    "g12": {
+      "daily": "What is the young man trying to do with the bubble, and how can you tell from the way he leans?",
+      "emotion": "Is this moment calm, excited, or nervous? Which parts of the picture help you decide?",
+      "observation": "List five things you see, from the pipe to the child. What small thing did you notice last?",
+      "analysis": "How do the bodies and faces lead your eyes toward the bubble?",
+      "line": "Follow the curved line of the bubble and the straight lines of the ledge. How are they different?",
+      "shape": "Compare the round bubble with the shapes of the faces and the ledge. Which shapes feel soft and which feel firm?",
+      "color": "The background is plain and dim. How does that make the bubble stand out?",
+      "texture": "Which parts look smooth and glassy, and which look rough or heavy? Show where.",
+      "space": "How can you tell the ledge is in front and the dark wall is behind?",
+      "light": "Where does the light shine on the bubble and on the faces? Where is it darkest?",
+      "meaning": "A bubble can pop at any time. What idea might the painter want us to think about?",
+      "culture": "Chardin lived in France in the 1700s. What do the clothes and the pipe tell you about that time?",
+      "technique": "Oil paint can be thin and see-through in some places. Where do you think Chardin painted it that way?",
+      "personal": "What do you do when you want to watch something very closely? Compare it with these two.",
+      "critical": "Why might an artist choose a quiet moment like this instead of a big adventure?"
+    },
+    "g35": {
+      "daily": "What do you think the young man is thinking as he shapes the bubble, and what in the painting supports your idea?",
+      "emotion": "What mood do you feel in this picture? Which choices by the artist, like the light or the plain background, create it?",
+      "observation": "Look silently for one minute. What details about the bubble, the pipe, and the child do you notice that you missed at first?",
+      "analysis": "How does Chardin arrange the figures and the bubble so that your eyes land on the bubble?",
+      "line": "How do the curved edge of the bubble and the stronger straight edges of the ledge work together?",
+      "shape": "The bubble is the roundest shape in the painting. How does it contrast with the shapes of the people?",
+      "color": "The background is dark and quiet. How does that help the glowing parts of the bubble and faces stand out?",
+      "texture": "How does Chardin make a bubble look thin and glassy while the ledge and clothing look heavier?",
+      "space": "How does the ledge in front help you feel that the figures are in a real space?",
+      "light": "Where does the light seem to come from, and how does it make the bubble look round?",
+      "meaning": "Bubbles pop quickly. What might the painter be suggesting by choosing one as the star of the picture?",
+      "culture": "Chardin painted everyday people in Paris in the early 1700s. Why might that have been unusual compared with paintings of kings and saints?",
+      "technique": "Chardin painted several versions of this subject. Why might an artist paint the same idea more than once?",
+      "personal": "Think of a small moment you wanted to last longer. How does this painting help you imagine that feeling?",
+      "critical": "Is the bubble a warning, a game, or something else? Give reasons from the picture for each idea."
+    },
+    "g68": {
+      "daily": "How does Chardin make a few seconds of bubble blowing feel worth looking at for much longer?",
+      "emotion": "How does the stillness of the figures affect the tension in the scene? Point to details that create it.",
+      "observation": "Describe the picture from front to back. Which details seem most carefully placed?",
+      "analysis": "How do the leaning figures, the pipe, and the empty background direct attention to the bubble?",
+      "line": "How do the diagonal lines of the arms and pipe lead to the bubble? Where do curved lines take over?",
+      "shape": "How does the perfect circle of the bubble contrast with the more irregular shapes of the people?",
+      "color": "Chardin keeps the colors fairly muted. How does that affect the way the small bright areas read?",
+      "texture": "Compare how Chardin suggests the bubble, the skin, the cloth, and the stone. Which is most convincing and why?",
+      "space": "How does the ledge between us and the figures shape the way we look into the scene?",
+      "light": "How does light on the bubble differ from light on faces and clothing? What does that variety do for the painting?",
+      "meaning": "Some viewers see the bubble as a reminder that life is brief. What details support or complicate that reading?",
+      "culture": "Why might 1730s Parisian buyers have enjoyed a picture of simple, everyday activity rather than a grand history scene?",
+      "technique": "What problems would an oil painter face in showing something as thin and transparent as a bubble?",
+      "personal": "What is a fragile or short-lived thing in your life that you pay close attention to? How might an artist show it?",
+      "critical": "The painting can be read as a moral message or as a plain portrait of concentration. Which seems better supported by what you see?"
+    },
+    "g910": {
+      "daily": "How do the figures' posture and focus shape what we feel about the bubble before it bursts?",
+      "emotion": "How does Chardin create suspense without any dramatic action?",
+      "observation": "Describe the visual hierarchy. What draws the eye first, and which devices cause that?",
+      "analysis": "Analyze how the diagonal of the young man's lean and the child's watching create a compact, focused composition.",
+      "line": "How does the contrast between the bubble's smooth curve and the angular ledge organize the picture?",
+      "shape": "How does the sphere of the bubble serve as a focal shape against the plain, dark ground?",
+      "color": "How does Chardin's muted palette make the small flashes of light on the bubble feel significant?",
+      "texture": "How does the paint handling of the bubble differ from that of cloth or stone, and what does it say about the artist's skill?",
+      "space": "How does the shallow space and the ledge in front position the viewer as a quiet onlooker?",
+      "light": "How does the painter use highlights to suggest a transparent object rather than a solid one?",
+      "meaning": "The bubble as a symbol of life's brevity was familiar in European art. How does Chardin follow or soften that tradition?",
+      "culture": "How does a painting of ordinary, modest activity reflect changing tastes in eighteenth-century France?",
+      "technique": "How might the choice of oil paint have helped Chardin convey both delicacy and weight in this scene?",
+      "personal": "When have you been so absorbed in a small task that time seemed to slow? How does that connect to this painting?",
+      "critical": "What assumptions do we bring to a painting of a young person at play, and how does Chardin invite or complicate them?"
+    },
+    "g1112": {
+      "daily": "What reading of the painting can you defend from visual evidence, and which parts remain open?",
+      "emotion": "How does the painting hold absorption, delicacy, and a hint of anxiety at once? Where do you locate each?",
+      "observation": "Describe the picture's construction with precision. Where does careful description begin to shade into interpretation?",
+      "analysis": "How does Chardin use compression of space, gesture, and focus to turn a trivial act into a unified composition?",
+      "line": "How does the interplay of the bubble's curve and the surrounding angles shape the painting's balance?",
+      "shape": "In what ways does the sphere function both as a formal anchor and as a symbol?",
+      "color": "How does a restrained tonal range allow Chardin to achieve brilliance with minimal means?",
+      "texture": "What does the painting's handling of translucent and opaque surfaces suggest about the status of illusion in Chardin's art?",
+      "space": "How does the barrier of the ledge position us, and what relationship between viewer and subject does it create?",
+      "light": "In what ways does light act here as both observed phenomenon and carrier of meaning?",
+      "meaning": "Evaluate the vanitas reading against readings that emphasize childhood, play, or concentration. What evidence would settle the matter, if any?",
+      "culture": "How does Soap Bubbles sit between older emblematic traditions and a new market for sympathetic scenes of ordinary life?",
+      "technique": "What might the existence of several versions of this subject suggest about Chardin's working methods and his market?",
+      "personal": "How might your own experience of fleeting moments shape which interpretation of the bubble feels most persuasive, and how can you test that bias?",
+      "critical": "Is a symbolic reading something the painting demands, or something viewers add? Argue your position with reference to what is shown."
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Boys, Men, Bubbles) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Chardin was a Paris painter known for quiet scenes of everyday life and still lifes. The bubble has a long history in European art as a reminder that life is short, but scholars read this picture in more than one way.",
+    "vocabulary": [
+      "genre painting",
+      "vanitas",
+      "highlight",
+      "translucent",
+      "focal point",
+      "oil paint"
+    ],
+    "directions": [
+      "Have students sketch the bubble and the lines that point to it before discussing meaning.",
+      "Ask pairs to argue for a symbolic reading and a plain-moment reading, citing details.",
+      "Blow real bubbles and discuss which parts of a bubble catch the light, then look again at the painting."
+    ]
+  }
+}

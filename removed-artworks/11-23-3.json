@@ -1,0 +1,159 @@
+{
+  "id": "cma-156224",
+  "day": "11-23",
+  "title": "Embroidered Raffia Pile Cloth",
+  "artist": "Kuba makers",
+  "date": "1900s",
+  "medium": "Raffia and dye",
+  "movement": "Kuba textile tradition",
+  "region": "Democratic Republic of Congo, Central Africa",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.102/1992.102_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/1992.102/1992.102_print.jpg",
+    "credit": "The Cleveland Museum of Art, Anonymous gift in honor of the Museum's seventy-fifth anniversary",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A textile made from raffia palm fiber and dye, with embroidered surface patterns.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1992.102",
+    "objectId": "156224",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, culture (Africa, Central Africa, Democratic Republic of Congo, Kuba peoples), date (1900s), technique (raffia and dye), type (Embroidery), department (Textiles), credit line, accession number 1992.102, CC0 license status and web/print image URLs read from the record; the record has no description or maker, so text stays general",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "This embroidered raffia pile cloth was made by Kuba peoples of the Democratic Republic of Congo in the 1900s, using raffia fiber and dye. The Cleveland Museum of Art record gives no maker's name or further description. Kuba textiles are widely known for their inventive patterns, but this record does not say how this cloth was used.",
+  "descriptions": {
+    "k": "This cloth was made from the fibers of a palm tree. It has patterns stitched across it. Can you find a pattern that repeats? Would it feel soft or bumpy?",
+    "g12": "Kuba makers in Central Africa made this cloth from raffia, a palm fiber. They colored it with dye and stitched patterns into it. Can you find a shape that appears again and again? Would it feel soft or bumpy?",
+    "g35": "This cloth was made by the Kuba peoples of the Democratic Republic of Congo in the 1900s. It is made of raffia, a palm fiber, and dye, with embroidered patterns that give it a pile surface. The museum does not say who made it or how it was used. What can the patterns tell you when you look closely?",
+    "g68": "This Kuba embroidered raffia pile cloth from the 1900s is made of palm fiber and dye. The museum does not record its maker or its use, so close looking becomes the main evidence. How do pattern, texture, and color work together on the cloth, and what questions would you want to ask the people who made it?",
+    "g910": "This embroidered raffia pile cloth, made by Kuba peoples in the 1900s from palm fiber and dye, carries no recorded maker or use. How can attention to pattern, rhythm, and surface texture help you interpret the cloth's design, and what are the limits of interpreting a textile apart from the community that made it?",
+    "g1112": "This embroidered raffia pile cloth (1900s) from the Kuba peoples of the Democratic Republic of Congo is made from palm fiber and dye, with no recorded maker or use. How do repetition, variation, and surface texture shape our reading of its design, and what responsibility do viewers have when an object's meanings, makers, and contexts are largely absent from its record?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What shapes do you see repeated on the cloth?",
+      "emotion": "Does this raffia cloth feel calm or lively to you? What shows you?",
+      "observation": "Find the edge of the cloth. Is it straight or uneven?",
+      "analysis": "What do you think someone used this cloth for?",
+      "line": "Trace a pattern line in the air. Is it straight or zigzag?",
+      "shape": "Which shapes can you name on the cloth?",
+      "color": "What colors do you see? Which stands out most?",
+      "texture": "Does the cloth look soft, fuzzy, or rough? Tell us how you know.",
+      "space": "Does the pattern look flat or raised?",
+      "light": "Where does the cloth look dark, and where does it look light?",
+      "meaning": "Why might people stitch patterns onto cloth?",
+      "culture": "People wear and use cloth in many ways. What cloth do you like?",
+      "technique": "Raffia comes from a palm tree. What do you think it was like to work with?",
+      "personal": "If you stitched a pattern, what shapes would you use?",
+      "critical": "What would you change about this cloth's pattern?"
+    },
+    "g12": {
+      "daily": "Which part of the cloth do you find most interesting?",
+      "emotion": "Does the cloth feel orderly or playful? Point to what makes you feel that.",
+      "observation": "List the shapes you can find on the cloth.",
+      "analysis": "Why does your eye keep moving over the raffia cloth's pattern?",
+      "line": "Follow one line in the pattern with your finger. Where does it go?",
+      "shape": "How do the different shapes fit together?",
+      "color": "What colors do you see, and how do they stand out from each other?",
+      "texture": "How can you tell the cloth has a raised, fuzzy surface?",
+      "space": "How does the pattern make the cloth look flat or deep?",
+      "light": "Where does the raffia cloth look light, and where does it look dark?",
+      "meaning": "Why might makers repeat the same shapes?",
+      "culture": "What can a cloth like this tell us about how people made things long ago?",
+      "technique": "How did the makers turn plant fibers into patterned cloth?",
+      "personal": "How would you plan a pattern before stitching it?",
+      "critical": "Is a patterned cloth art? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which part of the cloth attracts your eye first, and why?",
+      "emotion": "What mood do the patterns on the cloth give, and which choices create it?",
+      "observation": "Look closely at one repeated shape. What small differences do you notice?",
+      "analysis": "How do the makers arrange shapes so your eye keeps moving?",
+      "line": "What kinds of lines do you see in the pattern, and how do they guide your eye?",
+      "shape": "How do large and small shapes fit together on the cloth?",
+      "color": "How do the colors of the dye work together or contrast?",
+      "texture": "How might the raised pile surface feel different from smooth cloth?",
+      "space": "How does a flat cloth create a sense of layers or depth?",
+      "light": "How do dark and light areas help the pattern stand out?",
+      "meaning": "The record does not name the makers or the use. What questions would you ask about this cloth?",
+      "culture": "Kuba peoples are known for their textiles. What might patterns tell us about a community's traditions?",
+      "technique": "What skills do you think are needed to prepare raffia and stitch it into cloth?",
+      "personal": "What pattern from your family or community would you stitch into a cloth?",
+      "critical": "Some people see textiles as crafts, not art. How would you respond?"
+    },
+    "g68": {
+      "daily": "Which part of the cloth's pattern do you notice only after looking for some time?",
+      "emotion": "What mood does the surface of the cloth create?",
+      "observation": "Describe how the pattern is arranged. Where does your eye go first?",
+      "analysis": "How do repetition and variation lead your eye across the cloth?",
+      "line": "How do straight and angled lines combine to make the pattern?",
+      "shape": "How do the repeated shapes build a unified design?",
+      "color": "How do colors contrast and balance on the cloth?",
+      "texture": "How does a pile surface differ visually and physically from plain weave?",
+      "space": "How does the pattern create depth on a flat object?",
+      "light": "How do light and dark areas create contrast?",
+      "meaning": "What can the cloth tell you without a recorded maker or use, and what can it not?",
+      "culture": "How might textiles function in community life, and what might patterns express?",
+      "technique": "What do you think it takes to prepare raffia and stitch it into a pile surface?",
+      "personal": "What would you want to learn from Kuba makers about their work?",
+      "critical": "Can we understand an object fully without knowing who made it? Argue one side."
+    },
+    "g910": {
+      "daily": "How does the lack of information about the maker change the way you read the design?",
+      "emotion": "What emotional tone do the pattern and surface suggest?",
+      "observation": "Study how shapes repeat and vary. What does the variation suggest about the maker's control?",
+      "analysis": "Analyze how the pattern organizes the cloth into a balanced whole.",
+      "line": "How do lines of embroidery create rhythm across the surface?",
+      "shape": "How do geometric forms create unity and variety?",
+      "color": "How do dyed colors create contrast and emphasis?",
+      "texture": "What does the raised pile surface reveal about the relationship between material and design?",
+      "space": "How does the pattern shape your sense of depth on a flat cloth?",
+      "light": "How does tonal contrast create rhythm?",
+      "meaning": "What interpretive limits does the missing record place on you?",
+      "culture": "How might Kuba textiles reflect broader traditions of pattern and invention in Central Africa?",
+      "technique": "What does this object suggest about the skill involved in turning plant fiber into art?",
+      "personal": "What does this cloth make you question about who gets named in museum records?",
+      "critical": "How should viewers respond to an object whose meaning is not explained in the record?"
+    },
+    "g1112": {
+      "daily": "How does the absence of a recorded maker complicate attributing meaning to the pattern?",
+      "emotion": "What emotional tone does the surface convey, and how might viewers differ?",
+      "observation": "Examine the variation within repeated shapes. Do you read it as deliberate, accidental, or both?",
+      "analysis": "Analyze how pattern and edge structure the cloth's overall composition.",
+      "line": "How do embroidered lines establish rhythm and hierarchy?",
+      "shape": "How does geometric abstraction here compare with, yet differ from, European modernist abstraction?",
+      "color": "Evaluate how colored dyes create emphasis and unity.",
+      "texture": "What does the pile surface suggest about the relationship between touch and sight?",
+      "space": "How does the pattern complicate the line between surface and depth?",
+      "light": "How might tonal variation function as pattern rather than description?",
+      "meaning": "What responsibilities arise when interpreting an object whose context is largely absent from the record?",
+      "culture": "How does the cloth challenge assumptions that Central African art consists primarily of sculpture?",
+      "technique": "How does the transformation of palm fiber into patterned cloth complicate hierarchies of craft and art?",
+      "personal": "How does this cloth challenge the idea that a label can fully explain a work?",
+      "critical": "What criteria would you use to discuss this cloth respectfully when so little is recorded?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, type and department checked against the Cleveland Museum of Art Open Access record; no concerning terms or imagery in the record fields read. The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An embroidered raffia pile cloth made by Kuba peoples in the Democratic Republic of Congo in the 1900s from raffia fiber and dye. The museum record gives no maker or use, so discussion should stay close to what students can see.",
+    "vocabulary": [
+      "raffia",
+      "textile",
+      "pattern",
+      "repetition",
+      "embroidery",
+      "pile"
+    ],
+    "directions": [
+      "Have students create a repeating pattern with simple shapes and discuss how repetition and variation work together.",
+      "Ask students to list what they can learn from the cloth's surface and what they cannot know without more information.",
+      "Discuss how museums and communities might share what is known about a textile and who should tell its story."
+    ]
+  }
+}

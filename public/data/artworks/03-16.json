@@ -1,0 +1,159 @@
+{
+  "id": "met-437682",
+  "day": "03-16",
+  "title": "View of Marly-le-Roi from Coeur-Volant",
+  "artist": "Alfred Sisley",
+  "date": "1876",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP130325.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP130325.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A sunlit view over gardens and trees toward the houses of a small town in the distance, with a wide sky above. The scene is painted in soft, broken dabs of green, blue, and warm earth tones.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437682",
+    "objectId": "437682",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Gardens, Towns), credit line, and image URLs read from the record"
+  },
+  "context": "Alfred Sisley, an Impressionist landscape painter born in Paris to English parents, painted this view in 1876 near the town of Marly-le-Roi, west of Paris. Sisley focused almost entirely on landscapes of the countryside and villages around the Seine.",
+  "descriptions": {
+    "k": "You look out over gardens and trees. A small town sits far away. The sky is big and open. Where would you walk first if you could step into this picture?",
+    "g12": "Alfred Sisley painted this view of a small town in France. Gardens and trees are close to us, and the town sits far off. The brush marks are small and quick, like little dabs. The sky takes up lots of space. What kind of day do you think it is?",
+    "g35": "Alfred Sisley painted landscapes near Paris, and here he looks across gardens toward the town of Marly-le-Roi in 1876. He used short, quick brushstrokes to show leaves, grass, and sky, rather than tiny details. Look for how the town looks smaller and softer than the plants nearby. How does Sisley help you feel how far away it is?",
+    "g68": "Painted in 1876 near Marly-le-Roi, this view is typical of Sisley, who rarely painted anything but landscapes. Rather than blending smoothly, he used quick, broken strokes and light colors to capture an impression of a moment outdoors. Notice how the foreground gardens, the distant town, and the sky each get different handling. How does this variety create depth, and how does it suggest a changing day?",
+    "g910": "Sisley devoted his career to landscape, and this 1876 view shows his focus on atmosphere over drama. Short, broken brushstrokes and a light palette capture the effect of daylight on gardens, buildings, and sky. The composition steps from detailed foreground toward softer, distant houses, building depth through color and scale. Consider how an ordinary suburban view becomes worth looking at when the artist attends closely to light and air.",
+    "g1112": "Sisley's view of Marly-le-Roi exemplifies Impressionism's focus on transient effects of light in everyday landscapes. The fragmented brushwork, light-keyed palette, and open sky favor sensation over narrative detail. Yet the picture is composed, not accidental, and scholars note the quiet tension between its apparent spontaneity and its careful structure. Sisley was long undervalued during his lifetime; how does that context affect how we judge a modest, observant landscape like this?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could walk into this picture, where would you go first? Why?",
+      "emotion": "Does this place feel peaceful or busy? What makes you think so?",
+      "observation": "Find the garden, the trees, the town, and the sky. Which one do you see first?",
+      "analysis": "Which part of the picture is closest to you and which is farthest away? How do you know?",
+      "line": "Trace the line where the town meets the sky with your finger. Is it straight or bumpy?",
+      "shape": "Look at the trees and the buildings. Which shapes are round and which have corners?",
+      "color": "Which greens can you find in the plants? Are they all the same?",
+      "texture": "The painter used tiny dabs of paint. How might leaves and grass feel if you touched them?",
+      "space": "The town looks small because it is far away. What else in the picture looks small and far?",
+      "light": "Is the sun shining in this picture? Point to the place that makes you think so.",
+      "meaning": "What do you think the people who live in this town do all day?",
+      "culture": "This town is in France. What do you see here that is like where you live?",
+      "technique": "The painter used quick little brush strokes. Can you tap your finger like his brush?",
+      "personal": "Where is a place near your home that you like to look at? Tell about it.",
+      "critical": "Why might a painter choose an ordinary view like this instead of a famous place?"
+    },
+    "g12": {
+      "daily": "What time of day and kind of weather do you think this is? Show us the clues.",
+      "emotion": "How does this landscape make you feel, calm or restless? Which parts help you feel that way?",
+      "observation": "List five things you can find, from the garden to the distant town.",
+      "analysis": "How does the artist help your eyes travel from the plants up front to the town in back?",
+      "line": "Where do you see the roof lines of the town? How do they compare to the lines of the trees?",
+      "shape": "How do the shapes of the houses differ from the shapes of the trees and bushes?",
+      "color": "Which colors are bright and which are soft? How do they make the day feel?",
+      "texture": "Which parts of the scene look soft and leafy, and which look hard like buildings?",
+      "space": "How does Sisley make the town look far away? Think about size, color, and detail.",
+      "light": "Which areas look sunniest? Where might there be shade?",
+      "meaning": "Sisley painted the places he lived near. Why might someone paint a place they see every day?",
+      "culture": "Many Impressionists painted outdoors near Paris. What can this picture tell us about village life nearby?",
+      "technique": "Sisley used short, quick strokes. Where do you see them most clearly?",
+      "personal": "What would you paint if you only had one hour outdoors near your home?",
+      "critical": "Is this picture an exact copy of the place, or a quick impression? Explain what makes you think so."
+    },
+    "g35": {
+      "daily": "What part of this view would you stop to look at if you were walking here, and what does that choice say about what the painting does well?",
+      "emotion": "What kind of mood does the sky and light give this landscape? Use details to explain.",
+      "observation": "Give yourself one minute of silent looking. What small details in the garden or town did you not notice at first?",
+      "analysis": "How does Sisley organize the scene into foreground, middle ground, and distance?",
+      "line": "How do the rooflines of the town and the edges of the trees create a rhythm across the picture?",
+      "shape": "How do the boxy shapes of the buildings contrast with the soft, rounded shapes of the trees?",
+      "color": "Where do warm earth colors meet cool greens and blues, and how does that mix create the feeling of daylight?",
+      "texture": "How does Sisley suggest the feel of leaves and grass without painting each one?",
+      "space": "What changes between the foreground and the distant town that tells you how far away it is?",
+      "light": "How does the large, open sky shape the light on the land below?",
+      "meaning": "This is a quiet town scene with no big event. Why might the artist find it worth painting?",
+      "culture": "Marly-le-Roi was a town near Paris. What does this view suggest about how people lived outside the city in the 1870s?",
+      "technique": "Impressionists often painted quickly outdoors to catch changing light. How could speed change the way brush marks look?",
+      "personal": "Choose a view from your own neighborhood. How would you paint the light on it?",
+      "critical": "Some people prefer paintings with clear details, others prefer soft impressions. Which approach do you think suits this scene, and why?"
+    },
+    "g68": {
+      "daily": "How does Sisley turn a modest view of gardens and rooftops into a picture worth studying?",
+      "emotion": "How does the painting create a mood of calm daylight? Which formal choices most affect that mood?",
+      "observation": "Describe what you see in three layers: near, middle, and far. What detail is most precise, and what is most suggestive?",
+      "analysis": "How does Sisley balance the weight of the land with the openness of the sky?",
+      "line": "How do the lines of paths, roofs, and tree edges lead the eye, and where do they interrupt it?",
+      "shape": "How does the contrast of geometric houses and irregular foliage create variety in the composition?",
+      "color": "How does he use cooler tones in the distance and warmer, stronger color in the foreground to build depth?",
+      "texture": "How do broken strokes suggest the texture of foliage, rooftops, and clouds in different ways?",
+      "space": "What techniques of atmospheric perspective can you identify in the way the town is painted?",
+      "light": "How does Sisley capture a particular moment of daylight rather than a general landscape?",
+      "meaning": "Sisley painted many views of the same areas near the Seine. What might repeated study of familiar places reveal?",
+      "culture": "How might growing suburbs and the railway to Paris have shaped what Impressionists chose to paint?",
+      "technique": "Why would visible brushstrokes have surprised viewers in 1876, and how does Sisley use them here?",
+      "personal": "How would you describe the difference between knowing a place well and seeing it freshly, as an artist might?",
+      "critical": "Is a quiet landscape less important than a dramatic historical scene? Defend your view using this painting."
+    },
+    "g910": {
+      "daily": "What is Sisley asking us to value when he paints a modest suburban view with such attention to light?",
+      "emotion": "How does the painting evoke feeling through atmosphere and restraint rather than narrative?",
+      "observation": "Describe the painting's visual hierarchy: what dominates, what recedes, and which devices produce that order?",
+      "analysis": "Analyze how the composition stages recession from foreground gardens to the distant town.",
+      "line": "How does the interplay between architectural lines and organic outlines structure the surface of the painting?",
+      "shape": "How do clustered buildings and irregular tree masses balance each other across the canvas?",
+      "color": "How does Sisley use a light-keyed palette and color temperature shifts to organize space and atmosphere?",
+      "texture": "How does broken brushwork convey distinct materials such as foliage, roofs, and cloud with limited detail?",
+      "space": "How does the open sky affect the relation between the viewer and the land below?",
+      "light": "How does the painting register light as a transient condition rather than a fixed property of objects?",
+      "meaning": "What does a painting of an unremarkable place suggest about Impressionism's attitude toward subject matter?",
+      "culture": "How does this scene of a town outside Paris reflect the changing relationship between city and countryside in 19th-century France?",
+      "technique": "How might painting outdoors in a single session shape the unity of effect in this picture?",
+      "personal": "How does your attention to everyday surroundings compare to the kind of attention this painting asks for?",
+      "critical": "Sisley sold few paintings and struggled financially in his lifetime. How should an artist's reputation affect how we judge his work today?"
+    },
+    "g1112": {
+      "daily": "What does the quiet persistence of Sisley's attention suggest about the relationship between everyday places and artistic seriousness?",
+      "emotion": "How does the painting's emotional register depend on restraint, and what might be lost if it were more dramatic?",
+      "observation": "Describe the painting with formal precision, then identify where your description of light or distance already interprets it.",
+      "analysis": "How does Sisley reconcile the seeming spontaneity of Impressionist handling with a legible, balanced structure?",
+      "line": "How does the painting dissolve strong contour into patches of color, and how does that affect the distinction between object and atmosphere?",
+      "shape": "How do the orderly forms of settlement and the irregular forms of vegetation set up a dialogue between the built and the natural?",
+      "color": "What does the painting's color logic reveal about Impressionist ideas of optical truth, and where does it still rely on convention?",
+      "texture": "How does varied handling of the surface complicate the relation between depicted materials and paint as material?",
+      "space": "How does the generous sky shape the painting's sense of scale, and what does that suggest about the viewer's position?",
+      "light": "In what ways does the painting treat light as its true subject, and how far can the subject be said to be merely a pretext?",
+      "meaning": "Consider interpretations of the work as celebration, observation, or documentation of suburban change. What evidence supports each?",
+      "culture": "How does a landscape of a town on the edge of Paris participate in 19th-century debates about modernity and the countryside?",
+      "technique": "What can broken brushwork tell us about the artist's working conditions, and what should we avoid assuming from it?",
+      "personal": "How do your own associations with suburban or rural places shape what you see as picturesque or ordinary here?",
+      "critical": "How should critical history account for painters like Sisley who were undervalued in their lifetimes but later seen as central to a movement?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Gardens, Towns), classification (Paintings), and medium checked against the museum record. The subject is a landscape of gardens and a town.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1876 near Marly-le-Roi, west of Paris, during the years of the Impressionist exhibitions. Sisley painted almost nothing but landscapes.",
+    "vocabulary": [
+      "Impressionism",
+      "landscape",
+      "foreground and background",
+      "atmospheric perspective",
+      "broken brushwork",
+      "en plein air"
+    ],
+    "directions": [
+      "Have students sort the painting into three layers (near, middle, far) and describe the brushwork in each.",
+      "Take students outside for ten minutes to make a quick color sketch of one view, then compare their rushed marks with Sisley's.",
+      "Compare this quiet view with a dramatic scene from another day: what does each ask a viewer to notice?"
+    ]
+  }
+}

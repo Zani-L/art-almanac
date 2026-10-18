@@ -1,0 +1,151 @@
+{
+  "id": "met-505626",
+  "day": "02-12",
+  "title": "Koto (箏)",
+  "artist": "Metalwork by Goto Teijo, 9th generation Goto master, Japan",
+  "date": "early 17th century",
+  "medium": "Various woods, ivory and tortoiseshell inlays, gold and silver inlays, metalwork, cloth, laquer, paper,",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP148476.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP148476.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Amati Gifts, 2007",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, narrow Japanese zither lying on its side, made of wood with richly decorated surfaces and metal fittings at the ends. Strings stretch along its length. The record notes crane imagery.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/505626",
+    "objectId": "505626",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker credit, date, medium, culture, classification, tags (Cranes), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A koto is a Japanese long zither whose strings are stretched over a hollow wooden body. The Met's record dates this one to the early 17th century and credits its metalwork to Goto Teijo, the ninth Goto master, with gold, silver and other inlays. The record also lists crane as a subject, though where the cranes appear should be checked in the image.",
+  "descriptions": {
+    "k": "This is a koto, a long music maker from Japan. It has strings stretched along a wooden body. Shiny metal and fancy decoration cover parts of it. The record mentions cranes, which are tall birds. Can you look for them?",
+    "g12": "This long instrument is a koto from Japan. Its strings stretch down a hollow wooden body. Someone decorated it with shiny gold and silver and other fine materials. The Met says cranes are part of the design. Where do you think the cranes might be hiding?",
+    "g35": "A koto is a Japanese instrument with strings stretched along a long, hollow body. This one was made in the early 17th century. The Met's record lists gold and silver inlay, lacquer, cloth and metalwork by a master named Goto Teijo. It also lists cranes as a subject. Look closely at the surface and the ends of the instrument. Which details seem to be there for decoration, and which seem to be there for playing?",
+    "g68": "This koto, made in Japan in the early 17th century, is both an instrument and a showpiece. Its long hollow body carries strings over movable bridges, which is the usual design of a koto. The Met credits the metalwork to Goto Teijo, the ninth master of the Goto family, and lists gold and silver inlay, tortoiseshell, lacquer and cloth. Cranes, which are linked in Japan with long life, are listed as a subject. How do these decorative choices change how you think about the instrument's owner?",
+    "g910": "This early 17th-century koto shows how a musical instrument could also be a luxury art object. The long zither form is typical of the koto, but the surface is anything but plain: the Met lists gold and silver inlay, tortoiseshell, ivory, lacquer, cloth and metalwork credited to Goto Teijo, the ninth Goto master. The tag Cranes points to imagery with auspicious associations in Japanese art, though the specific placement should be confirmed in the image. Consider how many crafts, from woodworking to metalwork to lacquer, had to cooperate to make one instrument.",
+    "g1112": "Made in early 17th-century Japan, this koto brings together instrument making and the decorative arts. The Met credits metalwork to Goto Teijo, the ninth Goto master, and lists lacquer, gold and silver inlay, tortoiseshell and ivory among its materials. The record tags the object with cranes, a motif often associated in East Asian art with longevity, though how this instrument's imagery was meant to be read is open to interpretation. Its elaborate surface raises questions about patronage, display, and how an object can be valued as art, as music, or as both."
+  },
+  "questions": {
+    "k": {
+      "daily": "The Met says there are cranes on this koto. Can you find a place where a tall bird might be?",
+      "emotion": "Does this koto look quiet and gentle, or grand and fancy? What do you see that tells you?",
+      "observation": "This koto is very long. What parts can you find at the two ends?",
+      "analysis": "Where do your eyes go first on this koto? Where do they go next?",
+      "line": "The strings stretch from one end to the other. Trace the long lines with your finger in the air.",
+      "shape": "This instrument is long and thin. What other long, thin things can you think of?",
+      "color": "Which shiny colors do you see on the koto? Do you see gold or silver?",
+      "texture": "If you could touch the shiny parts and the wooden parts, how would they feel different?",
+      "space": "The strings stretch above the wooden body. What do you think is inside the body?",
+      "light": "Where does the koto shine the most? What do you think makes it sparkle?",
+      "meaning": "Cranes are tall birds. What might a crane mean to someone who owns this koto?",
+      "culture": "This koto comes from Japan. Why might people have made a musical instrument so beautiful?",
+      "technique": "Many materials were used to make this koto, like wood, metal and lacquer. Which one do you think was hardest to shape?",
+      "personal": "If you owned this koto, what song would you like to hear it play?",
+      "critical": "This instrument is for music, but it is also beautiful to look at. Which do you think matters more, and why?"
+    },
+    "g12": {
+      "daily": "The record says this koto has cranes. Where do you see them, and what are they doing?",
+      "emotion": "What feeling do the shiny metal and fancy decoration give you? Point to a detail that makes you feel that way.",
+      "observation": "Describe three parts of the koto you notice, from one end to the other.",
+      "analysis": "How do the strings help your eyes travel along the instrument?",
+      "line": "The strings make long, straight lines. What other kinds of lines do you see in the decoration?",
+      "shape": "A koto is long and narrow. How does that shape make it different from a guitar?",
+      "color": "Gold and silver can shine. Where on the koto do you see metal colors, and where do you see dark or wood colors?",
+      "texture": "Some parts look smooth and shiny, and some look like wood. Where do you notice each?",
+      "space": "The koto's body is hollow. How does that help you imagine the strings making sound?",
+      "light": "Metal catches light. Which parts of this koto look the brightest?",
+      "meaning": "Why might an owner want cranes on an instrument? Tell what they could mean to you.",
+      "culture": "This koto was made in Japan in the early 1600s. What does the decoration tell you about the person who might have owned it?",
+      "technique": "Different artists made the wood, lacquer, and metal parts. Why might many people be needed to make one koto?",
+      "personal": "What would you design on an instrument that belonged to you? Why?",
+      "critical": "Is this koto something to hear or something to look at? Use what you see to explain."
+    },
+    "g35": {
+      "daily": "The Met's record lists cranes on this koto. How would you search the surface to find them, and what do you think they add?",
+      "emotion": "What mood do the gold, silver and dark surfaces create? Name the details that influence you.",
+      "observation": "Look at the instrument from one end to the other. What different materials and patterns can you find?",
+      "analysis": "How does the long shape of the koto lead your eyes along its length? Where do they stop?",
+      "line": "Compare the long straight lines of the strings with any curved lines in the decoration. How do they work together?",
+      "shape": "A koto's long, narrow form was made for strings. How does the decoration follow or break that shape?",
+      "color": "The record names gold, silver, tortoiseshell and lacquer. How do these materials change the colors you see?",
+      "texture": "Metal, wood, lacquer and cloth all feel different. Which textures can you imagine from the picture?",
+      "space": "The strings rise above a hollow body. How does this layout create layers of space?",
+      "light": "Where do shiny materials catch light, and how does that create a sense of richness?",
+      "meaning": "In East Asian art, cranes are often linked with long life. Why might that idea suit a musical instrument?",
+      "culture": "A koto was played in Japan for centuries. Why might a wealthy owner pay for an instrument that is also a work of art?",
+      "technique": "A woodworker, a lacquer artist and a metalworker all had a part in making this koto. What skills do you think each used?",
+      "personal": "If you were choosing decoration for something you use every day, what would you choose, and why?",
+      "critical": "Which details help you decide whether this koto was mainly for playing or for showing? What else would you want to know?"
+    },
+    "g68": {
+      "daily": "How does the fine decoration of this koto change what you think its owner expected from it?",
+      "emotion": "What tone is set by the contrast of shiny inlay and darker lacquered wood? Support your answer with details.",
+      "observation": "List what you see, from the strings to the ends of the instrument, before deciding what any of it means.",
+      "analysis": "How does the long, narrow format organize the decoration along its length?",
+      "line": "How do the long lines of the strings contrast with the finer lines of any decorated patterns?",
+      "shape": "Which shapes belong to the instrument's function, and which seem to belong only to decoration?",
+      "color": "Gold and silver against dark surfaces create strong contrast. How does that affect the focus of the design?",
+      "texture": "The record lists lacquer, cloth, wood and metal. How does each material add a different surface to the same object?",
+      "space": "How does the arrangement of strings above the body create a layered sense of depth?",
+      "light": "How does shine on metal and lacquer change the way the object looks from different angles?",
+      "meaning": "The record tags cranes. Why might a symbol of long life have been chosen for an expensive instrument?",
+      "culture": "How might an elaborate instrument like this have shown the status of its owner in early 17th-century Japan?",
+      "technique": "Metalwork credited to the ninth Goto master suggests a family tradition. How might that tradition shape the final object?",
+      "personal": "Think of an object you value. How do its looks and its use matter to you differently?",
+      "critical": "Should an instrument made to be a showpiece be judged by its sound, its looks, or both? Defend your view."
+    },
+    "g910": {
+      "daily": "How does the collaboration of woodworkers, lacquer artists and metalworkers show in the way this koto is composed?",
+      "emotion": "What atmosphere does the rich surface create, and how might the sound of the instrument, which you cannot hear here, change it?",
+      "observation": "Describe the visual hierarchy of the koto: what do you notice first, and which details reward a slower look?",
+      "analysis": "How does the long horizontal format shape the placement of ornament and structure?",
+      "line": "Analyze how the strict parallel lines of the strings create rhythm against the more varied lines of the ornament.",
+      "shape": "How does the narrow, elongated form of the koto limit and inspire decorative choices?",
+      "color": "How do metallic inlay and dark lacquer produce contrast that guides attention?",
+      "texture": "How do the polished, inlaid, and textile surfaces make this object a study in contrasting materials?",
+      "space": "How does the hollow body, strings, and fittings create both visual and acoustic space?",
+      "light": "How does reflected light on gold, silver and lacquer change the way the decoration reads?",
+      "meaning": "How might crane imagery work as an auspicious symbol, and what other readings are possible?",
+      "culture": "What does the involvement of a Goto family metalworker suggest about the instrument's status in its society?",
+      "technique": "What problems arise when decorating an instrument whose vibration and playing surface must remain functional?",
+      "personal": "Where do you see the line between decoration and function in your own belongings?",
+      "critical": "How does a museum display change an instrument that was made to be played?"
+    },
+    "g1112": {
+      "daily": "How does the combination of lacquer, inlay and metalwork on this koto complicate the line between instrument and luxury object?",
+      "emotion": "How can a visual surface suggest prestige, calm or celebration, and what are the limits of reading emotion from decoration alone?",
+      "observation": "Separate what you can confirm in the image from what depends on the record, such as the cranes. Which details are hardest to verify?",
+      "analysis": "How does the object coordinate structural parts, strings and ornament into a unified design?",
+      "line": "How do linear patterns in the strings and ornament balance functional order against decorative richness?",
+      "shape": "How does the instrument's elongated form shape the conceptual relationship between music and display?",
+      "color": "Consider how metallic and dark tones work as signs of status, craft and restraint in this object.",
+      "texture": "How does the variety of materials reveal a network of specialist crafts working on one object?",
+      "space": "How does the museum presentation of a long, horizontal instrument alter our sense of its intended space of use?",
+      "light": "How does the reflective quality of inlay and lacquer complicate photographic documentation of this object?",
+      "meaning": "How might crane imagery be read, and what evidence would you need to support a particular interpretation?",
+      "culture": "How do ideas of patronage, family workshops and artistic lineage, such as the Goto tradition, shape the value of this koto?",
+      "technique": "How do the technical demands of lacquer, inlay and metalwork affect the possible forms of the instrument?",
+      "personal": "How do your assumptions about what instruments should look like shape your response to this object?",
+      "critical": "What responsibilities do museums have when displaying instruments that contain materials such as ivory and tortoiseshell?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Zither-plucked-long zither), medium, culture, and tags (Cranes) checked against the museum record; no people, nudity or violent subject is listed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Japanese koto of the early 17th century with metalwork credited to the ninth Goto master. The record lists the tag Cranes, but students should check the image to find where they appear. The materials include ivory and tortoiseshell, which can open a respectful discussion of changing views on such materials.",
+    "vocabulary": ["koto", "zither", "inlay", "lacquer", "patron", "motif"],
+    "directions": [
+      "Have students look for the cranes in the image and describe exactly where they find them.",
+      "Compare a koto with a guitar or a harp: how are strings arranged and held?",
+      "Discuss why people decorate objects they use every day."
+    ]
+  }
+}

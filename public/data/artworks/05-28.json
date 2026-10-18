@@ -1,0 +1,158 @@
+{
+  "id": "met-12153",
+  "day": "05-28",
+  "title": "Padre Sebastiano",
+  "artist": "John Singer Sargent",
+  "date": "ca. 1904–6",
+  "medium": "Oil on canvas",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2990.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT2990.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1910",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A painting of a man in a bedroom, shown in the act of writing, rendered with loose, quick brushstrokes and soft light in a simple room.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/12153",
+    "objectId": "12153",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Bedrooms, Men, Writing) and image URLs read from the record"
+  },
+  "context": "An oil painting by John Singer Sargent, dated about 1904 to 1906. Sargent, an American artist who worked mostly in Europe, is best known for portraits, but he also painted informal scenes of people he met while traveling. In Spanish and Italian, padre means father and is a title for a priest or friar.",
+  "descriptions": {
+    "k": "A man sits in a bedroom. He is writing. The paint looks quick and loose, like brushstrokes dancing. What do you think he is writing? Who might he be writing to?",
+    "g12": "John Singer Sargent painted a man writing in a bedroom. The painter used quick, loose brushstrokes, so the picture looks like a glimpse of a real moment. The title says Padre, which means father. What do you think the man is writing? What does his room tell you about him?",
+    "g35": "John Singer Sargent was famous for painting portraits of rich and important people, but here he paints a man doing something simple: writing in a bedroom. Padre means father, and it is a title for a priest or friar. Look at how Sargent uses fast, free brushstrokes and soft light. What clues in the room tell you about the man's life?",
+    "g68": "Sargent became famous for polished society portraits, yet this picture feels informal. A man known by the title Padre, a word for a priest or friar, is shown writing in a bedroom. The brushwork is loose and visible, so the figure and room seem to appear out of quick strokes of paint. The simple setting invites questions about who he was, what he writes, and why Sargent chose him. How does the painting's looseness affect its mood?",
+    "g910": "In Padre Sebastiano, Sargent turns from the formal portrait toward a quieter, more intimate study of a man at a private task. The loose, visible brushwork and the simple bedroom setting shift attention from status to presence and concentration. The title identifies the sitter by a religious title, though the record gives few details about him. Scholars and viewers can discuss what the painting suggests about solitude, work, and faith, but such readings depend on limited evidence and should be offered with care.",
+    "g1112": "Painted around 1904 to 1906, Padre Sebastiano shows Sargent in a looser, more spontaneous mode than his famous society portraits. The subject, a man identified by a religious title and shown writing in a bedroom, is rendered with quick, visible brushwork that blurs the line between sketch and finished picture. Interpretations vary: the work may be seen as a study in concentration, a record of an encounter during travel, or an exercise in painterly freedom. Because the sitter's story is only briefly documented in the record, any biographical or religious reading remains provisional."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the man in this picture is writing? Make up a sentence he might write.",
+      "emotion": "Does this room feel busy or quiet? What makes you think so?",
+      "observation": "What is the man doing? What can you find near him in the room?",
+      "analysis": "Where do your eyes go first in this painting? Why?",
+      "line": "Do you see lines that look quick and wiggly? Draw one in the air.",
+      "shape": "What shapes can you find in the room and in the man's body?",
+      "color": "What colors do you see most? Do they feel soft or strong?",
+      "texture": "Do the paint strokes look smooth or scratchy? How would they feel to touch?",
+      "space": "Is the man close to you or far away? How can you tell?",
+      "light": "Where does the light seem to be? Which parts look bright and which look dark?",
+      "meaning": "Who do you think this man writes to? Make up a short story.",
+      "culture": "The title says Padre, which means father. What is a special job or title someone you know has?",
+      "technique": "The painter used big, quick brushstrokes. How could that help the picture feel like a real moment?",
+      "personal": "Where do you like to write or draw at home? Is it quiet like this room?",
+      "critical": "The painter shows a man doing something quiet and simple. Why might he want to paint that?"
+    },
+    "g12": {
+      "daily": "What do you think is happening in this room? What clues in the picture help you decide?",
+      "emotion": "What feeling do you get from this quiet moment? Which parts of the picture help create it?",
+      "observation": "List five things you can see in the painting, from the man to the room.",
+      "analysis": "How does the artist help you look at the man first, before anything else in the room?",
+      "line": "Look at the quick lines of paint. Which parts look sketched and which look more finished?",
+      "shape": "What big shape does the man make as he sits and writes? How does it fit in the room?",
+      "color": "Which colors are bright and which are quiet? How do they affect the mood?",
+      "texture": "Which parts look smoothly painted and which look rough and scratchy?",
+      "space": "How does the artist show that this is a small, private room?",
+      "light": "Where does the light seem to come from? How does it fall on the man?",
+      "meaning": "Why might an artist paint a man writing instead of a grand event?",
+      "culture": "Padre means father, a word used for some religious leaders. What other words do people use for a person's special role?",
+      "technique": "Sargent painted fast with loose strokes. Where can you see his brush moving quickly?",
+      "personal": "What do you like to write about or draw when you are by yourself?",
+      "critical": "We know very little about this man. What would you like to find out, and where might you look?"
+    },
+    "g35": {
+      "daily": "What story do you think Sargent tells in this quiet scene, and which details support your idea?",
+      "emotion": "How would you describe the mood of the room, and which choices of light and brushwork create it?",
+      "observation": "After one minute of silent looking, what small details do you find in the man's pose and in the room?",
+      "analysis": "How does Sargent arrange the man and the room so that our attention stays on the writing?",
+      "line": "How do the quick, loose strokes differ from smooth, clear outlines, and what effect do they create?",
+      "shape": "How do the shapes of the man's body and the furniture work together in the picture?",
+      "color": "How does Sargent use light and dark colors to make some parts stand out and others fade back?",
+      "texture": "How does the paint itself look rough or smooth, and how does that change how real the scene feels?",
+      "space": "How do the size of the figure and the walls make you feel that you are inside this bedroom?",
+      "light": "Where is the light brightest, and how does it help show what is important?",
+      "meaning": "Sargent painted many rich people. Why might he choose to paint a simple scene of a man writing in a bedroom?",
+      "culture": "Padre is a title used in Spanish and Italian for a priest or friar. How does a title like that shape what we expect from a picture?",
+      "technique": "Sargent painted quickly and left brushstrokes visible. How might that make the scene feel more like a real moment?",
+      "personal": "Think of a time when you concentrated on something quiet, like writing or drawing. How was that like this scene?",
+      "critical": "The museum record tells us little about the man. How can we look carefully without making things up?"
+    },
+    "g68": {
+      "daily": "How does Sargent make a private, everyday act feel worth a painting?",
+      "emotion": "How do loose brushwork and soft light combine to create a mood of calm concentration?",
+      "observation": "Scan the picture from the figure outward. Which parts are painted most carefully, and which are only suggested?",
+      "analysis": "How does the composition place the writing man at the center of attention within a simple room?",
+      "line": "How do visible brush marks act like lines that describe form, and where do they become more abstract?",
+      "shape": "How does the overall shape of the seated figure anchor the composition?",
+      "color": "How does a limited, soft range of colors support the quiet mood?",
+      "texture": "How does the visible paint surface give the scene energy while the subject remains still?",
+      "space": "How does the painting suggest the size and privacy of the room using only a few visual cues?",
+      "light": "How does the handling of light separate the figure from the surroundings?",
+      "meaning": "What might the combination of a religious title and a private task of writing suggest, and what other readings are possible?",
+      "culture": "How do titles such as padre shape what a viewer expects about a person's life and work?",
+      "technique": "How is Sargent's quick, confident brushwork different from the smoother finish of many formal portraits of his time?",
+      "personal": "What does this painting suggest about the value of quiet time and work done alone?",
+      "critical": "How much can we know about the man from this image alone? What would we need to know more about?"
+    },
+    "g910": {
+      "daily": "How does Sargent shift the focus from social status to concentration and presence in this portrait?",
+      "emotion": "How does the informal brushwork affect the emotional intimacy of the scene?",
+      "observation": "In the bedroom setting, what do you notice first about the writing man, and which painted devices pull you there before the rest of the room?",
+      "analysis": "Analyze how the figure, the bed or furnishings, and the surrounding space are balanced in the composition.",
+      "line": "How does the painting's reliance on gestural brushstrokes rather than hard outlines shape the sense of form?",
+      "shape": "How do the simplified masses of the figure and room give the picture structure beneath the loose surface?",
+      "color": "How does Sargent's control of tone and a restrained palette focus attention on the figure?",
+      "texture": "How does the contrast between thinly handled areas and thicker strokes create a sense of immediacy?",
+      "space": "How does the modest scale of the room contribute to a feeling of privacy and enclosure?",
+      "light": "How does the distribution of light and shadow model the figure without relying on detailed rendering?",
+      "meaning": "How might the painting be read as a study in solitude or devotion, and where does such a reading become speculative?",
+      "culture": "How does the use of a religious title in the painting's name affect how we imagine the sitter's role and world?",
+      "technique": "How does this painting compare with Sargent's more formal society portraits in terms of brushwork and finish?",
+      "personal": "How does your own experience of focused work influence how you read the man's pose?",
+      "critical": "What are the risks of drawing conclusions about a person's life from a title and a single image?"
+    },
+    "g1112": {
+      "daily": "What can be argued about this painting from the visual evidence alone, and where does the argument depend on outside assumptions?",
+      "emotion": "How does the painting's informality complicate any single reading of the man's state of mind?",
+      "observation": "Describe the painting's construction with precision. Where does careful description already begin to interpret?",
+      "analysis": "Analyze how Sargent balances spontaneity and control in the arrangement of figure, room, and light.",
+      "line": "How does the painting's emphasis on visible gesture rather than contour shape its position between sketch and finished work?",
+      "shape": "How do the broad, simplified forms support the picture's structure while the brushwork keeps the surface restless?",
+      "color": "How might Sargent's tonal choices contribute to atmosphere, and how might the work's age affect what we see now?",
+      "texture": "How does the visible handling of paint call attention to the act of painting alongside the act of writing?",
+      "space": "How does the compressed, intimate setting position the viewer as a close observer of a private act?",
+      "light": "In what ways does light operate as both description of a room and expressive tool in the painting?",
+      "meaning": "Evaluate competing readings, such as concentration, devotion, or a travel encounter. Which is best supported by the image, and which is speculative?",
+      "culture": "How do religious titles and the conventions of portraiture interact in the way the picture presents its subject?",
+      "technique": "What does the painting suggest about Sargent's shift between commissioned portraiture and more personal work?",
+      "personal": "How does your own relationship to privacy and work influence your sense of what the picture shows?",
+      "critical": "Given how little documentation the record provides about the sitter and context, what standards of evidence should govern interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Bedrooms, Men, Writing), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. A bedroom setting was considered and judged suitable because the tags indicate a man writing. Details of the figure and room are described only in general terms because the image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Sargent painted Padre Sebastiano around 1904 to 1906, after he had become famous for formal portraits. The record gives few details about the sitter, so the picture works well for practicing careful looking and cautious inference.",
+    "vocabulary": [
+      "portrait",
+      "brushwork",
+      "gestural",
+      "composition",
+      "tone",
+      "informal"
+    ],
+    "directions": [
+      "Ask students to write a short caption using only what they can see, then a second one that includes a guess, and compare them.",
+      "Have students sketch a person doing a quiet task using only quick, loose strokes.",
+      "Compare this painting with a formal portrait from the archive and discuss how brushwork changes the feeling."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-316841",
+  "day": "06-08",
+  "title": "Kero",
+  "artist": "Artist unknown (Quechua)",
+  "date": "16th–18th century",
+  "medium": "Wood (escallonia), pigmented resin inlay",
+  "region": "Quechua, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP104798.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP104798.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Arthur M. Bullowa, 1993",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wooden drinking vessel called a kero, about twenty centimeters tall, with colored resin inlaid into its surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/316841",
+    "objectId": "316841",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Wood-Containers), objectName (Kero), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "A wooden kero, a type of Andean drinking vessel, made by Quechua artists in Peru between the 16th and 18th centuries. The record gives the wood as escallonia and notes pigmented resin inlay. It stands about 20 centimeters high.",
+  "descriptions": {
+    "k": "This is a kero, a wooden cup from Peru. It is made from a tree. Colored bits of resin are pressed into the wood, like little pieces of color. Can you find the colors? It is about as tall as a juice bottle.",
+    "g12": "A kero is a wooden cup made in the Andes mountains of Peru. Quechua artists made this one a long time ago. Colored resin, a sticky tree material that hardens, is set into the wood. The cup is about 20 centimeters tall. What colors and shapes do you find?",
+    "g35": "This kero is a wooden drinking vessel made by Quechua artists in Peru between the 16th and 18th centuries. Its wood is escallonia, and colored resin was set into the surface as a decoration called inlay. It is about 20 centimeters tall. Look at how the inlay is arranged on the wood. Why might someone spend so much time decorating a cup?",
+    "g68": "Keros are Andean drinking vessels with a long history, and this one was made by Quechua artists after the time of the Inca empire, between the 16th and 18th centuries. The wood is escallonia, and pigmented resin has been inlaid into the surface, so color is set into the object rather than painted on. Scholars study keros for what their designs can show about Andean life across periods of change, but the record does not describe what this cup's inlay depicts.",
+    "g910": "Wooden keros were important in Andean life, and this example from the 16th to 18th centuries shows how the tradition continued under changing political conditions. Its escallonia wood is decorated with pigmented resin inlay, a technique that sets bright color into carved surfaces. Because keros often carry designs that scholars read as a record of Andean culture, they are rich evidence, yet this record does not list the inlay's imagery, so interpretations here should focus on form, material, and technique.",
+    "g1112": "This Quechua kero, made between the 16th and 18th centuries, belongs to a long Andean tradition of paired drinking vessels that continued after Spanish conquest and often absorbed new imagery. Its escallonia body and pigmented resin inlay make it both a utilitarian cup and a decorated object. Scholars use keros as sources for studying continuity, adaptation, and resistance, but any reading of this example needs evidence from its design, which the record does not describe. What can material and form alone tell us?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the wooden kero. What colors do you see in the little inlaid pieces?",
+      "emotion": "Does this cup feel fancy, plain, or cheerful? What makes you think so?",
+      "observation": "What parts of the cup can you name: the top edge, the sides, the bottom?",
+      "analysis": "Where do your eyes look first on this cup? Why do you think so?",
+      "line": "Can you find lines or bands that go around the cup? Trace one in the air.",
+      "shape": "The kero is wider at the top. What other things have a shape like that?",
+      "color": "Which colors stand out against the wood? Which one is your favorite?",
+      "texture": "Wood is hard and resin is smooth. How do you think the cup would feel in your hands?",
+      "space": "This kero is about as tall as a juice bottle. What would you pour into it?",
+      "light": "Where does light shine on the cup, and where does it look darker?",
+      "meaning": "Who do you think would drink from a cup like this? Tell a story.",
+      "culture": "Quechua artists in Peru made this cup long ago. What special cup or bowl is used in your family?",
+      "technique": "The colors are pressed into the wood. How do you think the artist did that?",
+      "personal": "If you could decorate a cup of your own, what would you put on it?",
+      "critical": "How can you tell this cup was made to be looked at as well as used?"
+    },
+    "g12": {
+      "daily": "What is the most interesting detail on this kero? Describe it and tell why you chose it.",
+      "emotion": "What feeling do the bright inlaid colors give you? Does the wood make you feel something different?",
+      "observation": "Describe the kero from the bottom to the top. What do you see on the way?",
+      "analysis": "How are the colors arranged on the cup? Look for patterns, bands, or repeats.",
+      "line": "Look for edges where colored resin meets wood. How do these lines show patterns?",
+      "shape": "Compare the shape of the whole cup with the small shapes of the colored inlay.",
+      "color": "Which colors are brightest? How do they look against the wood?",
+      "texture": "Which parts of the kero look smooth and shiny, and which look like wood grain?",
+      "space": "A kero is about 20 centimeters tall. How would it fit in a hand?",
+      "light": "Imagine turning the cup in the light. Which parts would shine?",
+      "meaning": "Why might someone make a cup more beautiful than it needs to be?",
+      "culture": "The Quechua people live in the Andes mountains. Why might a wooden cup be useful there?",
+      "technique": "Inlay means setting one material into another. What two materials do you see here?",
+      "personal": "What do you drink from every day? How would you make it special?",
+      "critical": "The record does not tell what the designs on this cup show. How could we find out?"
+    },
+    "g35": {
+      "daily": "How does the artist combine useful shape and decoration in this kero? Use details from the surface.",
+      "emotion": "What mood do the inlaid colors bring to a wooden cup? Which details help create that mood?",
+      "observation": "Look carefully for one minute. List the colors, shapes, and bands you can find on the surface.",
+      "analysis": "How does the arrangement of inlay organize the surface of the cup into parts?",
+      "line": "How do the lines of the inlay follow the curve of the cup's sides?",
+      "shape": "How does the flaring shape of the cup affect how the inlay can be arranged?",
+      "color": "How does colored resin stand out against the natural wood, and what effect does that create?",
+      "texture": "How might the resin and the wood feel different to touch, and how can you tell from the picture?",
+      "space": "A cup has an inside and outside. What can you see on the outside, and what do you have to imagine?",
+      "light": "How does a curved wooden cup catch light differently on its front and sides?",
+      "meaning": "Keros often show designs. What might a cup's decoration say about the person who made or used it?",
+      "culture": "This kero was made in Peru after the Inca period. What might it show about traditions that continued over time?",
+      "technique": "Escallonia is the kind of wood used. Why might an artist choose a strong wood for a cup?",
+      "personal": "What object in your home do people decorate to show care or celebration?",
+      "critical": "Why can a museum label tell us the material and date but not always the meaning of the design?"
+    },
+    "g68": {
+      "daily": "How do material, color, and shape work together to make this kero more than an ordinary cup?",
+      "emotion": "How does the contrast of bright resin with darker wood affect the cup's mood?",
+      "observation": "Describe the kero's surface in order, from rim to base. What patterns or breaks do you notice?",
+      "analysis": "How does the decoration relate to the cup's outline? Does it follow the shape or work against it?",
+      "line": "How do bands and edges of inlay create rhythm around the cup?",
+      "shape": "How do the larger shape of the vessel and the smaller shapes of inlay relate?",
+      "color": "How does setting pigmented resin into wood differ from painting a surface?",
+      "texture": "What might a maker do to the wood and resin to create a smooth finish?",
+      "space": "How does a vessel meant to be held and turned invite you to view it from all sides?",
+      "light": "How might light make colored resin look different from wood grain?",
+      "meaning": "What kinds of evidence would help interpret the designs on a kero, and what does the record leave out?",
+      "culture": "How might continuing to make keros after major political changes show cultural continuity?",
+      "technique": "What steps might be involved in carving wood and filling it with colored resin?",
+      "personal": "When have you kept a tradition alive in a new setting, and how did you adapt it?",
+      "critical": "Why is it risky to explain a historical object's imagery without enough information about it?"
+    },
+    "g910": {
+      "daily": "How do form, material, and inlay combine to make this kero both functional and expressive?",
+      "emotion": "How does the contrast between bright resin and natural wood shape the viewer's response?",
+      "observation": "Describe the visual organization of the vessel, from its profile to its surface decoration.",
+      "analysis": "Analyze how the flaring silhouette provides a field for the inlaid design.",
+      "line": "How does the line between inlay and wood act as drawing on a three-dimensional form?",
+      "shape": "How does the vessel's profile relate to the geometric organization of its surface?",
+      "color": "How does the use of pigmented resin allow color to be durable and set into the object?",
+      "texture": "How does the meeting of wood, resin, and carved surface create variety within one vessel?",
+      "space": "How does a decorated cylinder or flare differ from a flat panel as a space for design?",
+      "light": "How might polished resin reflect light differently from wood, and how does that affect legibility?",
+      "meaning": "How can historians interpret keros without over-reading their imagery, particularly when a record is silent?",
+      "culture": "How does a kero made after the 16th century reflect both Andean continuity and colonial change?",
+      "technique": "What does inlay reveal about planning, carving precision, and the properties of resin?",
+      "personal": "How do shared drinking vessels in your own culture carry meaning beyond use?",
+      "critical": "How does the presentation of keros in museums shape what we assume about their social roles?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this kero's material and form, and what would need evidence from its design and provenance?",
+      "emotion": "How does the interplay of hardness and brightness produce aesthetic effect, and how is that effect shaped by our knowledge of use?",
+      "observation": "Describe the kero precisely. Where does description depend on assumptions about what keros are?",
+      "analysis": "Analyze how the vessel's profile and surface decoration interact, and what they suggest about conventions in Andean woodwork.",
+      "line": "How does the boundary between resin and wood operate as line, and how does it differ from painted or woven line?",
+      "shape": "How do geometric organization and vessel form relate to broader Andean visual systems?",
+      "color": "How might pigmented resin relate to earlier Andean color traditions, and how should we qualify such comparisons?",
+      "texture": "How does the combination of wood and resin trace the interaction of technique and material properties?",
+      "space": "How does a ceremonial or social setting for drinking shape how the vessel is positioned in space?",
+      "light": "How do museum lighting and display choices affect perception of resin inlay that was originally handled and seen up close?",
+      "meaning": "Evaluate how scholars use keros to study continuity and change after the Spanish conquest, and where such readings outrun the evidence.",
+      "culture": "How does the label Quechua point to a living community, and why does this matter for how museums describe such objects?",
+      "technique": "What does the use of escallonia and resin suggest about access to materials and technical knowledge?",
+      "personal": "How do your assumptions about historical drinking vessels, as ritual or ordinary, shape how you read this one?",
+      "critical": "What responsibilities do museums hold toward descendant communities when interpreting objects like keros?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Wood-Containers), objectName (Kero), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected, and the imagery of the inlay is not described in the record, so a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A kero is an Andean drinking vessel; this wooden example from Peru is dated 16th to 18th century and attributed to Quechua artists. The record notes pigmented resin inlay but does not describe the designs.",
+    "vocabulary": ["kero", "Quechua", "inlay", "resin", "escallonia", "vessel"],
+    "directions": [
+      "Have students design a pattern of bands for a paper cup using three colors.",
+      "Ask students to compare inlay with painting and discuss which lasts longer.",
+      "Discuss how objects can carry traditions across periods of change."
+    ]
+  }
+}

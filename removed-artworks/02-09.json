@@ -1,0 +1,151 @@
+{
+  "id": "met-310543",
+  "day": "02-09",
+  "title": "Bottle with hummingbirds",
+  "artist": "Nasca artist(s)",
+  "date": "1–400 CE",
+  "medium": "Ceramic, slip",
+  "region": "Nasca culture, South Coast, Peru",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24257-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-24257-001.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Gift of Emilio Sanchez, 1962",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small ceramic bottle with hummingbirds shown on its surface. The clay is coated with slip, a thin liquid clay that gives the surface its color.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/310543",
+    "objectId": "310543",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, region, credit line, classification, tag (Birds), dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small ceramic bottle made by Nasca artists on the south coast of Peru between about 1 and 400 CE. It shows hummingbirds and is made of clay decorated with slip. The Nasca culture is also spelled Nazca.",
+  "descriptions": {
+    "k": "These are hummingbirds on a little clay bottle. Hummingbirds are tiny birds that hover in the air. The bottle is only about as tall as your hand. What colors can you find?",
+    "g12": "Nasca artists in Peru made this little bottle about two thousand years ago. Hummingbirds decorate it. Hummingbirds are tiny birds with fast wings. The bottle is about six inches tall. How do you think the artist made a small bottle feel full of life?",
+    "g35": "This small bottle was made by Nasca artists on the south coast of Peru, between about 1 and 400 CE. Hummingbirds, tiny birds that hover while they drink from flowers, appear on it. The color comes from slip, a thin liquid clay put on before firing. Look for how the artist fit the birds to the bottle's shape. Why might hummingbirds have been a good choice?",
+    "g68": "Nasca potters of southern Peru are known for vessels painted with slips of many colors before firing, and this small bottle, about six inches high, uses hummingbirds as its subject. The artist had to fit birds onto a curved surface that you can only see by turning it. Scholars connect Nasca birds and flowers to the natural world of the region, but they are cautious about assigning one fixed meaning to any image.",
+    "g910": "Hummingbirds on this bottle show how Nasca potters turned a tiny, fast-moving animal into a lasting design. Nasca ceramics are known for slip colors fired onto the clay, giving crisp areas of color that do not rub off like later paint. Because the surface curves, the design asks the viewer to move around the object. Scholars debate how far Nasca bird imagery carried symbolic meanings, so it is wise to separate careful description from claims about belief.",
+    "g1112": "This bottle, made between about 1 and 400 CE, belongs to a Nasca ceramic tradition admired for slip-painted surfaces and bold images of animals. Hummingbirds, small and quick, are hard subjects to capture; here they are fixed on a vessel meant to be handled and turned. Interpretations of Nasca imagery range from close observation of nature to symbolic or ritual readings, and the absence of Nasca writing means that arguments rest on comparison with other objects. How might a small vessel carry so much visual ambition?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many hummingbirds can you find on this little bottle? Point to them.",
+      "emotion": "Do the hummingbirds make you feel quick, calm, or happy? Why?",
+      "observation": "What do you see on this bottle besides the hummingbirds? Name two things.",
+      "analysis": "Where do your eyes land first on this bottle? What made them go there?",
+      "line": "Can you find thin lines on the hummingbirds? Trace one with your finger.",
+      "shape": "What shape is the bottle's body? Where do you see small pointy shapes like beaks or wings?",
+      "color": "Which colors did the artist use for the birds? Which color pops out the most?",
+      "texture": "The bottle was painted with slip. Would it feel smooth or rough if you touched it?",
+      "space": "Does the bottle sit tall or low? Show with your hands how big you think it is.",
+      "light": "Where does the bottle look shiny or bright, and where does it look dark?",
+      "meaning": "What do you think a hummingbird is doing when it hovers? Tell a story about one of these birds.",
+      "culture": "Nasca artists lived in Peru. What small animals do you see where you live?",
+      "technique": "The color came from slip, a liquid clay. How do you think a painter put it on a round bottle?",
+      "personal": "Which tiny animal would you put on a bottle of your own?",
+      "critical": "How can you tell the artist wanted these birds to look like hummingbirds and not other birds?"
+    },
+    "g12": {
+      "daily": "What makes this small bottle feel full of life? Point to the details that help you decide.",
+      "emotion": "Hummingbirds move fast. Does this bottle feel fast, still, or both? Show what makes you think so.",
+      "observation": "Describe the hummingbirds as closely as you can. What parts of their bodies do you see?",
+      "analysis": "How did the artist fit the birds onto a curved bottle? Turn it in your mind and describe it.",
+      "line": "Look for curved and straight lines. Which ones show wings or beaks?",
+      "shape": "How do the shapes of the birds fit with the round shape of the bottle?",
+      "color": "Which colors sit next to each other on the bottle? How do they help the birds stand out?",
+      "texture": "The slip makes the surface look smooth. Where do you think the bottle might feel different?",
+      "space": "This bottle is only about six inches tall. How does its small size change the way you look at it?",
+      "light": "If the sun shone on this bottle, which parts would look brightest? Why?",
+      "meaning": "Why might someone make a bottle with hummingbirds instead of plain clay?",
+      "culture": "Nasca people lived in a dry place in Peru. Why might a bird that visits flowers be special to them?",
+      "technique": "Slip is clay mixed with water. Why would an artist choose slip to color a bottle?",
+      "personal": "What small, fast thing do you love to watch? How would you show it on a bottle?",
+      "critical": "Can we know what the hummingbirds meant to the maker? What can we say, and what is a guess?"
+    },
+    "g35": {
+      "daily": "How does the artist show hummingbirds on a round bottle so that they look lively? Use details to explain.",
+      "emotion": "What mood do tiny birds bring to a small bottle? Which details help create it?",
+      "observation": "Look carefully at one hummingbird. List the parts of the bird you can find and how the artist shows each.",
+      "analysis": "How does the placement of the hummingbirds lead your eyes around the bottle?",
+      "line": "How do thin, curved lines help show motion in the birds' wings or bodies?",
+      "shape": "How do the birds' small shapes contrast with the larger shape of the bottle?",
+      "color": "Nasca potters are known for colored slips. How do the colors on this bottle separate the birds from the background?",
+      "texture": "The painted surface is smooth, but the birds suggest feathers. How could an artist suggest feathers without raising the clay?",
+      "space": "Why must you turn this bottle to see all the hummingbirds? How is that different from looking at a flat picture?",
+      "light": "How would the bottle's curved shape catch light differently from a flat painting?",
+      "meaning": "Nasca artists often showed animals and plants from their region. What might the hummingbirds show about what they noticed in nature?",
+      "culture": "Nasca people lived on the dry south coast of Peru about 2,000 years ago. What does this bottle suggest about how they made everyday objects beautiful?",
+      "technique": "Slip is put on clay before it is fired in a kiln or pit. Why might that keep the colors lasting?",
+      "personal": "Think of a tiny animal you have watched closely. How would you decide what to show on a bottle?",
+      "critical": "We cannot ask the maker about this bottle. What questions would you ask a scholar who studies Nasca pottery?"
+    },
+    "g68": {
+      "daily": "How does the maker solve the challenge of showing quick hummingbirds on a still, curved surface?",
+      "emotion": "How can a small object like this feel both delicate and energetic? Point to evidence in the design.",
+      "observation": "Record what you see on the bottle in the order your eyes move. What did you notice last?",
+      "analysis": "How does the arrangement of the hummingbirds balance the bottle's shape from different sides?",
+      "line": "How do outlines separate the birds from the colored areas around them? Where is the line strongest?",
+      "shape": "How are the birds simplified into clear shapes? What details did the artist keep to make them recognizable?",
+      "color": "How might slip colors fired on clay differ in effect from paint applied afterward?",
+      "texture": "How does the smooth, slipped surface affect the way the birds appear compared with a modeled surface?",
+      "space": "How does the bottle's curve make you move around it to see the whole design?",
+      "light": "How might the glossy or matte quality of a slipped surface change under different lighting?",
+      "meaning": "Why might Nasca potters have chosen hummingbirds? List two possible reasons and what evidence supports them.",
+      "culture": "How can small household vessels like this one reveal what a society valued in nature?",
+      "technique": "What skills would a potter need to paint tiny birds on a curved surface before firing?",
+      "personal": "How do you decide which details to include when drawing a small animal from memory?",
+      "critical": "Why is it risky to explain Nasca images only through modern ideas about birds? What other sources would help?"
+    },
+    "g910": {
+      "daily": "How do scale, color, and curvature combine to give this small bottle its presence?",
+      "emotion": "How does the tension between a small, delicate subject and a lasting ceramic body shape the viewer's response?",
+      "observation": "Describe the hierarchy of visual information: which features of the birds are emphasized, and which are left out?",
+      "analysis": "Analyze how the design relates to the vessel's form. Does the decoration follow the shape or work against it?",
+      "line": "How does line, whether as outline or interior detail, define the hummingbirds' wings and bodies?",
+      "shape": "How does the artist simplify natural forms into stylized shapes, and what does stylization gain?",
+      "color": "How do contrasts among slip colors organize the surface and direct attention to the birds?",
+      "texture": "How does a flat, slipped surface create the impression of feathers or movement without physical texture?",
+      "space": "How does the bottle's three-dimensional curve complicate the problem of composing a picture?",
+      "light": "How does a fired slip surface respond to light, and how does that affect the legibility of the birds?",
+      "meaning": "To what extent can Nasca bird images be read symbolically, and what limits does the lack of written texts impose?",
+      "culture": "How does the choice of a small, observed animal reflect the Nasca relationship to their desert-coastal environment?",
+      "technique": "What does the use of slip painting before firing imply about planning and risk in the potter's process?",
+      "personal": "How does handling or imagining a small object, rather than seeing a large painting, change your sense of attention and care?",
+      "critical": "How should a museum balance admiring a vessel as art with acknowledging that its original use and meaning are partly unknown?"
+    },
+    "g1112": {
+      "daily": "What would you need to know to argue persuasively about what these hummingbirds meant, and what can you argue from the object alone?",
+      "emotion": "How does the contrast between a tiny, ephemeral creature and a durable fired vessel produce emotional resonance, and is that response culturally specific?",
+      "observation": "Describe the decoration before interpreting it. Which words in your description already imply symbolism or value?",
+      "analysis": "Analyze how the surface design negotiates the vessel's curvature, and what this suggests about conventions of composition in Nasca pottery.",
+      "line": "How does the use of contour and interior line establish conventions for representing animals, and how do they differ from naturalistic observation?",
+      "shape": "How does stylization allow the hummingbirds to function both as natural observation and as part of a repeated visual vocabulary?",
+      "color": "How does the technology of slip and firing constrain and enable the range of colors available to a Nasca potter?",
+      "texture": "In what ways does the apparent smoothness of a slipped surface conceal the labor of its preparation?",
+      "space": "How does the vessel's form position the viewer physically, and how might handling contribute to meaning?",
+      "light": "How do museum lighting and display shape our experience of a surface that was once handled in everyday or ceremonial contexts?",
+      "meaning": "Evaluate readings of Nasca bird imagery as observation, fertility symbolism, or religious reference. What evidence would count for each?",
+      "culture": "How does the study of the Nasca through objects like this one differ from the study of cultures with surviving texts?",
+      "technique": "What can we infer about workshop knowledge, firing control, and training from a vessel this small and refined?",
+      "personal": "How do your own associations with small birds shape your reading of this object, and how might you set them aside?",
+      "critical": "How might Nasca descendants and scholars today differ in how they interpret or care for objects like this, and why does that matter?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Ceramics-Containers), objectName (Bottle), medium, and tag (Birds) read from the museum record; no sacred or restricted flag, human remains, nudity, or weapons indicated. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Nasca (also Nazca) culture flourished on the south coast of Peru in the first centuries CE and is known for slip-painted ceramics. The record gives the bottle's height as about 6 inches.",
+    "vocabulary": ["Nasca", "hummingbird", "slip", "ceramic", "vessel", "firing"],
+    "directions": [
+      "Ask students to draw a hummingbird in motion, then compare how the potter fit birds to a curved bottle.",
+      "Have students discuss how scale (a 6-inch bottle) changes how we look at art.",
+      "Connect to science: how do hummingbirds feed and why do they hover?"
+    ]
+  }
+}

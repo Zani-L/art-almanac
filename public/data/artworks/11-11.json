@@ -1,0 +1,159 @@
+{
+  "id": "met-437163",
+  "day": "11-11",
+  "title": "Lucrezia Agliardi Vertova (1490?–1558)",
+  "artist": "Giovanni Battista Moroni",
+  "date": "1557",
+  "medium": "Oil on canvas",
+  "movement": "Italian Renaissance",
+  "region": "Italy (Bergamo area)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP105661.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP105661.jpg",
+    "credit": "The Metropolitan Museum of Art, Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A portrait of an elderly woman in plain, modest dress. A painted label with Latin writing appears in the picture.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437163",
+    "objectId": "437163",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page description"
+  },
+  "context": "An oil portrait painted in 1557 by Giovanni Battista Moroni, who worked in Albino near Bergamo, Italy. The Met says it shows Lucrezia Agliardi Vertova, who founded a Carmelite convent, and describes the portrait as remarkably unidealized. A painted label in Latin dates the picture and names her.",
+  "descriptions": {
+    "k": "This is a portrait of an older woman. Her clothes are plain and simple. A painted label with old writing is in the picture. Her face looks real, with age. What do you think her life was like?",
+    "g12": "Giovanni Battista Moroni painted this older woman in Italy in 1557. Her clothes are plain, and the painter did not make her look younger than she was. A label with Latin words tells her name. She started a place where women lived and prayed. What do her face and clothes tell you?",
+    "g35": "In 1557 the painter Giovanni Battista Moroni made this portrait of Lucrezia Agliardi Vertova, who started a convent near Bergamo, Italy. A Latin label in the painting gives the date and tells about her. The Met says the portrait is remarkably unidealized, meaning it does not make her look younger or fancier. Her dress is plain. Why might a woman want to be shown as she really looked?",
+    "g68": "Moroni painted this portrait in 1557 of Lucrezia Agliardi Vertova, a noblewoman from Bergamo who founded the Carmelite convent of Saint Anne at Albino. A Latin inscription in a cartouche dates the picture and names her. The Met calls it remarkably unidealized and points to her old age and modest dress, which may suggest she had turned away from worldly concerns. Moroni was known for naturalism. How do plain clothes and a frank face create a different kind of dignity from a grand portrait?",
+    "g910": "Moroni's portrait of 1557 shows Lucrezia Agliardi Vertova, a noblewoman who founded a Carmelite convent at Albino, outside Bergamo. The Met describes it as remarkably unidealized: her age and modest dress are presented starkly, perhaps to suggest a turn from worldly concerns to devotion. A Latin cartouche records the date and her role in building the church of Saint Anne. Moroni's naturalism, praised by Titian, makes the image feel direct. Consider how a portrait can honor someone by refusing to flatter her.",
+    "g1112": "Moroni's Lucrezia Agliardi Vertova (1557) pairs a Latin cartouche that records her lineage and her founding of the convent of Saint Anne with a strikingly plain presentation of an old woman. The Met reads the unidealized face and modest dress as signaling a turn from worldly concerns to spiritual devotion. That reading rests on convention as well as observation: a portrait made for a convent also had a commemorative purpose. Moroni's naturalism, which Titian singled out and which the Met links to the later naturalism of Caravaggio, gives the image its force, but it remains a constructed image of piety."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at her face. What do you think her life was like?",
+      "emotion": "Does she look kind, serious, or tired? What do you see that makes you say so?",
+      "observation": "Find the woman, her clothes, and the painted label. Point to each one.",
+      "analysis": "Does your eye go to her face or to the label first? Why?",
+      "line": "Can you find lines on her face? What might they tell you?",
+      "shape": "What shapes do you see in her clothes and her face?",
+      "color": "What colors do you see? Are they bright or quiet?",
+      "texture": "How would her clothes feel to touch? How would her skin feel?",
+      "space": "Does she seem close to you or far away? How can you tell?",
+      "light": "Where is the light on her face? Which parts are darker?",
+      "meaning": "The label has old words on it. What would you want a label on your picture to say?",
+      "culture": "She started a place where women lived and prayed. What places do people in your town gather to help each other?",
+      "technique": "Moroni painted on canvas with oil paint. How do you think he painted the soft lines of a face?",
+      "personal": "Who do you know who is older and wise? Tell about them.",
+      "critical": "Why might someone want a picture of themselves that looks plain and true?"
+    },
+    "g12": {
+      "daily": "What can you tell about this woman from her face and clothes? Point to clues.",
+      "emotion": "What feeling do you get from her face? Which part helps you feel that way?",
+      "observation": "Describe five details you see in her face, clothes, and the label.",
+      "analysis": "How does the painter make her face the first thing you see?",
+      "line": "Find the lines in her face and clothes. How do they show her age and her dress?",
+      "shape": "Look at the big shape of the woman. What does it remind you of?",
+      "color": "Which colors are quiet and which stand out? How do they match the mood?",
+      "texture": "Which parts look soft, like cloth, and which look like skin? How can you tell?",
+      "space": "How does the painter make you feel close to her?",
+      "light": "Where does the light fall? How does it help her face look real?",
+      "meaning": "Why might a woman who started a convent want a plain portrait?",
+      "culture": "She lived in Italy a very long time ago. What do you think her days were like?",
+      "technique": "Oil paint can make many small, soft changes in color. Where do you see small changes?",
+      "personal": "If someone painted you, what would you want them to show truthfully?",
+      "critical": "The painter did not make her look young or fancy. Why might that choice matter?"
+    },
+    "g35": {
+      "daily": "How does Moroni's portrait make Lucrezia seem real and respected at the same time?",
+      "emotion": "What mood does this portrait of an older woman have? Which details give you that feeling?",
+      "observation": "Take one minute of silent looking. What small details do you notice in her face, clothes, and the label?",
+      "analysis": "How does the painter use the face, clothes, and label to organize the picture?",
+      "line": "How do the lines in her face and clothing help show her age and character?",
+      "shape": "How does the simple shape of the figure make the portrait feel steady and calm?",
+      "color": "How do the quiet colors support the mood of the portrait?",
+      "texture": "How does Moroni paint cloth and skin so they look different from each other?",
+      "space": "The view of Lucrezia is close and direct. How does that make you feel about her?",
+      "light": "How does the light help make her face look rounded and lifelike?",
+      "meaning": "The Met says the portrait is unidealized. What do you think that choice says about her?",
+      "culture": "Lucrezia founded a convent. Why might a community want to remember its founder with a portrait?",
+      "technique": "Moroni was known for painting people as they really looked. What might that take from a painter?",
+      "personal": "What do you admire about an older person in your life? How could a portrait show it?",
+      "critical": "A portrait for a convent may have had a purpose beyond showing her face. What purposes can you think of?"
+    },
+    "g68": {
+      "daily": "How do plain clothes and a frank face create a different kind of dignity from a grand portrait?",
+      "emotion": "What emotion, if any, do you read in her face? Support your answer with visual evidence.",
+      "observation": "Describe the older woman's portrait without interpreting. Which details of face and dress seem most carefully painted?",
+      "analysis": "How does the composition keep your attention on her face and the cartouche?",
+      "line": "How do contour and fine lines in the face create individuality?",
+      "shape": "How does the figure's simple silhouette add to the portrait's seriousness?",
+      "color": "How does a limited, quiet palette support the idea of modesty?",
+      "texture": "How does Moroni show the difference between aging skin and plain cloth?",
+      "space": "How does the near view of the figure give the portrait directness?",
+      "light": "How does steady light help show form and give a sense of honesty?",
+      "meaning": "The Met suggests the plain presentation may signal a turn from worldly concerns. What other readings are possible?",
+      "culture": "Why might a noblewoman choose to be remembered as a founder of a religious community?",
+      "technique": "Moroni's naturalism was admired by Titian. What in this portrait might earn that praise?",
+      "personal": "How do you decide what is important to show about a person you admire?",
+      "critical": "A portrait can be honest in appearance and still be crafted. What choices can you identify here?"
+    },
+    "g910": {
+      "daily": "How does Moroni turn a refusal of flattery into a statement of character?",
+      "emotion": "How does the portrait convey feeling through plainness rather than expression or drama?",
+      "observation": "Describe the visual hierarchy of the portrait. Which element do you see first, and what leads you to the label?",
+      "analysis": "Analyze how the figure and the cartouche together communicate identity and purpose.",
+      "line": "How does careful rendering of age, such as fine lines in the face, contribute to the portrait's truthfulness?",
+      "shape": "How does the figure's simple, stable form support the portrait's sense of gravity?",
+      "color": "How does the muted palette emphasize modesty and focus attention on the face?",
+      "texture": "How does Moroni distinguish skin, cloth, and the painted label with subtle handling?",
+      "space": "How does the close, frontal view reinforce directness and presence?",
+      "light": "How does the even light contribute to the portrait's naturalism?",
+      "meaning": "How might the portrait function both as a record of a woman and an example for a religious community?",
+      "culture": "How did portraits of founders and patrons contribute to the memory of religious institutions in 16th-century Italy?",
+      "technique": "How does Moroni's naturalism differ from the idealizing portraits of other painters of the period?",
+      "personal": "How does a portrait that avoids flattery change what you expect from images of people?",
+      "critical": "How might modest dress in a portrait be both a sincere statement and a deliberate image?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the portrait itself about how Lucrezia wished, or was meant, to be remembered, and what remains uncertain?",
+      "emotion": "How can a portrait convey spiritual seriousness without explicit religious imagery? What are the risks of assuming inner states?",
+      "observation": "Describe this portrait of an older woman as precisely as you can. Which of your observations already carry a judgment?",
+      "analysis": "Analyze how the portrait balances commemoration, piety, and naturalism.",
+      "line": "How does Moroni's treatment of contour and detail relate to his reputation for naturalism?",
+      "shape": "How does the simplified silhouette contribute to the portrait's austerity?",
+      "color": "How does the restrained palette shape the portrait's tone and reflect its subject?",
+      "texture": "How does the rendering of age and plain cloth challenge the usual association of portraits with display of status?",
+      "space": "How does the portrait's close, frontal presentation function in a convent context?",
+      "light": "How does the treatment of light serve the aim of an unidealized likeness?",
+      "meaning": "Evaluate readings of the portrait as truthful likeness, devotional example, and commemorative record. How do they overlap?",
+      "culture": "How does the portrait illustrate women's roles as founders and patrons in 16th-century religious life?",
+      "technique": "What does the link the Met draws between Moroni's naturalism and Caravaggio's suggest about artistic lineages, and what are the limits of such claims?",
+      "personal": "How do your own assumptions about age and beauty shape your reading of this portrait?",
+      "critical": "How should viewers weigh a portrait that looks honest when it was also made for a purpose?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Portraits, Women) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1557 by Moroni, who worked in Albino near Bergamo. The Met says the sitter founded a Carmelite convent at Albino, where the portrait hung for centuries, and notes the Latin cartouche and the unidealized presentation of her age and modest dress.",
+    "vocabulary": [
+      "portrait",
+      "naturalism",
+      "unidealized",
+      "cartouche",
+      "convent",
+      "inscription"
+    ],
+    "directions": [
+      "Have students compare this portrait with a flattering modern photo filter and discuss honesty in images.",
+      "Ask students to write a one-sentence label they would want next to a portrait of someone they admire.",
+      "Discuss why communities create portraits of founders."
+    ]
+  }
+}

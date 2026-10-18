@@ -1,0 +1,158 @@
+{
+  "id": "artic-8987",
+  "day": "01-15",
+  "title": "Painting with Green Center",
+  "artist": "Vasily Kandinsky",
+  "date": "1913",
+  "medium": "Oil on canvas",
+  "movement": "Expressionism",
+  "region": "Germany",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/c68f33ec-feb1-5277-334b-b71ac15ae394/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Arthur Jerome Eddy Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "An abstract painting of vividly colored shapes and lines that intersect and overlap, with no recognizable objects. Greens, blues, oranges, yellows and reds swirl around one another.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/8987",
+    "objectId": "8987",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Vasily Kandinsky, born Moscow, died Neuilly-sur-Seine 1944), date, medium, place of origin, credit line, subject terms (colors green, blue, orange, yellow, red; movement), thumbnail alt text (vibrantly colored shapes and lines intersecting and overlapping), image id and public-domain flag (true) read from the record. The record has no description."
+  },
+  "context": "Painted in 1913 by Vasily Kandinsky, a Russian-born artist working in Germany. The museum record lists oil on canvas and the colors green, blue, orange, yellow and red, with the idea of movement, but gives no description. Kandinsky is widely regarded as a pioneer of abstract painting who compared color to music.",
+  "descriptions": {
+    "k": "No people, no houses, just color! Bright shapes and lines cross over each other. The title says there is a green center. Can you find it? Which colors seem to dance?",
+    "g12": "Vasily Kandinsky painted colors and shapes instead of a picture of something. Bright lines and shapes cross and overlap. The title says there is a green center. Where do you think it is? Do the colors feel loud or quiet? Do they look like they are moving?",
+    "g35": "Vasily Kandinsky was born in Russia and painted in Germany. In 1913 he made Painting with Green Center, an abstract painting with no recognizable objects. Instead you see vivid colors, shapes, and lines that cross and overlap. He often compared color to music. How does this painting feel like music? Where does your eye find the green center?",
+    "g68": "Painting with Green Center (1913) is an abstract work by Kandinsky, who believed color and shape could express feeling the way music does. The museum lists the colors green, blue, orange, yellow, and red and the idea of movement, but offers no description. With no recognizable subject, what do the lines and colors make you feel, and how does the title guide where you look?",
+    "g910": "In 1913 Kandinsky was exploring painting without recognizable subjects, letting color, line, and shape carry feeling. Painting with Green Center presents overlapping, intersecting forms in saturated hues that suggest movement; the museum offers no commentary beyond its subject terms. Kandinsky often compared painting to music. Consider how the title acts as a clue, and how a viewer can build meaning from rhythm, contrast, and balance alone.",
+    "g1112": "Painted at a formative moment in the history of abstraction, Painting with Green Center offers intersecting lines and saturated colors with no clear depicted object. The museum's record supplies only title, medium, and subject terms of color and movement, so any interpretation rests on visual evidence and Kandinsky's well-known analogy between painting and music. How does the title direct attention, and what are the risks of reading abstraction through the artist's theories?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where is the green center? Point to it.",
+      "emotion": "Does this painting feel loud, quiet, or bouncy? Show us what helps you decide.",
+      "observation": "Name the colors you see. Which one is your favorite?",
+      "analysis": "Which color pulls your eyes in first, and why?",
+      "line": "Trace a line with your finger. Where does it go?",
+      "shape": "Find a round shape and a pointy shape. Where are they?",
+      "color": "Which two colors look best together?",
+      "texture": "Do the colors look thick like frosting or thin like water? How can you tell?",
+      "space": "Which colors seem close to you and which seem far away?",
+      "light": "Which spot in the swirl of colors glows the most?",
+      "meaning": "If this painting had a sound, what would it be?",
+      "culture": "Kandinsky loved music. What music do you like to dance to?",
+      "technique": "What tools would you use to paint wiggly lines and bright shapes?",
+      "personal": "If you painted how you feel today, which colors would you use?",
+      "critical": "Why might an artist paint colors and shapes instead of a house or a person?"
+    },
+    "g12": {
+      "daily": "What do you think the green center is? Use clues to explain your idea.",
+      "emotion": "What feeling does this explosion of color give you? Show us where.",
+      "observation": "List the colors and the kinds of lines you see. What did you spot last?",
+      "analysis": "How do shapes overlap to make your eyes move around the painting?",
+      "line": "Which lines are curvy and which are straight? How do they feel different?",
+      "shape": "Which shapes look like they could be something real, and which look made up?",
+      "color": "How does the green stand out among the other colors?",
+      "texture": "How can you tell the artist used paint in different ways?",
+      "space": "Do any shapes seem to come forward while others sit back? Which?",
+      "light": "Where is it brightest and where is it darker?",
+      "meaning": "Kandinsky compared colors to musical notes. Which colors sound high or low to you?",
+      "culture": "Kandinsky lived in Germany but was from Russia. How might an artist who moves to a new country see things differently?",
+      "technique": "Why might an artist choose not to paint recognizable things?",
+      "personal": "What colors and shapes would you pick to show your favorite day?",
+      "critical": "Does a painting have to show something real to be good? Explain with this one."
+    },
+    "g35": {
+      "daily": "What clues help you find the center, and what parts stay mysterious?",
+      "emotion": "How would you describe the mood of this painting? Which colors and shapes create it?",
+      "observation": "Slow down. What small shape or line did you notice late?",
+      "analysis": "How does Kandinsky arrange shapes so your eyes keep traveling?",
+      "line": "How do the intersecting lines add energy?",
+      "shape": "How do different shapes, such as curves and angles, work together?",
+      "color": "How do green, blue, orange, yellow, and red affect each other when placed side by side?",
+      "texture": "What does the paint surface tell you about how quickly or carefully Kandinsky worked?",
+      "space": "How does he create depth in a painting with no objects?",
+      "light": "Where does the painting seem to glow, and how did he do that?",
+      "meaning": "The museum mentions movement. Where do you feel movement in this painting?",
+      "culture": "Kandinsky is known as a pioneer of abstract art. Why might that have felt new in 1913?",
+      "technique": "How is making an abstract painting different from painting a landscape?",
+      "personal": "What would you title a painting of your feelings today, and why?",
+      "critical": "Why do you think some people feel strongly about abstract art, loving or doubting it?"
+    },
+    "g68": {
+      "daily": "How does Kandinsky build energy without any recognizable subject?",
+      "emotion": "How do saturated colors set the painting's mood?",
+      "observation": "What do you see for sure, and what do you only imagine? How can you tell the difference?",
+      "analysis": "How does the composition create a pull toward the green center?",
+      "line": "How do intersecting lines create rhythm and tension?",
+      "shape": "How do geometric and flowing shapes contrast?",
+      "color": "How do warm and cool colors interact, and what effect results?",
+      "texture": "How does the paint surface show spontaneity or planning?",
+      "space": "How does overlapping suggest space even though nothing is depicted?",
+      "light": "How does color alone create the impression of light?",
+      "meaning": "Kandinsky compared painting to music. What musical qualities, such as rhythm or volume, can you find?",
+      "culture": "Why might artists in the early 1900s have wanted to break from realism?",
+      "technique": "How does the title influence what you look for?",
+      "personal": "If you tried to paint a piece of music, what choices would you make?",
+      "critical": "How can a viewer decide whether an abstract painting is successful?"
+    },
+    "g910": {
+      "daily": "How does Kandinsky use color and line to convey feeling without depicting objects?",
+      "emotion": "How does the interplay of saturated hues establish emotional tension?",
+      "observation": "Analyze the visual hierarchy: how does the title's green center compete with other areas?",
+      "analysis": "How do overlapping lines and forms generate rhythm?",
+      "line": "How do contrasts between sharp and curving forms create dynamism?",
+      "shape": "How does color function structurally in the absence of figures?",
+      "color": "How might the paint handling reveal intuition versus planning?",
+      "texture": "How does the painting generate illusory depth on a flat canvas?",
+      "space": "How does the work embody the idea of painting as visual music?",
+      "light": "How does the museum's limited description affect your responsibility as an interpreter?",
+      "meaning": "How does the painting fit into the early history of abstraction?",
+      "culture": "How does the title shape the viewer's search for structure?",
+      "technique": "How does your own emotional response compare with Kandinsky's theories about color?",
+      "personal": "What counts as evidence when interpreting an abstract image?",
+      "critical": "How should we weigh an artist's writings against what we see?"
+    },
+    "g1112": {
+      "daily": "How does the painting generate meaning when it refuses an identifiable subject?",
+      "emotion": "How do the saturated colors complicate any single emotional reading?",
+      "observation": "Separate the observable formal facts from the claims often made about spiritual or musical content in abstraction.",
+      "analysis": "How does the composition decentralize attention while the title proposes a center?",
+      "line": "How does line operate independently of description?",
+      "shape": "How does the painting's mix of geometric and organic forms position it between structure and improvisation?",
+      "color": "How do chromatic relationships produce space and movement?",
+      "texture": "What does the facture suggest about the relation of intuition and calculation in early abstraction?",
+      "space": "How does the painting reconcile flatness with a sense of depth?",
+      "light": "How does Kandinsky's analogy between color and music help and limit interpretation?",
+      "meaning": "How does the museum's sparse record shape the possibilities of responsible interpretation?",
+      "culture": "How does the painting situate itself in the contested history of who invented abstraction?",
+      "technique": "How does the title function as a clue, a provocation, or both?",
+      "personal": "How do your expectations about representation shape your sense of what is missing?",
+      "critical": "What is at stake in claiming that an abstract painting expresses inner necessity?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (colors and movement) and medium checked against the Art Institute of Chicago record; abstract painting with no concerning terms. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1913 abstract oil painting by Vasily Kandinsky in the Art Institute of Chicago. The museum record lists its colors and the idea of movement but gives no description, so discussion should rest on what students see.",
+    "vocabulary": [
+      "abstraction",
+      "saturated color",
+      "composition",
+      "rhythm",
+      "overlap",
+      "Expressionism"
+    ],
+    "directions": [
+      "Play a piece of music and have students paint it using only color, line, and shape.",
+      "Ask students to find the green center and compare their answers.",
+      "Discuss how a title can guide viewing without explaining the painting."
+    ]
+  }
+}

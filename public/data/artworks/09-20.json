@@ -1,0 +1,158 @@
+{
+  "id": "met-825603",
+  "day": "09-20",
+  "title": "Music Party on a Riverside Terrace",
+  "artist": "Artist unknown",
+  "date": "ca. 1670",
+  "medium": "Opaque color and gold on paper",
+  "region": "India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-28152-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-28152-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Howard Hodgkin Collection, Purchase, Florence and Herbert Irving Acquisitions, Harris Brisbane Dick, and 2020 Benefit Funds; Howard S. and Nancy Marks, Lila Acheson Wallace, and Friends of Islamic Art Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and funds from various donors, 2022",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An Indian painting on paper of men playing musical instruments together on a terrace beside a river, painted in opaque color with touches of gold.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/825603",
+    "objectId": "825603",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country (India), public-domain flag, credit line, tags (Musical Instruments, Men, Musicians), classification (Codices) and image URLs read from the record; the record names no artist"
+  },
+  "context": "An Indian painting from about 1670 in opaque color and gold on paper, listed by the Met among its codices, which suggests it comes from an album or book. The record names no artist and gives no culture beyond India, and its tags mention musical instruments, men and musicians.",
+  "descriptions": {
+    "k": "Men sit and play music on a terrace by a river. Some play instruments you may not know. Can you find them? What do you think the music sounds like? Does it make you want to sway?",
+    "g12": "This painting from India shows a music party. Men play instruments on a terrace next to a river. It was painted with bright color and gold long ago, around 1670. Which instrument would you like to learn? What do you think the song sounds like?",
+    "g35": "This painting from India, made around 1670, shows musicians gathered on a terrace beside a river. It was painted with opaque color and gold on paper. The artist is not known. Look at the different instruments and how the players sit together. How does the painter show that this is a shared, peaceful time, and what clues tell you about the place?",
+    "g68": "Painted in India around 1670, this scene of a music party joins several musicians on a river terrace. The record does not name the painter, and the picture may have come from an album, a collection of paintings and calligraphy. Notice how color, pattern and gold make the surface rich, and how the figures are arranged as a group. What does a scene of music and leisure suggest about the tastes of the people who collected such paintings?",
+    "g910": "Music Party on a Riverside Terrace presents musical performance as refined leisure in a seventeenth-century Indian setting. Painters of such scenes arranged figures, architecture and water to build a layered space, with color and gold adding richness. Because the artist is unnamed in the record, questions about workshop and patron remain open. How do composition and surface turn a gathering of musicians into an image of harmony?",
+    "g1112": "This painting of about 1670 belongs to the Indian tradition of paintings of courtly and refined leisure, which could be collected in albums. The unnamed painter and the record's limited information invite caution about workshop, patron and region. The scene can be read as an ideal of cultivated pleasure, a portrait of musical practice or a decorative composition. How do arrangement, color and gold support these readings, and what further evidence would you need?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which musician would you sit next to to hear the music best?",
+      "emotion": "Does this party feel calm, silly, or loud? What shows you?",
+      "observation": "How many musicians can you find? Point to each one.",
+      "analysis": "Where do your eyes go first on this terrace? What pulls them there?",
+      "line": "Use your finger to trace the long shape of one instrument. Which way does it point?",
+      "shape": "Find a long shape and a round shape in the instruments. Where are they?",
+      "color": "Which color in the musicians' clothes is brightest? Can you find something that looks like gold?",
+      "texture": "How would the shiny gold feel? How would the paper feel?",
+      "space": "What is near the bottom of the picture and what is near the top? What do you notice?",
+      "light": "Does this picture show bright sun or shadows? What do you see instead?",
+      "meaning": "Why do you think the men are playing music by the river?",
+      "culture": "Music was played at gatherings in India long ago. What music do you enjoy with family or friends?",
+      "technique": "This painting is made of opaque color and gold. How do you think gold was added?",
+      "personal": "If you could play any instrument at this party, which would you pick?",
+      "critical": "What would you add to the picture to hear the music better?"
+    },
+    "g12": {
+      "daily": "What do you think the musicians are doing together? Use clues from the picture.",
+      "emotion": "What mood does this music party have? Point to the clue that tells you.",
+      "observation": "Find three musical instruments. Describe what each looks like.",
+      "analysis": "How does the painter group the musicians so they look like a team?",
+      "line": "Follow the outline of one instrument and one robe. Which lines are straight and which curve?",
+      "shape": "Look at the instruments and the terrace. Which shapes repeat?",
+      "color": "Which colors are strong? How do they make the party feel?",
+      "texture": "Which parts look rich or shiny? Which look plain?",
+      "space": "How does the artist show a terrace and a river in a flat painting?",
+      "light": "There are no strong shadows by the river. How does the painting still feel bright and clear?",
+      "meaning": "Why might a painter choose to show music instead of a battle or a hunt?",
+      "culture": "This painting is from India around 1670. What does it tell you about how people enjoyed time together?",
+      "technique": "Opaque paint covers the paper fully. Where do you see solid, rich color?",
+      "personal": "What song or sound makes you feel calm? Describe it.",
+      "critical": "The artist is not known. What would you like to know about them?"
+    },
+    "g35": {
+      "daily": "What is the most interesting detail at this music party, and why did it catch your eye?",
+      "emotion": "How do the colors and the way the musicians sit together create a peaceful mood?",
+      "observation": "Choose one musician and study his instrument and posture for a minute. What detail did you notice last?",
+      "analysis": "How does the artist arrange the players and the terrace so you can follow the scene?",
+      "line": "How do outlines help you pick out instruments and clothing?",
+      "shape": "How do the shapes of the instruments differ, and what does that tell you about them?",
+      "color": "How does the artist use bright, flat color and gold to make the scene look rich?",
+      "texture": "How does the painter suggest cloth, instruments and architecture using paint?",
+      "space": "How does the painting show a terrace beside a river even though it is not drawn like a photograph?",
+      "light": "How does the painter create a bright, even feeling without strong shadows?",
+      "meaning": "What might a music party say about how people valued art and leisure?",
+      "culture": "What does the number of different instruments suggest about music in India in the 1600s, and what do we still not know?",
+      "technique": "Why might gold be used in a painting like this?",
+      "personal": "Think of a gathering with music that you remember. How would you show it in a small painting?",
+      "critical": "The record gives no artist. How does that affect what we can say about the painting?"
+    },
+    "g68": {
+      "daily": "What does this scene suggest about how music and leisure were enjoyed in seventeenth-century India?",
+      "emotion": "How do color, gold and the grouping of players shape the mood?",
+      "observation": "List the instruments and other details you can identify. Which seem most carefully drawn?",
+      "analysis": "How does the composition link the musicians into one group?",
+      "line": "How does clear outline organize figures and instruments?",
+      "shape": "How do the repeated shapes of the players and instruments create rhythm?",
+      "color": "How does saturated color contrast with the gold, and where does your eye land?",
+      "texture": "How does the painter suggest different materials, such as cloth and wood, with flat color and pattern?",
+      "space": "How does the painter layer terrace, water and figures to build space without strong perspective?",
+      "light": "Why might a painter prefer an even, shadowless light for a scene like this?",
+      "meaning": "How might a river terrace and music express ideas about refined leisure?",
+      "culture": "Why might paintings of music and leisure have been collected into albums?",
+      "technique": "How do opaque paint and gold on paper affect the look of the surface?",
+      "personal": "How does your own taste in music compare with the gathering shown?",
+      "critical": "What can we responsibly say about a painting when we do not know who made it?"
+    },
+    "g910": {
+      "daily": "How does the painting present musical performance as part of an ideal of refined leisure?",
+      "emotion": "How does the work create harmony through grouping and color rather than dramatic expression?",
+      "observation": "Which of the musicians on the terrace holds your attention first, and what in the arrangement or color directs you to him?",
+      "analysis": "Analyze how figures, architecture and water are arranged to structure the composition.",
+      "line": "How does crisp contour define the figures and instruments while keeping the surface decorative?",
+      "shape": "How do repeating forms of figures and instruments create rhythm across the sheet?",
+      "color": "How do saturated color and gold contribute to the sense of luxury?",
+      "texture": "How does the painter indicate material differences through pattern and detail rather than shading?",
+      "space": "How does the layering of terrace, river and figures create a believable setting in a flattened space?",
+      "light": "What does the shadowless light contribute to the painting's idealizing effect?",
+      "meaning": "How might the scene be read as both a record of musical life and an idealized image?",
+      "culture": "How does a painting of a music gathering relate to the culture of collecting albums in seventeenth-century India?",
+      "technique": "What might the use of opaque color and gold suggest about the painter's training and the work's intended audience?",
+      "personal": "How do you experience shared music, and how does the painting capture or miss that?",
+      "critical": "How should the lack of an artist's name shape the claims we make about this painting?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about this painting's vision of leisure, and what remains uncertain?",
+      "emotion": "How does the controlled arrangement complicate any claim about the figures' feelings?",
+      "observation": "Describe how the musicians, terrace and river are placed on the page. Where does your description start to become an interpretation?",
+      "analysis": "Analyze how the painter unifies several figures and a setting into a decorative whole.",
+      "line": "How does the emphasis on contour and pattern over modeling shape the work's approach to form?",
+      "shape": "How do repeated forms and flat areas interact with the depiction of volume?",
+      "color": "How might the age of pigments and gold affect the colors we see, and how should that temper interpretation?",
+      "texture": "How does the painter evoke material difference through pattern and color, and what does that suggest about visual conventions?",
+      "space": "How do the terrace, the river and the seated players sit in layers rather than in deep perspective, and what role does that give the viewer?",
+      "light": "How does the painting suggest brightness without cast shadow, and what traditions of picturing light does that reflect?",
+      "meaning": "Evaluate competing readings of the scene as documentation of music, an ideal of courtly pleasure, or a decorative composition. Which is best supported?",
+      "culture": "The record gives only India as a place. What can and cannot be said about the painting's cultural setting, and what evidence would you seek?",
+      "technique": "What might the painting's materials and format suggest about workshop practice and about how it was kept and viewed?",
+      "personal": "How does your own relationship to live music shape what you notice in this image?",
+      "critical": "Given an unnamed artist and a limited record, what standards of evidence should govern interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Musical Instruments, Men, Musicians), medium and classification (Codices) read from the Met record: a peaceful musical gathering. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An Indian painting of about 1670, probably once part of an album or book. The Met record does not name the artist.",
+    "vocabulary": [
+      "album",
+      "opaque color",
+      "contour",
+      "layered space",
+      "patron",
+      "leisure"
+    ],
+    "directions": [
+      "Ask students to sketch the arrangement of players and describe how they relate to each other.",
+      "Have students compare this music scene with another gathering scene in the archive.",
+      "Invite students to listen to a short recording of an instrument and match it to a shape in the painting."
+    ]
+  }
+}

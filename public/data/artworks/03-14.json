@@ -1,0 +1,159 @@
+{
+  "id": "met-436678",
+  "day": "03-14",
+  "title": "The Visit",
+  "artist": "Pieter de Hooch",
+  "date": "ca. 1657",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145400.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145400.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A scene inside a Dutch home with several people, men and women, gathered in a room lit by daylight.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436678",
+    "objectId": "436678",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Pieter de Hooch was a Dutch painter of everyday life who is known for scenes of homes and courtyards. This small painting on wood was made around 1657. Genre paintings like this show daily life, but the artists often arranged the scenes carefully.",
+  "descriptions": {
+    "k": "Some people are inside a home. Men and women are together in one room. It looks like a visit! Light comes into the room. What do you think they are talking about?",
+    "g12": "This painting shows people visiting inside a home long ago in the Netherlands. Men and women share the room, and daylight makes it feel warm. The painter, Pieter de Hooch, liked to paint everyday life. What do you think the people are saying to each other?",
+    "g35": "Pieter de Hooch painted this scene of a visit in a Dutch home around 1657. A scene of everyday life is called a genre painting. De Hooch was known for painting rooms so carefully that you feel you could step inside. Look at the people and the room around them. What clues tell you how the people feel about one another?",
+    "g68": "In The Visit (about 1657), de Hooch portrays men and women meeting inside a Dutch home. He is known for interiors where light and space are carefully arranged to make ordinary life seem calm and orderly. Genre scenes like this were popular with Dutch buyers, though they were composed, not snapshots. Look at how people are placed in the room and how light moves through it. What story do the positions and gestures suggest, and what is left unsaid?",
+    "g910": "De Hooch's The Visit presents an everyday social moment in a Dutch interior, with men and women gathered in a carefully ordered room. His interiors often use architecture and light to organize space and to give domestic life a sense of dignity. Scholars note that genre scenes may carry social or moral messages about courtship, manners or household order, but they disagree about how much any one painting intends. What does the arrangement of the figures within the space suggest?",
+    "g1112": "Painted around 1657, The Visit is an example of de Hooch's mature domestic interiors, in which light and architecture give structure to a social encounter among men and women. Modern scholars debate how far Dutch genre paintings should be read as records of daily life, as moral commentary, or as idealized images made for a market of buyers. This painting's title invites a narrative but leaves the relationships open. How does the interplay of figures and room shape your interpretation, and what evidence would you need to decide?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think is visiting, and who lives here? Tell your story.",
+      "emotion": "Does this room feel friendly or serious? What shows you?",
+      "observation": "How many people can you find? Count them and point.",
+      "analysis": "Which person do you look at first? Why?",
+      "line": "Can you find straight lines in the walls or doorways? Trace one.",
+      "shape": "What squares or rectangles can you find in the room?",
+      "color": "Which colors are in the clothes? Which color do you see most?",
+      "texture": "Which parts of the visitors' clothes look soft, and which parts of the room look hard?",
+      "space": "Is this room big or small? How can you tell?",
+      "light": "Where does the light come into the room?",
+      "meaning": "Why do you think the people are meeting today?",
+      "culture": "Long ago in the Netherlands, people visited in their homes. How do people visit each other now?",
+      "technique": "The painter used a wooden panel instead of cloth. What do you think a wood board feels like to paint on?",
+      "personal": "Have you ever had a visitor at your home? What did you do together?",
+      "critical": "The painter chose to show a visit. Why might he not have painted an empty room?"
+    },
+    "g12": {
+      "daily": "What do you think is happening at this visit? Point to the people and the clues that help you decide.",
+      "emotion": "What feeling do you get from this room, and what makes you feel it?",
+      "observation": "Describe the people, then the room around them. What do you notice first?",
+      "analysis": "How are the people placed in the room? How does that help you understand who they are to each other?",
+      "line": "Find straight lines in the walls, windows or doors. How do they make the room feel orderly?",
+      "shape": "Which shapes repeat in the room? How do they make it look neat?",
+      "color": "Which clothing colors help you tell the visitors from the people at home?",
+      "texture": "How does the painter make fabric, wood and walls look different from each other?",
+      "space": "How does the painter make the room look deep? Find clues like doors or overlapping people.",
+      "light": "Where does daylight fall brightest in the room? What does it light up?",
+      "meaning": "What might each person want or feel at this visit? Choose one and explain.",
+      "culture": "What does this home tell you about how people lived in the Netherlands long ago?",
+      "technique": "The painter planned where to put each person and each piece of furniture. Why might that planning matter?",
+      "personal": "How would you feel if you were one of the people in this room?",
+      "critical": "Is this picture exactly what happened or did the painter arrange it? What makes you think so?"
+    },
+    "g35": {
+      "daily": "What clues in the people's positions and expressions tell you about the visit? Use at least two details.",
+      "emotion": "What mood does the room have, and which details, such as light, space or poses, help create it?",
+      "observation": "Take a slow look at the room. What objects and details do you find besides the people?",
+      "analysis": "How does the painter arrange the people and the room so that your eyes move from one place to another?",
+      "line": "How do the lines of walls, doors and furniture help organize the space in the painting?",
+      "shape": "What rectangles and other shapes are in the room, and how do they frame the people?",
+      "color": "How do the colors of the clothes compare with the colors of the room? Which are bold and which are quiet?",
+      "texture": "How does the artist show cloth, wood and plaster as different materials?",
+      "space": "How do you know how big the room is and how far apart the people stand?",
+      "light": "Where does the light come from, and how does it change how the room and the people look?",
+      "meaning": "What do you think the artist wants us to wonder about this visit?",
+      "culture": "Pieter de Hooch painted ordinary homes and not just kings or saints. Why might people in the Dutch Republic have enjoyed that?",
+      "technique": "De Hooch painted on a wooden panel in oil. How might that help him show fine details?",
+      "personal": "What do you do when you welcome a guest? How is it similar to or different from what you see here?",
+      "critical": "How do you decide whether a painting shows real life or a staged moment? What evidence would help?"
+    },
+    "g68": {
+      "daily": "How do the figures' placement and the room's structure suggest the nature of this visit? What does the painter leave open?",
+      "emotion": "What emotional tone do the light, space and gestures create, and who seems most at ease?",
+      "observation": "List the people, objects and architecture you can find. Which details did you overlook at first?",
+      "analysis": "How does the composition guide your eye among the figures, and where does it pause?",
+      "line": "How do the straight lines of architecture create order, and how do figures break that order?",
+      "shape": "How do rectangles of doors and windows frame the people, and what does that framing emphasize?",
+      "color": "How does the painter use color in clothing to separate figures from their surroundings?",
+      "texture": "Which materials are most convincingly painted, and which details make them believable?",
+      "space": "How does de Hooch use perspective and overlapping to build a room that feels deep and inhabited?",
+      "light": "How does daylight shape the mood and help organize the scene?",
+      "meaning": "Some genre paintings may carry messages about manners or morals. What messages, if any, could this one hold?",
+      "culture": "What does an interior like this suggest about ideas of home and household order in the Dutch Republic?",
+      "technique": "How might a painter plan a scene with several figures and a room so that the perspective feels natural?",
+      "personal": "How do social situations in your life, like greeting someone, show up in gestures and posture? Where do you see that here?",
+      "critical": "How might a painter's arrangement present an idealized view of home life, and who benefits from that image?"
+    },
+    "g910": {
+      "daily": "How does de Hooch use architecture and light to give an ordinary visit a sense of significance?",
+      "emotion": "How do ordered space and the figures' poses combine to create a social atmosphere you can almost feel?",
+      "observation": "Describe the painting's visual hierarchy. What draws the eye first, and how does the painter keep it moving?",
+      "analysis": "Analyze the relationship between the figures and the surrounding architecture. Who or what takes visual priority?",
+      "line": "How do the lines of the room establish a stable framework, and how do the figures work with or against it?",
+      "shape": "How do geometric shapes in the room contrast with the more irregular shapes of clothing and figures?",
+      "color": "How does the palette distinguish social roles or focal points, and how does it maintain harmony?",
+      "texture": "How does the painter differentiate surfaces of cloth, wood and wall, and what does that suggest about the painting's priorities?",
+      "space": "How do the viewing position and the layout of the room influence the viewer's sense of being a witness?",
+      "light": "How does the treatment of light connect different parts of the room, and how does it direct meaning?",
+      "meaning": "How do scholars' competing views of genre painting, as record, moral lesson or idealization, apply to this scene?",
+      "culture": "How did the Dutch market for domestic scenes reflect changing ideas about home, family and respectability?",
+      "technique": "How do small-scale painting on panel and careful perspective enable de Hooch's effects?",
+      "personal": "What does your own experience of social gatherings suggest about how to read the figures' positions?",
+      "critical": "What are the limits of reading a painted interior as evidence about real households of the period?"
+    },
+    "g1112": {
+      "daily": "What does the staging of this encounter suggest, and how would you weigh that against the possibility that the painting is intentionally ambiguous?",
+      "emotion": "How does the painting generate mood through order and light rather than overt drama, and why might that be effective?",
+      "observation": "Describe the arrangement of figures and architecture before interpreting. Where did description turn into assumption?",
+      "analysis": "How does the painting's structure reflect or complicate the social relations among the people shown?",
+      "line": "How do architectural lines form a system of order, and how might that order carry cultural meaning?",
+      "shape": "How does the interplay of rectilinear architecture and human forms shape both unity and tension?",
+      "color": "How does color work as social and compositional information in this scene, and how reliable a guide is it?",
+      "texture": "In what ways does attention to material surfaces contribute to the painting's claims about reality?",
+      "space": "How does the construction of space shape the viewer's position, and what kind of viewing relationship does it invite?",
+      "light": "How does light operate as both description and organizing principle, and how does it affect where meaning seems to lie?",
+      "meaning": "How should an interpreter handle the gap between a plain title and the layered readings that scholars of genre painting propose?",
+      "culture": "What can a painting made for a particular market tell us about households, and what must we be careful not to assume?",
+      "technique": "How do de Hooch's methods of constructing space and light make this scene feel true, and how might that persuasive realism mislead?",
+      "personal": "How does your own sense of social etiquette influence your reading of the figures' relationships?",
+      "critical": "How can we distinguish between what the painting shows and what we project onto it from modern assumptions about class and gender?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Interiors, Men, Women) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small panel painting by Pieter de Hooch, a Dutch painter of domestic scenes, made around 1657. Genre paintings were popular in the Dutch Republic, though their scenes were composed with care and not simply recorded.",
+    "vocabulary": [
+      "genre painting",
+      "interior",
+      "perspective",
+      "composition",
+      "panel",
+      "daylight"
+    ],
+    "directions": [
+      "Have students describe the relationship between two figures using only visual evidence, then compare answers.",
+      "Sketch a floor plan of the room as best as can be seen and discuss what perspective hides.",
+      "Compare with a modern photograph of a family gathering: what is staged and what is spontaneous?"
+    ]
+  }
+}

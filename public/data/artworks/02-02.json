@@ -1,0 +1,158 @@
+{
+  "id": "met-44422",
+  "day": "02-02",
+  "title": "Jar with Spiral Decoration",
+  "artist": "Artist unknown",
+  "date": "Machang type (ca. 2350–2050 BCE)",
+  "medium": "Earthenware with pigment",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/1994_605_126_L36662.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/1994_605_126_L36662.jpg",
+    "credit": "The Metropolitan Museum of Art, Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rounded clay jar made by hand, with spiral patterns painted in dark pigment across its body. The warm, earthy clay surface shows through between the painted swirls.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/44422",
+    "objectId": "44422",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Neolithic, Majiayao phase), creditLine, classification (Ceramics), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This painted pottery jar was made in northwest China during the Neolithic period, more than 4,000 years ago, and belongs to the Majiayao cultural tradition (the Met labels it Machang type). Majiayao potters are known for jars decorated with painted swirls and spirals. The Met record does not state the jar's original use.",
+  "descriptions": {
+    "k": "People made this jar by hand from clay a very long time ago. Swirly spirals are painted on its round body. Follow a swirl with your finger. Where does it start? Where does it go?",
+    "g12": "This jar was made in China more than four thousand years ago. A potter shaped the clay and painted spirals around it, like swirls in water or wind. The paint is dark and the clay is warm and earthy. Follow one spiral with your eyes. What does it remind you of?",
+    "g35": "This jar comes from the Neolithic period in China, when people lived in farming villages and made pottery by hand. Its painted spirals swirl around the round body. Potters of the Majiayao tradition in northwest China were famous for patterns like these. How do the spirals help you see the jar's round shape? What might the potter have wanted people to feel?",
+    "g68": "Made around 2350 to 2050 BCE, this jar belongs to the Majiayao painted-pottery tradition of northwest China (the Met calls this type Machang). Without a potter's wheel as we know it today, makers still achieved a smooth, round form, then added dark painted spirals that seem to rotate around the body. Scholars are not certain what the spirals meant. Do they suggest water, motion, or simply pleasing rhythm? What evidence in the jar supports each idea?",
+    "g910": "This Neolithic jar shows how early potters united form and ornament. The spirals wrap around the swelling body, so the pattern seems to turn as the jar turns. Majiayao-tradition pottery is celebrated for such dynamic painted designs, but their meaning is unknown, and interpretations such as water, wind, or cosmic motion remain speculative. The jar invites analysis of rhythm, balance between dark painted areas and bare clay, and the skill needed to paint on a curved surface.",
+    "g1112": "As an earthenware jar from the late Neolithic (the Met lists it as Machang type, ca. 2350–2050 BCE), this object raises questions about how we read images made without surviving written explanation. The spirals create a strong sense of rotation that responds to the vessel's curved body, yet interpretations of their meaning, from water motifs to abstract rhythm, remain unproven. Scholars also debate how such pots were used, including whether they were everyday containers or made partly for burial. The jar rewards careful formal analysis while resisting confident claims about intention."
+  },
+  "questions": {
+    "k": {
+      "daily": "Put your finger on one spiral on this jar. Where does your finger travel as it goes around?",
+      "emotion": "Do the swirls on this jar feel busy or calm to you? What makes you think so?",
+      "observation": "Find three swirly spirals painted on the jar. How are they alike and different?",
+      "analysis": "What do you notice first on this jar, the paint or the round shape? Why?",
+      "line": "The spirals on this jar curl round and round. Trace one in the air. Is the line thick or thin?",
+      "shape": "This jar is round like a ball. Where do you see circles or curls in the painting?",
+      "color": "The jar has dark paint and a warm clay color. Which do you see more of?",
+      "texture": "The jar is made of baked clay. How do you think it would feel in your hands?",
+      "space": "The painted spirals go around the jar. What might be hiding on the back that we cannot see?",
+      "light": "Where is the jar lightest and where is it darkest? Point to both places.",
+      "meaning": "Spirals can look like water or wind. What do the spirals on this jar look like to you?",
+      "culture": "People in China made this jar a very, very long time ago, without electricity. How do you think they made it?",
+      "technique": "The painter put dark paint on curved clay. Why might it be tricky to paint swirls on a round jar?",
+      "personal": "If you could paint your own swirly pattern on a jar, what would you paint?",
+      "critical": "Nobody knows exactly why these spirals were painted. What is your best guess, and what do you see that makes you say so?"
+    },
+    "g12": {
+      "daily": "How do the painted spirals make this clay jar look like it is turning, even though it is still?",
+      "emotion": "Do the spirals make the jar feel peaceful, playful, or powerful? Point to the part that gives you that feeling.",
+      "observation": "Describe the spiral pattern on this jar. Which parts repeat, and which parts change?",
+      "analysis": "How do the dark spirals and the lighter clay work together to make a pattern you can read?",
+      "line": "Follow a spiral line from the outside to the center. What happens to the line as it curls?",
+      "shape": "The jar has a big round body. How do the curling spirals repeat that roundness?",
+      "color": "The jar uses only a few colors. How does the dark paint stand out against the clay?",
+      "texture": "The clay looks earthy and a little rough. What parts of the jar might feel smooth and which might not?",
+      "space": "The spiral pattern wraps around a curved surface. How is that different from a pattern on a flat piece of paper?",
+      "light": "Light is brighter on the jar's belly than near its edges. How does that help you see its round form?",
+      "meaning": "Some people think spirals might stand for water, wind, or the movement of life. Which idea fits what you see?",
+      "culture": "This jar was made in Neolithic China, when villages farmed and made pottery by hand. What does the careful painting tell you about the people who made it?",
+      "technique": "A potter built the jar from clay and fired it, then used paint for the spirals. Which part do you think took the most skill?",
+      "personal": "What pattern would you choose to decorate a jar of your own, and what would it mean to you?",
+      "critical": "We cannot be sure what this jar was used for. What does its shape make you think, and what other uses could there be?"
+    },
+    "g35": {
+      "daily": "How do the spirals painted on this jar create a feeling of movement? Point to the parts that show it best.",
+      "emotion": "What mood do the spirals give this jar, energetic or calm? Explain with evidence from the pattern.",
+      "observation": "Look closely for one minute. What small differences can you find between one spiral and another?",
+      "analysis": "How did the potter arrange the spirals to fit the curved body of the jar?",
+      "line": "How do the curling lines of the spirals compare with the smooth outline of the jar itself?",
+      "shape": "The jar and its spirals both use round and curved forms. How do the two echo each other?",
+      "color": "How does the contrast between the dark painted lines and the lighter clay help the pattern stand out?",
+      "texture": "What can you tell about the jar's surface from the picture, and how might the paint and clay feel different?",
+      "space": "The pattern wraps around the jar so you must turn it to see everything. How does that change the way you look at it?",
+      "light": "Where does light fall most strongly on the jar's rounded body, and how does that affect the spiral pattern?",
+      "meaning": "Why might early potters have chosen spirals? Give two ideas that match what you see in the jar.",
+      "culture": "This jar was made by farmers and potters in northwest China over four thousand years ago. What does it show about how they valued beauty in everyday objects?",
+      "technique": "Early potters shaped clay by hand, fired it, and painted patterns. Which steps can you see evidence of in the jar?",
+      "personal": "Think about a pattern you like on something you own. What do the lines or shapes make you feel?",
+      "critical": "How can we learn about a jar when we do not know what the spirals meant to the people who made it?"
+    },
+    "g68": {
+      "daily": "How does the painted spiral pattern transform a simple clay jar into an object that seems to rotate?",
+      "emotion": "What kind of energy do the spirals create, and which design choices produce it?",
+      "observation": "Study the repeating spiral units. What small variations suggest the hand of the person who painted them?",
+      "analysis": "How does the potter balance dark painted areas against bare clay to create a pattern you can read from a distance?",
+      "line": "How does the curling line of each spiral lead your eye around the jar, and where does it slow or speed up?",
+      "shape": "How do the spirals relate to the swelling body of the jar, and what would change if the pattern were made of straight lines?",
+      "color": "With such a limited palette, how does the pattern still feel rich and varied?",
+      "texture": "How do the matte, earthy clay and the painted areas of the jar differ, and how does that affect the way you see the pattern?",
+      "space": "How does the curved surface turn this painting into a three-dimensional experience that a flat reproduction cannot fully show?",
+      "light": "How does the jar's rounded form shift the visible tones of the painted spirals as light moves across it?",
+      "meaning": "Scholars do not know what the spirals meant. What readings are plausible, and what evidence in the jar can and cannot support each one?",
+      "culture": "What can a decorated jar like this tell us about Neolithic communities in northwest China, even without written records?",
+      "technique": "Without modern kilns or tools, the makers produced a round, decorated jar. What steps of shaping, painting, and firing can you infer?",
+      "personal": "Which everyday objects in your life are decorated on purpose? Why do you think people decorate things they use?",
+      "critical": "What are the risks of assigning meanings, such as water or the cosmos, to spirals made thousands of years ago?"
+    },
+    "g910": {
+      "daily": "How does the relationship between the spirals and the swelling body of the jar create a sense of continuous motion?",
+      "emotion": "How does rhythmic repetition of curving forms shape the jar's emotional tone?",
+      "observation": "Describe the pattern's visual hierarchy: how do you distinguish major spirals from smaller connecting elements?",
+      "analysis": "Analyze how the design coordinates curve, repetition, and contrast to unify the whole surface of the jar.",
+      "line": "How does the variation in the width and direction of the painted line create energy in the spiral pattern?",
+      "shape": "How does the interplay of circular and curling forms in the ornament respond to the jar's own silhouette?",
+      "color": "How does the strong value contrast between dark pigment and the lighter clay organize attention across the object?",
+      "texture": "How might the unglazed, porous earthenware and the painted pigment have contrasted to the touch, and what does the photograph let us infer?",
+      "space": "How does the wraparound design of the spirals depend on the viewer's movement, and how does that differ from a framed painting?",
+      "light": "How does the jar's curved surface produce gradations of tone that interact with the flat pigment?",
+      "meaning": "What are the strengths and weaknesses of reading the spirals as water, wind, or cosmic symbols without texts to support them?",
+      "culture": "How might the care invested in this painted jar reflect the social role of pottery in late Neolithic communities in northwest China?",
+      "technique": "What does the controlled application of pigment on a curved, handmade form suggest about the makers' skills and traditions?",
+      "personal": "How do the repeated patterns you see in your own environment shape your sense of rhythm or order, and how does this jar compare?",
+      "critical": "What kinds of evidence would strengthen or weaken an argument about the spirals' meaning, and why is caution needed with prehistoric imagery?"
+    },
+    "g1112": {
+      "daily": "How might a viewer move between reading these spirals as pure pattern and as possible symbol, and what keeps both readings open?",
+      "emotion": "How does the sustained rhythm of the spirals affect the viewer's sense of calm, urgency, or hypnotic motion, and why might that be hard to generalize?",
+      "observation": "Describe this jar's decoration with precision. Where does careful description already imply interpretation?",
+      "analysis": "Analyze how the spiral pattern and the vessel's profile interact to produce unity, and what an unseen back of the jar might add.",
+      "line": "How does the calligraphic quality of the painted line contribute to its sense of speed and control?",
+      "shape": "How does the dialogue between the jar's swelling volume and the repeating curves shape our reading of the whole object as a designed form?",
+      "color": "How does the economy of a two-tone scheme intensify the pattern, and how might age and burial have altered what we see today?",
+      "texture": "How does the evidence of surface treatment, from the clay body to the pigment, inform our understanding of production, and what do we lose without handling the object?",
+      "space": "How does designing for a curved, three-dimensional surface challenge our habit of treating painting as a flat art?",
+      "light": "How does museum lighting or photography change the way the pattern's depth and the clay's color appear?",
+      "meaning": "Evaluate competing readings of the spirals, from water and rhythm to cosmology, and consider what makes any of them hard to prove.",
+      "culture": "Majiayao-tradition pottery is often discussed as a major achievement of Neolithic China. How should we weigh regional distinctiveness against broad labels like Machang type?",
+      "technique": "How might the choices in forming, painting, and firing this jar guide hypotheses about workshop practice, and what remains unknown?",
+      "personal": "How does encountering a pattern from over four thousand years ago reshape your sense of continuity or distance between you and its makers?",
+      "critical": "Without texts, how should museums and educators present objects like this one to avoid both overconfident claims and dismissal of the makers' intentions?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title (Jar with Spiral Decoration), classification (Ceramics), medium (earthenware with pigment), and period fields checked against the museum record; the record has no tags. Nothing in these suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A painted Neolithic jar from northwest China, the Majiayao tradition (the Met's record labels it Machang type, ca. 2350–2050 BCE). The meaning of its spirals is not documented.",
+    "vocabulary": [
+      "Neolithic",
+      "earthenware",
+      "pigment",
+      "spiral",
+      "Majiayao",
+      "motif"
+    ],
+    "directions": [
+      "Have students design their own spiral pattern on a paper outline of a round jar, then explain what it suggests.",
+      "Discuss how archaeologists learn about people who left no writing, using objects as evidence.",
+      "Compare this jar with a modern decorated bowl or cup and list what each tells us about its maker."
+    ]
+  }
+}

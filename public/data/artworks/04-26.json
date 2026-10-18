@@ -1,0 +1,158 @@
+{
+  "id": "met-334369",
+  "day": "04-26",
+  "title": "Entrance to a Garden",
+  "artist": "Paul Cézanne",
+  "date": "1878–80",
+  "medium": "Watercolor over graphite",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP809512.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP809512.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of C. Douglas Dillon, 1982",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A watercolor over pencil showing the entrance to a garden, with a gate, a house, and trees. Patches of soft color are laid down in small strokes and some paper is left bare.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/334369",
+    "objectId": "334369",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Gates, Houses, Gardens, Trees), country, classification, and image URLs read from the record"
+  },
+  "context": "A watercolor over graphite by Paul Cézanne, dated 1878–80 in the Met's record, which lists France as the country. The tags mention gates, houses, gardens, and trees. Cézanne is often described as a bridge between Impressionism and later modern art.",
+  "descriptions": {
+    "k": "There is a gate, a house, and trees. The artist painted with small patches of soft color. Some paper is still white. Where would you walk if you went through the gate? What might be in the garden?",
+    "g12": "Paul Cézanne painted the way into a garden in France. You can see a gate, a house, and trees. He used watercolor with small patches of color and left some paper bare. Look at the pencil lines too. What do you think waits inside the garden?",
+    "g35": "Paul Cézanne was a French artist who looked closely at landscapes and built them from patches of color. In this watercolor over pencil, a gate leads into a garden near a house and trees. Look for places where he left the white paper unpainted. How do the small strokes of color help you see the gate, the house, and the trees?",
+    "g68": "Cézanne made this around 1878 to 1880 in France. Instead of blending colors smoothly, he often used separate patches of watercolor to build forms, and he left parts of the paper bare. Notice how the gate, the house, and the trees are built from simple shapes. Why might an artist use patches rather than outlines, and what does an unfinished-looking sheet tell us about how he worked?",
+    "g910": "In Entrance to a Garden, Cézanne uses watercolor over graphite to construct a scene from translucent patches of color rather than from continuous outline. The gate, house, and trees become interlocking planes, and unpainted paper participates as light and as structure. This approach, typical of his later landscape work, influenced many modern artists. Consider how the sheet balances description of a real place with attention to the surface of the paper itself.",
+    "g1112": "Cézanne's watercolors of the late 1870s test how far a painter can build space with color alone. In this sheet, translucent patches laid over graphite construct gate, house, and trees as a loose network of planes, with bare paper acting as both light and rest. Historians connect his method to later modern movements, though they debate how to describe it. Consider how a work that appears unfinished can be read as a deliberate approach to seeing, not simply an incomplete record of a place."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could walk through this gate, where would you go first?",
+      "emotion": "Does this place feel friendly or lonely? Tell why.",
+      "observation": "Find the gate, the house, and a tree. What else can you find?",
+      "analysis": "What do your eyes see first, the gate or the trees? Why?",
+      "line": "Can you find a straight line in the gate or the house? Trace it in the air.",
+      "shape": "What shapes do you see in the house and gate? Find a square or a rectangle.",
+      "color": "Which colors are on the trees and which are on the house? Do they match?",
+      "texture": "How would the gate feel to touch? How would the leaves feel?",
+      "space": "What is closest to you in this picture? What is farthest away?",
+      "light": "Where is the picture brightest? What do you think is there?",
+      "meaning": "What do you think is hidden inside this garden?",
+      "culture": "This is a garden in France. What kind of gate or fence have you seen near a garden?",
+      "technique": "The artist left some paper white on purpose. Where can you find white spots?",
+      "personal": "Do you have a garden or a special green place? Tell about it.",
+      "critical": "The artist did not paint every leaf. Does that make you look harder or less hard? Why?"
+    },
+    "g12": {
+      "daily": "What do you think is on the other side of this garden gate? Use something you see for clues.",
+      "emotion": "Does this entrance feel welcoming or private? Point to a detail that makes you feel that way.",
+      "observation": "Name the gate, the house, and the trees, then find one more thing in the picture.",
+      "analysis": "How are the gate, house, and trees arranged to make a place you could step into?",
+      "line": "Where do you see pencil lines under the paint? How are they different from the colors?",
+      "shape": "Which parts of the house, gate, and trees look like simple shapes, such as boxes and blobs?",
+      "color": "Which colors look warm and which look cool? Where do they sit side by side?",
+      "texture": "Cézanne used small patches of color. How does that make the picture feel different from a smooth painting?",
+      "space": "Which parts look near and which look far? What helps you tell?",
+      "light": "Where does the white paper make the picture look sunny?",
+      "meaning": "Why might an artist choose the entrance to a garden instead of a view of the whole garden?",
+      "culture": "Cézanne painted places around him in France. What places near your home would you paint?",
+      "technique": "He used watercolor over pencil. What do you think the pencil was for?",
+      "personal": "What would you want to find in a secret garden?",
+      "critical": "Does this look finished to you? What clues make you think so?"
+    },
+    "g35": {
+      "daily": "What details in this watercolor make the gate feel like the start of a path into a place?",
+      "emotion": "How would you describe the mood, and which colors or patches of paint help create it?",
+      "observation": "After a minute of quiet looking, what details in the gate, house, or trees did you not see at first?",
+      "analysis": "How does Cézanne use the gate and house to organize the picture and lead your eyes inward?",
+      "line": "Where do you find the clearest lines, and where do edges come only from the change of color?",
+      "shape": "How does Cézanne build the house and trees from simple shapes? Point to some.",
+      "color": "How do the greens and warmer colors work together to show different parts of the scene?",
+      "texture": "How do separate patches of watercolor create a surface that looks different from smooth blending?",
+      "space": "Without much detail, how does Cézanne make some parts feel closer and others farther?",
+      "light": "How does bare paper help make the picture look bright? Find three places where it works best.",
+      "meaning": "A gate can mean welcome or limit. What might this one suggest, and what in the picture supports your idea?",
+      "culture": "Cézanne worked in France in the late 1800s, when many artists painted outdoors. What might be good about painting outdoors?",
+      "technique": "Cézanne drew in graphite first. Why might an artist plan lightly in pencil before adding paint?",
+      "personal": "Think of an entrance you know well. How would you paint it so others could feel what it is like?",
+      "critical": "An artist chooses what to paint and what to leave blank. Which choice in this picture seems most important to you?"
+    },
+    "g68": {
+      "daily": "How does Cézanne turn a simple garden entrance into a puzzle of color patches that still makes sense?",
+      "emotion": "How do the soft, open patches of color shape the mood compared with a tightly detailed painting?",
+      "observation": "List the objects in the picture from left to right. Which are clearest, and which are only hinted at?",
+      "analysis": "How do the gate, house, and trees create layers that guide the viewer from foreground to background?",
+      "line": "How does Cézanne use both graphite lines and the edges of color patches to define forms?",
+      "shape": "How do geometric shapes, like boxes and planes, help build the house, gate, and even the trees?",
+      "color": "How do warm and cool colors push forward or pull back, and how does Cézanne use that to build space?",
+      "texture": "How do the small watercolor patches give the sheet a surface of its own, separate from the objects shown?",
+      "space": "How does he make depth with overlapping and color change rather than strong perspective lines?",
+      "light": "How does leaving paper unpainted act as light, and where does that matter most?",
+      "meaning": "Why might an unfinished-looking sheet feel as complete as a polished picture? What does it communicate?",
+      "culture": "Later artists studied Cézanne's way of building forms with color. Why might his approach have felt new in the 1870s?",
+      "technique": "What are the advantages and difficulties of building a scene from separate, transparent patches of watercolor?",
+      "personal": "How do you decide what to include and what to leave out when you draw a place?",
+      "critical": "Does a work need to be finished to be good? Use evidence from this sheet."
+    },
+    "g910": {
+      "daily": "How does the sheet construct a place from color and structure rather than from detailed description?",
+      "emotion": "How does the open, patchy handling affect the emotional tone compared with a tightly rendered garden scene?",
+      "observation": "Describe the visual hierarchy: what draws attention first, and how do color and bare paper guide the eye?",
+      "analysis": "Analyze how the gate, house, and trees interlock to create a coherent structure.",
+      "line": "How does the relationship between graphite and painted patches shape the sheet's sense of process?",
+      "shape": "How do planes and geometric forms replace continuous contour in Cézanne's construction of the scene?",
+      "color": "How do adjacent patches of warm and cool color build volume and space without strong shading?",
+      "texture": "How does the visible accumulation of transparent patches create a distinct surface character?",
+      "space": "How does the sheet balance recession into the garden with the flatness of the paper surface?",
+      "light": "How does unpainted paper function structurally as well as luminously?",
+      "meaning": "Does the entrance read as a literal place, a visual device, or both? Which evidence supports each reading?",
+      "culture": "How does this watercolor reflect broader changes in landscape art of the late nineteenth century, especially the move away from precise description?",
+      "technique": "How might Cézanne's process of building patch by patch reflect a particular way of looking?",
+      "personal": "How does the sheet change what you expect from a view of an everyday place?",
+      "critical": "How might calling a work unfinished shape the way we judge it, and is that label useful here?"
+    },
+    "g1112": {
+      "daily": "How does this sheet propose seeing as an act of construction, and how convincing is that proposal from the visual evidence?",
+      "emotion": "What emotional register is possible in a work that withholds description, and who decides what it is?",
+      "observation": "Describe the sheet's physical facts, including graphite, patches of watercolor, and bare paper, before interpreting. Where does description begin to interpret?",
+      "analysis": "How do the sheet's discrete units of color build a legible whole, and what does that imply about how perception is organized?",
+      "line": "How does the displacement of continuous contour by edges of color anticipate later modern concerns?",
+      "shape": "How do reductive geometric forms mediate between observed scene and pictorial structure?",
+      "color": "How does color function as both description and structure in the sheet, and where do the two come apart?",
+      "texture": "How does the sheet foreground its materials, and how does that influence its status as record or artwork?",
+      "space": "How does the work negotiate pictorial depth against the acknowledged flatness of the paper?",
+      "light": "In what sense does the artist's treatment of bare paper reframe the relation between light and absence?",
+      "meaning": "How might the motif of an entrance be read, and what are the limits of reading symbolism into a landscape study?",
+      "culture": "How do historians position Cézanne in relation to Impressionism and later movements, and what debates remain open about that placement?",
+      "technique": "What does the use of watercolor over graphite suggest about the relation between drawing and painting in his practice?",
+      "personal": "How do your own habits of looking, shaped by photography and screens, affect your reception of such a fragmentary image?",
+      "critical": "What criteria should we use to decide whether a study of this kind is a finished statement, a record of process, or both?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Gates, Houses, Gardens, Trees), medium, classification (Drawings), and country checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Paul Cézanne (1839–1906) worked in France and is often called a bridge to modern art. His watercolors often leave paper bare and build forms with separate patches of color.",
+    "vocabulary": [
+      "watercolor",
+      "graphite",
+      "plane",
+      "patch of color",
+      "bare paper",
+      "motif"
+    ],
+    "directions": [
+      "Have students paint a doorway or gate near school using only small separate patches of color.",
+      "Ask students to mark where white paper acts as light and discuss what the picture would lose if it were covered.",
+      "Discuss what 'finished' means in art and who decides."
+    ]
+  }
+}

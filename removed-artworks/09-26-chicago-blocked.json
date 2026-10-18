@@ -1,0 +1,158 @@
+{
+  "id": "artic-14572",
+  "day": "09-26",
+  "title": "The Millinery Shop",
+  "artist": "Edgar Degas",
+  "date": "1879-86",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/6f513908-03cc-b974-633b-adfce56b7936/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A woman works in a hat shop, surrounded by hats, in a scene of everyday city work and fashion. The picture is arranged off-center, so the hats and the woman take up the space unevenly.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/14572",
+    "objectId": "14572",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (women, fashion, hats, everyday life (genre), work, urban life), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by Edgar Degas, dated 1879-86. The Art Institute's subject terms list women, fashion, hats, work and urban life. Degas painted and drew milliners, the people who make and trim hats, in the 1880s.",
+  "descriptions": {
+    "k": "A woman works in a hat shop. There are hats all around. She is busy with one. What do you think she is doing? What kind of hat would you want to try on?",
+    "g12": "Edgar Degas painted a woman working in a hat shop. A hat maker is called a milliner. Hats fill the picture and the woman is focused. What do you think she is making? What would you like to ask her?",
+    "g35": "Edgar Degas painted The Millinery Shop between 1879 and 1886. A milliner is a person who makes and trims hats. The painting shows a woman at work among hats in a shop. Degas often showed people at their jobs. What do you notice about how she is working, and how does the painting show her focus?",
+    "g68": "Degas painted The Millinery Shop over several years, between 1879 and 1886, showing a woman who works with hats in a Paris shop. The museum lists women, fashion, hats, and work as subjects. Degas often caught people in the middle of tasks. What does the arrangement of hats and the woman's attention suggest about her job and about fashion in the city?",
+    "g910": "The Millinery Shop (1879-86) shows Degas turning to the working lives of Parisian women, with the milliner absorbed in handling a hat. The composition, with off-center emphasis and abundant objects, recalls his interest in photography and Japanese prints. How does the picture balance fashion as spectacle with the labor behind it, and how does the viewpoint place us as an observer?",
+    "g1112": "In The Millinery Shop (1879-86), Degas treats fashion as both commodity and labor, presenting a milliner within a densely arranged shop. Scholars have discussed how his images of working women combine sympathy, detachment, and the observational stance of a flâneur. The ambiguous gaze and cropped composition complicate easy interpretations. How might one read the work as social document, formal experiment, or both?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the woman. What is she doing?",
+      "emotion": "Does she look busy or sleepy? What tells you?",
+      "observation": "Find some hats. How many can you count?",
+      "analysis": "What do you see first in the picture? Why?",
+      "line": "Find a curved line in a hat brim. Trace it in the air.",
+      "shape": "Hats come in different shapes. Which shapes do you see?",
+      "color": "What colors are the hats and the shop?",
+      "texture": "Do the hats look soft or stiff? Tell us how you know.",
+      "space": "How close are we to the woman?",
+      "light": "Where does the light fall in the shop?",
+      "meaning": "Why do people wear hats?",
+      "culture": "People who make hats are called milliners. What jobs do people near you do with their hands?",
+      "technique": "Degas used soft, quick paint. How might that show a shop full of things?",
+      "personal": "What kind of hat would you make?",
+      "critical": "If you could visit the shop, what would you ask?"
+    },
+    "g12": {
+      "daily": "Look at the woman's face and hands. What is she feeling?",
+      "emotion": "Is this shop calm or rushed? Which parts show it?",
+      "observation": "List five things you see in the shop.",
+      "analysis": "How does Degas make the woman the main person even with so many hats?",
+      "line": "Which lines of hat brims and ribbons go around?",
+      "shape": "How do the round hat shapes fit with the shape of the woman?",
+      "color": "Which colors in the hats stand out the most?",
+      "texture": "How can you tell which hats are feathery and which are smooth?",
+      "space": "Degas cut the scene off at the edges. How does that make you feel inside the shop?",
+      "light": "How does light help you see the hats?",
+      "meaning": "Why might Degas paint a worker instead of a fancy party?",
+      "culture": "People in Paris wore fashionable hats long ago. What do people wear to look fashionable now?",
+      "technique": "How does painting quickly help show someone at work?",
+      "personal": "What job would you like to paint?",
+      "critical": "Is a worker as interesting to paint as a king? Why?"
+    },
+    "g35": {
+      "daily": "What clues in her pose and actions tell you about her job? What is unclear?",
+      "emotion": "How would you describe the mood, and which colors and shapes help create it?",
+      "observation": "Look slowly at the edges. What small details did you notice last?",
+      "analysis": "How does Degas arrange the hats and the woman so your eye finds the center of attention?",
+      "line": "How do the curves of hat brims and ribbons make rhythm?",
+      "shape": "How do the round hats compare with the shape of the table or shop?",
+      "color": "How do the colors of the hats and the background work together?",
+      "texture": "How does the paint show different textures like feathers, ribbon, and cloth?",
+      "space": "How does the unusual viewpoint make you feel like a visitor?",
+      "light": "Where do light and dark create contrast?",
+      "meaning": "What does the painting show about women's work in Paris in the 1880s?",
+      "culture": "Degas liked to paint people unposed. How can you tell this is not a stiff portrait?",
+      "technique": "Why might an Impressionist paint everyday jobs instead of history?",
+      "personal": "How would you paint a person at work in your family?",
+      "critical": "Can a painting of fashion also be a painting about work? Explain."
+    },
+    "g68": {
+      "daily": "What do the woman's focus and the crowd of hats suggest about her work, and what is left unclear?",
+      "emotion": "What mood do the colors and arrangement create, and how would a tidier arrangement change it?",
+      "observation": "Describe the woman and the hats in order. Which detail changes how you see the rest?",
+      "analysis": "How does Degas place the woman so she is both part of the display and its maker?",
+      "line": "How do the curved brims and ribbons link objects across the picture?",
+      "shape": "How do the round forms of the hats repeat and vary?",
+      "color": "How does the color of the hats guide your eye?",
+      "texture": "How does Degas show different materials with different brush handling?",
+      "space": "How does the cropped, off-center composition change your sense of being in the room?",
+      "light": "How does the light create contrast and shape the hats?",
+      "meaning": "Why might Degas have studied milliners repeatedly in the 1880s?",
+      "culture": "How might Parisian fashion and women's work be linked in this painting?",
+      "technique": "How does the influence of photography and Japanese prints show in the composition?",
+      "personal": "What does an unusual viewpoint add to a scene of ordinary work?",
+      "critical": "Is the painting more sympathetic or more detached toward the worker? Argue with evidence."
+    },
+    "g910": {
+      "daily": "How do pose and setting position the milliner as a skilled worker rather than a fashionable model?",
+      "emotion": "How do color and crowded arrangement create a mood of concentration, and could it also suggest confinement?",
+      "observation": "Examine the placement of the figure among the hats. What does it say about relationship between worker and product?",
+      "analysis": "Analyze how the composition uses cropping and asymmetry to emphasize observation.",
+      "line": "How do the curved lines of hats and ribbons organize the surface?",
+      "shape": "How do repeated rounded forms create unity and variety?",
+      "color": "Evaluate how color accents direct attention within a busy composition.",
+      "texture": "What does the variety of surface handling reveal about Degas's attention to material?",
+      "space": "How does the viewpoint draw on photography and Japonisme, and how does that change the viewer's role?",
+      "light": "How does the light model the objects while keeping the scene intimate?",
+      "meaning": "How does the image engage with Paris's growing consumer and fashion culture?",
+      "culture": "How should we weigh the picture's sympathy for working women against its observational distance?",
+      "technique": "How does Degas's choice of subject differ from that of more landscape-focused Impressionists?",
+      "personal": "How does your own idea of fashion affect your reading of the scene?",
+      "critical": "What responsibilities do viewers have when looking at images of women at work made by a male artist?"
+    },
+    "g1112": {
+      "daily": "How does the milliner's absorption complicate the conventional dynamics of looking at women in nineteenth-century painting?",
+      "emotion": "To what extent does the dense arrangement of hats convey abundance, labor, or both?",
+      "observation": "Analyze how compositional cropping and asymmetry produce a sense of modern, momentary vision.",
+      "analysis": "How does the relation of the worker to her wares comment on the production of fashion?",
+      "line": "How do repeating curves and the dense arrangement unify the surface while preserving the figure's distinctness?",
+      "shape": "How does the tension between portrait and genre shape the painting's reception?",
+      "color": "Assess how color accents and tonal contrasts shape hierarchy among objects.",
+      "texture": "What does the facture suggest about Degas's balance of observation and invention in the studio?",
+      "space": "How do photographic cropping and Japanese compositional models reconfigure the traditional interior?",
+      "light": "How does the handling of light distinguish this commercial interior from domestic or theatrical spaces in his oeuvre?",
+      "meaning": "How might the painting be read within debates about gender, consumption, and labor in 1880s Paris?",
+      "culture": "How have feminist and social art histories reframed Degas's depictions of working women?",
+      "technique": "How does the distancing effect of Degas's viewpoint produce ambiguity about sympathy?",
+      "personal": "How do your assumptions about fashion shape what you consider worthy subject matter?",
+      "critical": "How should museums frame images that mix admiration and detachment toward their subjects?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (women, fashion, hats, everyday life (genre), work, urban life) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1879-86 by Edgar Degas, in oil on canvas. The museum record lists women, fashion, hats, everyday life, work and urban life; it does not describe the figures in detail, so this entry stays general. Image not visually reviewed.",
+    "vocabulary": [
+      "Impressionism",
+      "milliner",
+      "genre painting",
+      "cropping",
+      "asymmetry",
+      "composition"
+    ],
+    "directions": [
+      "Have students draw a person at work with part of the scene cut off at the edge.",
+      "Ask students to list what the painting shows about the milliner's job and what it does not.",
+      "Discuss why artists painted ordinary jobs in the 1800s."
+    ]
+  }
+}

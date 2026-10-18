@@ -1,0 +1,159 @@
+{
+  "id": "met-373056",
+  "day": "04-07",
+  "title": "Cottage beside a Canal with a View of Ouderkerk",
+  "artist": "Rembrandt (Rembrandt van Rijn)",
+  "date": "ca. 1641",
+  "medium": "Etching and drypoint",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP814598.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP814598.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A black-and-white print of a countryside scene with a cottage, trees, a canal and a boat, drawn with many fine lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/373056",
+    "objectId": "373056",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Rembrandt made landscape etchings in the 1640s, often of the countryside near Amsterdam. Ouderkerk is a village on the Amstel river, a short way from the city. An etching is a print made by scratching lines into a metal plate, inking it and pressing it onto paper.",
+  "descriptions": {
+    "k": "This picture is made with only black lines on paper. You can see a little house, trees, water and a boat. It is a quiet place in the country. Can you find the water?",
+    "g12": "This is a print made with lines. There is a little cottage, trees, a canal and a boat. Rembrandt made it long ago in the Netherlands. There are no colors, only dark and light lines. How do the lines show trees and water?",
+    "g35": "Rembrandt is famous for paintings, but he also made prints called etchings. Here he scratched lines into a metal plate to draw a cottage, trees, a canal and a boat near the village of Ouderkerk. Then he inked the plate and pressed it on paper. There is no color, so every dark and light area comes from lines. Where do the lines look thick, thin or crowded?",
+    "g68": "In this etching from about 1641, Rembrandt turned a quiet corner of the Dutch countryside near Ouderkerk into a study of line. He drew with a sharp tool on a metal plate, so the print's trees, cottage and water are all made of marks. Dense hatching makes dark areas, and open paper makes light. Because many copies could be printed, etchings reached more buyers than paintings. How does he suggest depth and texture without any color?",
+    "g910": "Rembrandt's landscape etchings of the early 1640s show a close, observant relationship with the countryside near Amsterdam. Here a cottage, trees, a canal and a boat are constructed entirely from line, with hatching to suggest shade and open paper for light. Etching and drypoint allowed him to work freely and quickly. The print's modest subject and economy of means show that Rembrandt found drama in ordinary places. How does he balance detail and empty space?",
+    "g1112": "This etching and drypoint of about 1641 belongs to Rembrandt's small group of landscape prints, which are notable for their observation and economy. The scene of a cottage, trees and a canal is built from varied line, from delicate sketching to darker hatched passages, and the sheet's blank areas do as much work as its inked ones. Scholars debate how far such prints record a specific site and how far they are composed. How does the medium itself shape what the image can say about place, weather and time?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who might live in this little house by the water? Tell about them.",
+      "emotion": "Does this place feel quiet or noisy? What makes you say so?",
+      "observation": "Can you find the house, the trees, the water and the boat? Point to each.",
+      "analysis": "Is the cottage bigger or smaller than the trees? Point and tell how you know.",
+      "line": "Find a place with lots of tiny lines close together. Where is it?",
+      "shape": "What shape does the roof of the house make? Can you find triangles?",
+      "color": "There are no bright colors. What colors do you see instead?",
+      "texture": "Which part looks rough, like leaves or straw? Which part looks smooth, like water?",
+      "space": "What is near you in this picture, and what is far away?",
+      "light": "Which parts of the picture are dark and which are bright white?",
+      "meaning": "Where do you think the boat might go next?",
+      "culture": "Rembrandt lived in the Netherlands, where there are many canals. Where have you seen a canal or a river?",
+      "technique": "The artist scratched these lines with a sharp tool. What would you use to scratch a picture?",
+      "personal": "What is the quietest place you know? How is it like this one?",
+      "critical": "The artist left some of the paper empty. Why do you think he did that?"
+    },
+    "g12": {
+      "daily": "How do just black lines on paper make this country place feel real? Show one spot that works well.",
+      "emotion": "What feeling do the dark trees and the bright sky or water give you? Which lines help?",
+      "observation": "Describe three things you can see in the front of the print and three farther back.",
+      "analysis": "Where do your eyes go first, and what path do they follow after that?",
+      "line": "Compare thick, dark lines with thin, light lines. What does each kind show?",
+      "shape": "How is the shape of the cottage different from the shapes of the trees?",
+      "color": "There is only dark ink on pale paper. How can the artist still show light and dark?",
+      "texture": "How do crowded lines show rough leaves or a thatched roof? What other textures can you find?",
+      "space": "How does the artist show that some things are close and some are far?",
+      "light": "Where is the print lightest and where is it darkest? What does that do to the picture?",
+      "meaning": "Who could be using the boat on the canal, and why? Make up a reason.",
+      "culture": "This print shows a place near the village of Ouderkerk. What does it tell you about life near water in the Netherlands?",
+      "technique": "Rembrandt drew with a sharp tool on a metal plate and then printed it. Why might a printmaker be able to make many copies?",
+      "personal": "Would you like to live in a cottage like this? Say why or why not.",
+      "critical": "Does a picture with no color feel less real or more real to you? Explain."
+    },
+    "g35": {
+      "daily": "Rembrandt used only lines to show a cottage, trees, a canal and a boat. Which part do you think was hardest to draw, and why?",
+      "emotion": "What mood does this quiet scene have? Which details, like empty space or heavy shadow, help create it?",
+      "observation": "Look carefully from front to back. What details can you find in the cottage, trees, water and boat?",
+      "analysis": "How has Rembrandt arranged the cottage, trees and canal so that your eyes move across the print?",
+      "line": "How does the artist change the lines to make different things, like leaves, water and roof? Give two examples.",
+      "shape": "How do the shapes of the cottage and trees balance each other?",
+      "color": "The print uses only dark ink on paper. How does the artist show light, shade and distance without color?",
+      "texture": "Hatching means lots of short parallel lines. Where do you think Rembrandt used it to make a texture or a shadow?",
+      "space": "How does the artist use bigger lines and lighter lines to push things forward or back?",
+      "light": "Where does the paper stay white, and what do those white areas stand for?",
+      "meaning": "Why might an artist famous for portraits spend time on a small, plain country scene?",
+      "culture": "Canals were part of daily life in the Netherlands. What clues here show how people used the land and water?",
+      "technique": "Etching means scratching lines through a coating on a metal plate. How could that method let Rembrandt draw something this detailed?",
+      "personal": "Think of a place you could draw using only lines. What would you show first?",
+      "critical": "Is this print a record of a real place or an artist's idea? What clues help you decide?"
+    },
+    "g68": {
+      "daily": "How does Rembrandt turn a humble cottage by a canal into a worthwhile subject using only line and empty paper?",
+      "emotion": "What mood does the quiet countryside suggest, and how do light and dark areas shape it?",
+      "observation": "List the cottage, trees, canal and boat details you can find. Which small marks surprised you?",
+      "analysis": "How does the composition lead your eye through the scene? What role does the canal play?",
+      "line": "How does Rembrandt vary line weight and direction to make different surfaces, such as leaves, water and roof?",
+      "shape": "How do the massed shapes of trees and the angular form of the cottage balance each other?",
+      "color": "With no color, what does the print use instead to create contrast and focus?",
+      "texture": "How does hatching and cross-hatching suggest texture in foliage, thatch and water?",
+      "space": "How does the contrast between detailed foreground and lightly drawn distance create depth?",
+      "light": "How does the artist leave paper blank to represent light, and where does that matter most?",
+      "meaning": "Landscape prints like this might record a place, express a mood, or both. What evidence supports each possibility?",
+      "culture": "Why might a printmaker in Amsterdam choose to portray the nearby countryside, and who might have bought such prints?",
+      "technique": "How does the process of etching and drypoint affect the quality of the lines? What differences might you expect from pen drawing?",
+      "personal": "How would you capture a favorite outdoor place using only line? What would you include or leave out?",
+      "critical": "Since many impressions could be printed from one plate, how might that affect the way we think about an original work of art?"
+    },
+    "g910": {
+      "daily": "How does Rembrandt achieve atmosphere and variety in this scene using only line and the blank sheet?",
+      "emotion": "How do the density of line in some areas and its absence in others create tension or calm?",
+      "observation": "Describe the print's visual hierarchy. What attracts the eye first, and how does the line work keep it moving?",
+      "analysis": "Analyze how the arrangement of cottage, trees and water creates balance and depth.",
+      "line": "How does Rembrandt's range of line, from sketchy to dense, build form and suggest different materials?",
+      "shape": "How do the soft, irregular forms of trees contrast with the man-made structure, and what does that contrast emphasize?",
+      "color": "In a print where tone replaces color, how does the artist build a full range of values?",
+      "texture": "How do hatched and drypoint marks differ, and what effects does each give to the surface?",
+      "space": "How does the print negotiate between flat paper and illusion of deep space?",
+      "light": "How does the sheet's untouched white act as light, and how does Rembrandt exploit contrast to create mood?",
+      "meaning": "What might the choice to portray a modest rural spot say about what Rembrandt valued as a subject?",
+      "culture": "How did printmaking help spread images of the Dutch landscape to a wider audience in the 1600s?",
+      "technique": "How does combining etching with drypoint expand the range of lines available to a printmaker?",
+      "personal": "How does working only in line change the way you look at a place?",
+      "critical": "Does the economy of means in this print make it more or less successful as a representation of place?"
+    },
+    "g1112": {
+      "daily": "How does this print make a case for the value of an unremarkable place, and how does its technique carry that argument?",
+      "emotion": "How does the contrast between worked and untouched areas of the sheet convey feeling without narrative?",
+      "observation": "Describe the formal structure and the range of marks in the print before interpreting. Which marks resist easy description?",
+      "analysis": "How does the print integrate observed detail with composed design, and where does that tension show?",
+      "line": "How does variation in mark-making carry description, rhythm and expression, and when does line become more than description?",
+      "shape": "How does the interplay of organic and built forms structure the print's visual logic?",
+      "color": "How does a monochrome medium transform perception of a scene and shift interpretive emphasis toward tone and structure?",
+      "texture": "How can marks on a flat plate conjure tactile qualities, and what does this imply about printmaking as illusion?",
+      "space": "How does the print create depth through gradations of detail, and what are the effects of leaving the far distance lightly described?",
+      "light": "How does reliance on blank paper as light shape the print's character, and how might different impressions alter it?",
+      "meaning": "How should interpreters balance topographical identification of a site with the print's artistic purposes?",
+      "culture": "What do landscape prints suggest about local identity and the circulation of images in 17th-century Amsterdam?",
+      "technique": "How do etching and drypoint differ in material behavior, and what does their combination suggest about the artist's methods?",
+      "personal": "What does your response to a modest subject reveal about the values you bring to looking at art?",
+      "critical": "Given that impressions of the same plate vary, what questions should we ask about authenticity and condition when studying a print?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Houses, Canals, Trees, Boats) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A landscape etching and drypoint by Rembrandt, made around 1641 and showing a view near Ouderkerk. Prints can exist in many impressions, so individual sheets differ in tone and wear.",
+    "vocabulary": [
+      "etching",
+      "drypoint",
+      "hatching",
+      "impression",
+      "line weight",
+      "landscape"
+    ],
+    "directions": [
+      "Have students draw a small outdoor scene with only dots and lines, then talk about how they showed light and dark.",
+      "Try a simple print: scratch a design into foam and press it onto paper.",
+      "Compare this print with a color landscape painting from the same century."
+    ]
+  }
+}

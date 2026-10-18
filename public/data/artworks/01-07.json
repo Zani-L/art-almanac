@@ -1,0 +1,159 @@
+{
+  "id": "met-44623",
+  "day": "01-07",
+  "title": "Snow on the Sumida River",
+  "artist": "Utagawa Hiroshige",
+  "date": "ca. 1835",
+  "medium": "Woodblock print; ink and color on paper",
+  "movement": "Ukiyo-e",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP122167.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP122167.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall, narrow print of a snowy riverside scene in Japan. Small figures, bare trees and a river sit under a hushed, snow-covered landscape.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/44623",
+    "objectId": "44623",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A woodblock print by Utagawa Hiroshige, made in Edo-period Japan around 1835. It shows a winter scene along the Sumida River, with figures, trees and snow. Hiroshige is famous for landscape prints that capture weather and the seasons.",
+  "descriptions": {
+    "k": "It is snowing by a river. Tiny people walk past tall, bare trees. Everything looks quiet and cold. This picture is long and skinny, like a doorway. What sounds do you think you would hear here?",
+    "g12": "Utagawa Hiroshige made this picture in Japan long ago. Snow covers the land beside the Sumida River. Small people and bare trees stand in the cold. The print is tall and narrow, like a long strip. How does the snow make this place feel? Would you want to walk here?",
+    "g35": "Hiroshige was a Japanese artist who loved to show weather and seasons. This woodblock print shows winter beside the Sumida River, with small figures, trees, and a blanket of snow. Artists drew the design, carvers cut wooden blocks, and printers pressed color onto paper. Notice the tall, narrow shape. What details tell you it is cold, and what makes the scene feel peaceful?",
+    "g68": "Around 1835, Hiroshige made this vertical print of a snowy riverside. The tall, narrow format pushes your eye up and down, so trees, river, and people all become part of a stacked composition. Prints like this were made by a team: designer, carver, and printer. Snow can be suggested by leaving paper bare or using soft color. Which choices make the scene feel calm, and how might Edo city dwellers have felt seeing it?",
+    "g910": "Hiroshige, a leading ukiyo-e landscape artist, uses the tall hanging-scroll-like format here to organize a winter scene into stacked zones that lead the eye up the page. Small human figures, trees, and snow create scale and mood rather than drama. The print depends on restraint, with large quiet areas and few precise details. Consider how the limits of woodblock printing, with flat color and carved lines, shape the way he conveys cold, silence, and time of day.",
+    "g1112": "Snow on the Sumida River shows how Hiroshige turned a familiar Edo-area setting into an atmospheric, seasonal image. Ukiyo-e prints were commercial products made through collaboration, yet this one feels personal and contemplative. Its tall format, small figures, and open spaces invite readings about human scale, weather, and quiet. Scholars note the later influence of such compositions on European artists, but any single interpretation of mood or meaning should stay tentative. How do the print's formal restraint and its commercial origins fit together?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the little people by the snowy river are doing?",
+      "emotion": "Does this snowy place feel cozy, cold, or quiet to you? What do you see that tells you?",
+      "observation": "What can you find in this picture? Point to the trees, the river, and the people.",
+      "analysis": "Look at the tall snowy picture. Where do your eyes go first, and where do they go next?",
+      "line": "The picture is tall and thin. Trace a line with your finger from the top to the bottom.",
+      "shape": "What shapes do the trees make? Are they tall, thin, or round?",
+      "color": "What colors do you see? Which ones feel cold?",
+      "texture": "How do you think the snow would feel if you touched it?",
+      "space": "Which things are close to you and which are far away?",
+      "light": "Is it bright day or dim evening here? What tells you?",
+      "meaning": "What story could you tell about these people and their snowy walk?",
+      "culture": "This was made in Japan long ago. What looks the same as your winter, and what looks different?",
+      "technique": "This print was made by pressing carved wood onto paper. Why do you think artists chose to print many copies?",
+      "personal": "What do you like to do on a snowy day? Tell about it.",
+      "critical": "What clues show that the people are small and the land is big?"
+    },
+    "g12": {
+      "daily": "What do you think is happening beside the river in this snowy scene? Use clues you see.",
+      "emotion": "What feeling does this winter place give you? Which parts help you feel that way?",
+      "observation": "Name five things you see in this tall print, from the sky to the ground.",
+      "analysis": "How does the artist lead your eyes from the top of the print to the bottom?",
+      "line": "Find the lines of the trees and the river. Which are straight, and which curve?",
+      "shape": "The print is tall and narrow. How does that shape change the way you look?",
+      "color": "Which colors are soft and which are strong? How do they make the snow feel?",
+      "texture": "How does the artist show that snow is soft? What would you feel if you stepped in it?",
+      "space": "How can you tell the people are small and the land is big?",
+      "light": "Is the light bright or soft in this picture? How can you tell?",
+      "meaning": "What do you think the people are thinking as they walk in the snow?",
+      "culture": "This print was made in Japan almost 200 years ago. What does it tell you about how people lived by a river?",
+      "technique": "Artists cut shapes into wood, added ink, and pressed paper on top. Which parts look cut and flat?",
+      "personal": "Tell about a quiet winter day you remember. How is it like this print?",
+      "critical": "If you could add one thing to this scene, what would it be and why?"
+    },
+    "g35": {
+      "daily": "What moment do you think Hiroshige chose to show, and what details support your idea?",
+      "emotion": "How would you describe the mood of this snowy scene? Which choices by the artist create it?",
+      "observation": "Look silently for one minute. What small details do you notice that you missed at first?",
+      "analysis": "How does the tall, narrow shape change how the artist arranges the trees, river, and people?",
+      "line": "Compare the lines of the trees with the lines of the riverbank. How are they alike or different?",
+      "shape": "Which shapes are large and which are small? How do they help show distance?",
+      "color": "How do the colors, and the places left light, help you feel the cold?",
+      "texture": "The print is flat, but snow looks soft. How might the artist suggest that feeling?",
+      "space": "How does the artist show that the river and land stretch back into the distance?",
+      "light": "What time of day might this be? Use evidence from the colors to explain.",
+      "meaning": "What might the artist want us to notice about people and nature in winter?",
+      "culture": "Hiroshige lived in Edo, now Tokyo. What does this print suggest about the places people liked to see?",
+      "technique": "A designer, a carver, and a printer worked together on prints like this. Why might teamwork matter for a detailed picture?",
+      "personal": "Think of a time you were outside in quiet weather. How does this print match or differ from that memory?",
+      "critical": "Why might an artist choose a quiet winter scene instead of a busy, exciting one?"
+    },
+    "g68": {
+      "daily": "How does Hiroshige make a simple snowy riverside feel worth looking at slowly?",
+      "emotion": "Which design choices create the print's quiet mood? Explain how each one works.",
+      "observation": "List what you see from top to bottom. Which details seem most carefully placed?",
+      "analysis": "How does the vertical format affect the composition? What would change in a wide, horizontal version?",
+      "line": "How do the carved outlines of trees and banks guide your eye? Where does the line become less important?",
+      "shape": "How do the small shapes of people compare with the shapes of trees and land, and what effect does that have?",
+      "color": "How do limited colors and light areas communicate cold and calm?",
+      "texture": "Woodblock color is flat. How does the artist still suggest soft snow, rough bark, or flowing water?",
+      "space": "How do overlapping, size, and placement create depth in a narrow print?",
+      "light": "Is the light source clear? How does the artist communicate weather and time without strong shadows?",
+      "meaning": "What might this winter scene suggest about the relationship between people and the natural world? Offer more than one idea.",
+      "culture": "Why might city dwellers in Edo have wanted prints of seasonal places along a river?",
+      "technique": "How does making a print from carved blocks limit or help the artist's choices, compared with painting?",
+      "personal": "What kind of place feels calm to you, and how could an artist show it with only a few elements?",
+      "critical": "Different viewers might read this scene as peaceful or lonely. What evidence supports each view?"
+    },
+    "g910": {
+      "daily": "How do format, scale, and restraint combine to shape the feeling of this winter scene?",
+      "emotion": "How does Hiroshige evoke emotion through atmosphere and empty space rather than action?",
+      "observation": "Describe the visual hierarchy. What is noticed first, and which devices lead the eye through the print?",
+      "analysis": "Analyze how the tall format divides the scene into layers and how those layers relate.",
+      "line": "How does the balance between precise carved line and areas of open color support the print's mood?",
+      "shape": "How do the repeated verticals of trees interact with the flatter forms of river and land?",
+      "color": "How does a limited palette, including untouched or pale areas, communicate cold and silence?",
+      "texture": "How do printmaking techniques simulate snow, wood, and water without realistic modeling?",
+      "space": "How does Hiroshige create depth and scale with flat color areas, overlap, and the placement of figures?",
+      "light": "How does the print imply light and weather without cast shadows?",
+      "meaning": "How might the small figures within a large landscape be read, and where does interpretation become uncertain?",
+      "culture": "How does this print reflect the Edo-period appetite for images of famous places and seasons?",
+      "technique": "How does the division of labor among designer, carver, and printer affect how we credit authorship?",
+      "personal": "How does the print's treatment of stillness connect with your own experience of quiet environments?",
+      "critical": "Mass-produced prints were once everyday goods. How does that change the way we judge them as art today?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the print's visual evidence about its mood, and what remains open to interpretation?",
+      "emotion": "How does the print's emotional restraint complicate any attempt to name one feeling? What does that ambiguity offer?",
+      "observation": "Describe the print's construction precisely. Where does careful description begin to shade into interpretation?",
+      "analysis": "Analyze how the vertical format, scale of figures, and open areas produce both intimacy and distance.",
+      "line": "How does the relation between contour and colored area define the print's approach to form compared with Western tonal modeling?",
+      "shape": "How do the interplay of verticals and horizontals and the small figural forms generate tension and calm?",
+      "color": "How do the print's restrained color and the visible paper contribute to atmosphere, and how might age have altered what we see?",
+      "texture": "How does a flat, reproducible medium evoke tactile sensations such as cold, softness, and wetness?",
+      "space": "How does the print's compression of space differ from linear perspective, and what does it do for the viewer's position?",
+      "light": "In what ways is light implied through color relationships rather than cast shadow?",
+      "meaning": "Evaluate competing readings of the print, such as a record of place, a seasonal poem, or a reflection on human scale. Which is best supported?",
+      "culture": "How does the print situate itself in Edo urban culture, the market for ukiyo-e, and later European responses to Japanese prints?",
+      "technique": "What does the print's collaborative production suggest about authorship, repetition, and value in the history of printmaking?",
+      "personal": "How does your own climate and experience shape your reading of a snowy scene? Where might that limit your interpretation?",
+      "critical": "How should we weigh an artist's later fame against what this single print shows on its own?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Prints), medium, and tags (Human Figures, Rivers, Trees, Snow) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A vertical woodblock print by Hiroshige, ca. 1835, from the Edo period. Prints like this were made in multiples by a team and sold to a broad public.",
+    "vocabulary": [
+      "ukiyo-e",
+      "woodblock print",
+      "Edo period",
+      "format",
+      "composition",
+      "impression"
+    ],
+    "directions": [
+      "Have students fold a sheet into a tall strip and sketch a scene to see how a narrow format changes composition.",
+      "Ask pairs to describe the print using only evidence they can see, then compare their ideas about mood.",
+      "Compare with the Great Wave print in the archive: how do the two artists use scale and weather differently?"
+    ]
+  }
+}

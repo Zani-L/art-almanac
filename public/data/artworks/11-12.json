@@ -1,0 +1,159 @@
+{
+  "id": "met-437703",
+  "day": "11-12",
+  "title": "A Kitchen",
+  "artist": "Hendrick Sorgh",
+  "date": "ca. 1643",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145945.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145945.jpg",
+    "credit": "The Metropolitan Museum of Art, Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A kitchen interior with a woman, food including fish, and a cat, painted in warm, detailed colors.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437703",
+    "objectId": "437703",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Hendrick Sorgh was a Dutch painter who made scenes of kitchens, markets and everyday work. Kitchen pictures were popular in the Netherlands and Flanders in the 1600s. This one is small, painted on wood around 1643.",
+  "descriptions": {
+    "k": "This is a busy kitchen. A woman is working with food. There is fish, and there is a cat. What do you think she is cooking? What do you think the cat wants?",
+    "g12": "A woman works in a kitchen full of food. There is fish nearby, and a cat is close. Hendrick Sorgh painted the many small things in the room with care. What would the kitchen smell like? What is the cat thinking?",
+    "g35": "Hendrick Sorgh painted this kitchen scene around 1643. A woman is busy with food, there are fish, and a cat is in the room. Artists in the Netherlands liked to paint everyday places and the things in them. Look closely at the objects, the food and the woman's work. What story could this kitchen tell about a day in the household?",
+    "g68": "In A Kitchen (about 1643), Sorgh fills a small panel with food, tools and household activity. A woman works at her tasks while fish and a cat add lively details. Dutch and Flemish kitchen scenes could celebrate abundance and daily labor, and some also include moral hints, though scholars disagree about how much. How does Sorgh arrange so many objects, and what do they suggest about the household and the people who worked in it?",
+    "g910": "Sorgh's A Kitchen turns a working space into a rich still life with a figure. Food, including fish, and a cat compete for attention with the woman at her work. Kitchen scenes of the 1600s could display abundance, skill in painting varied textures, and ideas about housekeeping, though how far a given painting carries a moral message is debated. How does the crowding of objects direct your eye, and what does the picture say about work and plenty?",
+    "g1112": "Painted around 1643, A Kitchen belongs to a Dutch and Flemish tradition that combined genre and still life. The woman, the fish, the cat and the household goods are arranged to show the painter's skill with textures as well as the rhythms of domestic work. Scholars debate whether such scenes mainly celebrate abundance, offer moral lessons about housekeeping, or simply delight in description. The woman who works here is likely a servant, as the Met's subject tags suggest. How do the details support or complicate each reading?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the woman is making in this kitchen? Tell your idea.",
+      "emotion": "Does the kitchen feel busy or quiet? What shows you?",
+      "observation": "Can you find the woman, the fish and the cat? Point to each one.",
+      "analysis": "What do your eyes see first in this kitchen? What do they see next?",
+      "line": "Trace the line of the woman's arm with your finger. What is she reaching for?",
+      "shape": "What round shapes can you find, like bowls or pots?",
+      "color": "Which warm colors do you see in the kitchen?",
+      "texture": "How would the fish feel? How would the pot feel?",
+      "space": "Is this kitchen crowded or roomy? How can you tell?",
+      "light": "Where is the brightest spot in the kitchen? What is shining there?",
+      "meaning": "What do you think the cat wants to do?",
+      "culture": "Long ago, many Dutch families cooked at home. What foods does your family cook?",
+      "technique": "The painter painted tiny details. What small thing would you paint in a kitchen?",
+      "personal": "What is your favorite thing to smell in a kitchen?",
+      "critical": "Why do you think the painter put a cat in the picture?"
+    },
+    "g12": {
+      "daily": "What small things in the kitchen tell you about the woman's work? Point to two clues.",
+      "emotion": "What feeling do the warm colors give you about this kitchen?",
+      "observation": "Describe five things you see in the kitchen, from the front to the back.",
+      "analysis": "How does the painter arrange the woman, the food and the cat so you look around the room?",
+      "line": "Find curved lines and straight lines in the objects. Which are more common?",
+      "shape": "Look for round and long shapes among the dishes, pots and food. How do they fit together?",
+      "color": "Which colors repeat in the picture? How does that make the kitchen feel connected?",
+      "texture": "How does the painter make fish, metal and cloth look different from each other?",
+      "space": "How does the painter show that this is a room with a front and a back?",
+      "light": "Where does light come into the room? What does it light up?",
+      "meaning": "What might the cat do next? Make up a short story.",
+      "culture": "What can you learn about cooking long ago from the objects in this painting?",
+      "technique": "The painter used a small wooden panel. How might that help with tiny details?",
+      "personal": "Which object would you pick up first in this kitchen? Why?",
+      "critical": "Is this kitchen neat or messy? What clues tell you?"
+    },
+    "g35": {
+      "daily": "Sorgh packed this kitchen with objects. Pick three and tell what each one adds to the story of the household.",
+      "emotion": "What mood does the kitchen have? Point to details that set it.",
+      "observation": "Look slowly across the painting. What food, tools and animals can you find?",
+      "analysis": "How does Sorgh arrange the many objects so the picture is busy but not confusing?",
+      "line": "How do the edges of tables, shelves and the woman's arm lead your eyes through the kitchen?",
+      "shape": "How do round shapes, like dishes and pots, balance the longer shapes in the room?",
+      "color": "How do warm colors make the kitchen feel lived-in?",
+      "texture": "How does the painter show the shine of metal, the softness of cloth and the fish?",
+      "space": "How do overlapping objects show what is near and what is far in the room?",
+      "light": "Where is the light brightest, and what does it help you notice?",
+      "meaning": "What do the objects tell you about what this household eats and how it works?",
+      "culture": "Why might Dutch buyers have liked paintings of kitchens and food?",
+      "technique": "Painting many different materials takes skill. Which one do you think was the hardest, and why?",
+      "personal": "Think about a kitchen you know well. How is it like or unlike this one?",
+      "critical": "Is this kitchen a record of real life or a staged scene? What evidence do you have?"
+    },
+    "g68": {
+      "daily": "How does Sorgh use food, tools and a cat to turn a working space into a story?",
+      "emotion": "What mood does the arrangement create, and who seems at ease?",
+      "observation": "List the objects and activities you can find. Which did you overlook at first?",
+      "analysis": "How does the composition balance the woman with the surrounding objects?",
+      "line": "How do the lines of furniture and the figure's posture structure the picture?",
+      "shape": "How do repeated rounded forms create rhythm across the panel?",
+      "color": "How does warm color unify the scene, and where do accents stand out?",
+      "texture": "Which materials are rendered most convincingly, and what techniques help?",
+      "space": "How does the arrangement of the room draw the viewer inward?",
+      "light": "How does light reveal form and direct attention among the many objects?",
+      "meaning": "Kitchen paintings may celebrate abundance or hint at moral lessons about household order. What evidence supports each reading?",
+      "culture": "What does a kitchen scene suggest about ideas of work and plenty in 17th-century Dutch and Flemish society?",
+      "technique": "How might a painter combine skills of still life and figure painting in one small panel?",
+      "personal": "How do the tasks in this kitchen compare with household tasks in your life?",
+      "critical": "Whose work is shown in this picture, and how might the painter have chosen to present it?"
+    },
+    "g910": {
+      "daily": "How does Sorgh balance the figure of the woman with the abundance of objects around her?",
+      "emotion": "How do warm color and crowded detail combine to give the scene its domestic atmosphere?",
+      "observation": "Describe the visual hierarchy. What competes for attention, and how does the painter manage it?",
+      "analysis": "Analyze how the painter makes a crowded composition legible.",
+      "line": "How do horizontal and diagonal lines of furniture and objects structure the kitchen space?",
+      "shape": "How does repetition of round forms create rhythm, and where is it broken?",
+      "color": "How does a warm palette unify varied materials?",
+      "texture": "How does the painter distinguish metal, ceramic, fish and cloth, and what does that suggest about his priorities?",
+      "space": "How does the shallow, crowded space influence the viewer's sense of intimacy?",
+      "light": "How does light articulate surfaces and prevent the crowded scene from becoming muddled?",
+      "meaning": "How do competing readings of kitchen scenes, as celebration, moral lesson or demonstration of skill, apply here?",
+      "culture": "How do kitchen paintings reflect attitudes about domestic labor and class in the period?",
+      "technique": "How does Sorgh's small format shape the level of finish and the viewer's close attention?",
+      "personal": "How does your experience of shared meals and kitchens shape what you notice here?",
+      "critical": "What might the picture's affectionate detail obscure about the realities of domestic service?"
+    },
+    "g1112": {
+      "daily": "What does the density of this kitchen scene ask of the viewer, and what interpretive risks does it present?",
+      "emotion": "How does the painting produce warmth and busyness, and how reliable is that emotional reading?",
+      "observation": "Describe the arrangement of objects and figure as precisely as possible before interpreting. Where did interpretation begin?",
+      "analysis": "How does the composition integrate still-life description with a human subject?",
+      "line": "How do structural lines of furniture and gesture organize an apparently abundant scene?",
+      "shape": "How does the interplay of rounded vessels and angular furnishings structure the image?",
+      "color": "How does warm tonality unify disparate materials, and what does it suggest about the painter's priorities?",
+      "texture": "How does the painter's skill with diverse surfaces support the painting's claim to truthfulness?",
+      "space": "How does the compressed space position the viewer relative to the work being done?",
+      "light": "How does the handling of light serve both description and mood?",
+      "meaning": "How might historians test whether a kitchen scene is moral, celebratory or descriptive, and what would count as evidence?",
+      "culture": "What can this painting tell us about the connection between food, trade and domestic work in the period, and what are its limits?",
+      "technique": "What does the combination of still life and figure painting suggest about the painter's ambitions and market?",
+      "personal": "How do your own associations with kitchens and food shape your response?",
+      "critical": "How does an appealing picture of domestic labor shape our understanding of that labor, and who is likely to have bought such a picture?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Food, Kitchens, Women, Cats, Fish, Servants, Cooking) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small kitchen scene on wood by Hendrick Sorgh, made around 1643. It combines figure painting and still life, two popular categories in the Dutch Republic.",
+    "vocabulary": [
+      "genre painting",
+      "still life",
+      "interior",
+      "panel",
+      "texture",
+      "composition"
+    ],
+    "directions": [
+      "Have students list every object they can find in two minutes, then compare lists.",
+      "Discuss which household jobs are shown in art and which are usually left out.",
+      "Compare with a photograph of a modern kitchen and note what has changed."
+    ]
+  }
+}

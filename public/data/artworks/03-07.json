@@ -1,0 +1,158 @@
+{
+  "id": "met-505643",
+  "day": "03-07",
+  "title": "Automaton",
+  "artist": "Artist unknown",
+  "date": "ca. 1820",
+  "medium": "Gold, enamel, diamond, ruby",
+  "region": "Switzerland",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DT4890a.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DT4890a.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Murtogh D. Guinness, 1976",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny golden frog with green enamel on its body, shown against a plain background. It is a small jeweled toy-like object only a few centimeters long.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/505643",
+    "objectId": "505643",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, country, length, credit line, classification, tags, public-domain flag, image URLs) and the Met object page description of the frog's materials and movement"
+  },
+  "context": "A tiny Swiss automaton made around 1820 in the form of a frog, about 6.2 cm long. According to the Met, it is made of gold and green enamel set with pearls, with ruby eyes, and a mechanism makes the legs jump and croak.",
+  "descriptions": {
+    "k": "This tiny frog is made of gold and green glass. Its eyes are red jewels. Inside is a secret machine. It makes the frog jump and croak! It is only as long as your finger. Can you see its legs?",
+    "g12": "This little golden frog is a jewel with a secret. Its body is covered in green enamel, and its eyes are red rubies. Inside is a tiny machine that makes the legs jump and a croak sound. It is only about six centimeters long. Why would someone make a jewel that moves?",
+    "g35": "This frog was made in Switzerland around 1820. It is an automaton, a small machine that moves by itself. The frog is made of gold with green enamel, a kind of colored glass fired onto metal, and it has ruby eyes and pearls. The Met says a mechanism makes its legs jump and croak. It is about 6.2 centimeters long. What details make it look like a real frog?",
+    "g68": "Swiss makers around 1820 were famous for tiny mechanisms, and this gold and enamel frog is a good example. It combines jewelry skills, such as enamel, pearls, diamond, and ruby, with clockwork that makes the legs jump and the frog croak. At only 6.2 centimeters long, it is a luxury toy for adults. How do the materials make the frog both lifelike and unreal?",
+    "g910": "This Swiss automaton of about 1820 is an example of how jewelry and mechanics merged into one object. Green enamel gives the frog its skin, pearls and ruby eyes add luxury, and a hidden mechanism lets the legs move and the frog croak. Such objects were meant to surprise and delight. Consider how the maker balances naturalism with preciousness, and what it means to turn an animal into a jewel.",
+    "g1112": "A frog is an unusual subject for a luxury object, which may be part of the pleasure: this Swiss automaton of about 1820 turns a humble animal into gold, enamel, ruby, and pearl, then adds a mechanism that makes it jump and croak. Whether its original owners saw it as a toy, a curiosity, or a display of technical skill is not documented. How does an object that is both lifelike and artificial reflect the period's fascination with mechanism, nature, and wealth?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine this golden frog jumping and croaking. What does it look and sound like?",
+      "emotion": "Does this frog make you feel happy, curious, or surprised? Why?",
+      "observation": "Find the frog's eyes, back, and legs. What else can you find?",
+      "analysis": "What part of the frog do your eyes go to first? What pulls them there?",
+      "line": "Trace the shape of the frog's back with your finger. Where does it curve?",
+      "shape": "What round shapes can you see on the frog's body?",
+      "color": "The frog is green and gold. What other animals or plants have these colors?",
+      "texture": "The frog looks smooth and shiny. How would it feel in your hand?",
+      "space": "The frog is crouching. Which part is closest to you and which is farthest?",
+      "light": "Where do you see sparkles on the frog's body or eyes?",
+      "meaning": "Why would someone make a frog out of gold and jewels?",
+      "culture": "This frog was made in Switzerland about 200 years ago. What toys do you have that move or make a sound?",
+      "technique": "A tiny machine inside makes the legs jump. How do you think a machine so small could work?",
+      "personal": "If you had a toy that jumped and croaked, what would you do with it?",
+      "critical": "Is a tiny jeweled frog a toy, a jewel, or a machine? Tell what you think."
+    },
+    "g12": {
+      "daily": "Describe what happens when this golden frog jumps and croaks. What makes you think it would look special?",
+      "emotion": "How does a tiny frog made of gold and jewels make you feel?",
+      "observation": "List five things you see on the frog, from the legs to the eyes.",
+      "analysis": "How does the maker make this gold object look like a real frog?",
+      "line": "Find the curved line along the frog's back and legs. How does it make the frog seem ready to jump?",
+      "shape": "The frog is made of round shapes. Which ones are biggest and which ones are smallest?",
+      "color": "Green enamel and gold are the main colors. How do they work together to look like a frog?",
+      "texture": "Enamel is smooth and glassy. Which parts of the frog look the smoothest?",
+      "space": "The frog is small, about six centimeters. How can you tell how big it is from the picture?",
+      "light": "The red ruby eyes catch the light. Where else does the frog sparkle?",
+      "meaning": "Frogs often live in ponds and gardens. Why might a maker turn one into a treasure?",
+      "culture": "Switzerland is famous for tiny, precise machines such as watches. How might that help a maker create this frog?",
+      "technique": "A mechanism inside moves the legs. Why is it hard to hide machinery in something so small?",
+      "personal": "What is the smallest object you own that has a secret or a surprise? Tell about it.",
+      "critical": "Would you rather own a plain toy frog or a golden one? Give a reason."
+    },
+    "g35": {
+      "daily": "If you could watch this automaton work, what would you want to see first, and what details of the frog make you curious?",
+      "emotion": "What feelings do you get from an animal that is part jewel and part machine?",
+      "observation": "Take a minute to study the frog. What small details of its eyes, skin, and legs can you find?",
+      "analysis": "How does the maker use color and shape to suggest a living frog?",
+      "line": "How do curved lines in the body and legs make the frog look as if it could move?",
+      "shape": "A frog's body is mostly rounded. How do the shapes of the legs and head fit together?",
+      "color": "Green enamel suggests a frog's skin, and ruby eyes are red. How do these colors stand out against gold?",
+      "texture": "How would the shiny enamel and the metal parts feel different from each other?",
+      "space": "The frog is in a crouching position. How does that pose give it a feeling of energy?",
+      "light": "Gold, enamel, and gems all reflect light differently. Which part of the frog do you think shines the most?",
+      "meaning": "Why might a maker choose a frog for an automaton instead of a flower or a person?",
+      "culture": "The Met says this automaton is Swiss. What do we know about why Swiss makers became famous for tiny machines?",
+      "technique": "The Met says a mechanism makes the frog's legs jump and croak. How might gears and springs work inside something only 6.2 centimeters long?",
+      "personal": "Think of a toy or object you own that does something unexpected. How is it like this frog?",
+      "critical": "Why do you think an object like this was made of precious materials rather than simple metal?"
+    },
+    "g68": {
+      "daily": "How does this tiny frog combine jewelry, sculpture, and engineering?",
+      "emotion": "How can a small animal made from jewels evoke both delight and a little unease?",
+      "observation": "Describe the frog from head to hind legs. Which details look most carefully made?",
+      "analysis": "How do the materials, gold, enamel, ruby, and pearls, divide the frog into parts?",
+      "line": "How does the contour of the crouching body suggest tension before a jump?",
+      "shape": "How do compact, rounded forms keep the frog small and still lifelike?",
+      "color": "How does green enamel against gold create a mix of realism and luxury?",
+      "texture": "How would handling the frog be different from looking at it, given its glassy enamel and its mechanism?",
+      "space": "The frog is only about 6 centimeters long. How does its scale change the way we look at it?",
+      "light": "How do gems and polished metal make the frog sparkle like a living thing?",
+      "meaning": "Why might an owner in the early 1800s want a mechanical animal as a treasure?",
+      "culture": "Swiss makers were known for watchmaking and tiny mechanisms. How might those skills lead to objects like this frog?",
+      "technique": "The record lists gold, enamel, diamond, and ruby. Why might each material be chosen for a specific part?",
+      "personal": "What do you think is the difference between a toy and a collectible? Where does this frog fit?",
+      "critical": "Is a mechanical animal more impressive than a still sculpture? Explain your reasoning."
+    },
+    "g910": {
+      "daily": "How does the frog's combination of lifelike form and precious materials create tension between nature and artifice?",
+      "emotion": "How does a miniature jeweled animal create a mix of charm and strangeness?",
+      "observation": "Describe the hierarchy of details on the frog, such as the eyes, back, and legs. What do you notice first?",
+      "analysis": "How does the object join decorative surface with hidden structure?",
+      "line": "How does the line of the crouched body create the potential for movement?",
+      "shape": "How do compact volumes suggest the frog's anatomy while staying within the limits of jewelry-making?",
+      "color": "How does enamel green, gold, and ruby red create a palette that is both naturalistic and luxurious?",
+      "texture": "What contrasts of glassy enamel, metal, and gems create a layered surface?",
+      "space": "How does the very small scale encourage close, intimate looking and handling?",
+      "light": "How do reflective and translucent materials respond to light differently, and how does that animate the frog?",
+      "meaning": "What cultural associations might frogs have had for an owner in about 1820, and why should we be cautious?",
+      "culture": "How does this object illustrate the Swiss tradition of precision mechanics applied to luxury goods?",
+      "technique": "What does the combination of enameling, gem setting, and a mechanism suggest about collaboration among specialists?",
+      "personal": "How does the knowledge that an object moves and croaks change your response to its still image?",
+      "critical": "Is an automaton like this best considered art, technology, or entertainment? Support your view with evidence."
+    },
+    "g1112": {
+      "daily": "What can be claimed about this frog's purpose and meaning, and what depends on information the museum record does not provide?",
+      "emotion": "How does an object that imitates life through mechanism provoke wonder, and how might that response have changed since 1820?",
+      "observation": "Describe the frog with precision. Where does careful description start to imply an interpretation?",
+      "analysis": "Analyze how the frog balances naturalism, ornament, and mechanism, and what that balance suggests about taste.",
+      "line": "How does the frog's crouched contour communicate energy that the object, when still, withholds?",
+      "shape": "How does the translation of an animal's anatomy into a compact, bejeweled form show the logic of miniaturization?",
+      "color": "How does the color scheme mediate between imitation of nature and display of wealth?",
+      "texture": "How do the surface qualities of enamel, gems, and metal form a hierarchy of values?",
+      "space": "How does a handheld scale shape the relationship between the viewer and a mechanical animal?",
+      "light": "How does the object's dependence on movement and reflections limit what a photograph can document?",
+      "meaning": "How do automata reflect early nineteenth-century ideas about nature, machines, and the human capacity to imitate life?",
+      "culture": "How does the object connect Swiss precision craft with global luxury markets, and where does the record stay silent?",
+      "technique": "What does the Met's description of a mechanism that jumps and croaks tell us about the integration of sound and motion in small automata?",
+      "personal": "How do your own associations with toys, machines, and animals shape your reading of this object?",
+      "critical": "What are the ethical or aesthetic limits of turning living creatures into precious toys, and does this object invite such questions?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Accessory), objectName (Automaton), medium (gold, enamel, diamond, ruby), and tags (Frogs) checked against the museum record and the Met object-page description: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A tiny Swiss automaton frog from about 1820. The Met describes gold and green enamel, pearls, and ruby eyes, with a mechanism that makes the legs jump and the frog croak. The photograph is a still image, so students must imagine the motion.",
+    "vocabulary": [
+      "automaton",
+      "enamel",
+      "mechanism",
+      "miniature",
+      "naturalism",
+      "luxury object"
+    ],
+    "directions": [
+      "Ask students to design a tiny moving animal and sketch how its mechanism might be hidden.",
+      "Discuss the difference between a toy, a jewel, and a scientific instrument.",
+      "Compare this frog with the lion clock in the archive and discuss how makers surprise viewers with movement."
+    ]
+  }
+}

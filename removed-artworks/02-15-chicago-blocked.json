@@ -1,0 +1,158 @@
+{
+  "id": "artic-27992",
+  "day": "02-15",
+  "title": "A Sunday on La Grande Jatte — 1884",
+  "artist": "Georges Seurat",
+  "date": "1884–86, border added 1888–89",
+  "medium": "Oil on canvas",
+  "movement": "Pointillism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A huge, calm painting of people relaxing in a park beside a river. Men, women and children stand, sit and stroll under trees, with a dog, a small monkey and sailboats on the water. The surface is made of tiny dots of color.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/27992",
+    "objectId": "27992",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1859-1891), date, place of origin (France), medium, dimensions (207.5 x 308.1 cm), credit line, style (Pointillism), subject terms (leisure, animals, landscape, dogs, monkeys, sailing, trees, woman with children, flowers, reflections, urban life, men, women, children, water), short description, description, thumbnail alt text, is_public_domain true and image_id read from the record"
+  },
+  "context": "Georges Seurat painted this canvas between 1884 and 1886 and reworked it later, adding a painted border in 1888-89. The Art Institute describes it as Parisians at leisure on the Seine's La Grande Jatte, painted with tiny dabs of color that the eye blends. The museum notes Seurat's aim to make modern life as lasting as a classical Greek frieze.",
+  "descriptions": {
+    "k": "Look at all the people in the park! Some sit, some stand, and some walk. Can you find a dog? Can you find a little monkey? There are boats on the water. The painting is made with tiny dots of color.",
+    "g12": "On a sunny Sunday, people relax in a park by a river. Some sit on the grass, some walk, and some look at the water. Can you find a dog, a monkey, and sailboats? The painter made the picture from tiny dots of color. Step back and imagine blending them.",
+    "g35": "Georges Seurat spent about two years painting this huge picture of people at a park beside the Seine River near Paris. Instead of mixing colors, he put tiny dots of different colors side by side. From far away, your eyes blend them. Why do the people look so still and quiet? Find clues that tell you what the weather is like.",
+    "g68": "Seurat painted Parisians of different ages at leisure on an island in the Seine. He used tiny dabs of color, called Pointillism, based on color theory, so the eye blends them into brighter hues. The figures are stiff and formal, which the museum connects to his aim to make modern life as lasting as a classical Greek frieze. Why might the artist make a relaxed Sunday outing look so carefully ordered?",
+    "g910": "Seurat's monumental canvas depicts leisure along the Seine using Pointillism, in which small dots of contrasting color are meant to blend optically. The figures' rigid profiles and frontal poses suggest a deliberate comparison with classical friezes, as the museum notes. Consider how the painting presents both a sunny holiday and a stillness that some viewers find unsettling. How do technique, scale, and composition shape that tension?",
+    "g1112": "A Sunday on La Grande Jatte is often treated as a manifesto for Neo-Impressionism: optical color theory applied to a modern subject in the monumental scale usually reserved for history painting. The museum notes Seurat's reworking of the canvas and his aim to match the permanence of a Greek frieze. Interpretations vary: some see social observation of urban leisure, others a cool formal experiment. How does the painting's method influence what you think it says about modern life?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find a dog, a monkey, and a boat. Where are they?",
+      "emotion": "Is the park busy and loud, or quiet and calm? What do you see that tells you?",
+      "observation": "Look for a parasol, a hat, and a tree. Point to each one.",
+      "analysis": "Who is standing near the water, and who is sitting on the grass?",
+      "line": "Find a tall, straight line in the picture. What is making it?",
+      "shape": "Look for round shapes, like umbrellas and hats. How many can you find?",
+      "color": "Find two colors that sit side by side. What happens when you look from far away?",
+      "texture": "The painting is made of tiny dots. Imagine touching it. What would it feel like?",
+      "space": "Which people are close to you, and which are far away across the water?",
+      "light": "Find the places in the sun and the places in the shade. Which would you sit in?",
+      "meaning": "Pick one person and tell a story. What do they like to do on a Sunday?",
+      "culture": "People here wear long dresses and tall hats. What do you see that is different from today?",
+      "technique": "The painter used small dots, not big brush strokes. Make tiny dots in the air with your finger.",
+      "personal": "What do you like to do at a park with your family or friends?",
+      "critical": "Everyone is facing different ways. Where would you stand in this picture?"
+    },
+    "g12": {
+      "daily": "Look closely at one small part of the painting. What do you see made out of dots?",
+      "emotion": "How do you feel looking at people relaxing in this park? Point to something that gives you that feeling.",
+      "observation": "List what you see: people, animals, plants, and things on the water.",
+      "analysis": "How did the painter place people, trees, and water so you can see them all?",
+      "line": "Find the slanted lines of the shadows on the grass. Where do they point?",
+      "shape": "Many of the people look like simple, smooth shapes. How does that change how you see them?",
+      "color": "The painter put orange next to blue and red next to green. What happens to the colors when you look from far away?",
+      "texture": "The painting looks like it has a sandy, speckled surface. Where do you notice it most?",
+      "space": "Some people are large and some are small. How does that show who is near and who is far?",
+      "light": "Where are the shadows of the trees on the grass? What time of day could it be?",
+      "meaning": "Why do you think this painter made everyone stand or sit so still? Tell what you think.",
+      "culture": "People went to this park on Sundays to rest in 1884. What do people in your town do on days off?",
+      "technique": "How did the painter use dots of color to make a picture, instead of mixing paints?",
+      "personal": "Which person in the park would you most like to sit next to, and why?",
+      "critical": "Why might the artist have spent two years on one painting? What do you think he wanted it to be like?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel across this huge painting, and what choices by Seurat guide them?",
+      "emotion": "How would you describe the mood of this Sunday afternoon? Which details help you decide?",
+      "observation": "Look for something small you may have missed, like an animal or a plant. What did you find?",
+      "analysis": "How does Seurat arrange people in rows and groups to create order across the canvas?",
+      "line": "How do the long shadows of trees and figures draw diagonal and horizontal lines across the grass?",
+      "shape": "Many figures look like simple, almost stiff shapes. What effect does that have on the scene?",
+      "color": "Seurat placed dots of different colors next to each other. How does that affect the way colors look from a distance?",
+      "texture": "How do the tiny dots make the surface of the painting feel different from a smooth picture?",
+      "space": "How does Seurat use overlapping and size to show the river, the trees, and the people at different distances?",
+      "light": "How do the sunny and shady areas create patterns of light and dark across the park?",
+      "meaning": "Imagine one family in the painting. What might they have done earlier today, and what will they do next?",
+      "culture": "This island in the Seine was a place for city dwellers to relax. What does this tell you about life in Paris in the 1880s?",
+      "technique": "Seurat built this picture dot by dot. What are the advantages and challenges of working this way?",
+      "personal": "Think of a place where you relax outdoors. How would you show it using only tiny dots of color?",
+      "critical": "Some viewers find the figures calm and others find them cold. What details support each opinion?"
+    },
+    "g68": {
+      "daily": "How does Seurat's careful arrangement of figures shape your sense that this is both a leisurely scene and a carefully planned artwork?",
+      "emotion": "How do the stillness of the figures and the soft light work together to create a particular mood?",
+      "observation": "What details tell you who these people might be and how they spend their time? Distinguish what you see from what you assume.",
+      "analysis": "How do repeated vertical figures and long horizontal shadows organize the composition into a stable, balanced whole?",
+      "line": "How do edges, outlines, and the flow of the shoreline create lines that guide the viewer's eye?",
+      "shape": "How does Seurat simplify figures into almost geometric shapes, and what is the effect of this abstraction?",
+      "color": "How does placing contrasting dots next to each other make colors look brighter than if they were mixed on a palette?",
+      "texture": "How does the dotted surface compare with the smooth surfaces of more traditional paintings you have seen?",
+      "space": "How does the painter build depth through overlap, size, and the placement of the river and the far shore?",
+      "light": "How do sharply defined patches of light and shadow structure the park and contribute to the sense of time?",
+      "meaning": "How might the picture say something about social class, leisure, or modern life without telling a story directly?",
+      "culture": "How does Seurat's reference to a classical Greek frieze connect this modern park to older art traditions?",
+      "technique": "Why might Seurat have chosen to apply paint in tiny dots after studying color theory? What does the method add?",
+      "personal": "How does your own experience of crowds or parks influence what you notice here?",
+      "critical": "The museum says Seurat reworked the painting after first finishing it. What might that reveal about his process?"
+    },
+    "g910": {
+      "daily": "How do Seurat's decisions about scale, pose, and viewpoint shape your first interpretation of this park scene?",
+      "emotion": "How does the frozen quality of the figures complicate the mood of relaxation the title suggests?",
+      "observation": "Analyze the visual hierarchy: which groups, shapes, or contrasts lead the eye, and how is balance achieved?",
+      "analysis": "How do the strong horizontals of shadow and shore interact with the verticals of figures and trees?",
+      "line": "How does Seurat use contour and the absence of heavy outline to define figures through color rather than line?",
+      "shape": "How does the reduction of figures to simplified, profile-based forms contribute to the painting's monumentality?",
+      "color": "Explain how juxtaposed complementary dots are meant to function optically, and evaluate how well it works from different viewing distances.",
+      "texture": "In what ways does the dotted surface alter the viewer's experience of paint as material compared to blended brushwork?",
+      "space": "How does the shift in size and clarity between foreground figures and the far bank construct pictorial space?",
+      "light": "How does Seurat's treatment of sunlight, shadow, and reflection on water create a unified atmosphere?",
+      "meaning": "Evaluate how the painting might portray leisure as both a pleasure and a social ritual, supporting your view with details.",
+      "culture": "How does the museum's comparison with a Greek frieze change the way you understand the figures' formality?",
+      "technique": "What does the method of building up the image in dots suggest about Seurat's relationship to science, color theory, and tradition?",
+      "personal": "How does your own sense of public spaces today compare with the social atmosphere you read here?",
+      "critical": "To what extent can this painting be read as social commentary, and what evidence from the image would you need to claim so?"
+    },
+    "g1112": {
+      "daily": "What argument about modern life does the painting seem to make through form rather than narrative? Support it with specific evidence.",
+      "emotion": "How do the immobility of the figures and the radiance of the light produce a mood that resists a single label, such as joyful or cold?",
+      "observation": "Describe the painting precisely, then identify which parts of your account are observation and which are interpretation.",
+      "analysis": "How does the architecture of the composition, with its rhythm of verticals and receding horizontals, create a sense of order that rivals classical art?",
+      "line": "How does the near absence of outline challenge the traditional role of line in defining form?",
+      "shape": "Consider how Seurat's schematic figures function as types rather than individuals, and what is gained or lost by that choice.",
+      "color": "How does optical mixing complicate the relationship between a painted surface, the viewer's eye, and perceived color?",
+      "texture": "How does the mechanical regularity of the dots reframe the idea of the artist's hand compared with Impressionist spontaneity?",
+      "space": "How does the compressed, tiered space of the park both resemble and resist conventional Renaissance perspective?",
+      "light": "Discuss how radiant, steady sunlight and long cool shadows contribute to the picture's sense of suspended time.",
+      "meaning": "Evaluate competing readings of the painting as social observation, ironic critique, or purely formal experiment, and weigh the evidence for each.",
+      "culture": "How does the work position itself in relation to Impressionism and to the tradition of monumental history painting?",
+      "technique": "How does the reworking of the canvas and the later painted border affect our understanding of finish and authorship?",
+      "personal": "How do your own assumptions about leisure and class shape the way you interpret the figures?",
+      "critical": "What kinds of sources beyond the image would help you decide between scientific, social, and aesthetic interpretations?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (leisure, animals, landscape, dogs, monkeys, sailing, trees, woman with children, flowers, reflections, urban life, men, women, children, water), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1884-86 and reworked afterward, with a border added in 1888-89. The Art Institute describes it as Parisians at leisure on the Seine's La Grande Jatte, painted in tiny dots of color according to Seurat's study of color theory.",
+    "vocabulary": [
+      "Pointillism",
+      "optical mixing",
+      "complementary colors",
+      "frieze",
+      "profile",
+      "composition"
+    ],
+    "directions": [
+      "Have students make a small picture from dots of only three or four colors, then view it from across the room to see the colors blend.",
+      "Ask students to count and categorize the activities in the park (sitting, walking, fishing, looking) and describe the overall rhythm.",
+      "Discuss why an artist might spend two years on one painting and how long a modern photo takes by comparison."
+    ]
+  }
+}

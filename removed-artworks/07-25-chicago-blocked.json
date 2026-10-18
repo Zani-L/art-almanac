@@ -1,0 +1,158 @@
+{
+  "id": "artic-25865",
+  "day": "07-25",
+  "title": "The Herring Net",
+  "artist": "Winslow Homer",
+  "date": "1885",
+  "medium": "Oil on canvas",
+  "movement": "American Realism",
+  "region": "Prouts Neck",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "Fishermen in a small boat on a gray-blue sea work with a net heavy with fish, under a hazy sky. The sea fills much of the picture, and the men's work is the focus.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/25865",
+    "objectId": "25865",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (people, work, fishing, boats, water, men, weather, animals, landscapes), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the American artist Winslow Homer, dated 1885. The Art Institute's subject terms list fishing, boats, work, water and men, and give Prouts Neck, on the coast of Maine, as the place. Homer lived and worked at Prouts Neck for much of the later part of his life.",
+  "descriptions": {
+    "k": "Fishermen are working on the sea. They are pulling in a net with fish. The sky is gray and the waves roll. It looks like hard work. How do you think the men feel? What would the sea sound like?",
+    "g12": "Winslow Homer painted fishermen at work on the sea. They pull in a net full of fish from a small boat. The sky and sea are gray and blue. It is a hard job. What do you see that tells you the sea is moving? How do the men look?",
+    "g35": "Winslow Homer painted The Herring Net in 1885 at Prouts Neck, on the coast of Maine. It shows fishermen at work in a small boat on a rolling sea, handling a net of fish. Homer painted real working lives. What do the sea, the sky, and the boat tell you about the day and about how hard the work is?",
+    "g68": "Winslow Homer painted The Herring Net in 1885, living on the Maine coast at Prouts Neck. The scene shows fishermen at work at sea, with boats, water, and weather as the main ingredients. Homer respected hard work and nature's power. How do the sea, the sky, and the boat's size relate to the men, and what might he have wanted viewers to feel about their work?",
+    "g910": "The Herring Net (1885) shows Winslow Homer turning to the labor of fishermen and the force of the sea. The record places it at Prouts Neck, Maine, where Homer made his home and studio. The work's muted atmosphere, rolling water, and focused figures present labor without sentimental drama. How does the composition balance human effort against the scale of the sea, and what does Homer's realism ask of the viewer?",
+    "g1112": "In The Herring Net (1885), Homer depicts working fishermen in a realism that avoids heroic posturing while acknowledging the scale of the sea. Painted at Prouts Neck, Maine, the picture belongs to the later phase of his career, when marine subjects dominated. Critics have read these works as meditations on labor, risk, and nature's indifference. How does the painting support such readings, and where might they overreach the visible evidence?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the men in the boat. What are they doing?",
+      "emotion": "How do you think the men feel? What tells you?",
+      "observation": "Find the net, the boat, and the sea. Which one is biggest?",
+      "analysis": "Where do your eyes go first? Why do you think that happens?",
+      "line": "Find a wavy line in the sea. Can you draw it in the air?",
+      "shape": "The boat is a small shape on a big sea. What does that tell you?",
+      "color": "What colors do you see in the sea and sky? Do they feel warm or cool?",
+      "texture": "Does the water look flat or rolling? Tell us how you know.",
+      "space": "How far away is the horizon? What is near the boat?",
+      "light": "Is the day bright or gray? Show us what tells you.",
+      "meaning": "Why do the men work with a net?",
+      "culture": "People catch fish for food all over the world. Where does your food come from?",
+      "technique": "Homer used oil paint to show water. How might it be different from painting a tree?",
+      "personal": "Would you like to be on a boat like this? Why or why not?",
+      "critical": "If you could ask the fishermen one question, what would it be?"
+    },
+    "g12": {
+      "daily": "Look at how the men use their bodies. What are they doing with their hands?",
+      "emotion": "Does the painting feel peaceful, tiring, or scary? Which part shows it?",
+      "observation": "List five things you see, from near to far.",
+      "analysis": "How does Homer make the boat the main part of the picture even though the sea is big?",
+      "line": "Which lines are long and flat? Which are curved and rolling?",
+      "shape": "How does the small boat shape sit inside the big shape of the sea?",
+      "color": "Which colors in the sea and sky make you think of cold or damp air?",
+      "texture": "How did the painter make the water look wet and moving?",
+      "space": "How does Homer show that the sea goes far into the distance?",
+      "light": "Where does the light seem to come from, and how bright is it?",
+      "meaning": "Why do you think Homer painted people working instead of resting?",
+      "culture": "Fishing is work that people have done for a very long time. How is it important to families?",
+      "technique": "Why might Homer choose to paint the sea in many shades of gray and blue?",
+      "personal": "What jobs do people do in your town? How could you paint one?",
+      "critical": "Is this a picture of the men or of the sea? Explain."
+    },
+    "g35": {
+      "daily": "What details in posture and setting suggest how hard the fishermen work? What do you not know?",
+      "emotion": "How would you describe the mood, and how do color and weather help create it?",
+      "observation": "Look slowly from the horizon to the boat. What small details did you notice last?",
+      "analysis": "How does Homer place the boat and men so the sea seems large around them?",
+      "line": "How do the horizontal lines of the sea and horizon contrast with the shapes of the boat and net?",
+      "shape": "How does the small shape of the boat on the large shape of the sea show scale?",
+      "color": "How do the muted grays, blues, and greens set the mood of the painting?",
+      "texture": "How does Homer's paint handling suggest the movement of the water?",
+      "space": "How does the high horizon and large area of sea affect your sense of depth?",
+      "light": "How does the soft, diffuse light affect the feeling of the weather?",
+      "meaning": "Homer lived on the Maine coast and often painted the sea. Why might he return to that subject?",
+      "culture": "How might fishing communities in the 1880s have appeared to a painter and his viewers?",
+      "technique": "How does painting from direct observation of the sea differ from painting from imagination?",
+      "personal": "How does the painting make you think about people whose work is dangerous or hard?",
+      "critical": "Can a painting honor hard work without making it look glamorous? Use this one to explain."
+    },
+    "g68": {
+      "daily": "What details of the men's posture and surroundings suggest hard work, and what is left unknown?",
+      "emotion": "What mood do the muted colors and gray sky create, and how might a bright sky change it?",
+      "observation": "Describe the scene from the horizon to the boat. What small detail did you notice last?",
+      "analysis": "How does Homer place the boat and the sea so the water feels huge?",
+      "line": "How do the long horizontal lines of the sea contrast with the shape of the boat?",
+      "shape": "How does the small boat on the large sea show scale and risk?",
+      "color": "How do grays, blues, and greens set the mood, and what would warmer colors do?",
+      "texture": "How does Homer suggest moving water with his brushwork?",
+      "space": "How does the large expanse of sea affect your sense of depth?",
+      "light": "How does the soft light affect your feeling about the weather?",
+      "meaning": "Homer returned to the sea in many paintings. What might he have been exploring?",
+      "culture": "How might a fishing community in the 1880s have looked to a painter and his audience?",
+      "technique": "How is painting from watching the sea different from painting from imagination?",
+      "personal": "How does the painting make you think about people whose work is hard or risky?",
+      "critical": "Can a painting honor hard work without making it glamorous? Use this one in your answer."
+    },
+    "g910": {
+      "daily": "How do posture, setting, and weather suggest the effort and risk of the fishermen's work, and what is left to the viewer?",
+      "emotion": "How do muted tones and diffuse light create a mood of gravity, and could the same scene suggest resilience instead?",
+      "observation": "Study the relationship between boat, net, and horizon. What details contribute to your sense of scale?",
+      "analysis": "Analyze how Homer places the figures against the sea to balance human presence and natural force.",
+      "line": "How do the dominant horizontals and the diagonals of the boat structure the composition?",
+      "shape": "How does the contrast between the compact boat and the vast sea relate to the painting's themes?",
+      "color": "Evaluate how a restrained palette of gray, blue, and green supports the painting's realism.",
+      "texture": "What does the handling of paint reveal about Homer's attention to the sea's movement and his approach to finish?",
+      "space": "How does the open expanse of water create depth while also pushing the figures forward?",
+      "light": "How does atmospheric light convey weather, and why might Homer favor it over dramatic effects?",
+      "meaning": "How might Homer's life on the Maine coast shape his depiction of work and nature?",
+      "culture": "How does the painting situate itself in the American tradition of marine painting and in the context of nineteenth-century labor?",
+      "technique": "How does Homer balance observation with composition in a work of realism?",
+      "personal": "How do you assess the line between respect and romanticizing in pictures of hard labor?",
+      "critical": "To what extent does the painting invite an emotional response, and how does it manage to do so without sentimentality?"
+    },
+    "g1112": {
+      "daily": "How does the tension between the figures' absorbed labor and the immensity of the sea inform a reading of the work as celebratory or elegiac?",
+      "emotion": "To what extent do muted tones and diffuse light generate gravity, and how might that response be conditioned by what we know of Homer's later seascapes?",
+      "observation": "Analyze how the relationship of boat, net, and horizon creates a hierarchy of attention that resists heroic spectacle.",
+      "analysis": "How does the compositional interplay of human work and nature's scale establish the painting's central tension?",
+      "line": "How do horizontal, diagonal, and curved elements operate as structural and expressive forces?",
+      "shape": "How does the compactness of the boat against the expanse of water convey vulnerability without narrative drama?",
+      "color": "Evaluate how restraint of palette serves Homer's realism and prefigures the tonal subtlety of his later marine works.",
+      "texture": "What does the facture suggest about the painter's firsthand observation of sea and weather, and how does it differ from European contemporaries?",
+      "space": "How does the high horizon and shallow foreground shape the viewer's position relative to the men?",
+      "light": "How does diffuse light resist picturesque convention and reinforce a sense of unromanticized labor?",
+      "meaning": "How might Homer's choice to live at Prouts Neck shape the authority and focus of his marine subjects?",
+      "culture": "How does the painting participate in debates about American identity, labor, and nature in the late nineteenth century?",
+      "technique": "How does Homer navigate between documentary observation and constructed composition?",
+      "personal": "How do you weigh the aesthetic pleasure of the painting against the realities of dangerous work it depicts?",
+      "critical": "What does the persistence of marine subjects in Homer's career suggest about how repeated motifs deepen interpretation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (people, work, fishing, boats, water, men, weather, animals, landscapes) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1885 by Winslow Homer in oil on canvas, place listed as Prouts Neck, Maine. The museum lists fishing, boats, work, water and men. The record does not detail the figures or the catch, so this entry stays general; image not visually reviewed.",
+    "vocabulary": [
+      "American Realism",
+      "marine painting",
+      "horizon",
+      "scale",
+      "atmosphere",
+      "genre painting"
+    ],
+    "directions": [
+      "Have students paint a seascape using only three shades of gray-blue to explore mood.",
+      "Ask students to discuss how the size of the boat compared to the sea affects the feeling of the painting.",
+      "Connect with local jobs: have students research one kind of work and think about how they would show it in a painting."
+    ]
+  }
+}

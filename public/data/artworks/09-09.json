@@ -1,0 +1,159 @@
+{
+  "id": "cma-146878",
+  "day": "09-09",
+  "title": "Green Parrot",
+  "artist": "Artist unknown",
+  "date": "c. 1820",
+  "medium": "Gum tempera on paper",
+  "movement": "East India Company School",
+  "region": "India",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.285/1972.285_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/1972.285/1972.285_print.jpg",
+    "credit": "The Cleveland Museum of Art, Bequest of Edgar A. Hahn",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A painting of a green parrot with a black beak, shown in precise, vivid detail.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1972.285",
+    "objectId": "146878",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, culture (India, East India Company School), date (c. 1820), technique (gum tempera on paper), type (Painting), department (Indian and Southeast Asian Art), description (made by an Indian artist for a British civil servant in Calcutta; precise, vivid; resembles Tuti of the Tuti-nama; black beak marks female; Lord Derby's parakeet), credit line, accession number 1972.285, CC0 license status and web/print image URLs read from the record",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "An unnamed Indian artist painted this Green Parrot in gum tempera on paper around 1820 for a British civil servant working in Calcutta (now Kolkata), in what is called the East India Company School. The Cleveland Museum of Art notes the bird's precise, vivid rendering, says the black beak marks it as female, and says the parrot, technically a Lord Derby's parakeet, resembles Tuti, the parrot hero of the Mughal Tuti-nama.",
+  "descriptions": {
+    "k": "A green parrot! Can you find its beak? It is black. Can you spot its bright feathers? What do you think the parrot is saying?",
+    "g12": "An Indian artist painted this green parrot long ago. It has a black beak and bright green feathers. The artist painted every feather carefully. A black beak shows the parrot is a female. What do you think she sees?",
+    "g35": "Around 1820, an Indian artist painted this green parrot for a British official in Calcutta. The painting shows the bird in precise, bright detail. Its black beak shows it is female, while a male's beak would be red. Parrots like this appear in Indian stories as wise messengers. Why might someone want a portrait of a bird?",
+    "g68": "This Green Parrot, painted in gum tempera around 1820 by an Indian artist for a British civil servant in Calcutta, shows a Lord Derby's parakeet in precise, vivid detail. The black beak marks the bird as female. The museum notes the parrot recalls Tuti, the wise parrot of Mughal tales. Why might a painting made for a British patron borrow from Indian stories?",
+    "g910": "Painted around 1820 for a British civil servant in Calcutta, Green Parrot belongs to the East India Company School, in which Indian artists documented birds and animals with precise detail. The museum identifies the bird as a female Lord Derby's parakeet and links it to Tuti, the parrot of the Mughal Tuti-nama. How does the painting combine natural observation with older story traditions?",
+    "g1112": "Green Parrot (c. 1820), an East India Company School painting made in gum tempera by an unnamed Indian artist for a British civil servant in Calcutta, renders a Lord Derby's parakeet with precise, vivid detail; the black beak marks her as female. The museum links her to Tuti, the parrot of the Mughal Tuti-nama. How does the painting negotiate between scientific observation and Indo-Persian narrative, and what do we lose when the artist remains unnamed?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many colors can you find on the parrot?",
+      "emotion": "Does the parrot look calm or curious? What shows you?",
+      "observation": "Find the parrot's beak and eye. What color is the beak?",
+      "analysis": "What do you think the parrot might say?",
+      "line": "Trace the curve of the beak in the air. Is it hooked or straight?",
+      "shape": "What shapes make up the parrot's body?",
+      "color": "Which green is your favorite on the feathers?",
+      "texture": "Do the feathers look soft or smooth? Tell us how you know.",
+      "space": "Is the parrot sitting close to you or far away?",
+      "light": "Where do the feathers look brightest?",
+      "meaning": "Why might someone paint a bird instead of taking a photograph?",
+      "culture": "Birds live in many places. What birds have you seen?",
+      "technique": "The artist painted tiny details. How do you think they worked so carefully?",
+      "personal": "If you painted a bird, what colors would you choose?",
+      "critical": "What would you change about this parrot?"
+    },
+    "g12": {
+      "daily": "Which part of the parrot do you notice first?",
+      "emotion": "Does the painting feel gentle or bold? Point to what makes you feel that.",
+      "observation": "List what you see on the parrot, from head to tail.",
+      "analysis": "Why does your eye go to the beak or the eye first?",
+      "line": "Follow the outline of the bird with your finger. What shape does it make?",
+      "shape": "How do the curved beak and long feathers look together?",
+      "color": "How many shades of green can you find, and how do they work together?",
+      "texture": "How did the painter show that feathers are soft and layered?",
+      "space": "How does the painting make the bird look like it is really there?",
+      "light": "Where do you see shiny spots or soft shadows?",
+      "meaning": "Why might the painter paint every feather so carefully?",
+      "culture": "What can a parrot painting tell us about the animals people noticed long ago?",
+      "technique": "The painter used gum tempera on paper. How can you tell it was painted carefully?",
+      "personal": "How would you paint a bird so it looks alive?",
+      "critical": "Is a painting of a bird as special as a painting of a person? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which part of the parrot is painted in the most detail, and why?",
+      "emotion": "What mood does the parrot give, and which details create it?",
+      "observation": "Look closely at the feathers. What differences do you see in color and shape?",
+      "analysis": "How does the artist arrange the bird so it fills the picture?",
+      "line": "How do the curves of the body and beak create lines that guide your eye?",
+      "shape": "How do round and pointed shapes fit together in the bird's body?",
+      "color": "How does the artist use shades of green to make feathers look different?",
+      "texture": "How does the painting suggest the soft, layered feel of feathers?",
+      "space": "How does the painting make the bird look solid and three-dimensional?",
+      "light": "How do highlights and shadows show the bird's form?",
+      "meaning": "Parrots appear in old Indian stories as wise messengers. What might that add to a portrait of a parrot?",
+      "culture": "Why might a British official in Calcutta want a painting of a local bird?",
+      "technique": "What skills did the artist need to paint such tiny details?",
+      "personal": "What animal would you paint with great care, and what would you want people to notice?",
+      "critical": "Some people think nature paintings are only for scientists. How would you respond?"
+    },
+    "g68": {
+      "daily": "Which part of the parrot's feathers or beak do you notice only after looking closely?",
+      "emotion": "What mood does the parrot's pose create?",
+      "observation": "Describe the bird's pose and the space around it. Where is the focal point?",
+      "analysis": "How does the body's outline lead your eye through the picture?",
+      "line": "How do curved and sharp shapes combine in the parrot's form?",
+      "shape": "How does the artist simplify the parrot while still showing individual feathers?",
+      "color": "How do different greens, blues, and yellows give the feathers variety?",
+      "texture": "How does the paint create the impression of soft feathers and a hard beak?",
+      "space": "How does the painting create depth with a single bird?",
+      "light": "How do light and shadow give the bird form?",
+      "meaning": "What might a painting of a parrot mean in a culture where parrots appear in stories?",
+      "culture": "How does a painting made by an Indian artist for a British patron reflect the colonial context of its time?",
+      "technique": "What are the challenges of painting living creatures with such precision?",
+      "personal": "What would you want to know about the unnamed artist?",
+      "critical": "Is this painting more science or more art? Argue one side."
+    },
+    "g910": {
+      "daily": "How does the parrot's calm pose affect your sense of it as a portrait?",
+      "emotion": "What emotional tone does the vivid color create?",
+      "observation": "Study the feathers and beak. What does the close detail suggest about the artist's training?",
+      "analysis": "Analyze how the bird's outline and pose organize the composition.",
+      "line": "How do curves and sharp edges interact in the parrot's form?",
+      "shape": "How does simplification of the bird's shape balance with individual feather detail?",
+      "color": "How does the range of greens and accents create vibrancy and unity?",
+      "texture": "What does the handling of gum tempera reveal about the artist's technical control?",
+      "space": "How does the painting build volume without a detailed background?",
+      "light": "How does the artist use highlights and shadow to give form?",
+      "meaning": "The museum links the parrot to Tuti in Mughal tales. How does the story tradition shape how we see a natural-history portrait?",
+      "culture": "How does the East India Company School reflect the interaction between Indian artistic skills and British patrons?",
+      "technique": "What does the absence of the artist's name suggest about whose labor is credited?",
+      "personal": "What does this painting make you question about the line between documentation and art?",
+      "critical": "How should we discuss an artwork made by an Indian artist for a colonial patron without reducing either side?"
+    },
+    "g1112": {
+      "daily": "How does the parrot's composed pose complicate a purely scientific reading?",
+      "emotion": "Does the vivid color suggest observation or celebration, and how might viewers differ?",
+      "observation": "Examine the feather detail and the female black beak. Do you read the precision as science, craft, or both?",
+      "analysis": "Analyze how the single figure and the surrounding space structure the composition.",
+      "line": "How do curve and point set up a rhythm in the bird's form?",
+      "shape": "How does the balance of simplification and detail relate to traditions of natural-history painting?",
+      "color": "Evaluate how the range of greens and accent colors create luminosity in a water-based medium.",
+      "texture": "What does the handling of gum tempera suggest about the relationship between surface and living creature?",
+      "space": "How does the painting create volume and presence without a setting?",
+      "light": "How might light and shadow convey life beyond mere description?",
+      "meaning": "How does the resemblance to Tuti complicate the idea that the painting is purely documentary?",
+      "culture": "How does the East India Company School reveal collaboration and imbalance between Indian artists and British patrons?",
+      "technique": "What does the anonymity of the artist suggest about how colonial-era art has been catalogued?",
+      "personal": "How does this work challenge the separation of art, science, and story?",
+      "critical": "What criteria would you use to discuss this painting's significance without overlooking its colonial context?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, type and department checked against the Cleveland Museum of Art Open Access record; no concerning terms or imagery in the record fields read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An unnamed Indian artist painted this Green Parrot in gum tempera on paper around 1820 for a British civil servant in Calcutta. The museum notes the black beak marks a female, that the bird is a Lord Derby's parakeet, and that it resembles Tuti, the parrot of the Mughal Tuti-nama.",
+    "vocabulary": [
+      "gum tempera",
+      "natural history",
+      "portrait",
+      "East India Company School",
+      "detail",
+      "patron"
+    ],
+    "directions": [
+      "Have students make a careful, close drawing of a bird (real or from a photograph), focusing on feather details.",
+      "Ask students to compare a painting of an animal made for study with one made for a story and discuss the difference.",
+      "Discuss why many artists in historical collections are unnamed and how we can still learn from their work."
+    ]
+  }
+}

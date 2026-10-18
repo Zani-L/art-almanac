@@ -1,0 +1,158 @@
+{
+  "id": "met-9866",
+  "day": "05-17",
+  "title": "Windsor Armchair",
+  "artist": "Artist unknown (American)",
+  "date": "1760–90",
+  "medium": "Maple, pine",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/154654.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/154654.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mrs. Screven Lorillard, 1952",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wooden Windsor armchair with a tall back made of many slender upright spindles, two arms, a solid seat, and four angled legs.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/9866",
+    "objectId": "9866",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, dimensions, credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An American Windsor armchair dated 1760–90 in the Met record, made of maple and pine. Windsor chairs, first made in England, became very popular in colonial and early America. They are known for slender spindles in the back and legs set into a solid wooden seat.",
+  "descriptions": {
+    "k": "This wooden chair has a tall back made of many thin sticks. It has arms to rest on and four strong legs. People made it in America long ago. Where would you rest your arms?",
+    "g12": "This is a Windsor chair, a style of chair made in America a long time ago. The back is made of many thin wooden sticks called spindles. It has two arms and four legs that tilt outward. Count the spindles. Why might this chair have been comfortable?",
+    "g35": "A Windsor chair is built differently from many other chairs. Thin round spindles make up the back, and the legs are set into a solid wooden seat at an angle. This armchair was made in America between 1760 and 1790 from maple and pine. Look at the arms, the legs, and the spindles. Which parts hold weight, and which parts help you lean back?",
+    "g68": "Windsor chairs, an English design, became hugely popular in America in the 1700s because they were sturdy, comfortable, and could be made by skilled workers using turned parts. This armchair, dated 1760–90 and made of maple and pine, has a back built from rows of slender spindles and legs set at an angle. How does the repetition of spindles create both rhythm and strength? Why might different woods be used for different parts?",
+    "g910": "This Windsor armchair demonstrates how a chair can be assembled from many simple parts into a strong, expressive whole. Slender spindles create a vertical rhythm in the back, while the angled legs and arms give a splayed, stable stance. Record details show maple and pine, suggesting that the maker chose woods for different structural jobs. Consider how a design from England was adopted and adapted in America, and how its repeated elements form both support and decoration.",
+    "g1112": "The Windsor chair is a good example of design that spread widely because it joined efficiency, durability, and comfort. This American armchair of 1760–90, built from maple and pine, shows the form's characteristic spindle back and splayed legs. Its individual parts, each shaped separately and fitted together, make construction legible, almost like a diagram of the chair itself. Ask how such an object balances anonymous craft, regional variation, and the rise of an expanding market for furniture."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you count some of the thin sticks in the back of this chair? How many can you find?",
+      "emotion": "Does this chair look comfy, strong, or stiff? Why do you think so?",
+      "observation": "Find the arms, the seat, and the legs of this chair. Point to each part.",
+      "analysis": "Which part of the chair holds up your back when you sit in it?",
+      "line": "Can you find tall, thin lines in the back of the chair? Trace one in the air.",
+      "shape": "What shape does the seat look like? Is it round, square, or something else?",
+      "color": "What color is the wood in this chair? Is it dark or light?",
+      "texture": "Would this chair feel smooth or rough if you touched it? Why?",
+      "space": "Where are the empty gaps in this chair? Where would the air go through?",
+      "light": "Where does the light shine on this chair? Where does it look shadowy?",
+      "meaning": "Why do you think this chair has arms? When would that be useful?",
+      "culture": "People in America used chairs like this a long time ago. What chair do you like to sit in today?",
+      "technique": "Someone made each thin stick by hand and fit them together. What do you think that took?",
+      "personal": "Where would you put this chair in your house, and what would you do while you sat in it?",
+      "critical": "If you could change one part of this chair, what would it be and why?"
+    },
+    "g12": {
+      "daily": "Look at the back of this chair. What do you notice about how it is built?",
+      "emotion": "What feeling do you get from this sturdy wooden chair? Which parts make you feel that way?",
+      "observation": "Count the thin spindles and name the other parts you can see: arms, seat, legs.",
+      "analysis": "How do the legs, seat, and spindles work together to hold a person up?",
+      "line": "The spindles make many straight lines. How do they make the back of the chair look?",
+      "shape": "Look at how the legs angle out. What shape do they make with the seat?",
+      "color": "The chair is made of wood. What warm or dark tones can you see in it?",
+      "texture": "Which parts of the chair do you think are smooth because hands touched them often?",
+      "space": "The gaps between the spindles let air pass through. How does that make the chair feel light?",
+      "light": "Where would the light make shadows between the spindles?",
+      "meaning": "A chair with arms can feel special. Who might have sat in this chair?",
+      "culture": "Windsor chairs were popular in America in the 1700s. What do chairs tell us about how people lived?",
+      "technique": "Spindles are thin, round pieces of wood. What tools might a maker have needed to shape them?",
+      "personal": "Think about your favorite chair. What do you like about how it holds you?",
+      "critical": "Is a plain chair as important to study as a fancy painting? Share your idea."
+    },
+    "g35": {
+      "daily": "What clues in this chair show that it was built with care by someone skilled?",
+      "emotion": "What mood does this armchair give off, and what design choices create that feeling?",
+      "observation": "Look at the chair for one minute. What details about the spindles, arms, or legs did you not see at first?",
+      "analysis": "How do the spindles, arms, and angled legs share the work of supporting a sitter?",
+      "line": "How do the many straight spindles create a pattern, and how do the curves of the arms and seat edge contrast?",
+      "shape": "How does the shape of the seat and the angle of the legs make the chair look stable?",
+      "color": "How do the tones of the wood affect the feeling of the chair?",
+      "texture": "How might the seat and arms feel different from the thin spindles?",
+      "space": "How do the spaces between the spindles change the way the chair looks and feels?",
+      "light": "How do the spindles probably create patterns of light and shadow when the chair sits in a bright room?",
+      "meaning": "Why might a chair with a high back and arms have been a seat of comfort or importance?",
+      "culture": "Windsor chairs came to America from England and became very popular. Why might a design spread so widely?",
+      "technique": "The Met says this chair uses maple and pine. Why might makers pick different woods for different parts?",
+      "personal": "Think of a chair at home or school that you use a lot. How is it like or unlike this one?",
+      "critical": "Is a chair like this an example of art or only of good craftsmanship? Use details to explain."
+    },
+    "g68": {
+      "daily": "How does repetition turn thin pieces of wood into a strong, handsome chair?",
+      "emotion": "How does the open back and the sturdy stance together affect the chair's personality?",
+      "observation": "Scan from the top of the back to the feet. Which details show the maker's planning?",
+      "analysis": "How do the repeated spindles and the angled legs give the chair both rhythm and strength?",
+      "line": "How do the vertical spindles contrast with the horizontal arms and seat edge? What does that do?",
+      "shape": "How does the splayed stance of the legs affect how stable the chair looks?",
+      "color": "With wood as the only material, how does tone and grain create interest?",
+      "texture": "How do wear and use probably show up on the arms and seat compared with the spindles?",
+      "space": "How does the airy back create a different feeling from a solid wooden panel?",
+      "light": "How might light moving through the spindles create changing shadows?",
+      "meaning": "What might it say about daily life that a comfortable armchair became a common household item?",
+      "culture": "Why might a design from England have become so popular in America in the 1700s?",
+      "technique": "A Windsor chair joins many separate parts into a seat. What problems might a maker face in fitting them tightly?",
+      "personal": "How do you decide whether a chair is comfortable? Which features here might help?",
+      "critical": "Since we do not know who made this chair, how should we think about its makers and their skill?"
+    },
+    "g910": {
+      "daily": "How does the Windsor armchair make structure itself a form of decoration?",
+      "emotion": "How does the open, rhythmic back shape the chair's character, balancing sturdiness and lightness?",
+      "observation": "Describe the visual hierarchy of seat, arms, spindles, and legs. What leads the eye?",
+      "analysis": "Analyze how the splayed legs, solid seat, and spindle back form a stable system of tension and support.",
+      "line": "How does the vertical rhythm of the spindles contrast with the sweeping curve of the arms?",
+      "shape": "How do the geometric parts combine into a recognizable silhouette?",
+      "color": "How does the natural color range of maple and pine, and any finish, affect the chair's presence?",
+      "texture": "How might different woods or surfaces on the seat and spindles have produced distinct textures?",
+      "space": "How do open gaps and solid forms interact to define the chair's visual weight?",
+      "light": "How does the open structure interact with light to create changing patterns on the chair and around it?",
+      "meaning": "How can ordinary objects such as chairs reveal values like comfort, hospitality, and status?",
+      "culture": "How did English furniture traditions evolve in America, and what in this chair might reflect that adaptation?",
+      "technique": "How does assembling a chair from many turned parts reflect workshop efficiency and skill?",
+      "personal": "How does your idea of a comfortable seat compare with the one shown by this chair?",
+      "critical": "How should we weigh anonymous craft against named artists when deciding what belongs in a museum?"
+    },
+    "g1112": {
+      "daily": "How does the chair make legible the logic of its own construction, and what does that suggest about design values of its time?",
+      "emotion": "How might the combination of openness and solidity produce a distinct emotional presence?",
+      "observation": "Describe the chair's structure with precision. At what point does description begin to imply a judgment about quality?",
+      "analysis": "Analyze the relationship among repeated elements, structural forces, and visual rhythm in the chair.",
+      "line": "How does the work's linear system of spindles, rails, and arms organize both appearance and function?",
+      "shape": "How do the form's splayed geometry and curved arm rail balance stability and ease?",
+      "color": "How might age, finish, and the choice of woods shape what viewers see today versus what its makers intended?",
+      "texture": "How might wear and handling over time have altered the surfaces of the chair, and how do we interpret that?",
+      "space": "How does the transparency of the back set it apart from the closed volumes of other seating forms?",
+      "light": "How might the chair's structure have interacted with the lighting of a colonial or early American interior?",
+      "meaning": "How might a widely used domestic object serve as evidence of social and economic change?",
+      "culture": "How does the transfer of the Windsor form from England to America illustrate the movement of craft knowledge?",
+      "technique": "What do the choices of different woods and the assembly of separate turned parts suggest about workshop practice?",
+      "personal": "How do your own habits of sitting and your expectations of comfort shape how you read this chair?",
+      "critical": "What evidence is needed to move from describing an anonymous chair to making claims about who made it and who used it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, culture, medium and department read from the Met record; the record lists no subject tags. An ordinary wooden armchair, so no sensitive content is expected.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Windsor chairs originated in England and became widely made in America in the 1700s. The Met record dates this armchair to 1760–90 and lists maple and pine.",
+    "vocabulary": [
+      "Windsor chair",
+      "spindle",
+      "splayed legs",
+      "turned wood",
+      "joinery",
+      "workshop"
+    ],
+    "directions": [
+      "Have students draw the chair from the front, then count and label the types of parts they find.",
+      "Ask students to test why spreading legs outward helps a chair stay steady, using a stool or a model.",
+      "Discuss why an object made by an unknown maker can still be worth studying."
+    ]
+  }
+}

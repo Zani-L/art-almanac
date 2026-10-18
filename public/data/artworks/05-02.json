@@ -1,0 +1,158 @@
+{
+  "id": "met-341786",
+  "day": "05-02",
+  "title": "Mountain Landscape with Figures and Buildings",
+  "artist": "Thomas Gainsborough",
+  "date": "mid-to-late 1780s",
+  "medium": "Black and white chalk with stumping, on blue-gray paper",
+  "region": "England",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP805670.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP805670.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1907",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A drawing of a mountain landscape in black and white chalk on blue-gray paper, with small figures and buildings set among rocky hills.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/341786",
+    "objectId": "341786",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Buildings, Mountains, Landscapes), classification (Drawings) and image URLs read from the record"
+  },
+  "context": "A drawing by the English artist Thomas Gainsborough from the mid-to-late 1780s, made in black and white chalk with stumping on blue-gray paper. Gainsborough earned his living mostly by portraits but is also known for landscape drawings that mix observation and imagination.",
+  "descriptions": {
+    "k": "This picture is drawn with black and white chalk on gray-blue paper. There are mountains, little buildings, and tiny people. The paper shows through like a sky. Where would you walk in this land?",
+    "g12": "Thomas Gainsborough made this drawing in England. He used black and white chalk on blue-gray paper. The paper becomes the middle gray of the picture, and the white chalk adds light. You can find mountains, buildings, and tiny people. Where do you think the people are going?",
+    "g35": "Thomas Gainsborough, an English artist, drew this mountain landscape with black and white chalk on blue-gray paper. He rubbed some of the chalk to soften it, which is called stumping. Look for tiny figures and buildings among the large hills. How does the gray paper help the white chalk look like light?",
+    "g68": "Gainsborough made this chalk drawing in the mid-to-late 1780s. Though known for portraits, he loved landscape and often invented scenes rather than copying one place. Here dark and light chalk on blue-gray paper build hills, buildings, and small figures, and stumping softens the edges into haze. How does the toned paper do half the work, and what does it say about drawing as a way of thinking?",
+    "g910": "In this late drawing, Gainsborough uses black and white chalk on blue-gray paper to build a mountain landscape through contrasts of light and shadow. Stumping smooths the chalk into soft, atmospheric passages, while small figures and buildings give scale to the large forms. The scene may be partly imagined, which fits his habit of treating landscape as a personal pursuit rather than a commission. How does this loose, tonal approach differ from a precise topographical view?",
+    "g1112": "Gainsborough's late landscape drawings occupy a space between direct observation and invention, and this sheet of the mid-to-late 1780s exemplifies that. By working in black and white chalk on a toned ground, he constructs mass and atmosphere with economy, softening passages by stumping. The small figures and buildings may suggest scale or narrative without fixing either. The sheet invites questions about drawing as private exploration, the status of landscape relative to portraiture, and how much a viewer should read into an apparently unfinished image."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you could walk into this mountain land, which little path would you follow?",
+      "emotion": "Does this place feel quiet or busy? What makes you think so?",
+      "observation": "Find the tiny buildings and people. Which one do you find first?",
+      "analysis": "What is the biggest thing in the picture? What is the smallest?",
+      "line": "Find a line of the hills going up and down. Trace it in the air.",
+      "shape": "Look at the mountain and the buildings. Which shapes are pointy and which are blocky?",
+      "color": "The paper is blue-gray. What colors did the artist use on top?",
+      "texture": "Where does the chalk look soft and smudgy? Where does it look rough?",
+      "space": "Which hills are close and which are far away? How can you tell?",
+      "light": "Where did the artist use white chalk? Why would that look like light?",
+      "meaning": "What story could you make up about the people in this land?",
+      "culture": "This drawing is from England long ago. How is drawing with chalk different from drawing with a pencil?",
+      "technique": "The artist rubbed the chalk with something to make it soft. Where do you see the softness?",
+      "personal": "Where would you like to explore in the mountains? Tell about it.",
+      "critical": "Do you think this is a real place or an imagined one? What makes you think so?"
+    },
+    "g12": {
+      "daily": "Where do you think the tiny people are going, and what path might they take?",
+      "emotion": "What feeling do the huge hills and tiny people give you? Show it in words.",
+      "observation": "List five things you find in the drawing, from the hills to the buildings.",
+      "analysis": "How does the artist show that the mountains are big and the people are small?",
+      "line": "Follow the edge of the highest hill. Is it jagged, smooth, or both? How does that feel?",
+      "shape": "Which shapes make the mountains, and which make the little buildings? Compare them.",
+      "color": "The paper is blue-gray, and the chalk is black and white. How do just a few colors make a whole landscape?",
+      "texture": "Where do you see soft, smudged chalk and where do you see sharp, crisp marks?",
+      "space": "How does the soft, faded chalk help you see mountains far away?",
+      "light": "Where is the white chalk, and how does it look like sunlight or clouds?",
+      "meaning": "Why do you think the artist added tiny people and buildings to the big hills?",
+      "culture": "Gainsborough was English but drew mountains. Why might an artist imagine wild places?",
+      "technique": "The blue-gray paper stays showing through. How does the artist use it as the middle tone?",
+      "personal": "Have you looked at hills or mountains? Describe what you saw and how it felt.",
+      "critical": "Is the drawing finished, or does it look like a quick idea? What shows you?"
+    },
+    "g35": {
+      "daily": "What do you think life is like in this landscape, and which details in the drawing led you to your answer?",
+      "emotion": "What mood does this misty mountain landscape have? Which marks of chalk create it?",
+      "observation": "Look silently for one minute. What small figures, buildings, or rocks do you notice that you missed at first?",
+      "analysis": "How does Gainsborough arrange the large hills, small buildings, and figures to build a balanced picture?",
+      "line": "How do sharp lines and soft, rubbed areas work together in the hills?",
+      "shape": "How do the large, rocky shapes compare with the small, blocky shapes of the buildings?",
+      "color": "The paper is blue-gray. How does it help the white chalk look bright and the black chalk look deep?",
+      "texture": "How does the artist use rubbing to make some areas look hazy and others look rough?",
+      "space": "How do the faded hills in the distance and the darker shapes in front create depth?",
+      "light": "How does white chalk help you imagine sunlight on the mountains?",
+      "meaning": "The tiny people sit among huge hills. What might the artist want you to feel about nature and people?",
+      "culture": "Gainsborough was a famous portrait painter. Why might he draw landscapes for himself?",
+      "technique": "What does stumping, or rubbing chalk smooth, let the artist do that a sharp line cannot?",
+      "personal": "Think of a big place you have been, like a hill or a field. How would you show how big it felt?",
+      "critical": "A drawing can show a place that does not exist. What details make you think Gainsborough invented some of this?"
+    },
+    "g68": {
+      "daily": "How does Gainsborough use only black and white chalk on toned paper to make a whole landscape?",
+      "emotion": "How does the hazy softness of the hills influence the emotional tone of the drawing?",
+      "observation": "Describe the drawing from foreground to far distance. Where is the most detail, and where the least?",
+      "analysis": "How do the figures and buildings give a sense of scale against the mountains?",
+      "line": "How does the artist balance bold, dark lines with softly rubbed passages?",
+      "shape": "How do the heavy shapes of the mountains compare to the delicate shapes of the buildings?",
+      "color": "How does the middle tone of the blue-gray paper unify the drawing and set up contrast?",
+      "texture": "How does stumping create a soft, atmospheric texture, and where does the drawing contrast with it?",
+      "space": "How do overlapping hills and fading tones create a feeling of deep distance?",
+      "light": "How does the placement of white chalk create highlights and a sense of changing weather?",
+      "meaning": "Does the scene feel like a record of a place, an invented landscape, or a mood? Defend your view.",
+      "culture": "Why might eighteenth-century English artists and buyers have been drawn to picturesque mountain scenes?",
+      "technique": "What are the advantages of drawing on toned paper compared with white paper?",
+      "personal": "How would you capture the feeling of a faraway place from memory rather than from life?",
+      "critical": "What difference does it make if a landscape drawing is based on a real place or invented? How would you decide?"
+    },
+    "g910": {
+      "daily": "How does Gainsborough construct atmosphere and scale from a minimal set of materials?",
+      "emotion": "How does the interplay of haze and sharp edges produce a feeling of mystery or calm?",
+      "observation": "Describe the visual hierarchy. What do you notice first, and which marks create that emphasis?",
+      "analysis": "Analyze how large landforms and tiny figures create a dialogue of scale in the composition.",
+      "line": "How does Gainsborough contrast fluid, quick lines with areas of smooth modeling?",
+      "shape": "How do the massing of the mountains and the geometry of the buildings produce structure?",
+      "color": "How does the toned ground function as the middle value that links the chalk marks?",
+      "texture": "How does the tooth of the paper and the stumped chalk generate texture and atmosphere?",
+      "space": "How do tonal gradations and overlapping forms build deep space on a flat sheet?",
+      "light": "How does white chalk work as both a highlight and a way to suggest shifting light and weather?",
+      "meaning": "What might the small human presence in a vast landscape suggest, and where does that interpretation become speculative?",
+      "culture": "How does this drawing reflect the English taste for landscape, including imagined or picturesque scenes?",
+      "technique": "How does working on toned paper with two chalks demonstrate an economy of means?",
+      "personal": "How does your response to wide, quiet landscapes shape your reading of this drawing?",
+      "critical": "Does the apparent looseness of the drawing make it less serious than a finished painting? Argue your view."
+    },
+    "g1112": {
+      "daily": "What can be argued from the drawing's evidence about how Gainsborough thought about landscape, and what remains uncertain?",
+      "emotion": "How does the sheet balance serenity with a latent sense of unease or grandeur in the mountains?",
+      "observation": "Describe the sheet's construction with precision. Where does description begin to shade into interpretation?",
+      "analysis": "Analyze how Gainsborough's compositional economy produces both depth and unity.",
+      "line": "How does the interplay of contour and tonal rubbing define the drawing's approach to form?",
+      "shape": "How do the massed forms and small architecture produce a tension between nature and human presence?",
+      "color": "How does the restricted palette of two chalks and a blue-gray ground challenge assumptions about color in landscape?",
+      "texture": "In what ways does the surface of stumped chalk convey atmosphere as a material quality?",
+      "space": "How does the sheet produce a sense of expansive space with minimal descriptive detail?",
+      "light": "How does light operate here as an invention of the draftsman rather than a record of a specific moment?",
+      "meaning": "Evaluate readings of the drawing as private fantasy, as a picturesque exercise, or as a compositional study. What evidence supports each?",
+      "culture": "How does the status of landscape relative to portraiture in Georgian England illuminate why Gainsborough might have drawn for himself?",
+      "technique": "What does the drawing suggest about the working methods and experimental habits of an artist best known for portraits?",
+      "personal": "How might your own familiarity with real mountains or with images of them shape your sense of this drawing as plausible or invented?",
+      "critical": "What standards of evidence should govern claims about an artist's intention when the work is an apparently private drawing?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Drawings) and tags (Buildings, Mountains, Landscapes) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Thomas Gainsborough was best known for portraits, but he also made many landscape drawings for himself. This sheet uses black and white chalk on blue-gray paper, a technique that lets the paper work as the middle tone.",
+    "vocabulary": [
+      "chalk",
+      "stumping",
+      "toned paper",
+      "value",
+      "atmospheric perspective",
+      "scale"
+    ],
+    "directions": [
+      "Let students try black and white chalk on gray or blue paper and draw a small imagined landscape.",
+      "Ask students to point out where the artist used the paper color as part of the picture.",
+      "Discuss whether it matters if a landscape is real or imagined, using evidence from the drawing."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "artic-6002",
+  "day": "04-11",
+  "title": "The Print Collector",
+  "artist": "Honoré Daumier",
+  "date": "c. 1860",
+  "medium": "Oil on cradled panel",
+  "movement": "Realism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f1dce916-58a3-db57-d5cd-be0994dc98c7/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of the Estate of Marshall Field",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A small painting of a man in a jacket and hat looking closely at prints, painted with loose, energetic strokes and warm earthy colors.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/6002",
+    "objectId": "6002",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1957.305, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting on a small wooden panel made in France around 1860 by Honoré Daumier, who was famous for his drawings and prints. The Art Institute's subject terms list prints, a man, a hat and jackets. Daumier often showed ordinary Parisians absorbed in everyday pleasures.",
+  "descriptions": {
+    "k": "A man is looking very closely at pictures called prints. He wears a hat and a jacket. What do you think he is thinking? Try looking closely at something in the room like he does.",
+    "g12": "Honoré Daumier painted a man looking at prints, which are pictures made by pressing paper on ink. He is so focused that nothing else matters. The paint strokes are loose and quick. What do you think he likes about the pictures?",
+    "g35": "Honoré Daumier painted this small picture in France around 1860. A man in a jacket and hat studies prints, which are pictures made by pressing paper against an inked surface. Daumier was a famous printmaker himself, so he knew how people loved to collect them. What do you think the collector hopes to find?",
+    "g68": "In The Print Collector (c. 1860), Honoré Daumier shows a man absorbed in looking at prints. Daumier was best known for his printed cartoons, so painting someone who treasures prints feels like a quiet comment on his own world. The quick, loose brushwork suggests concentration. How does the painter make a simple act of looking feel meaningful?",
+    "g910": "Daumier, famed for lithographs that appeared in Paris newspapers, painted this small panel of a man absorbed in prints around 1860. The loose, sketch-like handling emphasizes concentration over detail. A collector's attention becomes the subject itself. What does the picture suggest about how people value images, and about the painter's relationship to his own printed art?",
+    "g1112": "Honoré Daumier, known for satirical lithographs, paints a collector absorbed in prints (c. 1860) with economical, expressive brushwork that treats attention itself as a subject. The picture quietly reflects on how images circulate and are prized, from an artist whose own prints were mass-produced. How does the painting dignify an ordinary figure, and what does the self-referential subject imply about the status of prints versus painting?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What is the man doing? Show how you look closely at something.",
+      "emotion": "Does the man seem happy, tired, or curious? What shows it?",
+      "observation": "What is the man wearing? Find his hat and jacket.",
+      "analysis": "What do you think he is looking for in the prints?",
+      "line": "Trace the outline of the man with your finger. Is it mostly curvy or straight?",
+      "shape": "What shapes do you see in the man's hat and jacket?",
+      "color": "Which colors do you see most? Are they bright or earthy?",
+      "texture": "The paint looks quick and rough. Does it feel smooth or bumpy?",
+      "space": "How close is the man to the prints? How do you know?",
+      "light": "Where is it lightest in this picture? Where is it darkest?",
+      "meaning": "Why do some people like to collect pictures?",
+      "culture": "What do you like to collect at home?",
+      "technique": "The artist used oil paint on wood. How might that feel different from paper?",
+      "personal": "What kind of picture would you collect?",
+      "critical": "What question would you ask the man?"
+    },
+    "g12": {
+      "daily": "What is the man holding and looking at?",
+      "emotion": "Does the man seem curious, bored, or very busy? Show us what tells you.",
+      "observation": "Describe the man's hat and jacket.",
+      "analysis": "Why do you think the man is looking so closely at the prints?",
+      "line": "Follow the edge of the man's jacket with your finger. Is it smooth or choppy?",
+      "shape": "Which shapes do you see in the man's hat and in the prints?",
+      "color": "Which colors in the painting are warm and brown? Where do you see them?",
+      "texture": "The paint looks rough and quick. Is that rough or smooth to you?",
+      "space": "Is the man standing near a table or far from one? What clue tells you?",
+      "light": "Where is the painting lightest, and where does it get dark?",
+      "meaning": "Why do you think the painter chose to show someone looking at pictures?",
+      "culture": "What do you like to look at closely at home or at school?",
+      "technique": "The painter used thick, quick brushstrokes. What does that tell you about how he painted?",
+      "personal": "If you could look through a stack of pictures, what would you hope to find?",
+      "critical": "What would you tell the man about the prints?"
+    },
+    "g35": {
+      "daily": "How can you tell this man is thinking hard about what he sees?",
+      "emotion": "What mood does the painting give you: quiet, busy, or excited?",
+      "observation": "Describe the man's clothes and how he is holding himself.",
+      "analysis": "Why do you think the painter chose to show a person looking at prints?",
+      "line": "Follow the outline of his jacket and arms. Where does it lead your eyes?",
+      "shape": "How does the shape of the man's body draw you into the painting?",
+      "color": "Which colors in the painting feel warm and earthy, and which feel dark or cool?",
+      "texture": "How can you see the brushstrokes? What do they tell you about how fast the painter worked?",
+      "space": "How does the painter show where the man is in the room?",
+      "light": "Where does the light seem to come from, and how does it fall on the man?",
+      "meaning": "What might the painter be saying about how people enjoy art?",
+      "culture": "This was painted in Paris long ago. What might people have enjoyed doing then?",
+      "technique": "Daumier was famous for printmaking. Why might he choose to paint someone who collects prints?",
+      "personal": "What is something you look at very closely, and why?",
+      "critical": "Is looking at pictures an activity everyone can enjoy? Give a reason."
+    },
+    "g68": {
+      "daily": "What details tell you about the man's personality and attitude toward what he sees?",
+      "emotion": "What mood does the loose, rough painting style create compared with a smooth, detailed one?",
+      "observation": "Describe how the man's position shows concentration.",
+      "analysis": "How does the painter use the figure and surrounding space to focus attention on the activity of looking?",
+      "line": "How do the lines of the man's body and arms create a sense of focus?",
+      "shape": "How does the overall shape of the figure act as an anchor for the painting?",
+      "color": "How do earthy browns and warm tones shape the atmosphere?",
+      "texture": "What do the visible brushstrokes suggest about the painter's energy and speed?",
+      "space": "How does the small panel size affect the way you look at it?",
+      "light": "How does light and shadow shape the man's face and clothes?",
+      "meaning": "Why might a famous printmaker paint someone who treasures prints?",
+      "culture": "What does this painting suggest about the role of prints in nineteenth-century Paris?",
+      "technique": "How does Daumier's loose approach differ from a very precise, polished painting?",
+      "personal": "How does this painting change the way you think about people who collect things?",
+      "critical": "Does a quick, sketchy painting seem less serious than a polished one? Explain your view."
+    },
+    "g910": {
+      "daily": "How does the painter convey the intensity of attention without showing exactly what the man is looking at?",
+      "emotion": "How does the sketch-like handling establish a mood of absorption rather than display?",
+      "observation": "Examine the man's bearing and gesture. What do they reveal about his character and his relation to the prints?",
+      "analysis": "Analyze how the composition focuses attention on the figure and eliminates anything that might distract from the act of looking.",
+      "line": "How do the diagonals of his stance create a sense of tension and engagement?",
+      "shape": "How does the bulk of the figure's clothing simplify him into a strong, expressive silhouette?",
+      "color": "How does the limited, earthy palette support the unity of the small panel?",
+      "texture": "What does the energetic brushwork communicate about spontaneity and the painter's own visible hand?",
+      "space": "How does the shallow space reinforce intimacy between the viewer and the figure?",
+      "light": "How does dramatic modeling of light and dark lend monumentality to an ordinary subject?",
+      "meaning": "In what ways might a lithographer painting a collector of prints be reflecting on his own career?",
+      "culture": "How does Daumier's treatment of everyday Parisians differ from the idealized subjects favored by official art of his day?",
+      "technique": "How does the painter's technique reflect Realist interests in modern life?",
+      "personal": "What does this painting suggest about who is entitled to enjoy art and how they are shown?",
+      "critical": "Should viewers consider a loosely handled painting finished? Support your answer with evidence from the work."
+    },
+    "g1112": {
+      "daily": "How does Daumier convey the depth of concentration while withholding the object of attention, and what does that omission do for the viewer?",
+      "emotion": "In what ways does the sketch-like facture serve the mood of absorption, and how might a polished finish have altered the meaning?",
+      "observation": "What interpretive possibilities arise from a painter famed for mass-circulated prints depicting someone who values them?",
+      "analysis": "Evaluate how the compositional economy isolates the figure and transforms an everyday act into the central drama of the picture.",
+      "line": "How does the placement of the figure produce a strong axis that organizes the whole panel?",
+      "shape": "How does the simplified, almost sculptural massing of the figure contribute to its expressive presence?",
+      "color": "How does the restrained, warm palette reinforce the picture's sense of intimacy and tonal unity?",
+      "texture": "What does the visible handling suggest about Daumier's position between caricature, drawing, and painting?",
+      "space": "How does the compression of space draw the viewer into a close, almost conspiratorial relation with the subject?",
+      "light": "How does chiaroscuro lend dignity to a modest figure and what social message might that carry?",
+      "meaning": "How might this painting reflect on the circulation and valuation of images in nineteenth-century Paris?",
+      "culture": "How does Daumier's treatment of ordinary city life align with and extend the aims of Realism?",
+      "technique": "How does his technique blur the boundaries among drawing, printmaking, and painting?",
+      "personal": "What does the picture imply about connoisseurship, and does it celebrate or gently satirize the collector?",
+      "critical": "To what extent does the meaning of this work depend on knowing the artist's identity as a printmaker, and what does that say about how context shapes interpretation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (prints, man, hat, jackets) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting on a small wooden panel made in France around 1860 by Honoré Daumier, who was famous for his drawings and prints. The Art Institute's subject terms list prints, a man, a hat and jackets. Daumier often showed ordinary Parisians absorbed in everyday pleasures.",
+    "vocabulary": [
+      "print",
+      "collector",
+      "Realism",
+      "brushwork",
+      "oil on panel",
+      "concentration"
+    ],
+    "directions": [
+      "Have students make a simple print with a stamp or a pressed potato and talk about how copies of one image are made.",
+      "Ask students to sketch a classmate absorbed in a book using quick, loose strokes.",
+      "Discuss why people collect images and what they would collect if they could."
+    ]
+  }
+}

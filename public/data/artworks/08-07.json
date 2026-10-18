@@ -1,0 +1,158 @@
+{
+  "id": "cma-1982.73",
+  "day": "08-07",
+  "title": "Hanging with Christian Images",
+  "artist": "Unknown maker (Egypt)",
+  "date": "500s",
+  "medium": "Dyed wool, undyed linen: plain weave (tabby) with inwoven tapestry weave",
+  "movement": "Byzantine-period Coptic textile",
+  "region": "Egypt",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_web.jpg",
+    "credit": "Cleveland Museum of Art, John L. Severance Fund (1982.73)",
+    "license": "Public domain. Released under the Cleveland Museum of Art Open Access program",
+    "licenseUrl": "https://clevelandart.org/open-access"
+  },
+  "altText": "A woven wall hanging in an upright rectangle. According to the museum, it shows three men standing under an arch, with Christian monograms above them and an ankh flanked by birds beneath the arch. Peacocks appear in the upper section.",
+  "source": {
+    "museum": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1982.73",
+    "objectId": "1982.73",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, culture (Egypt, Byzantine period), date (500s), technique, credit line, description (three men under an arch, Christograms, ankh flanked by birds), did-you-know note (peacocks), measurements, CC0 status and web image URL"
+  },
+  "context": "A woven wall hanging made in Egypt in the 500s, during the Byzantine period, and now in the Cleveland Museum of Art. The museum calls it a rare survivor, possibly made for a church or a home, and notes that it carries Christian symbols.",
+  "descriptions": {
+    "k": "This is a cloth hanging made long ago in Egypt. It was woven from wool and linen thread. Look for the people standing under an arch. Look for the birds. What shapes and pictures can you find woven into the cloth?",
+    "g12": "This cloth wall hanging was woven in Egypt about 1,500 years ago from wool and linen thread. It shows three men standing under an arch, with symbols above them and birds in the picture. Look closely at the woven pictures. What do you see? How do you think the weaver made pictures out of thread?",
+    "g35": "This hanging was woven in Egypt in the 500s from dyed wool and undyed linen, using a tapestry weave that builds pictures out of thread. The museum says it shows three men under an arch with Christian symbols above and birds below the arch. Look closely at the figures and symbols. How does a weaver make a picture out of thread instead of paint?",
+    "g68": "Woven in Egypt during the Byzantine period (500s), this wool and linen hanging is a rare survivor that may have decorated a church or a home. The museum describes three men under an arch, possibly the three Hebrews from the Book of Daniel, with Christograms above and an ankh flanked by birds. How do the arch, figures and symbols work together as a message? Use details as evidence.",
+    "g910": "This hanging from Byzantine-period Egypt (500s) uses inwoven tapestry weave in dyed wool on a linen base. The museum reads its three men under an arch as possibly the three Hebrews of Daniel 3, with Christograms and an ankh flanked by birds adding a message of Christ's life-giving power. How might symbols from different traditions combine here, and what could that show about the community that used it?",
+    "g1112": "This sixth-century Egyptian hanging, a rare survivor in wool and linen, combines figures beneath an arch with Christograms and an ankh flanked by birds, which the museum reads as invoking Christ's redemptive, life-giving power. Peacocks in the upper section link to immortality and resurrection. How does the textile use inherited symbols to build a layered Christian message, and what does its survival tell us about how fragile and valuable such objects were?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the arch in the hanging. What is standing under it?",
+      "emotion": "How does this woven picture make you feel, calm, happy or curious? Point to the part that makes you feel that way.",
+      "observation": "Point to a bird in the hanging. What else is next to it?",
+      "analysis": "Which part of the hanging do you see first? Point to it.",
+      "line": "Find a line in the hanging that curves, like the arch. Trace it with your finger.",
+      "shape": "The arch is a curved shape. What other shapes can you find in the weaving?",
+      "color": "Which colors do you see the most in the weaving? Point to them.",
+      "texture": "This picture is made of thread. How do you think it would feel if you touched it?",
+      "space": "Which people are standing under the arch, and what is above them?",
+      "light": "Imagine the hanging on a wall in a room with a window. Where would the light shine on it?",
+      "meaning": "There are birds and special signs in this hanging. What do you think they might mean?",
+      "culture": "This was made in Egypt a very long time ago. What do you hang on the walls where you live?",
+      "technique": "The weaver used thread instead of paint. How do you think the picture was made from thread?",
+      "personal": "If you could weave a picture to hang in your room, what would you put in it?",
+      "critical": "Why do you think people hung cloth on walls long ago?"
+    },
+    "g12": {
+      "daily": "Look at the figures under the arch. What are they doing, and how can you tell?",
+      "emotion": "What feeling does this hanging give you, and which part helps you feel it?",
+      "observation": "List four things you see in the hanging, such as figures, birds or symbols.",
+      "analysis": "How does the arch help you focus on the figures standing inside it?",
+      "line": "Where do you see curved lines and where do you see straight lines in the weaving?",
+      "shape": "Which shapes repeat in the hanging? How do they make a pattern?",
+      "color": "How do the colors in the threads help the figures and symbols stand out?",
+      "texture": "Weaving makes tiny crossing lines. Why do you think the hanging looks different from a painting?",
+      "space": "What is at the top of the hanging, and what is at the bottom? How do the parts fit together?",
+      "light": "Cloth soaks in light differently than metal or glass. How might this hanging look in a dim room?",
+      "meaning": "The museum says the birds, including peacocks, can stand for ideas. What might a bird stand for?",
+      "culture": "This was made about 1,500 years ago in Egypt. What does it show about what the people there cared about?",
+      "technique": "Wool and linen are different threads. Why might a weaver use both in one picture?",
+      "personal": "What symbols or pictures would you choose to weave into a hanging for your home or school?",
+      "critical": "Why might this cloth have survived so long when so many others did not?"
+    },
+    "g35": {
+      "daily": "What do the figures, the arch and the symbols tell you about what this hanging was used for?",
+      "emotion": "What mood does the hanging create, and which details, such as the arch, the figures or the birds, support your answer?",
+      "observation": "Choose one section of the hanging, such as the top, the middle or the bottom, and describe the pictures and symbols in it.",
+      "analysis": "How does the weaver arrange symbols above and below the arch so that the hanging reads like a story or message?",
+      "line": "How do the curved arch and the upright figures contrast, and why might the weaver have chosen that?",
+      "shape": "How does the weaver make people, birds and symbols from simple shapes built out of thread?",
+      "color": "How do the dyed wool colors stand out against the undyed linen background?",
+      "texture": "How does weaving create a picture differently from painting or drawing, and what does that do to the surface?",
+      "space": "How does the arch create a stage or doorway for the figures, even though the weaving is flat?",
+      "light": "How might daylight or lamplight have changed the way the colors in a hanging like this looked?",
+      "meaning": "The museum says the three men may be the three Hebrews from the Book of Daniel. Why might a community choose a story like that for a hanging?",
+      "culture": "The museum says this may have hung in a church or home. How would the purpose of the room change the way you look at it?",
+      "technique": "Why do you think wool, which takes dye well, was used for the picture, while linen was left undyed?",
+      "personal": "If a hanging in your home told a story about your family, what story would you weave?",
+      "critical": "Why do you think so few textiles like this survive today, and what does that make you think about this one?"
+    },
+    "g68": {
+      "daily": "Which two or three elements in the hanging most clearly carry a religious message, and why?",
+      "emotion": "How do the symmetry and the centered figures create a feeling of order or reverence?",
+      "observation": "Compare the upper section with the area under the arch. What different kinds of images do you notice?",
+      "analysis": "How does the layered layout of symbols, figures and arch guide the viewer from top to bottom?",
+      "line": "How does the repeated curve of the arch help organize the composition of the hanging?",
+      "shape": "How do the simplified, stylized forms of the figures and birds suit the process of weaving?",
+      "color": "How might the contrast between dyed wool and plain linen help the symbols read clearly from a distance?",
+      "texture": "How does the weave structure shape the look of outlines and details in this picture?",
+      "space": "How does the hanging show an architectural setting and figures without using realistic depth?",
+      "light": "How would the matte surface of wool and linen reflect light differently from a painted or gilded surface?",
+      "meaning": "The museum suggests the imagery invokes Christ's life-giving power. How do the Christograms, the ankh with birds and the peacocks contribute to that idea?",
+      "culture": "The ankh is an older Egyptian sign, here combined with Christian imagery. What might that mix suggest about Egypt in the 500s?",
+      "technique": "Why would a tapestry weave be a good method for creating pictures and symbols on cloth?",
+      "personal": "Which symbol in the hanging would you most like to learn more about, and why?",
+      "critical": "How can we tell what a symbol meant to the original makers when we only have the object and a museum description?"
+    },
+    "g910": {
+      "daily": "How do the figures, arch and symbols work together to deliver a religious message to someone who may not read?",
+      "emotion": "How does the strict symmetry and frontal arrangement shape the viewer's sense of ritual or reverence?",
+      "observation": "Examine how the weaver depicts the three figures. What choices suggest identity or role instead of individual likeness?",
+      "analysis": "How does the hierarchy of registers, from upper symbols to the figures below, shape how the hanging is read?",
+      "line": "How do outline and contour function in tapestry weave, where every line is built from thread?",
+      "shape": "How does the weaver reduce forms to stylized shapes, and what does this gain in clarity and symbolic power?",
+      "color": "How does the contrast of dyed wool against undyed linen structure the figure-ground relationship?",
+      "texture": "How does the material, with wool for imagery and linen for ground, influence the hanging's visual character?",
+      "space": "How does the textile suggest architecture and sacred space through a flattened, frontal arrangement?",
+      "light": "In what ways might an object made of wool and linen function in a lit church or home differently from a painting?",
+      "meaning": "If the three men refer to the three Hebrews of Daniel 3, how might that story have spoken to a community, and what visual evidence supports that reading?",
+      "culture": "How does combining an ankh, peacocks and Christograms show Christian imagery adapting to Egyptian visual traditions?",
+      "technique": "What does the combination of dyed wool and undyed linen tell us about the technical choices of weavers in Byzantine Egypt?",
+      "personal": "What does it mean to you that an everyday object such as a wall hanging could carry religious meaning for its owners?",
+      "critical": "How would you evaluate the museum's possible identification of the three men, and what would count as stronger evidence?"
+    },
+    "g1112": {
+      "daily": "How does this hanging use inherited signs to construct a layered Christian message?",
+      "emotion": "How might the formal stability and repetition of the composition have supported contemplation or devotion?",
+      "observation": "Which details most resist easy interpretation, and how would you handle them in an argument about the hanging's meaning?",
+      "analysis": "How does the compositional structure of arch, figures and symbols operate as an argument as well as a decoration?",
+      "line": "How does the linear logic of tapestry weave, in which curves are built from stepped thread, shape the stylization of forms?",
+      "shape": "How does stylization in the figures and birds reflect both the technical limits and the expressive potential of weaving?",
+      "color": "In what ways might the limited dyed palette on a plain ground signal both economy of means and symbolic emphasis?",
+      "texture": "How does the textile's materiality distinguish its way of making meaning from that of panel painting or mosaic?",
+      "space": "How might the hanging's original setting, whether church or home, have changed how viewers understood its flattened architecture?",
+      "light": "How might textiles of this kind have worked with light and movement in an interior, and what do we lose when it is displayed behind glass?",
+      "meaning": "How do the peacocks' association with immortality and the Christograms' evocation of Christ combine to speak about resurrection?",
+      "culture": "How might the ankh, peacocks and Christian monograms together reveal the layering of Egyptian, Roman and Christian traditions in sixth-century Egypt?",
+      "technique": "How might the survival of a textile this old shape our assumptions about what ordinary and devotional objects were made in Byzantine Egypt?",
+      "personal": "How does your own relationship to religious or family symbols shape the way you read an object like this one?",
+      "critical": "What are the limits of identifying the figures and symbols without inscriptions or a known setting, and how would you present your reading responsibly?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, culture, date, technique, credit line, museum description (three men under an arch, possibly the three Hebrews from Daniel 3; Christograms; ankh flanked by birds), did-you-know note (peacocks), measurements and CC0 status were read from the Cleveland Museum of Art Open Access record. This is a religious textile; descriptions are factual and respectful, and the story of the three Hebrews is mentioned only briefly in the older bands. The image file has not been viewed yet; a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A woven wall hanging made in Egypt in the 500s (Byzantine period), now in the Cleveland Museum of Art. The museum notes it is a rare survivor with Christian imagery, possibly made for a church or home.",
+    "vocabulary": [
+      "tapestry weave",
+      "wool",
+      "linen",
+      "Christogram",
+      "ankh",
+      "arch"
+    ],
+    "directions": [
+      "Have students make a paper weaving with strips of two colors and notice how crossing strips build a pattern, then connect it to how thread builds pictures.",
+      "Ask students to design a symbol hanging for their classroom using three symbols and explain what each stands for.",
+      "With older students, discuss how the same symbol can carry meaning in more than one tradition, using the ankh and peacocks as examples."
+    ]
+  }
+}

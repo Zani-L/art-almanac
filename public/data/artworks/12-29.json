@@ -1,0 +1,159 @@
+{
+  "id": "met-435896",
+  "day": "12-29",
+  "title": "Portrait of a Carthusian",
+  "artist": "Petrus Christus",
+  "date": "1446",
+  "medium": "Oil on oak",
+  "movement": "Early Netherlandish",
+  "region": "Netherlands (Bruges)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-44361-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-44361-001.jpg",
+    "credit": "The Metropolitan Museum of Art, The Jules Bache Collection, 1949",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small painted portrait of a serious man with a wiry beard, set in the corner of a warmly lit room. A tiny fly rests on the painted frame in front of him.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435896",
+    "objectId": "435896",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record, plus the Met web page description"
+  },
+  "context": "A small oil portrait painted in 1446 by Petrus Christus, who the Met describes as the leading painter in Bruges after Jan van Eyck died in 1441. It shows a monk of the Carthusian order, a religious community known for a quiet, solitary life. Painted text on the frame declares that Christus made it in 1446.",
+  "descriptions": {
+    "k": "A man looks out from this small painting. He has a wiry beard and a serious face. He sits in the corner of a room. Look at the frame. There is a tiny fly on it! Is it real?",
+    "g12": "Petrus Christus painted this monk in the Netherlands in 1446. He has a serious face, a wiry beard, and tiny details like veins at his temple. The painter even added a fly sitting on the frame! It looks so real that you might want to shoo it away. Why would a painter add a fly?",
+    "g35": "Petrus Christus painted this portrait in 1446 in Bruges, in the Netherlands. The man is a Carthusian, a monk from an order that lived quietly. The Met praises the lifelike details: his intense gaze, wiry beard, and veins at his temples. Christus also painted a fly on the frame and words saying he made the picture in 1446. Why might he add a fly that looks real?",
+    "g68": "Christus painted this portrait in Bruges in 1446. The Met notes that he placed the sitter in the corner of a warmly lit room, moving beyond the flat backgrounds of Jan van Eyck's portraits. A fly rests on the painted frame, and a painted inscription says Petrus Christus made it in 1446. The sitter's intense gaze and details such as a wiry beard and temple veins make him seem present. How do the fly, the frame, and the room blur the line between painting and reality?",
+    "g910": "Petrus Christus's portrait of 1446 uses small devices to dissolve the barrier between sitter and viewer. A fly seems to land on the painted frame, an inscription announces the painter and date, and the sitter, a Carthusian monk, is placed in the corner of a warmly lit room instead of against a flat background. The Met praises details such as his intense gaze, wiry beard, and visible veins. Consider how illusionism, signature, and setting work together to make a portrait of a monk feel both human and a demonstration of the painter's skill.",
+    "g1112": "In this 1446 portrait, Christus extends the Netherlandish tradition of close observation, moving beyond Van Eyck's flat backgrounds by placing a Carthusian monk in a warmly lit room corner. Illusionistic devices, such as the fly on the painted frame and the inscription saying Christus made the picture, assert both presence and authorship. The Met notes details like intense gaze, sensitive mouth, and visible temple veins. The fly has been read as a bid for realism and, by some, as a symbol, but its meaning is debated. The sitter's name is unknown, so the monk's identity is mediated by his order and by the painter's skill."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the tiny fly? Where is it sitting?",
+      "emotion": "Does the man look happy, serious, or sad? What do you see that makes you say so?",
+      "observation": "Find the man, the frame, and the fly. Point to each one.",
+      "analysis": "Do your eyes go to his face or to the fly first? Why?",
+      "line": "Can you find the lines on his face? Trace one in the air.",
+      "shape": "What shapes do you see in the frame and in his face?",
+      "color": "Which colors do you see on his face and in the room? Do they feel warm or cool?",
+      "texture": "How would his beard feel? Soft, scratchy, or wiry?",
+      "space": "Is the man inside the frame or in front of it? How can you tell?",
+      "light": "Where is the light on his face? Which parts are in shadow?",
+      "meaning": "What do you think he is thinking about?",
+      "culture": "This man lived as a monk, in a quiet life. What kinds of jobs have quiet time?",
+      "technique": "The painter made a fly look real with tiny brushes. How would you paint something very small?",
+      "personal": "Have you ever been fooled by a picture that looked real? Tell about it.",
+      "critical": "Why might a painter want you to think the fly is real?"
+    },
+    "g12": {
+      "daily": "How does the painter make the man seem alive? Point to details that help.",
+      "emotion": "What feeling do you see in the man's face? Which part shows it?",
+      "observation": "Describe five details you see on the man's face and around him.",
+      "analysis": "How does the painter make you look at the man's eyes?",
+      "line": "Look at the lines of the man's face and beard. How do they show he is a real person?",
+      "shape": "The man sits in a corner of a room. What shapes do the walls and the frame make?",
+      "color": "The room looks warmly lit. Which colors help it feel warm?",
+      "texture": "Find his beard, skin, and clothing. How can you tell they feel different?",
+      "space": "The fly looks as if it sits on the frame in front of the man. How does that make the space seem real?",
+      "light": "Where does the warm light fall? How does it help his face look real?",
+      "meaning": "Why might a painter add words saying who made the picture and when?",
+      "culture": "This man was a monk in the 1400s. What do you think a monk's day was like?",
+      "technique": "Oil paint lets painters add tiny details. Where do you see the smallest details?",
+      "personal": "If you could add one trick detail to a picture of yourself, what would it be?",
+      "critical": "Does the fly make you trust the portrait more or less? Why?"
+    },
+    "g35": {
+      "daily": "How do the fly, frame, and room make the portrait feel as though the man is really there?",
+      "emotion": "What mood does the portrait create? Which details, like his gaze, help?",
+      "observation": "Take one minute of silent looking. What tiny details do you notice, such as veins, hairs, or the fly?",
+      "analysis": "How does Christus use the corner of the room to place the man in space?",
+      "line": "How do the lines of the face, beard, and frame compare? Which are sharper?",
+      "shape": "How does the shape of the frame and the angle of the room corner make the man feel framed and close?",
+      "color": "How does warm light change the colors of the face and the room?",
+      "texture": "How does the painter show wiry hair, skin, and cloth so they look different?",
+      "space": "The Met says the sitter is in a room corner instead of in front of a flat background. How does that change the picture?",
+      "light": "Where does warm light touch the face? How does it make it look rounded?",
+      "meaning": "The inscription says Christus made the picture in 1446. Why might an artist sign and date a portrait?",
+      "culture": "Carthusians lived quiet lives apart from the busy world. Why might someone from that order have a portrait painted?",
+      "technique": "Oil paint dries slowly and can show tiny details. How does that help the painter make a fly and a beard look real?",
+      "personal": "What detail would you add to a portrait to show something quiet about yourself?",
+      "critical": "A painter shows off skill with tricks like the fly. Does that make the portrait better or worse? Why?"
+    },
+    "g68": {
+      "daily": "How does Christus use illusion to make the portrait feel physically present?",
+      "emotion": "Is the sitter's expression intense, calm, or something else? Support your view with visual evidence.",
+      "observation": "Describe the monk's portrait without interpreting. Which small details look most carefully painted?",
+      "analysis": "How does the composition place the sitter, frame, and room corner to create depth?",
+      "line": "How do fine lines in the face, beard, and frame create realism?",
+      "shape": "How do the geometry of the frame and the room corner contain the sitter's face?",
+      "color": "How does warm light and a restrained palette shape the portrait's mood?",
+      "texture": "How does the painter show the difference between wiry hair, skin, and the fly?",
+      "space": "The sitter is in a corner of a room instead of a flat backdrop. What does that add?",
+      "light": "How does warm light give the face weight and presence?",
+      "meaning": "The fly may be a trick of realism or a symbol. What reasons support each idea?",
+      "culture": "How might a portrait of a monk differ in purpose from a portrait of a merchant or noble?",
+      "technique": "Why might a painter paint a fly on the frame, and how does it connect to the signature?",
+      "personal": "When have you looked twice because something looked real? What made it convincing?",
+      "critical": "Does the portrait tell us who the monk was? What does it show and what does it hide?"
+    },
+    "g910": {
+      "daily": "How does Christus fuse observation, illusionism, and authorship in a single small portrait?",
+      "emotion": "How does the sitter's gaze create emotional intensity without gesture or narrative?",
+      "observation": "Describe the visual hierarchy of the portrait. Does the sitter or the fly catch you first, and what causes that?",
+      "analysis": "Analyze how frame, room corner, and sitter create layers of space.",
+      "line": "How does the painter's fine, precise line contribute to the portrait's sense of truthfulness?",
+      "shape": "How do the geometric forms of frame and room contrast with the organic forms of the face?",
+      "color": "How does the warm palette contribute to the sitter's presence?",
+      "texture": "How does Christus differentiate textures such as skin, beard, and fabric through subtle changes in tone and highlight?",
+      "space": "How does the illusion of a fly on the frame extend the painted space into the viewer's space?",
+      "light": "How does warm, directed light model the sitter's features?",
+      "meaning": "How do the fly and inscription work as claims about the painter's skill, and could they also carry symbolic meaning?",
+      "culture": "What might a portrait of a Carthusian monk tell us about devotion and the culture of Bruges in the 1440s?",
+      "technique": "How did Christus extend the achievements of Jan van Eyck, according to the Met, in his use of background and space?",
+      "personal": "How do tricks of realism in images today, such as filters or effects, compare with the fly?",
+      "critical": "How should we weigh the portrait's display of the painter's skill against its function as a portrait of a particular man?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the portrait about how Christus balanced likeness and display, and what remains uncertain?",
+      "emotion": "How does the portrait balance psychological intensity with the painter's technical showmanship? Where do they conflict?",
+      "observation": "Describe the monk's portrait precisely, including frame, fly, and setting. Where does description turn into interpretation?",
+      "analysis": "Analyze how illusionistic devices structure the viewer's relationship to the sitter.",
+      "line": "How does the minute, controlled line contribute to the portrait's claim to truthfulness?",
+      "shape": "How does the interplay of the frame and the room corner define the sitter's presence?",
+      "color": "How might the age and condition of the paint affect our impression of the portrait's warmth?",
+      "texture": "How does the portrait use surface description as evidence of both the sitter and the painter's skill?",
+      "space": "How does the combination of painted frame, fly, and room corner complicate the boundary between image and object?",
+      "light": "How does the treatment of light connect the portrait to Netherlandish concerns with naturalism?",
+      "meaning": "Evaluate readings of the fly as a trick of realism, a signature, or a symbol. What evidence would settle the question?",
+      "culture": "How does a portrait of a monk, made in a trading city like Bruges, reflect the overlap of religion and the art market?",
+      "technique": "How does the painted inscription relate to emerging ideas of artistic authorship in the 15th century?",
+      "personal": "How do your own assumptions about religious life shape how you read this sitter's expression?",
+      "critical": "Given that the sitter's name is unknown, how should we describe what this portrait can and cannot tell us?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Men, Portraits, Monks) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Bruges in 1446. The Met describes the fly on the painted frame, the room corner setting, and an inscription stating that Petrus Christus made the portrait in 1446. A Carthusian was a monk of an order known for quiet, solitary life.",
+    "vocabulary": [
+      "portrait",
+      "Carthusian",
+      "illusionism",
+      "inscription",
+      "oil paint",
+      "Early Netherlandish"
+    ],
+    "directions": [
+      "Ask students to draw a tiny 'trick' detail, such as an insect on a frame, and see whether classmates can be fooled.",
+      "Have students compare the corner-of-a-room setting with a plain-background portrait and discuss the difference.",
+      "Discuss why artists sign and date their work."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-572693",
+  "day": "06-04",
+  "title": "Figure of a Fish",
+  "artist": "Artist unknown",
+  "date": "ca. 945–721 BCE",
+  "medium": "Bronze or copper alloy",
+  "region": "Egypt, Third Intermediate Period",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-36712-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-36712-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Egypt Exploration Fund, 1903",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small metal fish seen from the side, with a long body, a fin and a tail, in the dull greenish-brown color of old bronze. It is thin and about as long as a finger or two.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/572693",
+    "objectId": "572693",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Fish), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small fish figure of bronze or copper alloy, made in Egypt in the Third Intermediate Period, around 945–721 BCE. It measures about 10.4 cm long and 5.4 cm high and is only about 1 cm thick. Small metal animal figures like this are often thought to have been offerings, though this one's exact use is not given in the record.",
+  "descriptions": {
+    "k": "This little fish is made of metal. It is very old, from ancient Egypt. It has a body, fins, and a tail. It is about as long as your hand is wide. How do you think someone made it?",
+    "g12": "A craftworker in Egypt made this fish from bronze almost 3,000 years ago. It is small and thin, but the body, fins, and tail are easy to see. Old bronze turns a greenish-brown color. Why might someone want a tiny metal fish?",
+    "g35": "This fish was made in ancient Egypt from bronze, a metal mixed from copper and other metals. It is only about 10 centimeters long, yet it shows the long body, fin, and tail of a fish. Over time, bronze changes color, so we see a greenish-brown surface today. Why might an Egyptian have made a metal fish, and what does it share with real fish?",
+    "g68": "Made around 945–721 BCE, this small bronze fish shows how Egyptian metalworkers turned animals into compact, recognizable shapes. The body is slim, with a fin and tail clearly marked. Small metal animal figures were sometimes offered at temples or used as amulets, but the record does not tell us how this one was used. What might a fish have meant to people living by the Nile?",
+    "g910": "This Third Intermediate Period fish distills a living animal into a thin, durable metal form. The long body, fins, and tail read quickly as a fish, and the bronze surface has taken on the patina of age. Animal figures in metal could serve as offerings or protective objects, but there is no certainty about this piece. How does the choice of a lasting material change the meaning of a small, simple animal?",
+    "g1112": "The bronze fish is modest in scale yet full of questions. Its form compresses a river animal into a thin, nearly flat object whose clarity depends on contour and a few incised or modeled details. Metal votive and amulet figures were common in late Egyptian practice, but the record gives no inscription or find context that would settle its function. The object invites comparison between utility, devotion, and craft, and shows how much interpretation relies on cautious inference."
+  },
+  "questions": {
+    "k": {
+      "daily": "This metal fish is small and thin. What parts of a fish can you find?",
+      "emotion": "Does this fish look quick or sleepy? What shows you that?",
+      "observation": "Find the fish's tail and a fin. Point to them.",
+      "analysis": "Which end of the fish do you look at first, the head or the tail?",
+      "line": "Trace the fish's back from head to tail. Is it a smooth line or a bumpy one?",
+      "shape": "What shapes make up the fish's body, such as ovals and triangles?",
+      "color": "The metal looks greenish and brown. Why do you think old metal changes color?",
+      "texture": "Would this fish feel cold and hard or soft and fuzzy? What makes you say so?",
+      "space": "The fish is thin like a cookie. Would it stand up by itself or lie flat?",
+      "light": "Where does this old bronze fish look bright, and where does it look dark?",
+      "meaning": "Why might someone give a metal fish as a gift or an offering?",
+      "culture": "People in Egypt lived near a big river full of fish. How might fish matter to them?",
+      "technique": "Metal can be melted and poured into a mold. How could that help someone make this fish?",
+      "personal": "What small animal would you make from metal and keep in your pocket?",
+      "critical": "The fish has no color paint on it. Does it still look like a fish? Why?"
+    },
+    "g12": {
+      "daily": "What makes this small piece of old metal look like a fish to you?",
+      "emotion": "Does the fish feel tiny and precious or ordinary? Which details make you think that?",
+      "observation": "Describe the fish's body, fin, and tail. What do they look like?",
+      "analysis": "How does the fish's shape move your eyes from one end to the other?",
+      "line": "Follow the edge of the fish. Where does the outline curve and where does it point?",
+      "shape": "Is the fish made mostly of curves or points? Where do you see each one?",
+      "color": "Bronze can turn green and brown with age. How does that color change the way the fish looks?",
+      "texture": "How might the surface feel with its tiny bumps and worn places?",
+      "space": "This fish is very thin from front to back. How is that different from a round fish statue?",
+      "light": "Metal can catch light in some spots. Where do you think this fish would shine?",
+      "meaning": "Why might an artist in Egypt choose a lasting metal to make a fish?",
+      "culture": "Fish lived in the Nile, which gave life to Egypt. How might a fish figure connect to that?",
+      "technique": "Bronze is a mix of metals. Why do you think people liked using it for small figures?",
+      "personal": "What is a small object you keep for good luck or comfort? How is it like this fish?",
+      "critical": "How can we tell what a very old object was used for when nobody wrote it down?"
+    },
+    "g35": {
+      "daily": "How does a few simple shapes and lines make this metal figure read clearly as a fish?",
+      "emotion": "What mood does this small, quiet figure have? Which choices by the maker create it?",
+      "observation": "Look closely for a full minute. What marks on the body, fins, or surface did you notice at last?",
+      "analysis": "How does the maker arrange the body, fins, and tail so the fish looks balanced?",
+      "line": "How does the outline of the fish capture movement even though the object is still?",
+      "shape": "How does the long body compare with the sharper shapes of the fins and tail?",
+      "color": "Old bronze often turns green and brown. How does this color help us know the fish is ancient?",
+      "texture": "What surface qualities can you see on the metal, such as worn places or small bumps? What might they tell you?",
+      "space": "The fish is thin, so it sits between a drawing and a sculpture. How does that change how we look at it?",
+      "light": "How does metal reflect light compared with stone or wood?",
+      "meaning": "Metal figures of animals were sometimes offerings. What might a fish offering say about the giver?",
+      "culture": "How might life on the Nile, with its fish and floods, affect the images Egyptians made?",
+      "technique": "Metalworkers often made small figures by pouring melted metal into molds. How does that process affect the shape we see?",
+      "personal": "Think of something small that holds big meaning for you. How is it like this figure?",
+      "critical": "The record does not say how this fish was used. How can we responsibly talk about it?"
+    },
+    "g68": {
+      "daily": "How does the maker compress a living fish into a thin, durable bronze figure?",
+      "emotion": "How does the stillness of the metal contrast with the movement of a fish? What does that create?",
+      "observation": "List what is shown and what is simplified. Which details seem most important to the maker?",
+      "analysis": "How do body, fin, and tail combine to make a clear, readable silhouette?",
+      "line": "How does the sweep of the contour suggest swimming without any water around it?",
+      "shape": "How does the artist use a few geometric shapes to represent a fish?",
+      "color": "How has time changed the color of the bronze, and how does that affect our view of the figure?",
+      "texture": "What does the surface tell us about age and handling? What might be original and what might be added by time?",
+      "space": "How does the shallow depth of the figure affect how we read it, compared with a statue in the round?",
+      "light": "How does light on a worn metal surface bring out the form of the fish?",
+      "meaning": "Why might a fish figure be placed in a temple or carried as a charm? Offer two possible ideas.",
+      "culture": "How does a small object like this reflect the connections between daily life, nature, and religion in Egypt?",
+      "technique": "What are the benefits and limits of making a figure from bronze rather than carving it from stone?",
+      "personal": "How does making something small and simple force a maker to decide what matters most?",
+      "critical": "What can we say about this fish from the object itself, and where must we avoid guessing?"
+    },
+    "g910": {
+      "daily": "How does the fish figure combine economy of form with a sense of permanence?",
+      "emotion": "What emotional register does a small, nearly flat metal animal have, and how is it created?",
+      "observation": "Identify which anatomical features are shown and which are abstracted. What principle seems to guide the selection?",
+      "analysis": "Analyze how proportion and contour make the fish legible with a minimum of detail.",
+      "line": "How do edge and incised or modeled detail, if any, cooperate to describe form?",
+      "shape": "How does the figure balance a streamlined body against the more angular projections of fins and tail?",
+      "color": "How does the patina on the bronze affect our sense of age and authenticity?",
+      "texture": "How does a metallic surface, even when worn, convey durability compared with fragile materials?",
+      "space": "How does the thinness of the object challenge our assumptions about sculpture?",
+      "light": "How might the reflective quality of bronze have mattered when the figure was new?",
+      "meaning": "How should we weigh possibilities such as offering, amulet, or decoration when the record gives no use?",
+      "culture": "What does the production of metal animal figures suggest about religious practice and craft in the Third Intermediate Period?",
+      "technique": "What might the use of bronze indicate about workshop knowledge, cost, and the status of the object?",
+      "personal": "How does the scale of an object change your sense of its importance?",
+      "critical": "What assumptions about Egyptian religion might lead viewers to over-interpret a simple fish?"
+    },
+    "g1112": {
+      "daily": "What can be argued, and what must remain uncertain, about the purpose of this bronze fish?",
+      "emotion": "How does the figure's modest scale and still form shape its affective power, and how does that compare with monumental Egyptian art?",
+      "observation": "Describe the fish's form closely. Where does careful observation begin to depend on assumptions about species or function?",
+      "analysis": "Analyze how clarity of silhouette and economy of detail work as a design strategy for small metal figures.",
+      "line": "How does the figure rely on contour as a primary mode of description, and what are the consequences for how we read it?",
+      "shape": "How does the figure negotiate between naturalistic observation and schematic simplification?",
+      "color": "How does corrosion complicate our sense of the object's original appearance, and how might it have looked when made?",
+      "texture": "What can surface condition tell us about burial, use, or conservation, and what can it not?",
+      "space": "How does the thin form relate the fish to flat conventions in Egyptian two-dimensional art?",
+      "light": "How might handling and light have mattered to the object's role in ritual or personal use?",
+      "meaning": "Compare symbolic, votive, and practical possibilities. What evidence would favor one over another?",
+      "culture": "How do small metal votive types of the late periods reveal changing patterns of Egyptian devotion and craft production?",
+      "technique": "What does the use of copper alloy imply about metallurgy, trade, and resources in this period?",
+      "personal": "How does your own experience of small, meaningful objects shape the way you interpret this one?",
+      "critical": "How should scholars and museums describe objects of uncertain function without claiming more than the evidence allows?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Fish), medium (bronze or copper alloy) and period checked against the museum record. Subject is a small fish figure with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small fish figure in copper alloy from the Third Intermediate Period. Its use is not stated in the record, which makes it a useful example for discussing evidence and inference.",
+    "vocabulary": ["bronze", "copper alloy", "patina", "votive", "Third Intermediate Period", "silhouette"],
+    "directions": [
+      "Have students draw a fish using only an outline and then discuss which details they added.",
+      "Ask students to list possible uses for the object and the evidence they would need to decide.",
+      "Discuss why metal objects change color over time."
+    ]
+  }
+}

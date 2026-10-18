@@ -1,0 +1,151 @@
+{
+  "id": "met-552212",
+  "day": "09-08",
+  "title": "Wedjat eye amulet with baboons",
+  "artist": "Artist unknown",
+  "date": "ca. 1080–664 BCE",
+  "medium": "Faience",
+  "region": "Egypt, Third Intermediate Period",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-34990-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-34990-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, flat faience amulet in the shape of a stylized human eye with a curling line beneath it, the wedjat eye of ancient Egypt. Small figures of baboons are shown on the amulet.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/552212",
+    "objectId": "552212",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Eyes, Baboons), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A faience amulet in the form of a wedjat eye, a well-known Egyptian protective symbol, made around 1080–664 BCE. The record's title and tags show that baboons appear on it. The amulet is about 5.9 cm high and 6.8 cm wide, and only about 0.5 cm thick.",
+  "descriptions": {
+    "k": "This is a lucky charm shaped like an eye! It is from ancient Egypt. Look for the eyebrow and the curly line under the eye. Can you find the little baboons too? They are a kind of monkey.",
+    "g12": "This small charm from ancient Egypt is shaped like a big, stylized eye. People wore or carried charms like this to feel safe. Look for the curly line under the eye. Little baboon figures are on it too. Why might an eye be a good symbol for protection?",
+    "g35": "This amulet shows the wedjat eye, an important Egyptian symbol linked with protection and healing. It is made of faience and is about 6 centimeters tall. The eye has a bold brow and markings, and baboons, a type of monkey, appear on it. An amulet was a small object believed to keep its owner safe. Why might Egyptians combine an eye with animals?",
+    "g68": "The wedjat eye, often called the Eye of Horus, was one of Egypt's most widespread protective symbols, and amulets like this were worn or placed in burials. This faience example from about 1080–664 BCE adds baboons, animals with their own symbolic roles in Egyptian belief. Because the record does not give its use, we can only suggest meanings. How does the design make a tiny object feel powerful?",
+    "g910": "This Third Intermediate Period amulet takes a standard protective icon, the wedjat eye, and adds baboons to the composition. The eye is stylized, with strong brow and markings, an example of Egyptian design based on clear, repeated symbols. Wedjat amulets are commonly associated with protection and well-being, but individual additions such as the baboons may have specific religious resonance that scholars interpret carefully. How does symbolic repetition affect an image's meaning?",
+    "g1112": "The wedjat eye is among the best-known Egyptian amulet forms, widely linked with healing, wholeness, and protection. This faience example adds baboons, which suggests a more elaborate symbolic program, though the record gives no context that would confirm how it was used or read. The amulet is a reminder that in Egyptian visual culture an image could act as well as represent: it was made to do something. Consider how we interpret an object whose power depended on belief we can only partly reconstruct."
+  },
+  "questions": {
+    "k": {
+      "daily": "This charm is shaped like an eye. What other things can you find on it besides the eye?",
+      "emotion": "Does this eye look watchful, sleepy, or friendly? What tells you that?",
+      "observation": "Find the eye, the eyebrow, and the baboons. Point to each.",
+      "analysis": "Where do your eyes go first on the charm?",
+      "line": "Trace the curly line under the eye. Does it curl or go straight?",
+      "shape": "The eye is like an almond. What other shapes can you spot?",
+      "color": "What color is the charm? What color would you paint it?",
+      "texture": "Is the charm flat or bumpy? Do you think it feels smooth?",
+      "space": "The charm is very flat and thin. Would it stand up or lie down?",
+      "light": "Which part of the shiny eye charm do you think would sparkle most in the sun?",
+      "meaning": "Some people wore this eye to stay safe. Who or what do you want to keep safe?",
+      "culture": "Baboons were special animals in Egypt. What animals are special where you live?",
+      "technique": "A maker shaped this tiny charm from a glassy material. Why do you think it needed careful hands?",
+      "personal": "Do you have a lucky charm or special object? Tell what it looks like.",
+      "critical": "Why might someone put animals on an eye charm instead of just the eye?"
+    },
+    "g12": {
+      "daily": "What parts of this charm do you recognize, such as the eye, the brow, and the animals?",
+      "emotion": "Does this eye seem kind, strict, or magical to you? Which parts make you think so?",
+      "observation": "Describe the eye and the baboons. Which part has the most detail?",
+      "analysis": "How do the baboons and the eye fit together in one small design?",
+      "line": "Follow the curling line under the eye. How does it change the look of the eye?",
+      "shape": "Find rounded shapes and pointed shapes on the amulet. Where do you see each?",
+      "color": "Faience can be glazed in colors. How does the color of this amulet make it feel?",
+      "texture": "The amulet is thin and smooth. How would it feel to carry in a pocket?",
+      "space": "The design fills a small flat piece. How does the artist fit everything in?",
+      "light": "If light shone on the amulet, which lines might cast tiny shadows?",
+      "meaning": "People believed this eye could protect them. What might that feel like to someone who wore it?",
+      "culture": "Egyptians used picture symbols all the time. Why might they prefer a symbol like an eye for protection?",
+      "technique": "The maker had to shape tiny baboons and a detailed eye. Which part would be hardest?",
+      "personal": "What symbol would you choose to make you feel safe?",
+      "critical": "Why do you think an object this small could matter so much to people?"
+    },
+    "g35": {
+      "daily": "How do the details on this amulet, from the brow to the baboons, work together as a protective symbol?",
+      "emotion": "How does the stare of the large eye make you feel? Which design choices create that effect?",
+      "observation": "Take one minute to look. What small details of the eye, brow, or baboons did you notice only on your second look?",
+      "analysis": "How does the artist arrange the eye and the baboons so the amulet feels balanced?",
+      "line": "How do the bold outlines of the brow and eye make the symbol easy to read at a glance?",
+      "shape": "How do curves and angles combine in the wedjat eye? Which shapes repeat?",
+      "color": "Faience was often glazed in bright colors. How does color help make the amulet stand out?",
+      "texture": "Faience has a glassy surface. How would it feel different from stone or wood?",
+      "space": "The amulet is thin and flat, but the baboons add small figures. How does the artist use the limited space?",
+      "light": "A glazed surface reflects light. How might the amulet have caught the eye when it was worn?",
+      "meaning": "The wedjat eye is linked with healing and protection. What might the baboons add to that idea?",
+      "culture": "Egyptians believed images could do things. How does that change how we look at an amulet?",
+      "technique": "Faience objects like this were often made in molds. How would that help make many amulets?",
+      "personal": "Think about a symbol that people wear to feel protected. How does it compare to this amulet?",
+      "critical": "We cannot be sure why baboons were added. What evidence would help us decide?"
+    },
+    "g68": {
+      "daily": "How does this amulet use a few clear symbols to promise protection?",
+      "emotion": "How does the large, stylized eye create a feeling of watchfulness? Point to the elements involved.",
+      "observation": "List each element on the amulet. Which seem standard, and which seem unusual?",
+      "analysis": "How does the design organize the eye, brow, markings, and baboons into a single unit?",
+      "line": "How do bold lines and curls give the wedjat eye its recognizable character?",
+      "shape": "How does repeating curves help the viewer read the symbol quickly?",
+      "color": "How does color in faience affect the amulet's presence, and why might it matter for a protective object?",
+      "texture": "How might the smooth, glossy surface suit an object meant to be worn or carried?",
+      "space": "How does the artist fit a detailed symbol and animals into a thin, small object?",
+      "light": "How does reflected light on glazed faience emphasize the eye's shape?",
+      "meaning": "How might baboons add meaning to a wedjat eye, and why should we call such ideas possibilities rather than facts?",
+      "culture": "Why were amulets so widespread in Egyptian life, and what do they tell us about hopes and fears?",
+      "technique": "How does the process of molding and glazing faience make it practical for amulets?",
+      "personal": "What is an object or symbol that makes you feel supported, and how does its design help?",
+      "critical": "What can we say about this amulet from the record, and what is outside our knowledge?"
+    },
+    "g910": {
+      "daily": "How does this amulet show that Egyptian images were meant to act in the world, not only to be seen?",
+      "emotion": "How does the frontal, unblinking eye produce a feeling of attention or protection?",
+      "observation": "Identify the standard components of the wedjat eye and the added elements, and describe how they are arranged.",
+      "analysis": "Analyze how symmetry, repetition, and clear contour make the amulet legible at a very small scale.",
+      "line": "How does linear stylization give the symbol authority and portability?",
+      "shape": "How does the combination of almond, spiral, and animal forms create a coherent emblem?",
+      "color": "How does the vivid surface of faience contribute to the amulet's perceived power and value?",
+      "texture": "How does a smooth, glazed finish suit an object meant to be worn on the body?",
+      "space": "How does the thin format limit and shape the composition, and how does the artist exploit that limit?",
+      "light": "In what ways might the glaze's sheen have supported the symbolism of a seeing eye?",
+      "meaning": "Weigh protective, healing, and funerary readings of the wedjat eye. Which depend on context we lack here?",
+      "culture": "How does the amulet reflect the intersection of religion, medicine, and daily life in Egyptian culture?",
+      "technique": "What does serial production of amulets suggest about demand and about the role of specialist workshops?",
+      "personal": "How does an object's meaning change when it is carried for protection rather than displayed for beauty?",
+      "critical": "How can we avoid imposing modern ideas of luck or superstition on Egyptian amulets?"
+    },
+    "g1112": {
+      "daily": "How might an object like this operate simultaneously as an image, an agent, and a commodity?",
+      "emotion": "How does the direct gaze of the eye generate meaning, and how might it differ between a wearer and an observer?",
+      "observation": "Describe the amulet's composition. Where does description rely on iconographic knowledge not visible in the object itself?",
+      "analysis": "Analyze how the amulet balances standardization and variation, with the baboons as possible innovation.",
+      "line": "How does the stylized line system of the eye reflect Egyptian conventions for depicting the body and its parts?",
+      "shape": "How does the amulet combine abstraction and recognizable anatomy?",
+      "color": "How might color in faience carry associations with life, protection, or renewal, and how secure are those associations here?",
+      "texture": "How would the physical qualities of faience have mediated the amulet's contact with the body?",
+      "space": "How does the amulet's two-dimensional format relate to Egyptian approaches to image-making more broadly?",
+      "light": "How might light and reflection have contributed to the experience of the amulet as active or alive?",
+      "meaning": "How can scholars interpret an addition such as the baboons without overstating what the evidence supports?",
+      "culture": "What does the long persistence of the wedjat eye reveal about continuity and change in Egyptian religious imagery?",
+      "technique": "What does the use of faience for mass-produced amulets suggest about access to protective objects across social groups?",
+      "personal": "How does your own cultural background shape your response to symbols meant to protect?",
+      "critical": "What ethical issues arise when a sacred or protective object is displayed as art in a museum?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Eyes, Baboons), medium (faience) and period checked against the museum record. Subject is a protective eye symbol with baboon figures and no human figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A faience wedjat-eye amulet with baboons from the Third Intermediate Period. The wedjat eye is a widespread Egyptian symbol often linked with protection and healing.",
+    "vocabulary": ["amulet", "wedjat eye", "faience", "symbol", "baboon", "Third Intermediate Period"],
+    "directions": [
+      "Have students design a personal symbol for protection and explain each part.",
+      "Ask students how symbols can mean different things in different cultures.",
+      "Discuss the difference between an image that represents and an object believed to act."
+    ]
+  }
+}

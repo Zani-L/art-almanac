@@ -1,0 +1,158 @@
+{
+  "id": "met-61849",
+  "day": "03-19",
+  "title": "Robe (Kosode) with Spring Rice Fields",
+  "artist": "Artist unknown",
+  "date": "late 18th–first half 19th century",
+  "medium": "Plain-weave silk crepe with resist-dyeing and hand-painting",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/LC-2001_428_54-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/LC-2001_428_54-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Roy R. and Marie S. Neuberger Foundation Inc. and several members of The Chairman's Council Gifts, 2000 Benefit Fund, and funds from various donors, 2001",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Japanese silk robe whose fabric is covered by a dyed and painted design inspired by spring rice fields.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/61849",
+    "objectId": "61849",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A kosode, the small-sleeved robe that developed into the modern kimono, made in Japan in the late 18th or first half of the 19th century. Its silk crepe is decorated with resist-dyeing and hand-painting, and the design takes spring rice fields as its theme.",
+  "descriptions": {
+    "k": "This is a robe from Japan. It is made of silk, and the whole cloth is a picture. The picture shows rice fields in spring. If you wore this robe, you would be wearing a landscape! What would you see if you looked closely?",
+    "g12": "This silk robe is called a kosode. It comes from Japan, and kimono grew from robes like it. The cloth is decorated like a picture of rice fields in spring. Artists dyed and painted the silk by hand. How is wearing a picture different from hanging it on a wall?",
+    "g35": "A kosode is a robe with small wrist openings, and it is the ancestor of the kimono. This one was made in Japan around 1800 and is decorated with a design of spring rice fields. Dyers used resist-dyeing, where something is applied to keep dye out of certain areas, and artists added hand-painting. Notice how the design covers the robe like a canvas. Why might someone want a robe that shows farm fields?",
+    "g68": "Kosode of the Edo period treat the robe as a large surface for design. Here the theme of spring rice fields turns a landscape into clothing, using resist-dyeing, in which patterns are protected from dye, plus hand-painting on silk crepe. The design must work when the robe is worn and moves, not only when it is laid flat in a museum. Look at how the pattern spreads across the surface. What might a farming scene mean to the person who chose it?",
+    "g910": "This kosode, from the late 18th or early 19th century, treats the robe as a canvas for a seasonal landscape. Rice-field imagery connects to the cycle of the year, which was a major theme in Japanese design and poetry. Resist-dyeing and hand-painting allowed a designer to build a pictorial composition on silk crepe. Consider how the image changes between a flat museum display and a moving body, and what choosing such a design might communicate about taste.",
+    "g1112": "As a kosode, this garment complicates the boundary between painting and dress. Spring rice fields give it a seasonal theme that fits wider Japanese traditions of tying design to time of year, while resist-dyeing and hand-painting show specialized textile craft. Museums usually display robes flat or on mounts, which differs from how they were meant to be seen, in motion on a body. Scholars also caution that the meanings individual patrons attached to a design often go unrecorded. How should we balance formal analysis with this uncertainty?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you wore this robe, what would you want to tell people about it?",
+      "emotion": "Does this robe feel happy, calm, or fancy to you? What makes you say so?",
+      "observation": "What can you find on this robe? Point to colors and shapes.",
+      "analysis": "Where do your eyes go first on the rice-field robe? Why?",
+      "line": "Can you find lines that go across or up and down? Trace one in the air.",
+      "shape": "What shapes do you see in the design? Do any look like fields?",
+      "color": "What colors of spring do you see on this robe? Which is your favorite?",
+      "texture": "How do you think silk would feel on your skin?",
+      "space": "Imagine spreading this robe out flat. How much space would it take up?",
+      "light": "Do the colors look bright or soft? How can you tell?",
+      "meaning": "What season does this robe show? What clues tell you?",
+      "culture": "This robe is from Japan, where rice is an important food. Why might someone put rice fields on a robe?",
+      "technique": "People painted and dyed the cloth by hand. What would it be like to paint on cloth?",
+      "personal": "If you could wear a picture of any place, which place would you pick?",
+      "critical": "This robe is old, but it is in a museum. How do you think it was kept safe?"
+    },
+    "g12": {
+      "daily": "What do you think this robe shows? Use colors and shapes as clues.",
+      "emotion": "What feeling does this spring robe give you? Which parts help?",
+      "observation": "Name five things on the robe that tell you about rice fields or spring.",
+      "analysis": "How does the design cover the robe? Where do your eyes travel across it?",
+      "line": "Find lines in the design. Which ones are straight, and which curve?",
+      "shape": "What shapes do you see repeated in the design? How do they make the robe feel?",
+      "color": "Which colors make you think of spring? Which are strongest?",
+      "texture": "The robe is made of silk. How does the artist make the cloth look smooth or soft?",
+      "space": "How does the artist make a flat robe look like a place with fields?",
+      "light": "Which parts of the rice-field design look bright and which look soft?",
+      "meaning": "Why might someone want to wear a picture of rice fields in spring?",
+      "culture": "Kimono grew from robes like this one. How is this robe like clothes we wear today? How is it different?",
+      "technique": "People used dye and paint by hand on silk. Why do you think it took a long time?",
+      "personal": "What is your favorite season? How would you show it on clothing?",
+      "critical": "Is this robe a piece of clothing or a work of art? Tell why you think so."
+    },
+    "g35": {
+      "daily": "What do you think the designer wanted people to notice about this robe, and how does the design show it?",
+      "emotion": "What mood does this spring robe suggest? Which design choices create it?",
+      "observation": "Study the robe for one minute. What small field details did you miss at first?",
+      "analysis": "How does the design use the whole shape of the robe, including the sleeves? Where is it busiest or quietest?",
+      "line": "How do lines in the design suggest rows, water, or growing plants?",
+      "shape": "Which shapes in the rice-field design repeat, and what rhythm do they create?",
+      "color": "How do the colors tell us it is spring? What other seasons might use different colors?",
+      "texture": "How does the soft silk crepe change how color and pattern look compared with paper?",
+      "space": "The robe is flat but the design shows a landscape. How does the artist suggest depth or distance?",
+      "light": "Which colors look light and which look dark? How does this affect the feel of the design?",
+      "meaning": "Why might rice fields, a sign of food and the seasons, be a good subject for clothing?",
+      "culture": "Kosode were an important kind of clothing in Edo-period Japan. What can a robe tell us about the people who wore it?",
+      "technique": "Resist-dyeing keeps dye out of chosen areas. How might that help a dyer create clear shapes?",
+      "personal": "If you designed clothing about a place you love, what would you include?",
+      "critical": "Museums often show robes laid flat. How might the design look different when someone is wearing it?"
+    },
+    "g68": {
+      "daily": "How does the design transform a robe into a landscape, and what effect does that have?",
+      "emotion": "How do color and pattern create a feeling of spring? Which elements are most responsible?",
+      "observation": "Describe the layout of the design. Where does it concentrate, and where does it leave open space?",
+      "analysis": "How does the artist plan a design for a shape with sleeves, seams, and a body, rather than a rectangle?",
+      "line": "How do lines and edges in the design guide the eye across the robe?",
+      "shape": "How do repeated shapes organize the surface, and where might the pattern break its own rhythm?",
+      "color": "How does the palette link to the season in the title? What would change with a different palette?",
+      "texture": "How does silk crepe affect how dye and paint look? How is that different from a painting on paper?",
+      "space": "How does the design balance a flat surface with the illusion of a field stretching away?",
+      "light": "How do light and dark areas help you read the design from across a room?",
+      "meaning": "What might a farming theme communicate to the people who saw the robe worn? Consider more than one possibility.",
+      "culture": "How did seasons and nature influence design in Edo-period Japan?",
+      "technique": "How does resist-dyeing compare with painting directly, and what did the combination allow the artist to do?",
+      "personal": "What clothing do you have that shows something about your identity or interests?",
+      "critical": "What do we lose when a robe is displayed without a body? What might we gain?"
+    },
+    "g910": {
+      "daily": "How does the designer convert a landscape theme into a wearable composition?",
+      "emotion": "How do palette and pattern create a seasonal atmosphere without literal storytelling?",
+      "observation": "Describe the visual hierarchy of the design. Where is the focal area, and how is it supported?",
+      "analysis": "Analyze how the design uses the garment's structure to organize the surface.",
+      "line": "How do linear elements describe the field theme and create movement across the fabric?",
+      "shape": "How does the design balance repetition and variation within the garment's overall silhouette?",
+      "color": "How does the color scheme support the seasonal theme and visual unity?",
+      "texture": "How do resist-dyeing, hand-painting, and silk crepe produce distinct visual effects?",
+      "space": "How does the garment's design combine a two-dimensional surface with implied depth?",
+      "light": "How might light affect the appearance of dyed silk, and how might conservation limit display light?",
+      "meaning": "What might rice fields signify in a garment, and which readings are documented versus assumed?",
+      "culture": "How do seasonal themes in textiles connect to broader traditions in Japanese poetry, painting, and daily life?",
+      "technique": "How does the labor of resist-dyeing and painting shape the cost and status associated with such robes?",
+      "personal": "What do your clothing choices communicate, and how might a kosode communicate similar things for its wearer?",
+      "critical": "Is dress an art form? How do museums frame clothing differently than paintings?"
+    },
+    "g1112": {
+      "daily": "What can we argue from the robe's design about the values and tastes it reflects, and where does evidence run out?",
+      "emotion": "How does the garment evoke season and mood through design alone?",
+      "observation": "Describe the rice-field design on the robe precisely. Where does description begin to imply meaning?",
+      "analysis": "Analyze the relationship between garment form, surface composition, and the wearer's movement.",
+      "line": "How does resist-dyed line on crepe silk differ from line in a painting of fields?",
+      "shape": "How does the interplay of repeated motif and open ground structure the composition?",
+      "color": "How might the aging of dyes have changed the garment from its original appearance?",
+      "texture": "How does the textile's material quality complicate the distinction between pictorial and decorative art?",
+      "space": "How does a design meant to be worn on a moving body challenge assumptions about picture space?",
+      "light": "How do preservation needs shape how audiences see textiles today compared with their original settings?",
+      "meaning": "Evaluate possible reasons for choosing a rice-field theme: seasonal taste, literary allusion, or something else. What evidence is needed?",
+      "culture": "How does the kosode reflect the roles of dress, status, and taste in Edo-period society, and how does it relate to the later kimono?",
+      "technique": "What does the combination of resist-dyeing and painting reveal about specialized workshops and the division of labor?",
+      "personal": "How does your own culture's relationship to clothing shape the way you read this garment?",
+      "critical": "What are the consequences of museums presenting garments as art objects detached from their wearers?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Costumes), medium, and tags (none listed) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A silk kosode from the Edo period (late 18th to first half of the 19th century), made with resist-dyeing and hand-painting. The kosode is the forerunner of the modern kimono.",
+    "vocabulary": [
+      "kosode",
+      "kimono",
+      "resist-dyeing",
+      "silk crepe",
+      "Edo period",
+      "motif"
+    ],
+    "directions": [
+      "Have students design a robe on paper with a theme from the seasons and explain how the pattern fits the shape of the garment.",
+      "Try a simple resist with wax crayon and watercolor wash so students can see how resist works.",
+      "Discuss the difference between seeing a garment flat in a museum and imagining it worn."
+    ]
+  }
+}

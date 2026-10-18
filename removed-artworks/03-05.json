@@ -1,0 +1,158 @@
+{
+  "id": "met-13636",
+  "day": "03-05",
+  "title": "Coverlet",
+  "artist": "Peter Leisey",
+  "date": "ca. 1838–40",
+  "medium": "Wool and cotton; Biederwand weave, woven on a hand loom with a Jacquard attachment",
+  "region": "United States (Mid-Atlantic)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/TP557.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/TP557.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1914",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A woven bed coverlet of wool and cotton with a dense, repeating pattern made by a loom. The design is woven into the cloth rather than painted or stitched onto it.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/13636",
+    "objectId": "13636",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, region, public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A coverlet woven by Peter Leisey in the Mid-Atlantic United States around 1838 to 1840. The Met's record says it was woven on a hand loom fitted with a Jacquard attachment, a device that let weavers make complex patterns.",
+  "descriptions": {
+    "k": "This is a bed cover. It was not painted. It was woven on a big wooden loom from wool and cotton thread. Peter Leisey made it long ago. Look at the pattern. What shapes repeat?",
+    "g12": "Peter Leisey wove this coverlet, or bed cover, almost 200 years ago in the United States. He used wool and cotton threads on a hand loom. The pattern is part of the cloth itself. Look at the shapes that repeat. Which one is your favorite, and why?",
+    "g35": "A coverlet is a woven bed covering. Peter Leisey made this one around 1838 to 1840 on a hand loom with a special Jacquard attachment, which helped him weave complicated patterns from wool and cotton. The design is woven in, not sewn on. Choose one repeating shape and follow it across the cloth. Why might a weaver want a pattern that repeats?",
+    "g68": "This coverlet by Peter Leisey, made in the Mid-Atlantic United States around 1838 to 1840, was woven by hand on a loom fitted with a Jacquard attachment. The Met names the structure Biederwand, a specific weave. The Jacquard device used punched cards to control threads, allowing patterns far more intricate than a simple loom could manage. Look at how the pattern is built into the cloth. How does weaving shape what a design can look like compared with painting?",
+    "g910": "Peter Leisey's coverlet of about 1838 to 1840 sits at the meeting point of hand craft and early industrial technology. It was woven by hand, yet the Jacquard attachment let a weaver program intricate patterns with punched cards, an idea developed in France in the early 1800s. The Met identifies the weave as Biederwand and the materials as wool and cotton. Consider how a woven design differs from an embroidered or painted one, and what a household's choice of such a coverlet might signal.",
+    "g1112": "Woven around 1838 to 1840 by Peter Leisey, this coverlet exemplifies the commercial professional weaving that flourished in the Mid-Atlantic states, where weavers used Jacquard-equipped hand looms to offer elaborate patterns to customers. The device's punched-card control of warp threads is often discussed as a precursor of later programmable machines, though its direct influence is debated. A woven coverlet challenges neat divisions between craft and industry: it is handmade yet pattern-driven. Reading its design requires attention to structure as well as imagery."
+  },
+  "questions": {
+    "k": {
+      "daily": "Peter Leisey wove this bed cover on a loom. What do you think happened when he pulled the threads?",
+      "emotion": "Would this coverlet feel cozy or fancy on a bed? What do you see that makes you say so?",
+      "observation": "Find a shape that appears more than once. How many times can you count it?",
+      "analysis": "Where does your eye begin on this coverlet, and where does it go next?",
+      "line": "Follow one line in the weaving with your finger in the air. Is it straight, wavy, or zigzag?",
+      "shape": "Which shape in the coverlet is the biggest? Which is the smallest?",
+      "color": "How many colors of thread can you find in this coverlet? Name them.",
+      "texture": "Wool and cotton threads crisscross to make cloth. How do you think it feels, soft or scratchy?",
+      "space": "Does the pattern cover all the cloth, or is there some plain space? Point to what you see.",
+      "light": "Which parts of the weaving look light and which look dark? Point to a bright spot.",
+      "meaning": "If this coverlet could tell a bedtime story, what might it be about?",
+      "culture": "This coverlet was woven in the United States long ago. What blankets do you use at home today?",
+      "technique": "A loom crosses threads over and under. Why do you think weaving needs patience?",
+      "personal": "What would you like on your own bed cover? Pick a shape or color.",
+      "critical": "This bed cover was woven, not painted. What clue in the pattern shows you that threads made it?"
+    },
+    "g12": {
+      "daily": "Peter Leisey wove this pattern into the cloth itself. How can you tell it was not painted on?",
+      "emotion": "Does the busy pattern feel calm or lively to you? Which parts make you feel that?",
+      "observation": "Describe two parts of the coverlet's pattern. How are they alike, and how are they different?",
+      "analysis": "How does the pattern repeat across the coverlet? Show where you see it start over.",
+      "line": "Look for edges where one color meets another. Are they sharp and stepped, or smooth and curved?",
+      "shape": "Which shapes in the weaving look like they were made from tiny blocks or steps? Why might that happen with a loom?",
+      "color": "Find two thread colors that meet in the pattern. How do they stand out against each other?",
+      "texture": "The wool gives warmth and the cotton helps hold the weave firm. How does the cloth look strong and soft at once?",
+      "space": "Does the pattern feel crowded or roomy? How does that change the way you look at it?",
+      "light": "Which areas of the weaving seem brightest? Which colors make them stand out?",
+      "meaning": "Why might a family want a woven pattern on their bed instead of a plain blanket?",
+      "culture": "Weavers in the Mid-Atlantic made coverlets for homes nearby. How do we get blankets and cloth today?",
+      "technique": "A Jacquard attachment helped control threads for complex patterns. Why might a machine help a weaver?",
+      "personal": "If you could weave any picture into a blanket, what would you choose and why?",
+      "critical": "Is this coverlet more like a useful object or a work of art? Give one reason from what you see."
+    },
+    "g35": {
+      "daily": "How does the woven pattern of Leisey's coverlet show planning and skill? Point to details that support your idea.",
+      "emotion": "What feeling does a full, repeating pattern give you? Which parts make it feel that way?",
+      "observation": "Take a minute to scan the coverlet slowly. What small details in the weave do you notice that you missed at first?",
+      "analysis": "How does the weaver organize the pattern so that your eyes keep moving across the cloth?",
+      "line": "The lines in a woven pattern often look stepped because they are made from threads. How can you see that here?",
+      "shape": "Find one repeating shape. How does the weaver change its size, direction, or color?",
+      "color": "Two kinds of fiber and a few thread colors make this design. How do light and dark areas help the pattern show?",
+      "texture": "Weaving builds texture from over-and-under threads. How might this coverlet feel different from a quilt?",
+      "space": "How does the pattern fill the coverlet from edge to edge? What does it do to the sense of space?",
+      "light": "Look for the strongest contrast of light and dark. How does it help you read the pattern?",
+      "meaning": "Patterns on a household object can reflect what people liked. What does this one make you guess about its owners?",
+      "culture": "Weavers sold coverlets to families in their area. Why might people have wanted a special woven bed cover?",
+      "technique": "Punched cards in a Jacquard attachment told the loom which threads to lift. How is that like a code?",
+      "personal": "What patterns surround you at home or school? Which of them feels most like this coverlet?",
+      "critical": "A weaver worked by hand but used a machine attachment to make this. Does that make it handmade, machine-made, or both?"
+    },
+    "g68": {
+      "daily": "How does the weave itself, rather than added decoration, create the coverlet's image?",
+      "emotion": "How does the density of repeated pattern influence the mood of the coverlet? Support your answer with details.",
+      "observation": "List what you notice about the pattern, from largest forms to the smallest. Which part took you the longest to see?",
+      "analysis": "How does repetition create rhythm across the cloth, and where do variations disrupt it?",
+      "line": "How do the woven lines differ from drawn or painted ones? Describe where you notice this.",
+      "shape": "How do the shapes locked together in this design reflect limits and possibilities of weaving?",
+      "color": "How might the contrast between wool and cotton threads, or between two colors, shape the pattern's visibility?",
+      "texture": "How might touching the coverlet tell you things about its structure that a photograph cannot?",
+      "space": "How does a design meant to cover a bed differ from a picture hung on a wall?",
+      "light": "Does the coverlet rely on strong contrast to be understood? How does that matter for an object seen in a dim room?",
+      "meaning": "Why might a household in the 1830s and 1840s have chosen a patterned woven coverlet, and what other reasons might exist?",
+      "culture": "How does a coverlet made for sale by a professional weaver differ from a quilt pieced at home?",
+      "technique": "How did the Jacquard attachment change what a weaver on a hand loom could produce?",
+      "personal": "What everyday objects in your home carry designs, and which of them show the maker's care?",
+      "critical": "Why might museums display bed coverings as art, and what do we learn or lose by seeing them on a wall?"
+    },
+    "g910": {
+      "daily": "How does Leisey's coverlet reconcile the repetition suited to a loom with the desire for visual richness?",
+      "emotion": "How do density, repetition, and contrast shape the emotional tone of the object?",
+      "observation": "Describe the pattern's visual hierarchy. What do you notice first, and what structural features guide your eye?",
+      "analysis": "Analyze how the coverlet's design uses repetition and variation to unify a large surface.",
+      "line": "How does the logic of woven structure influence the contours of motifs here?",
+      "shape": "How do positive and negative shapes interlock in the pattern, and how might the weave produce that effect?",
+      "color": "How does the interplay of two or more thread colors create legible pattern, and how might that choice reflect available dyes?",
+      "texture": "How does the combination of wool and cotton affect both appearance and the practical use of the coverlet?",
+      "space": "How does the design treat the bed's rectangular surface as a field, and how does this differ from pictorial space?",
+      "light": "How does the contrast between pattern and ground provide readability without any conventional shading?",
+      "meaning": "What might a woven coverlet communicate about household identity and taste in the Mid-Atlantic in the 1830s and 1840s?",
+      "culture": "How does the work of a professional weaver such as Leisey complicate the image of domestic textiles made only at home?",
+      "technique": "How did the Jacquard attachment and the Biederwand weave expand a hand weaver's design possibilities?",
+      "personal": "How do you see precision, patience, and creativity intersect in everyday things you make or use?",
+      "critical": "How does the label 'decorative art' shape the way we look at a woven coverlet, and is that label helpful here?"
+    },
+    "g1112": {
+      "daily": "What does this coverlet reveal about the relationship between handwork and mechanical control in the early 19th century?",
+      "emotion": "How does pattern-driven weaving communicate feeling without figurative narrative, and what are the risks of overreading it?",
+      "observation": "Describe the coverlet's structure and surface as exactly as you can. How do your terms already shape what you think it means?",
+      "analysis": "Analyze how structure and image are inseparable in a woven design. What does that imply for how we read it?",
+      "line": "How does woven line, constrained by the thread, shape the vocabulary of form in comparison with painting or drawing?",
+      "shape": "How do design traditions, loom limits, and customer taste each leave traces in the shapes on this coverlet?",
+      "color": "How might aging of wool, cotton, and dye have changed the coverlet's appearance since it was woven?",
+      "texture": "In what ways does the coverlet's function as a bed covering complicate its display as a flat image?",
+      "space": "How does the all-over organization of the coverlet relate to ideas of order in domestic space?",
+      "light": "How should museums consider lighting and conservation for textiles, and how does that affect what viewers see?",
+      "meaning": "Evaluate the claim that a woven coverlet can carry social meaning without text or pictures. What evidence would you need?",
+      "culture": "How do commercial weavers like Leisey fit into histories of American craft, trade, and early industrialization?",
+      "technique": "The Jacquard principle is sometimes called a precursor to programming. How persuasive is that comparison, and where does it break down?",
+      "personal": "How does your own familiarity with machine-made textiles affect the value you assign to a hand-loom coverlet?",
+      "critical": "What questions would you ask to avoid sorting objects like this into 'craft' or 'art' before looking at them closely?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, culture, region, and classification checked against the museum record; the record lists no tags. A woven household textile with no figures flagged. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Woven ca. 1838 to 1840 by Peter Leisey in the Mid-Atlantic United States on a hand loom with a Jacquard attachment. The Met's record names the structure Biederwand.",
+    "vocabulary": [
+      "coverlet",
+      "loom",
+      "Jacquard attachment",
+      "warp and weft",
+      "pattern repeat",
+      "weave structure"
+    ],
+    "directions": [
+      "Have students weave paper strips over and under to see how a pattern can appear from simple rules.",
+      "Discuss how punched cards store a pattern, and connect to coding or computing if appropriate for your class.",
+      "Compare this woven coverlet with a pieced quilt in the archive to explore different ways of making patterned bed coverings."
+    ]
+  }
+}

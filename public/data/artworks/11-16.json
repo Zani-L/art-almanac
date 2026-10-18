@@ -1,0 +1,159 @@
+{
+  "id": "met-312553",
+  "day": "11-16",
+  "title": "Ceramic Figure Vessel",
+  "artist": "Artist unknown",
+  "date": "6th–9th century",
+  "medium": "Ceramic, pigment (asphalt)",
+  "movement": "Remojadas",
+  "region": "Mexico, Mesoamerica",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.331.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.331.jpg",
+    "credit": "The Metropolitan Museum of Art, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A hand-modeled ceramic vessel in the form of a person, from ancient Mexico, with dark asphalt pigment on its clay surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/312553",
+    "objectId": "312553",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium (Ceramic, pigment (asphalt)), classification (Ceramics-Containers), culture (Remojadas), country (Mexico), region (Mesoamerica), public-domain flag, credit line and image URLs read from the record; the museum page lists dimensions of 12 in. high. The record lists no tags"
+  },
+  "context": "A ceramic vessel in the shape of a figure, made by the Remojadas culture of what is now Mexico between the 6th and 9th century. The Met's record lists asphalt as a pigment, a natural tar-like material used for dark color. The title identifies it as both a figure and a container.",
+  "descriptions": {
+    "k": "This is a clay pot shaped like a person. It was made in Mexico a very long time ago. Some parts are dark, painted with a natural black material called asphalt. What parts of a person can you find?",
+    "g12": "An artist from the Remojadas people in Mexico made this clay pot in the shape of a person. It is about as tall as a school ruler. Some of the dark color comes from asphalt, a natural black tar. What would the person be doing if the figure could move?",
+    "g35": "The Remojadas culture lived in the Gulf Coast region of Mexico, and its artists made many clay figures. This one is also a vessel, a container shaped like a person, made between the 6th and 9th century. Dark asphalt was used to add color to the clay. Look closely at the shape of the figure. Why might artists make a container that looks like a person?",
+    "g68": "This ceramic figure vessel was made by the Remojadas people of the Mexican Gulf Coast about 1,200 to 1,500 years ago. It is both a sculpture and a container. The Met records asphalt pigment on the clay, a natural material used to add dark color. Scholars are cautious about what such figures represented. How do the figure's shape, surface, and use as a vessel work together to hold meaning?",
+    "g910": "Made between the 6th and 9th century in the Remojadas tradition of Mexico, this figure vessel merges sculpture and container, a form with a long history in Mesoamerican ceramics. Asphalt pigment adds dark color to the clay surface. Without surviving explanatory texts, scholars rely on formal study and archaeological context, so interpretations of who the figure represents remain cautious. Consider how an object that may have been practical, ritual, or both reveals more through its shape than through any single label.",
+    "g1112": "This 6th to 9th century figure vessel belongs to the Remojadas ceramic tradition of the Gulf Coast of Mexico, known for modeled human figures. The Met records ceramic with asphalt pigment, a detail that points to technical choices and exchange of materials. Interpretations of such vessels, whether as portraits, ritual participants, or ceremonial containers, vary and depend on archaeological context that museum acquisitions may not preserve. The vessel thus invites questions about how scholars attribute meaning to figures without texts and how museums describe objects whose original use is uncertain."
+  },
+  "questions": {
+    "k": {
+      "daily": "What parts of a person can you find on this clay vessel? Point to them.",
+      "emotion": "How do you think the person feels? What do you see that tells you?",
+      "observation": "What can you find on this figure? Look at the shape and the dark color.",
+      "analysis": "Where do your eyes go first on the figure? Where do they go next?",
+      "line": "Trace the outline of the figure in the air. Where does it curve?",
+      "shape": "What shapes did the artist use to build the figure? Look for round and long shapes.",
+      "color": "Where do you see dark color on the figure? What color is the clay?",
+      "texture": "How do you think the clay and the dark paint would feel if you touched them?",
+      "space": "This figure is also a container. Where do you think things could go inside?",
+      "light": "Where does the light touch the figure? Where do you see shadow?",
+      "meaning": "If this figure could hold something special, what would you put inside?",
+      "culture": "This vessel is from Mexico and is more than 1,000 years old. What do you wonder about the people who made it?",
+      "technique": "The artist shaped this figure from clay and added black asphalt. What do you think each step was like?",
+      "personal": "If you made a clay container shaped like a person, who would it be?",
+      "critical": "Why might someone make a container in the shape of a person?"
+    },
+    "g12": {
+      "daily": "How does the artist show a person in clay? Describe two details that help you see them.",
+      "emotion": "What feeling does the figure give you? Which part helps you decide?",
+      "observation": "Look slowly at the figure. Name four things you notice about its body and surface.",
+      "analysis": "How does the artist make you notice the figure's pose first?",
+      "line": "Find curved lines and straight lines on the figure. How do they describe the body?",
+      "shape": "Which shapes make up the body? How do they connect?",
+      "color": "The dark color is asphalt, a natural black material. How does it stand out on the clay?",
+      "texture": "Which parts look smooth and which look rough? Where does the asphalt look different from the clay?",
+      "space": "Because this is a vessel, it can hold things inside. How might the person's shape be a container?",
+      "light": "Where is the figure lightest and where is it darkest? What does that tell you about its shape?",
+      "meaning": "What might this person be doing or feeling? Use something you see as evidence.",
+      "culture": "The Remojadas lived on the Gulf Coast of Mexico. How can clay figures help us learn about them?",
+      "technique": "Asphalt is a natural black tar. Why might an artist choose it for color?",
+      "personal": "What would you want to hold in a special container shaped like you?",
+      "critical": "We do not know all the reasons this was made. What is one idea you can support from the figure and one you cannot?"
+    },
+    "g35": {
+      "daily": "How do the shape, color, and surface of this vessel work together to show a person?",
+      "emotion": "What mood or character does the figure suggest to you, and which details lead you there?",
+      "observation": "Take one minute to study the figure. What small details of the body and surface do you notice?",
+      "analysis": "How did the artist organize the body so that the container and the figure feel like one object?",
+      "line": "How do the outlines of the figure suggest posture, such as sitting or standing?",
+      "shape": "The artist simplified a person into rounded forms. Which forms can you identify?",
+      "color": "Black asphalt stands out against clay. How does the contrast help you read the figure?",
+      "texture": "How might the surface of fired clay and the dark pigment look and feel different from each other?",
+      "space": "A vessel has space inside. How does that make it different from a solid statue?",
+      "light": "How do light and shadow help you see the shape of the figure?",
+      "meaning": "The Met does not say who the figure shows. What might a vessel in the shape of a person be used for?",
+      "culture": "The Remojadas culture made many ceramic figures. What can we learn about a culture from objects when we cannot read its writing?",
+      "technique": "Potters shaped the clay by hand and fired it. What challenges might come up when making a hollow figure?",
+      "personal": "Think of a container you treasure. What shape would you give it?",
+      "critical": "Why might it be risky to guess too confidently about what this figure meant?"
+    },
+    "g68": {
+      "daily": "How does the vessel combine human form with the practical shape of a container?",
+      "emotion": "What attitude or presence does the figure suggest, and which features create that impression?",
+      "observation": "Describe the figure from top to bottom. Which parts show the most careful modeling?",
+      "analysis": "How do proportions of head, body, and limbs give the figure its character?",
+      "line": "How do contours and any incised or modeled lines define the figure?",
+      "shape": "How does the sculptor turn the human body into simple, rounded volumes?",
+      "color": "How does asphalt add contrast and detail to the fired clay?",
+      "texture": "What can the surface treatment, smoothed clay and asphalt, tell us about the maker's process?",
+      "space": "How does a hollow figure change how we think about the relationship between sculpture and vessel?",
+      "light": "How might raking light change what we notice about the figure's form?",
+      "meaning": "Why do scholars hesitate to give one explanation for figure vessels, and what would help them?",
+      "culture": "How does a culture label such as Remojadas help and limit our understanding of an object?",
+      "technique": "What does the use of asphalt pigment on clay suggest about the materials available to the maker?",
+      "personal": "What would you want someone in the future to understand about you from an object you made?",
+      "critical": "The vessel entered the Met's collection in 1979. What questions might we ask about how and where it was found?"
+    },
+    "g910": {
+      "daily": "How does the vessel merge sculptural representation of the human figure with the function of a container?",
+      "emotion": "How does the figure's pose and modeling create a mood of presence, dignity, or intimacy?",
+      "observation": "Describe the visual hierarchy. Where does the eye land first, and what formal choices direct attention?",
+      "analysis": "Analyze how the sculptor balances volume, proportion, and surface treatment in representing the body.",
+      "line": "How does the silhouette communicate posture and gesture?",
+      "shape": "How do rounded volumes give the figure both solidity and softness?",
+      "color": "How does asphalt pigment articulate the surface and create contrast with the clay body?",
+      "texture": "What does the interplay of fired clay and applied pigment suggest about surface finishing in Remojadas workshops?",
+      "space": "How does the hollow interior influence the sculptural presence of the figure?",
+      "light": "How does the contrast between clay and dark pigment respond to changes in light?",
+      "meaning": "What conclusions about the figure's identity or role would be too speculative, and what evidence would be needed?",
+      "culture": "How does the vessel reflect the importance of ceramic figures in Gulf Coast Mesoamerican traditions?",
+      "technique": "What might the combination of modeling, firing, and pigment application reveal about workshop practice?",
+      "personal": "How does anonymity in ancient art affect how you connect with the person it shows?",
+      "critical": "How should museums balance appreciation of such vessels as art with respect for their possible ritual contexts?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the vessel's form and surface about Remojadas visual culture, and what remains conjectural without texts?",
+      "emotion": "How does the figure's modeling shape an affective response that is bound to its anonymity and distance in time?",
+      "observation": "Describe the vessel's construction with precision. When does description begin to assume identity or function?",
+      "analysis": "Analyze how the sculptor negotiates the competing demands of representation and containment.",
+      "line": "How does contour operate in a sculpture that must be read from several sides?",
+      "shape": "How does simplification of anatomy relate to broader conventions of Mesoamerican figural sculpture?",
+      "color": "How does the use of asphalt, a natural tar, raise questions about material sourcing and symbolism?",
+      "texture": "What does the interaction of pigment and ceramic surface suggest about finishing techniques and later conservation?",
+      "space": "How does the vessel's dual identity as figure and container complicate distinctions among sculpture, ceramic, and ritual object?",
+      "light": "How might museum lighting and photography construct a particular reading of the figure?",
+      "meaning": "Evaluate readings of figure vessels as portraits, ritual personae, or containers for offerings, assessing the limits of available evidence.",
+      "culture": "How do museum labels like Remojadas simplify a complex regional history?",
+      "technique": "What might the evidence of modeling, firing, and pigment application suggest about the organization of ceramic production?",
+      "personal": "How do your own ideas about portraiture influence what you expect an ancient figure to communicate?",
+      "critical": "What responsibilities attach to interpreting a vessel whose original context is lost and whose makers cannot speak for it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (Ceramic, pigment (asphalt)), classification (Ceramics-Containers) and culture read from the Met record; the record lists no tags. The object is an ancient ceramic figure vessel.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "The Remojadas culture developed in what is now the Gulf Coast of Veracruz, Mexico, and is known for modeled ceramic figures. The Met record dates this vessel to the 6th to 9th century and lists asphalt pigment. Confirm the figure's pose and details from the museum image before class.",
+    "vocabulary": [
+      "Remojadas",
+      "Mesoamerica",
+      "figure vessel",
+      "asphalt",
+      "ceramic",
+      "attribution"
+    ],
+    "directions": [
+      "Have students sketch a container in the form of a person or animal and explain how the shape affects its use.",
+      "Discuss how we learn about cultures that left no writing we can read.",
+      "Compare with another figural object in the archive and discuss how scale and material change meaning."
+    ]
+  }
+}

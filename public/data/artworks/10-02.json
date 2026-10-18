@@ -1,0 +1,159 @@
+{
+  "id": "met-437654",
+  "day": "10-02",
+  "title": "Circus Sideshow (Parade de cirque)",
+  "artist": "Georges Seurat",
+  "date": "1887-88",
+  "medium": "Oil on canvas",
+  "movement": "Neo-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP375450_cropped.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP375450_cropped.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Stephen C. Clark, 1960",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A night scene outside a circus, where musicians play on a stage while a crowd gathers in the foreground. The whole painting is made of tiny dots of color, and the lamplight gives the scene a soft glow.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437654",
+    "objectId": "437654",
+    "verifiedBy": "Met Collection API object record: title, artist (Georges Seurat), date (1887-88), medium, classification (Paintings), tags (Musical Instruments, Men, Women, Circus, Musicians), credit line, isPublicDomain true, and primaryImage/primaryImageSmall URLs read from the record",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "Georges Seurat painted Circus Sideshow (Parade de cirque) in 1887-88. The Met's record lists the subjects as musical instruments, men, women, circus, and musicians. Seurat is known for Pointillism, building images from small dots of color, and this painting shows a circus parade, the free show performed outdoors to draw a crowd.",
+  "descriptions": {
+    "k": "A circus at night! Musicians play on a stage and a crowd watches. The whole picture is made of tiny dots. Can you find the instruments? What music do you hear?",
+    "g12": "Georges Seurat painted a circus show at night. Musicians play for a crowd to get people to come inside. He made the whole picture from tiny dots of color. Can you find the glowing lights and the people watching?",
+    "g35": "Georges Seurat painted Circus Sideshow in 1887 and 1888. It shows musicians performing outside a circus to attract an audience. Seurat built the picture out of tiny dots of color, a method called Pointillism. The Met lists musical instruments, men, women, and musicians. How do dots of color create the glow of an evening scene?",
+    "g68": "Seurat's Circus Sideshow (1887-88) shows a parade de cirque, a free outdoor show to lure audiences into the circus. He used tiny dots of color, called Pointillism, to build musicians, a crowd, and glowing evening light. The shapes are simplified and still, as if frozen. How does the stillness of the figures affect the energy of a show?",
+    "g910": "Seurat's Circus Sideshow (1887-88) depicts a parade de cirque, a free outdoor performance that enticed crowds into the show. Using Pointillism's small dots of color, he builds a nighttime scene of musicians and onlookers with simplified, still figures and glowing light. How does the contrast between a lively subject and a stylized, motionless treatment shape the painting's mood?",
+    "g1112": "Circus Sideshow (1887-88) is among Seurat's late Pointillist works, depicting a parade de cirque, the free outdoor show that drew crowds to the circus. Rendered in dots of color, its musicians and onlookers are simplified and nearly still, in an evening glow. How does the contrast between popular entertainment and the painter's methodical, almost scientific technique complicate our sense of the spectacle, and what does that suggest about modern urban leisure?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many musicians can you find? Count together.",
+      "emotion": "Does this circus feel exciting or calm? What shows you?",
+      "observation": "Find the instruments. Which one is the biggest?",
+      "analysis": "What music do you think they are playing?",
+      "line": "Trace the shapes of the lamps in the air. Are they round or long?",
+      "shape": "What shapes make up the people in the crowd?",
+      "color": "Which colors do you see? Are they warm or cool?",
+      "texture": "The picture is made of tiny dots. Does it look smooth or bumpy to you?",
+      "space": "Who is closest to you in the picture, and who is farthest away?",
+      "light": "Where is the light brightest?",
+      "meaning": "Why do circus workers play music outside?",
+      "culture": "People gather for shows everywhere. What shows have you seen?",
+      "technique": "The painter used tiny dots instead of long strokes. How do you think he did that?",
+      "personal": "If you made a circus picture, what would be in it?",
+      "critical": "What would you change about this picture?"
+    },
+    "g12": {
+      "daily": "Which part of the painting feels most like a show?",
+      "emotion": "Does the painting feel lively or quiet? Point to what makes you feel that.",
+      "observation": "List what you see, from the stage to the crowd.",
+      "analysis": "Why does your eye go to the stage first?",
+      "line": "Follow the line of the stage edge with your finger. What do you notice?",
+      "shape": "How do the round lights look next to the tall figures?",
+      "color": "How do the colors of the lamps glow against the darker night?",
+      "texture": "How can you tell the painter used dots instead of lines?",
+      "space": "How does the painting show that the crowd is in front and the stage is behind?",
+      "light": "Where is the light brightest, and where is it darkest?",
+      "meaning": "Why might the painter show people standing so still?",
+      "culture": "What can a circus painting tell us about how people had fun long ago?",
+      "technique": "How do tiny dots of color mix to make the picture?",
+      "personal": "How would you show a night show using only dots?",
+      "critical": "Is a still painting of a lively show strange or clever? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which part of the painting draws your eye most, and why?",
+      "emotion": "What mood does the evening scene give, and which choices create it?",
+      "observation": "Look closely at the musicians. What do you notice about how they are painted?",
+      "analysis": "How does Seurat arrange the stage and the crowd so your eye moves through the picture?",
+      "line": "How do the vertical figures and horizontal stage create lines in the painting?",
+      "shape": "How do the simplified shapes of the figures fit together?",
+      "color": "How do dots of different colors glow together at a distance?",
+      "texture": "How does the dotted surface of the painting feel different from a smooth, blended one?",
+      "space": "How does Seurat show the stage in the distance and the crowd in front?",
+      "light": "How does the glow of the lamps give the scene its feeling of night?",
+      "meaning": "Why might a painter choose a free outdoor show rather than the main circus ring?",
+      "culture": "What might a circus show tell us about entertainment in France in the 1880s?",
+      "technique": "Why do you think Seurat made his figures so still, even in a lively show?",
+      "personal": "What event would you paint, and how would you show its energy?",
+      "critical": "Some people say stillness takes the fun out of a circus. How would you answer?"
+    },
+    "g68": {
+      "daily": "Which part of the circus crowd or stage do you notice only after looking for a while?",
+      "emotion": "What mood do the glowing lamps and still figures create together?",
+      "observation": "Describe how the stage, musicians, and crowd are arranged. Where is the focal point?",
+      "analysis": "How does the arrangement of figures lead your eye across the canvas?",
+      "line": "How do vertical figures and horizontal lines make the picture feel orderly?",
+      "shape": "How does Seurat simplify the people into clear, almost geometric shapes?",
+      "color": "How do the dots of color blend in your eye, and what does that do for the glow?",
+      "texture": "How does the dotted surface differ from smooth, blended paint?",
+      "space": "How does the picture create depth with so few details?",
+      "light": "How does the glow of lamplight shape the mood of the night?",
+      "meaning": "What might the stillness of the figures say about how Seurat saw modern entertainment?",
+      "culture": "How does a painting of a sideshow reflect the popular culture of 1880s Paris?",
+      "technique": "What are the challenges of building a nighttime crowd from tiny dots of color?",
+      "personal": "What would you want to ask Seurat about why he chose a sideshow?",
+      "critical": "Does a frozen scene of a lively show feel more real or less real? Argue one side."
+    },
+    "g910": {
+      "daily": "How does the stillness of the performers affect your sense of the sideshow as an experience?",
+      "emotion": "What emotional tone does the combination of glowing light and still figures create?",
+      "observation": "Study the musicians and crowd. What does the distance between them suggest about the relationship between performers and audience?",
+      "analysis": "Analyze how Seurat structures the composition with vertical and horizontal lines.",
+      "line": "How do the repeated verticals of the figures create rhythm and order?",
+      "shape": "How does simplifying figures into solid forms relate to Seurat's interest in structure?",
+      "color": "How do dots of complementary color produce luminosity and unity?",
+      "texture": "What does the dotted surface reveal about the artist's method and discipline?",
+      "space": "How does the painting create space and distance without conventional detail?",
+      "light": "How does the handling of artificial light make the scene feel nocturnal?",
+      "meaning": "What might the choice of a sideshow, a popular entertainment, suggest about Seurat's interest in modern life?",
+      "culture": "How does the painting reflect the urban leisure culture of late nineteenth-century France?",
+      "technique": "How does the painting's methodical technique contrast with the improvised energy of its subject?",
+      "personal": "What does this painting make you question about how motion and stillness work in art?",
+      "critical": "Should a painting of a lively event feel lively? Support your answer."
+    },
+    "g1112": {
+      "daily": "How does the stillness of the figures complicate the conventional energy of the circus?",
+      "emotion": "Does the glowing light convey wonder or detachment, and how might viewers differ?",
+      "observation": "Examine the relationship between performers and onlookers. Do you read it as invitation, barrier, or both?",
+      "analysis": "Analyze how verticals, horizontals, and tight spacing structure the composition.",
+      "line": "How does the rhythm of repeated figures create a formal order that rivals the subject?",
+      "shape": "How does the reduction of figures to simplified volumes relate to Seurat's pursuit of a more systematic art?",
+      "color": "Evaluate how adjacent dots of color build luminosity and unify the scene.",
+      "texture": "What does the dotted surface suggest about the relationship between scientific color theory and personal vision?",
+      "space": "How does the picture build space and distance with minimal incident?",
+      "light": "How might artificial light function here as both a realistic effect and a symbolic one?",
+      "meaning": "What does choosing a sideshow, a commercial attraction, suggest about modern painting's engagement with popular culture?",
+      "culture": "How does the painting reflect the growing commercial entertainment industry of fin-de-siecle France?",
+      "technique": "How does the contrast between a methodical technique and an ephemeral subject challenge ideas about spontaneity?",
+      "personal": "How does this work alter your sense of what modern urban leisure looked like?",
+      "critical": "What criteria would you use to defend this painting's importance to someone who finds it stiff?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings) and tags (Musical Instruments, Men, Women, Circus, Musicians) checked against the Met record; no concerning terms appear (no nudity, violence, death or frightening imagery).",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Georges Seurat painted Circus Sideshow (Parade de cirque) in 1887-88 in oil on canvas. The Met lists musical instruments, men, women, circus and musicians among its subjects. It shows the free outdoor performance that drew audiences into a circus and is built in Seurat's Pointillist technique.",
+    "vocabulary": [
+      "Pointillism",
+      "parade de cirque",
+      "composition",
+      "complementary colors",
+      "silhouette",
+      "modern life"
+    ],
+    "directions": [
+      "Have students make a small dot painting with cotton swabs or markers and step back to see colors mix.",
+      "Ask students to compare the stillness of this painting with a photograph of a circus and discuss what each shows.",
+      "Discuss why an artist might choose the free show outside the circus rather than the main performance."
+    ]
+  }
+}

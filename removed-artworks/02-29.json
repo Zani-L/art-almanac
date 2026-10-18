@@ -1,0 +1,151 @@
+{
+  "id": "met-544227",
+  "day": "02-29",
+  "title": "Hippopotamus (\"William\")",
+  "artist": "Artist unknown",
+  "date": "ca. 1961–1878 B.C.",
+  "medium": "Faience",
+  "region": "Egypt, Middle Kingdom",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP248993.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP248993.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edward S. Harkness, 1917",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small blue-green model of a hippopotamus with a wide body, short legs and a broad head. Dark outlines of river plants and lotus flowers are painted across its back and sides.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/544227",
+    "objectId": "544227",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, tags (Hippos), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A small faience hippopotamus from Middle Kingdom Egypt, made around 1961–1878 B.C. The Met's title gives it the nickname \"William.\" Its blue-green surface is decorated with river and marsh plants, which fit the hippo's home along the Nile.",
+  "descriptions": {
+    "k": "This is a hippo! It is blue-green and very, very old. Look at its back. Can you find the flowers and leaves? A hippo lives near water, and the plants remind us of the river.",
+    "g12": "This little blue hippo was made in Egypt almost 4,000 years ago. Its round body and short legs make it look sturdy. Look at its back and sides for the painted plants and flowers. Hippos live in rivers, so the plants fit. Why do you think the maker added them?",
+    "g35": "This faience hippopotamus was made in ancient Egypt around 1900 B.C. Faience is a glassy material that artists could color a bright blue-green. Look closely at the dark lines on the hippo's body: they show plants and flowers from the Nile marsh, where hippos lived. The hippo is sturdy and rounded. What do these details tell you about how Egyptians saw this animal?",
+    "g68": "Ancient Egyptians knew the hippopotamus as a powerful animal of the Nile, and this faience model shows it among marsh plants. The glassy blue-green surface may suggest water and new life, and the dark plant outlines turn the body into a miniature river scene. Scholars note that hippos could be seen as both dangerous and linked to protection, so the figure may carry more than one meaning. What details make it charming rather than frightening?",
+    "g910": "This hippopotamus from the Middle Kingdom combines sculpture and surface design. Its massive, simplified body is covered in a blue-green faience glaze and decorated with marsh plants in dark outline, turning the animal into a symbol of its watery habitat. Egyptians could regard hippos as dangerous forces and also as protective images, so scholars interpret such figures cautiously. How does the playful decoration shift the way we read a creature that could be a threat?",
+    "g1112": "The faience hippopotamus nicknamed \"William\" joins naturalistic observation and decorative symbolism. The rounded, almost gentle form is covered with marsh plants that situate the animal in its Nile habitat, while the vivid glaze may evoke water, vegetation, and renewal. Interpretations vary: hippos appear in Egyptian thought as both menacing and protective, and such small figures have been read as magical, funerary, or simply descriptive. The best readings weigh the object's material, its imagery, and the limits of the record, rather than forcing one fixed meaning."
+  },
+  "questions": {
+    "k": {
+      "daily": "This hippo has plants drawn on its back. Where do you think this hippo likes to live?",
+      "emotion": "Does this hippo look friendly or scary to you? What makes you think so?",
+      "observation": "Find the hippo's head, its legs, and the flowers on its body. Point to each one.",
+      "analysis": "Where do your eyes go first on the hippo: the head, the back, or the legs?",
+      "line": "Find the dark lines on the hippo's back. Are they straight, curly, or both?",
+      "shape": "The hippo's body is big and round. What other round things does it remind you of?",
+      "color": "The hippo is blue-green. Why do you think the maker did not choose gray?",
+      "texture": "The hippo looks shiny and smooth. What would it feel like if you could touch it?",
+      "space": "The hippo has short, stubby legs. How do they help it look heavy and strong?",
+      "light": "Where does the shiny glaze catch the light on the hippo's body?",
+      "meaning": "The plants on the hippo's back are river plants. What does that tell you about the hippo's home?",
+      "culture": "Real hippos lived in the Nile River in Egypt. Why might people long ago want to make a hippo model?",
+      "technique": "This hippo is made of a glassy material called faience. How is it different from a clay pot or a wood toy?",
+      "personal": "If you made a model of your favorite animal, what would you paint on it?",
+      "critical": "A real hippo is gray-brown. Why might this one be bright blue-green on purpose?"
+    },
+    "g12": {
+      "daily": "Look at the plants on this hippo. What story do they tell about where it lives?",
+      "emotion": "Does this hippo seem cute, mighty, or both? Use details to explain.",
+      "observation": "Tell about three different things on the hippo's body, such as its legs, its head, and its decoration.",
+      "analysis": "How does the artist make the hippo feel solid and heavy? Look at its legs and belly.",
+      "line": "How are the dark plant lines different from the smooth outline of the hippo's body?",
+      "shape": "Find big round shapes and small shapes on this hippo. How do they fit together?",
+      "color": "Why might the artist color the hippo blue-green? What does the color remind you of?",
+      "texture": "The hippo looks glossy. How is that different from the rough skin of a real hippo?",
+      "space": "The hippo stands on short legs close to the ground. How does that change how big it feels?",
+      "light": "How does the glossy surface of the hippo shine differently from a dull surface?",
+      "meaning": "What do the lotus flowers and leaves add to a hippo statue?",
+      "culture": "Egyptians lived near the Nile River, where hippos swam. Why might a hippo matter to them?",
+      "technique": "This hippo was made of faience and then decorated. Which parts look carefully drawn?",
+      "personal": "Have you ever seen an animal in its home? How does this hippo's decoration help you imagine its home?",
+      "critical": "Is this hippo trying to look real or to look special? Give a reason from the picture."
+    },
+    "g35": {
+      "daily": "How do the plants painted on the hippo change how you see the animal?",
+      "emotion": "Hippos can be dangerous, yet this one looks calm and charming. Which details create that mood?",
+      "observation": "Spend a minute looking along the hippo from nose to tail. What details did you find that you did not see at first?",
+      "analysis": "How does the artist combine a simple, chunky body with fine drawn details? Which draws the eye more?",
+      "line": "Compare the smooth outline of the hippo with the dark plant lines on its skin. How do they work together?",
+      "shape": "Which big shapes make up the hippo's body? Which smaller shapes appear in the plants?",
+      "color": "Faience was often glazed bright blue-green. How does the color make this animal look special?",
+      "texture": "The surface looks glassy and smooth. How is that different from the hippo's real skin?",
+      "space": "The plants cover the hippo's body like a marsh scene. How does the artist make the body a flat canvas for drawing?",
+      "light": "What happens to the hippo's blue-green glaze where light hits it? How does it help the form?",
+      "meaning": "Marsh plants and a hippo appear together. What might the artist be saying about where the hippo belongs?",
+      "culture": "Hippos lived in the Nile, and Egyptians saw them as both powerful and risky. How might that explain making a model of one?",
+      "technique": "Faience is shaped and then glazed. What steps might the maker have needed to follow?",
+      "personal": "Think of an animal you find both powerful and gentle. How could an artist show both sides?",
+      "critical": "We do not know exactly why this hippo was made. What are some possible reasons, and what clues support each?"
+    },
+    "g68": {
+      "daily": "How does the decoration on the hippo's back transform a simple animal into a symbol of the Nile marsh?",
+      "emotion": "How does the artist soften a potentially dangerous animal? Identify the choices that create charm.",
+      "observation": "List the details you see from head to tail. Which are naturalistic and which are decorative?",
+      "analysis": "How do the rounded body and the surface decoration compete or cooperate for your attention?",
+      "line": "How do the dark linear plant motifs create rhythm across the hippo's body?",
+      "shape": "How do rounded forms and sharp plant shapes contrast? What does the contrast add?",
+      "color": "The blue-green may suggest water and plants. How does color become symbolism here?",
+      "texture": "How does the glassy faience surface differ from the look of living skin, and what does that say about the artist's goals?",
+      "space": "Though small, the hippo has weight and bulk. Which features create this sense of volume?",
+      "light": "How does the shine of the glaze reveal the form, and how might it have looked when new?",
+      "meaning": "Some scholars connect hippos with both danger and protection in Egyptian thought. How might the decoration support one reading or the other?",
+      "culture": "Why would a society living along a river create images of the animals that shared it?",
+      "technique": "Faience is made from a quartz-rich paste that is glazed and fired. How does the technique allow both a smooth body and fine painted detail?",
+      "personal": "How do you picture the habitat of a favorite animal? How does an artist suggest it without drawing the whole scene?",
+      "critical": "What can we reasonably say about the meaning of this hippo, and what must stay uncertain?"
+    },
+    "g910": {
+      "daily": "How does the surface decoration redefine the hippopotamus from a bulky animal into an emblem of its environment?",
+      "emotion": "How does the figure balance menace and charm? Which formal choices tilt the balance?",
+      "observation": "Describe how the sculpted form and the drawn decoration are distributed over the body.",
+      "analysis": "Analyze how simplification of the body allows the surface pattern to take on narrative and symbolic weight.",
+      "line": "How does the use of dark linear detail on a smooth, glossy form create contrast between structure and ornament?",
+      "shape": "How does the artist reduce the hippo to a few large masses, and how do the plant shapes complicate that reduction?",
+      "color": "How might the blue-green glaze connect the animal to the river and to ideas of fertility or rebirth, and how certain are those associations?",
+      "texture": "How does the sleek faience surface idealize the animal compared with its real skin?",
+      "space": "How does the hippo's low, wide stance anchor the figure and communicate bulk with minimal means?",
+      "light": "How does the glaze's reflectivity affect the perception of volume and make color richer?",
+      "meaning": "Evaluate the idea that this hippo is both a threat and a protective image. What evidence in the object itself supports either idea?",
+      "culture": "How does the object reflect the relationship between Egyptians and the animals of the Nile?",
+      "technique": "What does the combination of modeling, glazing, and linear painting suggest about the sophistication of Middle Kingdom workshops?",
+      "personal": "How does your reaction to an animal image change when it is decorated with symbols of its habitat?",
+      "critical": "How do popular nicknames such as \"William\" affect how people view and remember an ancient object?"
+    },
+    "g1112": {
+      "daily": "How does this hippo convert natural observation into a layered image, and which layers are best supported by evidence?",
+      "emotion": "How might the figure's genial appearance complicate modern assumptions about how Egyptians understood a dangerous animal?",
+      "observation": "Which elements of the hippo's appearance can be established by looking, and which require outside knowledge about Egyptian marsh imagery?",
+      "analysis": "Analyze the relationship between sculptural volume and applied pattern. Does the decoration describe the body or conceal it?",
+      "line": "How does the linear motif contribute to a sense of habitat while preserving the hippo's mass?",
+      "shape": "How do the figure's rounded masses and the angular or fine-lined plant forms define an aesthetic of contrast?",
+      "color": "How may a color that does not match the real animal move the object from natural description toward symbolic or magical meaning?",
+      "texture": "How does the artificial, glass-like surface of faience contribute to the object's meaning as a made, valued thing?",
+      "space": "How does the hippo occupy space as a small object, and what does scale imply about its use or handling?",
+      "light": "How does the glaze interact with light to generate meanings of vitality or water, and how might aging have altered that effect?",
+      "meaning": "Weigh readings of the hippo as decoration, as habitat symbol, or as magical figure. What kinds of evidence would settle the question?",
+      "culture": "How does the hippo's place in Egyptian thought, as a creature feared in daily life yet appearing in sacred and protective contexts, help us read the object?",
+      "technique": "Faience was a valued, engineered material. What does choosing it for a hippo imply about the figure's status?",
+      "personal": "How does the affection many modern viewers feel for this hippo shape your interpretation, and how might that differ from ancient responses?",
+      "critical": "How should viewers handle a museum nickname and a popular reputation when trying to read an object on its own terms?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Hippos), medium (faience) and period checked against the museum record. Subject is an animal figure with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A well-known Middle Kingdom faience hippo with marsh-plant decoration. Egyptians knew the hippo as a powerful and risky animal of the Nile, and it appears in several roles in their art and thought.",
+    "vocabulary": ["faience", "glaze", "Middle Kingdom", "marsh", "habitat", "symbol"],
+    "directions": [
+      "Have students design a decorated animal that shows its habitat through surface patterns only.",
+      "Ask students to debate whether the figure should be read as cute, powerful, or both, citing details.",
+      "Discuss how the nickname \"William\" shapes our view and what an ancient viewer might have called it."
+    ]
+  }
+}

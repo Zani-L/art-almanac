@@ -1,0 +1,155 @@
+{
+  "id": "artic-109439",
+  "day": "06-08",
+  "title": "America Windows",
+  "artist": "Marc Chagall",
+  "date": "1977",
+  "medium": "Stained glass",
+  "movement": "Modernism",
+  "region": "France",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "Tall stained glass windows glowing mostly in blue, with angels, musicians, birds and trees among other floating figures. Pieces of colored glass are held together by dark lines.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/109439",
+    "objectId": "109439",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Marc Chagall, born Vitebsk 1887, died Saint-Paul, France 1985), date, medium, place of origin, credit line, subject terms (animals, angels, birds), thumbnail alt text (blue stained glass windows depicting angels, musicians, trees), curatorial description (made for the 1977 US Bicentennial; three-part work combining American history, the Chicago skyline and the arts; panels representing music, painting, literature, architecture, theater and dance) and public-domain flag (false) read from the record. No image linked because the work is in copyright."
+  },
+  "context": "Made in 1977 by Marc Chagall for the American Bicentennial and given to the Art Institute of Chicago. The museum describes a three-part work combining American history, the Chicago skyline and the arts, with panels representing music, painting, literature, architecture, theater and dance. Chagall had worked in stained glass for decades.",
+  "descriptions": {
+    "k": "These are windows made of colored glass! Light shines through them and they glow blue. Look for angels, musicians, birds, and trees. Which one would you like to find first?",
+    "g12": "Marc Chagall made these windows from pieces of colored glass. When light shines through, the glass glows, mostly in blue. Look for angels, musicians, birds, and trees. They were a gift for the United States's birthday. What might each picture be celebrating?",
+    "g35": "Marc Chagall, born in Vitebsk, in what is now Belarus, made America Windows in 1977 for the United States's 200th birthday and gave them to the Art Institute of Chicago. They are stained glass: colored glass pieces held together with dark lines so light shines through. They celebrate American history, Chicago, and the arts. What figures and objects can you find?",
+    "g68": "Chagall made America Windows in 1977 for the American Bicentennial and gave them to the Art Institute of Chicago. The museum says the three-part work brings together American history, the Chicago skyline, and panels representing music, painting, literature, architecture, theater, and dance. How does stained glass, where light passes through color, make a different experience than a painting hung on a wall?",
+    "g910": "America Windows (1977) is a gift from Chagall for the American Bicentennial. The museum describes a three-part work combining American history, the Chicago skyline, and panels representing the arts, including music, painting, literature, architecture, theater, and dance. Chagall had worked in stained glass for decades. Consider how a medium that depends on transmitted light, bold color, and a network of lead lines shapes meaning, and how a gift to a city differs from a work made for a private owner.",
+    "g1112": "Chagall's America Windows, a 1977 gift marking the American Bicentennial, combines national history, the Chicago skyline, and allegories of the arts across a three-part stained-glass ensemble, as the museum describes. The work shows how Chagall adapted his dreamlike, figurative vocabulary to a public, light-filled medium he had practiced for decades. How does stained glass, with its luminous color, leaded contours, and architectural setting, affect interpretation, and what is the significance of an immigrant-descended artist honoring a nation's anniversary?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which angel, bird, or musician can you find? Point to it.",
+      "emotion": "Do these windows feel peaceful, joyful, or magical? What do you see that tells you?",
+      "observation": "Name two shapes or figures you find. Where are they?",
+      "analysis": "What do your eyes see first in the glowing blue? Why?",
+      "line": "Find the dark lines that hold the glass pieces. Where do they go?",
+      "shape": "Look for a shape that repeats. Which shapes do you spot more than once?",
+      "color": "Blue is the main color here. What other colors can you find?",
+      "texture": "Glass is smooth and shiny. How could you tell it is glass?",
+      "space": "Do some figures seem to float? Which ones, and how can you tell?",
+      "light": "How does light shining through make the colors look?",
+      "meaning": "The windows celebrate music, art, and dance. Which of these do you like best?",
+      "culture": "Chagall came from far away. What special gifts do people give to celebrate a place?",
+      "technique": "Imagine cutting colored glass to make a picture. How would you plan it?",
+      "personal": "If you made a window for your town, what would you put in it?",
+      "critical": "Why might an artist choose glass for a picture instead of paper?"
+    },
+    "g12": {
+      "daily": "What story do the angels, musicians, and birds tell together? Use clues from the picture.",
+      "emotion": "What feeling does the glowing blue give you? Show a spot that does it best.",
+      "observation": "List the figures and objects you see. What did you notice last?",
+      "analysis": "How do the figures seem to float instead of standing on the ground?",
+      "line": "How do the dark lines hold the glass and shape the picture?",
+      "shape": "Which shapes repeat in the windows? How does repeating help the picture?",
+      "color": "How does blue glass look different from blue paint?",
+      "texture": "How does glass feel different from paint or cloth?",
+      "space": "How do the windows make the figures seem to float in air?",
+      "light": "How does light passing through change the picture throughout the day?",
+      "meaning": "The windows were made for the United States's 200th birthday. What would you celebrate in a gift like this?",
+      "culture": "Chagall was born in Vitebsk and lived in France. How might he see America differently from someone who lives here?",
+      "technique": "Making stained glass means cutting and joining many small pieces. Why does that take patience?",
+      "personal": "What would you include in a window celebrating your own family or class?",
+      "critical": "Why might people put art in windows where everyone can see it?"
+    },
+    "g35": {
+      "daily": "What clues in the windows tell you what they celebrate, and what details are left as mystery?",
+      "emotion": "How would you describe the mood of the windows? Which colors and shapes create it?",
+      "observation": "Search slowly. Which small figure or detail did you notice last?",
+      "analysis": "How does Chagall arrange figures so your eyes move across the three parts?",
+      "line": "How do the leaded lines work like the outlines in a drawing?",
+      "shape": "How do figures of different shapes, such as angels, birds, and trees, work together?",
+      "color": "Why might Chagall have chosen blue as the main color?",
+      "texture": "How is the surface of stained glass different from the surface of a painting?",
+      "space": "How do the floating figures break the rules of real space?",
+      "light": "How does sunlight shining through make the windows glow from within?",
+      "meaning": "The museum says panels stand for music, painting, literature, architecture, theater, and dance. How would you picture one of those arts?",
+      "culture": "What does it mean for a French-based artist to make a gift for America's Bicentennial?",
+      "technique": "How does an artist plan a picture that must be built out of separate pieces of glass?",
+      "personal": "How would you design a window that celebrates something important to you?",
+      "critical": "How are windows in public buildings different from pictures in a private home?"
+    },
+    "g68": {
+      "daily": "How does Chagall combine history, a city skyline, and the arts in one dreamlike design?",
+      "emotion": "How does the glowing blue shape the mood, and what feelings might it express?",
+      "observation": "What parts of the windows can you identify with confidence, and what parts might have several meanings?",
+      "analysis": "How does the three-part structure help organize the story?",
+      "line": "How do leaded outlines divide the space and guide your eye?",
+      "shape": "How do flowing, simplified shapes of angels, birds, and trees give the windows a storybook feel?",
+      "color": "How does a nearly all-blue palette influence the way you read the figures?",
+      "texture": "How does glass change the experience of color compared with paint?",
+      "space": "How does the lack of single-point perspective let figures float?",
+      "light": "How does transmitted light make the colors change with the day or the weather?",
+      "meaning": "The museum describes panels for music, painting, literature, architecture, theater, and dance. How might each art appear as a figure or symbol?",
+      "culture": "How does the windows' status as a gift to a city affect how people see them?",
+      "technique": "What skills might an artist need to turn a painted design into stained glass?",
+      "personal": "How might your community honor a special event with art that everyone can see?",
+      "critical": "Why might public art be experienced differently from art in a private collection?"
+    },
+    "g910": {
+      "daily": "How does Chagall blend commemoration with fantasy in a public work?",
+      "emotion": "How does the dominant blue establish a contemplative, celebratory mood?",
+      "observation": "Analyze how the three-part structure organizes the narrative of history, city, and arts.",
+      "analysis": "How do leaded contours function as drawing and structure?",
+      "line": "How do stylized figures such as angels, musicians, and birds act as symbols?",
+      "shape": "How does the nearly monochromatic palette concentrate emotional effect?",
+      "color": "How does stained glass differ materially from painting, and how does that affect the work's meaning?",
+      "texture": "How do floating figures and unusual scale relationships create a dreamlike space?",
+      "space": "How does the dependence on natural light make the windows an evolving experience?",
+      "light": "How might the arts panels connect to the idea of a nation's cultural life?",
+      "meaning": "How does the commemoration of the American Bicentennial shape the work's tone and subject matter?",
+      "culture": "How does Chagall's background as a Russian-born artist living in France influence the perspective of a gift to America?",
+      "technique": "What might it mean that a modern painter extended his practice into architectural glass?",
+      "personal": "How does the placement of art in a museum setting alter the sense of the windows as architecture?",
+      "critical": "How would you assess whether public commemorative art succeeds?"
+    },
+    "g1112": {
+      "daily": "How does Chagall's idiosyncratic visual language adapt to the monumentality of a civic commission?",
+      "emotion": "How does the luminous blue field mediate between celebration and contemplation?",
+      "observation": "Distinguish what the museum states about the windows' themes from interpretations you might add. What evidence supports each?",
+      "analysis": "How does the tripartite structure shape reading across history, city, and the arts?",
+      "line": "How does the leaded line reconcile the demands of the medium with Chagall's fluid drawing?",
+      "shape": "How do recurring motifs such as angels, musicians, and birds operate as part of Chagall's personal iconography, and what changes in a public context?",
+      "color": "How does the chromatic restraint here compare with the more varied palettes typical of stained glass?",
+      "texture": "How does the material condition of glass, light passing through rather than reflecting off, shift the viewer's relationship to the image?",
+      "space": "How does the dreamlike treatment of space challenge the conventions of commemorative art?",
+      "light": "How does the work's reliance on ambient light make it contingent on its display environment?",
+      "meaning": "How might allegorical representations of the arts function in a national commemoration?",
+      "culture": "How does the circumstance of the Bicentennial gift, from an artist born in the Russian Empire and established in France, complicate ideas of national identity?",
+      "technique": "How does Chagall's work in stained glass blur distinctions between fine art, craft, and architecture?",
+      "personal": "How do your assumptions about what counts as painting affect how you value a work in glass?",
+      "critical": "What are the strengths and limitations of public commemorative art as a vehicle for collective memory?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium (stained glass), subject terms (animals, angels, birds) and curatorial description checked against the Art Institute of Chicago record; no concerning terms. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1977 stained-glass work by Marc Chagall given to the Art Institute of Chicago to mark the American Bicentennial. The museum describes three parts combining American history, the Chicago skyline and the arts. The work is in copyright, so no image is linked yet.",
+    "vocabulary": [
+      "stained glass",
+      "leading",
+      "transmitted light",
+      "Bicentennial",
+      "allegory",
+      "palette"
+    ],
+    "directions": [
+      "Have students make a paper or tissue-paper 'stained glass' window and hold it to a window to see how light changes the color.",
+      "Ask students to design a panel that stands for an art such as music or dance without using words.",
+      "Discuss why a city might commission or receive public art as a gift."
+    ]
+  }
+}

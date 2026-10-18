@@ -1,0 +1,158 @@
+{
+  "id": "met-501072",
+  "day": "09-11",
+  "title": "Drum",
+  "artist": "Artist unknown (Kenya)",
+  "date": "19th century",
+  "medium": "Wood, nails, reptile skin, rope",
+  "region": "Kenya (Freretown, Mombasa)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/244174.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/244174.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small barrel-shaped wooden drum with skin stretched across its ends and held in place with rope and nails.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501072",
+    "objectId": "501072",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, city, classification, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A small double-headed barrel drum from Kenya, made in the 19th century from wood, nails, reptile skin, and rope. The record gives the place as Freretown, Mombasa. It is about 28 centimeters long, and its drumheads are about 20 centimeters across. It entered the museum in 1889 as part of the Crosby Brown Collection of Musical Instruments.",
+  "descriptions": {
+    "k": "This is a small drum from Kenya. It is shaped like a barrel. Skin is stretched tight across the ends. Ropes help hold it. Tap, tap, tap! What sound do you think it makes? Would it be loud or soft?",
+    "g12": "This is a small drum made in Kenya long ago. It is shaped like a barrel, with skin stretched across both ends. Rope and nails hold the skin tight. When you hit tight skin, it makes a sound. What rhythm would you play on it?",
+    "g35": "This drum was made in Kenya in the 1800s. Its barrel-shaped body is made of wood, and skin is stretched over both ends and held with rope and nails. A drum like this is a double-headed drum, because both ends can be played. It is small, only about 28 centimeters long. Look at the rope and the nails. How do they help the drum work, and how do they change how it looks?",
+    "g68": "This barrel drum has a wooden body with skin stretched over both ends, held in place with rope and nails. Tension is the key: tighter skin makes a higher sound, looser skin makes a lower one, so the rope is not just decoration. The museum lists reptile skin for the heads and records the place as Freretown, Mombasa. The drum is small, about 28 centimeters long, so its sound would suit close listening. What do you think the surface and shape reveal about how it was made and played?",
+    "g910": "Drums are among the most widespread instruments, and this 19th-century barrel drum from Kenya shows how a few materials, wood, skin, rope, and nails, make a complete instrument. Its double heads allow it to be played at both ends, and the rope and nails hold the skin under tension, which determines pitch and tone. The record places it in Freretown, Mombasa, but gives no details about the makers or players. How do the materials and structure of this drum embody its sound, and what can't an image tell us?",
+    "g1112": "This barrel drum from Kenya is a compact, functional object whose design is dictated by acoustics: a wooden shell, two skin heads, and rope and nails to hold them under tension. The museum acquired it in 1889 as part of a collection that sought to represent musical instruments worldwide, which shaped what was collected and how it was labeled. The record provides a locality, Freretown, Mombasa, but not the community of the maker or the player. How should we think about an instrument that was gathered as a specimen of a type, rather than as the tool of a particular musician?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What sound do you think this drum makes? Make the sound with your voice.",
+      "emotion": "Does this drum look like it would be loud or soft? Why?",
+      "observation": "What parts of the drum can you find? Point to the skin and the rope.",
+      "analysis": "Where do your eyes go first on the drum? Where do they go next?",
+      "line": "Can you find a rope line on the drum? Trace it in the air.",
+      "shape": "What shapes make up the drum? Look for circles and curves.",
+      "color": "What colors do you see on the drum? Which one do you see the most?",
+      "texture": "The drum has wood, skin, and rope. Which part do you think feels rough, and which feels smooth?",
+      "space": "The drum is small. Can you show its size with your hands?",
+      "light": "Which parts of the drum look light and which look dark?",
+      "meaning": "When do people play drums? Tell about a time you heard drums.",
+      "culture": "This drum came from Kenya in East Africa. What instruments do you hear in your community?",
+      "technique": "Skin is stretched tight across the drum. What do you think happens if the skin is loose?",
+      "personal": "If you could play this drum, what rhythm would you play?",
+      "critical": "How can you tell this drum is for playing music?"
+    },
+    "g12": {
+      "daily": "How do the skin, rope, and wood work together to make a drum? Point to details.",
+      "emotion": "What feeling does this drum give you? Show what makes you feel that way.",
+      "observation": "Describe three parts of the drum, from the skin to the rope to the wood.",
+      "analysis": "How are the parts of the drum held together? What do you see that shows it?",
+      "line": "Follow the rope with your eyes. Where does it go, and what shape does it make?",
+      "shape": "The drum is shaped like a barrel. What other shapes do you see?",
+      "color": "What colors are in the wood, the skin, and the rope? How do they look together?",
+      "texture": "Which parts look smooth and which look rough? How would you tell by looking?",
+      "space": "A drum has an empty space inside. How does that empty space help it make sound?",
+      "light": "Where would light hit the drum first? Where might there be shadows?",
+      "meaning": "Why do people make music together? Tell about a time you did.",
+      "culture": "People in Kenya have made drums for a long time. What do drums help people do?",
+      "technique": "The skin has to be pulled tight to make a sound. Why do you think it needs rope and nails?",
+      "personal": "What is your favorite way to make rhythm, such as clapping or tapping?",
+      "critical": "Both ends of this drum have skin. Why might that be useful?"
+    },
+    "g35": {
+      "daily": "How do the materials and shape of this drum work together to make an instrument? Use details to explain.",
+      "emotion": "What mood does the drum have? Which details create that mood?",
+      "observation": "Look for one quiet minute. Which details of the rope, nails, or skin did you notice only on a second look?",
+      "analysis": "How do the ropes and nails hold the drum together, and how can you see them in the picture?",
+      "line": "How do the lines of the rope contrast with the curve of the drum's body?",
+      "shape": "Describe the drum's overall shape. How do the round heads and the curved body fit together?",
+      "color": "How do the natural colors of wood, skin, and rope make the drum look?",
+      "texture": "How do the skin, rope, and wood look different from each other?",
+      "space": "A drum is hollow. Why is the empty space inside important to its sound?",
+      "light": "How might light and shadow help show the drum's rounded body?",
+      "meaning": "The museum does not say how this drum was played. What could you learn from the drum itself?",
+      "culture": "This drum was collected in 1889. How might an old drum in a museum differ from a drum being played today?",
+      "technique": "Tighter skin makes a higher sound. How might the maker adjust the sound of a drum?",
+      "personal": "What do you think it would be like to play this drum? What would you play?",
+      "critical": "The drum is small. What can a small drum do that a large drum cannot?"
+    },
+    "g68": {
+      "daily": "How does the drum's structure show the relationship between materials and sound?",
+      "emotion": "What energy does the drum suggest even when silent, and what visual evidence supports your answer?",
+      "observation": "Describe the drum's structure from end to end. What details are easy to overlook?",
+      "analysis": "How do the heads, body, and rope relate to one another in the drum's design?",
+      "line": "How do rope and edges create lines that wrap around the drum, and what effect do they have?",
+      "shape": "How do the circular heads and curved body create a balance of shapes?",
+      "color": "What do the natural colors and tones tell you about the materials and how they have aged?",
+      "texture": "How do the different textures of skin, wood, and rope show how each material was used?",
+      "space": "How does the hollow space inside the drum shape its sound, and how can you tell from the outside?",
+      "light": "How might the surface of the skin reflect light differently from the wood?",
+      "meaning": "What can we learn about an instrument from its structure, and what can we not learn?",
+      "culture": "How might the place Freretown, Mombasa, help us think about trade and exchange on the East African coast?",
+      "technique": "What skills would a maker need to prepare skin, shape a body, and bind them with rope and nails?",
+      "personal": "How does rhythm shape the way you or your community celebrate or work together?",
+      "critical": "What would a recording of this drum add to the museum's presentation?"
+    },
+    "g910": {
+      "daily": "How does this drum reveal the connection between form, material, and sound?",
+      "emotion": "How does an instrument evoke rhythm and energy even in silence?",
+      "observation": "Describe the drum's visual hierarchy. What draws your eye first, and which devices do that?",
+      "analysis": "Analyze how tension in the skin and the rope arrangement determine the drum's function.",
+      "line": "How do ropes and nails articulate the drum's surface, and how do they relate to its overall shape?",
+      "shape": "How does the drum's barrel form balance round heads with a curved body?",
+      "color": "How does the restricted palette of natural materials shape the object's presence?",
+      "texture": "How do contrasts among skin, wood, rope, and metal create a layered surface?",
+      "space": "How does the hollow interior define the drum as both an object and a resonating chamber?",
+      "light": "How would changing light reveal the texture of the skin and the surface of the wood?",
+      "meaning": "What does the drum's small size suggest about how it may have been played, and what cautions are needed?",
+      "culture": "How do instruments collected in the 19th century reflect the interests of collectors as well as the cultures that made them?",
+      "technique": "How does the combination of nails and rope show the practical decisions of the maker?",
+      "personal": "How does the sound of percussion in your life connect to your sense of community?",
+      "critical": "What are the limits of studying an instrument as a silent object in a museum?"
+    },
+    "g1112": {
+      "daily": "What can the drum's construction tell us about its sound and use, and what must remain uncertain?",
+      "emotion": "How does silence change the experience of a percussion instrument in a gallery?",
+      "observation": "Describe the drum with precision. Which parts of your description depend on assumptions about how it was played?",
+      "analysis": "Analyze how the drum's construction expresses the demands of tension, resonance, and portability.",
+      "line": "How do ropes and edges form a linear structure that supports the drum's function?",
+      "shape": "How does the drum's geometry relate to its acoustic function, and what does form tell us about use?",
+      "color": "How might aging, handling, and the museum's environment have altered the drum's original appearance?",
+      "texture": "How do material qualities of skin, wood, and fiber contribute to both sound and surface?",
+      "space": "How does the hollow shell turn empty space into an essential element of the instrument?",
+      "light": "How might museum lighting distort the perception of natural materials that have aged?",
+      "meaning": "How should we interpret an instrument that has been collected as a type rather than documented as an individual's tool?",
+      "culture": "How did late-19th-century collecting of instruments shape the labels, categories, and attributions we inherit?",
+      "technique": "What does the use of nails alongside traditional materials suggest about the materials and trade networks available to the maker?",
+      "personal": "How does your own experience of rhythm shape the way you imagine this drum's sound?",
+      "critical": "How might collaborating with musicians from the region where this drum was made change how museums present such instruments?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Drum), classification (Membranophone-double-headed / barrel drum), medium (wood, nails, reptile skin, rope), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A small double-headed barrel drum from Freretown, Mombasa, Kenya, made in the 19th century and collected by 1889. The record does not name the makers or players. Use it to explore how tension and materials shape sound.",
+    "vocabulary": [
+      "membranophone",
+      "drumhead",
+      "tension",
+      "pitch",
+      "barrel drum",
+      "resonance"
+    ],
+    "directions": [
+      "Stretch a balloon or plastic wrap over a cup and tap it to hear how tension changes sound.",
+      "Have students create a short rhythm pattern with clapping and discuss how rhythm connects people.",
+      "Discuss how museums learn about instruments they cannot hear, and what questions we would ask a musician."
+    ]
+  }
+}

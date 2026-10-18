@@ -1,0 +1,159 @@
+{
+  "id": "met-444718",
+  "day": "03-22",
+  "title": "Mosque Lamp",
+  "artist": "Artist unknown",
+  "date": "14th century",
+  "medium": "Glass; blown, enameled, and gilded",
+  "movement": "Mamluk glass",
+  "region": "Egypt (Cairo) or Syria",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP-17265-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP-17265-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A glass hanging lamp with a rounded body, a wide flaring neck and a tall foot, with small handles on the sides. Bands of Arabic lettering and bright enamel and gold decoration circle the glass.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/444718",
+    "objectId": "444718",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification and image URLs read from the record; museum page text read for shape and inscription bands"
+  },
+  "context": "A glass lamp made in the 14th century in Egypt (Cairo) or Syria, during the Mamluk period. The Met describes a flattened, globular body with six suspension rings, a wide flaring neck and a high foot, with inscription bands in blue and reserved against a blue ground.",
+  "descriptions": {
+    "k": "This is a glass lamp made long ago. It has a round body, a wide top, and a tall foot. Small rings on the sides were for hanging it. Bands of writing go around it. How do you think light looked coming out of it?",
+    "g12": "People made this glass lamp a very long time ago in Egypt or Syria. It has a round body and a wide, flared top. Small rings on the sides held chains so it could hang. Writing and bright decoration circle the glass. Imagine it glowing in a big room. What would that look like?",
+    "g35": "This lamp was made in the 1300s in Egypt or Syria. Glassmakers blew the glass, then painted it with enamel, a kind of glass paint, and added gold. Six rings around the body held chains for hanging. Two bands of Arabic writing circle it, one in blue and one left clear against a blue background. Why might a lamp for a large building be so carefully decorated?",
+    "g68": "Mamluk glassmakers in Egypt and Syria created lamps like this for hanging in mosques and other buildings. The Met describes a flattened globular body, six suspension rings, a wide flaring neck and a high foot. Inscription bands follow Mamluk convention: one in blue, the other reserved against a blue ground. Notice how the writing becomes the decoration. How do the shape and bands of writing help the lamp look balanced when it hangs?",
+    "g910": "This Mamluk lamp unites function and display. Blown glass is enameled and gilded, with inscription bands that, as the Met notes, follow Mamluk convention: one band in blue, the other reserved against a blue ground. A word repeats at the neck and foot, separated by an emblem the museum has not yet identified, while the body carries a general dedication with no patron's name. Consider how a hanging object is seen from below, and how decoration, writing and glowing glass might have worked together.",
+    "g1112": "Mamluk enameled glass lamps are among the most admired objects of the 14th century, yet this one holds open questions. The Met attributes it to Egypt (Cairo) or Syria, notes a formulaic dedicatory inscription without a patron's name, and leaves unidentified the emblem that separates a repeated word at the neck and foot. The lamp's shape, with six rings for suspension, suggests it was hung, and its inscriptions integrate writing with ornament. Such features invite discussion of patronage, anonymity, and the way light and text may have shaped the experience of a space."
+  },
+  "questions": {
+    "k": {
+      "daily": "This lamp was made to hang up. Can you find the little rings where a chain could go?",
+      "emotion": "Do you think this lamp would make a room feel cozy or scary? Why?",
+      "observation": "What parts can you name on this lamp: the round body, the wide top, the tall foot?",
+      "analysis": "Which part of the lamp do your eyes look at first? Show with your finger.",
+      "line": "Use your finger to trace a band of writing around the lamp. Where does it start and end?",
+      "shape": "Find the round part of the lamp and the wide, flared top. How are the shapes different?",
+      "color": "What colors do you see on the glass? Which one stands out the most?",
+      "texture": "Glass is smooth and cool. Which parts of this lamp might feel different, like the painted bands?",
+      "space": "If the lamp hung high on the ceiling, would you look up or down at it?",
+      "light": "A lamp makes light. Where do you think the light would come out of this one?",
+      "meaning": "Writing is part of the lamp's decoration. What words would you put on a lamp?",
+      "culture": "People hung lamps like this in big buildings long ago. How is that like or unlike lights in your school?",
+      "technique": "This lamp was made of glass that was blown, like blowing a bubble. Why can glass be shaped that way?",
+      "personal": "What would you do if you were allowed to hang a special lamp in your room?",
+      "critical": "Why do you think the glassmaker made such a fancy lamp instead of a plain one?"
+    },
+    "g12": {
+      "daily": "This lamp has bands of writing and bright decoration. Which part of the glass would you look at longest?",
+      "emotion": "Imagine this lamp glowing in a quiet building. What feeling would it give you?",
+      "observation": "Describe the lamp from top to bottom. What shapes and bands do you find?",
+      "analysis": "The lamp is wide at the top, round in the middle, and has a foot. How do those parts balance each other?",
+      "line": "Writing runs around the lamp in lines. How do the lines help your eye go around it?",
+      "shape": "The six rings around the body hold chains. Where do you see small round shapes on the lamp?",
+      "color": "Find the blue on the lamp. How does it make the other colors stand out?",
+      "texture": "Which parts of the lamp look smooth glass, and which parts look painted on top?",
+      "space": "The lamp has an inside and an outside. How would light inside change how you see the outside?",
+      "light": "Glass lets light pass through. How would a lit lamp look different from an unlit one?",
+      "meaning": "Why might writing be chosen as decoration on a lamp for a building?",
+      "culture": "This lamp comes from Egypt or Syria, from a time called the Mamluk period. What can a lamp tell us about how people lived?",
+      "technique": "Glassmakers blew the glass and then painted it with enamel and gold. Why might those two steps need great care?",
+      "personal": "What object in your home gives light? How is it like or unlike this lamp?",
+      "critical": "Nobody knows the name of the glassmaker. How can we learn about the maker from the lamp alone?"
+    },
+    "g35": {
+      "daily": "What details in this lamp's shape and decoration tell you it was made for a special place?",
+      "emotion": "How might this lamp have changed the feeling of a large room when it was lit?",
+      "observation": "Look for the six rings, the two bands of writing, and the foot. What do you notice about how they are arranged?",
+      "analysis": "How does the lamp's shape, round at the middle with a wide neck and a tall foot, make it look balanced?",
+      "line": "How do bands of writing act like lines that circle the lamp and help hold the design together?",
+      "shape": "How does the flaring neck contrast with the round body, and why might that be useful for a lamp?",
+      "color": "The Met says one writing band is blue and the other is clear against a blue ground. How does that reversal create interest?",
+      "texture": "How would enamel paint on glass feel different from the glass around it?",
+      "space": "A lamp hangs in open air and can be seen from all sides. How is that different from a painting on a wall?",
+      "light": "Why would a glass lamp, rather than a clay or metal one, be good for spreading light?",
+      "meaning": "The lamp has writing but no patron's name. What might the writing be there to do?",
+      "culture": "Mamluk glassmakers were famous for lamps like this. What does it tell you about how important light and decoration were in public buildings?",
+      "technique": "The glass was blown, painted with enamel, and gilded. Why would it be tricky to paint curved, thin glass?",
+      "personal": "Think of a place that feels special to you. How could light and decoration help make it that way?",
+      "critical": "The Met says the museum has not yet identified one emblem on the lamp. What do we do when part of an artwork remains a mystery?"
+    },
+    "g68": {
+      "daily": "How does the shape, writing, and decoration of this lamp make an everyday tool into something worth admiring?",
+      "emotion": "How might a glowing glass lamp with writing around it create a feeling of calm or reverence in a building?",
+      "observation": "Catalog what you see: shape parts, rings, bands, emblems. Which details feel most carefully planned?",
+      "analysis": "How do the horizontal bands of writing organize the curved surface and balance the lamp's flaring neck and foot?",
+      "line": "How does lettering function as line here, giving rhythm, direction, and structure to the glass?",
+      "shape": "How do the rounded body, wide neck, and foot make a silhouette that is both stable and graceful?",
+      "color": "Blue is used both as writing and as background. How does swapping figure and ground make the bands feel varied?",
+      "texture": "How might raised enamel and gold contrast with smooth, transparent glass, in sight and in touch?",
+      "space": "Why does a hanging object need to look good from below and from the side? What does that mean for the design?",
+      "light": "How would the transparency of glass and the colored enamel interact when a flame lit the lamp?",
+      "meaning": "A word repeats on the neck and foot, and an emblem separates it. What might repetition do for a viewer?",
+      "culture": "How might Mamluk-era patrons have used luxurious objects like this to show care for important buildings?",
+      "technique": "How do the steps of blowing, enameling, and gilding each add something different to the lamp?",
+      "personal": "How do lights in public places, such as lanterns or lamps, affect the way you feel in them?",
+      "critical": "The lamp has no patron's name. What can we know about its purpose, and what must we leave uncertain?"
+    },
+    "g910": {
+      "daily": "How do the lamp's form, inscription, and enamel work together to make a functional object a statement of beauty?",
+      "emotion": "How might glowing glass and writing, seen from below, shape the emotional atmosphere of a large interior?",
+      "observation": "Describe the visual hierarchy: which band, shape, or emblem draws attention first, and why?",
+      "analysis": "Analyze how the two inscription bands, one blue and one reserved, establish rhythm across the lamp's curved profile.",
+      "line": "How does the calligraphy operate as both language and linear ornament on the glass?",
+      "shape": "How does the lamp's profile, with a flattened globular body, flaring neck, and high foot, balance mass and openness?",
+      "color": "How does the interplay of blue, other enamels, and gilding build contrast and hierarchy?",
+      "texture": "How do the surface qualities of enamel, gold, and glass differ, and how would they have appeared in lamplight?",
+      "space": "How does a suspended, translucent form relate to the architecture around it in ways a wall painting cannot?",
+      "light": "How might the lamp transform light from a simple flame into a decorative event, and how might the decoration filter that light?",
+      "meaning": "The Met mentions an unidentified emblem and a formulaic dedication without a patron's name. What do these omissions suggest, and what can't we conclude?",
+      "culture": "How does the lamp reflect the connection between public religious spaces and luxury craft in Mamluk society?",
+      "technique": "What does the combination of blowing, enameling, and gilding suggest about workshop specialization?",
+      "personal": "How does your experience of light and darkness in a favorite space help you imagine this lamp in use?",
+      "critical": "What are the risks of assuming we know how a lamp like this was used, given what the record says and doesn't say?"
+    },
+    "g1112": {
+      "daily": "What can a single Mamluk lamp tell us, and what cannot be determined, about the people who made, commissioned, or used it?",
+      "emotion": "How might the lamp's combination of luminosity and writing have produced a particular atmosphere, and how do we reconstruct that without the original setting?",
+      "observation": "Describe the lamp's construction and decoration in precise terms, then note which observations are firm and which depend on interpretation.",
+      "analysis": "Evaluate how the inscription bands, shape, and emblems create a unified composition on a three-dimensional form.",
+      "line": "How does the treatment of calligraphy as ornament blur the boundary between text and decoration?",
+      "shape": "Discuss how the lamp's profile balances structural needs, hanging, holding oil, with visual elegance.",
+      "color": "How do enamel colors and gilding signal both luxury and the conventions of a workshop tradition?",
+      "texture": "What role do surface contrasts between glass, enamel, and gold play in the object's perceived richness?",
+      "space": "How does the transparency of glass make the lamp's interior and exterior part of one image, and how does that differ from opaque media?",
+      "light": "In what sense is light a material of this object, and what do we lose when we see it unlit in a museum?",
+      "meaning": "How might an inscription with no patron's name function differently from named commissions, and what readings does that open?",
+      "culture": "How does the attribution to Egypt or Syria reflect the shared artistic world of the Mamluk Sultanate, and what are the limits of such attributions?",
+      "technique": "How can we reconstruct the sequence of making from the evidence on the object, and where are the gaps?",
+      "personal": "How do your assumptions about religious or public spaces shape the setting in which you imagine the lamp?",
+      "critical": "How should viewers handle objects with uncertain origins, including an unidentified emblem and a possible range of places of manufacture?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Glass) and country checked against the museum record, and the museum page text read: decoration is inscription bands, enamel and gilding.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Enameled and gilded glass lamps were hallmark luxury objects of Mamluk Egypt and Syria in the 13th and 14th centuries. This example carries a general inscription and no patron's name.",
+    "vocabulary": [
+      "Mamluk",
+      "enamel",
+      "gilded",
+      "blown glass",
+      "inscription",
+      "reserved"
+    ],
+    "directions": [
+      "Have students sketch a hanging lamp with a band of writing in two reversed color schemes (blue on clear, clear on blue).",
+      "Discuss how objects can be both useful and beautiful, and ask students to find examples in their own school.",
+      "Compare this lamp's use of writing as decoration with another lettered object in the archive, such as the bowl from Central Asia."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-314523",
+  "day": "03-28",
+  "title": "Cylindrical Vessel",
+  "artist": "Artist unknown (Maya)",
+  "date": "1st century BCE–1st century CE",
+  "medium": "Ceramic, slip",
+  "region": "Maya culture, Guatemala (Mesoamerica)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP101926.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP101926.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Arthur M. Bullowa, 1982",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall ceramic vessel with straight, cylindrical sides, about ten inches high, with a surface coated in slip.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/314523",
+    "objectId": "314523",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, region, credit line, classification, objectName (Vessel), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags."
+  },
+  "context": "A ceramic vessel with straight, cylindrical sides, made by Maya artists in what is now Guatemala around the 1st century BCE to the 1st century CE. It stands about 25 centimeters (10 inches) high. The date places it before the better-known Classic period of Maya art.",
+  "descriptions": {
+    "k": "This is a tall clay pot with straight sides, like a tube. It is about as tall as a big book. Maya artists made it. Look at the sides and the top edge. What do you see?",
+    "g12": "Maya artists in Guatemala made this tall clay vessel, a container, more than 1,900 years ago. Its sides are straight, like a cylinder. A thin coat of colored clay, called slip, covers it. Look slowly all the way around. What do you find?",
+    "g35": "This tall vessel was made by Maya artists in what is now Guatemala, around the 1st century BCE or 1st century CE. That is earlier than the famous Classic Maya period. Its straight sides form a cylinder, and the surface is coated with slip, a thin layer of liquid clay. Look closely at the rim, the sides, and the base. What can you learn from shape alone?",
+    "g68": "Long before the Classic Maya cities that many people picture, potters in what is now Guatemala were already making fine vessels like this cylinder, dated to around the turn of the era. The clean, upright form and slip-coated surface show careful craft. Because the record gives few details about decoration or use, this object invites close looking at form, proportion, and surface rather than quick conclusions. What can an object teach us when we have little written information?",
+    "g910": "Dated to about the 1st century BCE or 1st century CE, this cylindrical vessel comes from a Maya world earlier than the Classic period, when later painted vases became famous. Its strength lies in proportion: tall, straight sides, a defined rim, and a slip-covered surface. The record offers few clues about decoration or use, so a careful viewer separates what is visible from what is assumed. How much can form alone tell us about the skill and priorities of its makers?",
+    "g1112": "This Maya cylindrical vessel, made roughly between the 1st century BCE and the 1st century CE, predates the polychrome cylinder vases of the Classic period for which Maya ceramics are best known. Seen alone, it asks what survives in an object stripped of context: proportion, surface treatment, and the evidence of skilled forming. Its record gives no findspot or documented use, so claims about ritual or status remain speculative. The object is a useful test case for evidence-based interpretation of early Maya material culture."
+  },
+  "questions": {
+    "k": {
+      "daily": "Walk your eyes slowly around this tall pot. What is the most interesting thing you find?",
+      "emotion": "Does this tall pot feel strong, quiet, or something else? What makes you say so?",
+      "observation": "What parts of the pot can you name? Look at the top edge, the sides, and the bottom.",
+      "analysis": "Where do your eyes go first on this pot: the top, the middle, or the bottom? Why?",
+      "line": "Trace the straight sides of the pot with your finger in the air. Are they all the same?",
+      "shape": "The pot is shaped like a cylinder. What other things do you know that are shaped like a tube?",
+      "color": "What colors do you see on the pot? Is it one color or many?",
+      "texture": "How do you think the surface would feel if you touched it? Smooth, shiny, or rough?",
+      "space": "This pot is about as tall as a big book. What could fit inside?",
+      "light": "Where does the pot look bright and where does it look darker?",
+      "meaning": "What do you think people kept in a pot like this?",
+      "culture": "Maya artists in Guatemala made this pot long, long ago. What do you use at home that is shaped like a tall cup?",
+      "technique": "This pot is made of clay. How do you think someone made the sides stand up straight?",
+      "personal": "If you could make a tall pot, what would you put inside it?",
+      "critical": "How can we know about people from a pot when we cannot ask them?"
+    },
+    "g12": {
+      "daily": "What do you notice when you look slowly all around this vessel? Tell about one surprising detail.",
+      "emotion": "What feeling does the straight, tall shape give you: steady, proud, or plain? Why?",
+      "observation": "Describe the vessel from the rim to the base. What do you see in each part?",
+      "analysis": "How does the straight shape help the vessel stand steady? What would change if the sides curved?",
+      "line": "Find the lines at the top and bottom edges. How do they frame the sides?",
+      "shape": "A cylinder has flat circles at the ends and a curved side. Which parts can you see here?",
+      "color": "The record says the surface has slip. What color is it, and is it even or does it change?",
+      "texture": "Does the surface look polished, dull, or marked? What clues help you decide?",
+      "space": "This vessel is about ten inches tall. How does its height compare with a cup or a vase you know?",
+      "light": "If light shines from one side, how would the round shape change what you see?",
+      "meaning": "Why might a potter make a vessel tall and straight instead of round?",
+      "culture": "This vessel is older than the famous Maya cities and pyramids many people know. What does that tell you about Maya art?",
+      "technique": "Slip is a thin coat of liquid clay. Why might a potter add slip to a pot?",
+      "personal": "What plain object at home would you decorate to make it special?",
+      "critical": "The record tells us little about this vessel's use. What guesses could we make, and why should we be careful?"
+    },
+    "g35": {
+      "daily": "What can you tell about the vessel's makers just from its shape and surface?",
+      "emotion": "How does the tall, upright form affect the mood of the object? Use details to explain.",
+      "observation": "Look closely for one minute. List all the details you notice on the rim, sides, and base.",
+      "analysis": "How do height, width, and the rim work together to make the vessel look balanced?",
+      "line": "How do the vertical sides and the horizontal rim create a sense of order?",
+      "shape": "The vessel is a cylinder. How is that shape useful for holding things, and how does it look different from a round jar?",
+      "color": "How does the color of the slip affect the way you see the vessel's form?",
+      "texture": "How might a slipped surface feel different from bare clay, and how can you tell from the picture?",
+      "space": "A vessel has an outside and an inside. What can you see about the outside, and what can you only imagine about the inside?",
+      "light": "How does a curved surface make light fade gradually from bright to dark?",
+      "meaning": "The record does not say how this vessel was used. What uses could you suggest from its shape?",
+      "culture": "Maya people in Guatemala made pots like this about 2,000 years ago. Why might a society make fine pots even for everyday use?",
+      "technique": "Potters often built walls with coils of clay. What would they need to do to keep the walls of a tall cylinder straight?",
+      "personal": "What do you own that is useful and also nice to look at? How are the two ideas connected?",
+      "critical": "If a museum label gives few facts, how can a careful viewer avoid making up a story?"
+    },
+    "g68": {
+      "daily": "What features of this vessel show skill, and how can you support that claim from what you see?",
+      "emotion": "How does restraint, with few visible features, create a particular mood? What would a busier surface change?",
+      "observation": "Without interpreting, list what you can see about rim, wall, base, and surface. What cannot be seen from this image?",
+      "analysis": "How do proportion and symmetry shape the way you read this vessel as well made?",
+      "line": "How does the vertical line of the sides compare with the shape of the rim in creating stability?",
+      "shape": "How does a cylinder differ from a bowl or sphere in how it feels to hold and use?",
+      "color": "How might slip color have been chosen to make the vessel look more refined than bare clay?",
+      "texture": "What might a potter do to the surface of a vessel, such as smoothing or burnishing, to affect its look?",
+      "space": "How does the vessel define a space inside itself, and why might that matter for a culture's daily life?",
+      "light": "How would the shine or dullness of the surface change under firelight versus daylight?",
+      "meaning": "How can we tell the difference between what the vessel shows and what we assume about it?",
+      "culture": "Maya culture is often linked to later monuments. What does an earlier vessel like this add to that picture?",
+      "technique": "How might a potter keep a tall vessel from sagging or cracking during drying and firing?",
+      "personal": "When you see a simple object in a museum, what makes you stop and look longer?",
+      "critical": "How do the gaps in this record shape what we can and cannot responsibly say about the vessel?"
+    },
+    "g910": {
+      "daily": "How do proportion, surface, and profile combine to give this vessel visual authority?",
+      "emotion": "What qualities, such as stability, restraint, or formality, does the vessel project, and which features create them?",
+      "observation": "Describe the vessel's profile and surface in order. Which details are most informative and which are ambiguous?",
+      "analysis": "Analyze the relationship between the vessel's verticality and its horizontal edges.",
+      "line": "How does the vessel's outline function as its primary line, and what does it communicate?",
+      "shape": "How does the cylinder as a form relate to ideas of storage, serving, and display?",
+      "color": "How does slip function as both decoration and surface protection, and what does its color contribute?",
+      "texture": "How does surface finish affect whether a vessel reads as utilitarian or valued?",
+      "space": "How does the contrast between an enclosed interior and a visible exterior shape the vessel's role?",
+      "light": "How does the curving wall respond to light, and what does this reveal about surface quality?",
+      "meaning": "What are the limits of interpreting a vessel's meaning when decoration, findspot, and use are unknown?",
+      "culture": "How does examining a Maya vessel from before the Classic period alter the usual story of Maya art?",
+      "technique": "What would a potter need to control to produce an upright cylindrical form with a consistent profile?",
+      "personal": "How does looking for evidence in a simple object differ from looking at a dramatic image?",
+      "critical": "How might the way a museum photographs a vessel influence what viewers believe they know about it?"
+    },
+    "g1112": {
+      "daily": "What is the strongest argument you can make about this vessel from visible evidence alone, and what counter-argument would you anticipate?",
+      "emotion": "How does a seemingly plain object produce an aesthetic response, and is that response shaped by museum display?",
+      "observation": "Describe the vessel's form and surface precisely. Where does your description rely on inference rather than sight?",
+      "analysis": "Analyze how proportion and profile convey craft knowledge, and how that knowledge might have been shared among potters.",
+      "line": "How does the vessel's silhouette function as an expressive element in the absence of visible figural imagery?",
+      "shape": "How does the choice of a cylinder, which later became central to Maya painted vases, relate to continuity and change in Maya ceramics?",
+      "color": "What can slip color indicate about technology, preference, and trade, and what can it not?",
+      "texture": "How do finishing techniques inscribe labor in an object's surface, and how do we read that labor today?",
+      "space": "How does the vessel's capacity to enclose contribute to its social meaning, as opposed to its visible form?",
+      "light": "How do lighting conditions in a museum differ from the conditions in which a vessel like this might originally have been seen?",
+      "meaning": "Evaluate how scholars might argue for ritual, domestic, or elite uses of a vessel like this without documented context.",
+      "culture": "How does a chronological label like Late Preclassic organize Maya history, and how might it hide regional diversity?",
+      "technique": "What does consistent wall thickness and profile suggest about technical learning and specialization, and what are its limits as evidence?",
+      "personal": "How do your own expectations of Maya art, perhaps formed by monuments and carved figures, shape what you see in a plain vessel?",
+      "critical": "How should museums present objects with limited documentation so that visitors learn what is known and what is not?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Ceramics-Containers), objectName (Vessel), and medium read from the museum record; the record lists no tags, no sacred or restricted flag, and nothing suggesting human remains, nudity, or weapons. The image file itself was not visually inspected, and surface decoration is unknown, so a person should confirm the image in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Maya cylindrical ceramic vessel from Guatemala dated to about the 1st century BCE to the 1st century CE, earlier than the Classic period. The record lists no tags or documented use, so this entry stresses form, proportion, and evidence.",
+    "vocabulary": ["Maya", "vessel", "cylinder", "slip", "ceramic", "proportion"],
+    "directions": [
+      "Have students measure and compare the vessel's height (about 25 cm) with containers in the classroom.",
+      "Ask students to write what they can see, what they can infer, and what they cannot know.",
+      "Compare with a later Maya vessel from another source to discuss change over time."
+    ]
+  }
+}

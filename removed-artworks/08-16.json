@@ -1,0 +1,158 @@
+{
+  "id": "met-247015",
+  "day": "08-16",
+  "title": "Wall painting from Room F of the Villa of P. Fannius Synistor at Boscoreale",
+  "artist": "Artist unknown",
+  "date": "ca. 50–40 BCE",
+  "medium": "Fresco",
+  "region": "Roman",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP165191.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP165191.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1903",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Roman wall painting in fresco showing painted architecture with columns, made to make a flat wall look like a deeper, built space.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/247015",
+    "objectId": "247015",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (Columns), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A fresco from a room in a villa at Boscoreale, near Pompeii in southern Italy, painted around 50-40 BCE. Boscoreale was buried by the eruption of Mount Vesuvius in 79 CE, which preserved the paintings, and the Met acquired this set in 1903.",
+  "descriptions": {
+    "k": "This is a wall painting from a house in ancient Rome. It shows tall columns. The artist painted them on a flat wall. Can you see how they look like real ones? Where would you stand to look at them?",
+    "g12": "This painting was made on a wall in a Roman villa about 2,000 years ago. The artist painted columns, so a flat wall looks like a real building with space behind it. Fresco means paint put on wet plaster. A volcano later buried the villa, and that kept the wall safe. How does the artist trick your eyes?",
+    "g35": "A Roman painter made this fresco, painted on wet plaster, for a room in a villa at Boscoreale near Pompeii. It shows columns, and the painter used shading and lines to make the flat wall look like it has depth. A volcano, Mount Vesuvius, buried the villa in 79 CE and protected the paintings. Look at how the columns seem to stand forward. What makes them look three-dimensional?",
+    "g68": "Painted around 50-40 BCE, this fresco from the Villa of P. Fannius Synistor belongs to a style of Roman wall painting that imitates architecture, so that a plain room seems to open into grand spaces. The painter uses perspective and shading to turn the flat wall into columns and ledges. Vesuvius's eruption in 79 CE buried the villa and preserved the paintings, but we do not know all about the painter. Why would someone want painted architecture in their own home?",
+    "g910": "This fresco is an example of illusionistic wall painting in a Roman villa: instead of decorating a surface, the painter appears to dissolve it by showing architecture where none exists. Columns, shading, and perspective create a theatrical effect, suggesting wealth and sophistication. The wall survived because the eruption of Vesuvius buried the villa. Consider how a viewer moving through the room would experience the painted space. How does this illusion reflect the Roman desire to display culture and status at home?",
+    "g1112": "The wall paintings from Boscoreale preserve a decorative system in which flat surfaces are made to read as architecture, a program often discussed in relation to Roman ideas of luxury, theater, and domestic display. The excavation context, and the later removal of the paintings to museums, complicates how they are seen today, since the room as a lived whole has been taken apart. Which parts of the original experience can we reconstruct, and which are lost? The fresco invites reflection on illusion, status, and the ethics of collecting ancient art."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you see on this wall? Point to one thing.",
+      "emotion": "Does this wall painting feel quiet or busy? Why?",
+      "observation": "What can you find in this painting? Point to three things.",
+      "analysis": "Which column catches your eye first? What do you look at after that?",
+      "line": "Can you find tall straight lines? Trace one in the air.",
+      "shape": "What shapes can you find in the columns and the wall?",
+      "color": "What colors do you see on the wall?",
+      "texture": "This is paint on a wall. How do you think the wall would feel to touch?",
+      "space": "What looks close to you? What looks farther away?",
+      "light": "Where does the painting look bright? Where does it look dark?",
+      "meaning": "If you could walk into this painting, where would you go?",
+      "culture": "People in ancient Rome painted walls in their homes. What do you see on walls in your home?",
+      "technique": "The artist painted on a wall. What do you think the artist needed?",
+      "personal": "If you could paint a wall in your room, what would you paint?",
+      "critical": "How does the artist make a flat wall look like it has space inside?"
+    },
+    "g12": {
+      "daily": "What is this painting trying to show? What clues help you decide?",
+      "emotion": "What feeling does this painted room give you? Which part makes you feel that way?",
+      "observation": "Describe the painting. What parts can you name?",
+      "analysis": "How does the painting lead your eyes from the front to the back?",
+      "line": "Find straight lines in the columns. How do they make the painting feel steady?",
+      "shape": "Look at the shapes of the columns and the spaces between them. What patterns do you see?",
+      "color": "What colors are used? How do they make the wall look deep?",
+      "texture": "How does the artist make the painted columns look smooth, hard, or heavy?",
+      "space": "How can you tell something is closer to you than another thing?",
+      "light": "Where do you see light and shadow? How do they make the columns look round?",
+      "meaning": "Why might a person want painted columns in a room?",
+      "culture": "The Romans lived long ago. What does this wall tell us about their homes?",
+      "technique": "A fresco is painted on wet plaster. Why might a painter have to work quickly?",
+      "personal": "If you could change a wall at home with a painting, what would you show?",
+      "critical": "What is real and what is painted in this room? How can you tell?"
+    },
+    "g35": {
+      "daily": "What details help the painted columns look real?",
+      "emotion": "What mood does the painting create? Which details support your idea?",
+      "observation": "Look for one minute. What small details do you notice that you missed at first?",
+      "analysis": "How does the artist arrange the columns and wall to lead your eye through the space?",
+      "line": "How do vertical and horizontal lines give the painting order?",
+      "shape": "How do the shapes of the columns repeat? How does that create a pattern?",
+      "color": "How do colors and shading make some parts seem to come forward and others go back?",
+      "texture": "How does the artist suggest the texture of stone or plaster in a flat painting?",
+      "space": "How does the painter create the feeling of depth on a flat wall?",
+      "light": "Where does light seem to fall on the columns? How does shading make them look round?",
+      "meaning": "Why might a wealthy Roman choose painted architecture for a villa? List more than one reason.",
+      "culture": "A volcano buried this villa and saved its walls. How might that help us learn about Roman homes?",
+      "technique": "A fresco is painted onto wet plaster so the paint dries into the wall. Why might that help it last?",
+      "personal": "What room in your home could use a painted wall? What would you paint and why?",
+      "critical": "Why do you think paintings that trick the eye were popular? What other reasons are possible?"
+    },
+    "g68": {
+      "daily": "How does the painter turn a flat wall into an imagined space?",
+      "emotion": "What atmosphere does the painted architecture create, and which choices produce it?",
+      "observation": "List the elements you can see from front to back. Which are most carefully rendered?",
+      "analysis": "How does the painter use the columns to organize the composition and create depth?",
+      "line": "How do vertical and horizontal lines create order, and where do perspective lines add depth?",
+      "shape": "How do the shapes of columns and spaces create rhythm across the wall?",
+      "color": "How do color and tone suggest the weight and material of the painted structures?",
+      "texture": "How does the artist imitate the look of stone or marble using paint?",
+      "space": "How does the illusion of depth work, and what would flatten it?",
+      "light": "How does the painter use light and shadow to model columns?",
+      "meaning": "Why might Romans of high status have wanted rooms that looked grand and theatrical?",
+      "culture": "How does the survival of this villa after the eruption of Vesuvius shape what we know about Roman homes?",
+      "technique": "How does fresco painting on wet plaster limit the painter's choices and speed?",
+      "personal": "How do homes today use decoration to suggest wealth, taste, or personality? Compare with this wall.",
+      "critical": "The paintings were removed from their original room. How might that change how we understand them?"
+    },
+    "g910": {
+      "daily": "How does the fresco use illusion to transform the room, and what effect would that have had on a visitor?",
+      "emotion": "What atmosphere of luxury or theater does the painted architecture create, and how is it achieved?",
+      "observation": "Describe the visual hierarchy of the wall: what do you notice first, and which devices lead the eye?",
+      "analysis": "Analyze how the painted architecture structures the composition and organizes the surface.",
+      "line": "How do linear perspective and vertical lines work together to create convincing depth?",
+      "shape": "How do the geometric forms of columns and spaces create rhythm and stability?",
+      "color": "How does color suggest material, such as marble or stone, and how might fading alter what we see?",
+      "texture": "How does illusionistic painting imitate surface textures it cannot actually have?",
+      "space": "How does the painter blur the line between the real room and the painted one?",
+      "light": "How does the modeling of light and shade support the illusion of solid forms?",
+      "meaning": "What does the choice to paint architecture suggest about Roman values of status and sophistication?",
+      "culture": "How does the survival of this villa after Vesuvius affect what we can conclude about Roman taste in general?",
+      "technique": "What technical skills, such as preparing plaster layers and planning designs, were needed for fresco?",
+      "personal": "How does the removal of wall paintings to a museum change their meaning compared with their original setting?",
+      "critical": "What evidence from the surrounding villa would help interpret this room's function and decoration?"
+    },
+    "g1112": {
+      "daily": "What can be argued about this fresco's purpose and meaning from its imagery and context, and what goes beyond the evidence?",
+      "emotion": "How might a painted environment shape the mood and social behavior of a room, and how can we reason about it for a lost context?",
+      "observation": "Describe the fresco's pictorial construction precisely. Where does description depend on reconstruction?",
+      "analysis": "Analyze how painted architecture structures the composition and the viewer's relationship to the wall.",
+      "line": "How does the logic of perspective in this fresco compare with later Western perspective systems, and what are the limits of that comparison?",
+      "shape": "How do repeating architectural shapes create rhythm that works across the whole room?",
+      "color": "How do color and tone represent materials, and how might ancient pigments and aging have altered the effect?",
+      "texture": "How does the fresco's imitation of material surfaces relate to broader Roman interest in illusion?",
+      "space": "How does the blurring of real and painted space reflect ideas about theater, display, and domestic life?",
+      "light": "How does the painted treatment of light create a fictional light source, and what does this suggest about pictorial priorities?",
+      "meaning": "How do Roman wall painting styles register social aspiration, and what are the risks of reading them as direct evidence of wealth?",
+      "culture": "How do the circumstances of Vesuvius's eruption complicate our sense of Roman art as representative of the wider empire?",
+      "technique": "What do the technical demands of fresco imply about workshops, planning, and collaboration?",
+      "personal": "What ethical and scholarly questions arise when a wall painting is removed from its original room and displayed in a museum?",
+      "critical": "How should scholars treat fragments and reconstructed contexts when drawing conclusions about ancient interiors?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (Columns) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a painted wall with columns and architecture; the record lists no figures. Because the image was not seen, a person must confirm that no figures or scenes unsuitable for children appear. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Roman fresco of about 50-40 BCE from Room F of a villa at Boscoreale near Pompeii, acquired by the Met in 1903. Frescoes are painted onto wet plaster, and the villa was buried by Mount Vesuvius in 79 CE.",
+    "vocabulary": [
+      "fresco",
+      "illusion",
+      "perspective",
+      "column",
+      "villa",
+      "plaster"
+    ],
+    "directions": [
+      "Have students draw a flat wall, then add columns with shading to make it look deep.",
+      "Discuss how a volcano can preserve a place and what we learn from preserved homes.",
+      "Compare painted illusion with a modern digital backdrop or a mural that tricks the eye."
+    ]
+  }
+}

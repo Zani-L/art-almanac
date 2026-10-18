@@ -1,0 +1,155 @@
+{
+  "id": "artic-111381",
+  "day": "11-26",
+  "title": "The Seine at Vernonnet",
+  "artist": "Pierre Bonnard",
+  "date": "c. 1930",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "A square landscape painting of the Seine river at Vernonnet, France, painted with soft, glowing color. Foliage, water and land blend into one another in the lush, color-filled scene.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/111381",
+    "objectId": "111381",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1867-1947), date (c. 1930), place of origin (France), medium, dimensions (108 x 108 cm), inscription (signed lower left), credit line (Clyde M. Carr Fund), subject terms (landscapes), alternate titles in publication history (Verdure; La Seine a Vernon) and public-domain flag (false; copyright notice present) read from the record. The record has no description text. No image linked because the work is in copyright."
+  },
+  "context": "Pierre Bonnard painted this square landscape of the Seine at Vernonnet around 1930. The Art Institute's record gives the medium, dimensions and subject (landscapes), and notes that the work has also been published under titles such as Verdure and La Seine a Vernon. The record offers no further description.",
+  "descriptions": {
+    "k": "This is a picture of a river and green trees. The colors are soft and glowing. The painting is a square. The water and the leaves blend together. What colors do you see? Where would you sit by this river?",
+    "g12": "Pierre Bonnard painted a place by the Seine river in France. The picture is a perfect square. Soft, glowing colors make the water, trees, and land blend together. Can you find the river? What colors are in the leaves?",
+    "g35": "Pierre Bonnard painted this square picture of the Seine River at Vernonnet, France, around 1930. The museum has not written a description, so we have to look closely. The colors glow and the shapes blend together. It has also been called Verdure, which means greenery. Why might that name fit? How does the square shape change how you look?",
+    "g68": "Bonnard painted The Seine at Vernonnet around 1930 on a square canvas about 42 inches on each side. The museum's record lists only the subject, landscape, and notes the work has also gone by the titles Verdure and La Seine a Vernon. Bonnard was known for glowing, complex color. With so little text, you must rely on your eyes. How do color and the square format shape your sense of the place?",
+    "g910": "Bonnard's c. 1930 landscape of the Seine at Vernonnet is a 42-inch square, a format that avoids a conventional horizon-led view. The Art Institute provides no description, and the painting has also been published as Verdure, a title that points to the dominance of foliage. Consider how color, rather than outline, may define forms, and how the square canvas and the alternate titles shape your approach to a landscape that withholds easy readings.",
+    "g1112": "Bonnard's The Seine at Vernonnet (c. 1930) is a large square landscape that, per the Art Institute's record, has circulated under titles including Verdure. With no museum description, the work invites an interpretation grounded in what is visible: color-driven form, an unconventional square format, and a landscape experienced as a field of sensation rather than a fixed view. How should we handle the gap between a title that stresses greenery and a subject, the Seine, that the other title names?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the river and the green leaves. Where are they?",
+      "emotion": "Is this place calm or busy? What colors tell you?",
+      "observation": "Which colors do you see? Point to your favorite.",
+      "analysis": "What is the biggest part of the picture?",
+      "line": "The painting is a perfect square. Trace its edges with your finger.",
+      "shape": "Which parts look like they melt into each other?",
+      "color": "Find a place where two colors meet. What happens?",
+      "texture": "The paint looks soft. How do you think it would feel?",
+      "space": "What looks close to you, and what looks farther away?",
+      "light": "Where does it look sunny? Point to it.",
+      "meaning": "What do you think lives near this river?",
+      "culture": "Rivers run through many places. Have you been near a river or stream?",
+      "technique": "The painter used lots of color. How would you paint leaves in many shades of green?",
+      "personal": "If you could sit by this river, what would you do?",
+      "critical": "The painting has two names, Verdure and The Seine at Vernonnet. Which do you like better?"
+    },
+    "g12": {
+      "daily": "Look at the colors in the leaves and water. What do you notice?",
+      "emotion": "How does this river place make you feel? Point to the colors that give you that feeling.",
+      "observation": "List what you think you see: water, trees, grass, and anything else.",
+      "analysis": "How does the painter make the picture feel full of nature?",
+      "line": "Do you see long lines or short dabs? How do they make the picture move?",
+      "shape": "The picture is a square. How is a square different from a wide picture?",
+      "color": "Which colors seem to glow in this painting?",
+      "texture": "The shapes seem to blend together. Where do you notice that?",
+      "space": "How can you tell where the river is and where the land is?",
+      "light": "Where does the painting look brightest, and why?",
+      "meaning": "One name means greenery. What greens can you find?",
+      "culture": "The painter lived in France. What do you wonder about the place by the river?",
+      "technique": "How do you think the painter used his brush to make the colors?",
+      "personal": "What colors would you choose for your own river painting?",
+      "critical": "Why might a painter use glowing colors instead of exact colors?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this painting, and what choices by Bonnard guide them?",
+      "emotion": "What mood do the glowing colors create? Use details to explain.",
+      "observation": "Look slowly. What small areas of color did you notice late?",
+      "analysis": "How does Bonnard organize the river, plants, and land in a square so it feels balanced?",
+      "line": "What kinds of brushstrokes can you find, and how do they move across the picture?",
+      "shape": "The forms blend into each other. How does that change the shapes of trees and water?",
+      "color": "How does Bonnard use bright and soft colors to make the place glow?",
+      "texture": "How does the painting's surface look soft or rough, based on what you can see?",
+      "space": "How does the painter show the river and the far side without strong perspective?",
+      "light": "How does light seem to move across the water and leaves?",
+      "meaning": "The painting has been called Verdure, meaning greenery. How does that name change what you look for?",
+      "culture": "Bonnard worked in France, in a region along the Seine. Why might an artist return to a river?",
+      "technique": "Bonnard painted on a large square canvas. What might that allow him to do?",
+      "personal": "Think of a place with lots of plants that you love. How would you paint it with glowing color?",
+      "critical": "The museum gives no description. What can you learn from your eyes that a label cannot tell you?"
+    },
+    "g68": {
+      "daily": "How does Bonnard's use of color rather than outline shape your sense of the Seine landscape?",
+      "emotion": "How do glowing hues create a mood of warmth or reverie?",
+      "observation": "What can you recognize with certainty, and what remains uncertain because the museum offers no description? Separate evidence from guess.",
+      "analysis": "How does the square format affect the composition compared with a wide landscape?",
+      "line": "How do the directions of brushstrokes suggest water and growth?",
+      "shape": "How do forms soften and merge in the painting, and what does that do to the sense of the place?",
+      "color": "How do color relationships create harmony and energy across the whole canvas?",
+      "texture": "How does visible paint handling contribute to the painting's surface?",
+      "space": "How does Bonnard create depth with little or no traditional perspective?",
+      "light": "How does color stand in for light and shade?",
+      "meaning": "The alternate title Verdure points to greenery. How might titles shape the way we see a landscape?",
+      "culture": "How might Bonnard's love of color connect to the French landscape he lived near?",
+      "technique": "Why might a painter choose a square canvas?",
+      "personal": "How does your own memory of a river or garden influence the way you read this scene?",
+      "critical": "How would you decide what the painting is mostly about, the river, the plants, or the color?"
+    },
+    "g910": {
+      "daily": "How do Bonnard's decisions about format, color, and edge shape your first interpretation of the landscape?",
+      "emotion": "How does the intensity and warmth of color produce an emotional atmosphere without narrative?",
+      "observation": "Analyze how the composition distributes attention across a square without a single focal point.",
+      "analysis": "How do brushstroke direction and color patches replace linear perspective in structuring the picture?",
+      "line": "How does the blending of forms into one another affect the legibility of river, foliage, and land?",
+      "shape": "How does Bonnard's use of color relationships build structure instead of outline?",
+      "color": "In what ways does the painted surface carry the immediacy of sensation?",
+      "texture": "How does the square format affect the viewer's relationship to the landscape?",
+      "space": "How does the compression of depth contribute to a sense of immersion?",
+      "light": "How does color temperature replace shadow to suggest light?",
+      "meaning": "Evaluate how the alternate title Verdure alters the picture's emphasis compared with The Seine at Vernonnet.",
+      "culture": "How does the work reflect Bonnard's place between Impressionism and modernism?",
+      "technique": "How does the lack of museum description affect the kind of claims you can responsibly make?",
+      "personal": "How does your own sense of nature as sensation compare with painting it as a record?",
+      "critical": "To what extent can color alone convey place and feeling?"
+    },
+    "g1112": {
+      "daily": "What argument about sensation, memory, or the nature of landscape can you build from the formal evidence in this painting?",
+      "emotion": "How does the richness of color complicate any single emotional reading?",
+      "observation": "Describe the painting precisely, then identify which parts of your account rely on the titles rather than the image.",
+      "analysis": "Analyze how Bonnard constructs unity across a large square field with no obvious center.",
+      "line": "How does the integration of forms through color and touch challenge the autonomy of objects?",
+      "shape": "Consider how color structure substitutes for drawing in a way that anticipates later painting.",
+      "color": "How does the chromatic intensity position Bonnard in relation to Impressionism and the Nabis?",
+      "texture": "How does the handling of paint mediate between recorded perception and invented harmony?",
+      "space": "How does the square format modify the relationship between landscape and picture plane?",
+      "light": "Discuss how colored light functions in place of tonal modeling.",
+      "meaning": "Evaluate how two titles, Verdure and The Seine at Vernonnet, imply different emphases between abstraction and place.",
+      "culture": "How do histories of titling and exhibition shape how we interpret works that arrive with little description?",
+      "technique": "How does the absence of figures change the possible narratives available to the viewer?",
+      "personal": "How do your own habits of seeing color influence your response?",
+      "critical": "What additional sources would you want in order to judge how Bonnard's landscape habits shaped this painting?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject term (landscapes), classification (oil on canvas), medium and alternate titles checked against the Art Institute of Chicago record; no concerning terms. The record has no description, so student text relies only on the title, subject and format. The work is in copyright, so no image is linked. The image file itself was not visually inspected in this build, and a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A square landscape (108 x 108 cm) from about 1930. The Art Institute's record offers no description and lists alternate titles Verdure and La Seine a Vernon. The work is in copyright, so no image is linked yet and this entry is deliberately cautious.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "landscape",
+      "square format",
+      "color harmony",
+      "verdure",
+      "brushstroke"
+    ],
+    "directions": [
+      "Have students paint a favorite outdoor place with no outlines, using only patches of color, then compare with a version drawn with outlines.",
+      "Ask students to give the painting a new title and defend it with what they can see.",
+      "Discuss how a title changes what we look for in an image."
+    ]
+  }
+}

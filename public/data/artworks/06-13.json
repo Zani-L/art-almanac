@@ -1,0 +1,157 @@
+{
+  "id": "met-337499",
+  "day": "06-13",
+  "title": "The Lake of Zug",
+  "artist": "Joseph Mallord William Turner",
+  "date": "1843",
+  "medium": "Watercolor and bodycolor (gouache) with reductive techniques over graphite",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP821057.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP821057.jpg",
+    "credit": "The Metropolitan Museum of Art, Marquand Fund, 1959",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A glowing watercolor landscape of a lake with mountains beyond and small boats on the water. Soft, misty colors blend across the sky, mountains, and water.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/337499",
+    "objectId": "337499",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Lakes, Mountains, Landscapes, Boats), classification, and image URLs read from the record"
+  },
+  "context": "A watercolor of Lake Zug in Switzerland by the English artist J. M. W. Turner (1775–1851), dated 1843 in the Met's record. The record lists watercolor and bodycolor (an opaque watercolor) with reductive techniques, meaning paint was lifted or scraped away, over graphite.",
+  "descriptions": {
+    "k": "A big, quiet lake with mountains far away. Small boats float on the water. The colors are soft and misty, like a dream. What would it feel like to sail across this lake?",
+    "g12": "J. M. W. Turner painted this lake in Switzerland. The mountains and water seem to melt into the misty sky. Small boats float on the water. He used watercolor and also took some paint away to make light. Which parts look bright, and which look hazy?",
+    "g35": "J. M. W. Turner was an English painter who loved light and weather. This watercolor shows the Lake of Zug in Switzerland, with mountains in the distance and boats on the water. He used watercolor, a thicker paint called bodycolor, and ways of removing paint to make glowing spots. How do the soft colors make the air look misty?",
+    "g68": "Turner made this watercolor in 1843, near the end of his life, as part of his late views of Swiss lakes and mountains. He built it from layers of washes, added opaque bodycolor, and used reductive techniques like scraping or lifting paint to create light. Notice how edges blur into mist. How does Turner make a real place feel like a mood or a memory instead of a map?",
+    "g910": "In The Lake of Zug, Turner uses transparent watercolor, opaque bodycolor, and scraping or lifting of paint to dissolve mountains, water, and sky into an atmosphere of light. The few boats provide scale, while the soft blending erases hard boundaries. Such late Swiss views are often discussed as showing his interest in light and weather over precise detail. Consider how the sheet balances the identity of a specific place with an impression of its air.",
+    "g1112": "Dated 1843, The Lake of Zug belongs to Turner's late Swiss watercolors, in which he used layered washes, bodycolor, and reductive techniques to treat landscape as a field of light and atmosphere. The few boats offer scale, but identification of the place gives way to mood. Critics have debated whether such sheets are finished works or experiments, and the record itself does not settle the question. Consider how the medium's transparency and the removal of pigment shape the work's sense of luminosity."
+  },
+  "questions": {
+    "k": {
+      "daily": "Pretend you are in one of the boats. What do you see and feel?",
+      "emotion": "Does this lake feel calm or wild? Tell us why.",
+      "observation": "Find the water, the mountains, and the boats. What else do you see?",
+      "analysis": "What do your eyes look at first in this misty picture? Why?",
+      "line": "Can you find a line where the water meets the land? Trace it in the air.",
+      "shape": "Are the faraway mountains by the lake pointy or round? Draw one in the air.",
+      "color": "Which colors are in the sky, and which are in the water? Are they the same?",
+      "texture": "The picture looks soft and misty. How would mist feel on your face?",
+      "space": "Which things look close and which look very far away?",
+      "light": "Where is it brightest? What do you think is shining there?",
+      "meaning": "Where might the small boats on this lake be sailing to?",
+      "culture": "This lake is in Switzerland. What lakes or rivers are near where you live?",
+      "technique": "The artist took paint away to make light spots. How could you make a bright spot on wet paint?",
+      "personal": "Have you been near a lake, river, or sea? What did you see?",
+      "critical": "The mountains are blurry on purpose. Does that make the place feel more real or less real?"
+    },
+    "g12": {
+      "daily": "How does Turner make a lake and mountains look like they are floating in mist?",
+      "emotion": "What feeling does this misty lake give you? Point to the colors or places that make you feel it.",
+      "observation": "Describe the lake, the mountains, and the sky. Which one is the brightest?",
+      "analysis": "How do the boats help you understand how big the lake and mountains are?",
+      "line": "Where are the edges soft and where are they sharp? What does that do to the picture?",
+      "shape": "Look at the shapes of the mountains and the shape of the lake. How do they fit together?",
+      "color": "Which colors look warm and which look cool? How do they blend?",
+      "texture": "Where does the paint look smooth and misty? Where might it look scratched or scraped?",
+      "space": "How can you tell the mountains are far away? Think about color and detail.",
+      "light": "Where does the light seem to shine from? How does it touch the water?",
+      "meaning": "If this picture were a memory, what might it be remembering?",
+      "culture": "Turner traveled far from England to paint Switzerland. Why might artists travel to see new places?",
+      "technique": "Turner took paint off in some places to make light. Where do you think he did that?",
+      "personal": "Where have you seen mist or fog? How did it change what you could see?",
+      "critical": "Is this a copy of the place or an impression of it? What in the picture tells you?"
+    },
+    "g35": {
+      "daily": "What choices in this watercolor make the air over the lake seem to glow?",
+      "emotion": "How would you describe the mood of this lake scene, and which choices by Turner create it?",
+      "observation": "After a minute of looking, what small details in the boats or the shoreline did you miss at first?",
+      "analysis": "How does Turner use the boats, the mountains, and the lake to organize this picture?",
+      "line": "This painting has few hard outlines. Where do you see edges made by changes of color or light?",
+      "shape": "How do the large shapes of mountain, lake, and sky fit together to make a calm scene?",
+      "color": "How do soft blues, golds, or other colors you see blend to create atmosphere?",
+      "texture": "How do thin watercolor washes, thicker bodycolor, and scraped areas create different looks on the paper?",
+      "space": "How does Turner make the mountains feel far away without drawing every detail?",
+      "light": "Where does the brightest light appear, and how did Turner make it look so shiny?",
+      "meaning": "Is this picture only about a place, or also about a feeling? Use details to support your idea.",
+      "culture": "Turner lived in England but traveled to Switzerland. What can a painting tell us about how outsiders see a place?",
+      "technique": "Turner scraped or lifted paint away in some spots. How can removing paint make light?",
+      "personal": "Think of a view that has stayed in your memory. How would you paint it so others can feel it?",
+      "critical": "Some people prefer exact, detailed landscapes. Why might Turner choose a soft, misty one instead?"
+    },
+    "g68": {
+      "daily": "How does Turner suggest a real place and an atmosphere at the same time?",
+      "emotion": "How does the soft, glowing treatment of lake and mountains change the emotional tone compared with a sharp, detailed view?",
+      "observation": "Describe the picture from foreground to background. Where do details thin out, and what does that do?",
+      "analysis": "How does the small scale of the boats affect the way we feel about the size of the landscape?",
+      "line": "How does Turner rely on edges of tone and color rather than outlines to build form?",
+      "shape": "How do broad shapes of mountain and water create stability while mist softens them?",
+      "color": "How do warm and cool colors work together to suggest light and distance?",
+      "texture": "How might scraping, lifting, and opaque paint add variety to what would otherwise be only smooth washes?",
+      "space": "How does atmospheric haze create layers of depth in the landscape?",
+      "light": "How does Turner treat light as the true subject, and where is it most intense?",
+      "meaning": "The mountains and lake seem to dissolve. What might that say about memory, time, or the power of nature?",
+      "culture": "Why did Swiss lakes and mountains become popular with traveling artists and tourists in the nineteenth century?",
+      "technique": "What are the advantages of mixing transparent washes with opaque bodycolor, and how do reductive techniques add to it?",
+      "personal": "How would you capture an atmosphere, such as fog, heat, or rain, in a picture?",
+      "critical": "Does a picture that blurs details tell the truth about a place? Explain with evidence."
+    },
+    "g910": {
+      "daily": "How does Turner turn a specific lake into an experience of light and atmosphere, and what visual choices make that possible?",
+      "emotion": "How does the dissolving of form into light contribute to a contemplative or even awe-filled response?",
+      "observation": "Describe the visual hierarchy: how do boats, light, and mountains compete or cooperate for attention?",
+      "analysis": "Analyze how the arrangement of sky, mountain, and water produces calm and depth together.",
+      "line": "How does the substitution of tonal transitions for contour affect the sheet's sense of atmosphere?",
+      "shape": "How do soft, large masses combine with small details such as boats to create scale?",
+      "color": "How does Turner's use of gradation and complementary hues create luminosity?",
+      "texture": "How do reductive techniques and opaque bodycolor create contrasts with transparent washes?",
+      "space": "How does aerial perspective operate here, and where does the sheet resist conventional recession?",
+      "light": "How does the sheet treat light as substance, and how are bare or lifted areas used to achieve that?",
+      "meaning": "Does the sheet record a view, construct an impression, or propose a meditation on nature's scale? Defend your reading.",
+      "culture": "How did the culture of travel and the market for landscape views in the nineteenth century shape works like this?",
+      "technique": "What does the combination of watercolor, bodycolor, and reductive methods suggest about Turner's control and experimentation?",
+      "personal": "How does a hazy, soft image alter your way of viewing compared with a sharp one?",
+      "critical": "Does the lack of fine detail make the work less informative or more expressive? What standard are you using?"
+    },
+    "g1112": {
+      "daily": "How does this sheet engage the tension between topographical identity and atmospheric abstraction, and where is the balance most visible?",
+      "emotion": "How does the dissolution of form into light generate affect, and how does this connect to ideas of the sublime?",
+      "observation": "Describe the sheet's observable facts, including washes, opaque touches, and areas of removal, before interpreting. At what point does description become interpretation?",
+      "analysis": "How do tonal relationships rather than linear structure organize the sheet, and what are the consequences for reading space?",
+      "line": "How does the minimizing of line shift the relation between drawing and painting in the sheet?",
+      "shape": "How do broad masses and minimal incident shape a viewer's sense of scale?",
+      "color": "How does Turner's chromatic handling fuse observation and invention, and what limits our certainty about the original scene?",
+      "texture": "How might the physical processes of scraping, lifting, and layering register on the surface, and how do they differ from the effects visible in reproduction?",
+      "space": "How does the sheet use atmosphere to create depth while keeping the picture plane active?",
+      "light": "In what sense does subtractive technique make light a product of the artist's intervention rather than the pigment itself?",
+      "meaning": "How have interpretations of Turner's late work shifted between seeing it as unfinished and seeing it as deliberately experimental, and what does this sheet contribute?",
+      "culture": "How does a British artist's depiction of a Swiss lake participate in nineteenth-century traditions of travel, tourism, and the picturesque?",
+      "technique": "What might technical study reveal about the sequence of washes, opaque touches, and removals, and why would that matter?",
+      "personal": "How do your own memories of travel and photographs inform your expectation of what a view should look like?",
+      "critical": "What standards of evidence should govern claims that this sheet records a particular moment or place?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Lakes, Mountains, Landscapes, Boats), medium, and classification (Drawings) checked against the Met record; no sensitive tags present.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "J. M. W. Turner (1775–1851) was an English painter celebrated for light and atmosphere. This watercolor is dated 1843 in the Met's record and shows Lake Zug in Switzerland.",
+    "vocabulary": [
+      "watercolor",
+      "bodycolor",
+      "reductive technique",
+      "atmosphere",
+      "aerial perspective",
+      "wash"
+    ],
+    "directions": [
+      "Have students wet a sheet of paper, drop in colors, and lift out a light shape with a tissue to try a reductive technique.",
+      "Ask students to compare how clear and how misty parts of the picture make them feel.",
+      "Discuss how travel affects what artists paint and how outsiders see places."
+    ]
+  }
+}

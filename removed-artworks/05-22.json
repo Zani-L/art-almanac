@@ -1,0 +1,152 @@
+{
+  "id": "met-39936",
+  "day": "05-22",
+  "title": "Finches and bamboo",
+  "artist": "Emperor Huizong",
+  "date": "early 12th century",
+  "medium": "Handscroll; ink and color on silk",
+  "movement": "Song dynasty painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP151504_CRD.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP151504_CRD.jpg",
+    "credit": "The Metropolitan Museum of Art, John M. Crawford Jr. Collection, Purchase, Douglas Dillon Gift, 1981",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, horizontal Chinese handscroll painted in ink and color on silk. Small finches perch among slender bamboo branches and leaves.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/39936",
+    "objectId": "39936",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, culture (China), tags (Birds, Bamboo), and image URLs read from the record"
+  },
+  "context": "A handscroll in ink and color on silk, dated to the early 12th century and credited in the Met record to Emperor Huizong of the Song dynasty. Huizong ruled China from 1100 to 1126 and is remembered as a painter, calligrapher, and patron of the arts, though attributions of paintings to him are often discussed by scholars.",
+  "descriptions": {
+    "k": "Little birds sit among bamboo. This painting is on silk, and it is a long scroll. The birds are called finches. Can you find them? Look at their tiny feet. What sounds might they make?",
+    "g12": "A long time ago in China, a ruler named Emperor Huizong was also a painter. This scroll shows finches, small birds, among bamboo leaves. It is painted on silk with ink and color. The birds are small, but the artist took care. Which finch seems the most alert? How do the leaves help you see the birds?",
+    "g35": "This handscroll from China shows finches among bamboo, painted in ink and color on silk about 900 years ago. The Met credits it to Emperor Huizong, who ruled from 1100 to 1126 and loved painting. Look at the thin bamboo leaves and the small, round birds. How does the artist make the picture feel peaceful and still while also showing living creatures?",
+    "g68": "Emperor Huizong, who ruled the Song dynasty from 1100 to 1126, supported painters who studied birds and plants closely. Finches and bamboo is a handscroll, meant to be unrolled and viewed a section at a time. Notice how fine ink lines and soft color describe feathers, how the bamboo leaves create a pattern, and how the empty areas let the birds breathe. Why might close observation of nature have been so valued at court?",
+    "g910": "Finches and bamboo is credited to Emperor Huizong, a ruler famed for promoting refined, observational bird-and-flower painting at his court. As a handscroll, it would be viewed gradually rather than all at once, so rhythm and pacing matter. Consider how ink, color, and the delicate repetition of bamboo leaves structure the picture, and how small birds are given dignity through careful rendering. Because attributions to Huizong are debated, the painting also invites questions about how we know who made an old work.",
+    "g1112": "Finches and bamboo is attributed to Emperor Huizong, but scholars have long debated which works associated with him were painted by his own hand and which by court artists working in his circle. The handscroll format encourages sequential viewing, and the work's careful observation of birds and bamboo may express Song ideals of close attention to nature, as well as courtly refinement. Bamboo has also been associated with resilience in Chinese culture, though the painting does not require one reading. What can the visible evidence support, and what remains uncertain?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the finches? What do you think each one is doing?",
+      "emotion": "Does this painting feel loud or quiet? What makes you think so?",
+      "observation": "Find the bamboo leaves. Are they big or small, thin or wide?",
+      "analysis": "Which finch do you look at first? What helps you see it?",
+      "line": "Find a thin bamboo stem. Can you trace it in the air with your finger?",
+      "shape": "The finches are small and round. Which shapes do the bamboo leaves make?",
+      "color": "What colors are the birds and the leaves? Which do you like best?",
+      "texture": "How would a finch's feathers feel? How would a bamboo leaf feel?",
+      "space": "Is there a lot of empty space around the birds? How does that feel?",
+      "light": "Does this painting look bright or dim? Why do you think so?",
+      "meaning": "Make up a story about the finches in the bamboo. What do they say to each other?",
+      "culture": "This scroll is from China long ago. What plants or birds do you see near your home?",
+      "technique": "The artist painted on silk instead of paper. How might silk feel under a brush?",
+      "personal": "Where would you like to sit quietly and watch birds?",
+      "critical": "The scroll is very long. Why might an artist choose a long shape for a painting of birds?"
+    },
+    "g12": {
+      "daily": "Which finch seems the most alert, and what part of its body shows that?",
+      "emotion": "What feeling does this quiet bamboo scene give you? Which parts help create it?",
+      "observation": "Describe two finches: their bodies, beaks, and the way they perch.",
+      "analysis": "How do the bamboo branches help your eyes travel along the long scroll?",
+      "line": "Compare the thin bamboo stems with the leaf shapes. Which lines look straight and which look curved?",
+      "shape": "How do the round shapes of the birds look next to the narrow shapes of the leaves?",
+      "color": "Which parts have color and which are mostly ink? What does that do to the birds?",
+      "texture": "Which parts of the painting look soft and which look sharp or thin?",
+      "space": "How does the empty silk around the birds change how the scene feels?",
+      "light": "Where are the lightest areas? Do they make the birds stand out?",
+      "meaning": "What do you think the finches are doing among the bamboo?",
+      "culture": "The artist was a ruler in China who loved painting. Why might a ruler enjoy a quiet picture of birds?",
+      "technique": "The picture is a handscroll that you unroll slowly. How is that different from looking at a picture on a wall?",
+      "personal": "What is the quietest place you know? How is it like this painting?",
+      "critical": "Does this look like a photograph or like a painting with a style? Give a reason."
+    },
+    "g35": {
+      "daily": "What details make these small finches seem like living creatures resting among bamboo?",
+      "emotion": "What mood does the painting create: calm, playful, or watchful? What details support your answer?",
+      "observation": "Look closely at the birds' feet, beaks, and feathers for one minute. What small details did you find?",
+      "analysis": "How does the artist arrange the finches and bamboo so the scroll feels balanced?",
+      "line": "How do thin, controlled lines in the bamboo and the birds show their shapes?",
+      "shape": "How do the long, narrow leaf shapes contrast with the round bodies of the finches?",
+      "color": "How does the color on the birds and leaves stand out from the silk background?",
+      "texture": "How does the painter suggest soft feathers and smooth bamboo using fine brush marks?",
+      "space": "How does open space around the birds make them feel calm and important?",
+      "light": "How do lighter and darker areas give the finches and bamboo a rounded look?",
+      "meaning": "Bamboo is often linked with strength because it bends without breaking. How might that idea connect to the small birds?",
+      "culture": "Emperor Huizong supported artists who studied nature. Why might a ruler want paintings of birds and plants?",
+      "technique": "A handscroll is unrolled a little at a time. How might that change how an artist plans the painting?",
+      "personal": "Think of a time you slowed down to notice something small. What did you discover?",
+      "critical": "The Met credits this work to Emperor Huizong, but scholars debate such attributions. Why might that be hard to settle?"
+    },
+    "g68": {
+      "daily": "How does the artist make a small scene of finches in bamboo worth looking at slowly?",
+      "emotion": "How does the painting create a mood of stillness while still showing living birds? Point to details.",
+      "observation": "Describe the scroll from one end to the other. Which details seem most carefully studied?",
+      "analysis": "How does the repeated pattern of bamboo leaves create rhythm along the long format?",
+      "line": "How does fine linework distinguish the delicate bamboo from the soft bodies of the birds?",
+      "shape": "How do pointed leaf shapes and rounded bird forms create contrast and unity?",
+      "color": "How does limited color against the silk keep attention on the birds without breaking the calm mood?",
+      "texture": "How does the painter convey the lightness of feathers and the firmness of bamboo with the same brush?",
+      "space": "How does empty space work as part of the composition, not just background?",
+      "light": "Without cast shadows, how do tone and color suggest the form of birds and leaves?",
+      "meaning": "Why might a court value paintings that show close attention to small creatures?",
+      "culture": "How might Song dynasty interest in careful observation of nature appear in this painting?",
+      "technique": "How does painting with ink and color on silk differ from painting on paper, and how might silk affect delicate lines?",
+      "personal": "What might you learn from drawing the same small creature or plant every day for a week?",
+      "critical": "If experts cannot be sure the emperor painted this himself, how does that change or not change its value?"
+    },
+    "g910": {
+      "daily": "How do the formal choices in this scroll turn a modest scene of finches into a refined meditation on nature?",
+      "emotion": "How does the painting evoke quiet vigilance without any dramatic action?",
+      "observation": "Describe the visual hierarchy of the scroll: what draws the eye first, and which devices create that effect?",
+      "analysis": "How does the horizontal format shape the pacing of the viewer's experience compared with a single framed image?",
+      "line": "How do precise contour and fine internal marks reconcile naturalism with elegance?",
+      "shape": "How does the interplay of rounded birds and linear bamboo create visual rhythm?",
+      "color": "How does the restrained palette against silk support the painting's air of refinement?",
+      "texture": "How do variations of touch separate feather, leaf, and branch?",
+      "space": "How does the sparing use of setting concentrate attention on the finches and bamboo?",
+      "light": "How do subtle gradations substitute for strong light and shadow in building volume?",
+      "meaning": "What might the combination of small birds and bamboo suggest about Song ideals of nature, resilience, or contemplation, and where does that become speculation?",
+      "culture": "How does the association with an emperor-artist shape the status of the painting and the way court art was valued?",
+      "technique": "How might the demands of silk, ink, and mineral color influence the care and preparation behind such a work?",
+      "personal": "How does slow, repeated looking change what you notice about a familiar plant or animal?",
+      "critical": "What do debates about attribution reveal about how museums and scholars reach conclusions?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence of this scroll about Song ideals of attention to nature, and what remains uncertain?",
+      "emotion": "How does the painting's stillness complicate attempts to name a single feeling, and what does that open to the viewer?",
+      "observation": "Describe the scroll's construction with precision. When does careful description begin to imply an interpretation?",
+      "analysis": "Analyze how repetition, variation, and interval structure the viewer's progress along the handscroll.",
+      "line": "How do the linear discipline of bamboo and the softer description of birds reflect a balance of control and naturalism?",
+      "shape": "How does the contrast between compact bird forms and slender plant forms generate both tension and harmony?",
+      "color": "How might the interplay of ink and pigment on silk signal court-level refinement, and how might the age of silk affect what we see?",
+      "texture": "How does the painter's economy of touch evoke varied surfaces while preserving the page's overall calm?",
+      "space": "How do unpainted passages of silk shape the work's atmosphere, and how might Song viewers have read this emptiness?",
+      "light": "How does the work suggest volume and atmosphere without a single consistent light source?",
+      "meaning": "Evaluate readings of the bamboo as a symbol of resilience against readings of the scene as pure observation. Which does the evidence support?",
+      "culture": "How does imperial patronage of bird-and-flower painting complicate the question of who made the work and for what purpose?",
+      "technique": "What do format and materials suggest about how the scroll was meant to be handled, viewed, and preserved?",
+      "personal": "How does your own experience of quiet, small-scale nature shape the meaning you find, and where might it limit your reading?",
+      "critical": "Given debates about attribution to Huizong, what standards of evidence should govern claims about authorship and intention?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium, classification (Paintings), culture (China), and tags (Birds, Bamboo) checked against the museum record; none indicate nudity, violence, injury, or death. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Chinese handscroll of the early 12th century credited to Emperor Huizong, a Song dynasty ruler known as a painter and patron. Attributions to him are discussed by scholars.",
+    "vocabulary": ["handscroll", "Song dynasty", "attribution", "silk", "bamboo", "observation"],
+    "directions": [
+      "Have students unroll a long strip of paper slowly while drawing a sequence of birds, then discuss how a scroll controls viewing time.",
+      "Discuss what it means when a museum says 'credited to' or 'attributed to' an artist.",
+      "Compare how bamboo is shown here with another plant in the archive."
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "met-547361",
+  "day": "04-17",
+  "title": "Fish-shaped palette",
+  "artist": "Artist unknown",
+  "date": "ca. 3300–3100 BCE",
+  "medium": "Greywacke",
+  "region": "Egypt, Predynastic Period (Naqada III)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP245018.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP245018.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1935",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A flat, smooth gray-green stone cut into the simple shape of a fish, wider than it is tall, with a rounded body and a tail at one end.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/547361",
+    "objectId": "547361",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, tags (Fish), public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A stone palette from Predynastic Egypt, made around 3300–3100 BCE and carved in the shape of a fish. It is about 23.5 cm wide and 11.9 cm high. Palettes of this kind are usually thought to have been used for grinding pigments.",
+  "descriptions": {
+    "k": "This is a fish made of stone. It has a round body and a tail. It is flat and smooth. It was made more than five thousand years ago. Can you find which end is the head?",
+    "g12": "An Egyptian carver shaped this gray-green stone into a fish more than 5,000 years ago. It is flat, with a curved body and a tail. Palettes like this were probably used to grind colors. What parts of a fish can you find, even though it is so simple?",
+    "g35": "This palette was carved from greywacke, a hard gray-green stone, in the shape of a fish. It was made in Egypt over 5,000 years ago, when people lived beside the Nile and fish were part of daily life. Palettes like this were probably used to grind pigments. Follow the outline from the head to the tail. How does such a simple shape still say \"fish\"?",
+    "g68": "Made around 3300–3100 BCE, this palette is only about 23.5 cm wide, yet it captures a fish with a single, clean contour. The shape probably served a practical purpose for grinding pigments, but the choice of an animal suggests the maker cared about more than function. Because the stone is smooth and unpainted, we notice outline and proportion first. What might this simple form tell us about how early Egyptian artists saw the Nile and its creatures?",
+    "g910": "This Naqada III palette reduces a fish to its essentials: a long, tapering body and a clear tail in a single thin slab of greywacke. The effect depends on contour and proportion rather than surface detail. Palettes are generally associated with grinding mineral pigments, and animal shapes may have carried symbolic or status meanings, though scholars remain cautious. How does the object blend practical form and imagery, and what does its restraint communicate?",
+    "g1112": "The fish palette shows how Predynastic craftsmen could invest a utilitarian slab of stone with subtle sculptural intelligence. Silhouette serves as both representation and structure, and the hardness of the greywacke suggests deliberate labor and value. Archaeologists commonly link such palettes to the preparation of pigments, yet their forms, which include many animals, point to ritual or social functions that remain debated. Because the object has no inscription, its meaning must be argued from material, form, and comparison rather than assumed."
+  },
+  "questions": {
+    "k": {
+      "daily": "This stone is cut like a fish. Where do you think its head is, and where is its tail?",
+      "emotion": "Does this fish look like it is swimming or resting? What do you see that tells you?",
+      "observation": "Run your finger around the fish from nose to tail. What parts do you find?",
+      "analysis": "Which end of the fish grabs your attention first, and why?",
+      "line": "Is the fish's outline made of curves or straight lines? Draw one in the air.",
+      "shape": "A fish's body can be like an oval. Can you see an oval and a triangle in this stone?",
+      "color": "The stone is gray with a bit of green. What watery things have colors like this?",
+      "texture": "Do you think the fish stone is slippery like a real fish or hard and dry? Why?",
+      "space": "This fish is wider than it is tall. How does that shape help it feel like it is gliding?",
+      "light": "Where on the smooth fish does light seem to rest?",
+      "meaning": "Fish lived in the river near the people who made this. Why might someone want to carve one?",
+      "culture": "People in Egypt lived near the Nile River long ago. How might a fish matter to them?",
+      "technique": "This is a hard stone, and the carver rubbed and shaped it. What do you think that was like?",
+      "personal": "If you could carve any sea or river animal in stone, which would you choose?",
+      "critical": "There are no scales or eyes on this fish. Why can you still tell it is a fish?"
+    },
+    "g12": {
+      "daily": "What makes this flat gray-green stone look like a fish to you?",
+      "emotion": "Does this fish feel quick, calm, or heavy? Which part of the shape gives that feeling?",
+      "observation": "Describe the fish's body and tail. What would you add if you had to draw it?",
+      "analysis": "How does the tail help you know which way the fish is facing?",
+      "line": "Where does the fish's outline change from curving to pointed? Show it with your finger.",
+      "shape": "What simple shapes put together make this fish?",
+      "color": "The color is soft and quiet. How would a bright blue fish feel different?",
+      "texture": "The stone is smooth and hard. How is that different from the slippery skin of a real fish?",
+      "space": "This fish does not have a swimming scene around it. What do you imagine around it?",
+      "light": "If light slid across this smooth stone, where would it shine the most?",
+      "meaning": "The artist made a tool in the shape of an animal. What might that show about how they felt about fish?",
+      "culture": "Palettes were used to grind colors. How might a fish shape connect to life by the Nile?",
+      "technique": "The carver had to cut away stone from a flat piece. What part do you think was hardest?",
+      "personal": "What is the simplest drawing you can make of a fish? How does yours compare to this stone?",
+      "critical": "Is this fish meant to look exactly real or just clear? Give a reason from the shape."
+    },
+    "g35": {
+      "daily": "Which parts of the outline make you sure this is a fish and not another animal?",
+      "emotion": "What feeling does this quiet, plain fish shape give you? Which choices create it?",
+      "observation": "Look for a full minute. What details of the edge or surface did you notice only on your second look?",
+      "analysis": "How does the carver balance the long body and the tail so the whole shape feels stable?",
+      "line": "How does the carved outline work like a pencil drawing of a fish?",
+      "shape": "How do the smooth curves of the body compare with the sharper angles near the tail?",
+      "color": "Greywacke is gray-green. How does that natural color suit a fish from a river?",
+      "texture": "The stone is polished smooth. Why might a smooth surface be useful for a palette?",
+      "space": "The palette is thin and flat. How is that different from a fish carved to look round like a statue?",
+      "light": "How might light and shadow change the way the thin edge of the stone looks?",
+      "meaning": "What might it mean to choose a river animal for a tool used with colors?",
+      "culture": "This palette is from before the pharaohs ruled Egypt. What does it suggest about early artists?",
+      "technique": "Hard stone must be worn down slowly. How do you think the carver shaped a fish this clean?",
+      "personal": "Think of a time you simplified something to make it clear. How is that like this fish?",
+      "critical": "We do not know exactly how this palette was used. How can we be careful about our guesses?"
+    },
+    "g68": {
+      "daily": "How does the carver use only an outline to make a fish that people can recognize?",
+      "emotion": "What kind of presence does this plain fish have, and which design choices create it?",
+      "observation": "List the features you can see, then list the ones that are left out. What does the choice tell you?",
+      "analysis": "How do the proportions of the body and tail create a sense of motion or calm?",
+      "line": "How does the unbroken contour define the animal? Where does the line change speed or direction?",
+      "shape": "How does the artist simplify a fish into basic shapes, and what is kept to make it clear?",
+      "color": "How does the plain gray-green stone focus attention on shape rather than decoration?",
+      "texture": "How might a smooth, hard surface suit both a tool and a sculpture?",
+      "space": "How does a flat, slab-like form behave differently from a statue, and how does the viewer fill the gap?",
+      "light": "How would different lighting change the way you see the edge and the smooth surface?",
+      "meaning": "What are two reasons an early Egyptian might shape a pigment-grinding stone like a fish?",
+      "culture": "How might life along the Nile influence the animals that early artists chose to depict?",
+      "technique": "How do you think a carver could shape hard greywacke without modern tools?",
+      "personal": "What everyday objects around you take the shape of animals, and why do you think designers do that?",
+      "critical": "What can we claim from this object alone, and what would we need other evidence to say?"
+    },
+    "g910": {
+      "daily": "How does this palette show a Predynastic artist converting a practical slab into an image?",
+      "emotion": "How does the plain, unadorned surface shape the object's mood? What would more decoration change?",
+      "observation": "Identify the features that make the shape legible as a fish and any traits that are abstracted or omitted.",
+      "analysis": "Analyze how proportion and contour work together to give the object balance and identity.",
+      "line": "How does the clean edge function as the object's only drawing line, and what does it imply about the maker's control?",
+      "shape": "How does the fish combine geometric simplicity with organic suggestion?",
+      "color": "How does the monochrome gray-green surface heighten the importance of silhouette?",
+      "texture": "How might the polish of hard stone speak to labor, value, and handling?",
+      "space": "How does the thin slab sit between a drawing and a sculpture?",
+      "light": "In what ways might light along a polished edge reveal form despite the lack of added detail?",
+      "meaning": "Why must claims about animal-shaped palettes be cautious, and what range of meanings do scholars consider?",
+      "culture": "How does this palette suggest that the habits of Egyptian art, such as clear outline, were already forming before the pharaohs?",
+      "technique": "What does shaping a thin slab in hard stone indicate about skill and tools?",
+      "personal": "How does reducing a subject to its simplest form change what you notice about it?",
+      "critical": "How do we avoid imposing modern ideas of minimalism on an object made for a different purpose?"
+    },
+    "g1112": {
+      "daily": "How does this fish palette test the boundary between tool, ornament, and sculpture?",
+      "emotion": "How does reduction to silhouette shape emotional response, and is any restraint a result of the maker's intent or of age and wear?",
+      "observation": "Describe the formal properties of the palette precisely. Where does description begin to make claims about function?",
+      "analysis": "Analyze how the object achieves unity through outline alone, and what the lack of internal detail does to the viewer's attention.",
+      "line": "How does the contour establish both representation and structure, and what might that imply about early Egyptian conventions of drawing?",
+      "shape": "How does the palette's flat, bounded shape complicate the distinction between representation and abstraction?",
+      "color": "How does the natural color of greywacke figure in the object's meaning, and what associations might ancient users have had?",
+      "texture": "How might the tactile qualities of dense stone have influenced the palette's use, handling, and prestige?",
+      "space": "How does the near-absence of volume position the object within the history of Egyptian sculpture?",
+      "light": "How might the reflective surface of polished stone have mattered when the object was in use or displayed?",
+      "meaning": "Compare practical, symbolic, and social readings of animal-shaped palettes. What evidence would favor each?",
+      "culture": "How does a Naqada III object help us think about visual culture on the eve of Egyptian state formation?",
+      "technique": "What does the careful working of a hard stone imply about specialization and value in early Egyptian communities?",
+      "personal": "How do your own ideas about function and beauty influence your sense of whether this is a tool or an artwork?",
+      "critical": "What are the limits of interpreting an unwritten object, and how can museums communicate those limits?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Fish), medium (greywacke) and period checked against the museum record. Subject is a fish-shaped stone with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Predynastic palette in fish form, generally interpreted as a tool for grinding pigments. Its simplicity makes it a good object for discussing silhouette and abstraction.",
+    "vocabulary": ["palette", "greywacke", "silhouette", "Naqada III", "abstraction", "pigment"],
+    "directions": [
+      "Have students draw a fish using only an outline and compare which details they needed.",
+      "Ask students to argue what this palette's purpose might have been using only visible evidence and the context line.",
+      "Pair with the guinea fowl palette to compare two animal silhouettes from the same culture."
+    ]
+  }
+}

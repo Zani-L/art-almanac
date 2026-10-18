@@ -1,0 +1,151 @@
+{
+  "id": "met-555866",
+  "day": "12-16",
+  "title": "Harp",
+  "artist": "Artist unknown",
+  "date": "ca. 1580–1295 B.C.",
+  "medium": "Wood",
+  "region": "Egypt, Late Second Intermediate Period–early New Kingdom",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-25_3_306_EGDP026451.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/eg/original/LC-25_3_306_EGDP026451.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1925",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An old wooden harp from ancient Egypt, long and slender, with a hollow body at one end and a curved neck rising from it. The wood is a dark, aged brown.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/555866",
+    "objectId": "555866",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, period, dimensions, public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A wooden harp made in Egypt between about 1580 and 1295 B.C., from the end of the Second Intermediate Period into the early New Kingdom. It is about 120 cm long, a little over a meter, and about 14 cm high. Harps were among the instruments played in ancient Egypt.",
+  "descriptions": {
+    "k": "This is a very old harp from Egypt. It is made of wood and is longer than a big child's arm. It has a hollow body and a long neck. Imagine the strings. What sounds would they make?",
+    "g12": "This old wooden harp is about as long as a young child is tall. It was made in Egypt more than 3,000 years ago. It has a hollow body at one end and a neck that rises from it. Strings would have stretched between them. What song might have been played?",
+    "g35": "This wooden harp was made in ancient Egypt between about 1580 and 1295 B.C. It is about 120 centimeters long, so it is quite large. Musicians plucked the strings, which ran between the neck and the hollow body that made the sound louder. Look at the long, curved shape and the dark wood. What can the harp tell you about the people who made and played music?",
+    "g68": "Made around 1580–1295 B.C., this harp comes from a period when Egypt was changing from the Second Intermediate Period to the New Kingdom. About 120 cm long, it shows that harps were substantial instruments. Its long frame and hollow body worked together to hold strings and carry sound. What does the care taken in shaping the wood suggest about the importance of music in Egyptian life?",
+    "g910": "This harp is evidence of a musical tradition that has largely vanished in sound but survives in wood. Its size, about 1.2 meters, and its elegant curve show how engineering and design were combined. Surviving wood has darkened and perhaps lost strings and decoration, so we must infer what it once looked and sounded like. How does an incomplete instrument invite us to imagine performance?",
+    "g1112": "As a survival from the transition between the Second Intermediate Period and the early New Kingdom, this harp is valuable both as a musical instrument and as a witness to craft. Its length, about 120 cm, indicates a substantial instrument, and the wood bears the marks of age and loss. We can reconstruct sound only from other evidence, such as depictions in tombs and texts. The harp invites reflection on how museums display silent instruments, and on what is lost when objects survive without the practices that gave them life."
+  },
+  "questions": {
+    "k": {
+      "daily": "This harp is more than a meter long. Who might have held something this big?",
+      "emotion": "Would this harp make a gentle sound or a loud one? What makes you think so?",
+      "observation": "Find the long neck and the hollow body. Point to each one.",
+      "analysis": "Where do your eyes start on the harp, and where do they end?",
+      "line": "Trace the long line of the harp from one end to the other.",
+      "shape": "The harp is long and curved. What shapes can you find in it?",
+      "color": "The wood is dark and brown. What things in nature are this color?",
+      "texture": "Does the wood look smooth or rough from being so old?",
+      "space": "The body is hollow inside. What do you think the empty space is for?",
+      "light": "Where does the light show the curve of the wood?",
+      "meaning": "Why do you think people long ago wanted to make music?",
+      "culture": "Egyptians played harps thousands of years ago. What instruments do you hear in music today?",
+      "technique": "A maker shaped this harp from wood. What tools might they have used?",
+      "personal": "If you played this harp, what song would you play?",
+      "critical": "This harp does not make a sound in the museum. Is it still an instrument? Why?"
+    },
+    "g12": {
+      "daily": "What parts of this harp can you recognize, and what job might each one do?",
+      "emotion": "Does this old harp look quiet, mysterious, or strong? Which parts help you decide?",
+      "observation": "Describe the harp's length, its curve, and the color of its wood.",
+      "analysis": "How does the long shape lead your eye from one end to the other?",
+      "line": "Where does the harp's line curve the most? How does it change the instrument?",
+      "shape": "Find the hollow shape and the long shape. How do they fit together?",
+      "color": "The wood has a dark, aged color. How does age change an object's look?",
+      "texture": "What marks of age can you see in the wood?",
+      "space": "The empty body holds sound. How can empty space be important?",
+      "light": "Where is the wood lightest and where darkest?",
+      "meaning": "Music can mark important days. What kinds of moments do you think this harp was played for?",
+      "culture": "Harps appear in Egyptian paintings, too. Why might people want pictures and real harps?",
+      "technique": "Making a harp needs shaping wood and attaching parts. Which job do you think takes the most skill?",
+      "personal": "What sound or song makes you feel calm? Imagine it on this harp.",
+      "critical": "Strings are often gone from very old harps. How can you still tell what it was?"
+    },
+    "g35": {
+      "daily": "What do the size and shape of this harp tell you about how it was played and carried?",
+      "emotion": "What feeling does the dark, aged wood give you? What do you imagine hearing?",
+      "observation": "Spend a minute looking along the whole harp. What small marks or shapes did you find that you missed at first?",
+      "analysis": "How are the neck and the sound body arranged to hold strings and carry sound?",
+      "line": "How does the long, flowing line of the harp compare with the more solid shape of its body?",
+      "shape": "How do the hollow body and the slender neck contrast with each other?",
+      "color": "The wood has darkened with age. How does color tell you about the harp's long history?",
+      "texture": "What does the surface of the wood suggest about how old it is?",
+      "space": "How is the empty space inside the body part of how the harp works?",
+      "light": "How does light on the curved wood help you see its shape?",
+      "meaning": "Musical instruments were part of festivals and rituals in Egypt. How might that add to the harp's importance?",
+      "culture": "The harp was made as Egypt moved from one period to another. What might music mean during times of change?",
+      "technique": "At about 120 cm, this harp is large. What challenges would that bring for the maker?",
+      "personal": "Think of an old object in your family. How does its age change how you feel about it?",
+      "critical": "We only have the wooden parts. What do we not know about how it looked and sounded?"
+    },
+    "g68": {
+      "daily": "How does the harp's long frame reveal the relationship between structure and sound?",
+      "emotion": "How does the dark, weathered wood contribute to a sense of age and distance in time?",
+      "observation": "List the visible parts of the harp and the signs of age. Which are most informative?",
+      "analysis": "How do the proportions of body and neck support the harp's function?",
+      "line": "How does the sweeping line unify the instrument from end to end?",
+      "shape": "How do the hollow volume and the slender neck create a balance of mass and line?",
+      "color": "What can the color and tone of the wood tell us about time, use, and preservation?",
+      "texture": "How might the grain and wear of the wood show how it was made and handled?",
+      "space": "How does the instrument use enclosed space to shape sound?",
+      "light": "How does light reveal the wood's curves and any damage?",
+      "meaning": "Why might a harp be placed in a tomb or kept as a valued object? What evidence would we need?",
+      "culture": "How do harps in Egyptian paintings help us understand a real harp like this?",
+      "technique": "What does the construction suggest about woodworking skill at the start of the New Kingdom?",
+      "personal": "How does the idea of an instrument that cannot be played anymore affect how you see it?",
+      "critical": "How can museums help visitors imagine the sound of an instrument that cannot be played?"
+    },
+    "g910": {
+      "daily": "How does this harp reveal the union of acoustic engineering and design in early New Kingdom Egypt?",
+      "emotion": "How does the harp's silence in a museum change its emotional resonance?",
+      "observation": "Describe the instrument's major parts and how they work together as a form.",
+      "analysis": "Analyze how scale and proportion help the harp balance strength, portability, and sound.",
+      "line": "How does the linear sweep of the harp reflect structural logic?",
+      "shape": "How does the interplay of the hollow resonator and the narrow neck shape the instrument's silhouette?",
+      "color": "How do darkened tones in the wood contribute to our sense of age, and how might it have looked when new?",
+      "texture": "What can surface wear suggest about handling, burial, or preservation?",
+      "space": "How does enclosed space contribute to both the design and the function of the harp?",
+      "light": "How does side-lighting reveal the instrument's contours and the effects of time?",
+      "meaning": "What roles might a harp have had, such as entertainment, ritual, or status, and how do we distinguish them?",
+      "culture": "How does the survival of instruments help compare the music depicted in art with the music actually made?",
+      "technique": "What does the size of the harp say about woodworking and joinery skills at this time?",
+      "personal": "How does an instrument gain or lose meaning when it can no longer be played?",
+      "critical": "How should we responsibly speak about the sound of an ancient instrument?"
+    },
+    "g1112": {
+      "daily": "How can a silent, incomplete instrument still support arguments about music, craft, and society in ancient Egypt?",
+      "emotion": "How does the harp's survival in damaged or aged form shape the affective experience of looking at it?",
+      "observation": "Describe the harp's physical characteristics. Where does description rely on comparison with depictions or other harps?",
+      "analysis": "Analyze how structure and form work together to determine pitch, resonance, and handling in a large harp.",
+      "line": "How does the extended line of the instrument express both function and design values?",
+      "shape": "How does the harp's overall silhouette reflect an interplay of acoustic requirements and aesthetic preference?",
+      "color": "How might aging, conservation, and display conditions affect our perception of the harp's color and surface?",
+      "texture": "What can the surface evidence tell us, and what remains ambiguous about the harp's life history?",
+      "space": "How does the resonant cavity define the instrument's identity, and how is that absent in a museum display?",
+      "light": "How does museum lighting construct a particular image of the harp compared with its original contexts of use?",
+      "meaning": "Compare the harp as musical tool, status object, and funerary good. What evidence supports each?",
+      "culture": "How does a harp from the era of transition between periods inform our understanding of continuity in Egyptian music?",
+      "technique": "What does the harp's construction imply about specialized workshops and the circulation of woodworking knowledge?",
+      "personal": "How does your own musical experience influence the way you interpret an instrument that cannot be heard?",
+      "critical": "What are the limits of reconstructing ancient music from objects, and how should those limits be communicated?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Harp), medium (wood) and period checked against the museum record. Subject is a musical instrument with no people. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A large wooden harp from the end of the Second Intermediate Period or early New Kingdom. It is a rare survival of an Egyptian instrument; the record gives only its date, material, and size.",
+    "vocabulary": ["harp", "resonator", "Second Intermediate Period", "New Kingdom", "grain", "acoustics"],
+    "directions": [
+      "Have students explore how different hollow containers change the sound of a plucked string.",
+      "Ask students to compare this harp with a harp shown in a painting and discuss what each can tell us.",
+      "Discuss how museums can help visitors imagine sounds that cannot be heard."
+    ]
+  }
+}

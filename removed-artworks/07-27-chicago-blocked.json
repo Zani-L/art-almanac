@@ -1,0 +1,158 @@
+{
+  "id": "artic-100476",
+  "day": "07-27",
+  "title": "Beach at Cabasson (Baigne-Cul)",
+  "artist": "Henri Edmond Cross",
+  "date": "1891-92",
+  "medium": "Oil on canvas",
+  "movement": "Neo-Impressionism (Post-Impressionism)",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/16e53257-ade2-4f5d-3521-2bc9666bc4cf/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, L. L. and A. S. Coburn, and Bette and Neison Harris funds; Charles H. and Mary F. S. Worcester Collection; through prior acquisition of the Kate L. Brewster Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A bright Mediterranean beach scene made of many small dots and dashes of color, with sea, sand, and sky under strong sunlight, and a few figures enjoying the water.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/100476",
+    "objectId": "100476",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1983.513, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting made in France in 1891-92 by Henri Edmond Cross. The Art Institute's subject terms list children, beach, leisure, landscapes and water. Cross moved to the Mediterranean coast in 1891 because of his health and used systematic dots and dashes of color to convey the heat and color of his new surroundings.",
+  "descriptions": {
+    "k": "This is a sunny day at the beach. The painting is made of tiny dots and dashes of color. Can you see the blue water and the warm sand? Squint your eyes. What happens to the dots?",
+    "g12": "Henri Edmond Cross painted a hot, sunny beach in southern France. He used lots of tiny dots and dashes of color. From far away, the dots blend into sand, sea, and sky. Where would you like to stand in this picture?",
+    "g35": "Henri Edmond Cross painted this Mediterranean beach in 1891-92 after moving to southern France. He used little dots and dashes of color placed side by side. Your eyes blend them, so the sun feels hot and bright. Why might an artist paint with dots instead of smooth strokes?",
+    "g68": "Beach at Cabasson (1891-92) shows the Mediterranean coast where Cross moved because of his health. He used the divided brushwork of scientific Impressionism, placing small dots and dashes of color side by side so the eye blends them. The method suited the heat and color of the south of France. How does this technique help you feel the sun?",
+    "g910": "Cross painted this Mediterranean beach in 1891-92 shortly after relocating to Cabasson for his health. He adopted divided brushwork and tonal gradation, a systematic Neo-Impressionist method, to convey the region's heat and color. Rather than record a moment quickly, he built the scene with deliberate touches. How does a systematic technique shape the mood of a leisure scene?",
+    "g1112": "Beach at Cabasson (Baigne-Cul) (1891-92) records Cross's adoption of divided brushwork after moving to the Côte d'Azur for his health. The technique replaces blended strokes with juxtaposed dots and dashes that merge optically, conveying Mediterranean heat. This systematic method contrasts with the spontaneity of earlier Impressionism. How does the painting reconcile scientific procedure with sensuous experience, and what is gained when color is organized rather than improvised?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you see at this beach? Point to the water and the sand.",
+      "emotion": "Does this place feel hot or cool? What tells you?",
+      "observation": "Find the tiny dots of color. Which colors can you spot?",
+      "analysis": "Why do you think the artist used so many dots?",
+      "line": "Trace the line where the sea meets the sand. Is it straight or curvy?",
+      "shape": "What shapes do you see in the beach scene?",
+      "color": "Which color is your favorite in this painting? Where is it?",
+      "texture": "Does the painting feel smooth or bumpy? Why?",
+      "space": "Is the sea close or far away? How do you know?",
+      "light": "Where does the sunlight look brightest?",
+      "meaning": "Why might someone paint a day at the beach?",
+      "culture": "Where is your favorite place to go in the summer?",
+      "technique": "The artist used a brush to make dots. How is that like drawing with a marker?",
+      "personal": "If you went to this beach, what would you play?",
+      "critical": "What would you add to the sand or the sea?"
+    },
+    "g12": {
+      "daily": "Can you find the sea and the sand? Where do they meet?",
+      "emotion": "Does the beach feel hot, cool, or windy? Show us what you see that tells you.",
+      "observation": "Who is at the beach? What are they doing?",
+      "analysis": "Why do you think the painter used so many tiny dots?",
+      "line": "Follow the line of the shore with your finger. Is it straight or curvy?",
+      "shape": "Which shapes do you see in the sea, sand, and sky?",
+      "color": "Name two colors you see in the dots. Where do they mix?",
+      "texture": "If you squint, does the painting look smoother? Why?",
+      "space": "Is the water near the sand or far away? How can you tell?",
+      "light": "Where is the sunlight brightest in the painting?",
+      "meaning": "Why do you think people like to go to the beach?",
+      "culture": "What do you bring with you when you go to a beach or a pool?",
+      "technique": "The painter put one tiny dot next to another. Why might that take many hours?",
+      "personal": "If you went to this beach, what would you do first?",
+      "critical": "What would you add to this beach?"
+    },
+    "g35": {
+      "daily": "What details tell you it is a hot, sunny day?",
+      "emotion": "What feeling do the bright colors give you?",
+      "observation": "Describe what people are doing at the beach. Where do you find them?",
+      "analysis": "Why do you think the artist painted tiny dots instead of long strokes?",
+      "line": "How do the horizontal lines of the sea and shore make the picture feel calm or peaceful?",
+      "shape": "How do the shapes of the shore and sea fit together?",
+      "color": "How do the dots of different colors blend when you step back?",
+      "texture": "How can you tell the painter used small touches of paint?",
+      "space": "How does the painter show that the sea is far away and the sand is close?",
+      "light": "How does the bright light change the colors of the water and the sand?",
+      "meaning": "What might the painter want us to feel about a day at the beach?",
+      "culture": "Cross moved to southern France because of his health. How might a warm place have inspired his painting?",
+      "technique": "Why might painting with dots take a long time?",
+      "personal": "What does a day at the beach mean to you?",
+      "critical": "Is a painting made of dots better at showing sunlight than one made of smooth strokes? Why?"
+    },
+    "g68": {
+      "daily": "Where does your eye go first, and what does the painter use to guide you?",
+      "emotion": "How do the colors create a feeling of heat and leisure?",
+      "observation": "Describe how the figures are placed at the shore. What do they seem to be doing?",
+      "analysis": "How does the painter arrange sea, sand, and sky to organize the scene?",
+      "line": "How do the horizontal bands of the landscape create calm and balance?",
+      "shape": "How do the soft shapes of the shoreline contrast with the geometry of the composition?",
+      "color": "How do the neighboring dots of color mix in your eye, and why would a painter choose this method?",
+      "texture": "How does the divided brushwork give the surface a shimmering quality?",
+      "space": "How does the painter make a flat canvas feel like a big open beach?",
+      "light": "How does Cross use light and color to suggest the strong Mediterranean sun?",
+      "meaning": "How might the painter's move to the Mediterranean have changed his view of color?",
+      "culture": "How does this approach differ from the quick brushwork of earlier Impressionists?",
+      "technique": "What patience and planning does this style require?",
+      "personal": "What do you think people did at the beach in the 1890s, and how is it like today?",
+      "critical": "How does the painting show a relationship between science and art?"
+    },
+    "g910": {
+      "daily": "How does the composition use horizontal bands to establish both stillness and expanse?",
+      "emotion": "How does the intense, harmonized color create a mood of languid warmth?",
+      "observation": "Examine how the figures are integrated into the landscape. What role do they play in the scene?",
+      "analysis": "Analyze how the painter organizes foreground, middle ground, and horizon.",
+      "line": "How do the broad horizontals and gentle curves create rhythm across the canvas?",
+      "shape": "How do simplified forms and divided touches unify the beach, water, and sky?",
+      "color": "How does optical mixing of juxtaposed dots differ from blending colors on a palette?",
+      "texture": "How does the dotted surface create a shimmering effect, and why might that suit the subject?",
+      "space": "How does atmospheric color imply depth without relying on traditional linear perspective?",
+      "light": "How does the painter translate intense sunlight into a system of colored touches?",
+      "meaning": "How did Cross's health and his move to the Côte d'Azur influence his subject and palette?",
+      "culture": "How does his method both continue and depart from Impressionism?",
+      "technique": "What does the systematic technique suggest about the painter's interest in theory and science?",
+      "personal": "What does the painting suggest about modern leisure at the seaside in late nineteenth-century France?",
+      "critical": "To what extent does a rigorous technique enhance or restrict the spontaneity of a beach scene?"
+    },
+    "g1112": {
+      "daily": "How does Cross's stabilizing, horizontal organization transform a leisure subject into a meditation on duration and light?",
+      "emotion": "In what ways does the harmonized, saturated palette produce an affect that is both sensuous and restrained?",
+      "observation": "What interpretive possibilities emerge from figures dissolved into the same system of marks as sea and sand?",
+      "analysis": "Evaluate how the composition balances atmospheric diffusion with structural clarity.",
+      "line": "How do repeated horizontals and softened contours produce a measured rhythm in contrast to Impressionist flux?",
+      "shape": "How does the unification of all forms through a common touch collapse distinctions between figure and ground?",
+      "color": "How does the theory of optical mixing inform both the appearance and the meaning of the painting?",
+      "texture": "What does the accumulation of discrete marks imply about the relation between labor, time, and perception?",
+      "space": "How does color temperature substitute for linear perspective in generating spatial recession?",
+      "light": "How does the painting pursue an almost scientific analysis of sunlight while retaining sensuous appeal?",
+      "meaning": "How does the turn to the Mediterranean reflect broader late nineteenth-century artistic ideas about southern light and utopian leisure?",
+      "culture": "How does Neo-Impressionism position itself relative to the spontaneity of Impressionism and to emerging ideas about abstraction?",
+      "technique": "What tensions exist between methodical technique and the evocation of rest and pleasure?",
+      "personal": "How does seeing leisure built from deliberate, patient marks change how you think about rest and effort?",
+      "critical": "To what degree can a systematic approach to color be considered expressive rather than merely analytical?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (children, mediterranean, France, beach, weather/seasons, leisure, landscapes, water) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release. The title includes Baigne-Cul, a local name for a bathing spot, so a person should check the image to confirm any bathers are appropriately clothed.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in France in 1891-92 by Henri Edmond Cross. The Art Institute's subject terms list children, beach, leisure, landscapes and water. Cross moved to the Mediterranean coast in 1891 because of his health and used systematic dots and dashes of color to convey the heat and color of his new surroundings.",
+    "vocabulary": [
+      "Neo-Impressionism",
+      "divided brushwork",
+      "optical mixing",
+      "Mediterranean",
+      "seascape",
+      "horizon"
+    ],
+    "directions": [
+      "Have students make a small picture using only dots of paint or marker, then step back to see how colors blend.",
+      "Ask students to compare the same scene drawn with lines and with dots, and discuss which feels more like sunlight.",
+      "Discuss how an artist's surroundings can change the colors he or she chooses to use."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-11140",
+  "day": "01-05",
+  "title": "Snap the Whip",
+  "artist": "Winslow Homer",
+  "date": "1872",
+  "medium": "Oil on canvas",
+  "movement": "American Realism",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-20820-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP-20820-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Christian A. Zabriskie, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long line of boys in simple summer clothes, many of them barefoot, runs hand in hand across a sunny green meadow while the boys at the end of the line swing outward. Rolling hills fill the background and a small red schoolhouse stands at the edge of the field.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11140",
+    "objectId": "11140",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags and image URLs read from the record"
+  },
+  "context": "An oil painting by Winslow Homer, dated 1872, showing boys playing the game snap the whip in a rural field. Homer began his career as a magazine illustrator, and this painting shows his interest in everyday American life.",
+  "descriptions": {
+    "k": "Look at all these boys running! They hold hands in a long line. The ones at the end swing out fast. A little red school sits far away. Can you feel the wind and the fun?",
+    "g12": "Winslow Homer painted boys at play in a sunny field. They hold hands and run in a long line. The boys at the end swing wide, almost like a whip. Find the red schoolhouse and the hills far away. How do you think the boys at the end feel?",
+    "g35": "Winslow Homer painted this game of snap the whip in 1872. The boys run hand in hand, and the line curves so the last boys are flung outward. Notice how their bare feet, straw hats, and bright clothes make the scene feel like summer. Look for the small schoolhouse and the hills behind. What clues show that the line is moving fast?",
+    "g68": "Homer began as a magazine illustrator, and he knew how to freeze an action so viewers could read it at a glance. Here the line of boys forms a curve that pulls your eye from the steady boys on the left to the flying ones on the right. The wide meadow, distant hills, and small schoolhouse place the game in a rural American setting. Some viewers see a carefree memory of childhood, though the painting does not say whether this was Homer's own.",
+    "g910": "Snap the Whip turns a simple children's game into a study of motion and balance. Homer arranges the boys in a sweeping diagonal curve, so the energy builds from the anchored boys to the ones flung outward. The bright, even daylight and open meadow give the scene a sense of freedom, while the schoolhouse hints at the limits of childhood. Scholars often connect the painting to nostalgia in the years after the Civil War, but it is wise to treat that reading as an interpretation rather than a fact.",
+    "g1112": "Painted in 1872, Snap the Whip belongs to Homer's early work on rural American life, produced while he was still known as a magazine illustrator. The composition balances kinetic risk with a stable landscape: the whip-like curve of boys against a calm horizon and a small schoolhouse. Critics have read the picture as nostalgia for an idealized rural childhood, as a reflection of postwar hopes for national renewal, or simply as a keen study of motion. The painting does not settle which reading is right, and the clean, sunlit surface invites you to weigh what it leaves out as well as what it shows."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which boy do you think is running the fastest, and which is about to be flung off?",
+      "emotion": "How do you think the boys at the end of the line feel? Are they scared, happy, or both?",
+      "observation": "Count the boys in the line. What are they wearing on their heads and feet?",
+      "analysis": "Where does your eye go first in this field? Follow the line of boys with your finger.",
+      "line": "Trace the bending line the boys make. Is it straight, or does it curve like a snake?",
+      "shape": "The boys make a long curve like a whip. What other shape could this line of boys remind you of?",
+      "color": "Find the bright red building. What other colors in the field make it pop?",
+      "texture": "How do you think the grass would feel under bare feet?",
+      "space": "Which boys are closest to us, and which are farthest? How can you tell?",
+      "light": "It looks like a sunny day. Where do you see bright light on the grass?",
+      "meaning": "Why do you think the boys are playing outside the school? What could they be doing next?",
+      "culture": "People in America long ago played this running game. What games do you play outside today?",
+      "technique": "The artist used oil paint, and the boys look like they are moving. How do you think he made them look so fast?",
+      "personal": "Tell about a time you ran with friends. Was it as fun as this picture looks?",
+      "critical": "Is anyone in this game left out or in danger? What do you see that tells you?"
+    },
+    "g12": {
+      "daily": "What do you think will happen next to the boys at the end of the line? Show what you see to explain.",
+      "emotion": "Choose one boy and tell how he might feel. What in his body or face helps you decide?",
+      "observation": "List five details about what the boys are wearing and doing. Which one did you notice last?",
+      "analysis": "How does the artist guide your eyes from the first boy in the line to the last?",
+      "line": "Follow the curve the line of boys makes. How does that curve make the picture feel fast?",
+      "shape": "The line of boys bends like a whip. How does that shape help you understand the game?",
+      "color": "Which colors in the boys' clothes stand out against the green field? Why might the artist choose them?",
+      "texture": "Look at the grass and the boys' clothes. Which parts look soft, and which look rough?",
+      "space": "How does the artist show that the hills and the schoolhouse are far away?",
+      "light": "Does the light feel soft or harsh in this field? Point to where you see it.",
+      "meaning": "Why might the artist paint a game of children instead of a king or a battle?",
+      "culture": "The painting shows a small school in the countryside. What might school days have been like for these boys?",
+      "technique": "This is an oil painting. How can you see that the artist used dabs of paint to show the grass?",
+      "personal": "Which game do you and your friends play together? How is it like or different from this one?",
+      "critical": "The game depends on the last boy holding on. Is it fair that some boys are at the end? What do you think?"
+    },
+    "g35": {
+      "daily": "What moment in the game has Homer chosen to paint, and which details prove that the line is moving quickly?",
+      "emotion": "The boys at the end are tilting and stretching. Do they look excited, nervous, or both, and why?",
+      "observation": "After a full minute of silent looking, what small details do you notice in the clothing and in the faraway landscape?",
+      "analysis": "How do the schoolhouse, the hills, and the long line of boys work together to organize the painting?",
+      "line": "Compare the sweeping curve of the running boys with the quieter horizontal line of the hills. What does each line do?",
+      "shape": "How does the curved shape of the line of boys give the game its sense of power?",
+      "color": "Find the warm reds and the cool greens. How does Homer use their contrast to make the boys stand out?",
+      "texture": "How can you tell what is grass, what is cloth, and what is skin? Describe the brushwork you notice.",
+      "space": "Homer places the boys close to us and the hills far away. What helps the field look wide and deep?",
+      "light": "Where is the strongest sunlight in this scene, and how does it affect the way the boys look?",
+      "meaning": "The boys are playing near their school. What might Homer be suggesting about childhood and learning?",
+      "culture": "Homer painted a rural American scene in 1872. What does this painting suggest about how children spent their free time?",
+      "technique": "Homer started out drawing pictures for magazines. How might that experience help him paint figures in motion?",
+      "personal": "Think of a game that needed teamwork. How did it feel to be in the middle of the group, or at the end?",
+      "critical": "Does this painting show everyday life as it was, or a happy idea of it? What evidence supports your view?"
+    },
+    "g68": {
+      "daily": "How does Homer make a simple game of children feel as exciting as a dramatic event?",
+      "emotion": "What emotions do you read in the bodies of the boys at the far end? Which gestures and angles convey them?",
+      "observation": "Scan the scene from foreground to background. Which details seem most carefully placed, and which seem more casual?",
+      "analysis": "How does the curved line of figures lead your eye across the canvas, and what stops it at the right side?",
+      "line": "How do the diagonal bodies of the boys differ from the more upright, steady lines of the schoolhouse?",
+      "shape": "The line of boys forms a whip-like arc. How does Homer use that arc to hold the whole composition together?",
+      "color": "How do the strong reds and whites among the boys work against the broad green meadow to create emphasis?",
+      "texture": "Which parts of the painting look most detailed, and which look softer or sketched? What effect does that contrast create?",
+      "space": "How do overlap, scale, and the position of the horizon line create depth in this open field?",
+      "light": "How does even daylight affect the mood? What might the scene feel like if Homer had used a stormy sky?",
+      "meaning": "Some see this painting as a happy memory of childhood. What details support that view, and what could challenge it?",
+      "culture": "How might a viewer in 1870s America, living in a growing country of cities and farms, have responded to a country school scene?",
+      "technique": "How might Homer's training as an illustrator show in the clear, readable poses of the boys?",
+      "personal": "What does your own experience of playing with a group tell you about how the boys at the end of the line might feel?",
+      "critical": "The painting focuses only on boys. What questions would you ask about who is not shown in this scene?"
+    },
+    "g910": {
+      "daily": "How does Homer's choice of the instant just before the line breaks shape the viewer's sense of tension and joy?",
+      "emotion": "How does Homer balance exhilaration with a hint of risk in the poses of the boys at the end of the line?",
+      "observation": "Describe the visual hierarchy: which figures, shapes, or colors draw you first, and which devices create that effect?",
+      "analysis": "Analyze how the sweeping curve of figures is counterweighted by the horizon, hills, and schoolhouse.",
+      "line": "How do the diagonal limbs and arching line of the boys create implied motion beyond the edge of the frame?",
+      "shape": "How does the large arc of the group compare with the small geometric shape of the schoolhouse in terms of balance?",
+      "color": "How does Homer use concentrated spots of red and white against a limited landscape palette to guide attention?",
+      "texture": "How does Homer vary the handling of paint between the figures and the landscape, and what does that do for realism?",
+      "space": "How does the placement of the figures against a wide, open field shape the viewer's sense of freedom?",
+      "light": "How does steady daylight avoid drama while still making the boys appear lively and three-dimensional?",
+      "meaning": "How might the game be read as a metaphor, for example about chains, community, or risk, and where does the reading become speculative?",
+      "culture": "How might the painting speak to ideals of rural American childhood in the years after the Civil War?",
+      "technique": "How do Homer's origins in illustration and woodcut-like clarity show in his handling of outline and contrast?",
+      "personal": "How does your own memory of group play shape the way you interpret the final boy in the line?",
+      "critical": "Does the painting present a nostalgic ideal rather than a documentary record? What evidence in the image supports your answer?"
+    },
+    "g1112": {
+      "daily": "What argument can you make about this painting's meaning using only visible evidence, and what must remain uncertain?",
+      "emotion": "How does the painting complicate a purely happy reading by suggesting risk and loss of control at the end of the line?",
+      "observation": "Describe the composition with precision. At what point does careful description begin to shape your interpretation?",
+      "analysis": "Analyze how the dynamic arc of figures and the stable horizon together produce both energy and calm.",
+      "line": "How does the painting's reliance on strong contour for the figures and softer handling of the landscape define its approach to form?",
+      "shape": "How does the tension between the arc of the group and the rectilinear schoolhouse produce a sense of pull and anchor?",
+      "color": "How does Homer's restrained palette and use of local color concentrate attention, and what do these choices say about realism?",
+      "texture": "How might Homer's visible handling of the grass and clothing contribute to the painting's claim to truth about outdoor light?",
+      "space": "How does the shallow foreground band and receding landscape position the viewer in relation to the game?",
+      "light": "How does Homer treat sunlight as an agent of clarity and not of drama, and what does that imply about the picture's stance?",
+      "meaning": "Evaluate readings of the painting as nostalgia, as postwar optimism, or as pure observation. Which is best supported, and which is speculative?",
+      "culture": "In what ways might the scene reflect rural education and childhood in 1870s America, and whose experiences does it leave out?",
+      "technique": "What does the painting suggest about the shift from illustration to oil painting in Homer's early career?",
+      "personal": "How does your own background shape your sense of what a carefree childhood looks like, and how could that limit your reading?",
+      "critical": "Given the gap between a painted ideal and historical reality, what standards of evidence should govern claims about what the painting reveals about its time?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Boys, Playing, Games), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. Subject also checked against reliable knowledge of the work (children playing outdoors).",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1872, early in Homer's career as a painter, when he was still best known as a magazine illustrator. The game of snap the whip, in which a line of players is whipped around by a leader, was a popular outdoor children's game.",
+    "vocabulary": [
+      "genre painting",
+      "composition",
+      "diagonal",
+      "horizon line",
+      "foreground",
+      "illustrator"
+    ],
+    "directions": [
+      "Have students act out the curve of the line with a few volunteers, then compare it with the painted arrangement.",
+      "Ask pairs to list what the picture shows about a country school day and what it leaves out.",
+      "Compare this painting with a modern photograph of children playing and discuss what each medium captures best."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ahp-noahs-ark",
+  "day": "10-27",
+  "title": "Noah's Ark",
+  "artist": "Edward Hicks",
+  "date": "1846",
+  "medium": "Oil on canvas",
+  "movement": "American folk art",
+  "region": "United States",
+  "image": {
+    "url": "/images/ahp-noahs-ark.jpg",
+    "credit": "Philadelphia Museum of Art; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/edward-hicks/noahs-ark/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/22657/edward-hicks-noah-1039-s-ark-1846-trivium-art-history.jpg"
+  },
+  "altText": "A painting of many animals walking in pairs across a landscape toward a large boat, painted in a clear, simple folk-art style.",
+  "source": {
+    "museum": "Philadelphia Museum of Art",
+    "url": "https://www.arthistoryproject.com/artists/edward-hicks/noahs-ark/",
+    "objectId": "noahs-ark",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, public-domain statement)"
+  },
+  "context": "An oil painting on canvas by the American artist Edward Hicks, dated 1846 and held by the Philadelphia Museum of Art. Its source page tags it Outsider Art, and Hicks is widely known for painting the story of Noah's Ark and other peaceful animal scenes.",
+  "descriptions": {
+    "k": "Animals walk two by two toward a big boat. Can you find a pair? Which animals do you see? What sounds do they make?",
+    "g12": "Edward Hicks painted animals walking in pairs toward a big boat called an ark. The animals are neat and clear. Which pair is your favorite? How do you think the animals feel?",
+    "g35": "Edward Hicks painted Noah's Ark in 1846. It shows the old story of a boat that carried animals in pairs. Hicks painted the animals one by one in clear, simple shapes, in a style called folk art. Which animals can you name, and how does the painting tell you where they are going?",
+    "g68": "Noah's Ark (1846) by Edward Hicks retells a well-known Bible story, with animals in pairs heading toward the ark. The page tags it Outsider Art, and it is also described as American folk art because Hicks painted in a simple, direct style. How do the clear animal shapes and the ordered arrangement make the story easy to follow?",
+    "g910": "Edward Hicks's Noah's Ark (1846) belongs to the American folk painting tradition, noted for direct, flat description and strong storytelling. The page tags it Outsider Art. Hicks painted the subject more than once. How do pairing, pattern and clear outlines turn a religious story into an ordered, readable scene, and how does simplification shape its mood?",
+    "g1112": "Noah's Ark (1846) shows Edward Hicks adapting a biblical narrative into the language of American folk painting, with clear outlines and a tidy, parade-like arrangement of animals. The page tags it Outsider Art, a label that raises questions about training and canon. How might the picture be read as devotion, as lesson in harmony, or as a painter's own way of seeing, and what limits does the evidence set?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find two animals walking together in Noah's Ark. Which animals are they?",
+      "emotion": "How do the animals make you feel when you look at them?",
+      "observation": "Find three different animals. What are they?",
+      "analysis": "Where are the animals going in the painting?",
+      "line": "Follow the animals with your finger. Which way are they walking?",
+      "shape": "Find a big shape, like the boat. What does it look like?",
+      "color": "Which colors in the painting are on the animals?",
+      "texture": "Imagine petting the animals in this painting. How would they feel?",
+      "space": "Which animals are close to you, and which are far away?",
+      "light": "Where is the lightest part of the painting?",
+      "meaning": "Why do you think the animals go in pairs?",
+      "culture": "This painting is from America. What would you tell a friend about it?",
+      "technique": "The painter used clear outlines for each animal. How is that different from soft, blurry painting?",
+      "personal": "If you were on the ark, which animal would you want to meet?",
+      "critical": "What animal would you add to Noah's Ark?"
+    },
+    "g12": {
+      "daily": "How can you tell the animals are going somewhere together in Noah's Ark?",
+      "emotion": "What mood do the colors and animals give you, and which parts show it?",
+      "observation": "List all the animals you see, and then say what each one is doing.",
+      "analysis": "Why does your eye follow the animals toward the boat?",
+      "line": "How do the lines of the animals' path lead your eyes through the painting?",
+      "shape": "Which shapes repeat in the animals and the boat?",
+      "color": "How do the colors help you tell one animal from another?",
+      "texture": "How did the painter make the animals look furry, feathery or smooth?",
+      "space": "How does the painting show which animals are near and which are far?",
+      "light": "Where does the light seem to fall in the landscape?",
+      "meaning": "Why might the painter have wanted to show the story of Noah's Ark?",
+      "culture": "What can a painting from 1846 tell us about stories people loved in America?",
+      "technique": "How can an artist paint many animals so they do not look jumbled?",
+      "personal": "Which animal would you ask a question, and what would it be?",
+      "critical": "Why do you think the painter chose to show animals in pairs, not alone?"
+    },
+    "g35": {
+      "daily": "Which details of the animals in Noah's Ark show how carefully Edward Hicks painted them?",
+      "emotion": "What feeling comes from the animals' calm walk, and which details support it?",
+      "observation": "Study the animals in pairs. Where do you find the most differences between pairs?",
+      "analysis": "How does the arrangement of the animals guide your eyes toward the ark?",
+      "line": "How do the outlines of the animals and boat help you read the story?",
+      "shape": "How do big and small shapes combine to show crowds of animals and one big boat?",
+      "color": "How do the colors of the animals, sky and ground make the scene easy to understand?",
+      "texture": "How does the painter suggest fur, feathers and skin without making them look exactly real?",
+      "space": "What clues tell you the ark is far away or close, and how deep is the space?",
+      "light": "How does light in the sky and ground shape the mood?",
+      "meaning": "What might Hicks want us to think about animals and people by painting this story?",
+      "culture": "What does this painting tell us about the stories and beliefs that were important to the artist and his community?",
+      "technique": "How is a clear, simple style different from a very detailed realistic style?",
+      "personal": "What would you ask Edward Hicks about painting the same story more than once?",
+      "critical": "Some people say folk art is less skilled than museum art. What evidence from this painting supports or challenges that?"
+    },
+    "g68": {
+      "daily": "How do the pairs of animals in Noah's Ark organize the story into a visual rhythm?",
+      "emotion": "Which choices of color and pattern give the painting a mood of calm order?",
+      "observation": "Compare how the animals are painted with how the landscape is painted. What differences stand out?",
+      "analysis": "How does the composition move the viewer's eye from the foreground animals to the ark?",
+      "line": "How do outlines and edges give each animal its own clear shape?",
+      "shape": "How do the repeated animal shapes build patterns across the scene?",
+      "color": "How does the palette of natural colors affect the peaceful feeling?",
+      "texture": "How does the painter use simplified detail to show different animal coverings like fur and feathers?",
+      "space": "How does the painting create depth with overlap and placement while staying simple?",
+      "light": "How does light and shadow in the landscape set the tone?",
+      "meaning": "What might the painting suggest about harmony between creatures, and what is left open to interpretation?",
+      "culture": "The subject is a Bible story. How can viewers of any background learn from a story painting while respecting its religious meaning?",
+      "technique": "How does folk painting use direct description instead of academic polish, and what effect does that have?",
+      "personal": "What emotions would you read in the scene, and what would you avoid assuming?",
+      "critical": "Is Noah's Ark mainly a religious picture, an animal picture or a story picture? Use details to explain."
+    },
+    "g910": {
+      "daily": "Which formal choices in Noah's Ark turn a familiar story into an orderly, readable procession?",
+      "emotion": "What emotional register results from the calm animals and clear shapes, and how does it support the story?",
+      "observation": "Examine the treatment of fur, feathers and landscape. What does the simplification reveal about Hicks's priorities?",
+      "analysis": "How does the arrangement of animals establish a hierarchy among foreground, middle ground and the ark?",
+      "line": "How do outlines structure the composition and keep so many animals legible?",
+      "shape": "How does the repetition of paired forms create rhythm?",
+      "color": "How does the natural color range unify the scene?",
+      "texture": "How does the direct, flat handling of surfaces differ from academic modeling?",
+      "space": "How do overlap and placement build a space that feels like a stage?",
+      "light": "How does the soft landscape light affect the peaceful tone?",
+      "meaning": "How might the animal pairs be read as an image of order, harmony or obedience, and what makes each reading open to debate?",
+      "culture": "How does the label Outsider Art, as the page uses it, relate to the longer category of American folk art, and what does each label emphasize?",
+      "technique": "How does the simplified approach shape the way the painting teaches its story?",
+      "personal": "What does the painting make you consider about how communities pass down stories visually?",
+      "critical": "To what extent does a simple style strengthen or limit the painting's emotional range?"
+    },
+    "g1112": {
+      "daily": "How does the combination of clear description and symbolic story allow Noah's Ark to support devotional, narrative and aesthetic readings?",
+      "emotion": "Might the peaceful mood belong to the scene or to the expectations viewers bring to a familiar story? Weigh the visual evidence.",
+      "observation": "Scan the junctions where animals overlap. How do these thresholds shape your reading of the procession as one group or many individuals?",
+      "analysis": "How does the arrangement of the animals produce direction without a single dramatic focal point?",
+      "line": "How does the use of contour relate to the conventions of folk painting and print sources, as widely noted for Hicks, without overstating specific claims?",
+      "shape": "In what ways do repeated animal forms operate as both description and pattern?",
+      "color": "How does the restrained natural palette serve the painting's calm tone?",
+      "texture": "How does the flat, direct handling of paint relate to ideas of skill, training and authenticity?",
+      "space": "How does the stage-like space reflect a narrative priority over illusionistic depth?",
+      "light": "How does the soft light contribute to a sense of promise or calm, and what does it leave out?",
+      "meaning": "How does the page's Outsider Art tag complicate or clarify the way the painting is categorized and valued?",
+      "culture": "How does a religious subject painted in nineteenth-century America reflect broader cultural uses of Bible stories, and how can viewers approach this with respect and curiosity?",
+      "technique": "How does the repetition of a subject, as Hicks painted the Ark more than once, shape our understanding of originality?",
+      "personal": "How does your own familiarity with the story shape your response, and does the painting meet or resist your expectations?",
+      "critical": "What would a persuasive argument look like that Noah's Ark should be seen as a sophisticated artwork rather than a naive one, and how would you counter it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on canvas), year (1846), collection (Philadelphia Museum of Art) and page tag (Outsider Art) read from the arthistoryproject.com page text; no concerning terms in the page text. Subject is a Bible story (animals walking to a boat); a person should check the image for any depiction of the flood or distress, which would need a gentler framing for K-2. The page text gives no movement label beyond the Outsider Art tag; American folk art is used as the accepted label. Only page text was read; the image file was not visually inspected, and a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A painting of 1846 by Edward Hicks, held by the Philadelphia Museum of Art, showing the Bible story of Noah's Ark. Hicks is associated with American folk painting, and the source page tags the work Outsider Art; teachers may treat the religious story neutrally.",
+    "vocabulary": [
+      "folk art",
+      "Outsider Art",
+      "procession",
+      "pairs",
+      "outline",
+      "narrative"
+    ],
+    "directions": [
+      "Have students draw an animal pair in a simple, clear outline style and compare how outlines help a story read quickly.",
+      "Ask students to tell the story of the painting in order using only what they see.",
+      "Discuss how artists and communities pass stories down through pictures."
+    ]
+  }
+}

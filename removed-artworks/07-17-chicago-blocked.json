@@ -1,0 +1,158 @@
+{
+  "id": "artic-122130",
+  "day": "07-17",
+  "title": "Les Andelys, Côte d'Aval",
+  "artist": "Paul Signac",
+  "date": "1886",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/43fcfad0-8256-4923-9f9c-03ca90417907/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Through prior gift of William Wood Prince",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A wide landscape painting of a river town on a hillside, made of tiny dots and dashes of contrasting color. A triangular patch of blue marks a bend in the river, and the hill is built from angular, trapezoid-like shapes of color.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/122130",
+    "objectId": "122130",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1863-1935), date, place of origin (France), medium, dimensions (60 x 92 cm), credit line, style (Post-Impressionism), subject terms (weather/seasons, boats, towns, farming, water, landscapes), short description, description, is_public_domain true and image_id read from the record"
+  },
+  "context": "Paul Signac painted this view of Les Andelys, a village on the Seine near Giverny, in 1886. The Art Institute describes it as one of his first works in pointillism, a technique originated by his friend Georges Seurat, and notes that Signac emphasized geometric form, with a triangular blue patch forming a river bend and trapezoids defining the hillside.",
+  "descriptions": {
+    "k": "Look at this river town. The painting is made of tiny dots and little dashes of color. A blue shape shows where the river bends. The hill has bright patches. Can you find the water? What colors do you see in the hill?",
+    "g12": "Paul Signac painted a town by a river using tiny dots and dashes of color. A triangle of blue shows the river bending. The hills look like patches of color. Move your eyes slowly across the dots. What do the colors make you feel on a bright day?",
+    "g35": "In 1886, Paul Signac painted the town of Les Andelys on the Seine River in France. He used tiny dots and dashes of color placed side by side, a technique called pointillism that he learned from his friend Georges Seurat. Look for the blue triangle of the river and the shapes of the hill. How do the dots help the colors look bright and glowing?",
+    "g68": "Signac painted this view of Les Andelys, a Seine village, in 1886, among his first experiments with pointillism, a technique developed by his friend Seurat. Small dots and dashes of contrasting color blend in the viewer's eye. The museum notes Signac's attention to geometry: a triangular blue patch forms the river bend and trapezoids shape the hillside. How do the dots and shapes turn a landscape into a pattern of color?",
+    "g910": "Les Andelys, Cote d'Aval (1886) is one of Signac's earliest pointillist canvases. Small strokes of contrasting color are meant to blend optically, while the museum highlights his emphasis on geometry, a triangular blue river bend and trapezoidal hills. Compare this with the looser brushwork of Impressionism. How do systematic color and structured shape create a different relationship between the viewer, the landscape, and the painter's process?",
+    "g1112": "Signac's 1886 landscape applies the optical color theories Seurat pioneered, using dots and dashes of contrasting hue to build luminosity. The Art Institute emphasizes his early attention to geometry: a triangular river bend and trapezoidal hillside. The approach converts spontaneous perception into a deliberate, almost scientific method. Does that systematic technique enhance or constrain the experience of a particular place, and how would you argue for either position from the evidence of the canvas?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the blue triangle. What do you think it is?",
+      "emotion": "Does this place feel sunny and peaceful, or windy and busy? What colors make you say so?",
+      "observation": "Point to a place with orange and a place with blue. What is each one?",
+      "analysis": "Which part of the picture is the biggest? Which is the smallest?",
+      "line": "Find short dashes of paint. Which way do they go?",
+      "shape": "The hill is made of flat patches. What shapes can you spot in them?",
+      "color": "Which colors are next to each other that surprise you?",
+      "texture": "The painting is made of dots. What would it feel like to touch it?",
+      "space": "What is far away and what is near? Point to each one.",
+      "light": "Find places where the sun seems to shine. What color is there?",
+      "meaning": "Who might live in this town by the river? Make up a story.",
+      "culture": "A river bends and flows. Where have you seen a river or a stream?",
+      "technique": "The painter used many small dots. Make tiny dots in the air like him.",
+      "personal": "If you lived here, what would you do each day?",
+      "critical": "What colors would you add to make the picture feel like summer?"
+    },
+    "g12": {
+      "daily": "Look closely at one small spot. What do you see made of dots and dashes?",
+      "emotion": "How does this river town feel to you? Point to the colors that give you that feeling.",
+      "observation": "List what you see: water, hills, buildings, and anything else.",
+      "analysis": "How does the painter show the river curving through the picture?",
+      "line": "Do you see short, dashing strokes? Which way do they point, and what do they make you think of?",
+      "shape": "The blue part of the river looks like a triangle. What other shapes does the painter use?",
+      "color": "Where does the painter put orange next to blue? What happens to the colors?",
+      "texture": "How is a painting made of dots different from one made of smooth paint?",
+      "space": "Which part of the hill looks closer and which looks farther away?",
+      "light": "Where does the painting seem to glow like sunshine?",
+      "meaning": "What might people be doing in this town on a sunny day?",
+      "culture": "This is a real town in France called Les Andelys. What do you wonder about a place you cannot visit?",
+      "technique": "The painter put tiny dots of color side by side. Why do you think he did not mix them first?",
+      "personal": "Which color would you use first if you were painting this town?",
+      "critical": "Why might a painter choose a river and a hill for a picture?"
+    },
+    "g35": {
+      "daily": "What parts of this landscape do your eyes visit first, and what choices by Signac lead them there?",
+      "emotion": "What is the mood of the scene? Use colors, brushwork, and shapes to explain.",
+      "observation": "Look slowly across the canvas. What small details do you notice only after a while?",
+      "analysis": "How does Signac arrange the river, hillside, and town to balance the painting?",
+      "line": "How do the short dashes of paint create direction and rhythm across the picture?",
+      "shape": "The museum mentions a triangle and trapezoids. How do these shapes organize the landscape?",
+      "color": "Signac puts contrasting colors, like orange and blue, next to each other. How does that make each color brighter?",
+      "texture": "How does the painting's surface made of dots and dashes differ from a smooth painting?",
+      "space": "How does the artist show the difference between the river in front and the hill behind?",
+      "light": "How does Signac make the landscape glow with sunlight using only color?",
+      "meaning": "How might a person who lived here describe this place using the picture as evidence?",
+      "culture": "Signac learned pointillism from his friend Seurat. How might artists inspire each other?",
+      "technique": "Pointillism takes many small touches of paint. What are the advantages and the challenges of this method?",
+      "personal": "Think of a landscape you know well. How would you plan it using dots of color?",
+      "critical": "Some people say pointillism looks scientific and others say it looks beautiful. What evidence from the picture supports each view?"
+    },
+    "g68": {
+      "daily": "How does Signac's use of dots and dashes shape your sense of a particular place and time of day?",
+      "emotion": "How do bright, contrasting colors create a mood of warmth or shimmering light?",
+      "observation": "What can you recognize as a river, hill, or town, and what do you read mostly as patterns of color? Separate evidence from guess.",
+      "analysis": "How does Signac structure the composition, from the river bend to the hillside, to guide the viewer across the canvas?",
+      "line": "How do the direction and size of the brushstrokes build a sense of rhythm?",
+      "shape": "The museum describes a triangular blue patch and trapezoid hills. How does geometry organize this landscape?",
+      "color": "How does placing complementary colors side by side change how they look from a distance compared with mixing them?",
+      "texture": "How does the dotted surface differ from the smooth or sketchy surfaces of other styles you know?",
+      "space": "How does Signac create depth with a limited number of overlapping shapes and the change in color?",
+      "light": "How does the painter convey light without using traditional shadow?",
+      "meaning": "What does the painting suggest about the relationship between towns, farming, and the Seine landscape?",
+      "culture": "How was pointillism a response to Impressionism in the 1880s?",
+      "technique": "Why might a painter choose a systematic method rather than spontaneous brushwork?",
+      "personal": "How does your own way of noticing color compare with Signac's?",
+      "critical": "How would you evaluate whether the technique makes the view more or less realistic?"
+    },
+    "g910": {
+      "daily": "How do Signac's choices of technique, geometry, and color shape your first interpretation of the landscape?",
+      "emotion": "How does the shimmering, even quality of the surface create a mood that differs from loose Impressionist spontaneity?",
+      "observation": "Analyze how the river bend, hillside, and town are arranged to build a hierarchy of attention.",
+      "analysis": "How do the angular shapes of color areas interact with the directional dashes to structure the picture?",
+      "line": "How does Signac use small, rhythmic strokes instead of outline to describe form?",
+      "shape": "How does the museum's emphasis on triangles and trapezoids change the way you see natural forms?",
+      "color": "Explain the theory behind placing contrasting colors side by side and assess how effectively it works here.",
+      "texture": "In what ways does the dotted surface turn paint itself into a visible, structural element?",
+      "space": "How does Signac construct depth through color relationships and stacked planes?",
+      "light": "How does the pointillist method render sunlight and atmosphere without cast shadow?",
+      "meaning": "How does a village on the Seine, framed by systematic technique, speak to modern ideas of science and nature?",
+      "culture": "How does Signac's friendship with Seurat shape the movement's identity and its relationship to Impressionism?",
+      "technique": "How does the labor-intensive technique alter your sense of the painter's time and intention?",
+      "personal": "How does your reaction to a systematic, controlled style compare with your response to expressive brushwork?",
+      "critical": "To what extent can a rule-based method still produce a personal vision? Cite visual evidence."
+    },
+    "g1112": {
+      "daily": "What argument about perception, science, and landscape does the painting make through its technique?",
+      "emotion": "How do the radiant surface and impersonal touch complicate any single emotional reading of the scene?",
+      "observation": "Describe the painting precisely, then identify which statements about meaning rely on art-historical context rather than the image.",
+      "analysis": "Analyze how the geometric underpinnings, triangle and trapezoids, create a stable framework for a vibrating surface.",
+      "line": "How does the directional logic of the dashes function as drawing without line?",
+      "shape": "Consider how geometry in the hillside and river reflects the move from Impressionism toward structured form.",
+      "color": "How does the application of optical mixing complicate the relationship between pigment, perception, and luminosity?",
+      "texture": "How does the repetitive facture position the painting between handmade labor and mechanical process?",
+      "space": "How does the compression of planes engage with or depart from traditional perspective?",
+      "light": "Discuss how light is built from color relationships rather than from tonal modeling.",
+      "meaning": "Evaluate readings of pointillism as scientific rigor, aesthetic experiment, or social statement, using the evidence of this early canvas.",
+      "culture": "How does the work illuminate the relationship between Signac and Seurat, and between Neo-Impressionism and Impressionism?",
+      "technique": "How does the choice of a modest river village, rather than a Parisian leisure scene, shape the claim of the painting?",
+      "personal": "How do your own habits of seeing color affect your response to optical mixing?",
+      "critical": "What outside sources would help you judge how Signac himself understood the balance between theory and sensation?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (weather/seasons, boats, towns, farming, water, landscapes), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1886 and described by the Art Institute as one of Signac's first works in pointillism. Les Andelys is a Seine village near Giverny; the museum notes the triangular river bend and trapezoidal hillside.",
+    "vocabulary": [
+      "pointillism",
+      "Neo-Impressionism",
+      "optical mixing",
+      "complementary colors",
+      "geometry",
+      "landscape"
+    ],
+    "directions": [
+      "Have students make a small landscape from dots of only red, blue, yellow, and green, then view it from across the room.",
+      "Ask students to identify where Signac places contrasting colors side by side and describe the effect.",
+      "Discuss how friends and colleagues share art ideas, using Signac and Seurat as an example."
+    ]
+  }
+}

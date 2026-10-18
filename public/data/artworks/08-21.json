@@ -1,0 +1,159 @@
+{
+  "id": "artic-111436",
+  "day": "08-21",
+  "title": "The Basket of Apples",
+  "artist": "Paul Cezanne",
+  "date": "c. 1893",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "/images/artic-111436.jpg",
+    "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection; image via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-cezanne/the-basket-of-apples/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11516/paul_cezanne-the_basket_of_apples-1894-obelisk-art-history.jpg"
+  },
+  "altText": "A still life on a table covered with a rumpled white cloth, with a basket of apples tipped toward the viewer, a bottle, and more fruit and bread. The table edges and objects look slightly tilted, as if seen from more than one place.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/111436",
+    "objectId": "111436",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (still life, apples, basket, bottles, bread, table, tablecloth, food), is_public_domain true and image_id read from the record. Image file taken from the arthistoryproject.com page for the same painting (page names the Art Institute of Chicago as the collection and states the image is in the public domain)."
+  },
+  "context": "An oil painting by Paul Cezanne, a French painter, made around 1893. The Art Institute's subject terms list apples, a basket, bottles, bread, a table and a tablecloth. Cezanne painted still lifes to study shape and color rather than just copy a scene.",
+  "descriptions": {
+    "k": "Here is a table with apples. There is a basket, a bottle, and a white cloth. Can you find the apples? The cloth has big folds. Does everything sit flat, or does it look a little tilted?",
+    "g12": "Paul Cezanne painted these apples, a basket, a bottle, and a crumpled white cloth. He looked at them for a long time. Some things seem to tilt, and the table looks a little strange. What do you notice that seems tipped or bent?",
+    "g35": "Paul Cezanne painted The Basket of Apples around 1893 in France. A basket, a bottle, bread, and apples sit on a table covered by a crumpled cloth. The table edges seem to tilt and do not match up perfectly. Cezanne looked at objects from slightly different places. Why might an artist break the rules of perfect perspective on purpose?",
+    "g68": "In The Basket of Apples (c. 1893), Cezanne arranges apples, a basket, a bottle, and bread on a table with a heavily folded white cloth. The table edge on the left does not line up with the right, and the basket tilts toward you. Such choices suggest he was studying how we really see, moving his viewpoint as he looked. What effect do these shifts have on how solid or flat the objects feel?",
+    "g910": "Cezanne's Basket of Apples (c. 1893) is often discussed for its deliberate distortions: the tipped basket, the disconnected table edges, and the sculptural folds of the cloth. These shifts suggest multiple viewpoints rather than a single fixed perspective. Rather than copying an arrangement, he builds forms with patches of color. How does this approach change the way you read the still life, and what does it anticipate in later art?",
+    "g1112": "The Basket of Apples (c. 1893) is a touchstone for Post-Impressionism and later Cubism: Cezanne reconstructs the still life through shifting viewpoints, modulated color, and geometric simplification, leaving the table edges visibly inconsistent. Critics have argued about whether these are errors, experiments with perception, or both. How does the painting turn a simple arrangement into a question about seeing, and why did later artists find that question so productive?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many apples can you count? Where are they?",
+      "emotion": "Does this table feel calm or busy to you? What do you see that tells you?",
+      "observation": "Find the basket, the bottle, and the cloth. Which is biggest?",
+      "analysis": "What looks like it might slide or tip? Show us with your hand.",
+      "line": "Trace the folds of the white cloth in the air. Are they straight or curvy?",
+      "shape": "Apples are round. What other shapes do you spot?",
+      "color": "Which colors do the apples have? Are all the apples the same?",
+      "texture": "Does the cloth look soft or stiff? Tell us how you know.",
+      "space": "How does the table seem to lean toward you?",
+      "light": "Where is the cloth brightest? Where is it darker?",
+      "meaning": "Why might an artist paint ordinary fruit again and again?",
+      "culture": "People eat apples all around the world. What fruit do you have at home?",
+      "technique": "Cezanne used oil paint in little patches. How might that be different from drawing the apples?",
+      "personal": "If you made a table of your favorite things, what would be on it?",
+      "critical": "What would you change if you set up this table yourself?"
+    },
+    "g12": {
+      "daily": "Which part of this table feels steady, and which part feels a little wobbly?",
+      "emotion": "Does the painting feel quiet or lively? Point to what makes you feel that.",
+      "observation": "List what you see on the table, from top to bottom.",
+      "analysis": "Why does your eye land on the apples and the basket first?",
+      "line": "Follow the edge of the table with your finger. What do you notice about where it goes?",
+      "shape": "How do the round apples look next to the straight bottle and the table edges?",
+      "color": "Cezanne used reds, yellows, and greens on the apples. How do these bright colors pop against the white cloth?",
+      "texture": "How did the painter show that the cloth is crumpled and soft?",
+      "space": "The basket seems to tip toward us. How does that make the table feel close?",
+      "light": "Where do you see white and where do you see shadows on the cloth?",
+      "meaning": "Cezanne painted the same kinds of objects many times. Why might he do that?",
+      "culture": "People often made still lifes of food. What can they tell us about daily life long ago?",
+      "technique": "Cezanne looked at the table from more than one spot while painting. How can you tell?",
+      "personal": "How would you arrange apples and a cloth to make an interesting picture?",
+      "critical": "Is it okay if a painting does not look exactly like real life? Use details from this one to explain."
+    },
+    "g35": {
+      "daily": "Which parts of the still life feel solid and which feel unusual? Name the details that make you say so.",
+      "emotion": "How would you describe the mood of this painting, and which choices create it?",
+      "observation": "Look carefully at the table's edges and the basket. What small oddities do you notice?",
+      "analysis": "How does Cezanne arrange the objects so your eye moves around the table?",
+      "line": "How do the table edges and cloth folds make the lines of the painting feel angular or flowing?",
+      "shape": "How do the round apples contrast with the straight edges of the table and bottle?",
+      "color": "How does Cezanne use patches of warm and cool color to make the apples look rounded?",
+      "texture": "How do his short brushstrokes build up a surface that is more than a copy of what he saw?",
+      "space": "How does the tipped table push the objects toward you and flatten the space at the same time?",
+      "light": "How does the white cloth hold both light and shadow to give it weight?",
+      "meaning": "Cezanne worked from ordinary objects he could observe for hours. What might he have been trying to learn from them?",
+      "culture": "How might a still life like this reflect everyday French life in the 1890s?",
+      "technique": "What do you think Cezanne gained by shifting his viewpoint instead of using one-point perspective?",
+      "personal": "What everyday objects would you choose to paint, and what would you want to find out about them?",
+      "critical": "Cezanne's table edges do not line up. Is that a mistake, a choice, or both? Defend your view."
+    },
+    "g68": {
+      "daily": "What do the tipped basket and mismatched table edges suggest about how Cezanne looked at the scene?",
+      "emotion": "What mood does the painting have, and how do the folds of the cloth and the objects create it?",
+      "observation": "Describe the basket, the bottle, and the cloth. Which detail seems unusual when you look again?",
+      "analysis": "How does the arrangement of objects lead your eye around the table?",
+      "line": "How do the table edges and cloth folds create straight and angled lines that contrast with the apples?",
+      "shape": "How do the round apples differ from the straight bottle, and why might the painter want that contrast?",
+      "color": "How does Cezanne use warm and cool strokes to make the apples look solid?",
+      "texture": "How do the brushstrokes build form instead of simply copying surface detail?",
+      "space": "How does the tilted table make the space feel both close and flattened?",
+      "light": "Where does the white cloth show light and shadow, and how does that give it weight?",
+      "meaning": "What might Cezanne have been trying to learn by painting simple objects again and again?",
+      "culture": "How does a still life of food reflect everyday life in France in the 1890s?",
+      "technique": "What are the advantages of looking from more than one position while painting?",
+      "personal": "What everyday arrangement would you want to study closely, and what would you look for?",
+      "critical": "Is an off-kilter table a flaw or a purposeful choice? Argue one side with evidence from the painting."
+    },
+    "g910": {
+      "daily": "How do the unconventional table edges and the tipped basket affect the stability you attribute to this arrangement?",
+      "emotion": "How does the muted, deliberate handling of the scene create a mood of concentration rather than abundance?",
+      "observation": "Study the junction between table and cloth. What does the mismatch suggest about how Cezanne constructed the picture?",
+      "analysis": "Analyze how the diagonal of the table and the clustered objects create a layered composition.",
+      "line": "How do the straight lines of the table contrast with the sculptural, angular folds of the cloth?",
+      "shape": "How does Cezanne reduce the apples and bottle to simple, solid forms, and what does that foreshadow?",
+      "color": "How does modulated color, with warm and cool strokes, construct volume without conventional shading?",
+      "texture": "What do the visible, directional brushstrokes reveal about the painter's process and about the relation of paint to object?",
+      "space": "How does the shallow, tilted space reject one fixed viewpoint, and what does it propose in its place?",
+      "light": "How does light on the cloth define its folds, and why might the painter have valued such a complex white surface?",
+      "meaning": "What might Cezanne's repeated study of apples suggest about his interest in perception rather than narrative?",
+      "culture": "How does the work belong to the long tradition of still life while departing from it?",
+      "technique": "What is the effect of building form through color patches instead of line and tone, and how does it differ from academic technique?",
+      "personal": "What does this painting make you question about how you normally look at everyday objects?",
+      "critical": "Should a painting be judged on fidelity to the seen world or on how it reshapes seeing? Support your answer from this work."
+    },
+    "g1112": {
+      "daily": "How does Cezanne's refusal of a single vantage point complicate the stability and coherence of the still life?",
+      "emotion": "Does the muted, studied handling convey restraint or intensity, and how might different viewers experience it?",
+      "observation": "Examine the junctions where table edge meets cloth. Do you read them as error, strategy, or experiment?",
+      "analysis": "Analyze how the composition uses tilted planes and compressed layers to organize the arrangement.",
+      "line": "How do rigid edges and heavily folded cloth create competing rhythms of line?",
+      "shape": "How does the simplification of fruit and bottle into near-geometric solids prefigure Cubist reduction?",
+      "color": "Evaluate how modulated brushstrokes of warm and cool color generate volume without relying on tonal gradation.",
+      "texture": "What do the constructive brushstrokes suggest about the relationship between surface and object that Cezanne sought?",
+      "space": "How does the ambiguous, tipped space function as an argument about perception rather than illusion?",
+      "light": "How does the treatment of light on white cloth contribute to its sculptural weight and the painting's tectonic structure?",
+      "meaning": "What does this still life imply about the distinction between depicting a subject and investigating how it is seen?",
+      "culture": "How does Cezanne's still life engage with and challenge the legacy of Dutch and French still-life painting?",
+      "technique": "How does his constructive approach differ from Impressionist attention to fleeting light, and what are the consequences?",
+      "personal": "How does this painting alter your sense of whether apparent distortion indicates failure or intention in an artwork?",
+      "critical": "What criteria would you use to defend this painting's significance to someone who finds it merely awkward?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Same painting as the earlier Art Institute of Chicago record (subject terms checked against the museum record). The Art Institute website blocks image downloads, so the image now comes from arthistoryproject.com. This image file has not been viewed yet; a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A still life painted around 1893 by Paul Cezanne in oil on canvas. The museum lists apples, a basket, bottles, bread, a table and a tablecloth. Cezanne is often linked to the shift from Impressionism toward modern art.",
+    "vocabulary": [
+      "still life",
+      "Post-Impressionism",
+      "perspective",
+      "viewpoint",
+      "composition",
+      "brushstroke"
+    ],
+    "directions": [
+      "Set up a table with a cloth and fruit, and have students draw it from two positions, then combine them in one picture.",
+      "Ask students to find every place where the table edge or basket seems to bend the rules of perspective and discuss why.",
+      "Compare this with a photograph of a similar arrangement and discuss what a painter can show that a camera cannot."
+    ]
+  }
+}

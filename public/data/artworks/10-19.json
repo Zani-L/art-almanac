@@ -1,0 +1,159 @@
+{
+  "id": "met-437323",
+  "day": "10-19",
+  "title": "A Brazilian Landscape",
+  "artist": "Frans Post",
+  "date": "1650",
+  "medium": "Oil on wood",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145952.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145952.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Rogers Fund, special funds, James S. Deely Gift, and Gift of Edna H. Sachs and other gifts and bequests, by exchange, 1981",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide landscape of Brazil painted by a Dutch artist, showing land, vegetation and sky in a calm panoramic view.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437323",
+    "objectId": "437323",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Frans Post was a Dutch painter who traveled to northeastern Brazil in the 1630s and 1640s, when part of it was ruled by the Dutch West India Company. After returning to the Netherlands he kept painting Brazilian views for Dutch buyers. Today scholars note that such pictures present an orderly, pleasing view of a colony.",
+  "descriptions": {
+    "k": "This is a landscape of a faraway place called Brazil. The painter came from the Netherlands. Look at the land, the plants and the big sky. What is different from where you live?",
+    "g12": "This is a view of Brazil painted by Frans Post, who came from the Netherlands. He saw the land himself and then painted it back home. Look at the plants, the land and the sky. What looks new or different to you?",
+    "g35": "Frans Post was a Dutch painter who traveled to Brazil in the 1600s. This painting from 1650 shows a Brazilian landscape that he painted after returning home, using his memories and sketches. Dutch buyers were curious about far-off lands. Look at the land, plants and sky. What do you think a Dutch viewer found most surprising?",
+    "g68": "Post went to Brazil as part of a Dutch expedition and painted its landscapes for audiences back in the Netherlands. This 1650 painting was made after his return, so it combines memory, sketches and Dutch painting habits. The view is orderly and calm. Historians point out that such pictures show the land in a pleasing way and tell us little about the hard realities of colonial life. What do you notice, and what might be missing?",
+    "g910": "A Brazilian Landscape (1650) was painted in the Netherlands after Post's years in Dutch-ruled northeastern Brazil. It applies Dutch landscape conventions, such as panoramic space and a broad sky, to a distant country. The result is a tidy, peaceful image that invited Dutch viewers to enjoy a colony from afar. Scholars note that these views leave out the labor and inequalities of colonial society, including slavery. How do formal choices shape the story the picture tells?",
+    "g1112": "Post painted A Brazilian Landscape in 1650, after he returned from Brazil, and he went on to make many such views. They merge direct experience with Dutch landscape conventions, producing images that are ordered and calm. Because they were made for a European market, they raise questions about what a colonial picture shows and omits, including the presence of enslaved labor in the colony's economy. How does the painting's composed beauty shape, and perhaps distort, what viewers understand about the place?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What is the biggest difference between this land and the place where you live?",
+      "emotion": "Does this place feel peaceful or busy? What do you see that tells you?",
+      "observation": "Can you find the land, the plants and the sky? Point to each one.",
+      "analysis": "What do you see first? What do you see next?",
+      "line": "Trace the shape of the land where it meets the sky.",
+      "shape": "What shapes do the plants and hills make?",
+      "color": "Which colors do you see most? Are they bright or soft?",
+      "texture": "How would the plants feel if you touched them?",
+      "space": "What is close to you and what is far away?",
+      "light": "Is the light bright or soft? Where does it shine?",
+      "meaning": "If you walked into this land, what would you want to find?",
+      "culture": "The painter came from the Netherlands and visited Brazil. What far-away place would you like to visit?",
+      "technique": "The painter remembered this place and painted it later. How could you paint a place you remember?",
+      "personal": "Tell about a place you visited that felt new to you.",
+      "critical": "The painter chose to show a calm day. What might he have left out?"
+    },
+    "g12": {
+      "daily": "What do you notice here that a person from the Netherlands might find new or surprising?",
+      "emotion": "What feeling does this wide view give you? Which part helps you feel it?",
+      "observation": "Describe three things close to you and three things in the distance.",
+      "analysis": "How does the painter lead your eyes across the land to the faraway sky?",
+      "line": "Follow the edges of hills or water with your finger. How do the lines lead into the distance?",
+      "shape": "Compare the shapes of the plants with the shapes of the land. How are they different?",
+      "color": "What greens, browns and blues are used? How do they work together?",
+      "texture": "How does the painter show leaves, ground and sky as different?",
+      "space": "How does the painter make the land look wide and deep?",
+      "light": "Where is the light brightest? How does it change the colors of the land?",
+      "meaning": "What would you want to ask the painter about this place?",
+      "culture": "A Dutch artist painted this far from home. What might people in the Netherlands have wondered when they saw it?",
+      "technique": "Post painted this after he came home. What might help a painter remember a place?",
+      "personal": "How is this place like or unlike somewhere you have seen?",
+      "critical": "Is the picture only the happy side of the place? Why might a painter choose to show that?"
+    },
+    "g35": {
+      "daily": "Post painted Brazil for people in the Netherlands. What details help a faraway viewer understand this land?",
+      "emotion": "What mood does the painting have? Which details create it?",
+      "observation": "Look from the front of the painting to the horizon. What do you find in each layer?",
+      "analysis": "How does Post arrange land, plants and sky to give a wide, panoramic view?",
+      "line": "How do the lines of hills and land edges lead your eyes back into the picture?",
+      "shape": "How do the shapes of plants and hills repeat or contrast across the painting?",
+      "color": "How does Post use greens, browns and soft blues to show a warm country?",
+      "texture": "How does the painter show thick plants and open land in different ways?",
+      "space": "How does Post use size, color and haze to make the distance feel far away?",
+      "light": "Describe how light spreads across the land. What time of day might it be?",
+      "meaning": "Why might Dutch people have wanted paintings of a distant country?",
+      "culture": "Brazil was partly ruled by the Dutch at this time. What questions would you ask about how people lived there?",
+      "technique": "Post made sketches in Brazil and painted later at home. How might that change a picture?",
+      "personal": "Think of a place you remember well. How would you paint it so others could feel it?",
+      "critical": "A painter chooses what to show. What might a calm landscape leave out about a place?"
+    },
+    "g68": {
+      "daily": "How does Post make an unfamiliar land look orderly and inviting to Dutch viewers?",
+      "emotion": "What mood does the panoramic calm create, and how does it shape your sense of the place?",
+      "observation": "List what is visible in the foreground, middle ground and background. Which details seem to carry the most information about Brazil?",
+      "analysis": "How does the composition balance land and sky and lead the viewer's eye?",
+      "line": "How do contours of land and vegetation guide the eye through the scene?",
+      "shape": "How do organic shapes of plants contrast with the broad, flat shapes of the land?",
+      "color": "How does the palette create a warm, peaceful atmosphere?",
+      "texture": "How does the painter suggest dense vegetation and open ground on a flat panel?",
+      "space": "Which devices create the wide panoramic depth typical of Dutch landscape painting?",
+      "light": "How does the light unify the scene and affect its mood?",
+      "meaning": "What does a calm view of a colony suggest, and what might it hide?",
+      "culture": "How did Dutch landscape habits shape Post's way of seeing Brazil?",
+      "technique": "How might combining on-site sketches with studio painting affect the final image?",
+      "personal": "How might your own memories of a place differ from a photograph of it?",
+      "critical": "Whose point of view does this painting present, and whose is missing?"
+    },
+    "g910": {
+      "daily": "How does Post apply Dutch landscape conventions to a Brazilian view, and what are the consequences?",
+      "emotion": "How does the painting's serenity influence the viewer's sense of the place?",
+      "observation": "Describe the visual hierarchy of the scene. Where does attention settle, and how does the painter manage the viewer's path?",
+      "analysis": "Analyze how the proportion of sky and land structures the painting.",
+      "line": "How do horizontal bands and contour lines create a stable, panoramic arrangement?",
+      "shape": "How do the contrasts between plant forms and landforms create variety within order?",
+      "color": "How does the palette communicate warmth and fertility while keeping a Dutch tonal harmony?",
+      "texture": "How does brushwork distinguish vegetation, earth and atmosphere?",
+      "space": "How does the panoramic view position the viewer as a distant observer?",
+      "light": "How does the treatment of light create an idealized, harmonious atmosphere?",
+      "meaning": "How do you weigh the painting's beauty against what it leaves out about colonial society?",
+      "culture": "How did images like this serve Dutch audiences' interest in, and understanding of, overseas territories?",
+      "technique": "How does painting from memory and sketches change the relationship between observation and invention?",
+      "personal": "How does knowing the painting's history change how you feel about its beauty?",
+      "critical": "What responsibilities do viewers have when looking at beautiful images produced within colonial systems?"
+    },
+    "g1112": {
+      "daily": "What visual strategies make this a persuasive image of a colonial landscape, and what do they ask the viewer to overlook?",
+      "emotion": "How does the painting's serenity operate as a rhetorical choice, and how should we weigh that against its beauty?",
+      "observation": "Describe the formal structure of the painting as exactly as you can before interpreting. Which choices were hardest to describe neutrally?",
+      "analysis": "How does the composition mediate between observed detail and imported conventions?",
+      "line": "How do horizontal structures and subtle contours establish an order that might be read as natural or imposed?",
+      "shape": "How does the contrast of vegetation and open land structure the viewer's experience of the territory?",
+      "color": "How does tonal harmony assimilate an unfamiliar place into a familiar visual language?",
+      "texture": "How does the representation of vegetation and soil work as evidence, and what are its limits?",
+      "space": "How does a panoramic viewpoint relate to ideas of surveying and possession?",
+      "light": "How does consistent, gentle light contribute to an idealized view, and what would be changed by harsher conditions?",
+      "meaning": "How should we read an image whose beauty is entangled with a colonial context and its omissions?",
+      "culture": "What can this painting tell us about Dutch perceptions of Brazil, and what can it not?",
+      "technique": "How does the studio production of a remembered landscape complicate claims about its documentary value?",
+      "personal": "How do your own position and knowledge shape your response to this image?",
+      "critical": "How can a viewer appreciate the painter's skill while still asking critical questions about what the picture conceals?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Landscapes) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A landscape by Frans Post, painted in the Netherlands in 1650 after his time in Dutch-ruled northeastern Brazil. It offers a good starting point for discussing how images made for a colonial power select and arrange what they show.",
+    "vocabulary": [
+      "landscape",
+      "panorama",
+      "colony",
+      "perspective",
+      "idealize",
+      "horizon"
+    ],
+    "directions": [
+      "Compare this picture with a modern photograph of Brazil and list what each shows and omits.",
+      "Discuss the difference between a place as someone remembers it and as it is.",
+      "Locate Brazil and the Netherlands on a map and discuss why the Dutch traveled there."
+    ]
+  }
+}

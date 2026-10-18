@@ -1,0 +1,159 @@
+{
+  "id": "met-435702",
+  "day": "01-23",
+  "title": "The Horse Fair",
+  "artist": "Rosa Bonheur",
+  "date": "1852–55",
+  "medium": "Oil on canvas",
+  "movement": "Realism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23550-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-23550-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Cornelius Vanderbilt, 1887",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A crowd of large horses and the men who lead them move across a wide, open scene in a Paris horse market. Several horses toss their heads and lift their legs as the handlers hold them, and trees and sky fill the background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435702",
+    "objectId": "435702",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Men, Horses, Paris), and image URLs read from the record"
+  },
+  "context": "An oil painting by the French artist Rosa Bonheur, made between 1852 and 1855. It shows a horse market in Paris, and it is a very large canvas that was first shown to the public in the 1850s and later given to the Met.",
+  "descriptions": {
+    "k": "Look at all the horses! They are big and strong. Men hold them and walk beside them. Some horses toss their heads. Can you find the horse that looks busiest? What do you think it wants to do?",
+    "g12": "Rosa Bonheur painted this busy horse market in Paris. Big horses toss their heads and lift their legs while men hold them. The painting is very large, so it feels as if the horses are walking right at you. Which horse seems to move the most? How can you tell?",
+    "g35": "Rosa Bonheur, a French artist, loved to paint animals, and she visited a real horse market in Paris again and again to study the horses. The canvas is huge, so the horses look close to life size. Look at the muscles, the tossing heads, and the men who guide them. How does Bonheur make a still painting feel full of motion?",
+    "g68": "Bonheur painted this between 1852 and 1855 after sketching at a Paris horse market. The strong diagonal of marching horses pulls your eye across the canvas, while the riders and handlers add rhythm and scale. Realist painters of her time chose everyday working life over myths or history. Notice how she treats horses as the true heroes, with weight, muscle, and personality. What choices make them feel powerful rather than decorative?",
+    "g910": "In The Horse Fair, Bonheur gives a working animal market the scale usually reserved for history painting. A band of horses surges across the wide canvas, and light picks out glossy coats and rippling muscles against shadowed figures and trees. Her careful study of anatomy made the animals convincing, and her fame helped open doors for women artists. Consider how composition, scale, and detail work together to elevate ordinary labor into something monumental.",
+    "g1112": "The Horse Fair reads both as a Realist subject and as a bid for the prestige of history painting: an everyday market is rendered on a monumental scale, with a processional rhythm that some viewers compare to classical friezes. Bonheur's studied anatomy and sympathetic characterization of the horses shaped her reputation, and her success as a woman in a male-dominated profession adds another layer of context. Debate remains over how much the painting celebrates strength, trade, or the human-animal relationship. What evidence in the image best supports your view?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which horse looks the strongest to you, and what makes you think so?",
+      "emotion": "Do these horses look calm or excited? Show with your body how one of them might feel.",
+      "observation": "How many horses can you count? Point to the one that is closest to you.",
+      "analysis": "Where do the horses seem to be going? Trace their path with your finger.",
+      "line": "Find a long curved line along a horse's neck. Can you draw it in the air?",
+      "shape": "The horses have big round bodies and long legs. What shapes can you see in one horse?",
+      "color": "What colors are the horses? Which color do you like best?",
+      "texture": "How would a horse's shiny coat feel if you touched it? How about its mane?",
+      "space": "Which horses are close to you and which are far away? What helps you tell?",
+      "light": "Where is the light shining on the horses? Find a place that looks shadowy.",
+      "meaning": "What do you think the men are doing with the horses? Tell a little story.",
+      "culture": "Long ago, many people used horses to pull things and to travel. What do we use today instead?",
+      "technique": "This painting is as wide as a room wall. How might it feel to stand next to something so big?",
+      "personal": "If you could walk beside one of these horses, what would you say to it?",
+      "critical": "Why do you think the artist made the horses so big in the picture?"
+    },
+    "g12": {
+      "daily": "Pick the horse that seems to be moving the most. What parts of its body show that?",
+      "emotion": "Are the horses and men calm, nervous, or excited? Find clues in their heads, legs, and faces.",
+      "observation": "Describe five details about the horses, such as their heads, manes, legs, and colors.",
+      "analysis": "How does the painter make your eyes travel from one side of the painting to the other?",
+      "line": "Look at the lines made by the horses' backs and legs. Do they look still or moving? Explain.",
+      "shape": "Which big shapes do the horses make when they stand close together? How do the shapes overlap?",
+      "color": "Which colors are used on the horses' coats? Which horse stands out most against the background?",
+      "texture": "How does the painter show a smooth coat, a rough mane, and the dusty ground?",
+      "space": "How can you tell some horses are in front and others are farther back?",
+      "light": "Where do you see bright spots on the horses' bodies? What do those spots tell you about the light?",
+      "meaning": "What do you think is happening at this market? Tell what you see that supports your idea.",
+      "culture": "This market was in the city of Paris long ago. What do the clothes of the men tell you about that time?",
+      "technique": "The artist visited a real horse market many times before painting this. Why might that help her?",
+      "personal": "Have you ever seen a big animal up close? What did you notice about how it moved?",
+      "critical": "The painter shows the horses very big and the men fairly small. Why might she have chosen that?"
+    },
+    "g35": {
+      "daily": "How does Bonheur make a painting of standing and walking horses feel full of movement? Point out the details that do it.",
+      "emotion": "What mood do you sense in this market: energy, danger, pride, or something else? Which details support your answer?",
+      "observation": "Spend one quiet minute looking at the horses' legs and hooves. What do their positions tell you?",
+      "analysis": "How does Bonheur organize the crowd so that horses, handlers, trees, and sky each have a place?",
+      "line": "How do the long curves of necks and backs compare with the straighter lines of the men and the trees?",
+      "shape": "The horses are large rounded forms. How does Bonheur overlap them to make a crowded but readable group?",
+      "color": "How do the darker coats and lighter gray coats help your eye find the most important horses?",
+      "texture": "How does the artist paint the difference between glossy horse coats, rough clothing, and dusty ground?",
+      "space": "How does Bonheur use overlapping and size to make the market seem to stretch back into the distance?",
+      "light": "Where does light seem to hit the horses most strongly, and how does it help show their muscles?",
+      "meaning": "Bonheur spent time at a real market sketching. What might she want us to feel about these animals?",
+      "culture": "Horses were essential to work and travel in France at this time. What clues in the painting show how people depended on them?",
+      "technique": "Bonheur used oil paint on a huge canvas. How might working at this size change what a painter must plan?",
+      "personal": "If you were a horse here, which person would you want holding you, and why?",
+      "critical": "Why might a painter give ordinary working horses the same size and importance as a famous battle or a king?"
+    },
+    "g68": {
+      "daily": "How does Bonheur turn a busy market into a painting that makes you admire horses? Use specific parts of the picture.",
+      "emotion": "How does the painting mix excitement and control? Look at the horses' heads and the handlers' hands.",
+      "observation": "Describe the picture from the front row of horses to the background. Which details seem most carefully studied?",
+      "analysis": "How does the strong left-to-right movement of the horses organize the whole composition?",
+      "line": "Trace the diagonals made by the horses' bodies. How do they create rhythm and a sense of travel?",
+      "shape": "How do the repeating rounded forms of horses create unity while their different poses add variety?",
+      "color": "How do the dark and light coats create contrast, and how does the muted setting keep attention on the animals?",
+      "texture": "How does Bonheur suggest the weight and muscle under the horses' coats using paint alone?",
+      "space": "The canvas is very wide. How does that shape affect the way you scan the scene and your sense of being in the crowd?",
+      "light": "How does the light separate the horses from the darker background and make them feel solid?",
+      "meaning": "Realist artists painted ordinary life. What might it say that Bonheur gave a horse market such importance?",
+      "culture": "How might the busy horse trade shown here reflect life in a growing 19th-century city?",
+      "technique": "Bonheur studied horses at the market and also learned animal anatomy. How might that knowledge show up in the painting?",
+      "personal": "What does careful observation of something you love, like an animal or a sport, teach you that quick looking would not?",
+      "critical": "Does the painting seem to celebrate horses, the people who work with them, or both? Argue from visual evidence."
+    },
+    "g910": {
+      "daily": "What visual strategies make the horses, rather than the people, the true subject of this enormous painting?",
+      "emotion": "How does Bonheur balance controlled power and potential chaos in the horses' postures?",
+      "observation": "Identify the visual hierarchy: which animals draw attention first, and which devices produce that effect?",
+      "analysis": "How does the wide, frieze-like arrangement of horses structure the viewer's movement across the canvas?",
+      "line": "How do the arcs of necks and backs and the diagonals of legs build a sense of surging momentum?",
+      "shape": "How does the interplay of overlapping rounded masses create both density and a legible rhythm?",
+      "color": "How does the range of dark and pale coats, set against earthy tones, direct attention and unify the group?",
+      "texture": "Where does Bonheur render surface closely, as in coats and manes, and where does she loosen the brushwork? Why?",
+      "space": "How does the shallow foreground band of figures relate to the open space and sky behind them?",
+      "light": "How does the modeling of light on the horses' bodies reveal anatomy and give them sculptural weight?",
+      "meaning": "In what ways does giving an everyday market the scale of a history painting change the way we value its subject?",
+      "culture": "How does the painting reflect the central role of horses in 19th-century French commerce and transport?",
+      "technique": "What might a painter's field sketches and anatomical study contribute to the final convincing realism of such a large work?",
+      "personal": "How does seeing animals depicted with such dignity affect the way you think about the creatures you meet in daily life?",
+      "critical": "How does Bonheur's reputation as a leading woman artist of her day shape or complicate the way viewers interpret this painting?"
+    },
+    "g1112": {
+      "daily": "What does the painting's scale, composition, and handling of the horses argue about what deserves monumental treatment?",
+      "emotion": "How does the painting sustain a tension between order and unrest, and what does that tension do for the viewer?",
+      "observation": "Describe the formal construction with precision. At what point does careful description begin to imply a reading?",
+      "analysis": "Analyze how the frieze-like procession of horses balances momentum with stability across the wide canvas.",
+      "line": "How does the interplay of sweeping contours and abrupt interruptions of limbs and heads convey energy without losing coherence?",
+      "shape": "How does the grouping of massed forms operate between naturalistic observation and a carefully staged composition?",
+      "color": "How might the painting's restrained earth palette and contrasting coats serve a Realist emphasis on observed life, and how might age affect what we now see?",
+      "texture": "How does the variation between finished detail and broader handling shape our sense of the animals' physical presence?",
+      "space": "How does the shallow, stage-like arrangement position the viewer in relation to the horses, and how might that choice affect the way viewers respond?",
+      "light": "How does the painting use light to sculpt volume and organize the surge of figures into a readable whole?",
+      "meaning": "Some viewers stress Bonheur's sympathy for animals, others the painting's engagement with trade and labor. Which reading does the visual evidence support best?",
+      "culture": "How does the painting situate the horse trade within mid-19th-century Paris, and what might it reveal about attitudes to animals, work, and urban change?",
+      "technique": "What do the painting's size and finish suggest about Bonheur's methods, ambitions, and the demands of public exhibition?",
+      "personal": "How does your own relationship to animals shape what you notice here, and where might it limit your reading?",
+      "critical": "How might Bonheur's gender and success in a male-dominated art world influence interpretations of this work, and what evidence should such claims rest on?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Paintings), and tags (Men, Horses, Paris) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Rosa Bonheur was among the most celebrated animal painters of the 19th century. She sketched at the Paris horse market before painting this very large canvas.",
+    "vocabulary": [
+      "Realism",
+      "composition",
+      "anatomy",
+      "diagonal",
+      "frieze",
+      "scale"
+    ],
+    "directions": [
+      "Have students sketch one horse's pose from the painting and then describe its movement in a sentence.",
+      "Ask groups to compare how animals are shown in this painting and in another animal artwork in the archive.",
+      "Discuss why artists study their subjects in person before painting, and have students try observational drawing of a pet or classroom object."
+    ]
+  }
+}

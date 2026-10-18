@@ -1,0 +1,159 @@
+{
+  "id": "met-448443",
+  "day": "06-02",
+  "title": "Cylindrical Box (Pyxis)",
+  "artist": "Artist unknown",
+  "date": "10th century",
+  "medium": "Ivory; carved",
+  "movement": "Umayyad Córdoba ivories",
+  "region": "Spain",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP217219.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP217219.jpg",
+    "credit": "The Metropolitan Museum of Art, Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small round ivory box without its lid, seen from the side. Its cream-colored surface is carved all the way around with decoration that includes birds.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/448443",
+    "objectId": "448443",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag, classification, tags (Birds) and image URLs read from the record; museum page text read for the box's function and lid"
+  },
+  "context": "A small carved ivory box, called a pyxis, made in Spain in the 10th century. The Met places it in a group of ivory boxes and caskets made under the Umayyad caliphate of Córdoba, principally for the personal use of nobility, to hold precious aromatics and cosmetics.",
+  "descriptions": {
+    "k": "This tiny round box is carved from ivory. It once had a lid. Someone made it long ago in Spain to hold special things. Look for the birds carved on its sides. How many can you find?",
+    "g12": "This little round box was carved a thousand years ago in Spain. It is made of ivory, and it is missing its lid. People used boxes like this to keep sweet-smelling things. Look closely around the sides and find the carved birds. What else is carved there?",
+    "g35": "This small box, called a pyxis, was carved from ivory in 10th-century Spain. The Met says boxes like it were made for nobles in the court at Córdoba to hold fragrant materials and cosmetics. Its lid is missing, but it probably had a domed one. Look around the carved surface, where birds appear. Why would someone decorate a small box so carefully?",
+    "g68": "A pyxis is a cylindrical box, and this one was carved in Spain in the 10th century, in a group of ivory objects made under the Umayyad caliphate of Córdoba. The Met says such objects were made mainly for noble owners to hold precious aromatics and cosmetics. Late Antique and Byzantine boxes had flat lids, but boxes in this group had domed ones. Notice how carving wraps around the curved surface. What does the carving suggest about the box's value?",
+    "g910": "This ivory pyxis belongs to a group of luxury objects associated with the Umayyad caliphate of Córdoba in the 10th century. The Met notes that it was made principally for the personal use of nobility, to hold precious aromatics and cosmetics, and that the missing lid was probably domed, unlike the flat lids of Late Antique and Byzantine pyxides. The carved decoration, which includes birds, must be designed to wrap a curved surface. Consider how form, material, and decoration signal status.",
+    "g1112": "The Córdoba ivories raise questions of patronage, inheritance, and display. The Met describes this pyxis as a luxury container made principally for Umayyad nobility, in a type that adapts the Late Antique and Byzantine cylindrical box but with a domed lid. Its birds belong to a decorative language that circulated widely, yet the exact meaning of any motif is debated. Because the lid is lost and the ivory's early history is not fully documented, the object invites cautious interpretation grounded in what survives."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tiny box is carved all around. Can you find a bird on it?",
+      "emotion": "Would this little box feel like a treasure to you? Why or why not?",
+      "observation": "What shape is this box? Tell me three things you see on its sides.",
+      "analysis": "Where would you look first on this box: the top, the middle, or the bottom?",
+      "line": "Use your finger to follow a carved line around the box. Where does it lead you?",
+      "shape": "The box is round like a can. What other round things have you seen?",
+      "color": "Ivory is a pale, creamy color. How does that color make the carving look?",
+      "texture": "The carved parts go up and down. Would the box feel smooth or bumpy when you touched it?",
+      "space": "The lid is missing. What could you put inside the box?",
+      "light": "Where on the box do you think shadows would fall in the carved parts?",
+      "meaning": "Why do you think someone carved birds on a box?",
+      "culture": "People in Spain long ago kept sweet-smelling things in boxes like this. What do you keep in a special box?",
+      "technique": "The carver cut the design out of hard ivory with small tools. Why would that take patience?",
+      "personal": "If you could carve one animal on a box of your own, which would you pick?",
+      "critical": "The lid is gone. How can you tell this box once had a lid?"
+    },
+    "g12": {
+      "daily": "This box has carving all around its sides. What is carved on it? Find the birds first.",
+      "emotion": "How does a small, finely carved box make you feel when you imagine holding it?",
+      "observation": "Turn the box slowly in your mind. Describe the carved pictures and patterns you can find.",
+      "analysis": "How does the carving fill the sides of the box without looking messy?",
+      "line": "Find curving carved lines. How do they make your eyes travel around the box?",
+      "shape": "A pyxis is shaped like a short cylinder. How does that shape change how a carver decorates it?",
+      "color": "The box is one pale color. How does that help you see the carved parts?",
+      "texture": "Imagine touching raised carved shapes and smooth places. How are they different?",
+      "space": "The box is hollow inside with its lid missing. What is the inside space for?",
+      "light": "Light and shadow help show carved shapes. Where do you see darker places in the carving?",
+      "meaning": "The Met says boxes like this held sweet-smelling things for nobles. Why would they want a fancy box for that?",
+      "culture": "This box came from Spain, a thousand years ago. What can a small object tell us about people from the past?",
+      "technique": "The ivory was carved by hand. Why might a carver choose a small box to show their skill?",
+      "personal": "What small treasure would you keep in a box this size?",
+      "critical": "What clues show this box was made for someone important and not for everyday use?"
+    },
+    "g35": {
+      "daily": "What does the carving on this small box tell you about the people who made and used it?",
+      "emotion": "What feeling does a lid-less, very old box give you when you imagine its past?",
+      "observation": "Spend a minute scanning the carved surface. What details, like birds or patterns, can you find?",
+      "analysis": "How does the carver organize the decoration so it works on a curved, round surface?",
+      "line": "How do carved lines guide your eye around the cylinder without a beginning or end?",
+      "shape": "How does the cylindrical shape of the box compare with the shapes carved on its surface?",
+      "color": "How does the natural creamy color of ivory shape the box's look, since there is no paint?",
+      "texture": "How would the contrast between carved and smooth ivory surfaces feel and look?",
+      "space": "The box has a hollow inside and a curved outside. How does that affect how it can be seen and held?",
+      "light": "How do shadows in the carved areas make the design stand out?",
+      "meaning": "The box held fragrant things and cosmetics. How might its decoration match its purpose?",
+      "culture": "The Met connects this box to the court of Córdoba. What does it suggest about the court's taste for luxury?",
+      "technique": "Ivory carving needs great control. Why is a mistake so hard to fix in this material?",
+      "personal": "Think about something small that is important to you. How would you decorate a container for it?",
+      "critical": "The lid is missing. What can we still learn from the box, and what must we guess?"
+    },
+    "g68": {
+      "daily": "How does this tiny object show wealth and taste without being large or colorful?",
+      "emotion": "What feeling of intimacy or luxury comes from such a small, finely carved object?",
+      "observation": "List the carved elements you can see. Which are most easily recognizable, such as the birds?",
+      "analysis": "How does the carved design wrap around the cylinder to create a continuous composition?",
+      "line": "How do carved outlines and inner lines differ in strength, and which help you see the birds?",
+      "shape": "How does a carver adapt designs made for flat surfaces to the curve of a cylinder?",
+      "color": "With only ivory's natural tones, how does the carver create contrast through light and shadow?",
+      "texture": "How do polished and carved areas create variety on a single-color surface?",
+      "space": "The lid is lost. How does the open top change the way we see the box's form?",
+      "light": "How would shadows in the carved recesses change as the box is turned or lit?",
+      "meaning": "The box held aromatics and cosmetics. How might a luxurious container add to the value of what it held?",
+      "culture": "How did boxes like this link Spain's Córdoba court with older traditions of ivory boxes from Late Antiquity and Byzantium?",
+      "technique": "How is carving ivory different from painting or casting, and what skills does it require?",
+      "personal": "How do the containers you value, a lunch box or jewelry box, show something about their contents?",
+      "critical": "What can we learn about the box's use from the Met's description, and what do we not know?"
+    },
+    "g910": {
+      "daily": "How does the pyxis communicate prestige through material, scale, and carved decoration?",
+      "emotion": "How does the delicacy of a small carved vessel shape the viewer's sense of intimacy or reverence?",
+      "observation": "Describe the hierarchy of the carved surface: which motifs dominate, and which recede?",
+      "analysis": "Analyze how the carving is organized around a cylinder, where there is no fixed front.",
+      "line": "How do the lines of the carving give rhythm and flow, and how might they relate to the birds it includes?",
+      "shape": "How does the interaction between cylindrical form and the carved motifs build both unity and variation?",
+      "color": "How does ivory's pale tone intensify the effect of carved shadow and relief?",
+      "texture": "How would the differences between raised and recessed carving register to the eye and the hand?",
+      "space": "How does a domed lid, missing here, change the box's silhouette, and what does its absence reveal?",
+      "light": "How might light moving across a carved cylinder create changing patterns?",
+      "meaning": "What might birds and other carved motifs have communicated in a court context, and where does interpretation become uncertain?",
+      "culture": "How does this pyxis reflect the exchange between Late Antique, Byzantine, and Andalusi traditions?",
+      "technique": "What does ivory carving demand in planning and execution, given its fragility and cost?",
+      "personal": "How do you respond to objects that were obviously made for the elite? Does it change your sense of their beauty?",
+      "critical": "How do missing parts, like the lid, shape what we can responsibly say about an object's meaning?"
+    },
+    "g1112": {
+      "daily": "What can this pyxis tell us about courtly luxury in Córdoba, and what remains beyond reach?",
+      "emotion": "How does the object's scale and fragility produce intimacy, and how is that affected by its display behind glass?",
+      "observation": "Describe the box with precision. Which observations depend on what the museum text tells you rather than on seeing?",
+      "analysis": "Evaluate how the cylindrical format shapes the logic of continuous carved decoration.",
+      "line": "How does line carved in ivory differ in effect from line drawn or painted?",
+      "shape": "Discuss how the form of the pyxis, an inherited type adapted by Umayyad workshops, negotiates tradition and innovation.",
+      "color": "In an object without added color, how does the monochrome material itself carry meaning?",
+      "texture": "In what ways does the tactile quality of ivory, valued in the court, contribute to its status as a luxury material?",
+      "space": "How does the loss of the lid alter our experience of the box as an enclosed and private object?",
+      "light": "How does the dependence of low relief on raking light affect how this object is perceived in museum conditions?",
+      "meaning": "Scholars may debate the meanings of motifs on such ivories. What kinds of evidence would support a symbolic reading rather than a purely decorative one?",
+      "culture": "How does this object illustrate the cultural continuities between the Late Antique Mediterranean and Umayyad Spain?",
+      "technique": "What does the use of ivory imply about trade, resources, and workshop organization in 10th-century Spain?",
+      "personal": "How does your own sense of luxury, and of what should be kept private, shape your reading of this object?",
+      "critical": "How should we weigh the museum's generalizations about this group of ivories against the evidence of one fragmentary box?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ivories and Bone) and tag (Birds) checked against the museum record, and the museum page text read: a carved ivory container with no figural scenes described.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A pyxis is a cylindrical box. This ivory example from 10th-century Spain belongs to a group associated with the Umayyad caliphate of Córdoba, made for noble owners to hold aromatics and cosmetics.",
+    "vocabulary": [
+      "pyxis",
+      "ivory",
+      "Umayyad",
+      "Córdoba",
+      "relief",
+      "cylinder"
+    ],
+    "directions": [
+      "Have students design a continuous band of decoration for a paper cylinder so it has no start or end.",
+      "Discuss why small luxury objects were valued and what materials count as luxurious today.",
+      "Locate Córdoba on a map and discuss how objects and ideas moved around the Mediterranean."
+    ]
+  }
+}

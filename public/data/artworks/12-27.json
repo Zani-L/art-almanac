@@ -1,0 +1,158 @@
+{
+  "id": "met-54293",
+  "day": "12-27",
+  "title": "Turtle",
+  "artist": "Artist unknown (Japan)",
+  "date": "second half 19th century",
+  "medium": "Copper alloy",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-18771-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-18771-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small metal sculpture of a turtle made of copper alloy. It is about the length of a hand.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/54293",
+    "objectId": "54293",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, no artist listed, date, medium, period (Meiji), object name (Ornament), dimensions (about 16.5 cm long), public-domain flag, credit line, culture (Japan), tag (Turtles), and image URLs read from the record"
+  },
+  "context": "A small metal turtle made in Japan during the Meiji period (1868 to 1912), the Met dates it to the second half of the 19th century. The Met classifies it as an ornament; it measures about 16.5 cm (6.5 in.) long, and no maker is recorded.",
+  "descriptions": {
+    "k": "This is a turtle made of metal. It is not big. It is about as long as your hand. Turtles walk slowly. What parts of a turtle can you find? Is the shell smooth or bumpy?",
+    "g12": "An artist in Japan made this turtle from metal more than a hundred years ago. It is small, only about as long as your hand. Turtles move slowly and carry their shell everywhere. Look at the shell and the legs. How did the artist make metal look like a living animal?",
+    "g35": "This metal turtle was made in Japan in the second half of the 1800s, during the Meiji period. It is about 16 centimeters long, small enough to hold in two hands. The Met does not know who made it. Look for the pattern on the shell and the shape of the head and legs. How can hard metal be shaped to look like a living turtle?",
+    "g68": "Made in Japan in the Meiji period, this copper-alloy turtle shows how metalworkers of the time created detailed animal forms. The Met calls it an ornament, which suggests it was made to be admired rather than used. In Japanese culture turtles are often linked with long life, though this record does not state the maker's intention. Notice the textures and the way the body is shaped. What choices make a metal turtle feel alive?",
+    "g910": "This turtle in copper alloy belongs to Meiji-period Japan, when metalworkers produced remarkably lifelike animals, many of which were exported or exhibited abroad. The Met identifies it as an ornament and records no maker, so we read it mainly through its form and surface. Turtles are widely associated in East Asia with longevity, but the object itself offers no inscription to confirm that meaning. Consider how modeling, surface texture, and pose turn a hard material into a convincing animal.",
+    "g1112": "The Met records this copper-alloy turtle as an ornament of the Meiji period, made by an unknown maker. It exemplifies a period when Japanese metalwork combined traditional skills with a growing international market, which helps explain its presence in a collection formed in the late 19th century. Turtles carry long-standing associations with longevity in East Asian culture, but the record gives no direct evidence of intended meaning. How do form, surface, and scale support or limit such readings, and what does anonymity do to interpretation?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which parts of the turtle can you find, and what does each part do?",
+      "emotion": "Does this turtle look calm, sleepy, or ready to walk? Show with your body.",
+      "observation": "Look at the shell. What do you see on it?",
+      "analysis": "What part of the turtle do your eyes see first?",
+      "line": "Trace the edge of the shell in the air with your finger.",
+      "shape": "The shell is round and the legs are short. What other shapes do you find?",
+      "color": "What color is the metal? Do you see any parts that shine?",
+      "texture": "Is the turtle smooth or bumpy? How would the shell feel to touch?",
+      "space": "If you walked around the turtle, what would you see from behind?",
+      "light": "Where does the light make the metal shine? Where is it darker?",
+      "meaning": "Turtles walk slowly. What do you think this turtle is thinking about?",
+      "culture": "This turtle is from Japan. Where might you have seen a turtle?",
+      "technique": "The artist shaped metal to make a turtle. How might that be harder than shaping clay?",
+      "personal": "Would you like a small turtle sculpture on your desk? Why?",
+      "critical": "Why do you think the artist made a turtle out of metal?"
+    },
+    "g12": {
+      "daily": "How does the artist make hard metal look like a living turtle?",
+      "emotion": "What feeling do you get from this small, steady turtle?",
+      "observation": "Describe the shell, head, and legs. Which part has the most detail?",
+      "analysis": "How are the parts of the turtle joined together to make one shape?",
+      "line": "Find lines or patterns on the shell. Are they straight or curved?",
+      "shape": "How does the round shell compare with the head and legs?",
+      "color": "The turtle is made of one kind of metal. How does light and dark make it look different in places?",
+      "texture": "Which parts look smooth and which look rough or patterned?",
+      "space": "This is a 3D sculpture. What would you see if you looked from above?",
+      "light": "Where does the metal shine the most? What does that tell you about its shape?",
+      "meaning": "In Japan, turtles are sometimes linked to a long life. Why might a turtle be a good symbol?",
+      "culture": "People made small metal animals to display in homes long ago. Why might someone want one?",
+      "technique": "This turtle is made of copper alloy. What do you think the artist needed to do to shape it?",
+      "personal": "What small object would you like to have in the shape of an animal?",
+      "critical": "Is this turtle mostly a decoration or a sculpture? Explain."
+    },
+    "g35": {
+      "daily": "What details make this small metal turtle look alive?",
+      "emotion": "What personality does this turtle seem to have, and which parts show it?",
+      "observation": "Take one quiet minute to look at the shell pattern. What small details did you notice?",
+      "analysis": "How does the artist link the shell, head, and legs into one connected form?",
+      "line": "How do lines and patterns on the shell help show its shape?",
+      "shape": "How does the dome of the shell contrast with the smaller shapes of the head and legs?",
+      "color": "Metal can look dark or bright depending on light. How does that affect the way you see the turtle?",
+      "texture": "How does the artist show different surfaces, such as shell and skin, in the same metal?",
+      "space": "How is looking at a sculpture different from looking at a flat picture?",
+      "light": "How do shine and shadow show the roundness of the shell?",
+      "meaning": "Turtles are often linked with long life in East Asia. How might that make a turtle a popular subject?",
+      "culture": "The Met says this was made in the Meiji period in Japan. What might that tell us about when and where artists made animals in metal?",
+      "technique": "Metalworkers cast or shaped copper alloy. Why might that need careful planning?",
+      "personal": "What would a small sculpture of your favorite animal show about you?",
+      "critical": "The Met does not know who made this turtle. How does that change how we learn about it?"
+    },
+    "g68": {
+      "daily": "What choices make this small copper-alloy turtle feel alive instead of just a shape?",
+      "emotion": "What mood does the turtle's pose and expression suggest?",
+      "observation": "Describe the turtle from head to tail. Which details seem most carefully made?",
+      "analysis": "How do the large dome of the shell and smaller body parts create balance?",
+      "line": "How do incised or modeled lines, if you see them, define the shell and body?",
+      "shape": "How does the shape of the shell protect and anchor the figure visually?",
+      "color": "How does the metal's color and shine create contrast across the surface?",
+      "texture": "How does the maker vary surface texture to suggest shell and skin?",
+      "space": "How does the sculpture invite viewing from all sides?",
+      "light": "How do highlights on the shell give a sense of volume?",
+      "meaning": "Why might a turtle be chosen for an ornament, and why should we be careful about assuming one meaning?",
+      "culture": "How might Meiji-period metalwork have connected Japanese traditions with an international market?",
+      "technique": "How could casting or shaping metal capture both the hard shell and softer parts?",
+      "personal": "How does a small, detailed object change what you notice compared with a large one?",
+      "critical": "The maker is unknown. What can we still learn about the turtle from the object itself?"
+    },
+    "g910": {
+      "daily": "How do form, surface, and scale work together to make this small turtle convincing?",
+      "emotion": "How does the turtle's steady form communicate calm and endurance?",
+      "observation": "Describe the visual hierarchy: which areas draw the eye first, and what devices produce that effect?",
+      "analysis": "How does the relationship between the shell and the limbs create stability in the composition?",
+      "line": "How do surface lines and patterns articulate the structure of the shell?",
+      "shape": "How does the contrast between the dome and the smaller forms create rhythm?",
+      "color": "How does the character of the metal surface affect the sculpture's tone and mood?",
+      "texture": "How do variations of surface imply different materials within a single metal?",
+      "space": "How does the sculpture's three-dimensionality shape its relationship to the viewer?",
+      "light": "How do reflections on metal change with light and viewing angle?",
+      "meaning": "How might the turtle's association with longevity inform its role as an ornament, and where does that interpretation become speculative?",
+      "culture": "How does this turtle reflect the vitality of Meiji metalworking and the international interest in Japanese objects?",
+      "technique": "What does the object's finish suggest about the skills and methods used by the metalworker?",
+      "personal": "How does a small animal sculpture affect the way you think about patience or slowness?",
+      "critical": "What are the limits of interpreting an object when its maker and original use are not documented?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the object's form and surface about the skills and aims of its maker, and what remains uncertain?",
+      "emotion": "How does the turtle's stillness and compactness shape the viewer's sense of presence?",
+      "observation": "Describe the sculpture's construction with precision. At what point does description of the shell begin to imply interpretation?",
+      "analysis": "Analyze how the relationship between shell, head, and limbs creates both naturalism and stylization.",
+      "line": "How do surface lines mediate between descriptive accuracy and decorative pattern?",
+      "shape": "How does the sculpture simplify and organize the turtle's anatomy into a cohesive form?",
+      "color": "How might patina or surface treatment affect the sculpture's appearance, and how might age change what we see now?",
+      "texture": "How does the metal surface suggest materials other than metal, and what does that reveal about the maker's priorities?",
+      "space": "How does the object's scale and three-dimensionality shape its possible modes of display and handling?",
+      "light": "How does the reflective character of metal make the object's appearance contingent on lighting and viewpoint?",
+      "meaning": "Evaluate readings of the turtle as longevity symbol, naturalistic study, or decorative ornament. Which can the evidence support?",
+      "culture": "How does the object relate to the export and collecting of Japanese metalwork in the later 19th century, and how do scholars qualify such claims?",
+      "technique": "What does the Met's classification as an ornament suggest about function, and what other evidence would scholars want?",
+      "personal": "How does your own sense of turtles, from stories or nature, shape what you notice, and where might it narrow your reading?",
+      "critical": "With no recorded maker and a broad date, what standards of evidence should govern claims about this turtle's meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Metalwork), object name (Ornament), culture (Japan), and tag (Turtles) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small copper-alloy turtle made in Japan in the second half of the 19th century (Meiji period). The Met lists no maker and classifies it as an ornament.",
+    "vocabulary": [
+      "Meiji period",
+      "copper alloy",
+      "ornament",
+      "sculpture",
+      "patina",
+      "longevity"
+    ],
+    "directions": [
+      "Have students model a turtle from clay or foil and discuss which details were hardest to show.",
+      "Discuss how turtles are used as symbols in different cultures, noting that meanings vary.",
+      "Compare this anonymous object with a signed artwork in the archive and talk about what we learn from each."
+    ]
+  }
+}

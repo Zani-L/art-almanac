@@ -1,0 +1,155 @@
+{
+  "id": "artic-186409",
+  "day": "09-30",
+  "title": "Merz",
+  "artist": "Kurt Schwitters",
+  "date": "1922",
+  "medium": "Collage composed of cut and pasted paper elements, with brush and red and black ink, on tan wove card",
+  "movement": "Dada",
+  "region": "Germany",
+  "image": {
+    "status": "pending"
+  },
+  "altText": "An abstract collage of cut and pasted paper pieces on tan card, with strokes of red and black ink. Scraps of different shapes and kinds of paper overlap one another.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/186409",
+    "objectId": "186409",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (Kurt Schwitters, German, 1887-1948), date, medium, place of origin, credit line and public-domain flag (false) read from the record. The record has no description or subject terms. No image linked because the work is in copyright."
+  },
+  "context": "Made in 1922 by the German artist Kurt Schwitters, who is associated with Dada. The museum record lists a collage of cut and pasted paper elements with brush and red and black ink on tan wove card, and gives no further description. Schwitters used the name Merz for his collages and assemblages made from found materials.",
+  "descriptions": {
+    "k": "This picture is made of paper scraps glued together! Some pieces overlap. There are red and black ink marks too. Which piece of paper catches your eye? Where would you add another scrap?",
+    "g12": "Kurt Schwitters made this picture by gluing down cut pieces of paper. He added red and black ink with a brush. The scraps overlap like a puzzle. He called this kind of art Merz. Which scraps look like they came from something else? What would you add?",
+    "g35": "Kurt Schwitters, a German artist, made Merz in 1922 by cutting and gluing paper pieces onto a card and adding red and black ink. This is called collage. He often used found materials, things other people had thrown away. How do the overlapping pieces create a pattern? What might the scraps have been before?",
+    "g68": "Schwitters made this collage in 1922 from cut and pasted paper elements, with brush strokes of red and black ink on tan card. He used the name Merz for work made from found scraps. Dada artists often turned everyday material into art. How do overlapping pieces, ink, and the card's color create an arrangement, and what makes a scrap worthy of art?",
+    "g910": "Merz (1922) is a collage of cut paper with red and black ink on tan card, a work by Schwitters, who is associated with the Dada movement. The museum offers no commentary, but the method is clear: found scraps are rearranged into a new design. Consider how composition turns everyday material into something deliberate, and how Dada questioned what art should be made from.",
+    "g1112": "Schwitters's 1922 Merz exemplifies a practice of assembling fragments of the everyday into new visual order. The museum records the materials, cut and pasted paper with red and black ink on card, and nothing more, so interpretation must attend to composition and process. Scholars debate how Schwitters's formal sophistication relates to Dada's confrontational attitudes. How does the collage balance chance and control, and what is at stake in elevating ephemera to art?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which piece of paper do you like best? Point to it.",
+      "emotion": "Does this collage feel busy, calm, or silly? What helps you decide?",
+      "observation": "Find a red mark and a black mark. Where are they?",
+      "analysis": "Which scrap grabs your eye first, and why?",
+      "line": "Find the edge of a paper piece. Is it straight or ragged?",
+      "shape": "Look for squares and strange shapes. Where do you see them?",
+      "color": "Which colors are in the pieces?",
+      "texture": "Paper can be rough or smooth. Which pieces look rough?",
+      "space": "Which pieces are on top and which are underneath?",
+      "light": "Which areas look lighter and which look darker?",
+      "meaning": "Where might these scraps have come from?",
+      "culture": "What things do you throw away that could be used in art?",
+      "technique": "How would you cut and glue paper into a picture?",
+      "personal": "What scraps would you collect for your own collage?",
+      "critical": "Why might an artist use old paper instead of fresh paint?"
+    },
+    "g12": {
+      "daily": "What might the scraps have been before they became art? Use clues.",
+      "emotion": "What feeling do the scraps and ink marks give you?",
+      "observation": "List the shapes, colors, and kinds of paper you see. What did you notice last?",
+      "analysis": "How are the pieces arranged so your eyes move around?",
+      "line": "How do the ink strokes compare with the cut edges?",
+      "shape": "Which shapes are neat and which are uneven?",
+      "color": "How do red and black stand out from the paper colors?",
+      "texture": "How can you tell some pieces are thick or thin?",
+      "space": "Which pieces seem to be on top? How does overlapping make depth?",
+      "light": "Where does the card color show, and how does it affect the picture?",
+      "meaning": "Schwitters called his work Merz. Why might an artist invent a name?",
+      "culture": "Schwitters lived in Germany. Why might an artist reuse scraps?",
+      "technique": "How is gluing paper different from painting?",
+      "personal": "What would you collect to make your own collage?",
+      "critical": "Is a picture of scraps real art? Explain."
+    },
+    "g35": {
+      "daily": "What can you tell about the scraps from their shapes and colors?",
+      "emotion": "What mood does the collage have, and which pieces create it?",
+      "observation": "Look slowly. What small piece or mark did you notice late?",
+      "analysis": "How does Schwitters organize many scraps so the picture still holds together?",
+      "line": "How do the straight edges and ink strokes add rhythm?",
+      "shape": "How do geometric and irregular shapes interact?",
+      "color": "How do the red and black ink strokes unify the different papers?",
+      "texture": "How do different papers create different surfaces?",
+      "space": "How does layering create a sense of depth?",
+      "light": "How do lighter and darker pieces balance each other?",
+      "meaning": "Schwitters used found materials. What does this say about how he saw everyday things?",
+      "culture": "What do you know about Dada, and how might a collage fit?",
+      "technique": "Why might an artist choose to cut and paste rather than draw?",
+      "personal": "What would your collage be made of, and what might it say?",
+      "critical": "Why might some people think a collage like this is surprising as art?"
+    },
+    "g68": {
+      "daily": "How does Schwitters turn scraps into a deliberate composition?",
+      "emotion": "What mood do the overlapping pieces and ink strokes create?",
+      "observation": "What can you tell from the work, and what remains unknown because of limited museum information?",
+      "analysis": "How does the composition balance large and small pieces?",
+      "line": "How do edges, ink lines, and overlap create rhythm?",
+      "shape": "How do geometric scraps contrast with brushed ink marks?",
+      "color": "How does limited color help unify an assembly of different papers?",
+      "texture": "How does the surface of collage differ from painting?",
+      "space": "How does layering suggest depth in a flat work?",
+      "light": "How do light and dark papers shape visual weight?",
+      "meaning": "What might 'Merz' mean as a name for his practice, and why might he use a made-up word?",
+      "culture": "How does Dada's questioning of art relate to making art from scraps?",
+      "technique": "What skills does collage require compared with drawing?",
+      "personal": "How would you collect materials for a collage that tells about your neighborhood?",
+      "critical": "What makes an arrangement of scraps meaningful rather than random?"
+    },
+    "g910": {
+      "daily": "How does Schwitters create order from fragments?",
+      "emotion": "How do the overlapping materials and ink marks set the work's tone?",
+      "observation": "Analyze how the composition distributes weight and emphasis across the card.",
+      "analysis": "How do cut edges and brushed ink create contrasting kinds of line?",
+      "line": "How do geometric forms interact with irregular ones?",
+      "shape": "How do red and black ink structure the color scheme?",
+      "color": "How does the collage surface emphasize materiality?",
+      "texture": "How does overlapping suggest limited depth within a flat field?",
+      "space": "How does contrast of tone create focal points?",
+      "light": "What does the use of found paper imply about the value of everyday material?",
+      "meaning": "How does the Dada context shape the meaning of a collage that is also carefully composed?",
+      "culture": "How does the lack of museum description affect the interpretive process?",
+      "technique": "How does Schwitters's practice challenge traditional ideas of artistic skill?",
+      "personal": "How does your response change when you imagine the origin of each scrap?",
+      "critical": "How should we judge compositions made from chance material?"
+    },
+    "g1112": {
+      "daily": "How does the collage negotiate between chance and design?",
+      "emotion": "How does its fragmentary structure complicate the idea of a unified image?",
+      "observation": "Separate what the museum records from your inferences about the scraps' origins.",
+      "analysis": "How does composition give coherence to heterogeneous materials?",
+      "line": "How do cut edge and brushed ink operate as different registers of mark?",
+      "shape": "How does the work relate to the formal language of abstraction in the early 1920s?",
+      "color": "How does limited color reconcile disparate elements?",
+      "texture": "How does materiality become content in the collage?",
+      "space": "How does overlapping produce a shallow, constructed space?",
+      "light": "How do tonal contrasts structure attention?",
+      "meaning": "How does Schwitters's Merz practice differ from, and overlap with, mainstream Dada?",
+      "culture": "What does elevating ephemera to art suggest about modern consumer culture and waste?",
+      "technique": "How does the minimal museum record shape how we can responsibly interpret?",
+      "personal": "How do your own habits of discarding and saving shape your sense of value?",
+      "critical": "What is the relationship between formal sophistication and Dada's anti-art claims?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, artist and medium (paper collage with ink) checked against the Art Institute of Chicago record; no concerning terms. The record has no description or subject terms, so a person must confirm the image, including any printed text, before release. The image itself was not visually inspected.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 1922 paper collage with ink by the German artist Kurt Schwitters in the Art Institute of Chicago. The museum record gives only title, medium and credit line, so a person must review the image, including any printed text. The work is in copyright, so no image is linked yet.",
+    "vocabulary": [
+      "collage",
+      "Dada",
+      "Merz",
+      "found materials",
+      "composition",
+      "layering"
+    ],
+    "directions": [
+      "Have students make a collage from clean scrap paper and explain how they chose each piece.",
+      "Ask students to find a piece they think was cut from something else and invent its history.",
+      "Discuss what makes something art, and whether the materials matter."
+    ]
+  }
+}

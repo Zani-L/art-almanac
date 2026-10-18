@@ -1,0 +1,158 @@
+{
+  "id": "met-15586",
+  "day": "11-08",
+  "title": "Portrait of a Lady",
+  "artist": "Henry Inman",
+  "date": "ca. 1825",
+  "medium": "Watercolor on ivory",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT4115.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT4115.jpg",
+    "credit": "The Metropolitan Museum of Art, Dale T. Johnson Fund, 1996",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A very small painted portrait of a woman, shown in a close-up view. It is painted in delicate watercolor on a thin piece of ivory.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/15586",
+    "objectId": "15586",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, nationality, date, medium, dimensions, credit line, objectName (Painting, miniature), tags (Portraits, Women), public-domain flag, and image URLs read from the record"
+  },
+  "context": "A portrait miniature painted by the American artist Henry Inman around 1825 in watercolor on ivory. It measures about 8.6 by 6 centimeters (3 3/8 by 2 3/8 inches), small enough to hold in one hand.",
+  "descriptions": {
+    "k": "This is a tiny painting of a woman. It is so small you can hold it in your hand. The artist used watery paint on a thin piece of ivory. Look at her face. What do you think she is feeling?",
+    "g12": "This painting of a woman is very small. It is about the size of a playing card, or smaller. Henry Inman painted it with watercolor on a thin sheet of ivory, around 1825. Look at her face and the soft colors. What do you think she wants us to know about her?",
+    "g35": "Henry Inman painted this portrait around 1825. It is a miniature, a tiny painting made to be held and looked at up close. He used watercolor on a thin piece of ivory, which gives the skin a soft glow. The painting is only about 8.6 centimeters tall. What details of her face and her clothing would an artist need to paint very carefully?",
+    "g68": "Portrait miniatures were small, personal paintings, often kept in a pocket, worn as jewelry, or given to family and friends. Henry Inman painted this one in watercolor on ivory around 1825, a surface that gives skin tones a luminous, soft quality. At about 8.6 centimeters tall, every brushstroke needs to be tiny and controlled. How does the small size make a portrait feel more personal?",
+    "g910": "In this miniature of about 1825, Henry Inman uses watercolor on ivory, a combination that lets thin, transparent color glow because the pale surface reflects light back through the paint. The small format, about 8.6 by 6 centimeters, demands precise handling and invites intimate, close looking. The record does not name the sitter, so the portrait is both an individual likeness and an anonymous face. Consider what a small portrait offers that a large one cannot.",
+    "g1112": "Inman's miniature of about 1825 belongs to a tradition of small portraits made for private exchange, remembrance, and display. Watercolor on ivory produces luminous, delicate flesh tones, but it also constrains how much can be shown at this scale. The Met titles the work Portrait of a Lady and does not identify the sitter in the title, which shifts attention from biography to craft and convention. How does an unnamed portrait invite us to think about likeness, intimacy, and the limits of what a face can tell us?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine this tiny painting is in your hand. What would you whisper to the woman in it?",
+      "emotion": "Does the woman look happy, calm, or serious? What shows you?",
+      "observation": "Find her eyes, her hair, and her clothes. What else can you see?",
+      "analysis": "Where do your eyes go first in this little painting? Why?",
+      "line": "Trace the shape of her face and shoulders in the air. Are the lines soft or sharp?",
+      "shape": "What round shapes do you see in her face and hair?",
+      "color": "Which colors are soft and which colors are strongest in the painting?",
+      "texture": "The painting is on smooth ivory. What would it feel like under your finger?",
+      "space": "What is in front and what is behind her? Is there much space around her?",
+      "light": "Where does light shine on her face? Where is it softer?",
+      "meaning": "Why would someone want a very small picture of a person?",
+      "culture": "This painting was made in the United States about 200 years ago. How do people today keep pictures of the people they love?",
+      "technique": "The artist used tiny brushes on a small piece of ivory. What would help you paint such tiny parts?",
+      "personal": "Who would you give a tiny portrait to? What would you want it to show?",
+      "critical": "Is a tiny portrait better than a big one? Tell why or why not."
+    },
+    "g12": {
+      "daily": "Look at the woman's face for a long time. What do you think she might be thinking?",
+      "emotion": "What mood does the soft light and gentle color give this portrait?",
+      "observation": "Describe five things you see in the portrait, from her face to her clothes.",
+      "analysis": "How does the artist make you look at her face first?",
+      "line": "Find soft, curving lines in her hair and clothes. How do they make her feel gentle or formal?",
+      "shape": "Her head and shoulders make one shape. What shape is it, and how does it fill the picture?",
+      "color": "Which colors are used for her skin, and which for her clothing? How do they work together?",
+      "texture": "How does the artist make skin look smooth and cloth look different?",
+      "space": "The painting is small. How does the artist make you feel close to her?",
+      "light": "Ivory is pale and glows through thin paint. Where do you see that glow?",
+      "meaning": "Why might a family keep a portrait of a woman in a small frame?",
+      "culture": "Henry Inman painted this around 1825 in the United States. What might a portrait tell us about how people wanted to be remembered?",
+      "technique": "Watercolor on ivory needs very small brushstrokes. Why would that take patience?",
+      "personal": "What would you want people to see if you had a tiny portrait made of you?",
+      "critical": "Does a portrait show who a person really is, or only how she looks? Give a reason."
+    },
+    "g35": {
+      "daily": "If you had only a minute to look at this portrait, what three details would you study and why?",
+      "emotion": "What feelings does the woman's expression and pose give you? Which details create them?",
+      "observation": "Look closely for one minute. What small details of her face, hair, and clothing do you notice?",
+      "analysis": "How does Inman arrange the figure so that the portrait feels balanced in such a small space?",
+      "line": "How do soft lines around her face compare with the lines of her clothing?",
+      "shape": "How do the oval shape of her face and the shape of her shoulders fit inside the portrait?",
+      "color": "Watercolor is transparent. How does it help the skin look soft and glowing against ivory?",
+      "texture": "How does the artist suggest different textures, such as skin, hair, and cloth, with tiny strokes?",
+      "space": "How does the artist use space around the figure to make her seem near to us?",
+      "light": "How does light on her face help you see its shape?",
+      "meaning": "Why might someone choose a tiny portrait instead of a large painting?",
+      "culture": "The Met lists this as American, about 1825. What can a portrait miniature tell us about everyday life then?",
+      "technique": "Ivory is a thin, smooth surface. How might that change the way Inman used his brush?",
+      "personal": "Think of a photo you carry or keep. How is it like or unlike this painted miniature?",
+      "critical": "The title does not name the woman. What does a portrait gain or lose when we do not know who the person is?"
+    },
+    "g68": {
+      "daily": "What makes this very small painting feel personal and intimate?",
+      "emotion": "How does Inman create a mood of quiet dignity or calm in the portrait?",
+      "observation": "Describe the portrait from the face outward. Which details seem the most carefully painted?",
+      "analysis": "How does the artist focus attention on the sitter's face and expression?",
+      "line": "How do delicate lines define features without making the portrait look harsh?",
+      "shape": "How does the portrait's vertical format affect how the head and shoulders are arranged?",
+      "color": "How does transparent watercolor on pale ivory affect the colors we see in skin and clothing?",
+      "texture": "How can very small brushwork suggest soft skin, hair, and fabric?",
+      "space": "At about 8.6 centimeters tall, how does the size of the portrait shape the way we look at it?",
+      "light": "How does the light from the ivory support make the painting seem to glow from within?",
+      "meaning": "Portrait miniatures were often given or kept as personal keepsakes. What might that suggest about this painting's purpose?",
+      "culture": "How might an American portrait miniature of about 1825 reflect the tastes of its time?",
+      "technique": "Watercolor on ivory leaves little room for correction. What does that say about the painter's skill?",
+      "personal": "What is the smallest meaningful image you own or keep? Why does it matter?",
+      "critical": "How can we interpret a portrait without knowing who the sitter is?"
+    },
+    "g910": {
+      "daily": "How does the miniature portrait use scale and surface to create intimacy?",
+      "emotion": "How does the restrained, naturalistic style shape our emotional reading of the sitter?",
+      "observation": "Describe the portrait's visual hierarchy. What do you see first, and how does Inman direct your attention?",
+      "analysis": "How does the composition simplify the figure to suit a very small format?",
+      "line": "How do fine contours and soft modeling work together to describe the sitter's features?",
+      "shape": "How does the placement of the head and shoulders within the oval or rectangle create balance?",
+      "color": "How do transparent washes of color, with the pale ivory showing through, produce luminous flesh tones?",
+      "texture": "How does Inman suggest the textures of skin, hair, and cloth in a medium that favors delicacy?",
+      "space": "How does the portrait's compression of space focus attention on the sitter?",
+      "light": "How does the reflective ivory ground function like a light source behind the thin paint?",
+      "meaning": "In what ways might a portrait miniature serve as a keepsake, and what does an unnamed sitter change about that meaning?",
+      "culture": "What does the popularity of portrait miniatures suggest about attitudes to memory and likeness before photography became common?",
+      "technique": "How does painting in watercolor on ivory differ from painting in oil on canvas, and what constraints does it impose?",
+      "personal": "How does viewing a small, private image differ from viewing a large public one?",
+      "critical": "Can a likeness of a stranger carry meaning without biography? Defend your position using the portrait."
+    },
+    "g1112": {
+      "daily": "What can be argued from the visible evidence about the purpose and meaning of this portrait, and what remains uncertain?",
+      "emotion": "How does the portrait's small scale and apparent restraint complicate any single emotional reading of the sitter?",
+      "observation": "Describe the portrait's technique and composition precisely. When does description become interpretation?",
+      "analysis": "Analyze how the miniature's format conditions its composition and mode of viewing.",
+      "line": "How does the subordination of hard contour to soft modeling shape the portrait's sense of likeness?",
+      "shape": "How does the portrait balance the sitter's individuality with the conventions of the miniature format?",
+      "color": "How does the transparency of watercolor over ivory construct a distinctive palette of luminosity?",
+      "texture": "How do minute touches of the brush describe textures, and what are the limits of that illusion at this scale?",
+      "space": "How does the miniature's scale create a physical relationship between viewer and sitter that large portraits cannot?",
+      "light": "How does the ivory support participate in the image's illumination, and how may time have altered it?",
+      "meaning": "How does the absence of a named sitter in the title shift the portrait's meaning from biography to type?",
+      "culture": "How do portrait miniatures reflect social practices of gift, memory, and display in the early nineteenth-century United States?",
+      "technique": "What does Henry Inman's use of watercolor on ivory reveal about the traditions and technical demands of miniature painting?",
+      "personal": "How do your own habits of keeping and sharing images shape how you read a portrait made as a keepsake?",
+      "critical": "What are the ethical and practical limits of interpreting a portrait of an unnamed person?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, objectName (Painting, miniature), medium (watercolor on ivory), and tags (Portraits, Women) checked against the museum record: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A portrait miniature by the American painter Henry Inman, about 1825, in watercolor on ivory and about 8.6 cm tall. The sitter is not named in the title, so discussion can focus on technique, scale, and the purpose of keepsake portraits. Ivory is a sensitive material today; it was a common support for miniatures in this period.",
+    "vocabulary": [
+      "miniature",
+      "portrait",
+      "watercolor",
+      "ivory support",
+      "likeness",
+      "keepsake"
+    ],
+    "directions": [
+      "Ask students to paint or draw a portrait of a classmate on a card the size of a deck of cards and discuss what changes at small scale.",
+      "Discuss why people keep tiny images of loved ones and how photography changed that tradition.",
+      "Compare this miniature with a large portrait in the archive and discuss intimacy versus display."
+    ]
+  }
+}

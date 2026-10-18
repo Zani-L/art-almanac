@@ -1,0 +1,150 @@
+{
+  "id": "met-209306",
+  "day": "02-15",
+  "title": "Snuffbox",
+  "artist": "Jean Formey",
+  "date": "1757–58",
+  "medium": "Gold, enamel",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/es/web-large/LC-1976_155_4-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_4-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small, shiny golden box with a hinged lid, decorated with painted enamel designs of fruit and flowers. It is shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/209306",
+    "objectId": "209306",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium, dimensions, credit line, objectName, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A gold and enamel snuffbox made in 1757–58 by Jean Formey and now in the Met's European decorative arts collection. A snuffbox was a small container for snuff, powdered tobacco, and such boxes were also treasured as luxury objects to be carried, shown, and given as gifts.",
+  "descriptions": {
+    "k": "This tiny box is made of gold. It is painted with fruit and flowers. People long ago kept a pinch of powder inside. Can you find a flower? Can you find a fruit? Which one is your favorite?",
+    "g12": "This little gold box was made in the 1750s by Jean Formey. Its lid and sides are decorated with colorful enamel, a kind of glass melted onto metal. The paintings show fruit and flowers. Look for the brightest colors. How do they stand out against the shiny gold?",
+    "g35": "Jean Formey made this gold snuffbox in 1757 and 1758. Snuff is powdered tobacco, and people kept it in small boxes they could carry in a pocket. This box is decorated with enamel, powdered glass fired onto the metal, and the pictures show fruit and flowers. Why do you think someone would decorate a pocket box so carefully?",
+    "g68": "Jean Formey's snuffbox is gold decorated with enamel, a glassy coating fired onto metal, painted with fruit and flowers. Boxes like this were more than containers: people carried and showed them as signs of taste and wealth, and they were also given as gifts. The small scale, only about eight centimeters wide, means every painted detail needed great control. How do the gold and enamel work together on such a small surface?",
+    "g910": "Made in 1757 and 1758, this snuffbox shows how a utilitarian object could become a miniature showcase. Gold supplies structure and shine, while enamel supplies color, and the fruit and flower decoration turns the surface into a tiny garden. The object was meant to be handled, opened, and passed around, so the design works both from a distance and up close. Consider how scale and function shape its decoration.",
+    "g1112": "This snuffbox by Jean Formey belongs to a tradition of luxury accessories made for display as much as use. Fruit and flower imagery was a familiar decorative language in the eighteenth century, but its significance to any particular owner is hard to recover. The object invites questions about craft and class: who made it, who could afford it, and why a habit like taking snuff was matched with such precious materials? How does the box's decoration shape the way we judge its original purpose?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine opening this tiny golden box. What do you think a person would feel while holding it?",
+      "emotion": "Do the fruit and flowers on this box make you feel happy, calm, or something else? Why?",
+      "observation": "Find a flower and a fruit painted on the box. Which one did you find first?",
+      "analysis": "What part of the box do your eyes go to first, the painting or the shiny gold?",
+      "line": "Trace a curvy line you see on the painted flowers or leaves. Where does it go?",
+      "shape": "Is the box long and flat, or round like a ball? What shapes do you see in the painting?",
+      "color": "Which color on the box is the brightest? Which is the softest?",
+      "texture": "The box has shiny gold and smooth painted glass. How would it feel in your hand?",
+      "space": "Which side of the box can you see? What do you think the other sides look like?",
+      "light": "Where do you see sparkles or shiny spots on the gold?",
+      "meaning": "Why might someone paint fruit and flowers on a box? What do they make you think of?",
+      "culture": "People kept this box in a pocket long ago. What small things do you carry in a pocket or bag today?",
+      "technique": "The painting is on a tiny box. What would you need to paint such small flowers?",
+      "personal": "If you had a small box like this, what treasure would you keep inside?",
+      "critical": "Do you think a pocket box needs to be this fancy? Tell why or why not."
+    },
+    "g12": {
+      "daily": "A person long ago carried this golden box and showed it to friends. What do you think the friends said?",
+      "emotion": "How do the soft colors of the fruit and flowers make the box feel? Point to a part that shows it.",
+      "observation": "List five things you see on this box, from the gold edges to the painted pictures.",
+      "analysis": "How does the gold frame help you look at the colorful pictures?",
+      "line": "Find curved lines in the stems and leaves. Find any straight lines on the edges of the box.",
+      "shape": "The box is long and low. What other shapes are inside the painted pictures?",
+      "color": "Which colors are used for the fruit and which for the flowers? How do they look beside the gold?",
+      "texture": "Enamel is smooth and glassy. Which parts of the box look smooth, and which look different?",
+      "space": "The painted fruit and flowers sit on a flat surface. How does the artist make them look round?",
+      "light": "Look for the shiny places on the gold. What do they tell you about the shape of the box?",
+      "meaning": "Fruit and flowers can make people think of gardens and good times. Why might an owner like that?",
+      "culture": "People in the 1750s used boxes like this for snuff, a powdered tobacco. What do you carry now that people like to decorate?",
+      "technique": "Enamel is made by melting glass onto metal. Why would this be hard to do on a small box?",
+      "personal": "What small object do you own that you take care of very well? Why does it matter to you?",
+      "critical": "Is a decorated box more valuable than a plain one that does the same job? Give a reason."
+    },
+    "g35": {
+      "daily": "If you could hold this snuffbox, what would you look at first and what would you notice after a minute? Use details from the picture.",
+      "emotion": "What mood do the painted fruit and flowers create? Which colors or shapes help create it?",
+      "observation": "Take one minute of silent looking. What small details of the flowers, fruit, and gold edges do you notice?",
+      "analysis": "How does Formey place the painted scenes so they fit the shape of the box?",
+      "line": "How do curving stems and petals compare with the straight edges of the box?",
+      "shape": "The painted fruit and flowers are mostly round shapes inside a rectangular box. How does that mix make the design interesting?",
+      "color": "Enamel colors stay bright for centuries. How do the bright painted colors stand out against the gold?",
+      "texture": "How do smooth enamel and polished gold look different from one another?",
+      "space": "The painter shows fruit and flowers on a small, flat surface. What choices create the feeling that they are rounded or overlapping?",
+      "light": "Where does the box reflect the most light? How does that help you see its shape?",
+      "meaning": "Why might fruit and flowers have been a popular choice to decorate a gift or a treasured object?",
+      "culture": "In the 1700s, snuffboxes were often shown to others and given as gifts. What does that tell you about how people used luxury objects?",
+      "technique": "Gold was shaped into a box, then covered with enamel and fired. What problems might a maker have to solve at such a small size?",
+      "personal": "Think of a small thing you have decorated or personalized. How is your choice of decoration like this box?",
+      "critical": "Why might a pocket object made for daily use be made from gold and enamel instead of plain metal? What other explanations are possible?"
+    },
+    "g68": {
+      "daily": "How does Formey turn a small container into something worth examining closely, and which details do the work?",
+      "emotion": "How do the fruit and flowers set an inviting, pleasant mood? What choices of color or arrangement support it?",
+      "observation": "Describe the box from its edges to its center. Which painted details seem the most carefully handled?",
+      "analysis": "How do the gold frame and enamel painting divide the surface? Which part takes the lead?",
+      "line": "How do the flowing lines of stems and leaves contrast with the geometry of the box and its gold edges?",
+      "shape": "How does the shape of the box limit what can be painted on it, and how does the design adapt?",
+      "color": "Enamel colors are made from glass fired onto metal. How do the bright hues contrast with the warmth of gold?",
+      "texture": "How would handling this box feel different from looking at it? Consider the glassy surface, the metal, and the hinge.",
+      "space": "On a surface this small, how can painted fruit and flowers appear to have depth?",
+      "light": "How does reflected light from the gold and enamel change how the box looks as you turn it?",
+      "meaning": "Fruit and flowers appear in many eighteenth-century decorations. What might they suggest about the culture's values?",
+      "culture": "Why might a luxury box for a habit like taking snuff have been so valuable in its time? Consider status and gift giving.",
+      "technique": "Jean Formey worked in gold and enamel together. Why are those two materials a good match, and where might the process be risky?",
+      "personal": "What everyday object would you want to make beautiful, and how would you do it?",
+      "critical": "Does it matter that this box is a useful object rather than a painting? How does function change the way we judge art?"
+    },
+    "g910": {
+      "daily": "How does this snuffbox balance function and display, and what visual choices make that balance visible?",
+      "emotion": "How does the fruit and flower decoration create a mood of elegance and ease, and what does it leave out?",
+      "observation": "Describe how the decoration is arranged across the box. What draws attention first, and why?",
+      "analysis": "How do the gold structure and enamel painting divide labor, with gold giving form and enamel giving color?",
+      "line": "How do the organic curves of the botanical forms respond to the box's regular, geometric outline?",
+      "shape": "How do the rounded fruit and floral shapes fit within the box's rectangular panels, and what does that suggest about design planning?",
+      "color": "How does the contrast between saturated enamel color and metallic gold produce richness and focus?",
+      "texture": "How do the glassy enamel and polished gold differ in how they handle reflection, and how does that affect the sense of luxury?",
+      "space": "How can a tiny, nearly flat surface give a convincing sense of volume in painted fruit and flowers?",
+      "light": "How does light moving across metal and glass make the box look different from every angle?",
+      "meaning": "How might fruit and flowers have carried associations with abundance or leisure for an eighteenth-century owner, and where is that reading uncertain?",
+      "culture": "What does it suggest about the owner's world that a container for snuff would be made from gold and enamel?",
+      "technique": "Enamel must be fired in a kiln and can crack or cloud if mishandled. What does the box's finish suggest about the maker's control?",
+      "personal": "How does the intimate scale of this object affect your relationship to it, compared with a large painting or monument?",
+      "critical": "Is a snuffbox a fully artistic work or a design product? What criteria would support your answer?"
+    },
+    "g1112": {
+      "daily": "What can you reasonably claim about this box's purpose and meaning from what is visible, and what depends on outside knowledge?",
+      "emotion": "How does ornamental restraint or abundance affect the emotional register of this object, and does it differ when seen in a museum?",
+      "observation": "Describe the decoration with precision. At what point does your description begin to interpret the box?",
+      "analysis": "How does the object negotiate between structure and ornament, and how does that negotiation reflect the values of the period?",
+      "line": "How does the interplay of organic line and geometric frame reflect broader decorative conventions of the mid-eighteenth century?",
+      "shape": "How does the design adapt painted naturalistic forms to the constraints of a small, hinged object?",
+      "color": "How might color contribute to the box's status as a luxury object, and how does survival of the enamel color shape our view today?",
+      "texture": "How do polished metal and glassy enamel combine to form a sensory experience that a photograph can only partly convey?",
+      "space": "How does the interplay of three-dimensional form and painted illusion operate on a handheld object?",
+      "light": "In what ways does a reflective object like this depend on the viewer's movement, and how does museum display alter that experience?",
+      "meaning": "How do we separate decorative convention from personal meaning when interpreting fruit and flowers on an eighteenth-century luxury object?",
+      "culture": "How do objects that facilitated snuff-taking, a habit tied to sociability and display, reveal the social uses of luxury craft?",
+      "technique": "What does the combination of gold work and enamel painting suggest about specialization and collaboration among craftspeople?",
+      "personal": "How might your own attitudes to luxury, tobacco, and craftsmanship shape your reading of this object?",
+      "critical": "Given the gaps in surviving information about original owners and uses, what should a viewer be careful not to assume?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Metalwork-Gold and Platinum), objectName (Snuffbox, painting), medium (gold, enamel), and tags (Fruit, Flowers) checked against the museum record: no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Snuffboxes held powdered tobacco and were also prized as luxury gifts. This one, made in 1757–58, is gold with enamel decoration of fruit and flowers. Teachers may wish to treat the tobacco connection factually and briefly.",
+    "vocabulary": ["snuffbox", "enamel", "gold", "decorative arts", "hinge", "ornament"],
+    "directions": [
+      "Ask students to design a lid for a small treasure box using patterns from nature.",
+      "Discuss why useful objects have been decorated in many cultures.",
+      "Compare this box with another small treasure in the archive and discuss scale."
+    ]
+  }
+}

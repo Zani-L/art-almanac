@@ -1,0 +1,151 @@
+{
+  "id": "met-503043",
+  "day": "11-05",
+  "title": "Virginal",
+  "artist": "Artist unknown (Italian)",
+  "date": "1540",
+  "medium": "Wood, parchment, ivory, paint",
+  "region": "Italy",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302662.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP302662.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Joseph Pulitzer Bequest, 1953",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small wooden keyboard instrument with a row of keys along the front edge and a compact case. It looks like a box with a keyboard, much smaller than a harpsichord.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503043",
+    "objectId": "503043",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium (wood, parchment, ivory, paint), culture, country, classification (Chordophone-Zither-plucked-virginal), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A virginal is a small keyboard instrument in which pressing a key plucks a string, and it belongs to the same family as the harpsichord. The Met dates this Italian example to 1540 and lists wood, parchment, ivory and paint. Because the record names no maker and gives little detail, the instrument's decoration should be described only from the image.",
+  "descriptions": {
+    "k": "This is a virginal. It is a small, very old keyboard from Italy. It has keys like a piano, but it sits in a little wooden box. Pressing a key plucks a string. Can you find the row of keys?",
+    "g12": "A virginal is a small keyboard instrument. This one was made in Italy in 1540, almost 500 years ago. When a player presses a key, a tiny part plucks a string inside. The case is wood, with paint and other materials. How is it like a piano?",
+    "g35": "This virginal was made in Italy in 1540. A virginal is a small keyboard instrument, in the same family as the harpsichord, in which a key makes a string get plucked. The Met lists wood, parchment, ivory and paint. Because it is small, a person could use it in a room at home. Look at the keyboard and the case. What parts do you recognize from pianos?",
+    "g68": "This Italian virginal, dated 1540, is a compact plucked keyboard instrument, related to the harpsichord but smaller and simpler. Pressing a key causes a string to be plucked, so players cannot change the volume by touch as they can on a piano. The record lists wood, parchment, ivory and paint but names no maker. What does the size of the instrument suggest about where it was used and who might have played it?",
+    "g910": "This virginal of 1540 comes from a century in which Italian makers produced some of the earliest surviving plucked keyboards. Smaller than a harpsichord, it could fit into a domestic setting, and its materials, wood, parchment, ivory and paint, point to a crafted and possibly decorated case. The record does not describe the painting, so it should be read from the image. The instrument invites reflection on how music and the home were linked, and on how survival over nearly five centuries shapes what we know.",
+    "g1112": "Dated to 1540 and catalogued as Italian, this virginal is among the early plucked keyboard instruments that preceded the harpsichord's later flowering. Its small size suggests a domestic or intimate role, but the record names no maker or owner, so claims about its original setting are speculative. Wood, parchment, ivory and paint indicate both structural and decorative materials, and nearly five centuries of use, repair and alteration complicate any claim about how it looked originally. It raises questions about authenticity and about how museums display silent instruments."
+  },
+  "questions": {
+    "k": {
+      "daily": "This tiny keyboard is very old. What do you think a person would play on it?",
+      "emotion": "Does this virginal look quiet or loud? What do you see that tells you?",
+      "observation": "Find the keys and the wooden case. Can you point to each?",
+      "analysis": "Where do your eyes look first on the virginal? Where do they go next?",
+      "line": "The keys make a row of lines. Trace the row with your finger in the air.",
+      "shape": "What shapes do you see in the case and in the keys?",
+      "color": "What colors do you see on the virginal?",
+      "texture": "If you touched the wooden case and the keys, how would they feel different?",
+      "space": "The virginal is a box. What do you think is inside it?",
+      "light": "Where does the virginal look light? Where does it look dark?",
+      "meaning": "Why might someone want a small keyboard in their home?",
+      "culture": "This virginal comes from Italy, made almost 500 years ago. What would you ask the maker?",
+      "technique": "The case was made by hand from wood. What tools do you think were needed?",
+      "personal": "What song would you want to play on this little keyboard?",
+      "critical": "This keyboard looks different from a piano. What differences can you spot?"
+    },
+    "g12": {
+      "daily": "A virginal is small enough for a room at home. How does its size change how you imagine it being used?",
+      "emotion": "What feeling does this old keyboard give you? Point to the detail that makes you feel it.",
+      "observation": "Describe the keys, the case and any decoration. What do you notice about each?",
+      "analysis": "How do the keys lead your eyes into the box of the case?",
+      "line": "Find straight lines and any curved lines. Where do you see each?",
+      "shape": "The case is like a long box. How is that different from the wing shape of a harpsichord?",
+      "color": "The record lists wood, parchment, ivory and paint. Which colors in the picture come from those?",
+      "texture": "Which parts of the virginal look smooth, and which look more rough or painted?",
+      "space": "The case holds strings you cannot see. How does the shape make room for them?",
+      "light": "Look for bright and dim places on the case. What do they tell you about the surface?",
+      "meaning": "Why might a family in 1540 like to have a keyboard at home?",
+      "culture": "This virginal was made in Italy in 1540. What can the instrument tell you about the people who used it?",
+      "technique": "A key makes a string get plucked. Why do you think a maker needed to be so careful?",
+      "personal": "If you could decorate this virginal, what would you paint on it?",
+      "critical": "We cannot hear this instrument in a picture. What can we learn by looking?"
+    },
+    "g35": {
+      "daily": "The virginal plucks strings when a key is pressed. How does the small box shape hint at what is inside?",
+      "emotion": "What mood does this old, compact keyboard create? Which details cause it?",
+      "observation": "Describe the virginal from the keyboard to the back of the case. What details do you find?",
+      "analysis": "How do the keys and case work together as one design?",
+      "line": "How do the repeating lines of the keys contrast with the long edges of the case?",
+      "shape": "The virginal is a compact case with a keyboard. How does that shape differ from a piano or harpsichord?",
+      "color": "The record lists wood, parchment, ivory and paint. How do those materials add variety to the colors?",
+      "texture": "Which parts of the instrument might feel smooth, and which might be rough or painted?",
+      "space": "The case is small. How might the instrument fit into a room differently from a larger harpsichord?",
+      "light": "How does light on the case show the edges and surfaces?",
+      "meaning": "A keyboard in the home could show that a family valued music. Why might that be important?",
+      "culture": "Italy was an important center for keyboard making in the 1500s. Why might skills grow in one place?",
+      "technique": "Parchment is a prepared animal skin. Where in a keyboard instrument might a maker use it?",
+      "personal": "What object in your home shows what your family values?",
+      "critical": "The record names no maker. What can we still learn from an instrument without a name?"
+    },
+    "g68": {
+      "daily": "How does the compact form of this virginal communicate its likely role compared with a large harpsichord?",
+      "emotion": "What tone does the small, boxlike instrument set? Support your answer with details.",
+      "observation": "List what you can see, from the keys to the case, before interpreting.",
+      "analysis": "How does the arrangement of keyboard and case organize the object visually?",
+      "line": "How do the repeated lines of the keys set up rhythm against the case edges?",
+      "shape": "How does the compact shape fit the needs of a plucked keyboard?",
+      "color": "How might paint and natural materials combine to guide your eye?",
+      "texture": "How do wood, parchment, ivory and paint produce different surfaces in one object?",
+      "space": "How does a small instrument change the relation between the player and the room?",
+      "light": "How might candlelight or window light have shaped how this instrument looked in 1540?",
+      "meaning": "What might owning a virginal have said about a household? Why should we be careful about being certain?",
+      "culture": "How does this instrument show that keyboards existed before the piano?",
+      "technique": "Compare plucking with hammering. How does that make the virginal's touch different from a piano's?",
+      "personal": "What small object in your life takes up little space but matters a great deal?",
+      "critical": "Nearly 500 years of use have probably changed this instrument. What might we not know about how it first looked?"
+    },
+    "g910": {
+      "daily": "What does the modest scale of this virginal suggest about the cultural role of keyboard music in domestic life?",
+      "emotion": "What atmosphere do proportion and materials create, and how does knowing its age affect your response?",
+      "observation": "Describe the visual hierarchy of keyboard, case and decoration. What commands attention first?",
+      "analysis": "How does the instrument's compact structure reflect the physics of a short plucked string?",
+      "line": "How does the strict rhythm of the keys play against the larger lines of the case?",
+      "shape": "How does the virginal's boxy form compare with the wing-like harpsichord, and what does that suggest about function?",
+      "color": "How do the natural materials and applied paint negotiate between utility and decoration?",
+      "texture": "How might the use of parchment, ivory, wood and paint have created a layered surface?",
+      "space": "How does the virginal's small footprint shape the relation between instrument and room?",
+      "light": "How does a gallery display change the way surface details read compared with a domestic setting?",
+      "meaning": "What can the small keyboard tell us about the place of music in learning and leisure, and what is only inference?",
+      "culture": "How did Italian workshops contribute to the spread of keyboard instruments across Europe?",
+      "technique": "What does the plucking mechanism suggest about the limits and strengths of the instrument's expression?",
+      "personal": "How do tools you use at home shape the ways you spend time?",
+      "critical": "How should we weigh the evidence from an anonymous object against stories told about its owners?"
+    },
+    "g1112": {
+      "daily": "What can this anonymous virginal support as evidence of 16th-century Italian keyboard practice, and what remains conjecture?",
+      "emotion": "How does the instrument's scale and quiet condition in a museum shape feelings of intimacy or distance?",
+      "observation": "Separate what the image shows from what the record states. Which details of decoration can you verify?",
+      "analysis": "How do case, keyboard and materials together define the object's identity?",
+      "line": "How do the repeated lines of the keyboard and the contour of the case represent two kinds of order?",
+      "shape": "How does the compact rectangular form shape the relationship between acoustics and portability?",
+      "color": "How might paint have changed, faded or been restored, and how does that affect interpretation?",
+      "texture": "How do wear, repair and conservation complicate our sense of what is original?",
+      "space": "How might the virginal have been used in a household, and how does a museum display change that sense?",
+      "light": "How does modern photography affect our impression of a historical surface?",
+      "meaning": "How might keyboards have been read as signs of education and refinement, and what are the dangers of generalizing?",
+      "culture": "How does the virginal's place before the harpsichord's later developments complicate a simple evolutionary story of keyboards?",
+      "technique": "How do the technical choices of plucking and a compact case shape what music can be played?",
+      "personal": "How does your own relation to keyboards shape what you assume about early ones?",
+      "critical": "What challenges arise in studying instruments that survive without maker, owner or documented history?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Zither-plucked-virginal), medium (includes ivory, noted neutrally), culture, and tags (none listed) checked against the museum record; the record does not describe any painted scene, so the image should be confirmed for figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An Italian virginal dated 1540, a small plucked keyboard instrument. The record names no maker and does not describe the decoration, so students should rely on what they can see.",
+    "vocabulary": ["virginal", "harpsichord", "plucked keyboard", "parchment", "key", "domestic"],
+    "directions": [
+      "Compare a virginal, harpsichord and piano: how does each make sound?",
+      "Discuss how an anonymous object can still teach us about its time.",
+      "Measure a small box to match a virginal's likely size and imagine where it would fit in a room."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-36071",
+  "day": "10-25",
+  "title": "Landscape",
+  "artist": "Wang Hui",
+  "date": "dated 1693",
+  "medium": "Hanging scroll; ink on paper",
+  "movement": "Qing dynasty landscape painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-37658-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-37658-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Wan-go H. C. Weng, 1955",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall hanging scroll landscape painted in black ink on paper, with layered brushwork in varied tones of gray and black. The scene is built up in soft and dark strokes across the vertical format.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/36071",
+    "objectId": "36071",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Qing dynasty), classification, public-domain flag, credit line and image URLs read from the record. The record has no tags or scene description, so the text stays at the level of ink landscape, tone and brushwork."
+  },
+  "context": "A hanging scroll titled Landscape, dated 1693, by Wang Hui, a leading painter of the early Qing dynasty who lived from 1632 to 1717 according to the Met. It is painted in ink on paper. Wang Hui is often grouped with other masters who studied and reworked the landscape styles of earlier centuries.",
+  "descriptions": {
+    "k": "This tall picture is a landscape made only with black ink. Some parts are very dark and some are soft gray. Can you find the darkest spot and the lightest spot? Pretend to walk into the picture.",
+    "g12": "Wang Hui painted this landscape in China more than 300 years ago. He used only black ink on paper. The ink makes dark, medium, and light grays. The scroll is tall, so your eyes can climb upward. Where would you start to look first?",
+    "g35": "Wang Hui was a famous painter in the Qing dynasty, and he dated this tall landscape 1693. He used ink on paper, with strokes that are dark in some places and pale in others. The shape of a hanging scroll lets your eyes travel from bottom to top. How do the many tones of ink create depth in the picture?",
+    "g68": "Wang Hui (1632 to 1717) studied the landscape styles of earlier masters and combined them into his own. This hanging scroll, dated 1693, uses only ink on paper, which means all depth, texture, and mood come from tone and brushwork. A tall format invites the eye to climb through the scene. How can a painter suggest space and surface using just shades of one ink?",
+    "g910": "Dated 1693, this scroll shows how an early Qing master built a landscape from controlled layers of ink. Wang Hui worked in a tradition of studying earlier painters, so brush marks and composition may echo older styles while serving his own vision. Consider how line, tonal gradation, and the vertical format create structure and depth, and how the viewer's eye is guided without color.",
+    "g1112": "Wang Hui's 1693 landscape exemplifies a Qing practice of absorbing earlier styles into a personal synthesis, so that viewing involves recognizing both quotation and invention. In monochrome ink, depth, atmosphere, and surface are produced entirely through brush handling and tonal modulation. The record gives no description of specific scenery, so interpretation should proceed from what can be seen. How do tradition and individuality coexist in a single scroll?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the darkest spot in this tall picture. Then find the lightest spot. What is different about them?",
+      "emotion": "Does this landscape feel quiet or loud? What do you see that tells you?",
+      "observation": "Look slowly from the bottom to the top. What do you find along the way?",
+      "analysis": "Where do your eyes go first in this tall picture? Where do they go next?",
+      "line": "Find a long line and a short line in the ink. How are they different?",
+      "shape": "Do you see big shapes or tiny shapes in this landscape? Point to one of each.",
+      "color": "This picture uses only black ink. How many different grays can you find?",
+      "texture": "Some marks look dry and scratchy. Can you find a place that looks like that?",
+      "space": "What seems close to you in the landscape, and what seems far away?",
+      "light": "Where does the picture look the lightest, like fog or sunshine?",
+      "meaning": "If you could step inside this scroll, what would you hope to find?",
+      "culture": "This scroll hangs on a wall and is tall. Why might people like tall pictures of landscapes?",
+      "technique": "The painter used a brush and ink on paper. How could one brush make light and dark marks?",
+      "personal": "Where do you go when you want to feel calm? Is it like this picture?",
+      "critical": "Without any color, can a picture still show a whole world? How?"
+    },
+    "g12": {
+      "daily": "Climb up the scroll with your eyes. What changes from the bottom to the top?",
+      "emotion": "How does this ink landscape make you feel? Point to the marks that help.",
+      "observation": "Describe the darkest areas, the middle grays, and the lightest areas in this painting.",
+      "analysis": "How does the painter lead your eyes up through the tall scroll?",
+      "line": "Compare thin, dry lines with thick, wet ones. Where do you see each?",
+      "shape": "What big shapes and small shapes do you see? How do they fit together?",
+      "color": "The painting uses only black ink. How does the painter create many shades?",
+      "texture": "Which parts look rough or rocky, and which look soft or misty? What marks show it?",
+      "space": "How does the painter make some parts look closer and some farther away?",
+      "light": "Where does the light seem to glow most in the picture? How does the painter do it?",
+      "meaning": "People often looked at landscape paintings to feel peaceful. What feeling does this one give you?",
+      "culture": "Wang Hui painted this about 330 years ago. How is looking at it today different from when it was new?",
+      "technique": "The painter used ink on paper. Why might that be a hard material for fixing mistakes?",
+      "personal": "What would you do if you could spend a day in this landscape?",
+      "critical": "Is a landscape painting about a real place or a made-up one? What clues do you see?"
+    },
+    "g35": {
+      "daily": "What choices make this ink landscape feel layered and deep, even though it is flat paper?",
+      "emotion": "What mood do the ink tones create? Which areas feel heavy and which feel light?",
+      "observation": "Scan the scroll carefully for one minute. What details of brushwork did you notice last?",
+      "analysis": "How does Wang Hui organize the picture from bottom to top so the eye moves through it?",
+      "line": "How do firm, dark lines compare with softer, lighter strokes in this scroll?",
+      "shape": "How do larger forms and smaller forms build a rhythm across the picture?",
+      "color": "With only ink, how does Wang Hui create bright and dark areas?",
+      "texture": "How do repeated dry brush marks suggest rough surfaces?",
+      "space": "How does the tall format help create a sense of height and distance?",
+      "light": "How does the painter suggest light and air without color or shadows?",
+      "meaning": "Why might someone hang a landscape like this in their home? What might it offer them?",
+      "culture": "Wang Hui studied older masters. What does that tell you about how painters learned in the Qing dynasty?",
+      "technique": "How can a painter use water to make ink pale or dark? Where can you see that here?",
+      "personal": "Think of a place you have visited that felt huge. How would you show it with only ink?",
+      "critical": "The record calls this simply Landscape. What details would you want in a title?"
+    },
+    "g68": {
+      "daily": "How does Wang Hui build a believable world using only gradations of ink?",
+      "emotion": "How does the balance of dense, dark areas and pale, open areas shape the scroll's mood?",
+      "observation": "Describe how your eye moves through the scroll. Where does it linger and where does it pass quickly?",
+      "analysis": "How does the vertical composition organize the scene into layers from front to back?",
+      "line": "How do brush lines vary in speed and pressure to show different surfaces?",
+      "shape": "How do clusters of marks form larger masses, and how do these masses relate to one another?",
+      "color": "How does tonal range stand in for color, and how might it affect the way we read depth?",
+      "texture": "Which marks look dry and which look wet? What effect does each have?",
+      "space": "How does the painter push some areas back and bring others forward without a single vanishing point?",
+      "light": "How does the use of pale areas and dark accents create a sense of daylight and atmosphere?",
+      "meaning": "Landscape paintings were sometimes seen as places for imaginary travel. How could this scroll invite such a journey?",
+      "culture": "How might studying earlier masters have given Qing painters both authority and a challenge?",
+      "technique": "Wang Hui is known for synthesizing earlier styles. How could you test whether a painting follows a tradition or breaks from it?",
+      "personal": "What does it feel like to look at a painting that rewards slow looking? When have you done this?",
+      "critical": "Does the lack of color make this painting seem more serious or more peaceful to you? What supports your view?"
+    },
+    "g910": {
+      "daily": "Which formal decision most strongly defines this landscape's sense of space and structure?",
+      "emotion": "How does the interplay of dense and open passages produce a contemplative atmosphere?",
+      "observation": "Describe the visual hierarchy. What is emphasized by tone, density, or placement?",
+      "analysis": "Analyze the layering of ink tones and how it organizes the scroll into zones of depth.",
+      "line": "How do variations in brush speed and pressure create surface differences across the scroll?",
+      "shape": "How do accumulated marks produce masses, and how do these masses balance one another?",
+      "color": "How is tonal range used as a structural tool in monochrome ink?",
+      "texture": "How do repeated texture strokes contribute to the feeling of a lived-in or weathered landscape?",
+      "space": "How does the scroll produce depth in a vertical format without linear perspective?",
+      "light": "How do contrasts of pale and dark substitute for light and shadow?",
+      "meaning": "How might a viewer read this landscape as an imagined retreat, and where does that reading depend on guesses?",
+      "culture": "How did the Qing practice of studying earlier masters shape what a painting like this could mean to its audience?",
+      "technique": "How does the absorbency of paper affect the layering and control of ink?",
+      "personal": "How does your attention change when you must look at a work for a long time?",
+      "critical": "With no description in the record, how should interpretation of a generically titled landscape proceed?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visible ink structure about Wang Hui's relation to earlier masters, and what lies outside the evidence?",
+      "emotion": "How does a monochrome landscape complicate the attribution of a single mood, and what does the viewer contribute?",
+      "observation": "Describe the scroll's tonal and structural organization precisely. At what point does description imply interpretation?",
+      "analysis": "Analyze how accumulation and modulation of brush marks produce coherence in a vertical composition.",
+      "line": "How does the continuum between descriptive mark and calligraphic gesture operate in this scroll?",
+      "shape": "How do masses built from repeated strokes assume a quasi-architectural structure?",
+      "color": "How does the aesthetic of monochrome ink compare with traditions that emphasize color, and what does it prioritize?",
+      "texture": "How does the layering of dry and wet marks act as both description and signature of manner?",
+      "space": "How does the scroll's spatial logic differ from single-point perspective, and what does it imply about viewing?",
+      "light": "How might the painting evoke atmosphere through tonal modulation alone, and what role does the paper play?",
+      "meaning": "How do concepts of retreat, quotation, and synthesis shape competing readings of a landscape that cites earlier styles?",
+      "culture": "How does Wang Hui's place within Qing painting circles complicate the idea of originality in landscape?",
+      "technique": "What does the scroll's tonal control suggest about training, practice, and the relation between copying and invention?",
+      "personal": "How does your own tolerance for ambiguity shape your response to a landscape that names no particular place?",
+      "critical": "How might we test claims about a painting's debt to earlier masters using visual evidence alone?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and classification in the Met record were checked; the record has no tags. The subject is an ink landscape.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Wang Hui (1632 to 1717 per the Met) was a leading early Qing landscape painter. The record gives no description of the scenery, so ask students to describe what they see before discussing style.",
+    "vocabulary": [
+      "hanging scroll",
+      "ink tone",
+      "texture stroke",
+      "monochrome",
+      "Qing dynasty",
+      "composition"
+    ],
+    "directions": [
+      "Have students make a gray scale of five ink or pencil tones, then use them to draw a simple landscape.",
+      "Ask students to describe the scroll aloud from bottom to top as if guiding a traveler.",
+      "Discuss the difference between learning from a master and copying."
+    ]
+  }
+}

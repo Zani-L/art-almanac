@@ -1,0 +1,159 @@
+{
+  "id": "met-10481",
+  "day": "05-04",
+  "title": "Heart of the Andes",
+  "artist": "Frederic Edwin Church",
+  "date": "1859",
+  "medium": "Oil on canvas",
+  "movement": "Hudson River School",
+  "region": "United States (painted from South American scenery)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT78.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT78.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Margaret E. Dows, 1909",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A huge, richly detailed mountain landscape. In the foreground, lush tropical plants and trees surround a waterfall and stream, and a river valley opens toward distant mountains, with a snow-capped peak rising under a glowing sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/10481",
+    "objectId": "10481",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Rivers, Waterfalls, Forests, Mountains, Landscapes) and image URLs read from the record"
+  },
+  "context": "A very large oil painting by Frederic Edwin Church, completed in 1859 and based on his travels in the Andes mountains of South America. It is a composite landscape, meaning Church combined many studies into one imagined view, and it was a popular sensation when shown in New York.",
+  "descriptions": {
+    "k": "Look at this huge mountain scene! A waterfall tumbles down. Green plants grow thick and tall. Far away, a snowy mountain glows. Can you find the water, the trees, and the tall peak?",
+    "g12": "Frederic Church painted this giant view of mountains in South America. A waterfall splashes in the front, and thick green plants grow all around. Far away, a snowy mountain shines in the sky. The painter added so many tiny details. How many can you find?",
+    "g35": "Frederic Church traveled to the Andes mountains in South America and made drawings and paintings of what he saw. In 1859 he combined many of those studies into this very large painting. Look from the leaves and waterfall in front to the snowy peak far away. Why do you think Church included so much tiny detail?",
+    "g68": "Church traveled to Ecuador and Colombia and made countless studies, then built this landscape in his New York studio. It is a composite, a view that is not one real place but many parts joined together. Look from the leaves and flowers in the foreground to the snowy peak in the haze. When it was shown in 1859, audiences paid to see it. Why might people have been so excited by a painting of far-off nature?",
+    "g910": "Heart of the Andes presents South American nature as a grand spectacle: dense tropical growth, a waterfall, a long river valley, and a snow-capped peak in the distance. Church combined sketches from his travels into one imagined view, using exact botanical and geological detail to make it feel scientific as well as sublime. The painting was shown to paying crowds in New York in 1859. Scholars discuss how it reflects scientific curiosity, awe at nature, and American attitudes toward other lands.",
+    "g1112": "Painted in 1859, Heart of the Andes combines the Hudson River School's ideal of the sublime with an empirical interest in natural science, partly inspired by the writings of Alexander von Humboldt. Church assembled a composite landscape from studies made in Ecuador and Colombia, balancing botanical precision with theatrical effects of light and scale. Its exhibition in New York, staged as a ticketed event, shows how painting could work as public spectacle. Interpretations vary: the picture can be read as a celebration of nature, a statement of scientific curiosity, or an example of how American viewers imagined and consumed distant places."
+  },
+  "questions": {
+    "k": {
+      "daily": "Walk your eyes from the front leaves to the far snowy mountain. What do you pass along the way?",
+      "emotion": "Does this place feel peaceful, exciting, or a little bit wild? Why?",
+      "observation": "What kinds of plants and water can you find? Name three things.",
+      "analysis": "Where do your eyes stop first? What do they look at next?",
+      "line": "Find the line where the mountains meet the sky. Is it flat or bumpy?",
+      "shape": "The waterfall makes a long, thin shape. Can you find other long shapes in the picture?",
+      "color": "What greens do you see? Are they all the same?",
+      "texture": "Which plants look soft and feathery? Which look thick and heavy?",
+      "space": "Which things are very close to you? Which things look tiny and far away?",
+      "light": "Where does the sky look glowing? How does that light touch the land?",
+      "meaning": "Imagine you could walk through this valley. What do you hope to find?",
+      "culture": "The artist visited mountains in South America and then painted them far away in New York. Why do you think people wanted to see this picture?",
+      "technique": "The painter used oil paint to make tiny leaves and a big sky. How do you think he made so many little details?",
+      "personal": "Have you ever seen a waterfall, a tall mountain, or a thick forest? Tell about it.",
+      "critical": "This place is made of many places put together. Does that matter for how we look at it?"
+    },
+    "g12": {
+      "daily": "What would it be like to step into this valley? What do you think you would see, hear, and feel?",
+      "emotion": "Which parts of the painting feel calm and which feel grand? How does the artist make them different?",
+      "observation": "Describe five things you can see, from the plants at the front to the faraway mountain.",
+      "analysis": "How does the artist lead your eyes from the waterfall in front to the mountain in the back?",
+      "line": "Follow the river and the lines of the valley. Where do they lead your eyes?",
+      "shape": "Find big shapes like mountains and small shapes like leaves. How do they fit together?",
+      "color": "Which colors are bright and rich in the front, and which are pale and soft in the back? What does this do?",
+      "texture": "Pick one plant and tell how it might feel. What details help you imagine it?",
+      "space": "How does the artist make the valley look deep and far away?",
+      "light": "Where does the light seem to come from? How does it make the sky and mountain glow?",
+      "meaning": "The artist painted many plants, rocks, and water with great care. What might he want us to feel about nature?",
+      "culture": "The artist traveled to South America to see mountains. Why might people in cities have liked this painting?",
+      "technique": "Look at the tiny leaves and flowers. How might the painter have made such small details?",
+      "personal": "What is the most amazing place in nature you have seen or imagined? How is it like this?",
+      "critical": "The painter mixed parts from several places. Does a painting have to show one real place to be true?"
+    },
+    "g35": {
+      "daily": "What do you think Church wanted viewers in 1859 to feel when they first saw this very large painting?",
+      "emotion": "How do the glowing sky, thick plants, and distant peak work together to create a mood of wonder?",
+      "observation": "After one minute of silent looking, which tiny details in the plants, rocks, or water do you notice that you missed at first?",
+      "analysis": "How does Church organize the scene into foreground, middle ground, and background to guide your eyes?",
+      "line": "How do the river and the edges of the valley help you travel through the picture to the mountain?",
+      "shape": "Compare the pointed shape of the snowy peak with the rounded shapes of the leaves. How does each shape affect the picture?",
+      "color": "How does Church use deep greens in front and soft blues and pinks in the distance to show space?",
+      "texture": "How can you tell the difference between the smooth water, rough rocks, and soft leaves?",
+      "space": "Which clues, such as size, detail, and haze, make the faraway mountain seem so distant?",
+      "light": "Where does the strongest light fall, and where is shadow? How does this affect the mood?",
+      "meaning": "Church studied plants, rocks, and mountains carefully. What might his painting say about the value of science and nature?",
+      "culture": "Church traveled in South America and was inspired by the writer Alexander von Humboldt. Why might nature in other parts of the world have fascinated people in the United States?",
+      "technique": "Church made many drawings and oil sketches outdoors before painting this in his studio. Why might that help him paint such detail?",
+      "personal": "Think of a time when you noticed tiny details in a huge place. How is that like looking at this painting?",
+      "critical": "The painting is a composite of many places. Does knowing that change how you feel about it? Why?"
+    },
+    "g68": {
+      "daily": "How does Church combine scientific detail with dramatic effects to create a sense of awe?",
+      "emotion": "How do scale, light, and detail combine to produce the feeling that nature is overwhelming and beautiful?",
+      "observation": "Look from the foreground plants to the distant mountain. Which details seem most carefully studied?",
+      "analysis": "How does the composition move the viewer from the dense front area, through the valley, to the peak?",
+      "line": "How do the lines of the river, ridge, and waterfall guide the eye along a path through the scene?",
+      "shape": "How do the large, simple shapes of mountains balance the countless small shapes of leaves in the foreground?",
+      "color": "How does the shift from rich greens to hazy blues create atmosphere, and how does the warm glow of the sky add drama?",
+      "texture": "How does Church render so many kinds of surfaces, such as leaves, rock, mist, and water, and why does it matter for a painting like this?",
+      "space": "How does atmospheric perspective, where distant things look paler, deepen the sense of space?",
+      "light": "How does the glowing sky help the snowy mountain seem both distant and radiant?",
+      "meaning": "What ideas about nature, science, and discovery might Church wish to express with so much carefully recorded detail?",
+      "culture": "Why might a painting of a faraway place have been such an event for city audiences in 1859?",
+      "technique": "How might field sketches and studio painting together create a believable landscape that is still partly invented?",
+      "personal": "What does the idea of exploring a faraway landscape through a picture mean to you?",
+      "critical": "Who is the viewer in this picture, and whose point of view of South America might be missing?"
+    },
+    "g910": {
+      "daily": "How does Church use scale, detail, and light to turn a landscape into a spectacle?",
+      "emotion": "How does the painting create the sublime, a feeling of awe mixed with smallness, without relying on a storm or danger?",
+      "observation": "Describe the visual hierarchy of the picture. What first draws the eye and which devices produce that effect?",
+      "analysis": "Analyze how foreground, middle ground, and background are linked to create a unified composition.",
+      "line": "How do diagonals of the valley and the curves of the stream work together to lead the viewer's eye?",
+      "shape": "How does the contrast between the broad forms of the mountain and the intricate shapes of foliage structure the picture?",
+      "color": "How does the progression of color from saturated foreground to pale background produce depth and drama?",
+      "texture": "How does Church combine botanical precision with painterly softness in the distance, and what does that suggest about his goals?",
+      "space": "How does the combination of a wide valley and a dense foreground make the viewer feel simultaneously close and far?",
+      "light": "How does Church use luminous atmosphere as an expressive tool as well as a realistic effect?",
+      "meaning": "How might the painting combine scientific observation with a sense of the divine in nature, and where does that become speculative?",
+      "culture": "How does Church's painting reflect nineteenth-century American interest in exploration, science, and the idea of the Americas as a continent?",
+      "technique": "How does Church's practice of making many studies and then combining them in the studio shape the relationship between fact and invention in the painting?",
+      "personal": "How does your own idea of wilderness influence what you notice first in this picture?",
+      "critical": "In what ways might a picture designed as a spectacle both inform and shape viewers' ideas of a distant place?"
+    },
+    "g1112": {
+      "daily": "What argument can you make about how this painting balances empirical science and the sublime, and what remains debatable?",
+      "emotion": "How does the painting manage to evoke both intimacy, through its foreground detail, and immensity, through its distances?",
+      "observation": "Describe the painting's formal construction precisely. At what point does careful description start to imply an ideology of looking?",
+      "analysis": "Analyze how the composite structure produces coherence even though the scene is invented from many studies.",
+      "line": "How do the painting's directional forces, such as the valley, river, and ridges, shape the viewer's pacing through the picture?",
+      "shape": "How does the contrast between monumental landforms and intricate vegetation express a relationship between the vast and the minute?",
+      "color": "How does Church's use of atmospheric color construct an illusion of depth while also producing a theatrical glow?",
+      "texture": "How does the near-photographic detail in the foreground compare with the softness of the distance, and what does that suggest about the aims of the painting?",
+      "space": "How does the painting position the viewer as an observer at the threshold of a vast landscape, and what viewpoint does that imply?",
+      "light": "In what ways does the luminous sky function as description of atmosphere and as symbolic or spiritual structure?",
+      "meaning": "Evaluate readings of the painting as natural-history record, spiritual landscape, or imperial-era fantasy. Which are best supported, and which are speculative?",
+      "culture": "How does the painting reflect and shape ideas about the Americas and about who gets to represent a landscape for others?",
+      "technique": "What does the combination of sketching in the field and composing in the studio reveal about the relation of observation and invention in the Hudson River School?",
+      "personal": "How does your own relationship to travel and to distant places shape the expectations you bring to a landscape painting?",
+      "critical": "Given that this view is assembled, what standards of truth should we apply to it, and are they the same for painting and for science?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Rivers, Waterfalls, Forests, Mountains, Landscapes), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The tags list no figures. Reliable knowledge of the painting suggests very small figures may appear in the scene, so reviewers should confirm how they are depicted.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Completed in 1859 after Church's travels in Ecuador and Colombia, the painting was exhibited in New York as a major public event. It is a composite scene made from many studies rather than a record of a single place.",
+    "vocabulary": [
+      "Hudson River School",
+      "sublime",
+      "composite",
+      "atmospheric perspective",
+      "foreground and background",
+      "botanical"
+    ],
+    "directions": [
+      "Have students draw a quick map of the painting from foreground to background, labeling what they find at each stage.",
+      "Ask students to compare a photograph of a real mountain with this painting and discuss what a composite can do that a photo cannot.",
+      "Discuss who lived in the Andes region and whose voices the painting does not include."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-435641",
+  "day": "05-24",
+  "title": "Madonna and Child",
+  "artist": "Giovanni Bellini",
+  "date": "late 1480s",
+  "medium": "Oil on wood",
+  "movement": "Italian Renaissance",
+  "region": "Italy (Venice)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DT375.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT375.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1908",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A mother holds her baby close, shown from about the waist up behind a ledge. A cloth is drawn back behind them to show a distant landscape.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435641",
+    "objectId": "435641",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting on wood by the Venetian artist Giovanni Bellini, made in the late 1480s. It shows the Virgin Mary with the infant Jesus, a very common subject for devotional pictures in the Italian Renaissance. The Met notes that a cloth drawn back behind the figures reveals a distant landscape.",
+  "descriptions": {
+    "k": "A mother holds her baby. They are close together. Behind them, a cloth is pulled back and you can see faraway hills. Her face is gentle. How does this picture feel to you?",
+    "g12": "Giovanni Bellini painted this in Venice, Italy, long ago. A mother holds her baby, and a ledge sits in front of them. Behind them, a cloth is pulled aside to show a faraway landscape. Her face is calm and quiet. What do you think she is feeling?",
+    "g35": "Giovanni Bellini, a painter from Venice, made this around the late 1480s. Mary, the mother of Jesus, holds her child behind a stone ledge, and her gaze reaches out to us. A cloth is pulled back to reveal a distant landscape. The Met says the land shows the change from winter toward spring. How do the ledge, the cloth, and the view beyond make you feel close to the figures?",
+    "g68": "Bellini painted this Madonna and Child in oil in the late 1480s. A stone ledge sets the figures a little apart from us, yet Mary's gaze draws the viewer in. The Met notes that the cloth of honor is drawn back to show a landscape that moves from winter-like dormancy to spring growth, an image that connects to ideas of death and rebirth. The asymmetrical arrangement is calm but not stiff. How do the setting and the pose work together to create feeling?",
+    "g910": "In this late-1480s panel, Bellini balances distance and intimacy. A parapet holds the figures slightly apart from us, but Mary's gaze reaches across it. The Met notes that the cloth of honor is drawn back to show a landscape moving from winter-like dormancy to spring growth, which may echo themes of death and rebirth, and that the asymmetrical arrangement anticipates Titian. Bellini's oil technique allows soft transitions of color and light. Consider how landscape, cloth, and gesture combine to make a devotional image that is also quietly human.",
+    "g1112": "Bellini's Madonna and Child exemplifies the Venetian synthesis of devotion, naturalism, and the soft modeling made possible by oil paint. The parapet and cloth of honor create layered thresholds, while the landscape beyond, which the Met reads as passing from winter dormancy to spring growth, introduces a seasonal rhythm that may echo themes of death and rebirth. The asymmetrical composition, which the Met says anticipates Titian, avoids rigid symmetry. Dürer's remark that Bellini was still the best in painting when in his seventies reminds us how highly he was esteemed by fellow artists. Interpretations of the landscape's symbolism remain open."
+  },
+  "questions": {
+    "k": {
+      "daily": "How does the mother hold her baby? What does that show you?",
+      "emotion": "Does this picture feel calm, sad, or happy? What makes you say so?",
+      "observation": "Find the mother, the baby, and the faraway hills. Point to each one.",
+      "analysis": "Look at the mother's face, then the baby, then the hills. Which did you look at longest?",
+      "line": "Can you find curved lines? Trace one in the air.",
+      "shape": "What shapes do you see in the cloth and the faces?",
+      "color": "Which colors do you see? Which color do you like best?",
+      "texture": "How would the soft cloth feel to touch? How would the stone ledge feel?",
+      "space": "What is close to you? What is far away behind the cloth?",
+      "light": "Where does the soft light fall? Which parts are darker?",
+      "meaning": "What do you think the baby is looking at or thinking about?",
+      "culture": "Many paintings of Mary and Jesus were made in Italy long ago. Why might families want one at home?",
+      "technique": "Bellini used oil paint to make soft light. Where does the light look soft?",
+      "personal": "Who takes care of you? Tell about a time you felt safe.",
+      "critical": "Why might the artist put a ledge in front of the mother and baby?"
+    },
+    "g12": {
+      "daily": "How does the painter show that the mother loves her baby? Point to what helps you decide.",
+      "emotion": "What feeling do you get from the mother's face? What part of the picture helps you feel that way?",
+      "observation": "Describe five things you see, from the front of the picture to the faraway view.",
+      "analysis": "How does the artist guide your eyes from the ledge to the faces to the landscape?",
+      "line": "Find soft, curved lines in the faces and cloth. How do they make the picture feel gentle?",
+      "shape": "Look at the shapes the mother and baby make together. What big shape do you see?",
+      "color": "Which colors feel warm and which feel cool? How do they affect the mood?",
+      "texture": "Which parts look soft, like skin or cloth, and which look hard, like the ledge? How can you tell?",
+      "space": "How can you tell the landscape is far away? What shows it?",
+      "light": "Follow the light on the faces. Where is it softest?",
+      "meaning": "The cloth is pulled back to show a faraway view. Why might the artist add a landscape?",
+      "culture": "Bellini lived in Venice, Italy. What do you think people used pictures like this for at home or in church?",
+      "technique": "Oil paint dries slowly, so a painter can blend colors gently. Where can you see soft blending?",
+      "personal": "What do you do when you want to feel calm? How is it like or different from this picture?",
+      "critical": "Do the mother's eyes seem to look at you? How does that change how you feel about the picture?"
+    },
+    "g35": {
+      "daily": "How do the ledge, the cloth, and the landscape help us feel close to Mary and Jesus?",
+      "emotion": "What mood does the painting create? Which details, like the gaze or the soft light, build that mood?",
+      "observation": "Take one minute of silent looking. What small details do you notice in the faces, cloth, and landscape?",
+      "analysis": "How does Bellini organize the figures, the cloth, and the landscape so the picture feels balanced?",
+      "line": "How do the curved lines of the cloth, hands, and faces compare with the straight edge of the ledge?",
+      "shape": "How do the shapes of the two figures fit together? What does that suggest about their relationship?",
+      "color": "How does Bellini use rich colors for the figures against the cooler view in the background?",
+      "texture": "How does the painter show the softness of skin and cloth compared with the stone ledge?",
+      "space": "The Met says a ledge separates the figures from us. How does it change how close you feel to them?",
+      "light": "Where is the light softest and where do you see shadow? How does it make the faces look rounded?",
+      "meaning": "The Met says the landscape shows a change from winter toward spring. What might that suggest?",
+      "culture": "Venice was a rich city where artists like Bellini were in demand. What might that have meant for the people who bought paintings?",
+      "technique": "Bellini painted with oil on wood. What do you think are the advantages of oil paint for soft light?",
+      "personal": "Think of a quiet moment of care in your life. How could an artist show it?",
+      "critical": "The mother seems to look out at us. How does this change the way we see the painting compared with one where she looks away?"
+    },
+    "g68": {
+      "daily": "How does Bellini use the pose and the setting to balance closeness and distance?",
+      "emotion": "Is the mood tender, solemn, or both? What visual details support your view?",
+      "observation": "List what you see from the front edge to the far hills. Which details are easy to miss?",
+      "analysis": "The Met calls the arrangement asymmetrical. How does Bellini keep it balanced anyway?",
+      "line": "How do the soft outlines of the figures contrast with the firm horizontal of the ledge?",
+      "shape": "How do the shapes of the figures and the drawn-back cloth frame the landscape?",
+      "color": "How do the color choices make the figures stand out from the background?",
+      "texture": "How does Bellini paint skin, cloth, and stone differently to make each look believable?",
+      "space": "How do the ledge, figures, cloth, and landscape build layers of space?",
+      "light": "How does soft, gradual light model the forms and create a quiet mood?",
+      "meaning": "The landscape moves from winter-like to spring-like. How might that connect to the idea of death and rebirth, and how sure can we be?",
+      "culture": "Why might Renaissance Italians have wanted devotional pictures to feel personal and human?",
+      "technique": "Oil paint can be layered thinly for glowing color. How might that help Bellini create soft transitions?",
+      "personal": "How does your own idea of caring for someone match or differ from what you see here?",
+      "critical": "Albrecht Dürer called Bellini the best painter even when Bellini was old. What qualities in this painting could earn such praise?"
+    },
+    "g910": {
+      "daily": "How does Bellini combine religious meaning with a tender, human scene?",
+      "emotion": "How do gaze, gesture, and soft light establish emotional tone without dramatic action?",
+      "observation": "Describe the visual hierarchy. What draws attention first, and what devices produce that effect?",
+      "analysis": "Analyze how the asymmetrical arrangement of the figures and the drawn-back cloth organizes the picture.",
+      "line": "How do the soft contours of the figures contrast with the architectural firmness of the parapet?",
+      "shape": "How do the overlapping forms of Mary and the child create a unified shape against the landscape?",
+      "color": "How do warm and cool contrasts organize attention between the figures and the distant view?",
+      "texture": "How does oil paint allow Bellini to differentiate flesh, cloth, and stone with subtle tonal changes?",
+      "space": "How do the parapet and cloth of honor create thresholds between the viewer and the sacred figures?",
+      "light": "How does the diffused light contribute to the painting's atmosphere and its sense of naturalism?",
+      "meaning": "How might the seasonal landscape be read symbolically, and where do those readings become speculative?",
+      "culture": "How did Venetian painters such as Bellini use landscape and color to give devotional images a sense of immediacy?",
+      "technique": "What advantages did oil paint give Venetian artists over tempera for effects of light and color?",
+      "personal": "How does the painting's balance of closeness and distance shape your relationship to the figures?",
+      "critical": "How might a viewer who does not share the painting's religious context still find meaning in it?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the picture about how Bellini balances devotion and naturalism, and what remains open?",
+      "emotion": "How does the painting evoke feeling through restraint? What are the limits of reading emotion into Renaissance devotional conventions?",
+      "observation": "Describe the picture's construction precisely before interpreting. Where does description already become interpretation?",
+      "analysis": "Analyze how thresholds such as the parapet, cloth, and landscape create a layered viewing experience.",
+      "line": "How does the interplay of soft contour and rigid horizontal define the painting's sense of both intimacy and distance?",
+      "shape": "How does the asymmetrical composition anticipate or depart from the symmetrical conventions of earlier devotional panels?",
+      "color": "How does the coloristic approach associated with Venetian painting appear in this panel, and how might age and varnish affect what we see?",
+      "texture": "How does the handling of oil allow for soft transitions that shape the painting's emotional effect?",
+      "space": "How does the framing device of the drawn-back cloth structure the relation among figures, viewer, and landscape?",
+      "light": "How does the painting treat light as both a naturalistic effect and a spiritual one?",
+      "meaning": "Evaluate possible symbolic readings of the seasonal landscape. What evidence supports them, and what cannot be confirmed?",
+      "culture": "How does the status of Venice in the late 15th century inform the production and reception of a painting like this?",
+      "technique": "What does the technique suggest about Bellini's role in developing oil painting in Italy?",
+      "personal": "How does your own relationship to religious imagery shape your response to a work made to prompt devotion?",
+      "critical": "How should art museums present works created for worship so that viewers can study them as art and also respect their original purpose?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Infants, Women, Madonna, Madonna and Child, Jesus) checked against the museum record, and the museum's web description read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Venice in the late 1480s. The Met notes the drawn-back cloth of honor, the parapet, the landscape that shifts from winter to spring, and the asymmetrical composition.",
+    "vocabulary": [
+      "Madonna",
+      "parapet",
+      "cloth of honor",
+      "oil paint",
+      "composition",
+      "landscape"
+    ],
+    "directions": [
+      "Ask students to list the 'layers' of space, from the ledge to the faraway hills, and sketch them.",
+      "Have students compare how a gaze toward the viewer changes the feeling of a portrait.",
+      "Discuss how a religious image can be studied for its art as well as its meaning."
+    ]
+  }
+}

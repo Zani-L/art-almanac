@@ -1,0 +1,158 @@
+{
+  "id": "artic-5349",
+  "day": "10-28",
+  "title": "New England Headlands",
+  "artist": "Childe Hassam",
+  "date": "1899",
+  "medium": "Oil on canvas",
+  "movement": "American Impressionism",
+  "region": "United States (Gloucester, Massachusetts)",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/f72dbf42-8655-8788-d899-9e87a0466d28/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Walter H. Schulze Memorial Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A square painting of a sunny coastal view of Gloucester, Massachusetts, with the town's buildings and sailing boats seen across the water, painted in loose, bright brushstrokes with areas of bare canvas showing in the foreground.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/5349",
+    "objectId": "5349",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1930.349, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting made in 1899 by the American Impressionist Childe Hassam, who worked in Gloucester, Massachusetts. The Art Institute's description notes a panoramic view of the town's buildings and sailing boats, painted with loose brushwork and with bare canvas showing in the foreground. The painting is square, about 69 centimeters on each side.",
+  "descriptions": {
+    "k": "This is a view of a town by the sea. There are little buildings and sailing boats. The painting looks light and sunny. Can you find a boat? Can you find the place where the paint is thin?",
+    "g12": "Childe Hassam painted a sunny view of Gloucester, a town by the sea in Massachusetts. You can see buildings and sailing boats far away. The brush strokes are quick and loose. In some places you can even see the bare canvas. Where would you like to sail?",
+    "g35": "Childe Hassam painted this view of Gloucester, Massachusetts, in 1899. Town buildings and sailing boats stretch across the scene. His brush strokes are loose and quick, and bare canvas shows in the foreground. Why might a painter leave some canvas bare?",
+    "g68": "In New England Headlands (1899), American Impressionist Childe Hassam gives a panoramic view of Gloucester, Massachusetts, with its buildings and sailing boats. His loose brushwork and the bare canvas in the foreground make the scene feel airy and fresh. The painting is square, which is an unusual shape for a wide view. How does the format affect how you take in the scene?",
+    "g910": "Hassam's 1899 view of Gloucester, Massachusetts, offers a panorama of town buildings and sailing boats rendered in loose Impressionist touches, leaving bare canvas in the foreground. The square format (about 69 by 69 centimeters) is unconventional for a sweeping view. Such choices emphasize light and atmosphere over detailed description. How does leaving parts unfinished contribute to the feeling of sunlight and air?",
+    "g1112": "Hassam's New England Headlands (1899), a panoramic view of Gloucester, Massachusetts, with its buildings and sailing boats, uses loose brushwork and exposed canvas to suggest sunlight and atmosphere rather than describe specific forms. The square format complicates the expectations of a panorama. As an American Impressionist, Hassam adapted French technique to New England subjects. How do technique and format together construct a particular way of seeing a place, and what is the relationship between sketch and finished painting?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which buildings can you find? Can you find a sailing boat?",
+      "emotion": "Does this place feel calm or busy? What do you see that tells you?",
+      "observation": "Look at the water, the town, and the sky. What is in each part?",
+      "analysis": "Why do you think the painter chose this view of the town?",
+      "line": "Trace the line of the shore with your finger. Is it straight or curvy?",
+      "shape": "What shapes do you see in the buildings and boats?",
+      "color": "Which colors are brightest? Where are they?",
+      "texture": "Where do you see thick paint, and where do you see thin paint?",
+      "space": "Is the town close or far away? How can you tell?",
+      "light": "Where does the sunlight look strongest?",
+      "meaning": "Why do people live by the sea?",
+      "culture": "What is your favorite place to look at from far away?",
+      "technique": "The painter let some bare canvas show. What do you think of that?",
+      "personal": "If you could sail one of these boats, where would you go?",
+      "critical": "What would you add to this view?"
+    },
+    "g12": {
+      "daily": "Which buildings can you find? Where are the sailboats?",
+      "emotion": "Does this seaside feel sunny, gloomy, or sleepy? Show us what tells you.",
+      "observation": "Describe what you see in the water, the town, and the sky.",
+      "analysis": "Why do you think the painter chose to show the town from far away?",
+      "line": "Follow the edge of the land by the water with your finger. What shape does it make?",
+      "shape": "Which small shapes do you find in the buildings and boats?",
+      "color": "Which bright colors stand out? Where are they?",
+      "texture": "Where does the paint look thick and where does it look thin?",
+      "space": "How far away does the town seem? Show us with your hand.",
+      "light": "Where does the sun seem to shine the most?",
+      "meaning": "Why do you think people build towns by the sea?",
+      "culture": "What is the farthest place you can see from your home?",
+      "technique": "Some bare canvas shows through. Why might the painter leave it?",
+      "personal": "If you could sail from this town, where would you go?",
+      "critical": "What would you add to the water or sky?"
+    },
+    "g35": {
+      "daily": "What clues tell you it is a sunny day by the sea?",
+      "emotion": "What feeling do the soft, bright colors give you?",
+      "observation": "Describe the town and the boats. Where are they in the picture?",
+      "analysis": "Why do you think the painter used quick strokes instead of tiny detail?",
+      "line": "How do the lines of the shoreline lead your eyes across the painting?",
+      "shape": "How do the small shapes of buildings compare with the big shapes of sky and water?",
+      "color": "Which colors do you see in the water and sky, and how do they blend?",
+      "texture": "How can you tell the painter worked quickly?",
+      "space": "How does the painter show that the town is far away?",
+      "light": "How does sunlight change the colors of the water and buildings?",
+      "meaning": "What might the painter have loved about this town?",
+      "culture": "This painting is from 1899 in Massachusetts. What might life by the sea have been like then?",
+      "technique": "Why might leaving the canvas bare in some places make the painting feel light?",
+      "personal": "What place near you would you like to paint outdoors?",
+      "critical": "Is a painting that looks sketchy finished or unfinished? Explain your thinking."
+    },
+    "g68": {
+      "daily": "What is the very first thing you notice, and what brings your eye back to it?",
+      "emotion": "How do the light colors and loose touches create a mood of ease?",
+      "observation": "Describe how buildings, boats, and water are arranged. What takes up the most space?",
+      "analysis": "How does the painter arrange the panorama so that your eye travels across it?",
+      "line": "How does the line of the shore and horizon organize the scene?",
+      "shape": "How do the small shapes of buildings and sails stand out against larger areas of land and sea?",
+      "color": "How does Hassam's palette capture the feeling of bright coastal light?",
+      "texture": "What do the visible brushstrokes and bare canvas tell you about the painter's methods?",
+      "space": "How does the square shape affect the sense of space?",
+      "light": "How does Hassam use light to unify the town and the water?",
+      "meaning": "How did Hassam adapt French Impressionist ideas to an American coastal town?",
+      "culture": "What does the painting suggest about the beauty of ordinary American places?",
+      "technique": "Why might the unfinished look be part of the painting's appeal?",
+      "personal": "How would the painting change if every part were highly detailed?",
+      "critical": "What choices would you make if you painted your own hometown?"
+    },
+    "g910": {
+      "daily": "How does the composition manage a panoramic view within a square format?",
+      "emotion": "How does the airy, light-filled treatment establish a mood of calm and optimism?",
+      "observation": "Examine the relation between built and natural elements. What does the arrangement suggest about the town's place in its landscape?",
+      "analysis": "Analyze how the painter organizes the foreground, the town, and the horizon.",
+      "line": "How do horizontals of land and water interact with the verticals of sails and buildings?",
+      "shape": "How does Hassam reduce buildings and boats to small, simplified forms?",
+      "color": "How does the palette convey atmospheric light without relying on strong contrasts?",
+      "texture": "What does the exposed canvas in the foreground reveal about his process and about the painting's finish?",
+      "space": "How does the sweep of space invite the viewer to look outward from a specific vantage point?",
+      "light": "How does Hassam translate the effects of bright coastal light into touches of color?",
+      "meaning": "How did American Impressionists such as Hassam adapt techniques learned in France to New England subjects?",
+      "culture": "How does the choice of Gloucester reflect a broader interest in coastal towns and summer culture around 1900?",
+      "technique": "What is the value of leaving some parts unfinished in an Impressionist painting?",
+      "personal": "How does this painting present a quiet, optimistic image of American life?",
+      "critical": "Does the painting present a place as it was, as it felt, or as an idea of New England? Defend your view."
+    },
+    "g1112": {
+      "daily": "How does Hassam negotiate between the expansiveness of a panorama and the self-contained logic of a square canvas?",
+      "emotion": "In what ways does the diffuse, luminous handling establish a mood that is serene rather than dramatic?",
+      "observation": "What interpretive questions arise from a view in which human settlement appears small within a larger coastal setting?",
+      "analysis": "Evaluate how foreground, middle ground, and horizon are structured to sustain both depth and surface.",
+      "line": "How do the interplay of horizontals and verticals contribute to a balance between stability and shimmer?",
+      "shape": "How does the abbreviated treatment of forms demonstrate the Impressionist preference for impression over description?",
+      "color": "How does the high-keyed palette suggest light and air while retaining coherence of tone?",
+      "texture": "What does the exposed canvas suggest about the boundary between sketch and finished painting in Hassam's practice?",
+      "space": "How does the vantage point implicate the viewer in a particular experience of the place?",
+      "light": "How does Hassam's optical approach to light align with and diverge from French Impressionist methods?",
+      "meaning": "How might the representation of Gloucester contribute to an image of New England as an American ideal?",
+      "culture": "How does the painting reflect the cultural context of artists' colonies and summer travel around 1900?",
+      "technique": "How does the visible handling make the process of looking part of the painting's subject?",
+      "personal": "What does this unfinished look suggest about the value you place on leaving room for the viewer or for yourself?",
+      "critical": "To what extent does the painting document a place and to what extent does it construct an atmosphere?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (landscape, coastal town, sailing boats) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An oil painting made in 1899 by the American Impressionist Childe Hassam, who worked in Gloucester, Massachusetts. The Art Institute's description notes a panoramic view of the town's buildings and sailing boats, painted with loose brushwork and with bare canvas showing in the foreground. The painting is square, about 69 centimeters on each side.",
+    "vocabulary": [
+      "American Impressionism",
+      "panorama",
+      "headland",
+      "brushwork",
+      "square format",
+      "horizon line"
+    ],
+    "directions": [
+      "Have students paint a quick outdoor scene using loose strokes, leaving some of the paper bare, and discuss how it feels.",
+      "Ask students to find the smallest and biggest shapes in the painting and talk about how size shows distance.",
+      "Discuss how artists adapt a style from one place to another and invite students to describe a place they would paint."
+    ]
+  }
+}

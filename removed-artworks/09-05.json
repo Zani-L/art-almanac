@@ -1,0 +1,151 @@
+{
+  "id": "met-43297",
+  "day": "09-05",
+  "title": "Covered box in the Shape of a Melon",
+  "artist": "Artist unknown",
+  "date": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+  "medium": "Jade (nephrite)",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/148407.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/148407.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mary Stillman Harkness, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small jade box with a lid, carved in the rounded shape of a melon. The smooth, polished stone has a soft, translucent glow.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/43297",
+    "objectId": "43297",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, medium, period (Qing dynasty, Kangxi period, 1662–1722), creditLine, classification (Jade), tags (Plants), public-domain flag, and image URLs read from the record. The objectDate field is empty, so the date field uses the record's period text."
+  },
+  "context": "This box was carved from nephrite jade in China during the Kangxi period (1662-1722) of the Qing dynasty. Jade has been valued in China for thousands of years and is very hard, so it is shaped by slow grinding and polishing rather than cutting. The box takes the form of a melon, a fruit that appears often in Chinese art.",
+  "descriptions": {
+    "k": "This little box looks like a melon. It is made from jade, a smooth, hard stone. It has a lid. Run your eyes over its round shape. What would you hide inside?",
+    "g12": "This box is made of jade, a very hard stone, and carved to look like a melon. It has a lid that fits on top. The stone is smooth and shiny. Look at the round shape and any curves. How is it like a real melon? How is it different?",
+    "g35": "This box was made in China in the late 1600s or early 1700s. It is carved from jade, a stone so hard that it must be ground and polished slowly. The carver shaped it like a melon and made a lid that fits. Look at the curves and the smooth surface. How does the carver turn a stone into something that looks like fruit?",
+    "g68": "Made in the Kangxi period, this box shows how jade carvers could turn a hard stone into a fruit-shaped container. Jade is shaped by grinding with abrasives, which takes time and patience, so a smooth, rounded form like this reflects great skill. Melons often appear in Chinese art and are sometimes linked with many descendants because of their many seeds. How do shape and polish make a box look like fruit? What does the choice of a melon suggest?",
+    "g910": "This jade box translates a familiar fruit into a luxury object. Because nephrite is extremely hard, the carver works by abrasion, so the smooth swelling forms and the fit of the lid express technical mastery. Melons and gourds appear in Chinese decorative arts and are sometimes associated with abundance and descendants, but the Met's record does not state a specific meaning for this piece. Consider how the object balances naturalistic imitation with the purity of polished stone.",
+    "g1112": "A Kangxi-period nephrite box shaped like a melon, this object collapses the categories of container, sculpture, and still life. Its polished surfaces and translucent stone call attention to material as much as to the fruit. Melon imagery in Chinese art is often read as auspicious, but caution is needed in assigning that meaning to a single object. How does jade, a material long associated with value and virtue, affect our reading of something as humble as a melon?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What treasure would you keep inside this melon-shaped jade box?",
+      "emotion": "Does this melon box feel calm or lively to you? What shows you?",
+      "observation": "Find the lid of the box. Where does it meet the bottom?",
+      "analysis": "What part of the box do your eyes go to first? Why?",
+      "line": "Trace a curvy line from the top of the melon to the bottom. Where does it bend most?",
+      "shape": "This box is shaped like a melon. What other round things does it look like?",
+      "color": "What color is the jade? Does it look the same all over?",
+      "texture": "The jade is polished smooth. How do you think it would feel in your hand?",
+      "space": "The box has an inside you cannot see. What do you think the inside looks like?",
+      "light": "Where does the polished stone shine or glow?",
+      "meaning": "Melons have lots of seeds inside. What might a melon mean on a special box?",
+      "culture": "People in China have loved jade for thousands of years. Why might they love a stone so much?",
+      "technique": "Jade is very hard, so it is ground slowly. Why would that take a long time?",
+      "personal": "If you could turn a favorite fruit into a box, which fruit would you choose?",
+      "critical": "Is this box more like a fruit or more like a stone? What do you see that decides?"
+    },
+    "g12": {
+      "daily": "How does the carver make a hard stone look like a soft, round melon?",
+      "emotion": "What feeling does the smooth, shiny jade give you? Which part helps?",
+      "observation": "Describe the melon box. What can you find on the lid and on the body?",
+      "analysis": "How do the lid and the body fit together to make one round shape?",
+      "line": "Find the curved lines of the melon. How do they make it feel full and round?",
+      "shape": "What shapes make up the melon, the lid, and the base?",
+      "color": "The jade has its own natural color. How does it change from place to place?",
+      "texture": "Jade is hard but polished until it is very smooth. How might it feel when you touch it?",
+      "space": "The box is a solid object you can hold. Why can you not see the whole thing in one picture?",
+      "light": "Jade can glow a little when light passes into it. Where does it look glowing?",
+      "meaning": "A melon has many seeds. Why might it be a good picture for wishing a family well?",
+      "culture": "Jade was a treasure in China. What does it say about how people valued this box?",
+      "technique": "A jade carver grinds the stone with sand instead of cutting it. Why does this take so long?",
+      "personal": "What special thing would you keep in a jade box like this?",
+      "critical": "A melon is an ordinary fruit, but this box is made of precious stone. Why might the maker choose that?"
+    },
+    "g35": {
+      "daily": "How does the carver make a box that is both a useful container and a sculpture of a melon?",
+      "emotion": "What mood does the smooth jade give the box, and what choices create it?",
+      "observation": "Look for one minute. What small details on the melon's surface or the lid do you notice?",
+      "analysis": "How did the carver design the lid so the melon still looks like one whole fruit?",
+      "line": "How do the curved lines on the melon box guide your eye around it?",
+      "shape": "How does the carver use rounded forms to make the melon feel full?",
+      "color": "How does the natural color of jade affect the look of the melon?",
+      "texture": "How might the polished jade feel different from the surface of a real melon?",
+      "space": "How is a three-dimensional box different from a flat picture of a melon?",
+      "light": "How does light play across the polished surface of the jade?",
+      "meaning": "Melons are sometimes linked with many children and good fortune. How might that idea shape this box?",
+      "culture": "Why might jade have been chosen for a precious small box in the Kangxi period?",
+      "technique": "Jade is too hard to carve with a knife. How might a carver shape it instead?",
+      "personal": "Think of an ordinary object you would like to turn into something precious. What would it be?",
+      "critical": "Is it surprising to make a fruit out of precious stone? Explain your thinking."
+    },
+    "g68": {
+      "daily": "How does the carver combine the look of a natural melon with the qualities of polished jade?",
+      "emotion": "What mood does the smooth, glowing surface create, and which choices produce it?",
+      "observation": "Examine the box from lid to base. Which details show careful craftsmanship?",
+      "analysis": "How does the carver ensure that the lid and body read as one continuous form?",
+      "line": "How do the contours of the melon create a sense of fullness and softness?",
+      "shape": "How do the swelling forms of the melon contrast with the thin line where the lid meets the box?",
+      "color": "How does the jade's natural coloring serve as a replacement for painted color?",
+      "texture": "How does polishing give the stone a different feel from a fruit's natural skin?",
+      "space": "How does the hollow inside of the box change how we think of the melon's solid form?",
+      "light": "How does the translucence of jade create a soft glow unlike opaque stones?",
+      "meaning": "Why might a melon, with its many seeds, be chosen for an object given as a gift?",
+      "culture": "How does the value of jade in Chinese culture affect the way we read this box?",
+      "technique": "Why would grinding and polishing a hard stone demand patience as well as skill?",
+      "personal": "What does it mean to turn something ordinary into something treasured? Have you seen examples in your life?",
+      "critical": "Is the melon an ordinary subject given high status, or is it a high-status subject? Argue your view."
+    },
+    "g910": {
+      "daily": "How does the carver reconcile naturalistic imitation with the pure, abstract qualities of polished jade?",
+      "emotion": "How does the soft glow of the stone shape the object's emotional tone?",
+      "observation": "Describe the box's visual hierarchy: how do the lid, body, and any carved details compete for attention?",
+      "analysis": "Analyze how the swelling volumes are organized into a unified, usable object.",
+      "line": "How does the contour of the melon create a sense of tension and fullness?",
+      "shape": "How does the simplified fruit shape balance natural form and designed geometry?",
+      "color": "How does the natural tonal variation of jade add richness without applied color?",
+      "texture": "How does the polish alter the material presence of the stone?",
+      "space": "How does the box's hollow interior contribute to its meaning as a container?",
+      "light": "How does the translucence of nephrite affect how form and surface read under changing light?",
+      "meaning": "How might the melon function as a symbol, and where do interpretations become uncertain?",
+      "culture": "How does jade's long association with virtue and rank frame a Kangxi-period luxury object?",
+      "technique": "What does the abrasive carving of jade reveal about labor, time, and skill?",
+      "personal": "How do the precious objects in your life take on meanings beyond their appearance?",
+      "critical": "How might the elevation of a humble fruit into jade challenge or reinforce social hierarchies of value?"
+    },
+    "g1112": {
+      "daily": "What does the transformation of a familiar fruit into jade suggest about how value is made?",
+      "emotion": "How does the serenity of the polished stone reflect or complicate the pleasure of a fruit-shaped object?",
+      "observation": "Describe the box as precisely as you can. Where does the word 'melon' presuppose cultural knowledge?",
+      "analysis": "Analyze how the object negotiates the demands of sculpture, container, and imitation.",
+      "line": "How does the outline of the melon operate between realism and idealization?",
+      "shape": "How does the work participate in broader traditions of fruit and gourd forms in Chinese decorative arts?",
+      "color": "How does jade's color, regarded as a mark of quality, shape judgments about this object?",
+      "texture": "How does the contrast between natural skin and polished stone raise questions about illusion?",
+      "space": "How does the interior space of a covered box alter our understanding of sculpture?",
+      "light": "How does jade's partial translucence make appearance dependent on viewing conditions?",
+      "meaning": "Consider melon imagery as auspicious, decorative, or both. What evidence would favor one reading over another?",
+      "culture": "How does the Qing court's and elite's engagement with jade affect the interpretation of objects like this one?",
+      "technique": "What does the labor of jade working imply about patronage and status in Kangxi-era China?",
+      "personal": "How does knowing the effort behind an object alter your emotional response to it?",
+      "critical": "Without information on the owner or use, how should we qualify claims about the box's meaning?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Covered box in the Shape of a Melon), classification (Jade), medium (nephrite), and tags (Plants) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty (Kangxi period, 1662-1722) jade box in the shape of a melon. Confirm from the image whether any carved vine, leaf, or surface detail is present before using those prompts.",
+    "vocabulary": ["nephrite", "jade", "abrasion", "Kangxi period", "container", "auspicious"],
+    "directions": [
+      "Have students sculpt a fruit-shaped box from clay with a lid that fits, and discuss the challenges.",
+      "Discuss why some materials, such as jade, gold, or glass, are considered precious in different cultures.",
+      "Ask students to find other fruit or plant forms in decorative arts across the archive."
+    ]
+  }
+}

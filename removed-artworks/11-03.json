@@ -1,0 +1,158 @@
+{
+  "id": "met-443086",
+  "day": "11-03",
+  "title": "Towel End",
+  "artist": "Artist unknown",
+  "date": "early 19th century",
+  "medium": "Linen, silk, metal wrapped thread; plain weave, embroidered",
+  "region": "Turkey",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/51037.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/51037.jpg",
+    "credit": "The Metropolitan Museum of Art, Anonymous Gift, 1879",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "The embroidered end of a linen towel from Turkey, decorated with flowers stitched in silk and metal-wrapped thread.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/443086",
+    "objectId": "443086",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, classification, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "The decorated end of a towel made in Turkey in the early 19th century. It is plain-woven linen embroidered with silk and metal-wrapped thread, and the Met's record lists flowers among its imagery.",
+  "descriptions": {
+    "k": "This is the end of a towel from Turkey. It is made of linen and stitched with silk and shiny metal thread. Look for flowers. Where do they shine?",
+    "g12": "This is the decorated end of a towel from Turkey, made about 200 years ago. The cloth is linen. Flowers are stitched on it with silk thread and thread wrapped in metal, which can glitter. Find a flower. What colors and shapes does it have?",
+    "g35": "A towel end is the decorated part of a long towel. This one was made in Turkey in the early 1800s from linen, with silk and metal-wrapped thread embroidered into flowers. Metal thread catches light and shimmers. Look at how the flowers are arranged. Why might a maker put so much work into a towel?",
+    "g68": "This towel end from early 19th-century Turkey is plain-woven linen embroidered in silk and metal-wrapped thread, with flowers as its main motif. Embroidered towels in the Ottoman world were often displayed and gifted as well as used, though the record does not describe this one's use. Notice how the flowers sit on the linen and how metal thread adds sparkle. How might the choice of materials make an everyday cloth feel precious?",
+    "g910": "Made in Turkey in the early 19th century, this towel end shows how Ottoman-era households elevated practical cloth with embroidery. Silk and metal-wrapped thread are worked into floral forms on plain-woven linen, and the metallic thread lends the surface a glint. Embroidered towels could be displayed or exchanged as signs of skill and hospitality, although this object's specific history is not given in the record. Consider how contrast of matte linen and lustrous thread shapes the flowers' emphasis.",
+    "g1112": "This early 19th-century Turkish towel end, catalogued separately from its original length, illustrates the Ottoman tradition of lavishly embroidered household linens that moved between utility and display. Silk and metal-wrapped thread on linen produce floral imagery whose luster depends on light and viewing angle. The fragmentary state invites caution: the Met's record does not tell us what the whole towel looked like or how it was used. Interpretation should rest on visible technique and materials rather than assumptions about ceremony or symbolism."
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the flower that sparkles most. What colors do you see in it?",
+      "emotion": "Does this towel end feel plain or special? What makes you say so?",
+      "observation": "Count the flowers you can find on this towel end.",
+      "analysis": "Where do your eyes go first on this towel end? What do they look at next?",
+      "line": "Find a stitched line that curves like a stem. Trace it in the air.",
+      "shape": "What shapes do the flower petals and leaves make?",
+      "color": "Which color do you see most? Which looks like gold or silver?",
+      "texture": "Metal thread feels different from linen. How do you think each feels to touch?",
+      "space": "Where are the flowers on the towel? Is the stitching at the end only, or all over?",
+      "light": "Metal thread can glitter. Where might it catch the light on this towel?",
+      "meaning": "Why would someone make a towel end so fancy?",
+      "culture": "This towel end comes from Turkey. What things in your home are used every day but also decorated?",
+      "technique": "A needle carries silk and metal thread through linen. Why do you think it takes so long?",
+      "personal": "What would you like stitched on a towel to give someone?",
+      "critical": "This is only the end of a towel. What clue shows that this part was meant to be seen?"
+    },
+    "g12": {
+      "daily": "How do silk and metal thread work together to make the flowers shine? Point to a bright spot.",
+      "emotion": "Is this towel end calm or showy? Which parts help you decide?",
+      "observation": "Describe a flower on the towel end. What are its shape, color, and leaves like?",
+      "analysis": "How are the flowers arranged on the linen? Do they form a pattern?",
+      "line": "Look for curving lines that make stems or leaves. How do they help the flowers seem to grow?",
+      "shape": "Find the biggest flower shape. How does it compare to the smaller ones?",
+      "color": "How do the silk colors and the metal thread look beside the plain linen?",
+      "texture": "How are linen, silk, and metal thread different to look at?",
+      "space": "Where does the linen stay plain? Why might the maker leave some cloth bare?",
+      "light": "Why do you think metal thread looks different when you move?",
+      "meaning": "People often gave special cloths as gifts. Why might a towel like this be a gift?",
+      "culture": "People in Turkey made embroidered towels for their homes long ago. What decorated cloths do people use in your home?",
+      "technique": "The Met calls this a towel end. What do you think that tells us about how the cloth was made?",
+      "personal": "If you could decorate a cloth with flowers and shiny thread, which flower would you choose?",
+      "critical": "We only have the end of a towel. What might we wonder about the rest of it?"
+    },
+    "g35": {
+      "daily": "How do the flowers, silk, and metal thread show that this towel end was more than an ordinary cloth?",
+      "emotion": "What mood do the flowers and shimmer create? Which details add to it?",
+      "observation": "Look closely at a small area of embroidery. What details about stitches or thread do you notice?",
+      "analysis": "How does the embroiderer arrange the flowers on the linen to make a balanced design?",
+      "line": "How do stitched lines make stems and petals? Which lines are thin, and which are thick?",
+      "shape": "How do rounded flowers and pointed leaves fit together on the towel end?",
+      "color": "How does metal thread stand out beside colored silk thread and pale linen?",
+      "texture": "How does embroidery add raised texture to a flat piece of linen?",
+      "space": "How does the amount of stitching at the end compare with the plain cloth? What does that do for the design?",
+      "light": "Metal-wrapped thread changes with the light. How might the towel end look different in a bright room and a candlelit one?",
+      "meaning": "Why might a family show an embroidered towel in their home instead of hiding it away?",
+      "culture": "Embroidered cloths were important in Ottoman households. What do they suggest about how people showed care for guests?",
+      "technique": "Metal-wrapped thread has a metal strip wound around a core. Why might it be harder to stitch than plain silk?",
+      "personal": "Think of an everyday object you have decorated. Why did you do it?",
+      "critical": "The record calls this a towel end, not a whole towel. How might that change how we study it?"
+    },
+    "g68": {
+      "daily": "How do the materials and floral design turn this practical linen into a prized object?",
+      "emotion": "How does the shimmer of metal thread influence the mood of the piece?",
+      "observation": "List the elements in the embroidery, from large to small. Which are hardest to notice?",
+      "analysis": "How are the flowers organized on the towel end, and what do you notice about repetition or variation?",
+      "line": "How do outlines and filled areas combine in the embroidered flowers?",
+      "shape": "How do the flowers simplify natural forms into stylized shapes?",
+      "color": "How do the contrasts between silk, metal thread, and linen focus attention?",
+      "texture": "How does the embroidery create layers of surface over plain-woven linen?",
+      "space": "How does the towel end's decorated area relate to the plain part of the cloth beyond it?",
+      "light": "How does metal thread make the object's appearance depend on viewing conditions?",
+      "meaning": "Flowers can symbolize many things. Why should we be cautious assigning a single meaning here?",
+      "culture": "How might embroidered towels reflect hospitality and skill in an Ottoman household?",
+      "technique": "How does embroidery with metal-wrapped thread differ from embroidery with silk alone?",
+      "personal": "What everyday things in your life are made special with extra care, and why?",
+      "critical": "Why might a museum keep only a fragment of a textile, and what do we gain and lose from viewing it?"
+    },
+    "g910": {
+      "daily": "How does the embroidery turn a utilitarian towel into an object of display?",
+      "emotion": "How do luster, color, and floral rhythm combine to create a sense of richness?",
+      "observation": "Describe the visual hierarchy of the towel end. What draws attention first, and which devices produce that emphasis?",
+      "analysis": "Analyze how the arrangement of flowers uses repetition and variation to organize the decorated end.",
+      "line": "How does stitched line function as both outline and ornament in the flowers?",
+      "shape": "How do stylized floral shapes balance naturalism and pattern?",
+      "color": "How does the interplay of colored silk and metallic thread create contrast and unity?",
+      "texture": "How does the pairing of matte linen and lustrous thread make texture part of the design?",
+      "space": "How does the decorated end operate as a compositional field distinct from the rest of the cloth?",
+      "light": "How does metallic thread respond to light, and why might makers have valued that quality?",
+      "meaning": "How might flowers and luxury materials signal hospitality, skill, or status, and where do these readings become speculative?",
+      "culture": "How do embroidered household linens connect Ottoman domestic life to wider traditions of textile display?",
+      "technique": "What skill is needed to embroider with metal-wrapped thread on a plain-woven ground?",
+      "personal": "How does handwork in the objects you use make you value them differently?",
+      "critical": "How does the fact that we have only a towel end shape what we can claim about its original use?"
+    },
+    "g1112": {
+      "daily": "What can be argued about this towel end's role from its materials and decoration, and what is beyond the evidence?",
+      "emotion": "How does lustrous embroidery generate a sense of luxury, and how might that response vary across audiences?",
+      "observation": "Describe the towel end precisely. How do terms like fragment, end, or border influence your seeing?",
+      "analysis": "Analyze how the decorated end relates to the rest of the cloth, as far as the evidence allows.",
+      "line": "How does embroidery with metallic thread challenge distinctions between drawing, ornament, and surface?",
+      "shape": "How does floral stylization reflect inherited conventions as well as observation?",
+      "color": "How might tarnish or wear of metal thread and fading of silk dyes have changed the towel end since it was made?",
+      "texture": "In what ways do materials signal cost and skill, and how are those signals read today?",
+      "space": "How does the fragmentary state alter our perception of the composition?",
+      "light": "How does the sensitivity of metallic thread to light complicate its documentation and display?",
+      "meaning": "Evaluate competing readings of embroidered towels as practical items, gifts, or markers of status. What evidence is needed?",
+      "culture": "How do Ottoman embroidered linens challenge hierarchies that separate domestic arts from fine arts?",
+      "technique": "What does the combination of silk and metal-wrapped thread imply about workshop networks, trade, and domestic labor?",
+      "personal": "How does your own relation to everyday luxury affect how you read this object?",
+      "critical": "How should museums balance beauty and uncertainty when presenting fragments of larger objects?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Embroidered), medium, country, and tags (Flowers) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The embroidered end of a linen towel made in Turkey in the early 19th century, worked with silk and metal-wrapped thread. The Met's record gives no maker, workshop, or use.",
+    "vocabulary": [
+      "towel end",
+      "embroidery",
+      "metal-wrapped thread",
+      "plain weave",
+      "Ottoman",
+      "motif"
+    ],
+    "directions": [
+      "Have students use foil strips and thread to explore how metal changes the look of embroidery.",
+      "Discuss why only the end of an object might be saved, and what questions that raises.",
+      "Compare with an embroidered cloth from another region in the archive to look for shared flower motifs."
+    ]
+  }
+}

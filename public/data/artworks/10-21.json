@@ -1,0 +1,159 @@
+{
+  "id": "ahp-the-art-of-painting",
+  "day": "10-21",
+  "title": "The Art of Painting",
+  "artist": "Johannes Vermeer",
+  "date": "1666-1668",
+  "medium": "Oil on canvas",
+  "movement": "Baroque",
+  "region": "Netherlands",
+  "image": {
+    "url": "/images/ahp-the-art-of-painting.jpg",
+    "credit": "Kunsthistorisches Museum, Vienna; via arthistoryproject.com",
+    "license": "Public domain (as stated by arthistoryproject.com)",
+    "licenseUrl": "https://www.arthistoryproject.com/artists/johannes-vermeer/the-art-of-painting/",
+    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15357/johannes-vermeer-the-art-of-painting-1668-trivium-art-history.jpg"
+  },
+  "altText": "A painter seen from behind sits at an easel in a bright room, facing a young woman model; a large curtain hangs at the side, a map covers the back wall and a checkered floor spreads across the room.",
+  "source": {
+    "museum": "Kunsthistorisches Museum, Vienna",
+    "url": "https://www.arthistoryproject.com/artists/johannes-vermeer/the-art-of-painting/",
+    "objectId": "the-art-of-painting",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "arthistoryproject.com artwork page text (title, year, medium, public-domain statement)"
+  },
+  "context": "An oil painting on canvas by Johannes Vermeer, dated 1666 to 1668 on its source page and held by the Kunsthistorisches Museum in Vienna. The page tags it Studio, and Vermeer was a Dutch painter of the Baroque period.",
+  "descriptions": {
+    "k": "A painter sits and paints a woman. A big curtain hangs at the side. A map is on the wall. The floor has black and white squares. What else do you see?",
+    "g12": "Johannes Vermeer painted a painter at work in a studio. The painter sits with his back to us. A big curtain is pulled to one side, like opening a stage. What do you see on the wall and floor?",
+    "g35": "Johannes Vermeer painted The Art of Painting between 1666 and 1668. We look into a studio where a painter works at an easel. A heavy curtain is pulled aside, as if we are being invited in. The page tags it Studio. What objects can you find, and what might they tell you about painting?",
+    "g68": "The Art of Painting (1666-1668) by Johannes Vermeer is a Baroque oil painting that shows a painter at work in his studio. The pulled-back curtain, the map and the checkered floor build a layered scene. Vermeer is known for soft light and quiet interiors. How do these details draw you in, and what might the painting say about the act of painting itself?",
+    "g910": "Vermeer's The Art of Painting (1666-1668) turns the studio into a subject, with a painter seen from behind and a model nearby. The curtain, patterned floor and wall map create depth and symbolic possibilities, while the soft light makes everything feel still. How does the composition invite you to step into the room, and what might it suggest about painting, knowledge or fame?",
+    "g1112": "The Art of Painting (1666-1668) is often discussed as Vermeer's reflection on painting itself, with a painter at the easel, a model and a rich interior. Scholars debate how much symbolism is intended in the map, the curtain and the costume. The composition draws the viewer in as a witness. How do you weigh a reading of this painting as a quiet scene against readings as a statement about art, and what evidence supports each?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the painter. Where is he sitting?",
+      "emotion": "How does the painter's quiet studio with its big curtain make you feel?",
+      "observation": "Find the curtain, the map and the floor. Which one is biggest?",
+      "analysis": "Who is the painter painting, and where is she standing?",
+      "line": "Trace the edge of the black and white floor with your finger. Which way does it go?",
+      "shape": "Find the squares on the floor. How many colors are they?",
+      "color": "Which colors do you see in the painter's clothes?",
+      "texture": "The curtain looks heavy and soft. How would it feel to touch?",
+      "space": "Is the painter close to you or far away? What tells you?",
+      "light": "Where does the light come from in the room?",
+      "meaning": "Why do you think the painter has his back to us?",
+      "culture": "Vermeer painted this studio in the Netherlands. What would you tell a friend about the painter at his easel?",
+      "technique": "The painter in the picture holds a brush. What do you think he will paint next?",
+      "personal": "If you were in this studio, what would you paint?",
+      "critical": "What would you add to the room to make it more like your own?"
+    },
+    "g12": {
+      "daily": "What tells you that The Art of Painting takes place in a painter's studio?",
+      "emotion": "What mood do the soft light and quiet room give you, and which parts make you feel it?",
+      "observation": "List everything you see in the room, starting with the curtain.",
+      "analysis": "Why does your eye go to the painter and the model before the map?",
+      "line": "How do the lines of the floor tiles lead your eyes into the room?",
+      "shape": "Which shapes repeat in the floor, the map and the chandelier?",
+      "color": "How do the warm and cool colors work together in the painter's clothes and the room?",
+      "texture": "How did Vermeer make the heavy curtain look soft and thick?",
+      "space": "How does the room look deep, with the curtain close and the painter farther back?",
+      "light": "Where does the window light fall on the painter, the model and the map, and what does it help you see?",
+      "meaning": "Why might Vermeer have painted a painter at work?",
+      "culture": "What can a painting from the Netherlands long ago tell us about a painter's studio?",
+      "technique": "How can a painter use light to make cloth, a map and a wall look different?",
+      "personal": "What would you ask the painter if you could talk to him?",
+      "critical": "Why do you think so many people love quiet room paintings like this?"
+    },
+    "g35": {
+      "daily": "Which details in The Art of Painting, such as the map, the curtain and the floor, show how carefully Vermeer painted the room?",
+      "emotion": "What feeling comes from the quiet light and the painter's concentration, and which details support it?",
+      "observation": "Study the objects in the room. Where do you find the most detail?",
+      "analysis": "How does the placement of the painter and the model guide your eyes through the room?",
+      "line": "How do the lines of the tiled floor and the edges of the wall give the picture structure?",
+      "shape": "How do the squares on the floor connect to other shapes in the room?",
+      "color": "How do the warm tones and the cool blues and grays shape the mood?",
+      "texture": "How does Vermeer show the difference between heavy cloth, smooth floor and paper map without touching them?",
+      "space": "What clues tell you how far back the room goes, and where does your eye stop?",
+      "light": "How does the soft light from the left help you notice certain things first?",
+      "meaning": "What might Vermeer want us to think about painting by showing a painter at work?",
+      "culture": "What does the painting tell us about daily life and craft in the Netherlands in the 1600s, and what can't it tell us?",
+      "technique": "How is smooth, careful oil painting different from rough, quick painting?",
+      "personal": "What would you ask Vermeer about why he put the curtain in front?",
+      "critical": "Some viewers say a painting of a quiet room is boring. What evidence from the picture shows it is interesting?"
+    },
+    "g68": {
+      "daily": "How does the pulled-back curtain in The Art of Painting position you as a viewer, and why might Vermeer have done that?",
+      "emotion": "Which choices of light, color and pose give the painting its mood of calm focus?",
+      "observation": "Compare the way the painter, the model and the background are painted. What differences stand out?",
+      "analysis": "How does the composition use the curtain, the figure and the tiled floor to lead you into the room?",
+      "line": "How do the straight lines of the map, the floor and the furniture structure the picture?",
+      "shape": "How do repeated squares and rectangles make the room feel orderly?",
+      "color": "How does the limited, harmonious palette affect the atmosphere?",
+      "texture": "How does Vermeer use fine brushwork to show different textures of cloth, wood and paper?",
+      "space": "How does the perspective of the floor create a believable, deep room?",
+      "light": "How does the soft, directional light shape forms without harsh shadows?",
+      "meaning": "What might the map and the costume suggest about the subject of the painting, and what remains uncertain?",
+      "culture": "How might the Dutch Golden Age interest in craft, trade and learning have shaped a painting like this?",
+      "technique": "How does painting from careful observation differ from painting from imagination in what the artist can achieve?",
+      "personal": "What emotions would you read in the scene, and what would you avoid assuming about the painter?",
+      "critical": "Is this painting mostly about a painter, about painting or about looking? Use details to explain."
+    },
+    "g910": {
+      "daily": "Which formal choices in The Art of Painting create the effect of a staged yet intimate interior?",
+      "emotion": "What emotional register results from the quiet light and the painter's turned back, and how do details reinforce it?",
+      "observation": "Examine the treatment of fabric, map and wall. What does the surface handling reveal about Vermeer's method?",
+      "analysis": "How does the arrangement of curtain, painter, model and map establish a visual hierarchy?",
+      "line": "How does linear perspective, especially in the floor, organize the space?",
+      "shape": "How does the repeating geometry of tiles and map create rhythm?",
+      "color": "How does the controlled palette unify the scene?",
+      "texture": "How does the fine, soft handling of paint differ from visible, energetic brushwork?",
+      "space": "How does the layering of foreground curtain and deeper room construct depth?",
+      "light": "How does the soft, side light give both realism and a contemplative mood?",
+      "meaning": "How might the map, the curtain and the costume be read symbolically, and where do scholars disagree?",
+      "culture": "How does the painting reflect Dutch Baroque interests in observation, craft and pride in painting?",
+      "technique": "How does the choice of a studio setting turn technique into subject?",
+      "personal": "What does the painting make you consider about the relationship between artist, model and viewer?",
+      "critical": "To what extent does the quiet, polished surface hide or reveal the labor of painting?"
+    },
+    "g1112": {
+      "daily": "How does the combination of an observed interior and a possibly allegorical staging allow The Art of Painting to support competing readings?",
+      "emotion": "Might the stillness belong to the scene or to the viewer's expectations of Vermeer? Weigh the visual evidence.",
+      "observation": "Scan the junctions of curtain, figure, map and floor. How do these thresholds shape your reading of the space as real or constructed?",
+      "analysis": "How does the placement of the painter, seen from behind, produce focus while withholding identity?",
+      "line": "How do the geometry of the tiled floor and the straight edges of the map relate to Dutch interests in measurement and order?",
+      "shape": "In what ways do the repeating geometric forms operate as both description and symbolic framework?",
+      "color": "How does the restrained palette serve a conception of harmony between figure and setting?",
+      "texture": "How does the exacting surface relate to ideas about craft, authority and the status of painting as a liberal art?",
+      "space": "How does the staged foreground curtain challenge the distinction between peeking into a room and being shown a display?",
+      "light": "How does the quality of light contribute to a feeling of time suspended, and what does it exclude?",
+      "meaning": "How might the painting be read as a statement about the dignity of painting, and how do we weigh that reading against its apparent simplicity?",
+      "culture": "How do questions about the map, the model's costume and the title complicate any claim that the meaning is settled?",
+      "technique": "How does Vermeer's slow, observational approach contrast with the idea of artistic genius as sudden inspiration?",
+      "personal": "How does your own relationship to looking at art shape your response to a painting about the act of making it, and does the work meet or resist your expectation?",
+      "critical": "What would a persuasive argument look like that The Art of Painting is primarily a technical demonstration rather than a symbolic image, and how would you counter it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium (oil on canvas), years (1666-1668), collection (Kunsthistorisches Museum, Vienna) and page tag (Studio) read from the arthistoryproject.com page text; no concerning terms. The alt text and some questions refer to well-known elements of the work (curtain, map, checkered floor, painter at an easel); a person should confirm them against the image. Only page text was read; the image file was not visually inspected, and a person should confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil painting from 1666 to 1668 by Johannes Vermeer, held by the Kunsthistorisches Museum in Vienna and tagged Studio on its source page. It shows a painter at work and is often discussed as a reflection on painting itself.",
+    "vocabulary": [
+      "Baroque",
+      "studio",
+      "perspective",
+      "interior",
+      "symbolism",
+      "oil painting"
+    ],
+    "directions": [
+      "Have students sketch a corner of their classroom using a tiled-floor perspective grid, then compare how lines create depth.",
+      "Ask students to list what the objects in the room might say about the painter and what they cannot say.",
+      "Discuss why an artist might paint the act of painting."
+    ]
+  }
+}

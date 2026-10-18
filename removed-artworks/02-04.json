@@ -1,0 +1,152 @@
+{
+  "id": "met-42278",
+  "day": "02-04",
+  "title": "Maebyeong with lotus decoration",
+  "artist": "Artist unknown (Korea)",
+  "date": "late 11th–early 12th century",
+  "medium": "Stoneware with carved and incised design under celadon glaze",
+  "movement": "Goryeo dynasty celadon",
+  "region": "Korea",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP254506.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP254506.jpg",
+    "credit": "The Metropolitan Museum of Art, Fletcher Fund, 1927",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall ceramic vase with a small mouth, broad rounded shoulders, and a body that narrows toward the base. It is covered in a soft, translucent green glaze, with a lotus design lightly carved into the surface.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/42278",
+    "objectId": "42278",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, classification, tags, public-domain flag, image URLs, credit line) and the Met catalog page text describing the shape and design"
+  },
+  "context": "A Korean vase of the Goryeo dynasty (918-1392), shaped from stoneware and covered in celadon glaze. Maebyeong means 'plum bottle', and the Met notes that this broad-shouldered form developed from earlier Chinese vessels. The lotus design is carved and incised under the glaze, and it is about 35 cm tall.",
+  "descriptions": {
+    "k": "This is a tall vase from Korea. It is soft green and smooth. A lotus flower is carved into it, but you have to look closely to see it. Where is the lotus hiding?",
+    "g12": "People in Korea made this vase almost a thousand years ago. It has a small opening, wide shoulders, and a body that gets thinner at the bottom. The green glaze is smooth and glassy. A lotus flower is carved into the clay beneath it. Can you find the lotus? Why do you think the carving is so gentle?",
+    "g35": "This vase is called a maebyeong, which means 'plum bottle.' Potters in Korea made it during the Goryeo dynasty from stoneware, then covered it with a see-through green glaze called celadon. A lotus design is carved and scratched into the clay underneath. Look at the shape: wide shoulders, a small mouth, and a narrow base. How do the shape and the faint carving work together?",
+    "g68": "This maebyeong, made in Korea in the late 11th or early 12th century, shows how Goryeo potters mastered celadon. The shape was inspired by earlier Chinese vessels, but Korean versions developed fuller forms with broad shoulders. The lotus is carved and incised into the clay, then covered in translucent glaze, so the design appears softly, almost like a memory. Why might potters choose subtle decoration over bold color?",
+    "g910": "Goryeo celadon is admired for refined shape and restrained decoration, and this maebyeong demonstrates both. Its broad shoulders and tapering body show a Korean development of an earlier Chinese form, while a carved and incised lotus lies beneath translucent glaze, visible mainly as shifts in depth and tone. The Met describes the effect as subtle. How does that restraint shape the way we look, and how might a lotus have been understood in the Buddhist culture of the period?",
+    "g1112": "This maebyeong joins a form with Chinese precedents to a distinctly Goryeo sense of proportion and surface. The carved and incised lotus is visible only as the translucent celadon pools into its grooves, so the decoration depends on light and viewing angle. Scholars and viewers have read lotus imagery in this period in connection with Buddhism, though a vessel's specific use or meaning is not always documented. Consider how subtlety and function, such as holding wine or displaying flowers, may have shaped the object's value."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look for the lotus flower carved into the green vase. Where do you find it, and what shape does it make?",
+      "emotion": "The vase looks smooth and calm. Does it make you feel quiet or loud inside?",
+      "observation": "Point to the mouth, the shoulders, and the bottom of the vase. Which part is the widest?",
+      "analysis": "Where does your eye go first on this vase? Why do you think it goes there?",
+      "line": "Trace the curve of the vase from its small mouth down to its bottom with your finger.",
+      "shape": "The vase has wide shoulders and a smaller bottom. What does that shape remind you of?",
+      "color": "The vase is a soft green. What things in nature are that same color?",
+      "texture": "The glaze looks glassy and smooth. How would it feel under your fingers?",
+      "space": "If you could look inside this tall vase, what do you think you would find?",
+      "light": "Where does the light make the green glaze look shiny?",
+      "meaning": "A lotus grows in muddy water and opens as a clean flower. What might people like about a lotus?",
+      "culture": "This vase is from Korea, almost a thousand years ago. What might people have put inside a vase like this?",
+      "technique": "The potter cut lines into the clay before adding the green coat. How do those lines make the flower?",
+      "personal": "What shape from nature would you carve into a vase of your own?",
+      "critical": "The flower is hard to see at first. Why might the maker want us to look closely?"
+    },
+    "g12": {
+      "daily": "Find the lotus carved into the vase. What clues help you see it through the green glaze?",
+      "emotion": "How does the smooth green surface make you feel? Which parts of the vase help you feel that way?",
+      "observation": "Describe the shape of the vase from top to bottom. What parts do you see?",
+      "analysis": "How does the vase's shape lead your eyes from the small opening to the wide shoulders?",
+      "line": "Follow the outline of the vase. Where does the curve swell out and where does it pull in?",
+      "shape": "Look at the lotus petals. What shapes do they make, and how do they fit the round vase?",
+      "color": "This vase has mostly one color. How does that one color make the carved flower stand out softly?",
+      "texture": "The surface looks glassy, but the flower is carved into the clay. How might those two textures feel different?",
+      "space": "This vase is about as tall as a school ruler stood on its end, a bit taller. How might its size change how people used it?",
+      "light": "Where does the glaze look darker or lighter? Why might light change how you see the carving?",
+      "meaning": "Lotus flowers grow from muddy ponds and bloom clean and bright. Why might people choose that flower for a vase?",
+      "culture": "Korean potters in the Goryeo dynasty were famous for green vases like this. What would make a person want to own one?",
+      "technique": "Potters carved the lotus before the glaze. How does a see-through glaze change how the carving looks?",
+      "personal": "If you made a vase, what flower or animal would you carve into it? Why?",
+      "critical": "Some people like bold, bright decorations and others like quiet ones. Which does this vase show, and what do you think about it?"
+    },
+    "g35": {
+      "daily": "The lotus on this maebyeong is carved so gently that it nearly disappears into the glaze. Why might a potter choose such a quiet design?",
+      "emotion": "How would you describe the feeling of this vase, and which parts of its shape and surface create that feeling?",
+      "observation": "Take a full minute to look for the carved lotus petals. What details appear that you did not see at first?",
+      "analysis": "How do the vase's broad shoulders, narrow base, and small mouth work together to make a balanced form?",
+      "line": "Compare the smooth outline of the vase with the carved lines of the lotus. How are they alike, and how are they different?",
+      "shape": "How do the curved petals of the lotus echo the rounded shape of the vase itself?",
+      "color": "Celadon is a soft gray-green. How does using only this one color change the way you notice the shape and the carving?",
+      "texture": "How do the glossy glaze and the carved clay beneath it create two layers for your eyes?",
+      "space": "A maebyeong has a very small opening for such a large body. What do you think that shape would be good for holding?",
+      "light": "Where does light collect in the glaze, and how might it make the carved lines seem darker or deeper?",
+      "meaning": "Lotus flowers are important in Buddhism, which was widely followed in Goryeo Korea. How might that help explain why the lotus appears here?",
+      "culture": "The Met says the maebyeong shape was inspired by earlier Chinese vessels, but Korean potters made it their own. How can one culture borrow an idea and change it?",
+      "technique": "The design was carved and incised into the clay before the glaze was added. Why might the order of those steps matter?",
+      "personal": "Think of an object in your home with a quiet design. What do you like about decoration that is subtle?",
+      "critical": "Is it better for art to be seen at once, or to reward slow looking? Use this vase to explain your thinking."
+    },
+    "g68": {
+      "daily": "How does the combination of a graceful shape and a barely visible lotus create the vase's quiet beauty?",
+      "emotion": "What mood do the cool green glaze and the soft carving create, and how would a bright, patterned surface change it?",
+      "observation": "List the parts of the vase from mouth to base, then add the decoration. Which feature seems most carefully designed?",
+      "analysis": "How do the vase's proportions, such as the narrow neck and wide shoulders, direct your eye and give the form its balance?",
+      "line": "How do the long, flowing contour of the vase and the shorter incised lines of the lotus work as two kinds of line?",
+      "shape": "Why might the swelling shoulders of a maebyeong be seen as full and strong, and how does the lotus design fit that shape?",
+      "color": "Celadon glaze can vary in tone from thick to thin areas. Where might you see those subtle changes, and what do they add?",
+      "texture": "How does the contrast between a smooth, glossy skin and carved grooves beneath it make the surface feel layered?",
+      "space": "The shoulders are broad and the mouth is small. How does that contrast create a sense of volume and enclosed space?",
+      "light": "How might the translucent glaze let light reveal the lotus carving only from certain angles?",
+      "meaning": "Lotus imagery is often linked with purity in Buddhist culture. How might that idea add meaning to an everyday object like a vase?",
+      "culture": "Goryeo celadons were prized for their quality. What might the effort put into a vase like this tell us about the people who ordered or owned it?",
+      "technique": "Carving and incising before glazing is an underglaze method. How is the look different from painting on top of a finished surface?",
+      "personal": "What qualities do you value in objects you use every day: beauty, usefulness, or something else? How does this vase fit your view?",
+      "critical": "The Met says the effect of the carved lotus is subtle. Is subtlety a strength or a risk for a decoration? Defend your position."
+    },
+    "g910": {
+      "daily": "How does the relationship between sculptural form and nearly hidden decoration define the aesthetic of this maebyeong?",
+      "emotion": "How do restraint and softness, rather than color or pattern, produce the vase's emotional tone?",
+      "observation": "Identify the vase's main structural parts and the placement of the lotus. Which relationships among them draw your attention?",
+      "analysis": "How do the proportions of shoulder, body, and base create visual stability, and where does the lotus sit within that structure?",
+      "line": "How does the vase's single continuous contour contrast with the delicate incised line of the lotus?",
+      "shape": "How do the repeated, curving forms of petals relate to the swelling silhouette of the vessel?",
+      "color": "How does a monochrome celadon glaze concentrate attention on form and surface rather than on hue contrasts?",
+      "texture": "How does the layering of glaze over carved clay generate depth that a painted surface could not?",
+      "space": "How does the contrast between the narrow opening and the expansive shoulders express both containment and fullness?",
+      "light": "How does the translucence of the glaze make the work responsive to changing light, and what does that imply about how it was meant to be viewed?",
+      "meaning": "How might the lotus, associated with purity in Buddhist thought, have added meaning to a luxury vessel, and what limits does a lack of documentation place on that reading?",
+      "culture": "How does this maebyeong illustrate cultural exchange with China alongside distinctly Korean innovation?",
+      "technique": "What does the carved-and-incised underglaze technique require of the potter that surface painting would not?",
+      "personal": "How does your response to quiet, understated design compare with your response to bold, eye-catching work, and what shapes that preference?",
+      "critical": "Is a vessel designed for use fully understood as an artwork? What does viewing it in a museum add or take away?"
+    },
+    "g1112": {
+      "daily": "How does the vase use subtlety, with form, glaze, and almost-concealed carving, to make its argument, and what might that argument be?",
+      "emotion": "How can a work with no figures or narrative still evoke a distinct emotional register, and what in this vase produces it?",
+      "observation": "Describe the maebyeong's formal construction with precision. Where does careful description begin to imply value judgments about refinement?",
+      "analysis": "Analyze how the vessel's profile, glaze, and carved lotus interact so that surface and structure become inseparable.",
+      "line": "How does the vase balance the sweep of its outer profile against the fine drawing of incised line, and what does that say about the potter's priorities?",
+      "shape": "How does the broad-shouldered form, described by the Met as a Korean development, differ from its Chinese precedents, and what does the change suggest?",
+      "color": "How does the limited range of celadon tones shape perception, and how might firing variation and age alter what we see?",
+      "texture": "In what ways does the interplay of glaze and relief decorate the vase through texture rather than color?",
+      "space": "How does the vase's volume, only partly implied by its small mouth, shape ideas of use, display, and the viewer's access to its interior?",
+      "light": "How does the vase's dependence on light and angle challenge the assumption that a work has one fixed appearance?",
+      "meaning": "How might lotus symbolism in a Buddhist society inform readings of this vase, and where should an interpreter stay cautious about its specific meaning or use?",
+      "culture": "How does the vase complicate narratives about influence, since a Chinese-derived shape became a signature of Goryeo ceramics?",
+      "technique": "What does underglaze carving suggest about the economics and expertise of Goryeo kiln production?",
+      "personal": "How does your own sense of what makes a vase beautiful or valuable reflect cultural expectations, and how might Goryeo viewers have differed?",
+      "critical": "What are the risks of treating a functional object as a work of fine art, and how does the Met's presentation of this vase invite or avoid them?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Ceramics), medium, culture, and tag (Lotuses) checked against the museum record, and the Met catalog page text on the lotus design and maebyeong form was read. No people or sensitive subject matter is indicated. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Goryeo dynasty (918-1392) Korean celadon maebyeong, made of stoneware with a lotus carved and incised under a translucent glaze. Maebyeong means 'plum bottle'.",
+    "vocabulary": ["celadon", "stoneware", "maebyeong", "glaze", "incised", "Goryeo dynasty"],
+    "directions": [
+      "Ask students to sketch the vase's silhouette and label mouth, shoulder, body, and base.",
+      "Have students try incising a simple lotus into a clay slab or even soap, then discuss how hard it is to make a subtle design.",
+      "Discuss why a lotus might be a meaningful flower in different cultures."
+    ]
+  }
+}

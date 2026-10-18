@@ -1,0 +1,159 @@
+{
+  "id": "met-11269",
+  "day": "06-21",
+  "title": "Edward and Sarah Rutter",
+  "artist": "Joshua Johnson",
+  "date": "ca. 1805",
+  "medium": "Oil on canvas",
+  "movement": "Early American portraiture",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT5512.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT5512.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edgar William and Bernice Chrysler Garbisch, 1965",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A double portrait of young sitters, Edward and Sarah Rutter, shown with strawberries and a bird. The figures are painted in a clear, simple style.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11269",
+    "objectId": "11269",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Birds, Strawberries, Girls, Portraits) and image URLs read from the record"
+  },
+  "context": "An oil portrait from about 1805 by Joshua Johnson, a Baltimore painter widely regarded as one of the first professional African American portrait artists. Little is firmly documented about his early life, and the Met's record names him as the artist.",
+  "descriptions": {
+    "k": "Two young people look out at us. They have strawberries and a bird with them. Everything is painted clearly and carefully. What do you think the strawberries taste like? What might the bird be doing?",
+    "g12": "Joshua Johnson painted this portrait of Edward and Sarah Rutter around 1805. They are young, and they sit with strawberries and a bird. Johnson used clear shapes and smooth paint. Why might a family want strawberries and a bird in a portrait?",
+    "g35": "Joshua Johnson lived in Baltimore and painted portraits of local families around 1805. Here, two young sitters, Edward and Sarah Rutter, appear with strawberries and a bird. Look for how Johnson paints faces, clothing, and objects with clear outlines. Why might he have included these objects, and what do they tell us about the children and their family?",
+    "g68": "Joshua Johnson is considered one of the first professional African American portrait painters, working in Baltimore in the early 1800s. Much about his life is uncertain, which makes his surviving paintings important evidence. In this portrait of Edward and Sarah Rutter, the strawberries and bird are carefully chosen details, and some viewers see them as signs of childhood, nature, or care. What details help you understand how a family wanted its children to be seen?",
+    "g910": "Edward and Sarah Rutter is a portrait of about 1805 by Joshua Johnson, a Baltimore artist often described as among the first professional Black portrait painters in the United States. Portraits of the period used props such as fruit and animals to suggest childhood, innocence, and domestic life, though their exact meanings are not always documented. Johnson's clear, controlled style gives the sitters a calm presence. Because his biography is only partly known, the paintings themselves are key evidence of his skill.",
+    "g1112": "Joshua Johnson worked as a portraitist in Baltimore in the early nineteenth century, and he is widely regarded as one of the first professional African American painters in the United States. Much of his biography remains uncertain, so his portraits, including Edward and Sarah Rutter, carry unusual evidentiary weight. The strawberries and the bird could be read as conventional markers of childhood and nature, or as signs of the family's comfort and taste. Such readings are plausible but not documented. The painting invites close attention to how a Black artist shaped a family's public image, and to what we still do not know."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the children are about to do with the strawberries and the bird?",
+      "emotion": "Do the children look happy, quiet, or shy? Show me with your own face.",
+      "observation": "What can you find with the children? Name three things.",
+      "analysis": "Where do your eyes go first? What do they look at next?",
+      "line": "Can you trace the line around one child? Is it smooth or bumpy?",
+      "shape": "Which shapes can you find in the children's clothes and faces? Are any round?",
+      "color": "Which color do you see most? Is any color the same as the strawberries?",
+      "texture": "How would the bird's feathers feel? How would the strawberries feel?",
+      "space": "Which child is closer to you? Who stands next to whom?",
+      "light": "Which parts of the picture look the brightest? Are the faces bright?",
+      "meaning": "Why do you think the children have a bird and strawberries? Make up a story.",
+      "culture": "This painting is more than two hundred years old. What do the clothes tell you about the way people dressed then?",
+      "technique": "The artist painted with oil paint and a small brush. What small details can you find?",
+      "personal": "What is your favorite fruit or pet? Would you want to be painted with it?",
+      "critical": "Why would a family pay a painter to paint their children?"
+    },
+    "g12": {
+      "daily": "What do you think the strawberries and the bird tell us about Edward and Sarah? Use what you see.",
+      "emotion": "How do the faces and poses of the children make you feel? What details help you decide?",
+      "observation": "List five details you see in the clothing, the objects, and the faces.",
+      "analysis": "How are Edward and Sarah arranged in the painting? Who is easiest to see first?",
+      "line": "Look for clear outlines around the children and objects. How do they make shapes easy to see?",
+      "shape": "Find the round shapes of the strawberries and heads. Which shapes repeat?",
+      "color": "Which colors make the strawberries and bird stand out from the rest of the painting?",
+      "texture": "Show which parts look soft, like fabric or feathers, and which look smooth, like skin.",
+      "space": "Does the picture look deep or flat? What helps you decide?",
+      "light": "Where does the light fall on the faces and the clothes?",
+      "meaning": "Why might the painter include a bird and fruit with these children?",
+      "culture": "Joshua Johnson lived in Baltimore long ago and painted portraits of local families. Why might families have wanted a portrait?",
+      "technique": "Johnson painted with clear shapes and careful details. Where do you see the most careful painting?",
+      "personal": "If you were painted with something you love, what would you choose? Why?",
+      "critical": "We do not know many facts about Joshua Johnson. How could his paintings help us learn about him?"
+    },
+    "g35": {
+      "daily": "What do you think Johnson wanted viewers to notice about these two young sitters, and what in the painting supports your idea?",
+      "emotion": "What mood does the portrait create, and which details of pose, color, and objects help build it?",
+      "observation": "After one minute of silent looking, which small details of clothing, fruit, or bird do you find that you missed at first?",
+      "analysis": "How does Johnson arrange Edward, Sarah, and the objects so that your eyes move across the picture?",
+      "line": "How do clear outlines and smooth edges affect how solid or flat the figures appear?",
+      "shape": "The strawberries and bird are small shapes among larger ones. How do they add interest to the composition?",
+      "color": "How does Johnson use bright spots of color to draw your eyes to the strawberries and bird?",
+      "texture": "How does he paint different surfaces such as skin, cloth, fruit, and feathers? Which seems most convincing?",
+      "space": "How much depth does the painting show? How does Johnson place the children in the space?",
+      "light": "How does the lighting affect the faces and the objects, and how does it keep the painting calm?",
+      "meaning": "Fruit and animals are often shown with children in portraits of this time. What might those objects have meant to families?",
+      "culture": "Johnson was a Black artist working in Baltimore around 1805. What does it tell us about the period that his portraits of local families survive?",
+      "technique": "Portrait painters often worked from sittings and sketches. How might that have helped Johnson record faces and details?",
+      "personal": "What object would you choose to include in a portrait to show something about you?",
+      "critical": "Little is known about Johnson's life. How does that make his paintings especially important to study?"
+    },
+    "g68": {
+      "daily": "How do the objects and the poses of the sitters combine to present an image of childhood?",
+      "emotion": "How do the faces and the calm arrangement affect the emotional tone of the portrait?",
+      "observation": "Scan the picture from the figures to the objects. Which details appear most carefully painted?",
+      "analysis": "How does the composition balance the two sitters with the smaller details of fruit and bird?",
+      "line": "How does Johnson's use of clear contour and smooth modeling shape the sense of form?",
+      "shape": "How do repeated rounded forms, like faces and fruit, tie the composition together?",
+      "color": "How do touches of strong color against calmer areas direct the viewer's attention?",
+      "texture": "How does the painter distinguish skin, cloth, fruit, and feathers using changes in surface treatment?",
+      "space": "How does the limited depth emphasize the sitters as presented figures rather than characters in a story?",
+      "light": "How does steady, clear light help present the sitters with dignity and detail?",
+      "meaning": "Strawberries and birds can hint at sweetness, nature, or care. Which reading do you find convincing, and why?",
+      "culture": "Why is it significant that a Black portrait painter was working professionally in early nineteenth-century Baltimore?",
+      "technique": "How might Johnson's careful, controlled technique have appealed to families who commissioned portraits?",
+      "personal": "How does a portrait made for a family differ from a photograph you might take today?",
+      "critical": "How might the limited knowledge of Johnson's biography change the way we interpret his work?"
+    },
+    "g910": {
+      "daily": "How do Johnson's formal choices shape the way the Rutter children are presented to the viewer?",
+      "emotion": "How does restraint in expression and gesture shape the emotional tone of the portrait?",
+      "observation": "Rank Edward, Sarah, the strawberries, and the bird by how quickly your eye finds them. Which painted devices explain your order?",
+      "analysis": "Analyze how the sitters, props, and background form a balanced composition.",
+      "line": "How does firm contour contribute to the portrait's clarity and sense of composure?",
+      "shape": "How do simplified, rounded forms create unity among figures and objects?",
+      "color": "How does Johnson's use of color accents among more subdued areas focus attention on the sitters and props?",
+      "texture": "How does the painter vary surface effects between flesh, textile, fruit, and plumage?",
+      "space": "How does the shallow, controlled space present the sitters frontally and formally?",
+      "light": "How does consistent light support clarity and a sense of calm rather than drama?",
+      "meaning": "How might fruit and a bird function as conventional symbols of childhood and domestic life, and where are such readings speculative?",
+      "culture": "How does Johnson's position as a Black artist in the early republic affect how we read his portraits of local families and the context in which they were made?",
+      "technique": "How might the clarity of Johnson's style relate to the demands of commissioned portraiture?",
+      "personal": "How do your assumptions about who made art in the early republic influence how you interpret this portrait?",
+      "critical": "How should viewers weigh limited biographical evidence against the visual evidence of the painting itself?"
+    },
+    "g1112": {
+      "daily": "What claims about Johnson and his sitters can be supported by this image, and which depend on outside assumptions?",
+      "emotion": "How does the portrait's formality complicate attempts to read the sitters' personalities?",
+      "observation": "Describe the painting's formal construction with precision. Where does description begin to shape interpretation?",
+      "analysis": "Analyze how the arrangement of figures and props constructs an image of family identity.",
+      "line": "How does the portrait's reliance on clear contour and flattened modeling relate to ideas about training and skill?",
+      "shape": "How do repeated rounded shapes produce visual coherence while individualizing the sitters?",
+      "color": "How do the color relationships in the painting create focus and harmony, and how might age affect what we see?",
+      "texture": "How does Johnson's treatment of surfaces convey the family's taste and comfort without elaborate illusion?",
+      "space": "How does the shallow space influence the viewer's relation to the sitters as presented images?",
+      "light": "In what ways does the portrait's light serve record and commemoration rather than drama?",
+      "meaning": "Evaluate readings of the props as symbols of childhood, nature, or status. Which are best supported, and which are speculative?",
+      "culture": "How does this portrait complicate narratives of American art by showing a Black professional artist painting local families in 1805?",
+      "technique": "What does the painting's style suggest about the circumstances and expectations of portrait commissions in early Baltimore?",
+      "personal": "How does your own awareness of who is usually remembered in art history shape the questions you bring to this painting?",
+      "critical": "Given the uncertainty surrounding Johnson's life, what standards of evidence should we use to interpret his work?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Birds, Strawberries, Girls, Portraits), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The work was also considered for stereotyped depiction of any group; the record shows a portrait of two named family members, with no sign of such content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Joshua Johnson worked in Baltimore in the early 1800s and is widely regarded as one of the first professional African American portrait painters. Many details of his life remain uncertain, so his paintings are important primary evidence.",
+    "vocabulary": [
+      "portrait",
+      "commission",
+      "prop",
+      "contour",
+      "composition",
+      "primary source"
+    ],
+    "directions": [
+      "Ask students what an object in a portrait can tell us about a person, then have them design a portrait prop for themselves.",
+      "Discuss why some artists are well documented and others are not, and how researchers learn from paintings.",
+      "Have students write a short museum label using only information from the painting and the teacher note."
+    ]
+  }
+}

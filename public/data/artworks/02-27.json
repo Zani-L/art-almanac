@@ -1,0 +1,159 @@
+{
+  "id": "met-451846",
+  "day": "02-27",
+  "title": "Dish with Pattern of Flowering Plants",
+  "artist": "Artist unknown",
+  "date": "ca. 1565–70",
+  "medium": "Stonepaste; polychrome painted under transparent glaze",
+  "movement": "Ottoman Iznik pottery",
+  "region": "Turkey (Iznik)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/LC-66_4_15.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/LC-66_4_15.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1966",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A large round dish with a wavy, scalloped rim, seen from above. Rows of tulips are painted across the whole surface in many colors, with small clusters of dots between the flowers and swirling marks around the rim.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451846",
+    "objectId": "451846",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, credit line, public-domain flag and image URLs read from the record; museum page text read for the tulip pattern, dot motifs and rim"
+  },
+  "context": "A dish made in Iznik, Turkey, around 1565 to 1570, during the Ottoman period. The Met describes an all-over pattern of tulips in staggered rows, with small triple-dot motifs between them and spiral-like motifs on the rim.",
+  "descriptions": {
+    "k": "This big dish is covered in flowers! They are tulips, lined up in rows. Little dots sit between them. The edge of the dish is wavy. Can you find a tulip and trace its shape with your finger?",
+    "g12": "A potter in Turkey painted this dish long ago. Rows of tulips cover the whole thing, one row after another. Tiny groups of three dots sit between the flowers. The edge is wavy, like a ribbon. Why do you think the potter wanted flowers everywhere?",
+    "g35": "This dish was made in Iznik, Turkey, about 450 years ago. Its whole surface is a pattern of tulips in staggered rows, so each flower sits between two flowers in the row above. Small groups of three dots, called cintamani, fill the spaces, and swirling shapes run around the rim. The pattern is painted under a clear glaze. Why might a potter choose to cover a dish with a repeating pattern instead of one big picture?",
+    "g68": "Iznik potters worked during the Ottoman Empire and became famous for dishes decorated with flowers. This one is covered by tulips in staggered rows, with triple-dot motifs (cintamani) between them and spirals along the scalloped rim. Notice that the pattern fills the dish edge to edge rather than focusing on one center. The decoration is painted beneath a transparent glaze, which keeps the colors glossy. How does repetition make a pattern feel orderly yet lively?",
+    "g910": "This Iznik dish of about 1565 to 1570 replaces a central focus with an all-over field of tulips in staggered rows, with triple-dot cintamani motifs filling the gaps and spiral forms on the rim. The scalloped edge and the stable grid give the pattern both order and a gentle rhythm. Painted in several colors under transparent glaze, the flowers read as stylized rather than botanical. Consider how repetition, spacing, and the glossy surface work together, and what role a flower like the tulip might have played in Ottoman design.",
+    "g1112": "Ottoman Iznik ware of the later 16th century turned the flower into a system of ornament. On this dish the Met describes staggered rows of tulips, interleaved with cintamani (triple-dot) motifs, and spiral forms on a scalloped rim. The result avoids a single focal point and instead produces a continuous field. Scholars link such flowers to court design, but the specific meanings of motifs like the tulip or cintamani are interpreted in different ways, so the dish is best approached through close looking at its structure, repetition, and relation to the glazed surface."
+  },
+  "questions": {
+    "k": {
+      "daily": "This dish is covered in tulips. Can you count five tulips in a row?",
+      "emotion": "Does this dish feel happy, sleepy, or sad to you? Which part makes you feel that way?",
+      "observation": "What else do you see between the tulips? Point to the little dots.",
+      "analysis": "Are the flowers in a messy pile or in neat rows? How can you tell?",
+      "line": "Use your finger to follow the swirly marks along the edge of the dish. Which way do they curl?",
+      "shape": "A tulip looks a bit like a cup. Can you find the cup shape in the flowers?",
+      "color": "How many colors can you find on the dish? Which one is your favorite?",
+      "texture": "The dish is covered in shiny glaze. Would it feel smooth or bumpy?",
+      "space": "Does this dish show a faraway field or just flowers on a flat surface? What do you think?",
+      "light": "Shiny glaze can catch light on a dish like this. Where do you think it would shine?",
+      "meaning": "If these tulips were a garden, who might walk through it? Tell a short story.",
+      "culture": "People in Turkey liked flowers like tulips a long time ago. Why do you think they put flowers on dishes?",
+      "technique": "The potter painted the flowers first and then covered them with clear glaze. Why might that keep the colors shiny?",
+      "personal": "What flower would you paint on a dish for your home?",
+      "critical": "Why do you think the potter made the same flower again and again?"
+    },
+    "g12": {
+      "daily": "Rows of tulips cover this dish. What do you notice about how the flowers are arranged?",
+      "emotion": "What feeling do you get from a dish full of flowers? Point to a part that gives you that feeling.",
+      "observation": "Find the tulips, the groups of dots, and the swirls on the edge. Describe each one.",
+      "analysis": "The tulips sit in rows, but each one is in between two others. How does that make the dish look balanced?",
+      "line": "Find the swirly, curling lines on the rim. How are they different from the stems and petals in the middle?",
+      "shape": "The dish has a wavy edge. How does the wavy edge match or differ from the tulip shapes?",
+      "color": "Which colors repeat from flower to flower? How does repeating colors help your eyes move across the dish?",
+      "texture": "Imagine touching the dish. Where would it feel smooth, and where might you feel the painted shapes?",
+      "space": "The flowers fill the dish from edge to edge. Why might there be no empty spaces?",
+      "light": "The glaze is clear and glossy. How would the dish look in bright sun compared with a dim room?",
+      "meaning": "Tulips are a special flower in Turkey's history. What might a potter want us to feel when we see them?",
+      "culture": "This dish was made in Iznik, Turkey, in the 1500s. What does it tell you about what people liked to look at?",
+      "technique": "The painting is under a clear glaze. Why might the potter paint first and glaze later?",
+      "personal": "Do you have a favorite pattern on a plate or fabric at home? How is it like or unlike this?",
+      "critical": "Does this look like a real tulip field or a pattern? What clues help you decide?"
+    },
+    "g35": {
+      "daily": "What makes a pattern of tulips on a dish interesting to look at, even when the flowers repeat?",
+      "emotion": "How does the busy, full pattern make the dish feel cheerful or calm to you? Use details to explain.",
+      "observation": "Take one minute to look at one tulip and the shapes around it. What small details do you notice?",
+      "analysis": "How are the tulips in staggered rows arranged, and how does that arrangement lead your eye across the dish?",
+      "line": "How do the curling lines on the rim compare with the lines that outline the tulips?",
+      "shape": "How do the dots, the tulips, and the scalloped edge repeat or contrast with each other?",
+      "color": "The painting uses several colors. How does the artist keep so many colors from looking messy?",
+      "texture": "The glaze gives the surface a glassy look. How might it feel different from raw, unglazed clay?",
+      "space": "The pattern covers the dish without a center picture. How does that change where you look first?",
+      "light": "Glaze reflects light and makes colors appear deep. How might the dish look if it were unglazed?",
+      "meaning": "The Met mentions groups of three dots called cintamani. Why might a potter fill the gaps with a repeated symbol?",
+      "culture": "Iznik pottery was made for the Ottoman world. What does a dish like this suggest about the importance of gardens and flowers?",
+      "technique": "The pattern is painted under glaze and then fired. What might be difficult about painting this many repeating flowers by hand?",
+      "personal": "If you were to design a dish with a pattern, what would you repeat across it?",
+      "critical": "Is the dish meant to show real tulips or a design based on tulips? What evidence supports each idea?"
+    },
+    "g68": {
+      "daily": "How does this dish turn a single flower into a complete design, and what makes the repetition feel alive rather than boring?",
+      "emotion": "What mood does an all-over pattern of flowers create? How do the rhythm and spacing contribute?",
+      "observation": "List the motifs you can find, from the tulips to the dots to the rim marks. Which seem to have the most detail?",
+      "analysis": "How does the staggered arrangement of the tulips affect the balance of the design compared with a straight grid?",
+      "line": "How do the flowing outlines of the flowers contrast with the more rhythmic curls on the rim?",
+      "shape": "How does the scalloped edge of the dish echo or interrupt the shapes of the flowers inside it?",
+      "color": "How does repeating colors from flower to flower unify the dish? Where do colors contrast most?",
+      "texture": "Painting under a glaze produces a smooth, glossy finish. How does this affect how real the flowers feel?",
+      "space": "The design is flat, with no sense of ground or sky. Why might a potter prefer that on a dish?",
+      "light": "How does the glossy transparent glaze change the way light plays on the painted colors?",
+      "meaning": "Flowers appear again and again in Ottoman art. What might they have suggested to people who used these objects?",
+      "culture": "How might the Ottoman court's taste for gardens and flowers have influenced pottery like this?",
+      "technique": "How is painting under a transparent glaze different from painting on top of a glaze? What are the advantages?",
+      "personal": "How do patterns you see around you, such as on clothing or buildings, use repetition? Compare with this dish.",
+      "critical": "How confident can we be about what the tulips or triple dots meant? What would count as good evidence?"
+    },
+    "g910": {
+      "daily": "How does the dish achieve both order and liveliness using only repeated flowers and a few supporting motifs?",
+      "emotion": "How does the absence of a single focal point affect the viewer's emotional response, compared with a dish with a central scene?",
+      "observation": "Describe the hierarchy of motifs on the dish, from the dominant tulips to the cintamani and rim spirals.",
+      "analysis": "Analyze how the staggered tulips and filler motifs organize the surface into a continuous field.",
+      "line": "How does line quality in the outlines and spirals convey fluidity while the overall layout stays structured?",
+      "shape": "How does the stylization of the tulips, simplified and repeatable, serve the design more than botanical accuracy would?",
+      "color": "How might a multicolor palette under glaze create unity through repetition and variety through contrast?",
+      "texture": "How does the glossy surface change the viewer's reading of depth and richness in a flat painted design?",
+      "space": "How does the all-over pattern flatten the dish into a decorative plane, and what does the scalloped rim contribute?",
+      "light": "How does the transparent glaze make light a part of the dish's saturated, luminous appearance?",
+      "meaning": "What roles might the tulip and the cintamani motif have played in Ottoman visual culture, and where is interpretation uncertain?",
+      "culture": "How does a workshop product like this reflect the connections between court taste and a regional pottery industry?",
+      "technique": "What does painting a large, detailed repeating pattern under glaze suggest about the organization and skill of the workshop?",
+      "personal": "How do you respond to repetition in design: as soothing, restrictive, or both? What in the dish prompts that response?",
+      "critical": "What assumptions do viewers make when they call a floral pattern merely decorative, and how might this dish challenge them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the dish itself about how the Ottoman era imagined nature, order, and ornament?",
+      "emotion": "How does the dish's mood depend on repetition, and how might a viewer's reaction change with familiarity?",
+      "observation": "Describe the dish's pattern with precision, then identify which elements of your description already carry interpretation.",
+      "analysis": "Evaluate how the dish balances rigid structure, the staggered grid, with natural vitality in the stylized tulips.",
+      "line": "How does the interplay of fluent contour and regular placement define the dish's aesthetic?",
+      "shape": "Discuss how the scalloped contour of the dish relates to the shapes of the motifs and the circular field.",
+      "color": "How do the dish's colors construct harmony across a dense pattern, and how might age and glaze alter what we see today?",
+      "texture": "How does the glazed surface mediate between painted image and object, and what is lost when the dish is seen in a photograph?",
+      "space": "In what ways does the all-over pattern resist illusionistic space, and what does that tell us about conventions of ornament?",
+      "light": "How does reflected light become part of the dish's effect, and how does that complicate how we document it?",
+      "meaning": "Consider the tulip and the cintamani as motifs with debated meanings. What would be needed to support a specific symbolic reading?",
+      "culture": "How does this dish situate Iznik ceramics within Ottoman networks of court design, workshop practice, and trade?",
+      "technique": "What does the use of stonepaste and underglaze painting suggest about the technical ambitions of Iznik workshops?",
+      "personal": "How does your own cultural relationship to floral patterns shape what you read as decoration versus meaning here?",
+      "critical": "How should we weigh the museum's description of motifs against our own impressions when interpreting a non-narrative object?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Ceramics) and country checked against the museum record, and the museum page text read: decoration is tulips, dot motifs and rim spirals only.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Iznik in western Turkey became a major center for Ottoman ceramics in the 16th century. This dish uses an all-over tulip pattern with triple-dot (cintamani) motifs.",
+    "vocabulary": [
+      "Iznik",
+      "stonepaste",
+      "underglaze",
+      "cintamani",
+      "scalloped",
+      "repetition"
+    ],
+    "directions": [
+      "Have students draw a staggered-row pattern of one flower and compare it with a straight grid.",
+      "Ask students to compare this flat pattern with an artwork in the archive that uses deep space.",
+      "Explore the wider use of the tulip in Turkish culture, using reliable sources, and discuss why a flower can become a design symbol."
+    ]
+  }
+}

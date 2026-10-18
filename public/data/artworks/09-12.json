@@ -1,0 +1,158 @@
+{
+  "id": "met-717572",
+  "day": "09-12",
+  "title": "Mask",
+  "artist": "Artist unknown (Yup'ik)",
+  "date": "ca. 1900",
+  "medium": "Wood, pigment, and vegetal fiber",
+  "region": "Yup'ik, Alaska, United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15059-040.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP-15059-040.jpg",
+    "credit": "The Metropolitan Museum of Art, The Charles and Valerie Diker Collection of Native American Art, Gift of Charles and Valerie Diker, 2021",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A carved and painted wooden mask made by Yup'ik artists, about fifty centimeters tall, with plant fiber as part of its construction.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/717572",
+    "objectId": "717572",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, objectName (Mask), dimensions, public-domain flag, and image URLs read from the record. The record lists no tags or classification and does not describe the mask's imagery."
+  },
+  "context": "A mask made by Yup'ik artists of southwestern Alaska around 1900 from wood, pigment, and plant fiber. It measures about 52 by 38 by 20 centimeters. The record does not say what the mask represents or how it was used.",
+  "descriptions": {
+    "k": "This is a mask made by Yup'ik artists in Alaska. It is carved from wood and painted. It also has plant fibers. It is bigger than a dinner plate. What do you see when you look at it?",
+    "g12": "Yup'ik artists in Alaska made this mask about 120 years ago. It is carved from wood, painted, and made with plant fiber. It is about as tall as a school backpack. Masks can make us wonder and imagine. What do you think this mask is?",
+    "g35": "This mask was made by Yup'ik artists in Alaska around 1900. It combines carved wood, pigment, and fiber from plants. It is about 52 centimeters tall, larger than many masks you might wear. The record does not say what it shows. Look closely at its shapes, paint, and fibers. What do you notice that helps you wonder about its story?",
+    "g68": "Yup'ik masks from Alaska are known for inventive forms made from wood, paint, and other natural materials, and this one from around 1900 uses wood, pigment, and plant fiber. Masks like these are often connected with performance, but the record does not say what this one represents or how it was used. A respectful approach is to study its construction, shapes, and materials closely while leaving questions of meaning to Yup'ik knowledge.",
+    "g910": "This Yup'ik mask, made around 1900 from wood, pigment, and vegetal fiber, belongs to an Alaska Native tradition of carving that is admired for imaginative and varied forms. The combination of hard wood and flexible fiber gives the object depth and movement. Because the record does not describe the mask's subject or use, it is best to examine form and craft, avoiding claims about spiritual or ceremonial meaning that outsiders cannot support.",
+    "g1112": "A Yup'ik mask of about 1900, this object joins wood, pigment, and plant fiber in a work whose original context the record does not describe. Yup'ik masks have drawn wide attention from collectors and museums, a history that has sometimes separated them from their makers' communities and knowledge. A careful reading therefore attends to material, construction, and scale while acknowledging the limits of an outsider's interpretation, and recognizes that Yup'ik people continue to hold the authority to speak about such works."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at this mask for a long time. What is the first thing you see?",
+      "emotion": "How does this mask make you feel: curious, surprised, or something else? Why?",
+      "observation": "What materials can you see on the mask: wood, paint, or fibers? Point to each.",
+      "analysis": "Where do your eyes go first on the mask? Where do they go next?",
+      "line": "Can you find lines or edges on the mask? Trace one in the air.",
+      "shape": "What shapes can you find in the mask? Name two.",
+      "color": "Which colors do you see on the mask? Which is brightest?",
+      "texture": "The mask has wood and plant fibers. How do you think each would feel?",
+      "space": "This mask is bigger than a dinner plate. Show with your hands how big it is.",
+      "light": "Which parts of the mask look bright and which look dark?",
+      "meaning": "What story could you imagine for this mask? Tell it.",
+      "culture": "Yup'ik artists in Alaska made this mask. What kinds of masks do you know from your life?",
+      "technique": "The artist carved wood and added fiber. What tools might they have used?",
+      "personal": "If you could make a mask, what would you want it to show?",
+      "critical": "What do you wonder about this mask that the picture cannot tell you?"
+    },
+    "g12": {
+      "daily": "What do you notice first on this mask? Tell why it caught your eye.",
+      "emotion": "What mood does this mask have: friendly, serious, or mysterious? Point to what shows it.",
+      "observation": "Describe the mask from the top to the bottom. What parts do you see?",
+      "analysis": "How are the carved wood, paint, and fiber placed to make the mask look interesting?",
+      "line": "Look for lines made by carving or paint. Which lines are the strongest?",
+      "shape": "Which shapes in the mask are curved and which are sharp?",
+      "color": "Which colors did the artist use? How do they look next to the wood?",
+      "texture": "Which part looks hard like wood and which looks soft like plant fiber?",
+      "space": "A mask is made to stand out from a flat surface. How does its size and depth show that?",
+      "light": "If light came from the side, which parts of the mask would have shadows?",
+      "meaning": "The record does not say what this mask shows. What could you guess from its shapes?",
+      "culture": "Yup'ik people live in southwestern Alaska. What materials from nature might artists there use?",
+      "technique": "Carving takes away wood to find a shape. Why is that hard to do on a big mask?",
+      "personal": "When have you worn a costume or mask? How did it change how you felt?",
+      "critical": "Why should we be careful when guessing what a mask from another culture means?"
+    },
+    "g35": {
+      "daily": "What details of the mask make you want to learn more about it?",
+      "emotion": "What feeling does the mask give you? Which materials and shapes create it?",
+      "observation": "Look carefully for one minute. List all the shapes, colors, and materials you notice.",
+      "analysis": "How do wood, paint, and fiber work together in the mask's design?",
+      "line": "How do carved and painted lines guide your eyes across the mask?",
+      "shape": "How do the large shapes and smaller details balance each other?",
+      "color": "How does the pigment on the mask make some parts stand out from the wood?",
+      "texture": "How do the rough fibers and carved wood differ in the way they look and might feel?",
+      "space": "A mask has depth as well as height. How might it look different from the side than from the front?",
+      "light": "How might light and shadow move across a carved surface?",
+      "meaning": "Why might a community make masks instead of only using everyday objects?",
+      "culture": "Yup'ik artists have a rich tradition of carving. What does this mask show about how people in Alaska used local materials?",
+      "technique": "Why might an artist combine hard wood with flexible plant fiber?",
+      "personal": "What is a way you show who you are, like a mask does, to others?",
+      "critical": "The record does not name a maker or say what the mask represents. Who might be able to tell us more?"
+    },
+    "g68": {
+      "daily": "How do material and form together give this mask presence even without knowing its story?",
+      "emotion": "How can an object without clear context still create a strong mood? Use evidence from the mask.",
+      "observation": "Describe the mask in order, from the top to the bottom. Which details are clearest and which are uncertain?",
+      "analysis": "How does the arrangement of carved, painted, and fiber parts create visual balance?",
+      "line": "How do carved edges and painted lines help shape the mask's overall impression?",
+      "shape": "How do bold shapes help a mask be seen and understood from far away?",
+      "color": "How does pigment on wood change how the carved forms are read?",
+      "texture": "How do hard and flexible materials create contrasts in a single object?",
+      "space": "How does the mask's depth shape the way it would look on a person or a wall?",
+      "light": "How might the mask look different in dim light than in bright light?",
+      "meaning": "Why should outsiders hesitate to assign meanings to a mask when community knowledge is not recorded?",
+      "culture": "How do materials like wood and plant fiber connect the mask to its environment?",
+      "technique": "What skills are needed to combine carving, painting, and fiberwork?",
+      "personal": "How does your idea of a mask change when it is shown in a museum instead of used in a performance?",
+      "critical": "How can museums share what they know about a mask while being honest about what they do not?"
+    },
+    "g910": {
+      "daily": "What can careful looking reveal about this mask, and what must remain open?",
+      "emotion": "How do the mask's materials and scale shape its emotional presence for a viewer?",
+      "observation": "Describe the mask's visual hierarchy, identifying what draws attention and what rewards closer study.",
+      "analysis": "Analyze how carved wood, paint, and fiber are integrated into a single form.",
+      "line": "How do edges and painted marks structure the surface of the mask?",
+      "shape": "How do contrasts of size and form give the mask a distinctive silhouette?",
+      "color": "How does pigment function in relation to the carved surface, and what does its condition tell us about age and handling?",
+      "texture": "How do the different textures of wood and fiber contribute to the object's expressiveness?",
+      "space": "How does the mask's three-dimensional structure change depending on viewing angle?",
+      "light": "How does carving create shadows that shape the mask's expression?",
+      "meaning": "How can scholars discuss masks responsibly when original meaning is community knowledge not shared in the record?",
+      "culture": "How has the collecting of Yup'ik masks shaped how they are displayed, and what perspectives are missing?",
+      "technique": "What does combining wood, pigment, and plant fiber suggest about the maker's knowledge of materials?",
+      "personal": "How does viewing a mask outside its performance setting change what you notice?",
+      "critical": "What responsibilities does a museum have when displaying objects whose meanings belong to living communities?"
+    },
+    "g1112": {
+      "daily": "What claims about this mask can be supported by its materials and form, and which require community knowledge?",
+      "emotion": "How does the mask's tactile and visual complexity produce a response, and how is that response conditioned by museum display?",
+      "observation": "Describe the mask precisely. Where do your words introduce assumptions about function or meaning?",
+      "analysis": "Analyze how the combination of rigid and flexible materials produces visual rhythm and depth.",
+      "line": "How do carved and painted lines operate together to articulate the form?",
+      "shape": "How might the mask's silhouette have been designed to be seen at a distance or in motion?",
+      "color": "How have age and handling affected pigment, and what does that suggest about how color appeared originally?",
+      "texture": "How does vegetal fiber introduce a different visual logic from carved wood, and what does that suggest about design?",
+      "space": "How does a mask's relationship to the human body shape its form, and how does a museum display alter that relationship?",
+      "light": "How do museum lighting conditions change the legibility of a carved and painted three-dimensional object?",
+      "meaning": "How do museums and scholars balance interpretation with deference to Yup'ik authority over meaning?",
+      "culture": "How did late 19th and early 20th century collecting affect the circulation of Alaska Native masks, and what is the ongoing legacy?",
+      "technique": "What does the integration of wood, pigment, and fiber suggest about the transmission of artistic knowledge?",
+      "personal": "How does your own relationship to masks and costume shape your reading of an object whose context is not provided?",
+      "critical": "What would a more collaborative approach to interpreting this mask look like, and what could it add?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, objectName (Mask), medium, culture, and credit line read from the museum record; the record lists no tags or classification, does not flag the object as sacred or restricted, and does not describe its imagery.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Yup'ik people live in southwestern Alaska and have a rich tradition of mask carving. The record gives only materials, date, and size, and does not state the mask's subject or use.",
+    "vocabulary": [
+      "Yup'ik",
+      "mask",
+      "pigment",
+      "vegetal fiber",
+      "carving",
+      "Alaska Native"
+    ],
+    "directions": [
+      "Have students sketch the mask's outline and label wood, paint, and fiber parts.",
+      "Ask students to discuss what a museum can and cannot know about an object's meaning.",
+      "Invite students to find Yup'ik community or tribal sources to learn more about the living tradition."
+    ]
+  }
+}

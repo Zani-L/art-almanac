@@ -1,0 +1,151 @@
+{
+  "id": "met-501663",
+  "day": "07-29",
+  "title": "Pedal Harp",
+  "artist": "Artist unknown (French)",
+  "date": "ca. 1800",
+  "medium": "Wood, various materials",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DT267631.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DT267631.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall harp with a curved neck at the top, a straight column at the front, and a wooden soundbox below, with many strings stretched between them.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501663",
+    "objectId": "501663",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification (Chordophone-Harp), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A pedal harp has pedals at its base that change the pitch of the strings, which lets a player use many different notes on one instrument. The Met dates this French harp to about 1800 and lists wood and various materials. The record does not name the maker, so the details of its mechanism and decoration should be read from the image.",
+  "descriptions": {
+    "k": "This is a tall harp from France. It has many strings. A curved top, a straight pole, and a big wooden bottom hold the strings. It has pedals at the base. A player plucks the strings with their fingers. Can you count some strings?",
+    "g12": "This tall harp was made in France about 220 years ago. Many strings stretch between the curved top and the wooden bottom. Pedals near the floor change the notes. The player plucks the strings with their fingers. Which part do you think is the most important?",
+    "g35": "This pedal harp was made in France around 1800. Its strings stretch from a curved neck at the top to a wooden soundbox below, and a tall column helps hold the frame. Pedals at the base change the pitch of the strings so the harp can play more notes. The Met does not name the maker. Look at the frame and the strings. How do the shapes work together?",
+    "g68": "This French pedal harp, dated about 1800, shows the large harps that became popular in Europe around that time. Strings run between a curved neck and a wooden soundbox, and a column supports the frame. Pedals at the base change the pitch of the strings, so one harp can play in many keys. The Met records wood and various materials but no named maker. What can we learn from the form and decoration of an unsigned instrument?",
+    "g910": "This pedal harp from France, about 1800, belongs to a period when the harp became a fashionable and technically developing instrument. A curved neck, a column and a soundbox form a strong triangle that holds the strings under tension, and pedals at the base allow a player to alter the pitch of the strings. The record lists wood and various materials and names no maker. Consider how the harp's structure makes tension and balance visible, and how decoration may have connected it to the taste of its time.",
+    "g1112": "Dated to about 1800 and catalogued as French, this pedal harp comes from a period of intense experiment in harp design, when mechanisms for changing pitch were still evolving. The record names no maker and gives limited information on its mechanism or decoration, so claims about its type or maker's workshop should be hedged. The triangular frame, in which strings, neck, column and soundbox hold one another in tension, makes the instrument a study in engineering as well as a fashionable object, and invites reflection on how technical innovation and taste shaped musical culture."
+  },
+  "questions": {
+    "k": {
+      "daily": "This harp has so many strings! What do you think happens if you pluck one?",
+      "emotion": "Does this harp look gentle or strong? What do you see that makes you say so?",
+      "observation": "Find the strings, the curved top and the straight pole. Can you point to each?",
+      "analysis": "Do your eyes start at the curved neck, the strings or the wooden base? What do they notice after that?",
+      "line": "The strings make long lines from top to bottom. Trace one in the air.",
+      "shape": "The harp makes a big triangle. Can you find it?",
+      "color": "What colors do you see on the harp? Which one is the most?",
+      "texture": "The strings and the wood feel very different. How do you think each one feels?",
+      "space": "There is empty space between the strings and the pole. What could you see through it?",
+      "light": "Where does the harp look light? Where does it look dark?",
+      "meaning": "Why do you think people long ago liked harps?",
+      "culture": "This harp is from France, made around 1800. What do you imagine the room it sat in looked like?",
+      "technique": "A player plucks the strings with their fingers. Which finger would you use first?",
+      "personal": "What sound would you like to make with this harp, soft or bright?",
+      "critical": "A harp is tall and has many parts. Which part do you think was hardest to build?"
+    },
+    "g12": {
+      "daily": "A harp has many strings that all pull on the frame. How does the frame look strong enough to hold them?",
+      "emotion": "What feeling does this tall harp give you? Point to the details that make you feel it.",
+      "observation": "Describe the curved neck, the column and the soundbox. What do you notice about each?",
+      "analysis": "How do the three main parts of the frame fit together?",
+      "line": "Find long straight lines and curved lines on the harp. Where are they?",
+      "shape": "The harp is shaped like a triangle with a curve. How does that shape help it stand tall?",
+      "color": "Which colors in the wood stand out? How do they work with the strings?",
+      "texture": "Wood can look smooth or show grain. Which parts of the harp seem smooth?",
+      "space": "The strings fill the open space inside the frame. How does that make the harp look light or heavy?",
+      "light": "Look for shiny spots on the harp. What do they tell you about the surface?",
+      "meaning": "Why might a family in 1800 want a harp in their home?",
+      "culture": "This harp was made in France around 1800. What can the shape of the harp tell you about the time?",
+      "technique": "The pedals at the bottom change the notes. Why might a player need their feet as well as their hands?",
+      "personal": "Would you rather play a large instrument like this or a small one? Why?",
+      "critical": "We cannot hear this harp in a picture. What can we learn from just looking?"
+    },
+    "g35": {
+      "daily": "The strings, neck, column and soundbox all hold each other in tension. How does the picture show that teamwork?",
+      "emotion": "What mood does the harp's tall, graceful shape create? Which details cause it?",
+      "observation": "Describe the harp from the top of the neck down to the base. What details do you find at each level?",
+      "analysis": "How does the triangle of the frame guide your eyes along the harp?",
+      "line": "How do the many straight lines of the strings contrast with the curve of the neck?",
+      "shape": "The frame forms a triangle and the soundbox is a hollow shape. How do these forms work together?",
+      "color": "The record lists wood and various materials. How do the tones of the wood and strings affect the look of the harp?",
+      "texture": "Which parts of the harp look smooth, and which might be carved or decorated?",
+      "space": "The harp is tall and open. How does it use empty space as part of its design?",
+      "light": "How does light help you see the strings against the frame?",
+      "meaning": "Harps have long been linked with music in many cultures. Why might this one be a good symbol of music?",
+      "culture": "Harps like this one were played in France around 1800. Why might wealthy households display instruments?",
+      "technique": "Pedals change the pitch of strings. How might this make the harp more flexible than one without pedals?",
+      "personal": "Have you ever tuned or adjusted something to make it work better? How is that like harp pedals?",
+      "critical": "The Met does not name the maker. What can we still learn about the harp without a name?"
+    },
+    "g68": {
+      "daily": "How does the harp's frame balance strength with elegance? Point to two details that show it.",
+      "emotion": "What tone does the harp's tall, open form create? Support your answer with evidence.",
+      "observation": "List what you see, from the neck to the base, before interpreting. What did you almost miss?",
+      "analysis": "How do the neck, column and soundbox combine to hold the strings in tension?",
+      "line": "How do the parallel strings create rhythm, and how do the frame's lines interrupt it?",
+      "shape": "How do curved shapes at the top and sides of the frame soften the harp's triangular structure?",
+      "color": "How might the colors of wood, strings and any decoration create focus on certain parts?",
+      "texture": "How does the contrast between fine strings and solid wood make the harp's structure more visible?",
+      "space": "The harp frames an open space filled with strings. How does that open form make the instrument both light and monumental?",
+      "light": "How does light passing through the strings change how you see the frame?",
+      "meaning": "Why might harps be symbols of refinement or learning, and why should we be cautious about saying that for this one?",
+      "culture": "How could an instrument like this reveal the tastes of French society around 1800?",
+      "technique": "What skills of woodworking and mechanism-making would a maker need to build a pedal harp?",
+      "personal": "How do you think it would feel to play an instrument as tall as you?",
+      "critical": "How much can an unsigned instrument tell us about its maker and its time?"
+    },
+    "g910": {
+      "daily": "How does the harp's structure make forces of tension visible, and how does it balance them in a graceful form?",
+      "emotion": "What atmosphere does the harp's vertical form and open space create, and how might that relate to its use?",
+      "observation": "Describe the harp's visual hierarchy: strings, frame, soundbox. Which component leads the eye?",
+      "analysis": "How does the triangular frame translate the physics of strings under tension into a visual composition?",
+      "line": "How do the dense parallel lines of the strings set up a dynamic with the sweeping curves of the frame?",
+      "shape": "How does the interplay of triangle, curve and hollow soundbox give the harp its recognizable silhouette?",
+      "color": "How might the surface finish and any decoration signal the harp's status as furniture and instrument?",
+      "texture": "How do the visual contrasts between thin strings and wooden elements underline the instrument's mechanical logic?",
+      "space": "How does the open frame turn empty space into part of the instrument's presence?",
+      "light": "How might gallery lighting affect the way the thin strings read against the background?",
+      "meaning": "How could a harp around 1800 be read as a symbol of accomplishment, leisure or cultural aspiration?",
+      "culture": "How did developments in harp mechanisms around 1800 reflect wider trends in instrument technology?",
+      "technique": "How do pedals change the relation between the player's body and the instrument?",
+      "personal": "How do technical improvements to a tool change how you feel about using it?",
+      "critical": "What are the limits of interpreting an instrument without knowing the maker, owner or documented history?"
+    },
+    "g1112": {
+      "daily": "What can this unsigned harp tell us about French instrument making around 1800, and what remains outside the evidence of the record?",
+      "emotion": "How does the harp's visual openness and verticality shape emotional responses, and to what extent are those responses culturally conditioned?",
+      "observation": "Distinguish visible structure from the inferred mechanism. Which features can you confirm from the image?",
+      "analysis": "How does the frame distribute tension, and how does that structural logic also organize the object's appearance?",
+      "line": "How do linear repetition and curved contour interact to produce both order and flow?",
+      "shape": "How does the harp's triangular form embody a relationship between engineering and aesthetics?",
+      "color": "How might surface treatment signal the harp's role as a domestic object, and what are the limits of reading status from color?",
+      "texture": "How do the contrasts between taut strings and fixed wooden parts clarify the object's function?",
+      "space": "How does the way the harp occupies a room alter the relationship between player, audience and architecture?",
+      "light": "How does photography shape the legibility of thin strings and fine details?",
+      "meaning": "How have harps been associated with different symbolic meanings across cultures, and how might that influence our reading of this object?",
+      "culture": "How do changes in harp design around 1800 relate to developments in composition, performance and the music market?",
+      "technique": "What technical problems does a pedal mechanism solve, and what new problems does it introduce for makers?",
+      "personal": "How does your experience with technology shape your understanding of historical innovation in instrument making?",
+      "critical": "How might museum categories such as Musical Instruments obscure an object's roles as furniture, status symbol and technical achievement?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Harp), medium, culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed, though the image should be confirmed in case the column or neck carries carved figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A French pedal harp of about 1800 with no named maker in the record. The record does not describe its mechanism or decoration, so students should observe the image and compare it with other harps.",
+    "vocabulary": ["pedal harp", "soundbox", "column", "tension", "pitch", "plucked string"],
+    "directions": [
+      "Compare this harp with the Burmese saung-gauk or an arched harp: how is the frame different?",
+      "Stretch rubber bands of different lengths on a box to explore pitch and tension.",
+      "Discuss how an unsigned object can still serve as evidence."
+    ]
+  }
+}

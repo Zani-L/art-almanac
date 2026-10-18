@@ -1,0 +1,152 @@
+{
+  "id": "met-9335",
+  "day": "04-11",
+  "title": "Vase",
+  "artist": "Grueby Faience Company",
+  "date": "1899–1910",
+  "medium": "Earthenware",
+  "movement": "Arts and Crafts",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP228665.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DP228665.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, The Edgar J. Kaufmann Foundation Gift, 1969",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A rounded clay vase with a smooth, soft-looking glazed surface and a simple, sculpted form.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/9335",
+    "objectId": "9335",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker (Grueby Faience Company), date, medium, culture, country, public-domain flag, credit line and image URLs read from the record; the record lists no tags"
+  },
+  "context": "An earthenware vase made by the Grueby Faience Company in the United States between 1899 and 1910. Grueby was a pottery in Boston known for pieces with thick, matte glazes and simple, sculpted forms, a style admired in the American Arts and Crafts movement.",
+  "descriptions": {
+    "k": "This is a vase made of clay. It has a soft, smooth look and a simple round shape. It was made by hand long ago. Can you tell where it is wide and where it is narrow? Would you like to hold it?",
+    "g12": "This clay vase was made in Boston, in the United States, more than 100 years ago. It has a plain, smooth shape and a soft surface that does not look shiny. There are no pictures on it. Where does the shape curve? What might be a good flower to put inside it?",
+    "g35": "The Grueby Faience Company made this earthenware vase around the year 1900. Instead of covering it with bright pictures, the makers focused on the simple shape and the soft, thick glaze. Notice the outline and the surface. How does a plain vase get your attention without much decoration? What makes it feel calm?",
+    "g68": "Grueby Faience Company, a Boston pottery, was known around 1900 for vases with simple, sculpted shapes and thick, matte glazes that look soft rather than glossy. This earthenware example shows how the Arts and Crafts movement valued handwork and honest materials over elaborate ornament. Look at the vase's silhouette and surface. How can a plain object have strong visual presence, and what does restraint add to its design?",
+    "g910": "This Grueby vase of 1899 to 1910 shows the American Arts and Crafts preference for strong, simple form and surface over applied decoration. The thick, matte glaze associated with the company softens the object's outline and emphasizes material rather than pattern. Because the Met record lists no subject tags, the work asks us to look at proportion, silhouette, and glaze as the primary content. Consider how restraint can be an expressive choice rather than an absence of design.",
+    "g1112": "Made between 1899 and 1910 by the Grueby Faience Company in Boston, this earthenware vase exemplifies how American Arts and Crafts potters pursued simplicity, hand-finished surfaces, and sculptural form as an alternative to industrial ornament. Its matte glaze, a hallmark of the company, shifts attention from pictorial decoration to proportion and material. Scholars discuss how such pieces occupy a space between studio craft and commercial production, since the company made them for a market. The museum image shows one view of a three-dimensional object, so qualities of touch and glaze must be inferred."
+  },
+  "questions": {
+    "k": {
+      "daily": "This vase has no pictures on it. What do you notice about its shape?",
+      "emotion": "Does this vase feel calm or busy to you? What do you see that tells you?",
+      "observation": "What parts of the vase can you name? Point to the top and the bottom.",
+      "analysis": "Where do your eyes stop first on the vase? Why do you think so?",
+      "line": "Can you trace the edge of the vase in the air? Does it go straight or curve?",
+      "shape": "Is the vase wider at the bottom, middle, or top? Show with your hands.",
+      "color": "What color is the vase? Is it bright or soft?",
+      "texture": "Does this vase look shiny or soft? How would it feel if you touched it?",
+      "space": "If you walked all the way around this vase, what do you think you would see?",
+      "light": "Where does the light touch the vase? Is the vase bright or shadowy there?",
+      "meaning": "If this vase could hold anything you wanted, what would you put inside?",
+      "culture": "People have made clay vases for thousands of years. What are other things people make from clay?",
+      "technique": "This vase is made of clay that was baked and covered with a glaze. Why might a maker add a glaze?",
+      "personal": "What simple thing at home do you find beautiful? Tell about it.",
+      "critical": "This vase has no flowers or pictures. Is it still art? Tell why."
+    },
+    "g12": {
+      "daily": "What makes this plain vase interesting to look at? Find two things.",
+      "emotion": "What feeling does the simple shape give you? Which part of the vase makes you feel that way?",
+      "observation": "Look slowly at the vase for one minute. Name four things you notice about its shape and surface.",
+      "analysis": "How does the maker keep your eyes moving along the vase's outline?",
+      "line": "Follow the outline of the vase from the bottom to the top. Where does it curve the most?",
+      "shape": "Which shapes did the maker use to build the vase? Where do they join together?",
+      "color": "What color or colors do you see? How does the color make the vase feel?",
+      "texture": "The vase looks smooth and soft instead of shiny. How can you tell from the picture?",
+      "space": "The vase has an inside and an outside. How can you tell it is a hollow container?",
+      "light": "Where is the light on the vase brightest? Where is it darkest?",
+      "meaning": "A plain vase can still say something. What might this one say about the person who made it?",
+      "culture": "This vase was made in Boston over 100 years ago. Why might people then have liked simple, handmade things?",
+      "technique": "Potters use a glaze to coat clay. What might a thick glaze change about how a vase looks?",
+      "personal": "Do you prefer plain things or fancy things? How does this vase fit your taste?",
+      "critical": "Is a simple shape harder or easier to make well? Share a reason."
+    },
+    "g35": {
+      "daily": "How does this vase get your attention without any pictures or bright patterns?",
+      "emotion": "What mood does the soft surface and simple shape create, and what details cause it?",
+      "observation": "Spend a minute looking at the outline and the surface. What small details do you notice?",
+      "analysis": "How do the shape and the surface of the vase work together to make it look balanced?",
+      "line": "The outline is the most important line on this vase. How does it change from bottom to top?",
+      "shape": "How does the vase's rounded body compare with its opening? Why might the maker have chosen those proportions?",
+      "color": "How does a single main color make you focus on the shape instead of a pattern?",
+      "texture": "The Grueby company was known for thick, matte glazes. How does a matte surface differ from a shiny one in the way it looks?",
+      "space": "How does the roundness of the vase make you imagine the parts you cannot see?",
+      "light": "On a matte, curved surface, light spreads softly. Where do you see that happening on this vase?",
+      "meaning": "Without a picture to tell a story, what might the vase itself be saying?",
+      "culture": "The Arts and Crafts movement admired handmade things and simple design. What might that tell us about people's feelings about factories at that time?",
+      "technique": "Earthenware is baked clay. Why might the maker choose a simple form for something shaped and baked by hand?",
+      "personal": "What object do you own that is simple but that you really like? What makes it special?",
+      "critical": "Do you think a plain vase deserves a place in an art museum? Explain with details."
+    },
+    "g68": {
+      "daily": "How does this vase prove that a plain object can have strong visual presence?",
+      "emotion": "What feeling does the vase's restraint create, and which features are responsible?",
+      "observation": "Describe the silhouette from base to rim. Which part draws your eye most, and why?",
+      "analysis": "How do proportion and outline give the vase a sense of balance without decoration?",
+      "line": "How does the single sweeping contour carry the design? Where does it change direction?",
+      "shape": "How do the large rounded mass and the smaller opening relate, and what does that relationship do for the vase's stability?",
+      "color": "How might a single, soft color make a viewer notice form and material instead of pattern?",
+      "texture": "How does a thick, matte glaze give the vase a tactile quality even in a photograph?",
+      "space": "How does the vase suggest a hidden back and an empty interior? How does that make you think about it as an object rather than a picture?",
+      "light": "How does soft light on a matte curved surface show the form without harsh highlights?",
+      "meaning": "What might it mean for a maker to choose simplicity over decoration around 1900?",
+      "culture": "How does a Boston pottery of the early 1900s reflect the Arts and Crafts belief in handwork and honest materials?",
+      "technique": "A glaze is a glassy coating fired onto clay. How might a thick matte glaze change the vase's look compared with a thin glossy one?",
+      "personal": "When have you chosen something simple because you liked how it was made? What drew you?",
+      "critical": "Does knowing the maker was a company, not a single artist, change how you view the vase? Why or why not?"
+    },
+    "g910": {
+      "daily": "How does the vase use proportion, silhouette, and glaze to create impact without ornament?",
+      "emotion": "How does formal restraint produce a mood of calm or dignity in this object?",
+      "observation": "Describe the visual hierarchy. When there is no pattern, what organizes the viewer's attention?",
+      "analysis": "Analyze how silhouette and surface cooperate to give the object coherence.",
+      "line": "How does the vase's contour function as the central expressive element?",
+      "shape": "How do the volumes of the vase create a feeling of weight and stability?",
+      "color": "How does a unified color field direct attention to form and material rather than design on the surface?",
+      "texture": "How does a thick, matte glaze alter the usual relation between a vase's form and the highlights that reveal it?",
+      "space": "How does a vase organize space as both solid form and enclosed void, and how does a photo limit that experience?",
+      "light": "How does diffuse reflection from a low-gloss surface affect the clarity of the object's contour?",
+      "meaning": "Is absence of applied ornament itself a statement of values? What might it communicate?",
+      "culture": "How does the Grueby style express Arts and Crafts reform ideals, and how was it also a marketable product?",
+      "technique": "What skills of throwing, shaping, glazing, and firing does a simple form like this still demand?",
+      "personal": "How does your taste for simplicity or ornament shape your response to this vase?",
+      "critical": "How do we judge quality in an object whose appeal lies in subtle proportion and surface rather than subject matter?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this vase's proportion, surface, and absence of imagery about the aesthetics of American Arts and Crafts pottery?",
+      "emotion": "How does the vase's restraint produce an affective response, and how is that different from narrative or pictorial art?",
+      "observation": "Describe the vase's formal properties precisely. When does your description begin to carry value judgments?",
+      "analysis": "Analyze how silhouette, volume, and glaze cohere into a single statement of design philosophy.",
+      "line": "How does contour, rather than internal linear detail, carry the object's expressive content?",
+      "shape": "How do the vase's masses set up a visual argument about stability, growth, and enclosure?",
+      "color": "How does the reliance on a single dominant color shift attention from representation toward material presence?",
+      "texture": "In what ways does a matte glaze connect to ideas of truth to materials, and where might the ideal of simplicity conceal complex technical labor?",
+      "space": "How does the vase's presence as a volume enclosing a void complicate its representation in a single photograph?",
+      "light": "How does the soft modulation of light across a matte surface give the form its character, and how would other lighting alter it?",
+      "meaning": "Evaluate the claim that an unadorned vase carries meaning. What are the strongest arguments on each side?",
+      "culture": "How does a commercially successful Boston pottery embody both the anti-industrial rhetoric of the Arts and Crafts movement and the realities of production for a market?",
+      "technique": "What does the thick matte glaze imply about technical experimentation in American art pottery around 1900?",
+      "personal": "How does your own context shape your sense of when simplicity feels elegant and when it feels empty?",
+      "critical": "What does it mean that the museum credits a company rather than an individual maker, and how does that shape the object's status as art?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, medium and credit line read from the Met record; the object is a decorative earthenware vase and the record lists no tags. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Grueby Faience Company, based in Boston, was known for thick matte glazes and simple molded forms. The Met record dates this vase 1899 to 1910; the glaze color and any surface detail should be confirmed from the museum image.",
+    "vocabulary": ["earthenware", "glaze", "matte", "silhouette", "Arts and Crafts", "proportion"],
+    "directions": [
+      "Have students draw only the outline of the vase, then change one curve and discuss how the mood shifts.",
+      "Compare this plain vase with a heavily decorated vase in the archive and discuss what each design values.",
+      "Ask students to argue whether simplicity is easier or harder to achieve in design."
+    ]
+  }
+}

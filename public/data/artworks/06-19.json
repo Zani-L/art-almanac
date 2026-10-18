@@ -1,0 +1,158 @@
+{
+  "id": "met-435647",
+  "day": "06-19",
+  "title": "Vaprio d'Adda",
+  "artist": "Bernardo Bellotto",
+  "date": "1744",
+  "medium": "Oil on canvas",
+  "region": "Italy (Lombardy)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DT4603.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT4603.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Joseph Pulitzer Bequest, 1939",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide landscape view of a small town beside a river, with boats on the water and buildings along the bank under a broad sky.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435647",
+    "objectId": "435647",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Towns, Rivers, Boats) and image URLs read from the record"
+  },
+  "context": "An oil painting by the Italian artist Bernardo Bellotto, dated 1744. The title names Vaprio d'Adda, a town on the Adda River in northern Italy. Bellotto trained in Venice, where his uncle Canaletto was a leading painter of city views, and later worked in several European cities.",
+  "descriptions": {
+    "k": "A little town sits beside a river. Boats float on the water. Buildings stand along the shore. The sky is wide. Which boat would you ride in? What do you hear near a river?",
+    "g12": "Bernardo Bellotto painted this view of a town by a river in Italy. Boats float on the water, and buildings line the bank. The painter shows the whole place from a distance, like looking from a hilltop. What would you do if you visited this town?",
+    "g35": "Bernardo Bellotto was an Italian painter who painted views of towns and cities. This one shows Vaprio d'Adda, a town on a river in northern Italy, with boats on the water. Bellotto trained in Venice with his uncle, the painter Canaletto. Look for how he paints the river, the buildings, and the sky. Why might someone want a painting of their town?",
+    "g68": "In 1744, Bernardo Bellotto painted this view of Vaprio d'Adda, a town on the Adda River in northern Italy. He trained in Venice with his uncle Canaletto, and his style shows a careful attention to buildings and water. Notice how the river leads your eye across the picture and how boats and buildings are placed within the broad landscape. What does the painting tell you about the work of a view painter, called a vedutista?",
+    "g910": "Bellotto's Vaprio d'Adda exemplifies the eighteenth-century view painting, or veduta, in which towns and landscapes are rendered with careful observation. Having trained in Venice with his uncle Canaletto, Bellotto balances precise architectural detail with a broad river landscape and open sky. Boats and buildings are arranged to lead the eye across a calm space. How does Bellotto's attention to specific places differ from an imagined landscape?",
+    "g1112": "Bellotto's 1744 view of Vaprio d'Adda belongs to the tradition of vedute shaped by his uncle Canaletto, yet it already shows his individual interest in clarity and spacious composition. The painting presents a particular place with an apparent precision that nonetheless depends on choices of viewpoint, light, and arrangement. It raises questions about how observation and construction combine in topographical painting, and about how such images served patrons who wanted their territories recorded and admired."
+  },
+  "questions": {
+    "k": {
+      "daily": "If you lived in this river town, what would you do each day?",
+      "emotion": "Is this town loud or quiet? What do you see that tells you?",
+      "observation": "Count the boats on the river. What else is on the water?",
+      "analysis": "Look from the front of the picture to the back. What do you see first, middle, and last?",
+      "line": "Trace the line of the river where it curves. Where does it take you?",
+      "shape": "What shapes do you see in the buildings? Find a square and a triangle.",
+      "color": "What colors are in the water and the sky? Which do you like best?",
+      "texture": "How would the river water feel if you touched it? How would the buildings feel?",
+      "space": "Which boat on the Adda is nearest to you, and which part of the town is farthest away?",
+      "light": "Is it a bright day or a cloudy day here? What shows you?",
+      "meaning": "Why would a painter want to paint this whole town?",
+      "culture": "People lived by this river long ago in Italy. What do rivers help people do?",
+      "technique": "The painter used tiny brush marks to paint far-away buildings. Where can you see small details?",
+      "personal": "What is your favorite place near water? Tell about it.",
+      "critical": "Is this picture exactly like the real town, or could the painter have changed something?"
+    },
+    "g12": {
+      "daily": "What would you like to do in this town on the river, and why?",
+      "emotion": "What mood does the wide river and sky give this scene? Which parts help you feel it?",
+      "observation": "List five things you notice, from the boats to the buildings to the sky.",
+      "analysis": "How does the river help lead your eyes through the whole picture?",
+      "line": "Find the long line where the water meets the land. How does it hold the picture together?",
+      "shape": "Which shapes make up the town's buildings? How are they like building blocks?",
+      "color": "Which colors are bright in the town and which are soft in the sky and water?",
+      "texture": "Where does the painting look smooth, like water, and where does it look rough, like walls?",
+      "space": "How can you tell the town is far away and the boats are closer?",
+      "light": "How does the light touch the water, the boats, and the buildings?",
+      "meaning": "Why might someone in 1744 want a painting of a small town like this?",
+      "culture": "Bellotto learned to paint views in Venice. Why might travelers buy paintings of places they visited?",
+      "technique": "Bellotto painted buildings with careful details. Where do you see the most careful work?",
+      "personal": "If you painted your own town, what places would you show first?",
+      "critical": "How is a painting of a town different from a photograph of it?"
+    },
+    "g35": {
+      "daily": "What do you think daily life is like in this river town, and which details in the painting support your ideas?",
+      "emotion": "What is the mood of this view? Point to light, sky, and water to explain your answer.",
+      "observation": "Look silently for one minute at the river's edge. What small details of boats and buildings do you notice?",
+      "analysis": "How does Bellotto arrange the river, boats, and town so you can read the scene like a map?",
+      "line": "How do horizontal lines of the river and shore compare with vertical lines of buildings?",
+      "shape": "How do the blocky shapes of buildings contrast with the long shape of the river?",
+      "color": "How does Bellotto use sky colors to affect how the town and water look?",
+      "texture": "How does the painter show the difference between water, brick or plaster, and sky?",
+      "space": "How does the artist use size and overlapping to show that the river goes far into the distance?",
+      "light": "Where does the light seem strongest, and how does it change the colors of the buildings?",
+      "meaning": "Why might a painter prefer an accurate-looking view of a real town over an imagined one?",
+      "culture": "Bellotto was Canaletto's nephew and student. What might he have learned from watching his uncle paint views?",
+      "technique": "A view painter often used careful drawing before painting. Why would planning help with a scene like this?",
+      "personal": "Think about a place that is special to you. What part of it would you want an artist to get exactly right?",
+      "critical": "How much of this scene do you think the artist saw and how much might he have arranged?"
+    },
+    "g68": {
+      "daily": "How does Bellotto make a real town feel both carefully recorded and carefully composed?",
+      "emotion": "How do the open sky, calm water, and small boats shape the mood of the view?",
+      "observation": "Describe the picture from foreground to background. Which details are painted most precisely?",
+      "analysis": "How does the river act as a structure that organizes the whole composition?",
+      "line": "How do the horizontals of water and bank interact with the verticals of buildings and masts?",
+      "shape": "How do clusters of buildings form larger shapes against the open space of the water and sky?",
+      "color": "How does the palette of earth tones, blues, and creams create harmony?",
+      "texture": "How do you read the difference between smooth water and rougher building surfaces?",
+      "space": "How do overlapping forms, size changes, and atmospheric haze build the sense of distance?",
+      "light": "How does the light give volume to the buildings and clarity to the river?",
+      "meaning": "Is the painting mostly a record of a place, a pleasing landscape, or a bit of both? What evidence supports your view?",
+      "culture": "How might a patron in 1744 have used a painting of a particular town on a river?",
+      "technique": "Bellotto's careful style is linked to the tradition of Canaletto. What details suggest this training?",
+      "personal": "How do you decide which parts of a place to include when you describe it to someone far away?",
+      "critical": "What are the limits of trusting a painting as evidence for how a town looked in the past?"
+    },
+    "g910": {
+      "daily": "How does Bellotto balance fidelity to a real place with the demands of a pleasing composition?",
+      "emotion": "How does the tranquillity of the water and sky shape the emotional register of the picture?",
+      "observation": "Describe the visual hierarchy of the scene. What do you notice first, and how is that effect produced?",
+      "analysis": "Analyze how the diagonal sweep of the river and the placement of the town organize depth and balance.",
+      "line": "How do converging lines and horizontal bands create a coherent view?",
+      "shape": "How do repeated rectangular forms of buildings give structure to the composition?",
+      "color": "How does Bellotto use tone and atmosphere to unify the diverse elements of the scene?",
+      "texture": "How does the painter differentiate the reflective water, solid architecture, and sky through brushwork?",
+      "space": "How does the structure of the scene suggest a view from an elevated or distant position?",
+      "light": "How does the lighting clarify forms and set the mood without dramatic contrast?",
+      "meaning": "What might a painting like this say about how patrons wanted places, and perhaps their own holdings or region, to be seen?",
+      "culture": "How does Bellotto's training under Canaletto in Venice appear in a view of a town far from the lagoon?",
+      "technique": "How could drawing from observation and later construction in the studio combine in a painting like this?",
+      "personal": "How does your own knowledge of a place shape what you expect an accurate picture of it to include?",
+      "critical": "Is precision a form of neutrality in a veduta, or is it also a way of persuading viewers? Argue your view."
+    },
+    "g1112": {
+      "daily": "What visual evidence best distinguishes record from composition in this view, and where do you remain unsure?",
+      "emotion": "How does the painting's apparent calm shape the viewer's trust in what is shown?",
+      "observation": "Describe the painting's spatial construction with precision. Where does careful description imply a judgment?",
+      "analysis": "Analyze how Bellotto's handling of horizontals, depth, and scale supports an impression of objectivity.",
+      "line": "How do the linear structures of shore, architecture, and river support the painting's claims to accuracy?",
+      "shape": "How do the geometries of building and boat contribute to a controlled order within a natural setting?",
+      "color": "How might changes in pigments and varnish over time alter our perception of the original palette?",
+      "texture": "How does the variety of rendered surfaces reflect the painter's ambition to give a persuasive sense of the real?",
+      "space": "How does the choice of viewpoint position the viewer in relation to the town and its inhabitants?",
+      "light": "In what ways does light function as a unifying device rather than as an expressive one?",
+      "meaning": "How do topographical paintings straddle the roles of document, decoration, and assertion of ownership or belonging?",
+      "culture": "How does Bellotto's early career in Italy relate to his later work in other European courts, as far as we can tell from this single canvas?",
+      "technique": "What does the clarity of this picture suggest about how Bellotto's methods differ from the looser touch of some Venetian contemporaries?",
+      "personal": "How does your own experience of mapping or photographing places influence how you judge a painted view?",
+      "critical": "What counts as good evidence that a veduta represents a place faithfully, and what could undermine it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tags (Towns, Rivers, Boats) read from the Met record and checked against the rejection list; none of the flagged terms appear.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Bernardo Bellotto (also known as Canaletto, a name he shared with his uncle) trained in Venice and later painted views in other European cities. This 1744 painting shows a river town in northern Italy.",
+    "vocabulary": [
+      "veduta",
+      "topographical",
+      "foreground",
+      "horizon",
+      "viewpoint",
+      "oil paint"
+    ],
+    "directions": [
+      "Ask students to sketch a map of the picture from above, based on what they see.",
+      "Have students list things a painted view can show and things a map cannot.",
+      "Compare this view with a harbor view by another artist in the archive and discuss how each uses the sky."
+    ]
+  }
+}

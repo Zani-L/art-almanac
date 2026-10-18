@@ -1,0 +1,159 @@
+{
+  "id": "met-436965",
+  "day": "05-03",
+  "title": "The Monet Family in Their Garden at Argenteuil",
+  "artist": "Edouard Manet",
+  "date": "1874",
+  "medium": "Oil on canvas",
+  "movement": "Realism and early Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25465-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-25465-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Joan Whitney Payson, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A sunny garden scene showing a family outdoors: a woman and a young child sit close together on the grass while a man works among the flowers nearby. Green plants, blooms, and a house fill the background in bright, loose brushstrokes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436965",
+    "objectId": "436965",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Gardens, Men, Women, Family), credit line, and image URLs read from the record"
+  },
+  "context": "Edouard Manet painted his friend Claude Monet's family in their garden at Argenteuil, near Paris, in the summer of 1874. Monet, Manet, and Renoir worked side by side that season, and Renoir is known to have painted the same scene.",
+  "descriptions": {
+    "k": "A family spends time in a garden. A mother and a child sit close together. A man works nearby. The garden is full of green leaves and flowers. What do you think the family is saying to each other?",
+    "g12": "Edouard Manet painted his friend's family in their sunny garden. A woman and a child rest together, and a man is busy with the flowers. The leaves and blooms are painted with quick, loose strokes. Does this family seem to be together, or busy with separate things?",
+    "g35": "In 1874, Edouard Manet visited his friend Claude Monet in the town of Argenteuil and painted his family relaxing in the garden. The paint is loose and bright, and the figures are arranged in a casual way, not posed like a formal portrait. Look at who is close and who is apart. What do their positions suggest about this summer day?",
+    "g68": "Manet painted this scene in 1874 while visiting Monet at Argenteuil, near Paris. Instead of a formal family portrait, he shows relaxed figures sharing a sunny garden, with quick brushwork and bright color typical of the circle around him. The distance between the figures may hint at moods, though scholars caution against over-reading. How does a casual composition change how we see a family?",
+    "g910": "Manet, a bridge between Realism and Impressionism, paints Monet's family in an unposed outdoor setting. Loose, rapid brushwork and a bright palette treat the garden as an environment of light, while figures sit at different distances from one another. Some viewers read these arrangements as meaningful; others see an informal scene of modern leisure. Consider how the picture balances portrait, landscape, and everyday life.",
+    "g1112": "Painted while Manet, Monet, and Renoir worked together at Argenteuil, this picture sits at the point where portraiture, landscape, and modern leisure meet. The loose handling and sunlit color align it with Impressionism, though Manet never exhibited with the group. Interpretations of the figures' spacing and gazes vary, from intimate family record to subtle psychological study. How does the painting's ambiguity shape what we can reasonably claim about the people shown?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the family is doing in the garden today?",
+      "emotion": "Does this garden feel sleepy, happy, or busy? What makes you say that?",
+      "observation": "Find the grown-up woman, the child, and the man. Where is each one?",
+      "analysis": "Who is sitting closest together? Who is a little bit apart?",
+      "line": "Look for tall plant stems and leaves. Which way do they point?",
+      "shape": "Find round shapes in the flowers and leaves. Can you find any shapes in the house?",
+      "color": "Which colors in the garden are the brightest? Where are the green leaves?",
+      "texture": "How would the grass and leaves feel? Which parts look soft or fuzzy?",
+      "space": "What is closest to you in the picture? What is far behind the family?",
+      "light": "Is it sunny here? Show us where the sunshine seems to touch the garden.",
+      "meaning": "If the child could talk, what would the child say to the grown-up?",
+      "culture": "This family lived in France long ago. What things in their garden do you also have near you?",
+      "technique": "The painter used quick brush strokes. How can you tell he painted fast?",
+      "personal": "What do you like to do when you are in a garden or park?",
+      "critical": "Why would a painter choose to show a family relaxing instead of a fancy portrait?"
+    },
+    "g12": {
+      "daily": "What do you think each person in the garden is thinking or doing? Use a clue from the picture.",
+      "emotion": "How does the garden make you feel, calm or lively? Which parts help you feel that way?",
+      "observation": "List five things you see in the garden, starting from the people.",
+      "analysis": "How does the artist place the people so that your eyes go from one to another?",
+      "line": "Find lines made by plants, paths, or the house. How do they make the garden feel real?",
+      "shape": "The people and the flowers make different shapes. Which are soft and which are tall?",
+      "color": "Where do you see the brightest colors? How do they stand out against the green?",
+      "texture": "Which parts look like soft leaves, and which look like cloth or skin? Show how you can tell.",
+      "space": "How can you tell some parts of the garden are close and some are farther back?",
+      "light": "Where does the sunlight look strongest? Where might it be shady?",
+      "meaning": "Manet painted a friend's family at home. Why might an artist paint people he knows?",
+      "culture": "Families near Paris spent time in gardens like this. What does the picture show about how they spent the day?",
+      "technique": "The brush marks look quick and loose. Where can you see them best?",
+      "personal": "Who do you spend relaxing time with, and how would you show them in a picture?",
+      "critical": "Do these people look like they are posing or just being themselves? Explain what makes you think so."
+    },
+    "g35": {
+      "daily": "Look at how the three people are placed in the garden. What do their positions tell you about the family on this summer day?",
+      "emotion": "How would you describe the mood of this scene? Use two details to explain.",
+      "observation": "Take one minute to look only at the background. What do you find behind the family that you missed at first?",
+      "analysis": "How does Manet balance the people and the garden so that neither takes over the whole picture?",
+      "line": "How do the stems, leaves, and edges of the house help guide your eye around the picture?",
+      "shape": "How do the soft shapes of flowers and bushes contrast with the more solid shapes of the people and the house?",
+      "color": "How do bright flower colors stand out from the many greens in the garden?",
+      "texture": "How does the painter suggest soft leaves and clothing using quick strokes of paint?",
+      "space": "Which parts of the garden look near and which look far? What choices help show that?",
+      "light": "How does the sunlight affect the colors of the garden and the clothing of the figures?",
+      "meaning": "A garden can show rest, growth, or family life. What might it add to the meaning of this painting?",
+      "culture": "Argenteuil was a town where many artists painted outdoors in the 1870s. Why might artists enjoy painting there?",
+      "technique": "Impressionists often painted outdoors in short sessions. How might that affect how the paint looks?",
+      "personal": "Think about a time you spent with family outdoors. How would you paint that day?",
+      "critical": "Does the painting tell us exactly how the family felt, or do we have to guess? What evidence do we have?"
+    },
+    "g68": {
+      "daily": "How does Manet make an everyday family scene feel worth a large canvas?",
+      "emotion": "How do the figures' positions and the bright garden affect the emotional tone of the picture?",
+      "observation": "Identify the main figures, the garden elements, and the background. Which details seem planned and which seem quickly sketched?",
+      "analysis": "How does Manet use groups of figures and masses of foliage to create balance?",
+      "line": "How do the lines of plants and the house contribute to a sense of order within the loose brushwork?",
+      "shape": "How do the figures sitting close together form a unit, and what role does the standing or working figure play?",
+      "color": "How does the interplay of green foliage and brighter flower color create focal points?",
+      "texture": "How do broad, quick strokes suggest the textures of plants, clothing, and sunlit air?",
+      "space": "How does the arrangement of the figures and garden set up a feeling of shared space?",
+      "light": "How does outdoor light affect color and shadow in this painting compared with a studio portrait?",
+      "meaning": "Scholars often caution against reading too much into the figures' spacing. What reading seems best supported by the visual evidence?",
+      "culture": "How might the growth of suburbs and leisure time near Paris have shaped what painters like Manet chose to paint?",
+      "technique": "Manet's brushwork here is looser than in many of his city scenes. How does this connect to painting among friends outdoors?",
+      "personal": "How would you capture the feeling of a relaxed day with people you know in a single image?",
+      "critical": "Is a painting of friends a portrait, a landscape, or both? Defend your view."
+    },
+    "g910": {
+      "daily": "What does the arrangement of figures and garden suggest about the relationship between portrait and landscape in this painting?",
+      "emotion": "How does the painting convey an atmosphere of leisure while leaving the figures' feelings open to interpretation?",
+      "observation": "Describe the compositional structure: where do the figures sit, where does the garden dominate, and what directs the eye?",
+      "analysis": "Analyze how Manet integrates figures into their environment so that people and garden share the same light.",
+      "line": "How does broken contour allow figures to merge with foliage while still reading as distinct forms?",
+      "shape": "How do clustered figures and irregular plant masses create a rhythm across the canvas?",
+      "color": "How does the juxtaposition of bright floral accents with varied greens build a sense of sunlit warmth?",
+      "texture": "How do visible strokes make the picture feel immediate, and what is lost or gained compared with a smooth finish?",
+      "space": "How does the garden's shallow, layered space bring the viewer close to the family?",
+      "light": "How does the treatment of outdoor light align this painting with Impressionist concerns while maintaining Manet's own style?",
+      "meaning": "How do we distinguish between what the picture shows and what we infer from knowing these were friends and fellow artists?",
+      "culture": "How does this scene of suburban leisure reflect changes in modern French life during the 1870s?",
+      "technique": "How might working beside Monet and Renoir have influenced Manet's palette and brushwork here?",
+      "personal": "How does knowing the people in a painting are real friends change how you read the scene?",
+      "critical": "Manet never exhibited with the Impressionists. What features of this painting connect him to them, and what keeps him apart?"
+    },
+    "g1112": {
+      "daily": "How does a painting of friends in a garden complicate the boundaries between portrait, landscape, and genre scene?",
+      "emotion": "How does the painting sustain ambiguity about the family's mood, and what is the effect of that ambiguity on the viewer?",
+      "observation": "Describe the composition formally, then consider how much of that description depends on assumptions about the sitters.",
+      "analysis": "How do positioning, scale, and orientation create relations among figures that viewers may interpret in different ways?",
+      "line": "How does the painting weaken the distinction between figure and ground through broken contour?",
+      "shape": "How does the grouping of figures against the textured mass of foliage structure the picture's visual rhythm?",
+      "color": "How does the painting's brightened palette reflect shared experiments among Manet, Monet, and Renoir in 1874?",
+      "texture": "What does the sketch-like handling imply about the painting's status, as finished work or study, and how does that matter?",
+      "space": "How does the painting position the viewer in relation to the family, as guest, observer, or both?",
+      "light": "How does the treatment of light mediate between the optical aims of Impressionism and Manet's established interest in contrast?",
+      "meaning": "Compare readings of the painting as an affectionate record, a psychological study, and a statement about modern leisure. What evidence supports each?",
+      "culture": "How does the painting participate in the construction of suburban domesticity as a modern subject?",
+      "technique": "How can we compare different painters' versions of the same garden scene to understand individual style versus shared method?",
+      "personal": "How do assumptions about family, gender, and leisure shape the way you read the figures' roles?",
+      "critical": "What are the limits of reading biographical relationships into a painting, and how should we treat documentary evidence outside it?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Gardens, Men, Women, Family), classification (Paintings), and medium checked against the museum record. The subject is a clothed family in a garden.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in the summer of 1874 at Argenteuil, where Manet visited Monet. The painting records a friendship among artists as much as a family scene.",
+    "vocabulary": [
+      "Impressionism",
+      "Realism",
+      "genre scene",
+      "en plein air",
+      "brushwork",
+      "composition"
+    ],
+    "directions": [
+      "Have students describe the spacing of the figures and compare their guesses about relationships, then discuss what counts as evidence.",
+      "Ask students to sketch a relaxed moment with friends or family using loose, quick marks.",
+      "Compare Manet's casual approach with a formal portrait from another day in the archive."
+    ]
+  }
+}

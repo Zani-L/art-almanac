@@ -1,0 +1,151 @@
+{
+  "id": "met-501263",
+  "day": "07-26",
+  "title": "Rattle",
+  "artist": "Artist unknown (Xaadas, Haida)",
+  "date": "19th century",
+  "medium": "Wood, pebbles or pellets, polychrome",
+  "region": "Xaadas (Haida), Canada",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP168376.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP168376.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A carved and painted wooden rattle about twenty-five centimeters long, with a bird as part of its design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501263",
+    "objectId": "501263",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Idiophone-Shaken-rattle), objectName, tag (Birds), dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A painted wooden rattle made by Xaadas (Haida) artists in the 19th century. The Haida homeland is Haida Gwaii, off the coast of present-day British Columbia, Canada. The record lists a bird as its subject and notes pebbles or pellets inside to make the sound.",
+  "descriptions": {
+    "k": "This is a rattle shaped with a bird. It is made of wood and painted. Little pebbles inside make a sound when you shake it. Haida artists made it. Can you find the bird?",
+    "g12": "Haida artists made this wooden rattle long ago. It is carved with a bird and painted in colors. Pebbles or pellets inside make it shake and rattle. It is about as long as a ruler. What sound do you think it makes?",
+    "g35": "This rattle was made by Xaadas, or Haida, artists in the 19th century. The Haida live on Haida Gwaii, islands off the coast of Canada. It is carved from wood and painted, and pebbles or pellets inside make the sound. A bird appears in its design. Look at how the carver turned a musical instrument into a sculpture. Why make an instrument beautiful?",
+    "g68": "Haida carvers of the Northwest Coast are known for combining sculpture, painting, and design, and this 19th-century rattle shows all three. It is an instrument, filled with pebbles or pellets, and also a carved bird form. The record does not describe its use, and Haida objects can carry meanings tied to family and community that outsiders should not assume. Looking closely at how shape, color, and function fit together is a respectful place to begin.",
+    "g910": "This rattle, made by Xaadas (Haida) artists in the 19th century, merges instrument and sculpture: a painted wooden form with a bird and a hollow interior holding pebbles or pellets. Haida art is known for strong, flowing outlines and carefully balanced composition, but the record does not specify what this particular bird represents or how the rattle was used. A thoughtful viewer looks closely at form and craft while respecting that meanings belong to the Haida people.",
+    "g1112": "A 19th-century Xaadas (Haida) rattle, this object belongs to a Northwest Coast tradition in which carved and painted works can express relationships among people, animals, and histories. It was collected into the Met's musical instrument holdings in 1889, which frames it as a sound-making object, though its original contexts are not stated in the record. Good interpretation distinguishes what can be seen, such as bird imagery and polychrome surface, from what belongs to Haida knowledge. How should museums honor that boundary?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the bird on this rattle? Point to its head.",
+      "emotion": "Does this rattle look funny, proud, or calm? What do you see that tells you?",
+      "observation": "What can you find on this rattle besides the bird? Name two things.",
+      "analysis": "Where do your eyes go first on the rattle? Why?",
+      "line": "Can you find curved lines in the paint? Trace one in the air.",
+      "shape": "What shapes did the carver use for the bird's body and head?",
+      "color": "Which painted colors do you see on the rattle? Which one stands out?",
+      "texture": "The rattle is made of wood. How do you think it feels in your hand?",
+      "space": "This rattle is about as long as a ruler. Show with your hands how big it is.",
+      "light": "Which parts of the rattle look bright and which look dark?",
+      "meaning": "What sounds do you think the pebbles inside make? Make the sound.",
+      "culture": "Haida artists made this rattle. What musical instruments do people use in your family?",
+      "technique": "The artist carved wood and painted it. What tools do you think were needed?",
+      "personal": "If you could carve an animal on an instrument, which one would you pick?",
+      "critical": "How can you tell this rattle was made for sound as well as for looking?"
+    },
+    "g12": {
+      "daily": "What makes this rattle more than a plain shaker? Point to details that help you decide.",
+      "emotion": "What feeling does the painted bird give the rattle: lively, serious, or friendly? Why?",
+      "observation": "Describe the rattle from one end to the other. What do you see?",
+      "analysis": "How did the artist fit the bird shape into a rattle you can hold?",
+      "line": "Look for smooth, flowing lines in the painting and carving. Where do they go?",
+      "shape": "What shapes make up the bird? Which are round and which are pointed?",
+      "color": "The paint is called polychrome, which means many colors. How many can you count?",
+      "texture": "Which parts look smooth from paint and which parts look carved?",
+      "space": "Inside the rattle, pebbles or pellets can move. How does that hidden space matter?",
+      "light": "Imagine moving the rattle in sunlight. Which painted areas would shine most?",
+      "meaning": "Why might a maker choose a bird for a rattle?",
+      "culture": "Haida artists live on islands off the coast of Canada. What birds might they see there?",
+      "technique": "Carvers shape wood and then add paint. Why paint after carving?",
+      "personal": "What sound makes you feel happy? How could you build it into an object?",
+      "critical": "The record does not say how this rattle was used. Why should we be careful when guessing?"
+    },
+    "g35": {
+      "daily": "How does the carver combine a bird and a rattle into one object? Give details from the shape.",
+      "emotion": "What mood does the painted bird give the rattle? Which features create that mood?",
+      "observation": "Study the rattle for one minute. List the painted areas, carved shapes, and edges you notice.",
+      "analysis": "How are the carved shapes and painted areas arranged to make the bird easy to see?",
+      "line": "How do flowing outlines help separate parts of the bird from each other?",
+      "shape": "How do the rounded and curved shapes make the rattle comfortable to hold and interesting to see?",
+      "color": "How do the painted colors help the bird stand out against the wood?",
+      "texture": "How would a carved and painted wooden surface feel different from a plain stick?",
+      "space": "A rattle has a hidden inside. How does the idea of pebbles inside change how you think about it?",
+      "light": "How do the painted colors reflect light compared with bare wood?",
+      "meaning": "Haida art often shows animals. What might it mean for a community to include animals on objects?",
+      "culture": "Haida people live on Haida Gwaii. How can a carved object show pride in a community's art?",
+      "technique": "A carver must plan the form before cutting. Why is planning important in wood?",
+      "personal": "Think of something you use every day. How would you make it beautiful?",
+      "critical": "Why might a museum list a rattle with musical instruments even if it is also a sculpture?"
+    },
+    "g68": {
+      "daily": "How does this rattle succeed both as an instrument and as a work of sculpture?",
+      "emotion": "How does the bird's form give the rattle a sense of energy or presence?",
+      "observation": "Describe the rattle's carved and painted features in order, from one end to the other.",
+      "analysis": "How does the composition organize the bird's body into clear parts?",
+      "line": "How do the flowing outlines typical of Northwest Coast design shape this rattle's look?",
+      "shape": "How do the swelling forms suit a hand-held rattle with pebbles inside?",
+      "color": "How does polychrome paint emphasize certain parts of the carving?",
+      "texture": "How do paint and carved relief work together to make surface variety?",
+      "space": "How do the hollow interior and moving pebbles make this a different kind of sculpture from a solid carving?",
+      "light": "How might paint finishes affect the shine and depth of the bird's carved forms?",
+      "meaning": "Why should viewers avoid assuming what a Haida bird image means without information from the community?",
+      "culture": "How do Haida objects connect sculpture, performance, and community life, and what do we need to know before saying more?",
+      "technique": "What skills does a carver need to shape a hollow wooden rattle that also sounds good?",
+      "personal": "How do music and art come together in your own life?",
+      "critical": "How does a museum's classification of an object, as an instrument, shape the way visitors think about it?"
+    },
+    "g910": {
+      "daily": "How do carving, paint, and sound-making function work together in this rattle?",
+      "emotion": "How does the rattle's animal form create presence, and how might its sound have added to that effect?",
+      "observation": "Describe the rattle's visual hierarchy and note which features lead the eye along its length.",
+      "analysis": "Analyze how the carver balances symmetry and movement in the bird form.",
+      "line": "How does the use of continuous, flowing line link parts of the design?",
+      "shape": "How do swelling and tapering volumes shape both the bird and the rattle's grip?",
+      "color": "How does polychrome paint define form and direct attention across the surface?",
+      "texture": "How do differences between painted and unpainted areas, or carved and flat areas, shape the object's tactile impression?",
+      "space": "How does the hollow interior, with its moving pebbles, add an unseen dimension to a sculptural object?",
+      "light": "How might light interact with painted wood differently from polished or raw wood?",
+      "meaning": "What kinds of knowledge, beyond museum records, would be needed to interpret a Haida bird image responsibly?",
+      "culture": "How do Haida carving and painting traditions relate to continuing community arts today?",
+      "technique": "How does making a hollow, sound-producing carved form add technical challenges to sculpture?",
+      "personal": "How does an object designed to make sound change how you imagine experiencing it?",
+      "critical": "What are the effects of presenting instruments as silent objects in a museum, and how might that be addressed?"
+    },
+    "g1112": {
+      "daily": "What can be responsibly said about this rattle from visual evidence alone, and what belongs to Haida knowledge?",
+      "emotion": "How does the interplay of sculpted form and anticipated sound shape aesthetic experience in ways a photograph cannot capture?",
+      "observation": "Describe the rattle's form and surface precisely. Which words in your description assume meaning?",
+      "analysis": "Analyze how the object integrates figurative form, painted design, and instrumental function.",
+      "line": "How does the continuity of line in Northwest Coast design shape the relationship between figure and ornament?",
+      "shape": "How do formal conventions of Haida art, such as bold outlines, structure the way a viewer reads the bird?",
+      "color": "How does polychrome decoration function in relation to the carved volumes, and how do aging and display affect what we see?",
+      "texture": "How do the object's tactile qualities connect to handling in performance, and what is lost in a static display?",
+      "space": "How does the concealed interior complicate the distinction between object and instrument?",
+      "light": "How do exhibition conditions alter the visibility of paint and carving on a historical object?",
+      "meaning": "How should scholars handle bird imagery in Haida art when interpretation depends on community knowledge not stated in the record?",
+      "culture": "How did 19th-century collecting of Northwest Coast objects shape how this rattle was documented and classified?",
+      "technique": "What does the construction of a durable, sound-producing carved object suggest about specialized training and workshop knowledge?",
+      "personal": "How do your own ideas about instruments and art affect the way you categorize this object?",
+      "critical": "What does it mean for a museum to honor Haida authority over meaning, and how can display practices reflect it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Idiophone-Shaken-rattle), objectName (Rattle), medium, and tag (Birds) read from the museum record; the record does not flag the object as sacred or restricted and indicates no human remains, nudity, or weapons. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Xaadas, or Haida, live on Haida Gwaii, off the coast of British Columbia, Canada, and are renowned for carving and painting. This rattle entered the Met's musical instrument collection in 1889; the record does not state its use or what its bird represents.",
+    "vocabulary": ["Xaadas (Haida)", "Haida Gwaii", "rattle", "polychrome", "carving", "Northwest Coast"],
+    "directions": [
+      "Have students fill a sealed container with different materials and compare the sounds.",
+      "Ask students to discuss whose knowledge should explain a cultural object's meaning.",
+      "Invite students to look for bird shapes in the natural world and sketch them as simple forms."
+    ]
+  }
+}

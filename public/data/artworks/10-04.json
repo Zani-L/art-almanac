@@ -1,0 +1,159 @@
+{
+  "id": "met-467520",
+  "day": "10-04",
+  "title": "Manuscript Leaf from a Book of Hours",
+  "artist": "Artist unknown",
+  "date": "ca. 1500",
+  "medium": "Tempera, ink, and shell gold on parchment",
+  "movement": "Late medieval illumination",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/md/web-large/sf32-100-475Fs1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/md/original/sf32-100-475Fs1.jpg",
+    "credit": "The Metropolitan Museum of Art, The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small parchment page from a prayer book, with a painted picture of the Virgin Mary holding the Christ Child, with angels, set within a decorated frame and a block of handwritten text.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/467520",
+    "objectId": "467520",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Netherlandish), classification (Manuscripts and Illuminations), dimensions, tags (Angels, Madonna and Child), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A single page from a Book of Hours, a prayer book for lay people, made in the Netherlands around 1500. It is painted on parchment with tempera, ink, and shell gold, and it is about 14.6 by 11.3 centimeters. The museum's tags note angels and Madonna and Child.",
+  "descriptions": {
+    "k": "This is one small page from a very old prayer book. A woman holds her baby. Angels are near. The page has gold paint, colorful pictures, and handwriting. Where do you see shiny gold?",
+    "g12": "This small page comes from a prayer book made in the Netherlands about 500 years ago. It was painted by hand on parchment, which is made from animal skin. A mother holds her baby, and angels are nearby. Some paint is real gold. Where do you see the pictures, and where do you see the writing?",
+    "g35": "This is one page, called a leaf, from a Book of Hours, a prayer book that ordinary families could own in the late Middle Ages. It was made in the Netherlands around 1500 and is about the size of a postcard. The artist painted on parchment with tempera, added ink for writing, and used shell gold, which is gold ground into paint. The museum notes angels and the Madonna and Child. How does the page combine picture, writing, and decoration?",
+    "g68": "Books of Hours were prayer books for lay people, and this leaf from the Netherlands, around 1500, shows why they were treasured. The artist used tempera for color, ink for the text, and shell gold, a paint made from ground gold, on parchment. The page pairs a framed picture of the Madonna and Child with angels with a block of text, so image and prayer work together. The leaf has been separated from its book. How do the picture, the border, and the text share the space, and what do we lose when a page is taken from its book?",
+    "g910": "This leaf from a Book of Hours, made in the Netherlands around 1500, shows how illuminators combined image, ornament, and text on a very small scale. The tags note angels and the Madonna and Child, a devotional subject suited to private prayer. Tempera and shell gold were applied to parchment, with gold giving the page a glowing surface that changes as light moves. Because it is a single leaf from a larger book, its original order and owner are unknown. How does the page's design guide private, close-up looking?",
+    "g1112": "A leaf from a Book of Hours made in the Netherlands around 1500, this page belongs to one of the most widely produced types of late medieval manuscript. The Madonna and Child with angels is a devotional image designed for close viewing, framed by a text block that makes it part of a prayer sequence. Shell gold and tempera on parchment create a luminous surface that depends on handling and light. Because the page has been separated from its volume, its original context and patron are lost. How should we interpret an object that was made as part of a whole but survives as a fragment?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where do you see a mother and a baby on this page? What do you think they are doing?",
+      "emotion": "Does this page feel quiet, happy, or magical? What shows it?",
+      "observation": "Find the angels. How many can you count?",
+      "analysis": "Which part of the page do your eyes see first, the picture or the writing? Why?",
+      "line": "Trace the border around the picture with your finger. Is it straight or curvy?",
+      "shape": "The picture sits inside a frame. What shape is the frame, and what shapes are inside it?",
+      "color": "Which colors do you see in the picture? Which one is brightest?",
+      "texture": "Parchment is made from animal skin. How do you think this page would feel in your hand?",
+      "space": "Where is the picture on the page, and where is the writing? How are they placed?",
+      "light": "Gold paint seems to glow when the light moves. Which parts of this page would glow?",
+      "meaning": "Why do you think a prayer book had a picture of a mother and her baby?",
+      "culture": "Families in the Netherlands read prayer books like this at home. What books do you read at home?",
+      "technique": "Someone painted this page by hand with tiny brushes. What parts would take the most patience?",
+      "personal": "What is your favorite page in a book, and what do you see there?",
+      "critical": "This page is small, but the artist added many details. Why might someone want so many details in a little picture?"
+    },
+    "g12": {
+      "daily": "How do the picture and the writing work together on this page? Show where each one is.",
+      "emotion": "What feeling does the picture of a mother and baby give you? Which parts help you feel that?",
+      "observation": "Describe the picture with the mother, baby, and angels. What do you notice about each?",
+      "analysis": "How does the frame around the picture help you look at it?",
+      "line": "Find lines in the border and the handwriting. How are they alike and different?",
+      "shape": "The page is a rectangle with a frame and a text block. What other shapes can you find?",
+      "color": "Which colors do you see, and where is the gold? How does the gold change the page?",
+      "texture": "The page is parchment with paint and gold. Which parts might feel smooth, and which parts might feel raised?",
+      "space": "The page is small, so the artist had little room. How are things packed into the space?",
+      "light": "Gold shines when light hits it. Where on the page would shine most?",
+      "meaning": "Angels in the picture are special helpers in stories. What might the angels be doing?",
+      "culture": "People in the Netherlands used books like this to pray at home. How is that like or unlike reading a book today?",
+      "technique": "Shell gold is gold ground into paint. Why would an artist use gold on a small, special page?",
+      "personal": "Do you have a small book or card you keep close? Tell about it.",
+      "critical": "This page was taken out of its book. What might be missing from just one page?"
+    },
+    "g35": {
+      "daily": "How does the artist make a small page feel special? Point to the picture, the gold, and the writing.",
+      "emotion": "What mood do the Madonna, the baby, and the angels create together? Which details support your idea?",
+      "observation": "Look slowly at the picture and the border. What small details do you notice that you missed at first?",
+      "analysis": "How are the picture, border, and text arranged so the page is easy to read and look at?",
+      "line": "How do fine painted lines and handwritten letters create different kinds of line on the page?",
+      "shape": "How do the shapes of the frame and the text block organize the page?",
+      "color": "How do gold and the other colors work together to make the picture stand out?",
+      "texture": "Parchment, tempera, ink, and gold each have a different surface. How might they look different up close?",
+      "space": "How does the artist create a sense of space in a picture only a few centimeters wide?",
+      "light": "Candlelight would flicker on gold. How might the page look different in a dim room?",
+      "meaning": "The Madonna and Child was a common subject in prayer books. Why might families want this image beside their prayers?",
+      "culture": "A Book of Hours was owned by lay people, not only by priests. What does that say about reading and art in the late Middle Ages?",
+      "technique": "Illuminators planned the writing and the picture on the same page. Why might the order of work matter?",
+      "personal": "Think of a small thing that is special to you. How does it feel different from a big thing?",
+      "critical": "We know the museum's tags and date but not the artist's name. What can we still learn from the page itself?"
+    },
+    "g68": {
+      "daily": "How does this page make a private, hand-held object into a place for looking and reflection?",
+      "emotion": "How do the Madonna, child, and angels create a mood of tenderness or reverence?",
+      "observation": "List the elements you can see, from the picture to the border to the text. Which receives the most detail?",
+      "analysis": "How does the composition balance the picture against the text block and the margins?",
+      "line": "How does the illuminator use outline, fine detail, and script to create rhythm across the page?",
+      "shape": "How do the frame and the text block create a geometric structure on the page?",
+      "color": "How does the use of shell gold affect the way other colors look?",
+      "texture": "How would parchment and gold feel and look different from paper and ink?",
+      "space": "How does the picture suggest depth within a flat, small frame?",
+      "light": "How might handling the page, tilting it in the light, change what a viewer notices?",
+      "meaning": "Why might a prayer book include a picture of the Madonna and Child with angels? What different purposes could the image serve?",
+      "culture": "How did Books of Hours reflect a growing market for personal devotion in northern Europe around 1500?",
+      "technique": "What skills did an illuminator need, from drawing to preparing gold to planning the text?",
+      "personal": "How do the objects you keep close to you shape your daily routines or thoughts?",
+      "critical": "What are the benefits and costs of displaying a single leaf separated from its book?"
+    },
+    "g910": {
+      "daily": "How do the page's formal choices, scale, gold, and framing, shape a private and intimate viewing experience?",
+      "emotion": "How does the devotional subject, combined with the luxury of gold, produce an atmosphere of reverence?",
+      "observation": "Describe the page's visual hierarchy. Which area draws attention first, and which devices produce that effect?",
+      "analysis": "Analyze how image, border, and text are integrated into one design.",
+      "line": "How does fine linear detail in the picture contrast with the handwritten script, and what does that contrast do?",
+      "shape": "How does the page use framing shapes to organize attention?",
+      "color": "How does the interplay of gold and tempera create hierarchy and glow?",
+      "texture": "How might the surfaces of parchment, paint, and gold interact under changing light?",
+      "space": "How does the miniature picture create depth within a small framed area?",
+      "light": "How does reflective gold change the page as the viewer moves?",
+      "meaning": "How might devotional images like the Madonna and Child have functioned as aids to prayer, and where is that reading speculative?",
+      "culture": "What does the widespread production of Books of Hours suggest about the audience for illuminated art?",
+      "technique": "How did the materials of parchment, tempera, and shell gold determine the page's look and durability?",
+      "personal": "How do you decide which images deserve close, quiet attention in your own life?",
+      "critical": "How does the loss of the original book shape the claims we can make about this page's use and patron?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the leaf itself about its function, and what depends on the book it came from?",
+      "emotion": "How does the page's combination of intimate scale and precious materials shape the viewer's response, and how might modern display alter it?",
+      "observation": "Describe the leaf's structure precisely. Which features are visible in the image and which come from the record?",
+      "analysis": "Analyze how the page integrates text and image within the conventions of a Book of Hours.",
+      "line": "How does the interplay of script and pictorial line define the page's rhythm?",
+      "shape": "How do the frame and text block reflect the organization of manuscript pages in this period?",
+      "color": "How might aging, abrasion, and pigment change affect the page's present color relationships?",
+      "texture": "What does the combination of parchment, tempera, and shell gold imply about workshop practices and patron expectations?",
+      "space": "How does the miniaturist negotiate the tension between flat page and illusionistic picture?",
+      "light": "How does the use of gold complicate reproduction and digital viewing of the page?",
+      "meaning": "Evaluate readings of the Madonna and Child with angels as devotional image, status symbol, or both. What evidence is needed?",
+      "culture": "How does a Book of Hours made in the Netherlands around 1500 participate in wider European networks of production and trade?",
+      "technique": "What does the practice of separating leaves from books suggest about the market for manuscripts, and what are its ethical implications?",
+      "personal": "How does your own relationship to small, private objects affect how you imagine this page's original owner?",
+      "critical": "How should museums balance the aesthetic appeal of a single leaf against the loss of its original book context?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, object name (Book of Hours; Manuscript leaf), classification (Manuscripts and Illuminations), medium and tags (Angels, Madonna and Child) checked against the Met Collection API record. Nothing in the metadata points to nudity, violence or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A single leaf from a Netherlandish Book of Hours, about 1500, painted on parchment with tempera and shell gold. The record lists angels and the Madonna and Child; the original book and owner are unknown.",
+    "vocabulary": [
+      "Book of Hours",
+      "illumination",
+      "parchment",
+      "shell gold",
+      "tempera",
+      "leaf"
+    ],
+    "directions": [
+      "Have students design a small page with a framed picture and a block of text, then add a border.",
+      "Use a flashlight and a piece of gold paper to show how a gold surface changes as light moves.",
+      "Discuss why people kept small books for private use and what students keep for the same reason."
+    ]
+  }
+}

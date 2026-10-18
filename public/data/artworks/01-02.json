@@ -1,0 +1,159 @@
+{
+  "id": "met-436805",
+  "day": "01-02",
+  "title": "Still Life with Fruit, Glassware, and a Wanli Bowl",
+  "artist": "Willem Kalf",
+  "date": "1659",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Dutch Republic",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145932.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP145932.jpg",
+    "credit": "The Metropolitan Museum of Art, Maria DeWitt Jesup Fund, 1953",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A still life of fruit, lemons, glassware and a Chinese porcelain bowl arranged together against a dark background, with light picking out their shapes.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436805",
+    "objectId": "436805",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags, classification, credit line, and image URLs read from the record"
+  },
+  "context": "Willem Kalf was a Dutch painter of luxurious still lifes. The title names a Wanli bowl, a type of Chinese porcelain made during the Wanli reign (1573-1620) and imported to Europe by Dutch merchants. Objects like this showed how far Dutch trade reached.",
+  "descriptions": {
+    "k": "Look at the shiny things on the table. There is fruit. There are lemons. There is glass and a pretty bowl from China. The background is dark. Which object do you want to touch first?",
+    "g12": "A painter arranged fruit, lemons, glass and a bowl from China. The background is very dark, so the objects seem to glow. Look for shiny spots on the glass and the bowl. Kalf painted this in the Netherlands long ago. Which object is shiniest?",
+    "g35": "Willem Kalf painted this still life in 1659. A still life shows objects that do not move. The bowl is a type of Chinese porcelain called Wanli, which Dutch ships brought to Europe, so it was a treasure. Kalf painted fruit, lemons and glass so carefully that they seem real. Find one place where light bounces off a surface. How did he paint it?",
+    "g68": "In this 1659 still life, Kalf places fruit, lemons, glassware and a Chinese Wanli porcelain bowl against deep shadow. The dark ground makes warm and cool surfaces glow. A Chinese bowl in a Dutch painting points to global trade, since Dutch merchants imported porcelain from Asia. Notice how Kalf paints different materials: soft fruit skin, hard glaze and transparent glass. Which surfaces were hardest to paint, and how would you decide where to put the brightest highlight?",
+    "g910": "Kalf specialized in pronkstilleven, luxurious still lifes that display rare and costly things. Here fruit, lemons, glassware and a Wanli porcelain bowl emerge from darkness, lit so that each material has its own sheen. The Chinese bowl signals Dutch participation in global trade, and the careful display invites admiration. Some scholars also see in such pictures a quiet reminder that beautiful things are temporary, though the meaning of any one work is not certain. How do composition, light and subject work together to make this image feel precious?",
+    "g1112": "Kalf's 1659 still life brings together fruit, lemons, glassware and a Wanli bowl, a Chinese export porcelain, in a theatrical play of light and shadow. Scholars link such pictures to Dutch trade and to ideas about luxury, display and fleeting pleasure, but they debate how far any single object carries a moral message. The painting can be read as a record of skill, as evidence of global exchange, or as a meditation on possession. Which reading does the visual evidence support best, and what does each leave out?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which shiny thing in this picture would you pick up first? Tell what you see on it.",
+      "emotion": "Does the dark background make you feel cozy, quiet or something else? Say why.",
+      "observation": "Can you find fruit, lemons and glass? Point to each one.",
+      "analysis": "Which object is the biggest? Which one is the smallest?",
+      "line": "Trace the edge of the bowl with your finger in the air. Is it round or pointy?",
+      "shape": "Which round shapes can you find? Which tall shapes can you find?",
+      "color": "Which color do the lemons look? Which colors are around them?",
+      "texture": "How would the glass feel to touch? How would the fruit feel?",
+      "space": "Are the objects close together or far apart? Show how you can tell.",
+      "light": "Where is the brightest spot in the picture? What is shining there?",
+      "meaning": "If these things were on your table, what meal would you make?",
+      "culture": "The bowl came from China on a ship. What treasure would you carry across the sea?",
+      "technique": "The painter used oil paint to make glass look see-through. What would you use to show it?",
+      "personal": "What is your favorite food in this picture? Why?",
+      "critical": "Why do you think the painter chose a dark background and not a light one?"
+    },
+    "g12": {
+      "daily": "How does the dark background make the fruit, glass and bowl stand out? Point to one object as you explain.",
+      "emotion": "What feeling do the soft glow and deep shadows give you? Which object adds to that feeling?",
+      "observation": "List five things you see on this table, from the front to the back.",
+      "analysis": "Which object do your eyes visit first, and which do they visit last? What leads them there?",
+      "line": "Find a curved edge on the bowl or glass. How does that curve make the object look round?",
+      "shape": "Compare the shape of a lemon with the shape of the glass. How are they alike and different?",
+      "color": "Which warm colors and which cool colors do you see? How do they look beside each other?",
+      "texture": "How does Kalf show the difference between smooth porcelain, soft fruit and clear glass?",
+      "space": "Does this table feel crowded or roomy? Which objects seem to overlap?",
+      "light": "Find the brightest highlights. Where do you think the light is coming from?",
+      "meaning": "Why might someone have wanted a picture of these special things on their wall?",
+      "culture": "The bowl was made in China long ago and sold in the Netherlands. What does that tell you about travel and trade?",
+      "technique": "Kalf painted tiny shiny spots on the glass and bowl. Why do those tiny spots matter?",
+      "personal": "If you arranged a still life, what three things from home would you choose?",
+      "critical": "Is this picture only about objects, or could it tell something about the people who owned them? Explain using what you see."
+    },
+    "g35": {
+      "daily": "Kalf painted fruit, glass and porcelain so carefully. Which one looks most real to you, and what details make you say so?",
+      "emotion": "What mood do the deep shadows create around the bright objects? Use details from the painting.",
+      "observation": "Look at the lemons, fruit, bowl and glassware one at a time. What small details do you notice on each?",
+      "analysis": "How has the artist arranged the objects so that your eyes travel around the picture and not just to one spot?",
+      "line": "Follow the outline of the bowl and glass. How do the curves change as they go up and around?",
+      "shape": "Which shapes repeat in this still life? How does repeating them help the picture feel balanced?",
+      "color": "The yellow of the lemons is surrounded by darker colors. How does that make the lemons look?",
+      "texture": "Choose two materials in the picture. How does Kalf make one look smooth and the other look different?",
+      "space": "How do overlapping objects help you see which are in front and which are behind?",
+      "light": "Describe how light touches the objects. Where are the bright areas, and where are the shadows?",
+      "meaning": "Why might a rich Dutch family have wanted a painting of costly objects like these?",
+      "culture": "A Chinese Wanli bowl appears in a Dutch painting. What does that suggest about the world the painter lived in?",
+      "technique": "Painters of this time built up thin layers of oil paint. How could layers help show shiny glass and glaze?",
+      "personal": "Imagine you could add one object from your life to this table. What would it be, and where would you place it?",
+      "critical": "Can a painting of objects tell us about people? What evidence in this painting supports your answer?"
+    },
+    "g68": {
+      "daily": "How does Kalf use darkness to make a bowl, fruit and glass feel like treasures? Point to specific areas.",
+      "emotion": "What mood does the lighting set, and how would the picture feel with a bright, even background?",
+      "observation": "Before interpreting, list every object you can find. Which did you notice last, and why?",
+      "analysis": "How does the arrangement guide the viewer's eye, and which objects act as the main focus?",
+      "line": "Compare the smooth curves of the glass and bowl with the irregular forms of the fruit. How do they work together?",
+      "shape": "How do round and tall forms in this arrangement create balance and variety?",
+      "color": "How do the lemons' yellow and the fruit's warm tones stand out against the dark ground and cooler objects?",
+      "texture": "Kalf must show porcelain glaze, fruit skin and glass on one flat canvas. Which cues, such as highlights and edges, make each one believable?",
+      "space": "How does overlapping, together with a dark empty background, make the objects feel close to the viewer?",
+      "light": "Where do the strongest highlights fall, and how do they reveal the different materials?",
+      "meaning": "Some scholars think still lifes like this celebrate wealth, and others think they hint at how fleeting pleasures are. Which reading does the painting support?",
+      "culture": "How does a Chinese bowl in a Dutch painting show the effects of 17th-century trade?",
+      "technique": "Glass is transparent, yet Kalf paints it with paint that is not. What choices make it appear see-through?",
+      "personal": "Which of these objects would you want to see in person, and why? What would you look for?",
+      "critical": "Is displaying luxury in a painting a form of celebration, a warning, or both? Use evidence from this picture."
+    },
+    "g910": {
+      "daily": "How does Kalf stage these objects so they seem both familiar and rare? Which choices in light and arrangement achieve that?",
+      "emotion": "How does the contrast between glowing objects and surrounding shadow shape the painting's mood?",
+      "observation": "Describe the hierarchy of objects in the picture. Which commands attention first, and what visual tools make it so?",
+      "analysis": "Analyze how the composition balances the group of objects against the empty dark ground.",
+      "line": "How do the curves of the bowl and glass create rhythm across the picture, and where do irregular forms interrupt it?",
+      "shape": "How do repeated circular forms and vertical accents create stability in the arrangement?",
+      "color": "How does Kalf use warm accents, such as the lemons, against a restrained dark palette to direct attention?",
+      "texture": "How does the painter translate glaze, glass and fruit skin into brushwork, and where is the illusion most convincing?",
+      "space": "How does shallow space and a dark backdrop affect the way a viewer relates to the objects?",
+      "light": "Consider how highlights and reflections define each material. How does light behave differently on glaze, glass and fruit?",
+      "meaning": "How do you weigh the readings of luxury, trade and fleeting pleasure here? Which does the visual evidence support most strongly?",
+      "culture": "How does the presence of a Wanli bowl reflect the Dutch role in global trade in the 1600s, and what questions does that raise?",
+      "technique": "How might a painter build transparency and reflection in oil paint over a dark ground?",
+      "personal": "What does your choice of objects to display say about you? How is that similar to or different from a painter's arrangement?",
+      "critical": "To what extent can a picture of luxury objects be separated from the trade and wealth that produced them?"
+    },
+    "g1112": {
+      "daily": "What does the staging of this arrangement ask the viewer to do: admire, desire, reflect, or all three? Support your answer with specific visual evidence.",
+      "emotion": "How does the interplay of illumination and darkness shape an emotional tone that the subject alone might not suggest?",
+      "observation": "Describe the painting's formal organization without interpretation. Which observations lead you most strongly toward interpretation?",
+      "analysis": "How does Kalf construct hierarchy and unity in an arrangement of such varied objects?",
+      "line": "How do contour and curve operate when most forms emerge from shadow rather than from outlines?",
+      "shape": "How does the interplay of rounded and upright forms structure the composition, and what role does asymmetry play?",
+      "color": "How does the restricted palette and the placement of warm accents direct attention and affect meaning?",
+      "texture": "Where is the painter's illusionism most persuasive, and what does that bravura suggest about the status of the picture itself?",
+      "space": "What kind of space does the painting create between viewer and objects, and how does the dark ground contribute?",
+      "light": "How does the handling of light turn ordinary materials into spectacle, and what might that imply about the work's purpose?",
+      "meaning": "How do competing readings of this still life, as celebration, warning or both, change what you notice in it?",
+      "culture": "What can an imported Chinese bowl in a Dutch painting tell us, and not tell us, about the networks that carried it there?",
+      "technique": "How do the demands of rendering glass, glaze and fruit in oil test a painter, and what does Kalf's solution reveal?",
+      "personal": "What assumptions about value and beauty do you bring to this arrangement, and how might they differ from those of its first viewers?",
+      "critical": "How should we weigh admiration of the painter's skill against questions about the wealth and trade behind the objects shown?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Fruit, Lemons, Still Life, Bowls) checked against the museum record. No risk terms found.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 1659 still life by Dutch painter Willem Kalf. The Wanli bowl is Chinese porcelain of a type exported to Europe, showing the reach of Dutch trade.",
+    "vocabulary": [
+      "still life",
+      "porcelain",
+      "highlight",
+      "composition",
+      "export trade",
+      "oil paint"
+    ],
+    "directions": [
+      "Set up a small still life with a dark cloth and one light, then compare how materials look under the lamp.",
+      "Map how a porcelain bowl might travel from China to the Netherlands in the 1600s.",
+      "Discuss why people collect and display valuable objects, then and now."
+    ]
+  }
+}

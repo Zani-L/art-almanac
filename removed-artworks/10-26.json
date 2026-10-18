@@ -1,0 +1,151 @@
+{
+  "id": "met-42111",
+  "day": "10-26",
+  "title": "Woman’s Robe with Lotus Flowers",
+  "artist": "Artist unknown",
+  "date": "18th century",
+  "medium": "Silk embroidery on silk gauze",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/98631.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/98631.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Ellen Barker, 1934",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A light, loose robe of fine silk gauze laid flat, with wide sleeves and lotus flowers embroidered across the fabric in silk thread.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/42111",
+    "objectId": "42111",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, objectDate, medium, period (Qing dynasty, 1644–1911), creditLine, classification (Costumes-Embroidered), tags (Lotuses), public-domain flag, and image URLs read from the record"
+  },
+  "context": "This robe was made in China during the Qing dynasty (1644-1911) and is embroidered in silk thread on silk gauze, a light, open-weave fabric. Lotus flowers were a favorite subject in Chinese art, and the lotus is often associated with purity because it grows from muddy water. The Met's title identifies it as a woman's robe.",
+  "descriptions": {
+    "k": "This is a robe made of thin silk. Lotus flowers are stitched on it with thread. Find a flower. Find a leaf. Would the robe feel heavy or light to wear?",
+    "g12": "This robe was made in China long ago from very thin silk. Someone stitched lotus flowers on it with silk thread. The lotus grows in ponds. Look for petals and leaves. Would this robe be good for a hot day or a cold one? Why do you think so?",
+    "g35": "This robe was made in the Qing dynasty from silk gauze, a light fabric with tiny open spaces. Lotus flowers were stitched across it with silk thread. Lotuses grow up out of muddy water and are often linked with purity. Look at how the flowers are spread over the robe. Why might a light, airy fabric be a good choice for this pattern?",
+    "g68": "Embroidered on silk gauze, this 18th-century robe pairs delicacy with skill. The gauze is light and open, probably suited to warm weather, while the embroiderers stitched lotuses in silk thread. In Chinese culture the lotus is often connected with purity, because it blooms clean above muddy water, and with summer. How do the flowers and leaves spread over the garment? What does embroidery on such a fine fabric ask of the maker?",
+    "g910": "This woman's robe demonstrates how pattern and fabric work together. The silk gauze is light and semi-transparent, so the embroidered lotuses seem to float on the surface. The lotus carries rich associations in Chinese culture, including purity and summer, and often has Buddhist connotations, but the Met's record does not specify what a viewer would have read here. Consider how repetition, scale, and the garment's loose shape create a feeling of ease, and what the labor of embroidery implies.",
+    "g1112": "A Qing woman's robe of embroidered silk gauze, this garment joins a refined textile with a symbol-laden plant. The lotus can suggest purity, summer, and religious meaning, yet the record does not tell us how its wearer or maker understood it. Gauze's lightness and the dense labor of embroidery suggest comfort and display together. How do material, motif, and gender shape our reading of the robe, and how does viewing it flat rather than worn change what it means?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Who might wear this lotus robe, and where would they go in it?",
+      "emotion": "Does this robe feel soft and airy or heavy? What shows you?",
+      "observation": "Find a lotus flower on the robe. What else is stitched near it?",
+      "analysis": "Where do your eyes go first on the robe? Why?",
+      "line": "Trace the curve of a lotus petal in the air. Is it pointy or round?",
+      "shape": "What shapes do you see in the flowers and leaves on the robe?",
+      "color": "Which colors are in the flowers? Which one do you like best?",
+      "texture": "The silk is thin and light. How would it feel on your skin?",
+      "space": "The robe has wide sleeves. How much room do you think there is inside?",
+      "light": "Thin silk can let light through. Where might the robe look bright?",
+      "meaning": "Lotus flowers grow in ponds. Why might someone want a pond flower on their robe?",
+      "culture": "People in China wore robes like this long ago. What do people wear on warm days where you live?",
+      "technique": "The lotuses were stitched with a needle and thread. Why would that take a long time?",
+      "personal": "If you could stitch a flower on your clothes, which flower would you choose?",
+      "critical": "Is this robe more like clothing or a picture? What do you think?"
+    },
+    "g12": {
+      "daily": "How do the stitched lotuses turn this thin robe into a garden?",
+      "emotion": "What feeling does the robe give you, calm or lively? What shows it?",
+      "observation": "Describe five things you can see on the robe, such as flowers, leaves, or sleeves.",
+      "analysis": "How are the lotus flowers spread out so the robe looks balanced?",
+      "line": "Follow the curved lines of the flowers and stems. Which lines are soft, and which are sharp?",
+      "shape": "What shapes make up the lotus petals and leaves? How do they repeat?",
+      "color": "Which colors stand out against the silk? How do they help the flowers show?",
+      "texture": "The silk gauze is thin and the threads are raised. How might each feel?",
+      "space": "The robe is shown flat. How would the flowers look when someone is wearing it?",
+      "light": "Light passes through thin silk. How might that change how the robe looks outside?",
+      "meaning": "The lotus grows clean from muddy water. What might that say about the flower?",
+      "culture": "This robe was made in the Qing dynasty. What does the fine stitching tell you about the skills of the makers?",
+      "technique": "Stitching on thin silk takes care so the fabric does not tear. Why is that hard?",
+      "personal": "What flower or animal would you like on your favorite clothes?",
+      "critical": "Why might someone choose a very light fabric for a fancy robe?"
+    },
+    "g35": {
+      "daily": "How does the embroidery make the lotuses stand out on the light silk gauze? Use evidence from the robe.",
+      "emotion": "What mood do the flowers and the light fabric create together?",
+      "observation": "Look for one minute. What small details in the flowers, leaves, or stitching did you notice?",
+      "analysis": "How did the embroiderers arrange the lotuses across the robe so the pattern covers the whole garment?",
+      "line": "How do the curved lines of the lotus stems compare with the straight lines of the robe's edges?",
+      "shape": "How do petals and leaves form repeating shapes on the robe?",
+      "color": "How do the thread colors contrast with the gauze, and what effect does that have?",
+      "texture": "How would the raised embroidered flowers feel different from the smooth gauze behind them?",
+      "space": "How does the robe's flat view differ from how it would look on a person?",
+      "light": "How does silk gauze let light through, and how does that affect the look of the robe?",
+      "meaning": "Lotuses are often linked with purity. How might a woman's robe with lotuses express that idea?",
+      "culture": "What does the use of fine silk and embroidery tell you about the status of the person who wore it?",
+      "technique": "What steps do you think were needed to stitch a design onto thin gauze without puckering it?",
+      "personal": "Think of an outfit you love. What do its colors and patterns say about you?",
+      "critical": "How is a robe different from a painting of flowers? What can each do better?"
+    },
+    "g68": {
+      "daily": "How does the embroidery turn a garment into a surface of flowers?",
+      "emotion": "How does the contrast between the delicate gauze and the colorful stitching create a mood?",
+      "observation": "Scan the robe. Where are the lotuses largest or clearest, and where do they become simpler?",
+      "analysis": "How does the pattern's spacing give the robe a rhythm?",
+      "line": "How do stitched lines of stems, petals, and leaves guide your eye across the robe?",
+      "shape": "How do the repeating shapes of lotus petals and leaves create unity?",
+      "color": "How do thread colors create focal points against the gauze background?",
+      "texture": "How does the contrast between open-weave gauze and dense embroidery enrich the surface?",
+      "space": "How does the robe's pattern change when the garment moves on a body?",
+      "light": "How does the thin fabric transform under bright and soft lighting?",
+      "meaning": "What ideas about purity, summer, or religion might the lotus carry here, and what is uncertain?",
+      "culture": "How might a woman's robe in the Qing dynasty reflect expectations of dress and craft?",
+      "technique": "Why would embroidering on silk gauze require both patience and precision?",
+      "personal": "What does clothing decorated with nature say about the wearer's values or identity?",
+      "critical": "How do museums balance showing a robe flat with the fact that it was made to be worn?"
+    },
+    "g910": {
+      "daily": "How do material and motif work together to give this robe its elegance?",
+      "emotion": "How does the delicacy of gauze and stitched flowers shape the garment's emotional tone?",
+      "observation": "Describe the visual hierarchy of the pattern: what draws the eye, and what recedes?",
+      "analysis": "Analyze how the embroidered ornament relates to the shape and construction of the robe.",
+      "line": "How does the stitched line carry the curve of stems and petals across a loose garment?",
+      "shape": "How do repeated lotus forms organize the garment's surface?",
+      "color": "How does the interplay of thread and fabric color create depth and emphasis?",
+      "texture": "How does the layering of stitched thread over open gauze create a distinctive tactile effect?",
+      "space": "How does semi-transparent fabric alter our sense of surface and depth?",
+      "light": "How does silk gauze interact with light compared with opaque textiles?",
+      "meaning": "How do the lotus's possible associations with purity, summer, and religion enrich or complicate our reading?",
+      "culture": "How does a woman's silk robe reflect Qing ideas of gender, craft, and status?",
+      "technique": "What does the combination of silk gauze and embroidery reveal about the division of textile labor?",
+      "personal": "How do your own preferences for clothing patterns reflect cultural associations?",
+      "critical": "Does reading a woman's garment as decorative reinforce or challenge assumptions about art and gender?"
+    },
+    "g1112": {
+      "daily": "How does a garment of embroidered gauze invite us to reconsider the boundary between dress and image?",
+      "emotion": "How does fragility of material shape the emotional register of the robe?",
+      "observation": "Describe the robe with exactness. Where does calling the flowers lotuses depend on the Met's identification?",
+      "analysis": "Analyze the relationship between garment form and embroidered field as a problem of design.",
+      "line": "How does needlework's line differ from drawn or painted line in expressive potential?",
+      "shape": "How do the motifs participate in broader Chinese floral traditions, and what is particular here?",
+      "color": "How might fading or conservation have altered the original color relationships?",
+      "texture": "How does gauze's translucence complicate the legibility of embroidered pattern?",
+      "space": "How does wearing the robe transform pattern in ways a flat display cannot?",
+      "light": "How does lighting for fragile textiles shape our experience of translucence?",
+      "meaning": "Evaluate the lotus's possible meanings (purity, summer, religious symbolism) and the evidence for each in this robe.",
+      "culture": "How do gendered histories of embroidery shape how we credit and value this robe?",
+      "technique": "What does the labor required for fine embroidery on gauze suggest about workshops and domestic production?",
+      "personal": "How does knowing a textile's labor change your sense of its value?",
+      "critical": "With no wearer or maker named, how should we limit claims about the robe's meaning?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Woman’s Robe with Lotus Flowers), classification (Costumes-Embroidered), medium (silk embroidery on silk gauze), and tags (Lotuses) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty (18th century) woman's robe, silk embroidery on silk gauze. Confirm the exact flower colors and layout from the image.",
+    "vocabulary": ["silk gauze", "embroidery", "lotus", "Qing dynasty", "motif", "textile"],
+    "directions": [
+      "Have students design a repeating flower pattern for a garment and explain how it would look on a body.",
+      "Discuss how plants carry meaning in different cultures and have students share examples.",
+      "Compare this robe with the dragon robe in the archive, contrasting flowers and dragons as symbols."
+    ]
+  }
+}

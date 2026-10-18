@@ -1,0 +1,158 @@
+{
+  "id": "cma-1991.134.2",
+  "day": "08-24",
+  "title": "Nathaniel Olds",
+  "artist": "Jeptha Homer Wade",
+  "date": "1837",
+  "medium": "Oil on canvas",
+  "movement": "American portrait painting",
+  "region": "United States (Cleveland, Ohio)",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1991.134.2/1991.134.2_web.jpg",
+    "credit": "Cleveland Museum of Art, Seventy-fifth anniversary gift of Jeptha H. Wade III (1991.134.2)",
+    "license": "Public domain. Released under the Cleveland Museum of Art Open Access program",
+    "licenseUrl": "https://clevelandart.org/open-access"
+  },
+  "altText": "A portrait painting of a person wearing unusual spectacles with several lenses and hinged side shields.",
+  "source": {
+    "museum": "Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1991.134.2",
+    "objectId": "1991.134.2",
+    "verifiedOn": "2026-10-18",
+    "verifiedBy": "Cleveland Museum of Art open-access API record (title, creator, date, medium, culture, credit line, CC0 status, description and did-you-know text)"
+  },
+  "context": "An oil portrait on canvas made in 1837 by Jeptha Homer Wade (American, 1811-1890) and now in the Cleveland Museum of Art. The museum notes that the sitter wears four-lensed spectacles with hinged side shields, a style used to shield the eyes from light, dust or wind. Wade later founded Western Union in 1854, and his grandson Jeptha Wade II helped found the Cleveland Museum of Art.",
+  "descriptions": {
+    "k": "This is a painting of a person named Nathaniel Olds. Look at the person's glasses. They are not like glasses today! They have extra pieces. Point to the glasses. What do you notice about them? Look at the face. What do you see?",
+    "g12": "This portrait of Nathaniel Olds was painted in 1837 with oil paint on canvas. The person wears very unusual glasses with extra lenses and pieces on the sides. Look closely at the glasses and the face. What do you think the person is like? Why do you think the artist painted this portrait?",
+    "g35": "Jeptha Homer Wade painted this portrait of Nathaniel Olds in 1837 with oil on canvas. The sitter wears four-lensed spectacles with hinged side shields, a style used to protect the eyes from light, dust or wind. A portrait shows a real person. What does the painter show you about Nathaniel Olds, and what do the unusual glasses add?",
+    "g68": "Painted in 1837 by Jeptha Homer Wade, this portrait shows Nathaniel Olds wearing four-lensed spectacles with hinged side shields, a style meant to shield the eyes from light, dust or wind. Wade was in his twenties then and later founded Western Union in 1854. How do the glasses and the sitter's face work together to give a sense of the person? Use details as evidence.",
+    "g910": "Nathaniel Olds (1837) is an oil portrait by Jeptha Homer Wade, who later founded Western Union in 1854; the museum notes his grandson Jeptha Wade II helped found the Cleveland Museum of Art. The sitter's unusual four-lensed spectacles with hinged side shields stand out. How does a portrait balance likeness, personality and distinctive accessories, and what do the spectacles contribute to the sitter's presentation?",
+    "g1112": "Painted in 1837, Wade's Nathaniel Olds depicts a sitter in four-lensed spectacles with hinged side shields, and the painter went on to found Western Union in 1854. The portrait dates from the artist's twenties, long before the business career he became known for. How might knowing that change the questions you ask about it, and what does the painting itself show?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the person in the painting. What do you notice first?",
+      "emotion": "How does the person in this painting make you feel? Pick a feeling word.",
+      "observation": "Point to the glasses. How many round parts can you find?",
+      "analysis": "Which part of the painting looks the most interesting to you? Point to it.",
+      "line": "Find a line in the face. Trace it in the air. Does it curve or go straight?",
+      "shape": "Find a round shape in the painting. Where is it?",
+      "color": "Point to a color in the painting. Where else do you see it?",
+      "texture": "The painter used oil paint. How do you think the paint would feel to touch?",
+      "space": "Look at the person and the space behind. Which part looks closer to you?",
+      "light": "Where is the lightest part of the painting? Point to it.",
+      "meaning": "What do you think this person likes to do? Tell a partner.",
+      "culture": "The glasses are from long ago. How are they different from glasses people wear today?",
+      "technique": "The painter used paint on a cloth called canvas. What other things could you paint on?",
+      "personal": "If someone painted you with a special object, what would it be?",
+      "critical": "What would you ask this person if you could talk with them?"
+    },
+    "g12": {
+      "daily": "Why might someone want a painted picture of themselves in 1837?",
+      "emotion": "What feeling or mood do you see in the face? Which parts of the painting show it?",
+      "observation": "Look for one minute. What small details did you not see at first?",
+      "analysis": "What parts of the painting does your eye go to first, and why?",
+      "line": "Follow the outline of the glasses with your eyes. Which parts are curved and which are straight?",
+      "shape": "What shapes make up the glasses? How many can you count?",
+      "color": "Which colors does the painter use for the face and the background? How do they look together?",
+      "texture": "How did the painter make the face look soft and the glasses look hard or shiny?",
+      "space": "How can you tell the person is in front of the background?",
+      "light": "Where does the light fall on the face? How can you tell?",
+      "meaning": "What do the unusual glasses make you think about the person?",
+      "culture": "The museum says these glasses protected eyes from light, dust or wind. What does that tell you about the person's life or time?",
+      "technique": "The painter used oil paint on canvas. What can you tell about how the painter worked?",
+      "personal": "What object would you choose to show something about you in a portrait?",
+      "critical": "We only know a little about Nathaniel Olds. What do you wonder about him?"
+    },
+    "g35": {
+      "daily": "What details show you the painter looked closely at Nathaniel Olds?",
+      "emotion": "What mood does the portrait have, and which details create that feeling?",
+      "observation": "Choose one part, such as the face or the glasses. Describe its shape, color and any marks on it.",
+      "analysis": "How does the painter arrange the sitter so that you look first at the face and the glasses?",
+      "line": "How do the outlines of the face and the glasses help you see the sitter's character?",
+      "shape": "How do the shapes of the lenses make the glasses stand out from the rest of the face?",
+      "color": "How does the painter use color to separate the sitter from the background?",
+      "texture": "How does the painter show the difference between skin, cloth and glass or metal?",
+      "space": "How does the painter show that the sitter is the main subject and the background is behind?",
+      "light": "How does the light on the face and glasses help it look three-dimensional?",
+      "meaning": "The museum says the glasses have four lenses and hinged side shields. What might they tell you about the person?",
+      "culture": "In 1837, how might people have used portraits like this? What can we learn about the time?",
+      "technique": "Jeptha Homer Wade made this with oil on canvas. What skills does it take to paint a face so it looks lifelike?",
+      "personal": "If you were painted, what would you like an artist to show about you?",
+      "critical": "A portrait is one view of a person. What might a portrait leave out?"
+    },
+    "g68": {
+      "daily": "How do the glasses and the sitter's face together shape your impression of Nathaniel Olds? Use details as evidence.",
+      "emotion": "What tone does the portrait set, and which choices of expression, color and light create it?",
+      "observation": "Compare how the painter handles the face with how he handles the glasses. What do you notice?",
+      "analysis": "How does the composition focus attention on the sitter, and which elements support or compete with the face?",
+      "line": "How do contours define the face and the frames of the spectacles, and what do they say about the painter's confidence?",
+      "shape": "How do the repeated round shapes of the lenses interact with the shapes of the face?",
+      "color": "How does the palette separate sitter from setting and set the portrait's mood?",
+      "texture": "How does the painter suggest different materials, such as skin, fabric and glass or metal, with oil paint?",
+      "space": "How does the painter place the sitter in the space of the canvas, and how does that choice affect the sitter's presence?",
+      "light": "How does light model the face and highlight particular features?",
+      "meaning": "The museum describes spectacles with hinged side shields. What might a portrait gain by including a distinctive accessory like this?",
+      "culture": "How might a portrait made in Ohio in 1837 differ in purpose from a portrait made today?",
+      "technique": "Wade was in his twenties then and later founded a company. How might knowing a painter's later career affect how you look at an earlier work?",
+      "personal": "How would you present yourself in a portrait today, and how would your choices compare with this sitter's?",
+      "critical": "What can we learn about a sitter from a portrait, and what must we leave as questions?"
+    },
+    "g910": {
+      "daily": "How does Wade combine likeness and distinctive detail to give Nathaniel Olds a presence? Cite specific visual evidence.",
+      "emotion": "What mood does the sitter's expression and the surrounding palette establish, and how does it shape your interpretation?",
+      "observation": "Examine how the glasses are painted compared with the face. What does it reveal about Wade's technical priorities?",
+      "analysis": "How does the arrangement of the sitter within the canvas create hierarchy and focus?",
+      "line": "How do contour and edge define the face and the spectacles, and what does that suggest about the painter's training?",
+      "shape": "How do the repeated circular forms of the lenses structure the face and create a focal point?",
+      "color": "How does the palette support the sitter's presence and direct attention to the face?",
+      "texture": "How does oil paint allow the painter to differentiate skin, textiles and glass or metal, and where does it succeed?",
+      "space": "How does the painter locate the sitter in the pictorial space, and how does that affect the sense of formality or intimacy?",
+      "light": "How does the handling of light model the face and separate the sitter from the ground?",
+      "meaning": "What do distinctive accessories like four-lensed spectacles contribute to portraiture as a record of identity and everyday life?",
+      "culture": "How might a portrait made in Cleveland in the 1830s reflect who made and who collected art there? What would you need to find out?",
+      "technique": "How does knowing the artist later founded Western Union, and that his grandson helped found the museum, shape how you interpret the museum's decision to collect this work?",
+      "personal": "What choices about pose, expression and objects would you make in your own portrait, and what would each communicate?",
+      "critical": "How reliable is a portrait as evidence about a person, and what other sources would strengthen your reading?"
+    },
+    "g1112": {
+      "daily": "How does the portrait manage the tension between individuality and conventions of portraiture? Support your answer with visual evidence.",
+      "emotion": "How might the sitter's expression and the controlled palette produce a particular psychological register, and how would you argue for your reading?",
+      "observation": "Look at how paint is handled at the junctions of face, frames and ground. What do they reveal about the painter's process?",
+      "analysis": "How does the composition position the spectacles as both an incidental detail and a defining feature of the sitter's identity?",
+      "line": "How do linear structure and edge in the face and frames reflect the painter's relationship to the conventions of early American portraiture?",
+      "shape": "How do the repeated circular forms of the lenses operate formally, and might they carry any interpretive weight?",
+      "color": "How does the relationship between sitter and ground in color contribute to the portrait's mood and clarity, and what else could it mean?",
+      "texture": "How does the painter's treatment of material differences, from skin to glass, reveal training, ambition or limitations?",
+      "space": "How does the compressed pictorial space shape the viewer's relationship to the sitter?",
+      "light": "How might light function here both naturalistically and as a way of dignifying the sitter?",
+      "meaning": "How might the museum's note about the spectacles shift the portrait from a likeness to a document of material culture?",
+      "culture": "How does the credit line, a gift from a member of the Wade family, shape which histories the museum tells with this portrait and which it leaves out?",
+      "technique": "How might the painter's later fame in business, not painting, affect the way a museum and viewers value this portrait?",
+      "personal": "How does your own relationship to portraiture, from photographs to social media, shape the way you read a painted portrait from 1837?",
+      "critical": "What would a rigorous interpretation of this portrait include, and what claims about the sitter should you avoid without further evidence?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, artist (Jeptha Homer Wade, 1811-1890), date, medium (oil on canvas), credit line, CC0 licence status and the museum's description and did-you-know text were read from the Cleveland Museum of Art open-access API summary. A portrait with no sensitive content was identified from the text. Only facts in the museum record are used about the artist and sitter; no relationship between Wade and Nathaniel Olds is stated, and sitter details (age, clothing, expression) are not claimed. The image file was not viewed; a person should view the image and confirm it before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "An oil portrait of Nathaniel Olds painted in 1837 by Jeptha Homer Wade (1811-1890) of Cleveland, Ohio. The Cleveland Museum of Art notes the sitter's four-lensed spectacles with hinged side shields, that Wade later founded Western Union in 1854 and that his grandson Jeptha Wade II helped found the museum. The museum also notes the portrait has inspired Halloween costumes in the Cleveland area.",
+    "vocabulary": [
+      "portrait",
+      "sitter",
+      "spectacles",
+      "oil paint",
+      "canvas",
+      "accessory"
+    ],
+    "directions": [
+      "Have students sketch a portrait of a partner with one object that shows something about them, then explain the choice.",
+      "Ask older students to list what the painting shows and what it does not tell us about the sitter, then discuss how portraits shape our understanding of people.",
+      "Compare the spectacles with modern glasses and discuss how everyday objects change over time."
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "met-39660",
+  "day": "01-31",
+  "title": "Deep Cylindrical Vessel (Fukabachi)",
+  "artist": "Artist unknown (Jōmon culture)",
+  "date": "ca. 3500–2500 BCE",
+  "medium": "Earthenware with cord-marked decoration and sculptural rim",
+  "region": "Japan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP246459.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP246459.jpg",
+    "credit": "The Metropolitan Museum of Art, The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall, deep clay pot with an elaborate, sculpted rim. Its brown surface is covered in pressed, cord-like patterns and ridges.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/39660",
+    "objectId": "39660",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, creditLine, classification, tags, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A large earthenware vessel made in Japan during the Middle Jōmon period, about 3500 to 2500 BCE. Its surface is decorated with cord markings and its rim is shaped like sculpture. The name Jōmon means cord-marked, after the patterns on this kind of pottery.",
+  "descriptions": {
+    "k": "This is a very, very old clay pot. It is tall and deep. The top edge is fancy and sculpted, almost like a crown. The sides have patterns pressed into them. People made it by hand in Japan thousands of years ago.",
+    "g12": "People in Japan made this clay pot by hand more than four thousand years ago. It is tall and deep. The top edge is shaped like sculpture. The sides have pressed patterns made with cord. Why do you think someone took the time to decorate a pot?",
+    "g35": "This pot comes from the Jōmon culture of Japan, one of the oldest pottery traditions in the world. Jōmon means cord-marked, because makers pressed cord into the wet clay to make patterns. The rim rises into a sculpted shape. Potters had no wheel, so they built vessels by hand. Why might they have made a tall pot so decorative? What could it have been used for?",
+    "g68": "Made around 3500 to 2500 BCE, this deep vessel shows that early Jōmon-culture potters cared about form as well as function. The name Jōmon, meaning cord-marked, comes from the patterned surfaces. Pots like this were built by hand without a wheel and fired at fairly low temperatures. The sculptural rim is the most dramatic part. Archaeologists debate how such vessels were used, so look closely: what evidence suggests cooking, storage, ceremony, or all three?",
+    "g910": "This Middle Jōmon vessel combines utility with striking sculptural design. Its deep, cylindrical body is textured with cord-marked decoration, while the rim develops into an elaborate crest. Scholars generally see Jōmon pottery as evidence of settled or semi-settled hunter-gatherer communities with a strong decorative tradition, though how specific vessels were used is debated. Consider how the contrast between the repeating surface pattern and the irregular rim directs the eye upward and gives the pot presence.",
+    "g1112": "Jōmon pottery challenges older assumptions that ceramic traditions arise only with farming: these makers were largely hunter-gatherers. This deep vessel's cord-marked body and sculptural rim reveal sustained investment in form and decoration. Interpretations vary about whether elaborate examples served everyday cooking, storage, ritual, or display, and the surviving evidence is incomplete. The modern label art also reflects later collecting and museum frameworks rather than the makers' own categories. How should we weigh visual evidence against such uncertainty?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think people could put inside this big clay pot?",
+      "emotion": "Does this pot make you feel strong, silly, or calm? What do you see that makes you feel that way?",
+      "observation": "What can you find on this pot? Point to the rim, the sides, and the patterns.",
+      "analysis": "Which part of the pot do your eyes look at first? Why?",
+      "line": "Can you find bumpy lines or pressed lines? Trace one in the air.",
+      "shape": "What shape is the whole pot? What shape does the top edge make?",
+      "color": "What color is the pot? What things in nature are this color?",
+      "texture": "How do you think the pot would feel if you touched the patterned side?",
+      "space": "Is this pot deep or shallow? How can you tell from the picture?",
+      "light": "Where does the light touch the pot? Where does it look darker?",
+      "meaning": "If this pot could tell a story, what would it say?",
+      "culture": "People in Japan made this thousands of years ago. What things do we make today that hold food or water?",
+      "technique": "People pressed rope into wet clay to make the patterns. What else could you press into clay?",
+      "personal": "If you made a pot, what pattern would you press into it?",
+      "critical": "This pot is very, very old. How do you think it stayed in one piece?"
+    },
+    "g12": {
+      "daily": "What do you think this tall clay pot was used for? Use clues you can see.",
+      "emotion": "How does the fancy rim make you feel? Why?",
+      "observation": "Describe five things you see on the pot, from the bottom to the top.",
+      "analysis": "How does the artist make you look from the patterned sides up to the rim?",
+      "line": "Find the lines pressed into the clay. Are they straight, wavy, or both?",
+      "shape": "What big shape is the body of the pot? How is the rim different?",
+      "color": "The pot is mostly one earthy color. How does that make the shapes and patterns stand out?",
+      "texture": "Which part looks rough and which part looks smoother? Show where you see it.",
+      "space": "The inside of the pot is deep. What could you store in that space?",
+      "light": "Where do shadows fall on the rim and sides? What do they show you about its bumps?",
+      "meaning": "Why might someone decorate a pot that was used every day?",
+      "culture": "These potters lived in Japan before there were cities. What does a decorated pot tell us about them?",
+      "technique": "Potters built this by hand, without a wheel. How might they have made the sides so tall?",
+      "personal": "What is something at home that is useful and also pretty?",
+      "critical": "What could we learn by looking closely at this decorated pot that a plain pot might not tell us?"
+    },
+    "g35": {
+      "daily": "What clues in the pot's shape and decoration help you guess how it was used or why it was made?",
+      "emotion": "What feeling does the dramatic rim give this pot? Which details create that feeling?",
+      "observation": "Spend one minute looking. What small details in the patterns or rim did you not see at first?",
+      "analysis": "How do the body of the pot and the sculpted rim work together? Which gets more attention?",
+      "line": "Compare the lines on the body with the lines of the rim. How do they differ?",
+      "shape": "The rim rises and falls in complex shapes. How does this contrast with the simple, tall body?",
+      "color": "The pot has a single earthy tone. How does that affect the way you notice texture and form?",
+      "texture": "How do the pressed cord patterns create texture? What would be lost if the surface were smooth?",
+      "space": "How does the pot's height and depth make it seem powerful? How does the rim frame the space inside?",
+      "light": "Where do light and shadow reveal the ridges and bumps? What does that show about how it was made?",
+      "meaning": "Why might people spend time decorating a vessel instead of leaving it plain? List different reasons.",
+      "culture": "The name Jōmon means cord-marked. What does that name tell you about what these people valued or used?",
+      "technique": "Potters built these vessels by hand with coils and pressed in patterns. Which parts show the work of hands?",
+      "personal": "What objects in your life are useful and also decorated? Why do you think people decorate them?",
+      "critical": "We cannot know exactly how this pot was used. What evidence in the picture could help, and what could mislead us?"
+    },
+    "g68": {
+      "daily": "What might this pot reveal about the people who made it, and what evidence in the object supports that idea?",
+      "emotion": "How does the sculpted rim create energy and drama on a pot that is also practical?",
+      "observation": "Describe the pot from bottom to top. Which details seem planned and which seem spontaneous?",
+      "analysis": "How does the composition separate the textured body from the sculptural rim, and what is the effect?",
+      "line": "How do pressed lines and ridges create rhythm across the surface?",
+      "shape": "How does the heavy, upright body contrast with the irregular crest, and why might that be effective?",
+      "color": "Why might an unpainted, earth-toned surface make form and texture more important?",
+      "texture": "How does the cord-marked surface change how light behaves on the pot? Where is it roughest?",
+      "space": "How do the pot's depth and height shape its function? How does the rim shape its look?",
+      "light": "Where do shadows collect on the rim, and how do they emphasize its sculptural quality?",
+      "meaning": "Archaeologists debate how such vessels were used. Which uses seem plausible from the object, and which require more evidence?",
+      "culture": "Why is it significant that this pottery was made by people who relied largely on hunting, fishing, and gathering rather than farming?",
+      "technique": "How do hand-building and cord impressions differ from throwing a pot on a wheel, and what do they show about skill?",
+      "personal": "What everyday object today do you think people will study in thousands of years, and what might it reveal about us?",
+      "critical": "How reliable are our guesses about a prehistoric object's purpose? What would you want to learn to be more certain?"
+    },
+    "g910": {
+      "daily": "How do texture, form, and the sculptural rim shape your understanding of this vessel's purpose and importance?",
+      "emotion": "How does the contrast between the controlled surface pattern and the dramatic rim affect the vessel's presence?",
+      "observation": "Describe the vessel's visual hierarchy. What do you notice first, and which formal features direct your attention?",
+      "analysis": "Analyze how repeated surface pattern and irregular crest produce unity and contrast.",
+      "line": "How do incised and impressed lines create rhythm and how does that rhythm relate to the rim?",
+      "shape": "How does the deep cylindrical body provide stability for the more complex rim forms?",
+      "color": "How does the monochrome, earth-toned surface make tonal shifts from light and shadow more important?",
+      "texture": "How does the cord-marked texture affect both the vessel's tactile quality and its visual pattern?",
+      "space": "How do the vessel's interior and exterior volumes define its function and its sculptural presence?",
+      "light": "How do light and shadow on a deeply textured surface create changing impressions as one moves around the vessel?",
+      "meaning": "What different purposes, such as cooking, storage, or ceremony, could the form support, and how certain is each?",
+      "culture": "What does the existence of such elaborate pottery suggest about Jōmon communities and the role of craft in them?",
+      "technique": "How might handbuilding, surface impression, and low-temperature firing have shaped the final appearance?",
+      "personal": "When do you decorate objects that you also use? What does that say about the line between function and art?",
+      "critical": "Is this an art object or a tool? Whose categories are we applying, and how might the makers have seen it?"
+    },
+    "g1112": {
+      "daily": "What can we responsibly infer from this vessel about the people who made it, and where do we reach the limits of the evidence?",
+      "emotion": "How does the vessel's expressive rim complicate the idea that prehistoric pottery was purely utilitarian?",
+      "observation": "Describe the object's construction precisely. At what point does careful description begin to imply a function or meaning?",
+      "analysis": "Analyze how texture, contour, and mass produce both visual rhythm and sculptural drama.",
+      "line": "How does impressed line operate as both decoration and a record of process?",
+      "shape": "How does the tension between the cylindrical body and the irregular crest articulate the vessel's identity?",
+      "color": "How might firing, burial, and conservation have affected the surface we see today, and what does that do to our reading?",
+      "texture": "How does cord-marking turn a technical process into an aesthetic choice, and where does that distinction blur?",
+      "space": "How does the vessel enclose space, and does its monumentality imply storage, display, or something else?",
+      "light": "How does a museum's lighting change the way modeled surfaces read, compared with the contexts in which it was made?",
+      "meaning": "Evaluate competing hypotheses about the vessel's use. Which are best supported by form, and which are speculative?",
+      "culture": "How does Jōmon pottery challenge assumptions that ceramics emerge only with agriculture, and how is that framework itself debated?",
+      "technique": "What does the object's construction suggest about skill, time, and communal knowledge in Jōmon society?",
+      "personal": "How does your own notion of art shape the way you respond to a utilitarian prehistoric object?",
+      "critical": "How do collecting and display, including the museum label of art, shape what we think such objects were?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Ceramics), medium, and tags (none listed) checked against the museum record; nothing in them suggests nudity, violence, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Middle Jōmon pottery from Japan, ca. 3500 to 2500 BCE. The Jōmon tradition is among the earliest pottery traditions known, made by largely hunter-gatherer communities.",
+    "vocabulary": [
+      "Jōmon",
+      "earthenware",
+      "coil building",
+      "cord-marked",
+      "vessel",
+      "archaeology"
+    ],
+    "directions": [
+      "Let students press string and rope into modeling clay to see how cord-marked patterns form.",
+      "Ask groups to propose and defend three possible uses for the vessel, using visible evidence.",
+      "Discuss how archaeologists decide what an object was for when no written record survives."
+    ]
+  }
+}

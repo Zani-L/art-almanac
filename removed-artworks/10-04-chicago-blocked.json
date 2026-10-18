@@ -1,0 +1,158 @@
+{
+  "id": "artic-109926",
+  "day": "10-04",
+  "title": "Landscape: Window Overlooking the Woods",
+  "artist": "Édouard Vuillard",
+  "date": "1899",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/a1dc6109-6e0c-7801-ebe8-8c95fec2c4e4/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Funded by the L.L. and A.S. Coburn Fund, Martha E. Leverone, Charles Norton Owen funds, and an anonymous donor.",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A very large, wide painting of a landscape seen as if through a window: open fields, groves of trees, dark conifers, a light-blue river and a church steeple in the distance. At far left a white house shows a woman working inside.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/109926",
+    "objectId": "109926",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1868-1940), date, place of origin (France), medium, dimensions (249.2 x 378.5 cm), credit line, style (Post-Impressionism), subject terms (landscapes, window, trees, people, forests, figures, farm, bushes, flowers, house, buildings, church, animals, horse, weather/seasons), thumbnail alt text, provenance (commissioned in 1899 by Adam Natanson for his Paris apartment library), is_public_domain true and image_id read from the record. The record has no description text."
+  },
+  "context": "Painted in 1899 by Edouard Vuillard, this very large canvas was commissioned by Adam Natanson for the library of his Paris apartment, according to the Art Institute's provenance. The museum lists subjects including trees, a church, a farm, a house, figures and a horse, but gives no description of the work.",
+  "descriptions": {
+    "k": "This huge painting is like looking out a window. You see fields, trees, a river, and a church far away. A white house is at one side with a woman inside. What can you find? Where would you walk?",
+    "g12": "This very big painting looks like a view through a window. Fields and trees spread out. There is a light-blue river and a church. At the far left, a woman works inside a white house. Look for animals and flowers. What do you see in the far distance?",
+    "g35": "Edouard Vuillard painted this in 1899. It is about 8 feet tall and 12 feet wide! A man named Adam Natanson asked for it for the library in his Paris apartment, so it was meant to feel like a window onto the countryside. Look for the river, the church steeple, and a woman in a house. Why might someone want a landscape like this in a library?",
+    "g68": "Vuillard painted this enormous landscape in 1899 for the library of Adam Natanson's Paris apartment, where it worked like a window onto the countryside. The museum lists trees, a church, a farm, a house, and figures among its subjects. The scale is nearly the size of a wall. How does painting such a large view change the way a room feels? How does Vuillard organize so many details across a wide canvas?",
+    "g910": "Landscape: Window Overlooking the Woods (1899) was commissioned to hang in a Paris library, the Art Institute's provenance notes, and its immense scale (about 8 by 12 feet) turns a wall into an imagined window. Fields, groves, a river, a steeple, and small figures spread across the surface. The museum gives no further description. How do decorative flattening, pattern, and scale suit an interior setting, and how does that purpose shape what you see?",
+    "g1112": "Commissioned in 1899 by Adam Natanson for his Paris library, this monumental landscape belongs to Vuillard's decorative work, in which painting merges with architecture and domestic space. The record lists trees, a church, a farm, figures and a horse but offers no interpretation. Its wall-sized scale and patterned surface blur the line between picture and décor. How do you weigh its function as an interior ornament against its achievement as an autonomous painting, using the evidence in the canvas?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the river, the church, and the white house. Where are they?",
+      "emotion": "Does this place feel quiet or busy? What do you see that tells you?",
+      "observation": "Point to something green, something blue, and something white.",
+      "analysis": "Which things are close to you and which are far away?",
+      "line": "Follow the river with your finger. Where does it go?",
+      "shape": "Look at the shapes of the trees. Are they round, tall, or pointy?",
+      "color": "Which color do you see the most?",
+      "texture": "This painting is as big as a wall. How would it feel to stand next to it?",
+      "space": "Point to the house on the left and the church far away. Which looks closer to you?",
+      "light": "Where does the sun seem to shine in this picture?",
+      "meaning": "What might be happening on the farm in the picture?",
+      "culture": "Long ago, a man put this painting in his library. What would you put on the wall of your favorite room?",
+      "technique": "The painter used lots of patterns of leaves. How would you paint a whole forest?",
+      "personal": "If this were a real window, what would you want to do outside?",
+      "critical": "What would you say to the woman in the white house?"
+    },
+    "g12": {
+      "daily": "Look closely at one small part, like the trees or the house. What do you notice?",
+      "emotion": "How does this peaceful country view make you feel? Point to something that gives you that feeling.",
+      "observation": "Name as many things as you can find, from the river to the church.",
+      "analysis": "How does the painter fit so many parts into one picture?",
+      "line": "Follow the curve of the river. What other lines lead your eyes across the picture?",
+      "shape": "How do the shapes of the trees look when you see them in groups?",
+      "color": "What colors does the painter use for the trees, the fields, and the water?",
+      "texture": "The painting seems to be made of patches and patterns. Where do you see this?",
+      "space": "How can you tell the church is far away and the house is close?",
+      "light": "Where does the painting seem bright, and where does it seem shady?",
+      "meaning": "Tell a story about the woman working in the white house.",
+      "culture": "The painting hung in a library in Paris. Why might someone want a country view in a city home?",
+      "technique": "The painting is huge. How might that change how you look at it?",
+      "personal": "If you had a window painting, what view would you want?",
+      "critical": "Why do you think the painter made the picture look like a view through a window?"
+    },
+    "g35": {
+      "daily": "Where do your eyes travel in this giant landscape, and what choices by Vuillard guide them?",
+      "emotion": "What mood does the countryside create? Use colors and shapes to explain.",
+      "observation": "Look slowly. What small details like animals, flowers, or figures did you notice late?",
+      "analysis": "How does Vuillard arrange fields, groves, river, and house so the large picture does not feel messy?",
+      "line": "How do the winding river and edges of fields lead your eyes through the scene?",
+      "shape": "How do the shapes of tree groves repeat and make a pattern across the canvas?",
+      "color": "How do blues, greens, and warm earth colors work together to make the countryside feel real?",
+      "texture": "How does Vuillard paint leaves and fields to look like patches of pattern instead of single leaves?",
+      "space": "How does the artist show the distant church and the close house?",
+      "light": "How does light seem to move across fields and groves?",
+      "meaning": "What might daily life in this place be like? Use details from the painting.",
+      "culture": "The painting was made for a library in a Paris apartment. How might its purpose have affected the way it was painted?",
+      "technique": "Vuillard painted at a very large scale. What might be hard about painting something this big?",
+      "personal": "Think of a view from a window you love. How would you paint it large?",
+      "critical": "The record gives no description of the picture. What can you learn only by looking?"
+    },
+    "g68": {
+      "daily": "How does the huge scale and window-like composition change your sense of being in a room with this landscape?",
+      "emotion": "How do the calm colors and soft shapes create a mood suitable for a library?",
+      "observation": "What can you see clearly, such as the river and the steeple, and what is only suggested? Separate evidence from guess.",
+      "analysis": "How does Vuillard organize a wide view so the eye moves from the house to the river to the far trees?",
+      "line": "How do the curves of the river and field edges create visual flow across the canvas?",
+      "shape": "How do repeated tree and bush shapes give the painting a decorative pattern?",
+      "color": "How does a balanced palette of blues, greens, and warm tones unify such a large surface?",
+      "texture": "How does the handling of paint make the landscape feel flat and patterned rather than deep?",
+      "space": "How does the shape and scale of the canvas make the landscape feel like a window?",
+      "light": "How does soft, even light affect the sense of time of day?",
+      "meaning": "The painting includes a small figure working inside a house. What does that detail add to the story of the landscape?",
+      "culture": "How does the commission, a painting made for the library of a Paris apartment, shape how we understand its purpose?",
+      "technique": "Why might Vuillard, known for decorative painting, choose a pattern-like approach for a landscape?",
+      "personal": "How does your own sense of a room change when large images are part of it?",
+      "critical": "How would you decide whether to treat this painting as decoration or as fine art?"
+    },
+    "g910": {
+      "daily": "How do Vuillard's decisions about scale, flattening, and pattern shape your first interpretation of the landscape?",
+      "emotion": "How does the quiet, enveloping quality of the scene create a mood appropriate to a private library?",
+      "observation": "Analyze the visual hierarchy: how do the house, the river, the steeple, and the groves compete or cooperate across such a wide surface?",
+      "analysis": "How do the curves of river and field edges set up a rhythm that organizes the composition?",
+      "line": "How does pattern, rather than outline, define groups of trees and bushes?",
+      "shape": "How does the repetition of rounded forms contribute to the decorative character?",
+      "color": "How does the muted, harmonious palette unify the picture and relate to its interior setting?",
+      "texture": "In what ways does the handling of paint emphasize surface over illusion?",
+      "space": "How does the window format and the immense scale position the viewer in relation to the landscape?",
+      "light": "How does soft light and the absence of strong shadow contribute to the sense of calm?",
+      "meaning": "What might the small figure working inside the house suggest about the relationship between domestic life and the landscape?",
+      "culture": "How does the Art Institute's information about the commission change how you read this painting's relationship to architecture?",
+      "technique": "How does the painting reflect the Nabis interest in decorative, wall-sized painting?",
+      "personal": "How does your response to a painting designed for a specific room compare with one made for a museum?",
+      "critical": "To what extent should we separate the function of an artwork from its aesthetic achievement?"
+    },
+    "g1112": {
+      "daily": "What argument about art, domestic space, and nature can you build from the evidence of this panel?",
+      "emotion": "How does the decorative calm of the scene complicate any attempt to assign a single emotional tone?",
+      "observation": "Describe the painting precisely, then separate what you see from what you know about its original setting.",
+      "analysis": "Analyze how a wall-sized canvas orchestrates multiple small incidents, such as house, steeple, river, and figures, into a unified field.",
+      "line": "How does the dissolving of contour into pattern reflect Vuillard's decorative aims?",
+      "shape": "Consider how repeated forms in the groves and fields establish rhythm in lieu of single-point focus.",
+      "color": "How does a restrained, harmonized palette support the integration of painting into a room?",
+      "texture": "How does the flattening of space challenge the long-established notion of painting as a window onto the world, even as this painting acts as one?",
+      "space": "How does the work's enormous dimension alter the viewer's embodied experience?",
+      "light": "Discuss how diffused light reinforces the painting's role as atmosphere rather than spectacle.",
+      "meaning": "Evaluate the claim that decorative painting is secondary to easel painting, using this canvas as evidence.",
+      "culture": "How does the commission by a patron such as Adam Natanson situate the work within the networks of the Paris avant-garde?",
+      "technique": "How does the unknown intent behind small details, like the figure in the house, show the limits of interpretation?",
+      "personal": "How do your own assumptions about public and private art shape your response?",
+      "critical": "What additional sources would help you judge how the painting was originally experienced in the library?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (landscapes, window, trees, people, landscape, forests, figures, farm, bushes, flowers, house, building, church, animals, horse, weather/seasons), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1899 and commissioned by Adam Natanson for the library of his Paris apartment, according to the Art Institute's provenance. At roughly 8 by 12 feet it is a very large canvas; the record has no description of the imagery.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "Nabis",
+      "decorative painting",
+      "commission",
+      "pattern",
+      "scale"
+    ],
+    "directions": [
+      "Have students design a window-style painting for a specific room in school and explain how the room shapes their choices.",
+      "Ask students to sketch the main shapes of the landscape (river curve, tree groves, house) and discuss how they fit together.",
+      "Discuss how the size of an artwork changes how we experience it."
+    ]
+  }
+}

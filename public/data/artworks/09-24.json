@@ -1,0 +1,159 @@
+{
+  "id": "met-437430",
+  "day": "09-24",
+  "title": "By the Seashore",
+  "artist": "Auguste Renoir",
+  "date": "1883",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-039.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-039.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A portrait of a young woman seated outdoors by the sea, painted in soft, feathery brushstrokes with warm skin tones and fresh blues and greens around her. She looks out calmly toward the viewer.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437430",
+    "objectId": "437430",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Portraits, Women), dimensions (36 1/4 x 28 1/2 in.), credit line, and image URLs read from the record"
+  },
+  "context": "Auguste Renoir, a leading French Impressionist, painted this portrait of a woman by the sea in 1883. Renoir was known for warm color, soft brushwork, and a cheerful view of modern life, and he was working on the coast of France in this period.",
+  "descriptions": {
+    "k": "A young woman sits by the sea. The air looks fresh and bright. The paint is soft, like a gentle breeze. She seems relaxed. What do you think she is looking at?",
+    "g12": "Auguste Renoir painted a young woman sitting by the sea. His brush strokes are soft and feathery, and the colors feel warm and fresh. She looks calm, as if the day is easy. What do you think she is feeling? What clues in the picture help you decide?",
+    "g35": "Auguste Renoir, a French Impressionist, painted this woman by the sea in 1883. He used soft, quick brush strokes and warm color to make her skin, clothes, and the air look glowing. Notice how the woman is the clear center, while the seaside around her is painted more loosely. Why might Renoir choose such a casual, sunny setting for a portrait?",
+    "g68": "Painted in 1883, By the Seashore shows Renoir blending portraiture with the outdoor light he explored as an Impressionist. Soft, feathery brushwork and warm, glowing color make the woman and her surroundings feel part of the same atmosphere. Unlike a formal studio portrait, this setting feels relaxed. How does the seaside setting change what the portrait tells you about the sitter, and what do we still not know about her?",
+    "g910": "Renoir's By the Seashore combines the intimacy of portraiture with the open-air light of Impressionism. Warm tones and soft, feathery brushwork unify figure and setting, so the woman seems to glow in her environment rather than stand apart from it. Renoir's pleasure in color and surface is evident, though the title and tags give few details about the sitter. Consider how an informal setting and gentle handling shape our sense of her mood.",
+    "g1112": "By the Seashore sits between portrait and modern-life scene, using Impressionist light and soft, dissolving brushwork to merge sitter and setting. Renoir's warm palette and sensuous surface have often been praised, though some critics see in them an idealizing tendency that sweetens its subjects. Without reliable information about the sitter, the picture invites reflection on how portraiture, leisure, and gender are constructed. How should we weigh the painting's charm against questions about who is looking and who is looked at?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the young woman is looking at by the sea?",
+      "emotion": "Does she look happy, calm, or sleepy? What makes you say so?",
+      "observation": "Find the woman, the sea, and the sky. Which do you see first?",
+      "analysis": "Where does your eye go first, to her face or somewhere else? Why?",
+      "line": "Find a soft, curved line in her clothes or hair. Trace it with your finger.",
+      "shape": "Look at the shape the woman makes when she sits. Is it round, tall, or wide?",
+      "color": "Find the warm colors and the cool colors. Which ones are around her?",
+      "texture": "The paint looks soft like feathers. How do you think her clothes would feel?",
+      "space": "Is the woman close to you? What do you see behind her?",
+      "light": "Does the light on her look soft or strong? Show where it lands.",
+      "meaning": "Why might someone go to sit by the sea? Tell a short story about her day.",
+      "culture": "Many people in France visited the seaside long ago. What do you like to do at the sea?",
+      "technique": "The painter used soft little brush strokes. Can you wiggle your finger like his brush?",
+      "personal": "Where do you like to sit when you want to feel relaxed?",
+      "critical": "Does the picture feel like a photograph or a painting? What makes you think that?"
+    },
+    "g12": {
+      "daily": "What do you think the woman is feeling at the seashore, and what clues help you decide?",
+      "emotion": "How does the soft painting style make you feel? Which parts help create that feeling?",
+      "observation": "Describe five things you see, from the woman to the colors around her.",
+      "analysis": "How does Renoir draw your eyes to the woman and not to the background?",
+      "line": "Are the lines in this picture sharp or soft? Show where you see the softest lines.",
+      "shape": "How do the curves of the woman's body and clothes make the picture feel gentle?",
+      "color": "Which warm colors does Renoir use for the woman? How do cooler colors around her change the mood?",
+      "texture": "Which parts look soft and feathery, and which look clearer or firmer?",
+      "space": "How can you tell the woman is outdoors by the sea and not in a room?",
+      "light": "How does the glow of the light help make the picture feel warm and fresh?",
+      "meaning": "The title only says 'By the Seashore.' What story could you imagine about the woman?",
+      "culture": "Renoir was a French Impressionist who loved showing happy moments. What makes this a happy moment?",
+      "technique": "Renoir used light, feathery brush strokes. Where can you see them best?",
+      "personal": "What is a place where you feel as relaxed as this woman looks?",
+      "critical": "Does this painting tell us exactly who she is? What do we have to guess?"
+    },
+    "g35": {
+      "daily": "Imagine sitting next to this woman. What would you hear and see around you, and which details in the painting support your ideas?",
+      "emotion": "What mood does the seaside give this portrait? Name two painted details that create it.",
+      "observation": "After one minute of silent looking, what small details in her clothes or the background did you not notice at first?",
+      "analysis": "How does Renoir keep the woman as the main focus while painting the setting loosely?",
+      "line": "How do soft, curved lines in the figure and background create a gentle rhythm?",
+      "shape": "How does the shape of the seated figure compare with the open shapes of sea and sky?",
+      "color": "How do warm skin tones stand out from the cooler colors around the woman?",
+      "texture": "How does Renoir make skin, fabric, and air look different using soft strokes?",
+      "space": "How does the sea behind the woman help make the picture feel open and airy?",
+      "light": "How does sunlight seem to touch the woman and the colors around her?",
+      "meaning": "Why might Renoir paint someone at the seaside instead of in a formal studio setting?",
+      "culture": "In the 1800s, vacations by the sea became popular in France. What does a seaside portrait say about that change?",
+      "technique": "Impressionists painted with short, light strokes. How can that make a portrait feel less stiff?",
+      "personal": "How would you want to be shown if someone painted your portrait at a favorite place?",
+      "critical": "Do you think the painting shows the real woman or an idea of a happy day? Explain your view."
+    },
+    "g68": {
+      "daily": "How does Renoir turn a simple seaside portrait into a painting about light and ease?",
+      "emotion": "How do warm color and soft brushwork shape the emotional tone of the portrait?",
+      "observation": "Describe how clearly each part of the painting is rendered. Where does Renoir give more detail and where less?",
+      "analysis": "How does the composition balance the figure against the open space of the seaside?",
+      "line": "How does the absence of hard outlines affect the way the woman blends with her surroundings?",
+      "shape": "How do curved forms in the figure and drapery create a unified rhythm?",
+      "color": "How does the contrast between warm figure tones and cooler background tones create focus?",
+      "texture": "How do feathery strokes suggest the softness of fabric and skin together?",
+      "space": "How does the shallow space keep the viewer close to the sitter?",
+      "light": "How does outdoor light differ from a studio's light in how it shapes the portrait?",
+      "meaning": "What can we reasonably say about the sitter's identity or story, and what must we leave uncertain?",
+      "culture": "How might leisure by the sea have been connected to class and fashion in 1880s France?",
+      "technique": "Renoir's style in the early 1880s began to change. What do you notice about the balance between softness and structure here?",
+      "personal": "How does a casual portrait feel different from a formal one, both for the subject and the viewer?",
+      "critical": "Is a pleasant, charming portrait less serious than a dramatic one? Argue your position."
+    },
+    "g910": {
+      "daily": "How does the painting use setting and handling to define a mood that the title alone does not?",
+      "emotion": "How does warmth of color and softness of touch shape the portrait's emotional register?",
+      "observation": "Analyze how Renoir focuses attention on the sitter while keeping the surroundings loosely painted.",
+      "analysis": "Analyze the relationship of figure and setting in the composition.",
+      "line": "How does the dissolving of firm outline contribute to an effect of atmosphere?",
+      "shape": "How do curving forms create unity between the sitter and her surroundings?",
+      "color": "How does Renoir's palette of warm flesh and cooler seaside tones support the portrait's glow?",
+      "texture": "How does the treatment of surface balance softness with enough definition to read as a person?",
+      "space": "How does the seaside setting open up the portrait's space while keeping the sitter close?",
+      "light": "How does outdoor light function as a unifying force across the whole canvas?",
+      "meaning": "What are the limits of what we can infer about the sitter from a portrait whose title does not identify her?",
+      "culture": "How does the picture reflect middle-class leisure culture of the Third Republic?",
+      "technique": "How does the painting reveal Renoir's shifting approach to line and color in the 1880s?",
+      "personal": "How does an informal portrait change your sense of the sitter's personality?",
+      "critical": "Renoir has been praised for joyfulness and criticized for sweetness. What in this painting supports either view?"
+    },
+    "g1112": {
+      "daily": "How does this portrait complicate the line between depicting a person and constructing an atmosphere?",
+      "emotion": "How does the painting's pleasure in color and surface shape, and perhaps limit, the emotional range it offers?",
+      "observation": "Describe the painting's formal handling precisely, then identify where your description already depends on assumptions about the sitter.",
+      "analysis": "How do figure-ground relations in the painting reflect Impressionist ideas of unity of effect?",
+      "line": "How does the painting's treatment of contour reflect Renoir's changing attitude toward drawing in the early 1880s?",
+      "shape": "How do soft curves function both to describe a person and to generate a rhythmic pattern?",
+      "color": "How does the painting's color structure support its idealizing or sensuous qualities, and how might critics read this?",
+      "texture": "How does the soft surface invite viewers to feel the painting as a material, and what does that do to portrait conventions?",
+      "space": "How does the shallow, enveloping space position the viewer in relation to the sitter?",
+      "light": "How does the painting's treatment of light connect leisure, outdoor life, and modern identity?",
+      "meaning": "Evaluate readings of the painting as portrait, as modern-life scene, and as pleasing decorative image. What evidence supports each?",
+      "culture": "How do gender and class structure the relationship between painter, sitter, and viewer in a work like this?",
+      "technique": "What does the painting show about the persistence of Impressionist methods even as artists began questioning them?",
+      "personal": "How do your own expectations about beauty and charm influence how you judge this painting?",
+      "critical": "How should critics treat artists whose charm has been both a reason for popularity and a reason for suspicion?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Portraits, Women), classification (Paintings), and medium checked against the museum record. The subject is a clothed young woman portrait with a seaside setting suggested by the title.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1883 by Renoir, a core member of the Impressionist group, and now at the Met. The title refers to a seaside setting; details of the sitter are not given in the record.",
+    "vocabulary": [
+      "Impressionism",
+      "portrait",
+      "warm and cool colors",
+      "brushwork",
+      "atmosphere",
+      "informal"
+    ],
+    "directions": [
+      "Have students compare a stiff, formal pose with this relaxed one by acting out each pose.",
+      "Ask students to identify what the painting does not tell us about the sitter, and what clues they would need.",
+      "Discuss how background and setting change how we read a portrait."
+    ]
+  }
+}

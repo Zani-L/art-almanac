@@ -1,0 +1,158 @@
+{
+  "id": "met-435809",
+  "day": "01-01",
+  "title": "The Harvesters",
+  "artist": "Pieter Bruegel the Elder",
+  "date": "1565",
+  "medium": "Oil on oak",
+  "movement": "Northern Renaissance",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP119115.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1919",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A wide summer landscape with a field of golden wheat. Farm workers cut and gather the grain in the foreground, while a group rests and eats under a tree. Hills, water, and a village stretch away into a hazy distance.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/435809",
+    "objectId": "435809",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting by Pieter Bruegel the Elder, dated 1565, made in the Netherlandish region of Europe. It shows workers harvesting grain and resting in a broad landscape. It is usually described as one of a group of paintings of the seasons or months of the year.",
+  "descriptions": {
+    "k": "Look at this big, wide field. People are cutting wheat. Some are resting under a tree and eating. Can you find the tree? What would you like to do in this field?",
+    "g12": "Pieter Bruegel painted this long ago. It shows a hot day of farm work. Some people cut the golden wheat. Others sit under a tree to rest and eat. Look far back into the picture. What do you see in the faraway land?",
+    "g35": "Pieter Bruegel painted this scene of farm workers in 1565. Golden wheat fills the foreground, and people cut and gather it. Others take a break under a tree with food. Notice how the land slopes away to a village, water, and hills in the distance. What clues show you that it is a warm day and a busy season?",
+    "g68": "Bruegel painted The Harvesters in 1565, and it is often seen as part of a group of paintings about the seasons. Instead of heroes or saints, the stars are ordinary workers. The path and the slope of the wheat lead the eye from the foreground to a hazy distance, while the tree anchors the composition. Compare the labor on one side with the rest under the tree. What might Bruegel want viewers to notice?",
+    "g910": "In this 1565 painting, Bruegel gives everyday rural labor the scale and dignity of a grand landscape. The composition moves between working figures, a resting group, and a receding horizon, with warm yellows of the wheat set against cooler greens and blues. Because he shows both effort and rest, viewers may read the scene as description, celebration, or gentle observation of the rhythm of the year. How does the large landscape change the way we see the workers?",
+    "g1112": "Bruegel's Harvesters belongs to a sixteenth-century Netherlandish tradition that treats the seasons as a subject worthy of monumental treatment. The elevated viewpoint, the graduated recession of color, and the balance of labor and repose create a structured yet naturalistic world. Scholars debate how the picture relates to its original series, who commissioned it, and whether it implies social commentary or simple observation. The painting invites close reading of its details while resisting a single, definitive message."
+  },
+  "questions": {
+    "k": {
+      "daily": "What are the people in the picture doing? Show me with your hands.",
+      "emotion": "Does this day feel hot or cool? What do you see that tells you?",
+      "observation": "What can you find in this picture? Name three things.",
+      "analysis": "What is the biggest thing you see? What is the smallest?",
+      "line": "Can you find a path in the picture? Trace it with your finger in the air.",
+      "shape": "What shape is the tree? What shapes do you see in the wheat?",
+      "color": "Which colors do you see most? Which one feels warm?",
+      "texture": "How do you think the wheat would feel if you touched it?",
+      "space": "What is close to you? What is far away in the picture?",
+      "light": "Where do you think the sun is? What helps you know?",
+      "meaning": "What do you think the people under the tree are saying?",
+      "culture": "This picture was painted in Europe long ago. What do the people do that people still do today?",
+      "technique": "This is a painting with oil paint. How did the artist make tiny faraway things?",
+      "personal": "What is your favorite food to eat outside? Tell us about it.",
+      "critical": "What clue in the picture tells you the people have been working a long time?"
+    },
+    "g12": {
+      "daily": "What are the people doing in each part of the picture? Tell what you see.",
+      "emotion": "How do the workers feel, tired, happy, or something else? What shows it?",
+      "observation": "Find the group resting under the tree. What are they doing?",
+      "analysis": "How does the path help your eyes travel from the front of the picture to the back?",
+      "line": "Find the lines of the wheat and the path. Which way do they lead you?",
+      "shape": "Look at the tree and the bundles of wheat. What shapes do you see?",
+      "color": "Which colors make the field look warm? Which ones make the faraway land look cool?",
+      "texture": "Which parts look rough and which look smooth? How does the artist show that?",
+      "space": "How can you tell some things are far away? Name two clues.",
+      "light": "Is the sunlight strong or soft here? Point to what shows it.",
+      "meaning": "Why do you think the artist painted workers instead of a king or a queen?",
+      "culture": "Farmers still harvest crops today. How is this work like or different from the farm work you know?",
+      "technique": "Artists use tiny brushes for faraway details. Where can you find the smallest details?",
+      "personal": "When do you take a break after hard work? Where do you like to rest?",
+      "critical": "What do you think happens in this picture right after the workers finish their lunch?"
+    },
+    "g35": {
+      "daily": "What story could you tell about this day in the field, using at least three details?",
+      "emotion": "What mood does this painting create? How do the colors and the open space help?",
+      "observation": "Spend one minute looking at the distance. What small details can you find that you missed at first?",
+      "analysis": "How does Bruegel organize the picture so we notice both the workers and the faraway view?",
+      "line": "How do the lines of the wheat and the path guide your eyes through the painting?",
+      "shape": "How do the tree, the bundles, and the hills create different shapes? Which ones repeat?",
+      "color": "How does Bruegel use warm yellows and cool blues and greens to make the scene feel real?",
+      "texture": "How does he make the wheat, the tree bark, and the people's clothing look different from each other?",
+      "space": "What clues, like size, overlapping, and haziness, make the land seem to stretch far away?",
+      "light": "How can you tell it is a bright day? Where are the lightest and darkest parts?",
+      "meaning": "Why do you think Bruegel included both working and resting people? What might he want us to think about?",
+      "culture": "What does this painting tell us about farm life in Europe in the 1500s?",
+      "technique": "Oil paint dries slowly, so artists can blend soft colors. Where might Bruegel have blended colors to show distance?",
+      "personal": "Think of a time your family or class worked on something together and then rested. How is it similar to this scene?",
+      "critical": "Is this painting a record of real life, or has the artist arranged it? What evidence supports your idea?"
+    },
+    "g68": {
+      "daily": "How does Bruegel make a scene of everyday work worth long, close looking?",
+      "emotion": "How does the painting create a feeling of a warm, slow day? Point to specific choices.",
+      "observation": "List what you see from the front of the picture to the back. Which details show the most care?",
+      "analysis": "How does the downward slope of the land organize the composition and guide your eyes?",
+      "line": "How do diagonals and horizontals in the field and path shape the movement across the picture?",
+      "shape": "How do the large shape of the tree and the smaller shapes of the figures help balance the composition?",
+      "color": "How does color change from the foreground to the distance, and what effect does that have on depth?",
+      "texture": "How does Bruegel suggest the rough straw, bark, and cloth without showing every individual detail?",
+      "space": "How do scale, overlapping, and atmospheric haze work together to create depth?",
+      "light": "How does the quality of light help set the season and time of day? What clues support your answer?",
+      "meaning": "The painting shows work and rest together. What might that contrast say about the rhythm of the year?",
+      "culture": "Why might wealthy patrons in 1500s Europe have wanted paintings of farm workers? Consider more than one possible reason.",
+      "technique": "How might the choice of oil on a wooden panel have helped Bruegel paint both big forms and tiny details?",
+      "personal": "How does your own experience of seasons or harvest shape how you read this scene?",
+      "critical": "Does the painting show peasants admiringly, humorously, or neutrally? What evidence supports each view?"
+    },
+    "g910": {
+      "daily": "How do Bruegel's choices about scale, viewpoint, and color shape what we notice first in this scene of labor?",
+      "emotion": "How does the painting create mood, such as warmth or calm, without a dramatic event?",
+      "observation": "Describe the visual hierarchy of the painting. What leads you from foreground to background?",
+      "analysis": "Analyze how the composition links the working group, the resting group, and the distant landscape.",
+      "line": "How do the directions of the wheat rows and the winding path structure movement through the painting?",
+      "shape": "How do the broad shape of the slope and the compact groups of figures create balance or tension?",
+      "color": "How does Bruegel use a shift from warm yellows to cool blue-greens to build depth and atmosphere?",
+      "texture": "How does he differentiate surfaces, such as grain, foliage, and clothing, through color and brushwork rather than outline?",
+      "space": "How does the raised viewpoint affect your sense of space, and where do you imagine standing?",
+      "light": "How does the light treat the whole scene, and how does it help signal season and time of day?",
+      "meaning": "How might the combination of labor, rest, and open landscape be interpreted, and where does interpretation become uncertain?",
+      "culture": "What does the painting suggest about how sixteenth-century Netherlandish society viewed the land, work, and the calendar?",
+      "technique": "How do oil on wood and layered handling help Bruegel combine broad landscape and precise human detail?",
+      "personal": "How does your own relationship to work and rest influence what you see in this painting?",
+      "critical": "What assumptions might a viewer bring to a painting of farm workers, and how does this picture support or challenge them?"
+    },
+    "g1112": {
+      "daily": "What can reasonably be argued about this painting's meaning from the visual evidence, and what remains uncertain?",
+      "emotion": "How does the painting's emotional tone resist easy labeling, and what does that suggest about Bruegel's approach to rural life?",
+      "observation": "Describe the picture's construction with precision. At what point does careful description become interpretation?",
+      "analysis": "Analyze how Bruegel coordinates figures, terrain, and recession to unify a large, varied composition.",
+      "line": "How does the interplay of rhythmic rows, the winding path, and the horizon structure both movement and rest?",
+      "shape": "How do massed forms, such as the tree and the sheaves, counterbalance the expansive horizon to produce visual stability?",
+      "color": "How does the modulated palette, from saturated foreground to muted distance, construct both depth and seasonal mood?",
+      "texture": "How does Bruegel's handling of paint evoke varied materials, and what might this say about observation as a sixteenth-century value?",
+      "space": "How does the elevated vantage point position the viewer in relation to the labor, and what social implications might that position carry?",
+      "light": "In what ways does light operate as both description of a season and an organizing structure for the painting?",
+      "meaning": "Evaluate competing readings of the picture, such as celebration, social observation, or part of a calendar cycle. Which is best supported by evidence?",
+      "culture": "How does the painting relate to Netherlandish traditions of calendar imagery and landscape, and to the market for such works?",
+      "technique": "What do the support, the medium, and the painting's place in a possible series suggest about how and why it was made?",
+      "personal": "How does your own relationship to agriculture, labor, or leisure shape your reading, and how might that limit it?",
+      "critical": "What standards of evidence should govern claims about Bruegel's attitude toward his subjects, given limited documentation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Paintings), medium, and tags (Food, Men, Women, Landscapes, Working, Eating) read from the museum record and checked against the child-safety criteria. No tags or title terms for nudity, violence, death, or frightening content.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1565 by Pieter Bruegel the Elder, it is usually described as part of a group of paintings of the seasons. Scholars still discuss its original setting and meaning.",
+    "vocabulary": [
+      "landscape",
+      "harvest",
+      "foreground and background",
+      "atmospheric perspective",
+      "oil paint",
+      "composition"
+    ],
+    "directions": [
+      "Have students list every activity they can find, then group them into work and rest.",
+      "Ask students to sketch the path of their eyes through the picture, from front to back.",
+      "Connect to science or geography: what crops grow in your region, and when are they harvested?"
+    ]
+  }
+}

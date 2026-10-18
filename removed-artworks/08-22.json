@@ -1,0 +1,151 @@
+{
+  "id": "met-503157",
+  "day": "08-22",
+  "title": "Ocarina",
+  "artist": "Tairona People; Gayraca style",
+  "date": "1300–1500",
+  "medium": "Ceramic",
+  "region": "Colombia (Tairona People; Gayraca style)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP159014.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP159014.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Roberta Lee Boxer, 1984",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny ceramic ocarina that fits in the palm of a hand, with a small rounded body made of fired clay. It is shown on a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503157",
+    "objectId": "503157",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Tairona People; Gayraca style), country, classification (Aerophone-Whistle Flute-vessel flute), dimensions, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "An ocarina is a small wind instrument with a hollow, vessel-shaped body. The Met dates this one to 1300–1500, attributes it to the Tairona People of Colombia in the Gayraca style, and lists ceramic as its medium. It measures only about 5 cm (1 15/16 in.) long, so it could be held in one hand.",
+  "descriptions": {
+    "k": "This is a tiny ocarina made of clay. It is so small that it fits in your hand. It was made long ago in Colombia, in South America. It is hollow inside. What do you think happens when someone blows into it?",
+    "g12": "This ocarina is very small, only about five centimeters long. It was made of clay by Tairona people in Colombia more than 500 years ago. It is hollow, so air can move inside. How do you think someone held it?",
+    "g35": "This ocarina was made by the Tairona people of Colombia between 1300 and 1500. It is made of fired clay and is only about five centimeters long, so it fits in the palm. The Met classifies it as a vessel flute, a hollow wind instrument. It is also called Gayraca style. What does its small size tell you about how it might have been made and used?",
+    "g68": "This ceramic ocarina, made by the Tairona people of Colombia between 1300 and 1500, measures only about five centimeters. The Met classifies it as a vessel flute, meaning a hollow clay body with an air passage, and identifies its style as Gayraca. Tairona ceramics are known for a wide range of forms, but the record does not describe what this one represents. How can a tiny object hold so much cultural information, and what do we still not know?",
+    "g910": "This tiny ocarina is attributed to the Tairona People of Colombia and the Gayraca style, and dated 1300–1500. At roughly five centimeters, it shows how ceramics could serve sound as well as vessels or figures. The Met classifies it as a vessel flute but says little about its shape, symbolism or use, so interpretations should stay careful. Think about how a museum label translates a living culture's object into a catalogue entry, and what is lost in that translation.",
+    "g1112": "Catalogued as Tairona, Gayraca style, and dated 1300–1500, this ceramic ocarina is small enough to hold in the hand and leaves much unsaid. The record classifies it as a vessel flute but does not tell us what, if anything, its form depicts, how it was played or what role it had in Tairona society. Scholars piece together such roles from excavations, comparisons with other ceramics and colonial-era sources, each with limits. The object invites reflection on how museums interpret Indigenous works with partial evidence and how living descendants might read them differently."
+  },
+  "questions": {
+    "k": {
+      "daily": "This ocarina is so small! How do you think a person holds it?",
+      "emotion": "Does this little clay ocarina look playful or serious to you? What do you see?",
+      "observation": "What can you see on the ocarina? Point to the places where air might go in and out.",
+      "analysis": "Which part of the ocarina do your eyes see first? Why?",
+      "line": "Can you find a curved line around the ocarina? Trace it in the air.",
+      "shape": "Is the ocarina round, long, or something else? Tell what shape you see.",
+      "color": "What color is the clay? Does it remind you of anything?",
+      "texture": "If you could touch the ocarina, would it be smooth or bumpy?",
+      "space": "The ocarina is hollow inside. What do you think lives in an empty space like that?",
+      "light": "Where is the clay light, and where is it dark?",
+      "meaning": "Why do you think someone made such a tiny music maker?",
+      "culture": "This ocarina was made in Colombia a very long time ago. What would you ask the maker?",
+      "technique": "Clay is shaped by hand and baked. What do you think the maker did first?",
+      "personal": "What is a tiny thing you like to keep in your pocket?",
+      "critical": "A museum says this is a music maker. How can we be sure when we cannot hear it?"
+    },
+    "g12": {
+      "daily": "This ocarina is only about five centimeters long. What does its small size make you wonder?",
+      "emotion": "What feeling does this tiny clay object give you? Point to what makes you feel it.",
+      "observation": "Describe the shape of the ocarina and three details on its surface.",
+      "analysis": "How does the shape tell you where a player might hold it or blow into it?",
+      "line": "Find the outline of the ocarina. Is it smooth, wavy, or something else?",
+      "shape": "The ocarina is a hollow, rounded shape. How is it different from a flat object?",
+      "color": "The color comes from clay. How does it make the ocarina look old?",
+      "texture": "Clay can look smooth or rough. Which does this ocarina look like?",
+      "space": "Air moves through the empty space inside. Why must an ocarina be hollow?",
+      "light": "How do the light and shadow show the roundness of the ocarina?",
+      "meaning": "Why might someone make a musical instrument so small that it can be carried?",
+      "culture": "Tairona people lived in what is now Colombia. What can an object this small tell us about them?",
+      "technique": "Clay objects are baked in fire to make them hard. Why is that important for a wind instrument?",
+      "personal": "If you could make a tiny instrument out of clay, what shape would you give it?",
+      "critical": "We cannot see everything about how people used this ocarina. What can we learn from looking only?"
+    },
+    "g35": {
+      "daily": "The Met lists this as a vessel flute in the Gayraca style. How does the shape of the clay body match that description?",
+      "emotion": "What mood does this tiny clay object create, and which details help create it?",
+      "observation": "Describe the ocarina from top to bottom. What details do you notice on its surface?",
+      "analysis": "How do the parts of the ocarina's body fit together into one shape?",
+      "line": "How do the outline and any marks on the clay help you understand its form?",
+      "shape": "Hollow, rounded forms are common in clay vessels. How does this ocarina connect to that tradition?",
+      "color": "The medium is ceramic. How does the color of the clay affect the way the object looks?",
+      "texture": "Fired clay can show smooth areas or marks from tools. Which textures can you imagine from the image?",
+      "space": "An ocarina works because of the empty space inside it. How does the outside shape hint at that space?",
+      "light": "How does light on the clay show whether the surface is polished or dull?",
+      "meaning": "Many ancient ceramics carry designs or figures. Why must we be careful when guessing what this one means?",
+      "culture": "The Tairona are known for skilled work in ceramics and metal. Why might they have made a small instrument from clay?",
+      "technique": "A maker had to shape a hollow body that is also an air chamber. What problems might that cause?",
+      "personal": "What small object have you made by hand? What did you learn from making it?",
+      "critical": "The date range is 1300 to 1500. How can we be careful when a museum gives a range instead of an exact date?"
+    },
+    "g68": {
+      "daily": "How might the small size of the ocarina have affected the way it was made and used?",
+      "emotion": "What tone does the small, quiet clay object set? Support your answer with evidence from the image.",
+      "observation": "List what you see on the surface before deciding what it means. Which details are easiest to miss?",
+      "analysis": "How does the design join form and function, a rounded body and an instrument that must carry air?",
+      "line": "How does the outline of the ocarina balance curves and any straight details?",
+      "shape": "The Met calls this a vessel flute. How does the vessel form shape how you imagine the object?",
+      "color": "How might the color of the clay reflect the materials and firing used?",
+      "texture": "What surface qualities of fired clay can you see, and what might they tell you about making?",
+      "space": "How does a hollow interior make the ocarina both object and instrument?",
+      "light": "How does the lighting in the photograph affect what you notice about the clay's surface?",
+      "meaning": "Because the record gives little about meaning, how can we form careful ideas without overclaiming?",
+      "culture": "Why is it helpful that the Met names the Tairona and the Gayraca style instead of using a general label?",
+      "technique": "How might making a tiny object require different skills from making a large pot?",
+      "personal": "What do you think about wearing or carrying something small that has meaning?",
+      "critical": "What questions would you want to ask Tairona descendants about this ocarina before drawing conclusions?"
+    },
+    "g910": {
+      "daily": "How does this ocarina combine the traditions of pottery and wind instruments in a single, small form?",
+      "emotion": "What emotional register does the object's small scale produce, and how does knowing its age change your response?",
+      "observation": "Describe the ocarina's form and surface in detail. Which observations are secure from the image alone?",
+      "analysis": "How does the object's form integrate hand, breath and clay into one design?",
+      "line": "How do the contours of the ocarina reflect decisions about holding and blowing?",
+      "shape": "How does a vessel form fit within the broader tradition of Tairona ceramics, as far as the record allows?",
+      "color": "How does the earth tone of fired clay affect how we read an object as ancient?",
+      "texture": "What does the surface suggest about the maker's handling of clay, and how might wear have altered it?",
+      "space": "How does the unseen interior define the object's purpose?",
+      "light": "How do museum photographs control the way fine surface details appear?",
+      "meaning": "What are the risks of attributing ritual meaning to a small ceramic object when the record is silent?",
+      "culture": "How does the Gayraca style label place this object in a larger framework, and what does it leave out?",
+      "technique": "How does firing clay into an air chamber relate to the acoustics of the instrument?",
+      "personal": "What is your relationship to small portable objects, and how do they carry meaning for you?",
+      "critical": "How do gifts to museums, like this 1984 gift, shape which Tairona objects are available for study and display?"
+    },
+    "g1112": {
+      "daily": "What can this tiny ocarina support as evidence of Tairona sound-making, and what claims would go beyond the record?",
+      "emotion": "How does the object's modest size and silence in a museum affect our emotional response, and what assumptions might we bring?",
+      "observation": "Separate what the image shows from what the record asserts. Which interpretations are unsupported?",
+      "analysis": "How do material, form and function interact in this object, and what does the Gayraca style label add?",
+      "line": "How does the contour of the ocarina reflect the demands of both ceramics and wind instruments?",
+      "shape": "How does the vessel flute classification complicate neat distinctions between pots, figures and instruments?",
+      "color": "How does the neutral tone of fired clay shape the way museums and viewers imagine the pre-Columbian world?",
+      "texture": "How might wear, burial and restoration alter our reading of the original surface?",
+      "space": "How does the presentation of a tiny object in a large museum change our understanding of its intimacy?",
+      "light": "How does photographic convention affect the way we perceive scale and importance?",
+      "meaning": "How can scholars combine archaeology, comparison and Indigenous knowledge to interpret objects like this?",
+      "culture": "How does the broad date range of 1300–1500 reflect uncertainty, and what does that mean for historical claims?",
+      "technique": "How do the technical constraints of ceramic firing and air flow shape the possibilities for form?",
+      "personal": "How does your own cultural background shape how you expect a flute-like object to look?",
+      "critical": "What ethical questions arise when Indigenous objects are collected and displayed far from the communities that made them?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Aerophone-Whistle Flute-vessel flute), medium (ceramic), culture, and tags (none listed) checked against the museum record; the record does not say whether the vessel is modeled as a figure or animal, so the image should be confirmed. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A tiny ceramic ocarina attributed to the Tairona People of Colombia (Gayraca style), dated 1300–1500. The record does not describe its shape, subject or use, so students should only describe what they can see.",
+    "vocabulary": ["ocarina", "vessel flute", "ceramic", "Tairona", "Gayraca style", "wind instrument"],
+    "directions": [
+      "Compare an ocarina with a recorder: where does the air go in each?",
+      "Pinch a small clay form and discuss how it could be turned into a hollow shape.",
+      "Talk about how museums describe objects when only partial information exists."
+    ]
+  }
+}

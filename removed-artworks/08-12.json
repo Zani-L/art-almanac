@@ -1,0 +1,151 @@
+{
+  "id": "met-41531",
+  "day": "08-12",
+  "title": "Snuff bottle with boy flying a bird",
+  "artist": "Artist unknown",
+  "date": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+  "medium": "Coral",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP319219.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP319219.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Edmund C. Converse, 1921",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small snuff bottle carved from coral, with a warm, reddish-pink color. A carved scene of a boy with a bird wraps around the bottle's body.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/41531",
+    "objectId": "41531",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, medium (Coral), period (Qing dynasty, Qianlong period, 1736–95), creditLine, classification (Snuff Bottles), tags (Animals, Birds, Boys), public-domain flag, and image URLs read from the record. The objectDate field is empty, so the date field uses the record's period text."
+  },
+  "context": "This small bottle was made in China during the Qianlong period (1736-95) of the Qing dynasty and is carved from coral, a material that comes from the sea. Snuff bottles held powdered tobacco and were also prized as small, handheld works of art. The Met's record tags the subject Animals, Birds, and Boys.",
+  "descriptions": {
+    "k": "This tiny bottle is carved from coral. Coral comes from the sea. A boy and a bird are carved on it. Find the boy. Find the bird. What do you think they are doing together?",
+    "g12": "This little bottle was made in China long ago. It is carved from coral, a hard material that grows in the sea. A boy is shown with a bird, and the artist carved them so you can feel their shapes. What might the boy and the bird be doing? How can you tell?",
+    "g35": "This is a snuff bottle from Qing dynasty China, small enough to hold in one hand. Coral is a material formed by sea animals, and the carver shaped it into a scene with a boy and a bird. The warm color of the coral becomes part of the picture. Look at how the carver arranged the boy and the bird. Why might someone choose coral for a small treasure?",
+    "g68": "Carved in the Qianlong period, this snuff bottle shows how artisans worked even difficult, natural materials into fine objects. Coral is a hard, brittle material that comes from the sea, so carving a boy and bird scene requires great care. The coral's natural color and texture become part of the design. How does the scene fit the bottle's rounded form? What does the choice of coral suggest about the bottle's value?",
+    "g910": "This coral snuff bottle shows an unusual material choice: coral, formed in the sea, was prized in China and worked with considerable skill. The carver had to shape the boy-and-bird scene around the stone-like body of the bottle, using the color and grain of the material as part of the image. Scenes with children and birds were popular decorative subjects, though the Met's record does not tell us a specific story. Consider how scale, material, and subject work together.",
+    "g1112": "A Qianlong-period coral snuff bottle raises questions about material, value, and miniature narrative. Coral's color, hardness, and limited supply may have made it prized, and the carver's task, to fit a boy-and-bird scene to a small natural form, shows how material can shape imagery. The subject (a boy and a bird) belongs to a broad tradition of children and animals in decorative arts, but its meaning in this case is not recorded. How do material constraints, collecting culture, and miniature scale shape how we read the bottle?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the boy and the bird on this coral bottle are doing together?",
+      "emotion": "Does the boy seem happy or calm to you? What tells you that?",
+      "observation": "Find the boy and the bird on the bottle. What else can you find?",
+      "analysis": "Do you look at the boy or the bird first? Why?",
+      "line": "Trace the bird's shape with your finger in the air. Is it smooth or curvy?",
+      "shape": "What shape is the bottle? Where do you see round shapes in the carving?",
+      "color": "The bottle is the warm color of coral. What does that color remind you of?",
+      "texture": "The carved boy and bird stand up a bit. How would they feel if you touched them?",
+      "space": "The bottle is tiny. Is it as big as your hand or smaller?",
+      "light": "Where does the coral look lighter and where does it look darker?",
+      "meaning": "Why might someone want a picture of a boy and a bird on their bottle?",
+      "culture": "People in China carved small treasures like this. What small treasures do you keep?",
+      "technique": "The carver cut the scene into hard coral from the sea. What would be tricky about carving something so small?",
+      "personal": "If you could have a bird as a friend, what would you do together?",
+      "critical": "Why do you think the carver chose coral instead of clay or wood?"
+    },
+    "g12": {
+      "daily": "How does the carver show that the boy and the bird belong together?",
+      "emotion": "What feeling does this scene give you, gentle or playful? What shows it?",
+      "observation": "Describe the boy and the bird. Find at least five details in the carving.",
+      "analysis": "How does the carver place the boy and the bird on the rounded bottle?",
+      "line": "Find the curved lines in the carved bird and boy. How do they make the scene feel soft?",
+      "shape": "The bottle is round and the figures are small. How do they fit the shape?",
+      "color": "Coral has its own warm color. How does it make the scene feel different from white or blue pottery?",
+      "texture": "Coral can look a bit grainy. Where do you see a rough or smooth surface?",
+      "space": "The scene wraps around the bottle. Why can you not see the whole thing at once?",
+      "light": "Light shines on the raised parts of the carving. Where do you see bright and shadowed areas?",
+      "meaning": "Boys and birds often appeared in art as signs of a happy childhood. Why might that be a good picture for a bottle?",
+      "culture": "This bottle was made in the Qing dynasty. What does it show about small things people carried and admired?",
+      "technique": "Coral comes from the sea, and it is hard to carve. Why might that make this bottle special?",
+      "personal": "What small natural treasures do you like, such as shells or stones? Why?",
+      "critical": "Is this bottle more about the boy and the bird or about the beautiful coral? Use clues to decide."
+    },
+    "g35": {
+      "daily": "What story do you imagine for this boy and bird, and which carved details support it?",
+      "emotion": "What mood does the carved scene create, and how does the coral color add to it?",
+      "observation": "Look for one minute. What tiny details in the boy, the bird, or the bottle's shape did you not see at first?",
+      "analysis": "How did the carver arrange the boy and the bird so that both are easy to see?",
+      "line": "How do the curved lines of the bird's body compare with the lines of the boy's clothing?",
+      "shape": "How does the carver use the bottle's rounded body to hold the boy and bird scene?",
+      "color": "How does the warm color of coral affect the way you see the carved scene?",
+      "texture": "What can you tell about the bottle's surface from the picture? Where might it feel smooth or bumpy?",
+      "space": "How does the carver make some parts of the scene look closer than others?",
+      "light": "How does light help you see the raised parts of the carving?",
+      "meaning": "Scenes with children and animals were common in Chinese decorative arts. What might this scene say about childhood?",
+      "culture": "Why might coral have been a valued material for a snuff bottle in the Qing dynasty?",
+      "technique": "Coral is hard and can break. What skills do you think the carver needed?",
+      "personal": "Think of a time you shared a moment with an animal. How does it compare with this scene?",
+      "critical": "How is carving a scene from coral different from painting one on porcelain? Which would you find harder?"
+    },
+    "g68": {
+      "daily": "How does the carver turn a small piece of sea-formed coral into a scene of a boy and a bird?",
+      "emotion": "What relationship between boy and bird does the carving suggest, and which details create it?",
+      "observation": "Examine the bottle closely. Which areas show the most detail, and which are left simple?",
+      "analysis": "How does the composition use the bottle's rounded form to organize the scene?",
+      "line": "How does the carver use contour and incised line to separate boy, bird, and background?",
+      "shape": "How do the rounded forms of the figures echo the shape of the bottle?",
+      "color": "How does coral's natural color replace painted color in this object?",
+      "texture": "How might the texture of carved coral differ from polished porcelain?",
+      "space": "How does the carver create depth in a very shallow relief on a curved surface?",
+      "light": "How does light and shadow within the carving reveal form?",
+      "meaning": "What associations with childhood, nature, or good fortune might a boy and a bird carry, and what is uncertain?",
+      "culture": "What does the use of coral, an uncommon material, suggest about the status of snuff bottles in Qing society?",
+      "technique": "Why does coral's hardness and brittleness make carving more risky than carving softer materials?",
+      "personal": "What natural materials do you find beautiful, and what would you want to make from them?",
+      "critical": "Does a rare material add to a work's value, or should the skill of the carving matter more? Argue your view."
+    },
+    "g910": {
+      "daily": "How do the carver's choices about material, scale, and subject combine to give the bottle its charm?",
+      "emotion": "How does the gentle subject of a boy with a bird affect the object's emotional tone?",
+      "observation": "Describe the visual hierarchy: which parts of the scene draw attention and why?",
+      "analysis": "Analyze how the figures are adapted to the bottle's curved, compact form.",
+      "line": "How does the carver use contour and incision to define forms in a hard material?",
+      "shape": "How does the interplay of rounded bottle and rounded figures create harmony?",
+      "color": "How does the coral's natural coloration contribute to the effect without added pigment?",
+      "texture": "How do polished and carved areas create contrast in the tactile experience?",
+      "space": "How does shallow relief on a curved body shape the viewer's movement around the object?",
+      "light": "How does reflected light across polished coral change how forms read?",
+      "meaning": "How might the pairing of a child and a bird be read as symbolic, and where does that reading become uncertain?",
+      "culture": "How does a coral snuff bottle reflect networks of trade, collecting, and taste in the Qing period?",
+      "technique": "What does carving a figured scene from brittle coral reveal about the skill and risk involved?",
+      "personal": "How do small, precious objects in your own life function as signs of identity or care?",
+      "critical": "How might museum categories, such as decorative art, affect how seriously we treat a miniature carving?"
+    },
+    "g1112": {
+      "daily": "What does the bottle reveal about how material constraints can generate imagery in miniature art?",
+      "emotion": "How does the interplay of delicate subject and precious material shape the bottle's affective register?",
+      "observation": "Describe the bottle with precision. Where does naming the activity of the boy move beyond what is visible?",
+      "analysis": "Analyze the relationship between carved scene and bottle form as a problem of fit.",
+      "line": "How does line function in carved relief differently from drawing or painting?",
+      "shape": "How does the dialogue between organic material and designed form complicate the idea of authorship?",
+      "color": "How does the natural color of coral shape the iconography of the scene and its reception?",
+      "texture": "In what ways does coral's materiality, both fragile and hard, influence the meanings we attach to the bottle?",
+      "space": "How does a miniature scale reshape the viewer's physical relation to a narrative scene?",
+      "light": "How might handling and varying light alter the appearance of polished coral compared with photographs?",
+      "meaning": "How do auspicious readings of children and birds sit alongside the possibility that the scene was simply admired for charm?",
+      "culture": "How does a coral snuff bottle complicate boundaries among luxury goods, fashion accessory, and fine art?",
+      "technique": "What questions about workshop practice and supply of raw material does a coral bottle raise?",
+      "personal": "How do your assumptions about childhood and nature shape how you read this scene?",
+      "critical": "With no recorded maker or story, how should we limit claims about the meaning of this bottle?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Snuff bottle with boy flying a bird), classification (Snuff Bottles), medium (Coral), and tags (Animals, Birds, Boys) checked against the museum record; nothing in them suggests nudity, violence, or frightening content. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Qing dynasty (Qianlong period, 1736-95) snuff bottle carved from coral. Confirm from the image exactly how the boy handles the bird.",
+    "vocabulary": ["snuff bottle", "coral", "Qing dynasty", "relief carving", "miniature", "motif"],
+    "directions": [
+      "Have students carve a simple design into a bar of soap or chalk and note the difficulty of fine detail.",
+      "Discuss natural materials used for art around the world, such as jade, shell, wood, and coral.",
+      "Compare this bottle with the 'Boys at play' bottle in the archive and discuss how material changes the effect."
+    ]
+  }
+}

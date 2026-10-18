@@ -1,0 +1,159 @@
+{
+  "id": "met-453367",
+  "day": "03-11",
+  "title": "Portrait of the Elephant 'Alam Guman",
+  "artist": "Painting attributed to Bichitr",
+  "date": "ca. 1640",
+  "medium": "Opaque watercolor and gold on paper",
+  "movement": "Mughal painting",
+  "region": "India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP234016.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP234016.jpg",
+    "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1996",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A painted portrait of a large elephant shown in profile, with a man beside it. The figures are painted in fine detail with opaque watercolor and touches of gold on paper.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/453367",
+    "objectId": "453367",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, attribution, date, medium, public-domain flag, credit line, country (India), tags (Men, Elephants), and image URLs read from the record"
+  },
+  "context": "A Mughal-era painting from India, made around 1640 and attributed by the Met to Bichitr, an artist associated with the imperial court. Its title calls it a portrait of an individual elephant, which shows that animals could be recorded and honored by name.",
+  "descriptions": {
+    "k": "This is a picture of one elephant. It has a name! The name is 'Alam Guman. A person stands near it. The artist used tiny brush strokes and gold paint. What would you say to this elephant?",
+    "g12": "Long ago in India, an artist painted a portrait of one special elephant named 'Alam Guman. Portraits are usually of people, but here the elephant is the star. A man is shown nearby. The artist used fine lines and shiny gold. What do you notice about the elephant's size next to the man?",
+    "g35": "This painting was made in India around 1640, in the Mughal style, and it is a portrait of a named elephant, 'Alam Guman. The Met attributes it to Bichitr, an artist linked to the royal court. Notice the careful details of the elephant's skin and the figure near it. Why might someone have wanted a portrait of an elephant, the way people have portraits of family members?",
+    "g68": "Mughal court painters often recorded animals with close observation, and here a single elephant is treated like an important person in a formal portrait. The Met attributes the work to Bichitr and dates it around 1640. Notice how the animal fills the page, how fine brushwork describes surface and form, and how gold adds richness. What does the portrait suggest about how elephants were valued at the court, and how can you tell from the picture?",
+    "g910": "Portraits of named animals were part of Mughal court culture, where elephants were prized for status, power, and ceremony. This work, attributed to Bichitr and dated around 1640, gives one elephant a monumental profile and the attention usually reserved for noble sitters. Consider how scale, careful modeling, and the use of gold and opaque watercolor elevate the animal, and how the human figure adds scale and context. What is the effect of such a formal presentation?",
+    "g1112": "This attributed work by Bichitr belongs to a Mughal tradition in which keen naturalistic observation coexisted with courtly display. A named elephant is shown with the formality of portraiture, suggesting that its identity and standing mattered to those who commissioned or collected the image. Scholars often discuss how such pictures blended Persian painting conventions with newer interest in lifelike description. Because the record offers limited detail about the original owner or setting, interpretations of its purpose should remain provisional. What does the visual evidence support?"
+  },
+  "questions": {
+    "k": {
+      "daily": "This elephant has a name, 'Alam Guman. If it could talk, what would it say?",
+      "emotion": "Does the elephant look calm, sleepy, or grumpy? Show with your face.",
+      "observation": "Find the elephant's trunk, ears, and legs. Which one is your favorite part?",
+      "analysis": "Who looks bigger, the elephant or the man? How can you tell?",
+      "line": "Trace the long curve of the elephant's trunk in the air with your finger.",
+      "shape": "An elephant is made of big, round shapes. Which round shapes can you find?",
+      "color": "What colors did the artist use for the elephant? Where do you see gold?",
+      "texture": "How would the elephant's wrinkly skin feel? What did the artist do to show that?",
+      "space": "The elephant is shown from the side. What part of its body can you see best?",
+      "light": "Does the picture have shadows, or is it flat and bright? What do you notice?",
+      "meaning": "Why do you think someone had a picture painted of one elephant?",
+      "culture": "This picture is from India long ago. What animals do people today paint or photograph to remember?",
+      "technique": "The artist painted tiny, careful lines. How might it feel to paint something so small?",
+      "personal": "What is the name of a pet or animal you know? What would you put in its portrait?",
+      "critical": "The artist put a man next to the elephant. Why might that help us see how big the elephant is?"
+    },
+    "g12": {
+      "daily": "This is a portrait of one elephant with a name. What clues show it is special?",
+      "emotion": "Does the elephant seem proud, gentle, or strong? Point to what shows that.",
+      "observation": "Describe the elephant from head to foot, then describe the person near it.",
+      "analysis": "Why do you think the elephant is shown large and from the side?",
+      "line": "Find thin, careful lines on the elephant. Do they look soft or sharp?",
+      "shape": "How do the big rounded shapes of the elephant compare with the shape of the man?",
+      "color": "Which colors are quiet and which are shiny? Where do you see gold?",
+      "texture": "How does the painter show the elephant's thick, wrinkly skin without using real wrinkles?",
+      "space": "Does the picture show a lot of the room or land around the elephant? What does that make you focus on?",
+      "light": "Does the light seem to come from one place? How does that change the elephant's look?",
+      "meaning": "Why might a ruler or rich family want a portrait of an elephant?",
+      "culture": "In India long ago, elephants had important jobs in celebrations and travel. What might that tell you about this portrait?",
+      "technique": "The painting uses opaque watercolor, which does not let the paper show through. Why might that help with small details?",
+      "personal": "If an artist painted your favorite animal, what would you ask the artist to show?",
+      "critical": "Portraits are usually of people. Why might an artist make a portrait of an elephant instead?"
+    },
+    "g35": {
+      "daily": "How does the artist make this elephant feel like an important individual, not just any elephant?",
+      "emotion": "What mood or personality do you see in the elephant's pose and face? Give evidence from the picture.",
+      "observation": "Look for tiny details in the elephant's skin, feet, and anything it wears. What did you find that you missed at first?",
+      "analysis": "How does the placement of the elephant and the person organize the page?",
+      "line": "How do the careful outlines and tiny lines show the elephant's shape and the wrinkles of its skin?",
+      "shape": "How do the elephant's large curved forms make it look heavy, strong, and steady?",
+      "color": "How do gold and other colors make the elephant and its surroundings look rich and special?",
+      "texture": "What details show that the elephant's skin is thick and rough while other parts look smooth?",
+      "space": "The elephant is shown from the side. How does this view help us understand its size and shape?",
+      "light": "How do the light and dark tones on the elephant's body give it a rounded, solid look?",
+      "meaning": "The title names the elephant 'Alam Guman. What might a name tell us about how people saw this animal?",
+      "culture": "The Mughal court in India valued elephants for ceremony and power. How might this painting reflect that value?",
+      "technique": "Mughal painters worked in opaque watercolor with very fine brushes. How could such tools help show a living animal?",
+      "personal": "How would you honor an animal you care about with a special portrait?",
+      "critical": "The Met says this is attributed to Bichitr. Why might museums use the word attributed instead of just saying he painted it?"
+    },
+    "g68": {
+      "daily": "How does this painting treat an elephant with the dignity usually given to a person?",
+      "emotion": "What character does the elephant seem to have, such as calm, power, or patience? Point to the visual choices that suggest it.",
+      "observation": "Start with the elephant's profile and move outward. Which details seem most carefully observed?",
+      "analysis": "How does the composition place the elephant and the human figure to emphasize the animal's importance?",
+      "line": "How does fine, controlled linework describe both the elephant's massive form and its surface details?",
+      "shape": "How do the heavy, rounded forms of the body contrast with the thinner shape of the human figure?",
+      "color": "How does the use of gold and rich pigments signal value and status for the subject?",
+      "texture": "How does the painter make skin look wrinkled and tough while keeping the picture refined and elegant?",
+      "space": "The elephant appears in profile and fills much of the page. How does that choice affect the viewer's sense of scale?",
+      "light": "Is the lighting dramatic or even? How does that suit a portrait meant to record and honor a subject?",
+      "meaning": "Why might the court have wanted a record of this particular elephant? What different answers are possible?",
+      "culture": "How might elephants have symbolized power and ceremony at the Mughal court, and how does the portrait suggest it?",
+      "technique": "Mughal painters used opaque watercolor and gold on paper. How do those materials help create a precise, jewel-like effect?",
+      "personal": "What does it take to look at an animal as an individual rather than as a type? Have you done that with a pet?",
+      "critical": "The portrait is attributed, not certain. How can viewers still learn from it while knowing the artist is uncertain?"
+    },
+    "g910": {
+      "daily": "What visual strategies give this named elephant the weight and presence of a formal portrait?",
+      "emotion": "How does the elephant's stance create an impression of composure and authority without an expressive face?",
+      "observation": "Describe the visual hierarchy: how do scale and placement make the elephant dominant over the human figure?",
+      "analysis": "How does the profile view, common in portrait traditions, structure the way the viewer reads the animal?",
+      "line": "How do precise contours and fine interior marks balance idealization with close observation?",
+      "shape": "How does the contrast between the massive animal silhouette and the slim human form establish scale and relationship?",
+      "color": "How might the restrained or luxurious color choices, including gold, function as markers of status?",
+      "texture": "How does the painter evoke the elephant's skin with delicate marks rather than heavy shading?",
+      "space": "How does the shallow, decorative treatment of space keep attention on the subject rather than a setting?",
+      "light": "How does the modeling of form with subtle tone create volume without dramatic light and shadow?",
+      "meaning": "In a court culture that prized elephants, what might it mean to record one by name?",
+      "culture": "How does this work reflect both Persian-influenced painting conventions and Mughal interest in naturalistic description?",
+      "technique": "How do opaque watercolor and gold shape the painting's surface quality and its suitability for a collected album?",
+      "personal": "How does viewing an animal as a named individual change how you think about the ones you meet in daily life?",
+      "critical": "What assumptions do we bring when we call a picture of an animal a portrait, and how does this work support or challenge them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the picture itself about why an elephant was portrayed with such formality, and what remains speculative?",
+      "emotion": "How does the portrait's restraint shape the viewer's sense of the elephant's temperament, and does it invite projection?",
+      "observation": "Describe the painting's construction with precision. When does description of an elephant begin to imply an argument about status?",
+      "analysis": "Analyze how scale, profile, and the placement of the human figure organize the relationship between animal and keeper.",
+      "line": "How does the interplay of controlled contour and fine descriptive marking reflect Mughal ideals of precision?",
+      "shape": "How does the painting negotiate between naturalistic anatomy and the stylized clarity of a courtly format?",
+      "color": "How might pigment and gold have signaled value to Mughal patrons and collectors, and how might age affect what we see today?",
+      "texture": "How does the painting's handling convey bodily presence and weight within a flat, refined surface?",
+      "space": "How does the shallow field position the viewer, and what is implied by the absence or reduction of setting?",
+      "light": "How does tonal modeling create volume while preserving the clean legibility expected of an album or manuscript page?",
+      "meaning": "Evaluate readings of the portrait as record, tribute, or statement of power. Which does the visual evidence best support?",
+      "culture": "How does the portrait situate elephants within Mughal court life, and how do scholars connect such images to ideas of empire and naturalism?",
+      "technique": "What does the small-scale, high-finish technique suggest about the workshop practices behind court painting, and what remains uncertain?",
+      "personal": "How does your own relationship to animals and to portraiture shape what you notice here, and where might it limit your reading?",
+      "critical": "Given the attribution to Bichitr, what standards of evidence should govern claims about authorship, patronage, and purpose?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Codices), country (India), and tags (Men, Elephants) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A Mughal-era portrait of a named elephant, attributed to Bichitr and dated around 1640. Court artists in India often recorded animals with close observation.",
+    "vocabulary": [
+      "Mughal",
+      "portrait",
+      "opaque watercolor",
+      "profile",
+      "attributed",
+      "court painting"
+    ],
+    "directions": [
+      "Ask students to design a portrait of a named animal, deciding what pose, scale, and decoration will make it feel important.",
+      "Discuss the word attributed and why museums use it when authorship is not certain.",
+      "Compare this elephant with another animal in the archive, noting how each artist shows size and character."
+    ]
+  }
+}

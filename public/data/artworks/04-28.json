@@ -1,0 +1,159 @@
+{
+  "id": "met-49467",
+  "day": "04-28",
+  "title": "Cat and Butterfly",
+  "artist": "Xugu (Zhu Huairen)",
+  "date": "19th century",
+  "medium": "Hanging scroll; ink and color on paper",
+  "movement": "Qing dynasty painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-30286-002.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-30286-002.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall Chinese hanging scroll painted in ink and soft color on paper. It shows a cat and a butterfly, with flowers also part of the picture.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/49467",
+    "objectId": "49467",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, culture (China), tags (Cats, Butterflies, Flowers), and image URLs read from the record"
+  },
+  "context": "A hanging scroll by Xugu, a Chinese painter of the 19th century, painted in ink and color on paper. The subject of a cat and a butterfly appears often in Chinese art, where the two words are sometimes said to sound like wishes for long life.",
+  "descriptions": {
+    "k": "A cat and a butterfly are in this picture. There are flowers too. Is the cat looking at the butterfly? What might the cat do next? Look at the cat's body and make the same pose.",
+    "g12": "Xugu was a painter in China long ago. He painted a cat and a butterfly on a long hanging scroll, with flowers nearby. The picture uses ink and soft color. What does the cat seem to be thinking about? How does the butterfly make the picture feel light and playful?",
+    "g35": "Xugu painted this tall scroll in China in the 1800s using ink and color on paper. A cat and a butterfly share the picture with flowers. In Chinese art, the cat and butterfly are sometimes linked to wishes for a long life, because their names sound like words connected to old age. Look at how the cat's body and the butterfly's tiny wings are drawn. How can ink show soft fur and delicate wings?",
+    "g68": "Xugu was a 19th-century Chinese painter, and this hanging scroll uses brush and ink with touches of color. Cats and butterflies often appear together in Chinese art, where some viewers read the pairing as a wish for long life because of how the words sound. Notice how loose brushwork suggests fur and how empty paper around the figures creates space. How might playfulness and symbolism work together in the same picture?",
+    "g910": "In Cat and Butterfly, Xugu combines lively observation with a traditional auspicious theme. The cat-and-butterfly pairing is widely discussed as a pun on longevity, though the picture can also be enjoyed simply as a study of feline attention. Consider how ink tone, the contrast between a solid animal and a light insect, and the vertical format of the scroll structure the viewer's eye. How do playfulness and symbolic meaning coexist here?",
+    "g1112": "Xugu's Cat and Butterfly belongs to the Chinese tradition of auspicious imagery, in which a cat and butterfly are often read as a rebus for long life, while also carrying the appeal of a small, observed moment. The hanging scroll format, brush economy, and use of ink and color invite comparison with the literati ideal of expressive brushwork and with more decorative bird-and-flower painting. Because meanings of such motifs vary by context and viewer, readings should be tested against the actual brushwork and composition. What does the evidence support?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What is the cat looking at? What do you think it wants to do?",
+      "emotion": "Does the cat look sleepy, curious, or ready to jump? Show with your body.",
+      "observation": "Find the cat, the butterfly, and the flowers. Point to each one.",
+      "analysis": "Which do you see first, the cat or the butterfly? What helps you notice it?",
+      "line": "Trace the line of the cat's back in the air. Is it curvy or straight?",
+      "shape": "A cat is round and a butterfly has wings like triangles. What shapes do you see?",
+      "color": "What colors did the artist use? Which part has the most color?",
+      "texture": "How would the cat's fur feel? How would a butterfly wing feel?",
+      "space": "Is there a lot of empty paper in this picture? How does that make you feel?",
+      "light": "Does the picture look bright or dark? Which parts look lighter?",
+      "meaning": "Make up a story about the cat and the butterfly. What happens next?",
+      "culture": "This picture is from China. What animals do you like to see in pictures at home?",
+      "technique": "The artist painted with a soft brush and ink. How do you think he made the fur look fluffy?",
+      "personal": "Have you ever watched a cat or a butterfly? What did it do?",
+      "critical": "The scroll is tall and narrow. Why do you think the artist chose that shape?"
+    },
+    "g12": {
+      "daily": "What is the cat doing, and what clue in the picture tells you?",
+      "emotion": "How does the cat feel about the butterfly? Use the cat's body to explain.",
+      "observation": "Describe the cat, the butterfly, and one flower. Which has the most detail?",
+      "analysis": "How does the artist help your eyes move between the cat and the butterfly?",
+      "line": "Compare the strong brush lines with the thin, delicate ones. Where do you find each?",
+      "shape": "How is the shape of the cat different from the shape of the butterfly?",
+      "color": "Where is the color bright and where is it just black ink or gray? Why might the artist do that?",
+      "texture": "How does the painter show soft fur using only brush strokes?",
+      "space": "How does empty paper around the animals change the way the picture feels?",
+      "light": "Which parts look light and which look dark? How does that help the cat look round?",
+      "meaning": "In China, the cat and butterfly together are sometimes a wish for long life. What wish would you put in a painting?",
+      "culture": "Chinese paintings often use hanging scrolls. How is a scroll different from a picture in a frame?",
+      "technique": "The painting uses ink, which can be dark or pale. Where do you see both?",
+      "personal": "Which animal in your life would you like to see in a painting like this?",
+      "critical": "Is this painting more playful or more serious? Find a reason in the picture."
+    },
+    "g35": {
+      "daily": "How does Xugu make a quiet moment between a cat and a butterfly feel full of life?",
+      "emotion": "What mood do the cat's body and the butterfly's wings create together?",
+      "observation": "Take a quiet minute to look at the cat's face and body. What small details did you notice?",
+      "analysis": "How does the placement of cat, butterfly, and flowers organize the tall scroll?",
+      "line": "How do thick and thin brush lines show the difference between a solid cat and a light butterfly?",
+      "shape": "How does the cat's rounded form contrast with the flat, spread-out wings of the butterfly?",
+      "color": "How does the artist use color on some parts and ink on others to guide your eyes?",
+      "texture": "How do loose brush marks suggest the cat's fur, and how do finer marks suggest wings?",
+      "space": "Why might the artist leave much of the paper empty? What does that do for the animals?",
+      "light": "How do lighter and darker ink tones help show the cat's rounded body?",
+      "meaning": "Some people link the cat and butterfly to long life. How could the same picture also be enjoyed just as a lively scene?",
+      "culture": "Chinese artists have used animals and flowers to share good wishes. Why might a painting be given as a gift?",
+      "technique": "Xugu used ink and color on paper in a hanging scroll. How might brush speed affect the lines you see?",
+      "personal": "Think about a time you watched something small move. How is that like or unlike this picture?",
+      "critical": "How can we enjoy a symbol like the cat and butterfly even if we are unsure the artist meant it?"
+    },
+    "g68": {
+      "daily": "How does Xugu combine a lively animal study with a traditional symbolic theme?",
+      "emotion": "What emotional tone arises from pairing a heavy, grounded cat with a fluttering butterfly?",
+      "observation": "Describe the picture from top to bottom. Which parts show the most careful brushwork?",
+      "analysis": "How does the vertical format and the placement of figures create balance and movement?",
+      "line": "How does brush control vary between the cat's body, the butterfly, and the flowers?",
+      "shape": "How do solid and light shapes contrast, and what does that contrast say about the two creatures?",
+      "color": "Why might a painter reserve color for certain areas and rely on ink tone elsewhere?",
+      "texture": "How does the painter create the impression of soft fur without drawing individual hairs?",
+      "space": "How does unpainted paper function as a part of the composition rather than as emptiness?",
+      "light": "Without strong shadows, how do ink tones give the cat volume?",
+      "meaning": "If cat and butterfly are linked to a wish for long life, how does that change your reading of the cat's attention?",
+      "culture": "How might symbolic animals like these have been used in homes in 19th-century China, such as for gifts or celebrations?",
+      "technique": "How is working on a hanging scroll with ink and brush different from painting with oil on canvas?",
+      "personal": "What symbols or objects carry a hopeful meaning in your family or community?",
+      "critical": "Is the picture's meaning in the symbol, the brushwork, or both? Defend your view with evidence."
+    },
+    "g910": {
+      "daily": "How do the picture's formal choices keep both observation and symbolic meaning in play?",
+      "emotion": "How does the contrast between the cat's mass and the butterfly's lightness create tension or humor?",
+      "observation": "Describe the visual hierarchy: which element dominates, and how do brushwork and placement create that effect?",
+      "analysis": "How does the tall composition lead the eye between cat and butterfly, and what role does empty space play?",
+      "line": "How does the variety of brush pressure and speed give the animals different characters?",
+      "shape": "How does the contrast between compact and open forms structure the relationship between the two creatures?",
+      "color": "How does selective color work with ink tonality to direct attention?",
+      "texture": "How does the painter differentiate fur, wing, and flower using the same medium of ink and color?",
+      "space": "How does the near-absence of setting focus attention on the animals' relationship?",
+      "light": "In the absence of cast shadows, how do tonal gradations in the ink model form?",
+      "meaning": "How does the cat-and-butterfly pairing operate as a visual pun, and how might that pun enrich or limit the picture?",
+      "culture": "How does the use of auspicious imagery in Chinese painting connect art with daily life, gift-giving, and wishes for the future?",
+      "technique": "What does the efficient, expressive brushwork suggest about the painter's training and about the values of ink painting?",
+      "personal": "How do you decide when a symbol in art feels personally meaningful versus merely decorative?",
+      "critical": "How might knowing the pun change a viewer's reading, and how might it distract from the painting's other qualities?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the brushwork and composition about how Xugu balances symbolism and direct observation?",
+      "emotion": "How does the image sustain a quiet, playful tension without resolving into narrative? What does that do for the viewer?",
+      "observation": "Describe the scroll's formal construction with precision. When does description of the cat's attention begin to imply interpretation?",
+      "analysis": "Analyze how scale, placement, and empty paper produce balance and suspense in the vertical format.",
+      "line": "How does the interplay of expressive and descriptive brush strokes relate to the ideals of Chinese ink painting?",
+      "shape": "How does the juxtaposition of a dense form and a delicate one structure the picture's drama?",
+      "color": "How does limited, selective color function within an ink-dominated tradition, and how might the age of the paper affect what we see today?",
+      "texture": "How does brush handling simulate tactile qualities while preserving the abstract expressiveness of the stroke?",
+      "space": "How does the use of blank paper position the viewer and invite imaginative completion?",
+      "light": "How does ink tone substitute for cast light, and what does that say about conventions of East Asian painting?",
+      "meaning": "Evaluate the reading of the pairing as a longevity rebus alongside readings as a playful genre scene. How can both be tested against the evidence?",
+      "culture": "How do auspicious motifs connect painting with social life in 19th-century China, and how do scholars qualify these readings?",
+      "technique": "How might the scroll's format and medium shape its display, storage, and viewing, and how does that affect interpretation?",
+      "personal": "How does your own knowledge of cats, butterflies, or symbolism shape what you notice, and where might it narrow your view?",
+      "critical": "Given the many layers of possible meaning, what standards of evidence should govern claims about what the painter intended?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification (Paintings), culture (China), and tags (Cats, Butterflies, Flowers) checked against the museum record; none indicate nudity, violence, injury, or death.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century Chinese hanging scroll by Xugu. The cat-and-butterfly pairing is often read as a pun on long life, though scholars note that such readings depend on context.",
+    "vocabulary": [
+      "hanging scroll",
+      "ink wash",
+      "auspicious",
+      "rebus",
+      "brushwork",
+      "negative space"
+    ],
+    "directions": [
+      "Invite students to make a quick ink-and-brush sketch of an animal using only three brush strokes, then discuss what each stroke does.",
+      "Discuss visual puns in everyday life, such as emoji or logos, and compare them to the cat-and-butterfly pairing.",
+      "Ask students to compare the use of empty space here with a Western painting that fills the whole canvas."
+    ]
+  }
+}

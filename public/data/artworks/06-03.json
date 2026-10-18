@@ -1,0 +1,159 @@
+{
+  "id": "met-39120",
+  "day": "06-03",
+  "title": "Standing Deity (Vishnu?)",
+  "artist": "Artist unknown (Indonesia, Sumatra)",
+  "date": "8th–9th century",
+  "medium": "Bronze",
+  "movement": "Srivijaya period",
+  "region": "Indonesia (Sumatra)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/65_146.JPG",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/65_146.JPG",
+    "credit": "The Metropolitan Museum of Art, Gift of R.A. Lovell Jr.,1965",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small bronze figure of a standing deity, shown upright and facing forward. The dark metal figure is slim and about as tall as a hand held sideways.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/39120",
+    "objectId": "39120",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record (title, date, medium, culture, classification, tags, public-domain flag, image URLs, credit line) and the Met catalog page (period and dimensions)"
+  },
+  "context": "A small bronze figure from Sumatra, Indonesia, made in the Srivijaya period, in the 8th or 9th century. The Met's title carries a question mark because the identification as the Hindu god Vishnu is not certain. It is about 21.6 cm tall.",
+  "descriptions": {
+    "k": "This small bronze statue shows a god standing tall. It was made on the island of Sumatra long ago. It is thin and dark, and it faces you. Look for what the figure might be holding or wearing. What do you see?",
+    "g12": "This statue shows a god standing straight. It was made of bronze on the island of Sumatra, in Indonesia, over a thousand years ago. The title has a question mark because experts are not sure it is Vishnu. Look closely for clues. What might the figure wear or hold?",
+    "g35": "Long ago, the island of Sumatra was part of a powerful trading kingdom called Srivijaya. This bronze god, about 21 centimeters tall, was made there in the 8th or 9th century. Its title says 'Vishnu?' because scholars are not sure who it is. A question mark means the evidence is not complete. What clues could help you decide who the figure is?",
+    "g68": "Made in Sumatra during the Srivijaya period, this bronze stands only about 21.6 cm tall. The Met titles it 'Standing Deity (Vishnu?)', a reminder that identifying figures depends on attributes that can be worn or missing over time. Sculpture like this shows how Hindu ideas traveled across the sea to Southeast Asia. What clues would you look for to identify a deity, and why might a museum keep the question mark?",
+    "g910": "This bronze from Srivijaya-period Sumatra presents a standing deity whose identification as Vishnu is tentative, as the Met's question mark shows. Upright posture and frontal presentation give the figure a formal, devotional character, while its modest height of about 21.6 cm suggests an object for a shrine or private setting, though the record does not say. How does uncertainty about identity change how we look, and what can form alone tell us?",
+    "g1112": "The Met's title, 'Standing Deity (Vishnu?)', is a candid statement about the limits of identification. This 8th-9th century bronze from Sumatra belongs to the era of Srivijaya, a maritime power linked to Indian religious and artistic ideas, yet it also reflects local craft. Because the record does not describe its attributes or original setting, any iconographic claim should stay provisional. Consider how scholars weigh posture, attributes, and comparison, and what is lost when a museum label settles uncertainty too quickly."
+  },
+  "questions": {
+    "k": {
+      "daily": "This bronze god is standing very tall. Can you stand just like the statue?",
+      "emotion": "Does the statue look calm or silly? Show us with your face.",
+      "observation": "Find the head and the feet of the statue. What is in between?",
+      "analysis": "What do you look at first on this small statue? Why?",
+      "line": "Trace the tall line from the head of the statue down to its feet.",
+      "shape": "The figure is slim and tall. What other tall, slim things can you think of?",
+      "color": "The bronze is dark. What other things around you are that color?",
+      "texture": "The metal is very old. Do you think it feels smooth or bumpy?",
+      "space": "The statue is small enough to hold in two hands. Where would you put it in your room?",
+      "light": "Which parts of the dark metal look lighter where light touches them?",
+      "meaning": "The title has a question mark. What is a question you would ask about this statue?",
+      "culture": "People on the island of Sumatra made this over a thousand years ago. What might they have used a statue for?",
+      "technique": "Hot melted metal was poured to make this statue. What shape would the mold need to have?",
+      "personal": "What would you want to keep safe on a shelf, the way someone kept this statue?",
+      "critical": "Experts are not sure who this statue is. How can we learn more by looking?"
+    },
+    "g12": {
+      "daily": "The title asks 'Vishnu?' with a question mark. What clues in the statue could help someone decide who it is?",
+      "emotion": "How does the straight, tall pose make you feel: calm, strong, or something else? Tell which part helps.",
+      "observation": "List four things you can see on this statue, from top to bottom.",
+      "analysis": "How does the artist's tall, simple shape guide your eyes from the head to the feet?",
+      "line": "Find the long vertical line of the figure. How does it make the statue look steady?",
+      "shape": "Is the figure made of mostly round shapes or straight shapes? Give an example of each you can find.",
+      "color": "The statue is made of dark bronze. How does the dark color change the way you see its details?",
+      "texture": "Bronze can wear down over a thousand years. Which parts might look smooth from wear and which still look sharp?",
+      "space": "The figure is about 21 centimeters tall, a bit taller than a pencil case. How might its size change how it was used?",
+      "light": "Bronze catches the light on its high spots. Where on this figure do you think that happens?",
+      "meaning": "Why might a statue of a god stand straight and face forward, instead of leaning or sitting?",
+      "culture": "The island of Sumatra was part of a trading kingdom called Srivijaya. How might trade bring ideas and stories to a new place?",
+      "technique": "Bronze statues are cast in a mold. What are some details that might be difficult to cast?",
+      "personal": "Think of a mystery you want to solve. How is a question mark in a title like a mystery?",
+      "critical": "If experts are not sure who a statue shows, how should a museum label it?"
+    },
+    "g35": {
+      "daily": "The Met adds a question mark after 'Vishnu.' What details would you look for to figure out who this deity is, and what would still be uncertain?",
+      "emotion": "How does the straight, frontal pose of the figure make it feel formal or calm?",
+      "observation": "Spend a minute scanning from head to feet. What details, such as clothing, jewelry, or objects, can you find?",
+      "analysis": "How does the sculptor use the figure's upright pose to make a small statue feel important?",
+      "line": "How do the vertical lines of the body compare with any curved lines in the clothing or ornaments?",
+      "shape": "How do the figure's shapes, such as a slim body and a head, make it easy to recognize from far away?",
+      "color": "Bronze changes color as it ages. How could that change what we see on this statue today?",
+      "texture": "What does the surface of the metal tell you about how old the statue is and how it has been cared for?",
+      "space": "The statue is a freestanding figure. What would you want to see from the sides and back?",
+      "light": "How do you think the statue would look by candlelight compared with bright museum light?",
+      "meaning": "Vishnu is a Hindu god. Why might people in Sumatra have wanted images of a god from Indian traditions?",
+      "culture": "Sumatra was part of the Srivijaya kingdom, which traded across the sea. How could trade have brought religious ideas to Sumatra?",
+      "technique": "How might bronze be a good material for a small statue that people hoped would last for centuries?",
+      "personal": "Have you ever not been sure what something was until you looked closer? What did you notice that helped?",
+      "critical": "Why do you think scholars keep a question mark in the title instead of just choosing an answer?"
+    },
+    "g68": {
+      "daily": "What visible evidence would you want in order to identify this deity, and why might a museum leave the question mark in the title?",
+      "emotion": "How does the formal, upright posture create a feeling of dignity or reverence?",
+      "observation": "Make a list of what you can observe from head to base. Which parts are clear, and which are hard to read?",
+      "analysis": "How do the figure's proportions and pose direct the viewer's attention to the head and chest area?",
+      "line": "How do straight vertical lines give the figure stability, and where might gentler curves soften it?",
+      "shape": "How does a slim, symmetrical silhouette make the figure feel balanced and formal?",
+      "color": "How does the dark bronze color emphasize silhouette over surface detail?",
+      "texture": "How might wear, corrosion, or handling over many centuries have changed the surface?",
+      "space": "As a sculpture in the round, how does the figure's frontal pose invite a certain viewing position?",
+      "light": "How does metal make light and shadow part of how we read the figure's details?",
+      "meaning": "How can a religious figure from Indian traditions take on local meaning when it is made in Sumatra?",
+      "culture": "Srivijaya was a maritime power. What might this small bronze suggest about connections across the sea in the 8th and 9th centuries?",
+      "technique": "What are the advantages of casting a small bronze, such as being portable and durable, and what limits might casting set?",
+      "personal": "When have you changed your mind about what something was after getting more evidence? How is that like this sculpture's title?",
+      "critical": "How should we treat a label that includes a question mark? Is it weaker or more honest than a confident one?"
+    },
+    "g910": {
+      "daily": "How does the sculpture's frontal, upright form signal divinity, and what does the title's question mark reveal about our knowledge?",
+      "emotion": "How does formal restraint, rather than expressive gesture, create an atmosphere of reverence?",
+      "observation": "Describe the figure's visible components in order. Which are legible and which are ambiguous?",
+      "analysis": "How do symmetry and frontality establish hierarchy and focus in this small devotional object?",
+      "line": "How does the figure's vertical axis structure the sculpture, and what role do curving contours play?",
+      "shape": "How does the stylized, simplified anatomy of the figure suit a symbolic rather than naturalistic purpose?",
+      "color": "How does the dark bronze surface shape our perception of form, and how might patina and age have altered it?",
+      "texture": "How does surface wear affect our ability to read attributes, and why does that matter for identification?",
+      "space": "How might a figure of this scale have functioned in a shrine or private setting, and what does the record leave unknown?",
+      "light": "How does the figure's metal surface interact with light, and how might this have mattered in ritual contexts?",
+      "meaning": "How do attributes usually identify a Hindu deity in sculpture, and what happens to interpretation when they are damaged, missing, or unclear?",
+      "culture": "How does a Srivijaya-period bronze from Sumatra illustrate the adoption and adaptation of Indian religious imagery in maritime Southeast Asia?",
+      "technique": "What does a bronze figure of this size imply about local casting skills and access to metal?",
+      "personal": "How comfortable are you with unanswered questions in your own learning, and how does this label model a way to handle them?",
+      "critical": "How does tentative labeling shape public trust in museums, and what are the benefits of showing uncertainty?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the figure's form alone about its identity and function, and which claims depend on comparison with other works?",
+      "emotion": "How does a hieratic, frontal figure produce reverence, and how might that effect differ in a shrine and in a museum?",
+      "observation": "Describe the sculpture's formal properties with precision. At what point does description need iconographic knowledge to continue?",
+      "analysis": "Analyze how frontality, proportion, and reduction of detail contribute to the figure's authority.",
+      "line": "How does the figure's controlled, vertical contour articulate the balance between abstraction and bodily suggestion?",
+      "shape": "How might stylization and schematic anatomy serve a religious function, and how are those conventions culturally specific?",
+      "color": "How do patina and corrosion complicate our perception of the original surface, and what should we avoid assuming about it?",
+      "texture": "How should an interpreter distinguish deliberate surface design from damage when evidence is limited?",
+      "space": "How might the sculpture's modest scale have shaped its movement, handling, and placement?",
+      "light": "What can be said about the role of reflective metal in devotional settings, and what remains conjectural for this object?",
+      "meaning": "The Met's question mark suggests uncertainty about Vishnu. How should interpreters weigh iconographic conventions against regional variation?",
+      "culture": "How does Srivijaya's position in maritime trade complicate a simple model of Indian influence, and what role did local artists and patrons play?",
+      "technique": "What might this casting suggest about workshop organization and metal supply in early Sumatran polities, and where does the evidence end?",
+      "personal": "How does encountering an object with an unresolved identity change your sense of what it means to understand art?",
+      "critical": "What are the ethical and intellectual advantages of publishing an uncertain identification rather than a confident one?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Sculpture), medium (Bronze), culture, and tags (Vishnu, Hinduism) checked against the museum record. The catalog page offers no label text about the figure's attributes, so descriptions stay general and avoid claims about clothing or held objects. Bare-chested depiction could not be ruled out from metadata alone.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A small bronze of a standing deity, tentatively identified by the Met as Vishnu, from Sumatra in the Srivijaya period (8th-9th century). It is about 21.6 cm tall.",
+    "vocabulary": [
+      "Srivijaya",
+      "deity",
+      "attribute",
+      "bronze casting",
+      "iconography",
+      "frontal"
+    ],
+    "directions": [
+      "Have students list what a museum would need to know to remove the question mark in the title.",
+      "Discuss how religious ideas and images travel along trade routes.",
+      "Ask students to sketch a figure that can be recognized from posture alone, then explain what clues they used."
+    ]
+  }
+}

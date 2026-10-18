@@ -1,0 +1,152 @@
+{
+  "id": "met-168725",
+  "day": "12-10",
+  "title": "Handkerchief",
+  "artist": "Artist unknown",
+  "date": "1886",
+  "medium": "Linen, silk",
+  "movement": "Hungarian textile art",
+  "region": "Hungary",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ci/web-large/46.158.111_CP1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ci/original/46.158.111_CP1.jpg",
+    "credit": "The Metropolitan Museum of Art, Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Pratt Institute, 1946",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A square Hungarian handkerchief of linen with silk thread, shown flat, with a decorative design worked into the cloth.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/168725",
+    "objectId": "168725",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date (1886), medium (Linen, silk), culture (Hungarian), department (Costume Institute), public-domain flag, credit line and image URLs read from the record; the museum page gives no description of the design, and the record lists no tags"
+  },
+  "context": "A handkerchief made in Hungary and dated 1886, woven or worked from linen and silk. It is in the Met's Costume Institute collection, which includes clothing and accessories. The record does not describe the design, so details should be confirmed from the museum image.",
+  "descriptions": {
+    "k": "This is a handkerchief, a small square of cloth. It was made in Hungary a long time ago. It uses linen and silk threads. Look for a pattern. What shapes or colors do you see?",
+    "g12": "Long ago in Hungary, someone made this small cloth handkerchief from linen and silk. Silk threads shine, and linen is made from the flax plant. Look for lines, shapes, or flowers worked into the cloth. Why might someone make a handkerchief beautiful, not just useful?",
+    "g35": "This handkerchief was made in Hungary in 1886 from linen, which comes from the flax plant, and silk, which comes from silkworms. A handkerchief is useful, but people also decorated them as gifts and keepsakes. The Met's record says little about the design, so look closely at the pattern and the edges. What clues can you find about how it was made and what it was for?",
+    "g68": "Dated 1886, this Hungarian handkerchief combines linen and silk, two materials with very different looks: linen is matte and crisp, while silk shines. In the 19th century handkerchiefs were everyday objects that could also display skill with needle and thread and carry tradition. The record does not describe the pattern, so use your eyes. How can a small cloth tell us about everyday life and about pride in handwork?",
+    "g910": "This 1886 handkerchief from Hungary, made of linen and silk, belongs to the Costume Institute's collection of everyday dress and accessories. Such objects show how decoration entered daily life, and how regional textile traditions in Central Europe were expressed in small, personal items. The Met's record names the culture and materials but not the motifs, so analysis rests on what the image shows. Consider how a modest object can carry cultural identity and individual skill.",
+    "g1112": "Dated 1886 and described by the Met as Hungarian, this handkerchief of linen and silk offers a view of everyday textile culture in late 19th-century Central Europe. Small domestic textiles like this one are often overlooked, yet they record regional identity, women's skill, and the circulation of materials. The record gives no information about motifs or maker, so interpretive claims must remain modest and grounded in the object's visible features. Its place in the Costume Institute collection also raises questions about how museums classify clothing accessories as art."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you see on this small handkerchief? Point to a shape, a line, or a color.",
+      "emotion": "Does this handkerchief look plain or fancy to you? What makes you say so?",
+      "observation": "What can you find on the cloth? Look at the edges and the middle.",
+      "analysis": "Where do your eyes go first on the handkerchief? Where do they go next?",
+      "line": "Follow one line on the cloth with your finger in the air. Where does it go?",
+      "shape": "What shape is the whole handkerchief? What other shapes can you spot on it?",
+      "color": "What colors do you see on the handkerchief? Which one stands out most?",
+      "texture": "Linen is a bit crisp and silk is smooth. How do you think this cloth would feel?",
+      "space": "This handkerchief is flat when it is spread out. How would it look if it were folded?",
+      "light": "Silk thread can shine. Where might the cloth look shiny to you?",
+      "meaning": "Who might have used or kept a handkerchief like this?",
+      "culture": "This handkerchief is from Hungary. What would you like to know about Hungary?",
+      "technique": "Linen comes from a plant and silk from a tiny worm. Why do you think people mix them in one cloth?",
+      "personal": "Do you have a small cloth or keepsake that is special to you? Tell about it.",
+      "critical": "Why would a handkerchief be saved for more than 100 years?"
+    },
+    "g12": {
+      "daily": "How does the maker decorate this small piece of cloth? Describe what you see.",
+      "emotion": "What feeling does the handkerchief give you, neat, soft, or cheerful? Why?",
+      "observation": "Look slowly across the cloth. Name four details about its pattern, edge, or threads.",
+      "analysis": "How does the design lead your eyes from the edge toward the center?",
+      "line": "Find lines on the handkerchief. Are they straight, curved, or both?",
+      "shape": "Which shapes repeat on the cloth? How are they arranged?",
+      "color": "Which colors are on the handkerchief? How do they work together?",
+      "texture": "Which parts of the cloth look smooth and shiny, and which look flat and plain? Why?",
+      "space": "The pattern is placed carefully on the cloth. Where is there empty space and where is it full?",
+      "light": "Silk can catch light. Where do you think the handkerchief would sparkle?",
+      "meaning": "People sometimes gave handmade handkerchiefs as gifts. What might a gift like this say?",
+      "culture": "Hungary has a long tradition of decorated cloth. Why might people there care about beautiful everyday items?",
+      "technique": "Silk thread was used on linen cloth. Why might silk be chosen for decoration?",
+      "personal": "What small handmade thing would you give to someone you love?",
+      "critical": "Is a handkerchief an artwork or just a useful thing? Give a reason."
+    },
+    "g35": {
+      "daily": "How does the design show that someone took care to make an everyday object beautiful?",
+      "emotion": "What mood does the handkerchief suggest, and which details create it?",
+      "observation": "Take one minute to scan the cloth. What small details of thread, pattern, or edge do you see?",
+      "analysis": "How is the design organized across the cloth? Look for borders, corners, or a center.",
+      "line": "How do the lines in the pattern relate to the straight edges of the cloth?",
+      "shape": "Which shapes appear in the design, and how are they repeated or varied?",
+      "color": "How do the colors stand out against the linen background?",
+      "texture": "Linen and silk look and feel different. Which parts of the handkerchief show each material?",
+      "space": "How does the design use the flat square of cloth? Where does it spread and where does it rest?",
+      "light": "How might shiny silk threads look different from matte linen under light?",
+      "meaning": "The Met dates this handkerchief to 1886. Why might a family keep a handkerchief for so long?",
+      "culture": "The Met says this is Hungarian. How can small cloth objects reveal things about a region's traditions?",
+      "technique": "Linen is made from flax and silk comes from silkworms. What steps might it take to turn these into cloth?",
+      "personal": "Think of a handmade object in your life. What details tell you that someone cared about it?",
+      "critical": "Should a handkerchief be in an art museum? Support your opinion with details from the cloth."
+    },
+    "g68": {
+      "daily": "How does this small cloth show skill and tradition at the scale of an everyday object?",
+      "emotion": "What impression does the handkerchief give, delicate, personal, or festive? Which features support that?",
+      "observation": "Describe the cloth from its edges inward. Where is the design most concentrated?",
+      "analysis": "How does the arrangement of design on the square of cloth create balance?",
+      "line": "How do linear elements in the design interact with the grain of the linen?",
+      "shape": "How do repeated or mirrored shapes create rhythm on a small surface?",
+      "color": "How might the contrast between silk color and linen ground focus attention on the design?",
+      "texture": "How does combining matte linen with lustrous silk add variety to the cloth?",
+      "space": "How does the design handle the edges and corners of a small square?",
+      "light": "How would the lustrous silk catch the light differently from the plain linen?",
+      "meaning": "What might it mean for a person to carry a decorated handkerchief in the 1880s?",
+      "culture": "How do small domestic textiles show regional identity in 19th-century Hungary?",
+      "technique": "What kinds of handwork, such as embroidery or weaving, could create a design like this, and how could you tell from the image?",
+      "personal": "What small everyday objects around you show care in their design?",
+      "critical": "The Met's record does not describe the pattern. What do we gain by looking closely before reading a description?"
+    },
+    "g910": {
+      "daily": "How does the handkerchief convey craft and cultural identity within the limits of a small, everyday object?",
+      "emotion": "How do scale, material, and pattern contribute to an intimate, personal tone?",
+      "observation": "Describe the visual hierarchy. What draws the eye first, and how does the design guide it?",
+      "analysis": "Analyze how the composition fits the geometry of a square textile.",
+      "line": "How does the design's linearity relate to the structure of the cloth's threads?",
+      "shape": "How do repeated motifs generate rhythm across a small field?",
+      "color": "How does the contrast between silk and linen support the legibility of the design?",
+      "texture": "How do material differences between linen and silk create visual and tactile variety?",
+      "space": "How does the design use negative space on the cloth to frame its motifs?",
+      "light": "How does the sheen of silk contribute to the cloth's presence under changing light?",
+      "meaning": "What can an everyday accessory suggest about taste, social life, and gift-giving in the 19th century?",
+      "culture": "How do textiles such as this help define regional identity within Central Europe in the late 19th century?",
+      "technique": "What does the combination of linen and silk imply about access to materials and the skill of the maker?",
+      "personal": "How does your view of an everyday object change when you consider the labor behind it?",
+      "critical": "Why are small domestic textiles often overlooked in art history, and what is gained by taking them seriously?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this handkerchief about Hungarian textile culture in 1886, and what depends on information not found in the Met record?",
+      "emotion": "How does the handkerchief's small scale shape an intimate emotional register, and how does that differ from monumental art?",
+      "observation": "Describe the cloth's design and structure with precision. When does description begin to assume a regional style?",
+      "analysis": "Analyze how the design negotiates the square format and the material differences of linen and silk.",
+      "line": "How does the linearity of the design interact with the weave of the linen, and what does that suggest about technique?",
+      "shape": "How might repeated motifs on the cloth connect to wider regional or folk visual vocabularies, and what are the limits of such comparisons?",
+      "color": "How does the interplay of colored silk and linen ground contribute to meaning and perceived value?",
+      "texture": "What does the juxtaposition of a plain, matte ground with lustrous thread suggest about hierarchy of materials?",
+      "space": "How does the format of the handkerchief, designed to be folded and carried, differ from textiles made for display?",
+      "light": "How might the cloth's appearance differ in daily use and in museum photography?",
+      "meaning": "Evaluate possible social meanings of a decorated handkerchief, including gift, dowry, or fashion accessory, and note what the record cannot support.",
+      "culture": "How does a Hungarian handkerchief in an American museum collection reflect patterns of collecting and display of folk and domestic textiles?",
+      "technique": "What would close technical examination need to show to distinguish embroidery, weaving, or lace work in a piece like this?",
+      "personal": "How does your relationship to everyday textiles shape how much importance you give to a small object like this?",
+      "critical": "What does the Costume Institute's classification of the handkerchief as part of dress history reveal about the boundary between costume and art?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, date, medium and culture read from the Met record; the object is a handkerchief and the record lists no tags. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Hungarian handkerchief dated 1886, in the Met's Costume Institute collection. The record gives only the culture, date, and materials, so the pattern and technique should be confirmed from the museum image before class.",
+    "vocabulary": ["linen", "silk", "textile", "motif", "regional tradition", "accessory"],
+    "directions": [
+      "Give students a square of paper and have them design a border and a corner motif, then discuss how the square shapes the design.",
+      "Discuss why people kept and gave handmade cloth objects, and what objects serve that role today.",
+      "Compare with another textile in the archive and discuss how materials and region affect design."
+    ]
+  }
+}

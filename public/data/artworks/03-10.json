@@ -1,0 +1,158 @@
+{
+  "id": "met-446797",
+  "day": "03-10",
+  "title": "Pendant",
+  "artist": "Artist unknown",
+  "date": "19th century",
+  "medium": "Gold, ruby, emerald",
+  "region": "Northern India",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/LC-15_95_134.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/LC-15_95_134.jpg",
+    "credit": "The Metropolitan Museum of Art, John Stewart Kennedy Fund, 1915",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A gold pendant from northern India set with red and green gemstones, shown against a plain background. The gold is shiny and worked into a decorative design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/446797",
+    "objectId": "446797",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, dimensions, weight, credit line, classification, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A piece of jewelry from northern India made in the 19th century from gold, ruby, and emerald. The Met's record gives its height as about 8.5 cm and its weight as about 62 grams, so it is a substantial ornament.",
+  "descriptions": {
+    "k": "This is a pendant, a jewel that hangs from a chain. It is made of gold with red and green stones. The stones are rubies and emeralds. Which color do you see more? What would it feel like to wear it?",
+    "g12": "A pendant is a jewel that hangs from a necklace. This one was made in northern India long ago. It is made of shiny gold and set with red rubies and green emeralds. Look at how the stones sit in the gold. Which colors pop out the most to you?",
+    "g35": "This pendant was made in northern India in the 1800s. It is made of gold and set with rubies, which are red, and emeralds, which are green. It is about 8.5 centimeters tall and weighs around 62 grams, so it is bigger and heavier than many modern pendants. How do the colors of the stones stand out against the gold?",
+    "g68": "This northern Indian pendant of gold, ruby, and emerald shows how jewelry can combine metalwork and gem setting. At about 8.5 centimeters tall and 62 grams, it is a bold object meant to be seen, not hidden. The red and green stones contrast strongly against the warm gold, which draws attention to the pattern of the settings. How might an owner have worn it, and what might it say about them?",
+    "g910": "In this 19th-century pendant from northern India, the jewelers use gold as both structure and color field, with rubies and emeralds as accents. Red and green sit near opposite ends of the color wheel, so each stone intensifies the other. The weight and scale suggest an object meant to project status. Consider how the arrangement of stones and the surface of the gold guide the eye, and what cannot be known from a photograph alone.",
+    "g1112": "This pendant from northern India invites questions about materials, trade, and display. Rubies and emeralds were highly prized gems in many courts and communities, and a gold pendant of this size, about 8.5 centimeters and 62 grams, signals wealth. But the Met's record does not tell us who wore it or what it meant to its owners, so claims about ritual, rank, or regional style should be cautious. How can we read craft and value from the object while staying honest about what is unknown?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Imagine this pendant hanging from a chain. What would you see when it swings and sparkles?",
+      "emotion": "Do the red and green stones make you feel excited, calm, or something else?",
+      "observation": "How many red stones can you find? How many green ones?",
+      "analysis": "Where do your eyes go first on this pendant, to the stones or to the gold?",
+      "line": "Trace an edge of the gold with your finger in the air. Does it curve or go straight?",
+      "shape": "What shapes can you find in the pendant? Can you find a loop, a circle, or a point?",
+      "color": "Red, green, and gold are together here. Which color do you like best?",
+      "texture": "The gold looks shiny and hard, and the stones look smooth. Which would feel cooler to your hand?",
+      "space": "If the pendant hangs on a chain, which part is on top and which part hangs lowest?",
+      "light": "Where could the light make the stones sparkle the most?",
+      "meaning": "Why might someone wear a jewel that looks so special? What does it say about them?",
+      "culture": "This pendant was made in northern India long ago. What jewelry do people you know wear for special days?",
+      "technique": "A worker had to hold each stone in the gold. How do you think they kept the stones from falling out?",
+      "personal": "If you could design a pendant, what colors and stones would you use?",
+      "critical": "This pendant is heavy gold. Would you rather wear something light or something heavy? Why?"
+    },
+    "g12": {
+      "daily": "Imagine wearing this pendant for a special day. How would it look against your clothes?",
+      "emotion": "Red and green are strong colors. What feeling do they give this jewel?",
+      "observation": "Describe five things you see on this pendant, from the gold to the stones.",
+      "analysis": "How does the gold hold your eye on the red and green stones?",
+      "line": "Find lines made by the gold. Which lines curve and which lines are straighter?",
+      "shape": "Look at the outline of the pendant. What shapes make it up, and how are the stones arranged inside them?",
+      "color": "Red and green are very different colors. How does the gold change the way they look?",
+      "texture": "Which parts look shiny like a mirror and which parts look carved or bumpy?",
+      "space": "The pendant is flat but looks rich. How does the artist make it feel full and layered?",
+      "light": "Imagine candlelight on the rubies and emeralds. How might they glow?",
+      "meaning": "Why do people make jewelry from gold and gems instead of plain metal?",
+      "culture": "This pendant comes from northern India. What can a jewel like this tell us about what people valued there?",
+      "technique": "A jeweler shaped gold and set the stones by hand. Which part do you think was the hardest to do?",
+      "personal": "What do you own that is small but very special to you? Why?",
+      "critical": "Is the weight of the gold or the beauty of the design more important in a jewel? Give a reason."
+    },
+    "g35": {
+      "daily": "Look closely at the pendant for one minute. What three details would you point out to someone who has never seen it?",
+      "emotion": "What feeling does the combination of gold, red, and green create? Which parts of the pendant create it?",
+      "observation": "Which parts of the pendant are gold and which are stones? What small details can you find in the gold?",
+      "analysis": "How does the jeweler arrange the stones so the pendant feels balanced?",
+      "line": "How do the edges of the gold and the lines between stones create a pattern?",
+      "shape": "What larger shape does the whole pendant make, and what smaller shapes repeat inside it?",
+      "color": "Red and green sit across from each other on the color wheel. How does that make each stone look brighter?",
+      "texture": "How do the polished gold and the cut gems look different from each other?",
+      "space": "A pendant hangs from the body. How does its shape and weight affect where it would sit on a person?",
+      "light": "Stones are cut to catch light. How might light move across the rubies and emeralds as the wearer moves?",
+      "meaning": "Why might a family choose rubies and emeralds for a jewel instead of other stones?",
+      "culture": "The Met says this pendant is from northern India. What can jewelry teach us about the values and skills of people in a particular place and time?",
+      "technique": "The pendant weighs about 62 grams. What does that tell you about how much gold a jeweler had to work with?",
+      "personal": "If you could pass a jewel down in your family, what would you want it to look like?",
+      "critical": "Does this pendant seem more like art or more like money you can wear? What reasons support your answer?"
+    },
+    "g68": {
+      "daily": "What makes this pendant worth studying closely, and which visual details lead you to your answer?",
+      "emotion": "How do the saturated red and green stones set a mood of richness and celebration?",
+      "observation": "Describe the pendant from top to bottom. Which details seem the most carefully made?",
+      "analysis": "How does the arrangement of gems organize the pendant so that the eye moves through it?",
+      "line": "How do the lines in the gold create rhythm or pattern around the stones?",
+      "shape": "How does the overall silhouette of the pendant work with the smaller shapes of the settings?",
+      "color": "Red and green are complementary colors. How does the jeweler use that contrast with the warm gold?",
+      "texture": "How would the textures of smooth gems and worked gold look different up close?",
+      "space": "The pendant is about 8.5 centimeters tall. How does that size change how it appears on a body?",
+      "light": "Why would a jeweler choose gold, which reflects warm light, to surround stones that also reflect light?",
+      "meaning": "What messages about wealth, taste, or celebration might a pendant like this send in public?",
+      "culture": "Gold and gems have been valued in many societies. What do we know and not know about who wore this pendant?",
+      "technique": "How might a jeweler combine shaping gold with setting stones, and why does the setting matter for both strength and beauty?",
+      "personal": "What objects do you or your family treasure for their materials rather than their usefulness? Explain.",
+      "critical": "How should a museum describe a jewel when its original owner and meaning are unknown?"
+    },
+    "g910": {
+      "daily": "How do the pendant's materials and arrangement communicate value, and which visual choices matter most?",
+      "emotion": "How do intense red and green stones, set in gold, create a feeling of luxury or ceremony?",
+      "observation": "Describe the visual hierarchy of the pendant: which elements draw attention first and why?",
+      "analysis": "How do the gold framework and the colored gems divide roles of structure and accent?",
+      "line": "How does the line of the gold's edges and settings direct the eye across the pendant?",
+      "shape": "How does the interaction between the pendant's overall outline and its repeated inner shapes create unity?",
+      "color": "How does the relationship of red, green, and gold produce emphasis, and what would change if the stones were all one color?",
+      "texture": "How does the contrast between the fine finish of worked gold and the glassy stones affect the pendant's richness?",
+      "space": "How would this pendant occupy space on the body, and how does its height of about 8.5 cm affect its visual impact?",
+      "light": "How does the combination of reflective metal and translucent stones respond to moving light?",
+      "meaning": "In what ways might rubies and emeralds signal wealth or protection in different traditions, and why must we be careful about claiming one meaning here?",
+      "culture": "The Met locates the pendant in northern India. What can we responsibly infer about regional craft, and what can we not?",
+      "technique": "What skills of goldsmithing and gem setting does an object like this show, even when we cannot see the back or the setting details?",
+      "personal": "How does your response to ornate jewelry differ from your response to minimal design, and why?",
+      "critical": "How does a museum photograph shape our understanding of an object meant to be worn and moved?"
+    },
+    "g1112": {
+      "daily": "What can be claimed with confidence about this pendant, and what depends on information the record does not provide?",
+      "emotion": "How does the emotional impact of a precious ornament depend on the wearer, the occasion, and the viewer?",
+      "observation": "Describe the pendant's forms with precision. Where does careful description begin to shade into interpretation?",
+      "analysis": "Analyze how gem placement and goldwork create both structure and display, and how that reflects broader approaches to jewelry design.",
+      "line": "How do contour and surface line in the gold establish a visual rhythm that holds the colored stones in a system?",
+      "shape": "How does the pendant balance a bold overall silhouette with the repeating small forms of settings?",
+      "color": "How does the near-complementary pairing of ruby red and emerald green interact with gold, and how might lighting alter our reading of it?",
+      "texture": "How do the gold's finish and the gems' surfaces construct a layered sense of material richness?",
+      "space": "How does an object designed for the body complicate display in a museum, and what is lost when it is flattened into an image?",
+      "light": "How might the object have performed in different lighting settings, such as daylight, lamplight, or ceremonial interiors?",
+      "meaning": "How can we evaluate claims about symbolism or status in a jewel when documentation of its owner is absent?",
+      "culture": "How does the Met's attribution to northern India and the 19th century frame the pendant, and why might broader regional labels hide local differences?",
+      "technique": "What does the weight of about 62 grams suggest about gold working and economic resources, and what questions remain about methods?",
+      "personal": "How do your own associations with gold and gems influence your reading of this object?",
+      "critical": "How should museums balance admiration for craftsmanship with open acknowledgment of what they do not know about an object's makers and owners?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, classification (Jewelry), objectName (Pendant), medium (gold, ruby, emerald), and absence of tags checked against the museum record: no flagged terms.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A 19th-century gold pendant from northern India set with ruby and emerald. The record gives its size and weight but no maker or owner, so discussion should stay close to what students can see and measure.",
+    "vocabulary": [
+      "pendant",
+      "ruby",
+      "emerald",
+      "setting",
+      "complementary colors",
+      "goldsmith"
+    ],
+    "directions": [
+      "Have students sketch their own pendant and label the materials and colors they would use.",
+      "Ask students to explain why red and green stones might look strong against gold.",
+      "Compare jewelry from different places in the archive to discuss what different cultures value in adornment."
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "met-451394",
+  "day": "11-25",
+  "title": "Entertainment in a Garden",
+  "recordTitle": "\"Entertainment in a Garden\", Folio from a Khamsa of Amir Khusrau Dihlavi, Matla' al-Anvar",
+  "artist": "Amir Khusrau Dihlavi",
+  "date": "second half 16th century",
+  "medium": "Opaque watercolor and gold on paper",
+  "movement": "Persian miniature painting",
+  "region": "Iran",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP328568.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP328568.jpg",
+    "credit": "The Metropolitan Museum of Art, Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects, Bequest of Cora Timken Burnett, 1956",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small Persian miniature painting on a manuscript page showing men making music and gathering in a garden among trees, painted in opaque color with touches of gold.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/451394",
+    "objectId": "451394",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist field (the poet), date, medium, country (Iran), public-domain flag, credit line, tags (Men, Music, Trees, Musicians, Ladders), classification (Codices) and image URLs read from the record"
+  },
+  "context": "A folio from a manuscript of the Khamsa (Five Poems) by the poet Amir Khusrau Dihlavi, here the poem Matla' al-Anvar, made in the second half of the 16th century. The artist field names the poet; the record does not name the painter. Its tags mention men, music, trees, musicians and ladders.",
+  "descriptions": {
+    "k": "This is a page from a very old book. A tiny painting shows people in a garden with music. There are trees and musicians. What instruments can you find? What music do you hear in your mind?",
+    "g12": "This small painting comes from a book of poems made in Persia long ago. It shows a happy gathering in a garden, with music, trees and ladders. The page is painted with bright colors and shiny gold. Which person would you ask to play a song for you?",
+    "g35": "This page comes from a manuscript, a handwritten book, of poems by Amir Khusrau Dihlavi. The small painting shows a garden gathering with musicians and trees, and the colors are opaque and bright with touches of gold. The record does not tell us who painted it. Look at the ladders and trees. How does the artist fill a small space with so many details?",
+    "g68": "Made in the second half of the 1500s, this folio illustrates a Persian poem, though the painter is not named in the museum's record. In miniature painting, scenes of garden entertainment show an ideal of peaceful, refined life. Look at how the space is flattened and layered, with trees, figures and objects stacked rather than receding. How do color and pattern guide your eye, and what does a garden gathering suggest about what the culture valued?",
+    "g910": "This illustration to a Persian poem presents a garden gathering with music as an image of cultivated leisure. Miniature painters often organized space by stacking figures and plants and by using bright, saturated color and gold to create a jewel-like surface. The record names the poet, not the painter, which reminds us that books were collaborative. How do the flattened space and the rich surface shape the way the scene communicates ideas of harmony?",
+    "g1112": "Entertainment in a Garden belongs to the tradition of illustrated Persian manuscripts, in which poetry, calligraphy and painting were combined, often by several hands. The garden gathering can be read as an ideal of courtly refinement, a visual counterpart to the text, or a stock scene used across many manuscripts. Because the painter is unnamed in the record, questions about workshop, patron and date require caution. How do surface, space and format support these readings?"
+  },
+  "questions": {
+    "k": {
+      "daily": "If you stepped into this garden, which musician would you listen to first?",
+      "emotion": "Does this garden feel happy, quiet, or loud? What shows you?",
+      "observation": "Find the trees and the ladders. How many of each can you find?",
+      "analysis": "Where do your eyes go first on this tiny painting? Why?",
+      "line": "Can you trace the shape of a tree trunk or a ladder with your finger?",
+      "shape": "Find a round shape, a straight shape and a pointy shape. Where are they?",
+      "color": "Which color in the garden is the brightest? Can you find something that looks like gold?",
+      "texture": "How do you think the shiny gold would feel? How would the paper feel?",
+      "space": "Which things are near the top and which are near the bottom? What do you notice?",
+      "light": "Is there a sun or shadows in this picture? What do you see instead?",
+      "meaning": "What do you think the musicians are playing for?",
+      "culture": "This page is from a book in Persia. What kind of music do you like to listen to with others?",
+      "technique": "This painting is very small. How do you think the artist painted tiny details?",
+      "personal": "What would you do in a beautiful garden with friends?",
+      "critical": "Why do you think the artist put a painting on a page of poetry?"
+    },
+    "g12": {
+      "daily": "What do you think is happening in the garden? Use clues from the painting.",
+      "emotion": "What feeling does the garden give you: peace, joy, or something else? Point to a clue.",
+      "observation": "Find three things the people are doing or holding. Describe each.",
+      "analysis": "How does the artist fit many details into such a small page?",
+      "line": "Find the straight lines and the curved lines. Where do you see each?",
+      "shape": "Look at the trees and ladders. What shapes do they make?",
+      "color": "Which colors are strong and bright? How do they make the garden feel?",
+      "texture": "Which parts look flat and which look rich or shiny? How can you tell?",
+      "space": "The trees, ladders and people sit up the page instead of shrinking away. How does that look to you in this garden?",
+      "light": "The garden has no strong shadows. How does the page still feel bright?",
+      "meaning": "Why might a book of poems include a picture of a garden with music?",
+      "culture": "Gardens were an important place for gatherings in Persian culture. What does a garden mean to your family or community?",
+      "technique": "Opaque watercolor means the paint covers the paper so you cannot see through it. Where do you see rich, solid color?",
+      "personal": "What do you like to do with music? Tell about it.",
+      "critical": "Is this a real garden or an imagined one? What makes you think so?"
+    },
+    "g35": {
+      "daily": "What is the most interesting detail in this garden scene, and why did it catch your eye?",
+      "emotion": "How do color, gold and the gathering of musicians combine to create a feeling of celebration?",
+      "observation": "After a minute of silent looking, what detail did you notice last? Where is it?",
+      "analysis": "How does the artist arrange people, trees and ladders so you can see them all?",
+      "line": "How do outlines and the shapes of trunks and objects help separate one part from another?",
+      "shape": "How do repeated shapes of trees and figures create a pattern in the painting?",
+      "color": "How does the artist use bright, flat colors to make the garden feel rich?",
+      "texture": "How does the artist suggest leaves, clothing and gold using paint?",
+      "space": "European paintings often shrink things into the distance. How does this garden painting arrange trees and people instead?",
+      "light": "Persian miniatures often do not use cast shadows. How does the painting still feel bright?",
+      "meaning": "Why might musicians in a garden be a good illustration for a poem?",
+      "culture": "The record names the poet Amir Khusrau Dihlavi. How do poems and paintings work together in a manuscript?",
+      "technique": "Manuscripts were handmade. Why would painting such small details take careful skill?",
+      "personal": "Think of a place where you enjoy music or stories with others. How would you show it in a tiny painting?",
+      "critical": "The painter's name is not in the record. What might we lose or gain by not knowing who made it?"
+    },
+    "g68": {
+      "daily": "What does this tiny painting suggest about how gatherings and music were valued in its culture?",
+      "emotion": "How do color and gold create a mood of delight, and where does the mood feel calm?",
+      "observation": "List the elements you can identify, such as people, plants and objects. Which ones seem most carefully arranged?",
+      "analysis": "How does the painter organize a crowded scene so each part can be read?",
+      "line": "How do clear outlines help organize figures, trees and objects in such a small space?",
+      "shape": "How do repeated vertical forms, such as trees and figures, create rhythm?",
+      "color": "How does the use of saturated color and gold make the surface feel like a jewel?",
+      "texture": "How does the painter suggest different materials, like leaves, fabric and gold, with flat color and pattern?",
+      "space": "How does stacking figures and plants up the page create space without conventional perspective?",
+      "light": "Why might a painter choose an even, shadowless light for a garden scene?",
+      "meaning": "How might a garden gathering express ideas of harmony, order or ideal life?",
+      "culture": "Why might gardens and music be favored subjects in Persian manuscripts?",
+      "technique": "How do opaque watercolor, gold and a small scale shape the way we should look at this painting?",
+      "personal": "How is a gathering that you enjoy similar to or different from the one shown?",
+      "critical": "What is lost when a scene from a poem is shown as a single image?"
+    },
+    "g910": {
+      "daily": "How does this miniature turn a garden gathering into an image of an ideal world?",
+      "emotion": "How does the painting create a mood of ease and delight without strong facial expression?",
+      "observation": "Describe the visual hierarchy: what draws attention first, and how do color and placement cause that?",
+      "analysis": "Analyze how the painter organizes figures, plants and objects across a flattened, layered space.",
+      "line": "How does precise outline structure the dense scene and keep each part legible?",
+      "shape": "How do repeated forms of trees, figures and objects create rhythm across the surface?",
+      "color": "How do saturated color and gold contribute to the work's jewel-like effect and symbolic richness?",
+      "texture": "How does the painter evoke materials, from foliage to cloth, through pattern and detail?",
+      "space": "How does the painting's layered, non-perspectival space affect the viewer's relationship to the scene?",
+      "light": "What does the absence of cast shadow reveal about this tradition's priorities?",
+      "meaning": "How might the garden function as both a literal setting and an image of an ideal order?",
+      "culture": "How do manuscripts that combine text, calligraphy and image reflect courtly culture in sixteenth-century Iran?",
+      "technique": "What does the small scale and layered use of opaque watercolor and gold suggest about the skills of the workshop?",
+      "personal": "How do you balance close attention to detail with the whole composition when you look at a miniature?",
+      "critical": "What does it mean that the record names the poet rather than the painter, and how does that shape our idea of authorship?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about the painting's ideal of leisure, and what remains uncertain?",
+      "emotion": "How does the controlled harmony of the surface complicate any attempt to describe the emotions of the figures?",
+      "observation": "Describe the formal organization of the painting precisely. Where does description begin to interpret?",
+      "analysis": "Analyze how the miniature unifies many details into one decorative whole.",
+      "line": "How does the reliance on contour and pattern rather than modeling define the painting's approach to form?",
+      "shape": "How do repeated forms and patterned surfaces interact with the depiction of figures and plants?",
+      "color": "How might pigment, gold and the age of the page affect what we see today, and how should that temper interpretation?",
+      "texture": "How does the painting evoke material difference through pattern and color, and what does this suggest about its conventions?",
+      "space": "How does the construction of space differ from single-viewpoint perspective, and what are the consequences for the viewer's position?",
+      "light": "How does the painting convey brightness without cast shadow, and what traditions of picturing light does it reflect?",
+      "meaning": "Evaluate competing readings of the scene as illustration of the text, stock courtly image, or an ideal garden. Which is best supported?",
+      "culture": "How does a folio from a poem by Amir Khusrau Dihlavi relate to the broader circulation of Persian poetry, and what further evidence would you seek?",
+      "technique": "What might the unnamed painter and layered materials suggest about workshop practice, and where does the evidence stop?",
+      "personal": "How does your own cultural background shape what you expect from a picture of a garden gathering?",
+      "critical": "Given that the record names the poet and not the painter, what standards of evidence should govern claims about the painting's origin and meaning?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Men, Music, Trees, Musicians, Ladders), medium and classification (Codices) read from the Met record: a peaceful garden entertainment from a poetry manuscript. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A page from an illustrated manuscript of the Khamsa by the poet Amir Khusrau Dihlavi. The artist field in the Met record names the poet, not the painter.",
+    "vocabulary": [
+      "manuscript",
+      "folio",
+      "miniature painting",
+      "opaque watercolor",
+      "flattened space",
+      "patron"
+    ],
+    "directions": [
+      "Ask students to list every object they can find, then map where each sits on the page.",
+      "Have students compare how this painting and a Western landscape show distance.",
+      "Invite students to design a miniature of a favorite gathering using bright, flat color."
+    ]
+  }
+}

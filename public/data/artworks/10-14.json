@@ -1,0 +1,160 @@
+{
+  "id": "met-452135",
+  "day": "10-14",
+  "title": "Siyavush Plays Polo before Afrasiyab",
+  "recordTitle": "\"Siyavush Plays Polo before Afrasiyab\", Folio 180v from the Shahnama (Book of Kings) of Shah Tahmasp",
+  "artist": "Abu'l Qasim Firdausi",
+  "date": "ca. 1525–30",
+  "medium": "Opaque watercolor, ink, silver, and gold on paper",
+  "movement": "Persian miniature painting",
+  "region": "Iran",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP107142.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP107142.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Arthur A. Houghton Jr., 1970",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Persian miniature painting of riders on horses playing polo with long mallets, while onlookers watch, painted in bright opaque colors with touches of gold and silver.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/452135",
+    "objectId": "452135",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist field (the poet), date, medium, country (Iran), public-domain flag, credit line, tags (Men, Playing, Sports, Horses), classification (Codices) and image URLs read from the record"
+  },
+  "context": "A folio from the Shahnama (Book of Kings) made for Shah Tahmasp in Iran around 1525 to 1530. The artist field names the poet Firdausi; the record does not name the painter. Its title and tags describe a polo game with horses.",
+  "descriptions": {
+    "k": "Riders on horses play a game with long sticks. This game is called polo. It is a page from a very old book. Can you find the horses? Which rider looks the fastest?",
+    "g12": "This page from a book shows a polo game in Persia, long ago. Riders on horses hit a ball with long sticks. The painting is full of bright color and shiny gold and silver. Find the horses and the riders. How can you tell they are moving?",
+    "g35": "This painting illustrates a story from the Shahnama, the Book of Kings, a famous Persian epic poem by Firdausi. It was made for Shah Tahmasp around 1525 to 1530. In the scene, Siyavush plays polo before Afrasiyab. Polo is a game on horseback with long mallets. Look at the horses and the crowd. How does the painter show action and excitement in a game?",
+    "g68": "Painted for Shah Tahmasp in the early 1500s, this folio from the Shahnama shows the hero Siyavush playing polo before the king Afrasiyab. In the story, the game is a chance to show skill. The painter fills the page with bright color, gold and silver, and arranges horses, riders and onlookers to build movement. How does the composition show both action and order, and why might a ruler have wanted such a scene in a book?",
+    "g910": "This illustration from the Shahnama of Shah Tahmasp turns a sporting contest into a courtly spectacle. The artist field names the poet, not the painter, a reminder that royal manuscripts were products of workshops. Horses and riders create diagonals and curves against a flattened, jewel-like space of color, gold and silver. How does the composition combine narrative, display of skill and decorative richness, and what does it suggest about court values?",
+    "g1112": "Siyavush Plays Polo before Afrasiyab comes from one of the most celebrated royal manuscripts of the Persian epic. As an illustration it works on several levels: narrative moment, display of courtly sport and decorative surface. The record names the poet but not the painter, so questions of attribution and workshop collaboration need caution. How do composition, color and materials support competing readings of the folio as story, spectacle and statement of royal taste?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which horse and rider would you cheer for? Why?",
+      "emotion": "Does this game feel calm, exciting, or scary? What shows you?",
+      "observation": "How many horses can you find? Point to each one.",
+      "analysis": "Where do your eyes go first on this busy page? What pulls them there?",
+      "line": "Can you trace the long stick a rider holds? Which way does it point?",
+      "shape": "Find a round shape and a long shape in the game. Where are they?",
+      "color": "Which colors are brightest? Which one looks like gold or silver?",
+      "texture": "How would a horse's coat feel to touch? How would the shiny gold feel?",
+      "space": "Which riders look closest to you and which look farther away?",
+      "light": "Is the sun shining in this painting? How can you tell?",
+      "meaning": "Why do you think a ruler would like a picture of this game?",
+      "culture": "People in Persia played polo long ago. What games do you play with a ball and a stick or bat?",
+      "technique": "This is a very small, detailed painting. How do you think the artist painted tiny riders?",
+      "personal": "What sport or game do you like to watch or play?",
+      "critical": "How can you tell the riders are moving fast in a painting that stands still?"
+    },
+    "g12": {
+      "daily": "What do you think is happening in the game right now? Use clues from the painting.",
+      "emotion": "What feeling does the game give you: excitement, worry, or joy? Point to a clue.",
+      "observation": "Find the riders, the horses and the mallets. Describe what each looks like.",
+      "analysis": "How does the artist make the page feel full of action?",
+      "line": "Find the curved lines of the horses' bodies. How do they show movement?",
+      "shape": "Look at the horses and riders. What shapes do they make together?",
+      "color": "Which colors are strongest on the page? How do they help the game feel lively?",
+      "texture": "Where does the painting look shiny or rich? Where does it look flat?",
+      "space": "The riders and the onlookers are placed up the page, not shrinking into the distance. How does that help you see the whole game?",
+      "light": "The polo field has no long shadows. What makes the page still glow with light?",
+      "meaning": "In the story, Siyavush plays to show his skill. Why might showing skill matter to a ruler?",
+      "culture": "Polo was a favorite sport of Persian courts. What games are special in your community?",
+      "technique": "Painters used gold and silver with opaque paint. Where do you see shiny parts?",
+      "personal": "Tell about a time you showed a skill to someone. How did you feel?",
+      "critical": "Is this a photo of a real game or a story scene? What clues tell you?"
+    },
+    "g35": {
+      "daily": "What is the most exciting moment you can find in this polo game, and what makes it exciting?",
+      "emotion": "How do color, movement and the crowd of onlookers create a feeling of celebration?",
+      "observation": "After a minute of silent looking, what small detail about the horses or the riders did you notice last?",
+      "analysis": "How does the painter arrange the riders and the onlookers so you can follow the action?",
+      "line": "How do the curved lines of the horses and the long mallets create movement?",
+      "shape": "How do repeated shapes of horses and riders create a rhythm across the page?",
+      "color": "How does the painter use bright colors, gold and silver to make the scene look splendid?",
+      "texture": "How does the painter suggest the glossy coats of horses and the cloth of clothing?",
+      "space": "European paintings often shrink things into the distance. How does this polo painting fit riders and crowd on the page instead?",
+      "light": "Persian miniatures often skip cast shadows. How does the page still feel full of light?",
+      "meaning": "Why might a polo game be a good scene to illustrate in a book about kings and heroes?",
+      "culture": "The book is the Shahnama, a Persian epic. Why might people treasure a book with stories and paintings?",
+      "technique": "Royal manuscripts were made by many skilled people. Why might that matter for a single page?",
+      "personal": "Think of a game that gathers people to watch. How would you paint the crowd?",
+      "critical": "The record names the poet but not the painter. How does that change how we think about who made the page?"
+    },
+    "g68": {
+      "daily": "How does the painter turn a polo match into a picture that is both a story and a display of skill?",
+      "emotion": "How do movement and color create excitement while the overall arrangement stays orderly?",
+      "observation": "List the groups on the page: riders, horses and onlookers. How are they related?",
+      "analysis": "How does the composition balance action in the center with the audience around it?",
+      "line": "How do the diagonals of mallets and the curves of horses create a sense of speed?",
+      "shape": "How do repeated forms of horses and figures build rhythm, and where does the rhythm break?",
+      "color": "How do bright colors, gold and silver turn the page into something like jewelry?",
+      "texture": "How do pattern and detail suggest cloth, saddles and coats without shading?",
+      "space": "How does the painter use stacking and layers to show many figures in a flattened space?",
+      "light": "How does the even light support a feeling of splendor rather than realism?",
+      "meaning": "In the story, a game lets a hero show his skill. How might the painting express admiration for that skill?",
+      "culture": "Why might a ruler such as Shah Tahmasp commission an epic with paintings of sport and heroes?",
+      "technique": "How do opaque watercolor, silver and gold help create the page's luxurious effect?",
+      "personal": "What skill would you like to show to a crowd, and how would you want it painted?",
+      "critical": "How can a painting be both an illustration of a text and a work of art on its own?"
+    },
+    "g910": {
+      "daily": "How does the folio transform a sporting contest into a courtly spectacle?",
+      "emotion": "How does the painting generate excitement while keeping the composition controlled and ornamental?",
+      "observation": "In the polo scene, which riders or horses claim attention first, and which colors and placements make that happen?",
+      "analysis": "Analyze how horses, riders and spectators are arranged to structure the page.",
+      "line": "How does the interplay of curves and diagonals suggest motion within a decorative design?",
+      "shape": "How do repeated forms of horses and riders produce rhythm across a layered space?",
+      "color": "How do saturated color and metallic materials signify luxury, and how do they organize the eye?",
+      "texture": "How does the painter evoke different surfaces through pattern and detail rather than modeling?",
+      "space": "How does the layered, non-perspectival space allow many figures to be shown clearly?",
+      "light": "What does the absence of cast shadows suggest about the painting's priorities?",
+      "meaning": "How might the scene present polo as a sign of skill, nobility and order?",
+      "culture": "How does a royal manuscript like this reflect the role of the arts at the Safavid court?",
+      "technique": "What does the record's naming of the poet, not the painter, suggest about how royal books were produced?",
+      "personal": "How do you read a crowd and a central activity in an image, and what does this folio ask you to do?",
+      "critical": "What assumptions might a viewer bring to an image of sport and court life, and how could the painting challenge them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the visual evidence about how the folio represents sport and heroism, and what remains uncertain?",
+      "emotion": "How does the painting's formal control complicate any attempt to assign it a single emotional register?",
+      "observation": "Describe the folio's formal organization precisely. Where does description begin to interpret?",
+      "analysis": "Analyze how narrative, spectacle and decoration are integrated in the composition.",
+      "line": "How does the interplay of contour and rhythmic curves shape the work's approach to motion?",
+      "shape": "How do repeated forms and patterned surfaces balance dynamism with order?",
+      "color": "How might pigment, silver and gold and the age of the page affect the colors we see, and how should that temper interpretation?",
+      "texture": "How does the painter evoke difference of material through pattern and color, and what does that say about visual conventions?",
+      "space": "How does the layered space differ from single-viewpoint perspective, and what role does it assign to the viewer?",
+      "light": "How does the painting suggest brightness without cast shadow, and what does that reveal about differing traditions?",
+      "meaning": "Evaluate competing readings of the folio as a narrative illustration, an image of courtly sport, or a statement of royal taste. Which is best supported?",
+      "culture": "What does the manuscript's production for a royal patron suggest about the relationship between art and court power, and what evidence would you need?",
+      "technique": "How might collaborative workshop production complicate attribution of this folio, and what does the record's silence on the painter imply?",
+      "personal": "How does your own cultural experience of sport and spectacle shape how you read this image?",
+      "critical": "Given that the record names the poet and not the painter, what standards of evidence should govern claims about this folio's creation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Men, Playing, Sports, Horses), medium and classification (Codices) read from the Met record: a polo game from an epic manuscript. No nudity, violence or frightening terms in the metadata.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A folio from the Shahnama made for Shah Tahmasp in Iran around 1525 to 1530. Polo was a favorite sport of Persian courts. The artist field names the poet Firdausi, not the painter.",
+    "vocabulary": [
+      "Shahnama",
+      "folio",
+      "miniature painting",
+      "polo",
+      "opaque watercolor",
+      "workshop"
+    ],
+    "directions": [
+      "Ask students to trace the main diagonals and explain how they create motion.",
+      "Have students compare how this painting and a Western sports scene show speed.",
+      "Invite students to tell the story of a game they know as a single illustrated page."
+    ]
+  }
+}

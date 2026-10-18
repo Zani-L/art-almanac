@@ -1,0 +1,150 @@
+{
+  "id": "met-337491",
+  "day": "09-17",
+  "title": "Cottage among Trees",
+  "artist": "Rembrandt (Rembrandt van Rijn)",
+  "date": "ca. 1650",
+  "medium": "Pen and brown ink, brush and brown wash, on paper washed with brown",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832659.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP832659.jpg",
+    "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A quick pen-and-ink landscape drawing in brown tones showing a small cottage partly hidden among trees, with loose lines and soft brown wash on a brown-tinted sheet.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/337491",
+    "objectId": "337491",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Houses, Landscapes), classification, and image URLs read from the record"
+  },
+  "context": "A landscape drawing by Rembrandt van Rijn (1606–1669), dated about 1650 in the Met's record. He made many drawings of the countryside in the Dutch Republic. The medium is pen and brown ink with brown wash on paper that was first washed with brown.",
+  "descriptions": {
+    "k": "A little house hides among the trees. The artist drew it with a pen and brown ink. The lines are quick and loose. Can you find the house? Would you like to live in a cottage like this?",
+    "g12": "Rembrandt drew this cottage among trees with a pen and brown ink. He added soft brown paint, called wash, for shadows. Even the paper was tinted brown first. The lines are quick, not neat. What does the drawing tell you about the place?",
+    "g35": "Rembrandt is best known for his paintings, but he also made many drawings of the countryside near his home in the Netherlands. In this drawing from about 1650, a cottage sits among trees. He used a pen, brown ink, brown wash, and paper that was washed with brown first. How do quick lines and soft shadows make the cottage feel cozy and real?",
+    "g68": "Rembrandt made this drawing around 1650, when he often sketched cottages and countryside around the Dutch Republic. He worked with pen and brown ink and added brown wash on paper he had already tinted brown. Notice how few lines he needs to suggest a house and trees. Why might a famous painter spend time on a modest cottage, and how can a few marks do the work of many?",
+    "g910": "In Cottage among Trees, Rembrandt shows how much a few confident marks can convey. Pen lines locate the cottage and foliage while brown wash builds shade and unity across the tinted paper. Because the sheet is dated only as about 1650, and the record gives no more information on its purpose, we should be cautious about guessing why he made it. Consider how economy of means, shadow, and the humble subject shape the drawing's mood.",
+    "g1112": "Rembrandt's landscape drawings of around 1650 are admired for their economy: a few pen strokes and washes establish structure, space, and atmosphere. In this sheet, the tinted ground unifies the image and makes the paper itself part of the tonal range. Scholars study such drawings as observations of the Dutch countryside, though how they were used is not always clear, and the record here gives only title, date, and medium. Consider what an artist's attention to an ordinary dwelling can suggest, and how to interpret sparse evidence."
+  },
+  "questions": {
+    "k": {
+      "daily": "Can you find the cottage? Tell us what you see around it.",
+      "emotion": "Does this place feel cozy or lonely? Why?",
+      "observation": "What can you find besides the house? Point to the trees.",
+      "analysis": "Where do your eyes go first in this drawing? Why?",
+      "line": "The lines are quick and scribbly. Can you scribble in the air like the artist?",
+      "shape": "What shapes do the roof and the trees make?",
+      "color": "The whole picture is brown. Where is the brown darkest, and where is it lightest?",
+      "texture": "How do you think the cottage roof and the tree leaves would feel?",
+      "space": "Is the cottage near you or far away? What makes you think so?",
+      "light": "Where do you see darker shadow? Where does it look lighter?",
+      "meaning": "Who do you think lives in the cottage? What are they doing now?",
+      "culture": "This cottage is from the Netherlands long ago. What kinds of houses are in your neighborhood?",
+      "technique": "The artist used a pen and brown water-paint. What do you think the pen did and what did the paint do?",
+      "personal": "Is there a small, cozy place you like? Tell about it.",
+      "critical": "The artist drew very fast with few lines. Does it still look like a cottage? What helps you know?"
+    },
+    "g12": {
+      "daily": "How does Rembrandt show a cottage and trees with just a few quick lines?",
+      "emotion": "What feeling does the cottage among trees give you? Which marks help?",
+      "observation": "Describe the cottage and the trees. What details can you find?",
+      "analysis": "How do the trees and the cottage fit together so the picture feels connected?",
+      "line": "Where are the lines dark and strong? Where are they light and soft?",
+      "shape": "Find a shape that looks like a roof. How is it different from the shapes of the trees?",
+      "color": "The drawing is all browns. How many different browns can you spot?",
+      "texture": "Which marks look rough like leaves and which look flat like a wall?",
+      "space": "How does the artist show what is behind the trees?",
+      "light": "Where does the brown wash make the picture look shady?",
+      "meaning": "Why might a famous artist draw a simple cottage instead of a palace?",
+      "culture": "Rembrandt lived in the Netherlands and drew its countryside. What would you draw to show where you live?",
+      "technique": "The paper was brushed with brown before he drew. How does that change the look of the drawing?",
+      "personal": "What kind of lines would you use to draw a cozy place?",
+      "critical": "Is this drawing finished or a quick sketch? What clues make you think so?"
+    },
+    "g35": {
+      "daily": "What do you notice in this drawing that shows how Rembrandt made a few marks into a believable cottage and trees?",
+      "emotion": "How would you describe the mood of this drawing, and which marks help create it?",
+      "observation": "After looking quietly for a minute, what small details in the lines or shading did you notice only later?",
+      "analysis": "How does Rembrandt use dark and light areas to guide your eyes to the cottage?",
+      "line": "How do the loose, quick lines compare with a carefully neat drawing? What do they add?",
+      "shape": "How does he use simple shapes to build the cottage, and how are the shapes of the trees different?",
+      "color": "Rembrandt used only browns. How does he still show light and shadow?",
+      "texture": "How do small, scribbly marks suggest leaves and the rough look of the cottage itself?",
+      "space": "How does the artist show that the cottage is in a place with room around it?",
+      "light": "How does the brown wash help show where shadows fall?",
+      "meaning": "Why might this humble cottage have mattered to Rembrandt? Give one idea and a detail that supports it.",
+      "culture": "Rembrandt's drawings show ordinary places in the Dutch countryside. What can they tell us about everyday life then?",
+      "technique": "What is the advantage of using a pen and a brush together in the same drawing?",
+      "personal": "Think of an ordinary place you notice often. What would you want to show about it in a quick drawing?",
+      "critical": "Does a quick drawing show more about a place, or less, than a careful painting? Explain."
+    },
+    "g68": {
+      "daily": "How does Rembrandt use sparse, confident marks to create a whole scene of cottage, trees, and shade?",
+      "emotion": "What mood do the warm brown tones and loose lines create, and how does it differ from a precise drawing?",
+      "observation": "Describe the picture from the cottage outward. Where does the drawing become less detailed, and why might that be?",
+      "analysis": "How does he balance dense dark areas with open lighter areas in the composition?",
+      "line": "How do changes in pressure and speed of the pen create differences between building and foliage?",
+      "shape": "How do angular shapes of the cottage contrast with the irregular forms of the trees?",
+      "color": "With only brown ink and wash, how does Rembrandt separate near from far and light from dark?",
+      "texture": "Which marks seem rough and which seem smooth? How do they distinguish materials?",
+      "space": "How does wash help create depth in a drawing with so few lines?",
+      "light": "Where does the paper's brown tint behave like mid-tone, and how does Rembrandt use it?",
+      "meaning": "Is the drawing about the cottage, the trees, or the whole atmosphere? Use details to support your answer.",
+      "culture": "What does it suggest about Dutch art of the 1600s that a leading artist would draw an ordinary rural building?",
+      "technique": "How does using a tinted sheet change the way an artist plans light and dark?",
+      "personal": "What is a place in your daily life that you pass by without really looking? How might you draw it?",
+      "critical": "The Met gives the date as about 1650. How certain should we be about when and why the drawing was made?"
+    },
+    "g910": {
+      "daily": "How does the drawing convey structure, atmosphere, and place using extreme economy of mark?",
+      "emotion": "How do the quick lines and warm tones set a mood of quiet and intimacy?",
+      "observation": "Describe the visual hierarchy: what attracts the eye first, and what recedes?",
+      "analysis": "Analyze how the density of marks in some regions and sparseness in others builds the composition.",
+      "line": "How does the variety of pen strokes, from firm to hesitant, create different qualities of form?",
+      "shape": "How does contrast between geometric structure and organic mass articulate the scene?",
+      "color": "How does the single-hue palette of ink and wash, together with the tinted ground, produce a full tonal range?",
+      "texture": "How do varied strokes imply roof, foliage, and ground without describing each?",
+      "space": "How does wash suggest recession and enclosure in the absence of formal perspective devices?",
+      "light": "How does the paper tint serve as an intermediate value, and how do wash and untouched areas build on it?",
+      "meaning": "What might a humble subject have meant to a major artist, and what limits our certainty about his aims?",
+      "culture": "How does a drawing of an ordinary dwelling relate to Dutch interest in local landscape and everyday life?",
+      "technique": "What does the use of pen, brush, and prepared paper suggest about Rembrandt's flexible, experimental approach?",
+      "personal": "How does rapid drawing change what you notice about a place compared with careful drawing?",
+      "critical": "How do ideas of genius and the canon influence how we look at a small, sketchy drawing by a famous artist?"
+    },
+    "g1112": {
+      "daily": "How does this sheet demonstrate the expressive power of economy, and what visual evidence supports that claim?",
+      "emotion": "How does the sheet produce affect through tone and gesture rather than narrative?",
+      "observation": "Describe the sheet's physical facts, such as ink, wash, and tinted ground, before interpreting. Where does description begin to claim intention?",
+      "analysis": "How do mark density, tonal gradation, and spatial interval structure the sheet without strict description?",
+      "line": "How does the sheet reveal process and decision-making through the character of its lines?",
+      "shape": "How does the reduction of forms to essentials relate to the sheet's sense of place?",
+      "color": "How does the near-monochrome palette foreground tonal relations, and how might age and light have altered what we see?",
+      "texture": "How does gesture stand in for description of material, and what does that suggest about the viewer's role in completing the image?",
+      "space": "How does the sheet create a spatial world with minimal cues, and where does it remain deliberately ambiguous?",
+      "light": "In what sense does the tinted ground make the drawing a study of light, and how does Rembrandt use that effect?",
+      "meaning": "Given limited documentation, what interpretive claims about this drawing's function can be supported, and which are speculative?",
+      "culture": "How do Rembrandt's landscape drawings relate to the art market and collecting of the Dutch Republic, and how far can we generalize from this sheet?",
+      "technique": "How might technical study of the paper and ink contribute to dating and understanding the sheet, and what are the limits of visual inspection?",
+      "personal": "How does your own relation to rural or domestic spaces shape what you read into this scene?",
+      "critical": "How do reputations of canonical artists shape our standards for judging sketches, and should they?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, tags (Houses, Landscapes), medium, and classification (Drawings) checked against the Met record; no sensitive tags present. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Rembrandt (1606–1669) is known for paintings and prints, and he also made many landscape drawings. This sheet is dated about 1650 in the Met's record and uses pen, brush, and brown wash.",
+    "vocabulary": ["pen and ink", "wash", "tinted paper", "economy of line", "tonal range", "landscape"],
+    "directions": [
+      "Have students draw a nearby building in five minutes with a pen, then add shade with watered-down ink or tea.",
+      "Ask students to count how few marks they need to show a tree and discuss why it still reads as a tree.",
+      "Discuss why an artist might draw ordinary places instead of famous ones."
+    ]
+  }
+}

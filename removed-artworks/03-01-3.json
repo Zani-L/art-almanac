@@ -1,0 +1,158 @@
+{
+  "id": "artic-22379",
+  "day": "03-01",
+  "title": "\"Eye-Dazzler\" Weaving",
+  "artist": "Navajo (Diné) weaver",
+  "date": "1880/1900",
+  "medium": "Cotton and wool, single interlocking tapestry weave, with twined selvages and tassel-finished edges",
+  "movement": "Navajo (Diné) textile art",
+  "region": "Arizona, New Mexico, and Utah, United States",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/2c02aabf-d2dc-e63a-0a3e-fabb3db7c42c/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Mrs. William Bross Lloyd",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A large woven textile with bold zigzag and diamond patterns in bright colors placed side by side so that the pattern seems to vibrate, with tassels at the corners.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/22379",
+    "objectId": "22379",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, accession number 1964.1134, description or subject terms, is_public_domain true and image_id read from the record"
+  },
+  "context": "A Navajo (Diné) weaving made between 1880 and 1900 from cotton and wool. In the late 1800s, weavers, most of them women, began using bright commercial dyes and set colors side by side in zigzag patterns that seem to vibrate, which is why such textiles are called eye dazzlers.",
+  "descriptions": {
+    "k": "Wow, look at all these zigzags! The colors sit right next to each other and seem to wiggle. A Navajo weaver made this by hand with wool. Trace a zigzag with your finger.",
+    "g12": "A Navajo weaver made this bright rug by hand. The colors are placed side by side in zigzags and diamonds, so the pattern seems to shake and sparkle. That is why people call it an eye-dazzler. What happens to your eyes when you look at it?",
+    "g35": "This weaving was made between 1880 and 1900 by a Navajo (Diné) weaver in the American Southwest. Bright dyes from stores let weavers place colors side by side in zigzag patterns that seem to vibrate, so these textiles are called eye dazzlers. How did the weaver make a flat cloth look like it moves?",
+    "g68": "Made between 1880 and 1900, this Diné weaving shows how Navajo weavers, mostly women, used new commercial dyes available after the railroads expanded. Bright colors sit side by side in zigzag patterns that seem to vibrate, earning the name eye-dazzler. The weaving is cotton and wool, woven by hand. How does the pattern use contrast to create the feeling of motion on a flat surface?",
+    "g910": "This Diné eye-dazzler (1880 to 1900) is hand-woven in cotton and wool, with twined edges and tassels. Commercial dyes, newly available as railroads expanded, let weavers set vivid colors against one another so that zigzags appear to vibrate. The design pushes optical effect further than earlier, calmer blankets. How does the weaver turn a technical limit, the grid of the loom, into a source of energy?",
+    "g1112": "This eye-dazzler (1880 to 1900), woven in cotton and wool by a Diné artist, exploits the new commercial dyes that railroads brought to the Southwest, placing saturated colors in adjacent zigzags that appear to pulse. The interlocking tapestry weave builds diagonal forms stepwise on the loom's grid. How does it join the discipline of weaving technique with an almost modern attention to optical effect, and what does that suggest about artistic innovation within tradition?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Which colors sit right next to each other? Do they look like they are shaking?",
+      "emotion": "Does this weaving feel calm or full of energy? What makes you say so?",
+      "observation": "Find a zigzag and a diamond. Where are they?",
+      "analysis": "Why do you think your eyes keep moving around this picture?",
+      "line": "Trace a zigzag line with your finger. Which way does it go?",
+      "shape": "Which pointy shape keeps showing up again and again?",
+      "color": "Pick your favorite color in the weaving. Where does it show up?",
+      "texture": "Do you think this feels soft or scratchy? Tell us why.",
+      "space": "Does it look flat, or does it seem to pop out? Show with your hand.",
+      "light": "Where does the weaving look the brightest?",
+      "meaning": "Why might someone weave such a bright cloth?",
+      "culture": "Weavers in many places make cloth by hand. Have you ever seen someone weave?",
+      "technique": "The weaver made this by passing wool back and forth on a loom. How is that like drawing with string?",
+      "personal": "If you could weave a pattern, what shape would you start with?",
+      "critical": "Which color would you swap for a different one?"
+    },
+    "g12": {
+      "daily": "Pick two colors that sit side by side. What happens when you look at them?",
+      "emotion": "Does this weaving feel jumpy and loud, or calm and quiet? What do you see that tells you?",
+      "observation": "Count the zigzag lines you can find. Where do they start and stop?",
+      "analysis": "Why do you think the weaving seems to shake when you look at it?",
+      "line": "Follow one zigzag from one side to the other with your finger. What happens at the corners?",
+      "shape": "What pointy shapes do you see repeating?",
+      "color": "Which two colors are your favorites here? Where do they meet?",
+      "texture": "How can you tell the weaving is made of threads and not paint?",
+      "space": "Does the pattern look flat, or does it seem to move toward you?",
+      "light": "Where are the lightest colors, and where are the darkest?",
+      "meaning": "Why do you think the weaver used so many bright colors?",
+      "culture": "Who in your life makes something by hand with thread or yarn?",
+      "technique": "The weaver crossed threads over and under on a loom. Why do you think that takes patience?",
+      "personal": "If you were designing a weaving, which colors would you put side by side?",
+      "critical": "What part of this weaving would you change?"
+    },
+    "g35": {
+      "daily": "Which colors seem to jump out at you most? Where are they?",
+      "emotion": "What feeling do these bright colors give you?",
+      "observation": "Describe the pattern from the middle to the edges. What repeats?",
+      "analysis": "Why does the weaving seem to shimmer or vibrate when you look at it?",
+      "line": "How do the zigzag lines make your eyes travel across the cloth?",
+      "shape": "How are the diamonds and triangles different from each other?",
+      "color": "How does putting a bright color next to a different bright color change how each one looks?",
+      "texture": "How can you tell this was made from wool and cotton thread?",
+      "space": "Does the pattern seem to go deeper into the cloth or stay on top? Explain.",
+      "light": "Where are the lightest parts, and how do they help the pattern stand out?",
+      "meaning": "What might the weaver want people to feel when they see this cloth?",
+      "culture": "This weaving comes from the Navajo (Diné) people. What can you learn about their art from looking closely?",
+      "technique": "Weaving takes many hours. Which parts look like they took the most patience?",
+      "personal": "What is something you made by hand that took a long time?",
+      "critical": "Do you think art made for use, like a rug or blanket, can be as important as a painting? Why?"
+    },
+    "g68": {
+      "daily": "Which section of the weaving catches your attention first, and what is the reason?",
+      "emotion": "How would the feeling change if the weaver had used only soft, similar colors?",
+      "observation": "Describe how the pattern is arranged from the center outward. What do you notice about repetition?",
+      "analysis": "How do the zigzags create the illusion that the weaving is flickering?",
+      "line": "How do diagonal lines lead the eye differently from straight horizontal bands?",
+      "shape": "How do the angular shapes fit together, and why do they feel so energetic?",
+      "color": "How do pairs of strong colors placed side by side make each other look more intense?",
+      "texture": "What can you tell about how the weaver built the pattern row by row?",
+      "space": "How does the weaving make you feel the pattern is moving even though cloth is flat?",
+      "light": "How does the contrast of light and dark colors create the sparkle of the eye-dazzler effect?",
+      "meaning": "What might it mean that weavers began using bright new dyes in the late 1800s?",
+      "culture": "How does this weaving show both Diné tradition and change over time?",
+      "technique": "How do the cotton and wool threads and the twined edges show careful craftsmanship?",
+      "personal": "What do you think the weaver wanted to try with color that was new?",
+      "critical": "If you were to describe this weaving to someone who has never seen it, which words would you choose?"
+    },
+    "g910": {
+      "daily": "Which compositional choices make the pattern feel simultaneously orderly and unstable?",
+      "emotion": "How does saturated color alone, without realistic subject matter, produce a distinct emotional intensity here?",
+      "observation": "Examine how the pattern is organized from center to border. What visual strategies hold the large design together?",
+      "analysis": "Analyze how adjacent colors create optical vibration and why that effect captures attention.",
+      "line": "How do the diagonal edges of the zigzags create rhythm and directional movement?",
+      "shape": "How do angular shapes generated by the loom's grid become the visual language of the design?",
+      "color": "How do juxtaposed hues of similar intensity compete, and what effect does that produce on the viewer's eye?",
+      "texture": "What does the tight interlocking tapestry weave suggest about the weaver's technical control?",
+      "space": "How does the design suggest an illusion of depth and motion without any perspective or shading?",
+      "light": "How does value contrast, light against dark, intensify the dazzling effect?",
+      "meaning": "What does the arrival of commercial dyes after the railroads tell you about how technology and trade can shape art?",
+      "culture": "How does an eye-dazzler negotiate between inherited weaving traditions and new markets and materials?",
+      "technique": "In what ways do twined selvages and tassels contribute to the finish and identity of the textile?",
+      "personal": "How does the weaver's decision to exaggerate contrast reflect an experimental spirit?",
+      "critical": "How might Western art history change if weavings like this were discussed alongside abstract painting?"
+    },
+    "g1112": {
+      "daily": "How does the strict grid of the interlocking weave, which could limit invention, instead become the structure for a design of striking dynamism?",
+      "emotion": "In what ways does chromatic intensity alone, divorced from depiction, serve as the work's primary expressive content?",
+      "observation": "What interpretive questions arise from the way the pattern organizes the whole field around a central axis and border?",
+      "analysis": "Evaluate how simultaneous contrast between adjacent hues produces the optical vibration for which eye-dazzlers are named.",
+      "line": "How do stepped diagonals, necessarily built by the loom's logic, generate a rhythm that anticipates later abstraction?",
+      "shape": "How does the weaver convert the technical constraint of weaving angled forms into a vocabulary of zigzags and triangles?",
+      "color": "How might bright commercial dyes have altered both the possible palette and the expectations of Navajo weavers and their patrons?",
+      "texture": "What does the density and evenness of the tapestry weave suggest about the weaver's expertise and about the labor behind the object?",
+      "space": "How does the textile produce a sense of recession and projection without the conventions of Western perspective?",
+      "light": "How do tonal oppositions heighten the sensation of flicker, and what does that say about the relation between perception and design?",
+      "meaning": "How does this weaving illustrate the entanglement of Indigenous artistic innovation with the economics of railroads and trade?",
+      "culture": "How can a tradition remain continuous while embracing new materials, and what does this piece suggest about innovation within tradition?",
+      "technique": "What interpretive risks arise when a functional Diné textile is displayed as a work of fine art, and what might be gained?",
+      "personal": "How does an object made to be used, yet so visually daring, change your sense of what counts as innovative art?",
+      "critical": "To what extent do the visual affinities between eye-dazzlers and twentieth-century abstract painting reflect shared concerns, and where do their purposes differ?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification, medium and museum description or subject terms (textile, weaving) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Navajo (Diné) weaving made between 1880 and 1900 from cotton and wool. In the late 1800s, weavers, most of them women, began using bright commercial dyes and set colors side by side in zigzag patterns that seem to vibrate, which is why such textiles are called eye dazzlers.",
+    "vocabulary": [
+      "eye-dazzler",
+      "weaving",
+      "Diné (Navajo)",
+      "zigzag",
+      "contrast",
+      "loom"
+    ],
+    "directions": [
+      "Have students make a paper weaving with colored strips and test which color pairs seem to vibrate when placed side by side.",
+      "Ask students to draw a zigzag pattern in two or three colors and compare the effects of different color pairs.",
+      "Discuss how Diné weavers adopted new dyes and how artists today respond to new materials."
+    ]
+  }
+}

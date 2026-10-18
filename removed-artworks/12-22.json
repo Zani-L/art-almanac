@@ -1,0 +1,158 @@
+{
+  "id": "met-3181",
+  "day": "12-22",
+  "title": "Dining Table",
+  "artist": "Artist unknown (American)",
+  "date": "1825–50",
+  "medium": "Pine, birch",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/189122.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/189122.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Mr. and Mrs. Henry Sherman, 1967",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A long, narrow wooden dining table with a plain flat top, standing on simple legs.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/3181",
+    "objectId": "3181",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, dimensions (about 27 1/2 x 122 1/4 x 33 1/4 in.), credit line, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An American dining table dated 1825–50 in the Met record, made of pine and birch. It is long and narrow, about 122 inches (310 cm) in length, or more than ten feet, which suggests it was made to seat many people at once. The record names no maker.",
+  "descriptions": {
+    "k": "This is a very long wooden table for eating. It is longer than a big couch. It is made of pine and birch wood. A lot of people could sit here. Who would you invite to dinner?",
+    "g12": "This table is more than ten feet long. That is longer than a big couch. It was made in America almost two hundred years ago from pine and birch wood. Many people could sit and eat here together. Look at its flat top and plain legs. Who do you think ate here?",
+    "g35": "This dining table was made in the United States between 1825 and 1850. It is more than ten feet long but only a little over two feet high and under three feet wide. Pine and birch are common woods, and the table is plain, with a long flat top. Who might have needed such a long table? What do its simple parts tell you about how it was used?",
+    "g68": "This American dining table, dated 1825–50 and made of pine and birch, is more than ten feet long, long enough to seat a large household or a workforce. Pine and birch were common, affordable woods. Its simple construction suggests practical use over display. What can an everyday table tell us about daily routines, work, and family life? How does its length shape the feeling of a shared meal?",
+    "g910": "This 1825–50 dining table prioritizes capacity and plainness over ornament. At more than ten feet long, it indicates communal dining at a scale larger than most single families, and the Met's listing of pine and birch points to affordable, locally available materials. Its form invites questions about who gathered here and how seating shaped social order. Consider how the absence of decoration can still communicate values of utility, community, and labor.",
+    "g1112": "A table more than ten feet long, built of pine and birch between 1825 and 1850, implies communal eating on a scale beyond a typical household. The Met record names no maker, so its history must be inferred from form, scale, and materials rather than documents. Plain furniture of this kind complicates narratives that emphasize luxury objects, and asks who is represented in museum collections of household goods. Ask how this table organizes social relationships, labor, and daily life, and where interpretation outruns the evidence."
+  },
+  "questions": {
+    "k": {
+      "daily": "This table is very long. Spread your arms wide to show how long you think it is.",
+      "emotion": "Does this long table feel friendly, plain, or empty? Why?",
+      "observation": "Find the top of the table and the legs. How many legs can you see?",
+      "analysis": "Why do you think someone made a table this long?",
+      "line": "Trace the long straight edge of the table with your finger.",
+      "shape": "What shape is the top of the table? Is it more like a square or a long rectangle?",
+      "color": "What color is the wood? Is it light, dark, or in the middle?",
+      "texture": "The top is flat and made of wood. How do you think it would feel under your hands?",
+      "space": "How many chairs could fit along this table? Count with your fingers.",
+      "light": "Where does the light shine on the top of the table?",
+      "meaning": "Why might a family or group want a very long table?",
+      "culture": "People in America ate at tables like this long ago. Who do you share meals with?",
+      "technique": "A woodworker built this table from boards. What do you think was hard about making it so long?",
+      "personal": "Who would you want to sit with you at a long table? Tell about a meal you would share.",
+      "critical": "Is a plain table as interesting as a fancy one? Why or why not?"
+    },
+    "g12": {
+      "daily": "What do you notice about the size of this table compared with tables you know?",
+      "emotion": "What feeling do you get from a very long table made for sharing meals?",
+      "observation": "Describe the table. What parts can you name, and what is it made of?",
+      "analysis": "How do the legs hold up such a long top?",
+      "line": "The table has long, straight lines. How do they make the table look?",
+      "shape": "The top is a long rectangle. How does it compare with a round table?",
+      "color": "The wood has natural, simple tones. How does that make the table feel?",
+      "texture": "Pine is a soft wood. How do you think a table made from it might wear down after many dinners?",
+      "space": "This table is more than ten feet long. What room would it need?",
+      "light": "Where does the light fall across the long top?",
+      "meaning": "The table is plain, with no fancy carving. What might that say about the people who used it?",
+      "culture": "In the 1800s, many people ate meals together in large groups. Who might have eaten at this table?",
+      "technique": "Pine and birch were common woods in America. Why might a maker choose them for a big table?",
+      "personal": "What is the longest table you have ever sat at? What was it like?",
+      "critical": "Does a table need decoration to be important? Give a reason."
+    },
+    "g35": {
+      "daily": "What clues in this table's size and shape tell you how it was used?",
+      "emotion": "What mood does a long, plain table give a room?",
+      "observation": "Look at the table for one minute. What details of the top and legs do you notice?",
+      "analysis": "How do the top and legs work together to support a long, flat surface?",
+      "line": "How does the long, straight edge shape the way the table looks?",
+      "shape": "How does the table's long rectangular shape differ from the shape of a table for two or four people?",
+      "color": "How does the color of pine and birch affect the look of the table?",
+      "texture": "How might the table's wooden top show wear from years of use?",
+      "space": "How does a table this long organize the space around it?",
+      "light": "How does light show off the long flat surface of the table?",
+      "meaning": "What might it mean that a table was made plain rather than decorated?",
+      "culture": "How might life in the early 1800s have created a need for such a long table?",
+      "technique": "Why might a maker use affordable woods such as pine and birch for a big table?",
+      "personal": "Think of a time you shared a meal with many people. How would this table have worked for you?",
+      "critical": "We do not know who made this table. How might that change how a museum shows it?"
+    },
+    "g68": {
+      "daily": "What does a plain, very long table tell us about how people lived and ate together?",
+      "emotion": "How does the table's length and plainness shape the mood of a meal?",
+      "observation": "Scan the table from end to end. Which details show practical design choices?",
+      "analysis": "How do proportion and simple structure make the table both sturdy and useful?",
+      "line": "How do the long horizontal lines create a sense of calm and order?",
+      "shape": "How does the narrow rectangle shape suit its function of seating many people?",
+      "color": "How do natural wood tones give the table a warm, working character?",
+      "texture": "How might the surface show use over time, and what could that tell us?",
+      "space": "How would such a long table affect how people move around a room?",
+      "light": "How might light from a window or lamp make the long top look different at different times?",
+      "meaning": "What values does a plain, practical table express?",
+      "culture": "Who might have needed a table over ten feet long in the early 1800s, and why?",
+      "technique": "Why might common woods and simple joinery be a good choice for a table meant for hard use?",
+      "personal": "What does your family table or school table tell about how you live?",
+      "critical": "Should museums collect plain household furniture alongside luxury objects? Why?"
+    },
+    "g910": {
+      "daily": "How does this table communicate values through proportion, material, and absence of ornament?",
+      "emotion": "How does the table's length produce a feeling of community, labor, or austerity?",
+      "observation": "Describe the table's visual hierarchy. What draws the eye in an object this plain?",
+      "analysis": "Analyze how the table's proportions emphasize use over display.",
+      "line": "How does the dominance of long horizontals structure the table's visual character?",
+      "shape": "How does the narrow, elongated rectangle shape the way people would sit and interact?",
+      "color": "How does the natural palette of pine and birch support a message of practicality?",
+      "texture": "How might wear and finish tell the story of the table's use?",
+      "space": "How does the table's scale suggest the kind of room it occupied?",
+      "light": "How might the broad, flat surface have reflected light in a working interior?",
+      "meaning": "How can the absence of decoration still communicate social and moral values?",
+      "culture": "How might communal dining reflect household structure, labor, or religious community in the early 1800s?",
+      "technique": "What does the use of affordable woods suggest about regional resources and workshop practice?",
+      "personal": "How does your own experience of shared meals shape how you read this table?",
+      "critical": "How do plain, unsigned objects challenge the idea that museums should only show famous makers?"
+    },
+    "g1112": {
+      "daily": "What can we responsibly infer about a community from an unsigned dining table more than ten feet long?",
+      "emotion": "How might the austerity of the table evoke both warmth and discipline, depending on assumptions about its use?",
+      "observation": "Describe the table with precision. Which observations are visible fact and which depend on inference?",
+      "analysis": "Analyze how scale and plainness combine to define the table's presence and function.",
+      "line": "How might the emphasis on a single long horizontal organize an interior?",
+      "shape": "How does the elongated form reflect the social choreography of communal eating?",
+      "color": "How might natural wood tones and age affect how we read the table's original character?",
+      "texture": "How might signs of wear function as historical evidence?",
+      "space": "How would a table of this length structure the social order of a room?",
+      "light": "How might light have affected the table's use as a surface for work as well as meals?",
+      "meaning": "How might plainness be read as a statement of values, or simply of economy?",
+      "culture": "What types of households or institutions might have used a table of this scale, and what evidence would help decide?",
+      "technique": "What does the choice of pine and birch suggest about availability, cost, and the maker's priorities?",
+      "personal": "How do your own assumptions about family meals shape the story you tell about this table?",
+      "critical": "What are the limits of interpreting an object without a documented maker or owner?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, culture, medium, department and dimensions read from the Met record; the record lists no subject tags. A plain wooden dining table, so no sensitive content is expected. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Plain furniture of pine and birch was widely made in the early United States. The Met record dates this dining table to 1825–50 and gives its length as about 122 inches.",
+    "vocabulary": [
+      "dining table",
+      "pine",
+      "birch",
+      "proportion",
+      "utility",
+      "anonymous maker"
+    ],
+    "directions": [
+      "Have students mark out 122 inches on the classroom floor and discuss who and what could fit along it.",
+      "Ask students to compare this table with a fancy table in the archive and say what each tells about its users.",
+      "Discuss how everyday objects without a known maker can still teach us about the past."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "met-10996",
+  "day": "04-14",
+  "title": "Still Life",
+  "artist": "William Michael Harnett",
+  "date": "1888",
+  "medium": "Oil on canvas",
+  "movement": "Trompe l'oeil still life",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap67.155.1.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap67.155.1.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Susan Vanderpoel Clark, 1967",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A still life of musical instruments, books and sheet music, painted in such careful detail that the objects look real enough to touch.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/10996",
+    "objectId": "10996",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Musical Instruments, Books, Music, Still Life) and image URLs read from the record"
+  },
+  "context": "An oil painting of 1888 by William Michael Harnett, an American still-life painter known for trompe l'oeil, a French term for pictures that fool the eye into seeing real objects. The record's tags list musical instruments, books, and music among the objects shown.",
+  "descriptions": {
+    "k": "Look at the musical instruments, books, and papers with music. The artist painted them so well that they look real. Can you almost hear a song? Which object would you pick up first?",
+    "g12": "William Harnett painted musical instruments, books, and sheet music so carefully that they look real enough to touch. This is called a still life. Look for worn paper and shiny wood. Which object looks most real to you? What song might the music be?",
+    "g35": "William Harnett painted still lifes that fool your eyes. Here, musical instruments, books, and sheet music look so real you might want to touch them. This kind of painting is called trompe l'oeil, which means fool the eye in French. Notice the worn edges and shiny surfaces. How does Harnett make flat paint look like real objects?",
+    "g68": "Harnett specialized in trompe l'oeil, a French phrase for fool the eye, in which painted objects are so convincing that they seem real. In this 1888 still life, instruments, books, and music suggest sound, reading, and time. The worn, handled look of the objects hints that someone has used them. Harnett's detail rewards close looking, though he left few notes about his meanings. What might a collection of old music and books say about its owner?",
+    "g910": "In this 1888 still life, Harnett arranges musical instruments, books, and music to produce an illusion so exact that the objects seem to sit in our space. This trompe l'oeil approach tests how far paint can imitate worn surfaces, grain, and shine. Some scholars connect Harnett's pictures to themes of memory, time, and the passing of sound; others emphasize his skill and the market for illusion. The painting does not state a message, so interpretations should rest on what it shows.",
+    "g1112": "Harnett's 1888 still life belongs to the late nineteenth-century American taste for trompe l'oeil, where technical mastery of illusion is itself the subject. The pairing of musical instruments, books, and printed music invites reflection on sound, silence, and age, but also on the status of painting as an imitation of things. Critics have read such works as nostalgic meditations on time, as demonstrations of virtuosity for a new class of collectors, or as playful tests of perception. Harnett left little commentary, so these readings remain interpretations rather than established intent."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which object in this painting would you reach out and touch first? Tell why.",
+      "emotion": "Do these old things feel cozy, sad, or exciting? Show with your face.",
+      "observation": "What can you find in this painting? Point to the music, a book, and an instrument.",
+      "analysis": "Which object is the biggest? Which one sits in front?",
+      "line": "Can you find a long, straight edge? Can you find a curvy line?",
+      "shape": "Which objects have curvy shapes and which have squarish shapes?",
+      "color": "What colors do the old books and wood have? Are they bright or soft?",
+      "texture": "Which things look smooth and shiny? Which look old and rough?",
+      "space": "Do the objects look close to you or far away? How do you know?",
+      "light": "Where do you see a little shine or light on the objects?",
+      "meaning": "If these things belonged to someone, what kind of person would they be?",
+      "culture": "People made music at home long ago. What music do you hear at home?",
+      "technique": "The painter made flat paint look like real, solid things. How do you think he did that?",
+      "personal": "Do you play an instrument or like to sing? Tell about your favorite song.",
+      "critical": "The painter wants you to think these things are real. Is it fun or tricky to be fooled by a picture?"
+    },
+    "g12": {
+      "daily": "What do you think the person who owns these things loves to do? Use clues from the painting.",
+      "emotion": "What feeling do these old books and instruments give you? Which details help create it?",
+      "observation": "List five details you see on the books, the music, and the instrument.",
+      "analysis": "How are the objects arranged? Which are in front and which are behind?",
+      "line": "Find lines on the books, music pages, and instrument. How do they create a sense of order?",
+      "shape": "Compare the shapes of the instrument and the books. How are they different?",
+      "color": "Which colors feel warm and old? Which spots are brighter?",
+      "texture": "Show how you can tell the shiny parts from the worn, rough parts.",
+      "space": "How does the artist make the objects look like they stick out toward you?",
+      "light": "Where does light make the objects look round and real?",
+      "meaning": "Why might an artist choose old things like books and music? What could they remind you of?",
+      "culture": "Many homes in the late 1800s had music and books. What do these objects tell us about how people spent their evenings?",
+      "technique": "Harnett painted with tiny details. Where can you find the smallest ones?",
+      "personal": "Which object in your home would you paint? Why?",
+      "critical": "Is a painting that looks exactly like real objects better than one that looks different? What do you think?"
+    },
+    "g35": {
+      "daily": "What do you think Harnett wants you to notice about these objects, and which details prove it?",
+      "emotion": "What mood do the worn books, music, and instrument create? Which details build that mood?",
+      "observation": "After one minute of silent looking, what tiny details do you notice in the edges, pages, and surfaces?",
+      "analysis": "How does Harnett arrange the objects so they look close to us and carefully organized?",
+      "line": "How do straight edges of books and pages compare with the curves of the instrument? What does each do for the picture?",
+      "shape": "How do the different shapes of the objects fit together to fill the painting?",
+      "color": "How do warm browns and yellowed paper help the objects feel old and used?",
+      "texture": "How does Harnett make the worn paper, polished wood, and cloth look different from one another?",
+      "space": "How does he make flat canvas seem to hold objects that stick out into the room?",
+      "light": "How do bright highlights and shadows give the objects weight and make them look solid?",
+      "meaning": "Music and books both carry stories and sounds. What could a painting of them quietly suggest?",
+      "culture": "People in the 1880s could not play recorded music as we do now. Why might sheet music and instruments have been important at home?",
+      "technique": "The French term trompe l'oeil means fool the eye. How does Harnett use detail to fool your eyes?",
+      "personal": "What small objects hold special memories for you? How would you arrange them in a painting?",
+      "critical": "Is it more impressive that a painting looks real, or that it makes you think? Explain your view."
+    },
+    "g68": {
+      "daily": "How does Harnett turn a collection of everyday things into a picture that makes you look twice?",
+      "emotion": "How do worn surfaces and quiet arrangement create a mood of memory or nostalgia?",
+      "observation": "Scan the objects one at a time. Which are painted with the most obsessive detail?",
+      "analysis": "How does the close, shallow arrangement make the objects appear to project from the canvas?",
+      "line": "How do straight edges and curves organize the picture and create a sense of stability?",
+      "shape": "How does variety in the shapes of books, music, and instruments keep the composition lively?",
+      "color": "How does a limited range of warm browns and creams support the feeling of age?",
+      "texture": "How does Harnett show differences between paper, wood, metal, and cloth, and which is most convincing?",
+      "space": "How does the shallow space and close viewpoint help create the illusion of real objects?",
+      "light": "How do small highlights and cast shadows create three-dimensional forms?",
+      "meaning": "What ideas about time, sound, and memory might these objects suggest, and what limits our certainty?",
+      "culture": "How might a late nineteenth-century collector have valued a painting that looked like real objects?",
+      "technique": "What skills does trompe l'oeil painting require, and how can you tell where Harnett has paid the most attention?",
+      "personal": "What does it feel like when an image is so realistic that you forget it is paint?",
+      "critical": "Does a trompe l'oeil painting say anything beyond showing off skill? Argue your view."
+    },
+    "g910": {
+      "daily": "How does Harnett's illusionism ask viewers to question the difference between a painting and a real thing?",
+      "emotion": "How do the signs of age and handling give the still life an elegiac or intimate tone?",
+      "observation": "Describe the visual hierarchy: what dominates, and which devices create the effect?",
+      "analysis": "Analyze how the composition builds a shallow, frontal space that heightens illusion.",
+      "line": "How do edges and contours create a convincing sense of overlap and projection?",
+      "shape": "How do geometric forms of books contrast with the curved forms of the instrument to create tension and balance?",
+      "color": "How does a restrained, earthy palette contribute to the sense of age and cohesion?",
+      "texture": "How does the rendering of varied materials contribute to the painting's central illusion?",
+      "space": "How do depth cues such as overlap and cast shadow produce convincing space in a shallow setting?",
+      "light": "How does consistent directional light model the objects and unify the picture?",
+      "meaning": "How might the pairing of music and books evoke memory or absence, and where does that reading become speculative?",
+      "culture": "How does trompe l'oeil painting fit into late nineteenth-century American tastes and the market for realistic pictures?",
+      "technique": "How do glazing, fine brushwork, and careful observation contribute to the effect of real objects?",
+      "personal": "How does your experience of old books or instruments influence the way you read the painting?",
+      "critical": "Does the painting's focus on illusion limit its meaning, or does it become a meaning in itself? Defend your view."
+    },
+    "g1112": {
+      "daily": "What can be argued from the painting itself about its purpose, and what remains uncertain?",
+      "emotion": "How does the painting's quiet realism complicate attempts to name one feeling, such as nostalgia or calm?",
+      "observation": "Describe the painting's construction with precision. Where does careful description turn into interpretation?",
+      "analysis": "Analyze how the composition produces an illusion of projection through controlled depth and detail.",
+      "line": "How does the reliance on exact edges and overlap shape the painting's claim to reality?",
+      "shape": "How does the contrast between rectilinear books and curved instruments produce visual tension and balance?",
+      "color": "How does the muted palette contribute to atmosphere, and how might the surface of the painting have aged?",
+      "texture": "How does the simulation of varied materials position the work within debates about imitation and art?",
+      "space": "How does the shallow, frontal space define the viewer's relationship to the objects as near and touchable?",
+      "light": "In what ways does light function as both descriptive tool and organizing structure?",
+      "meaning": "Evaluate readings of the painting as a meditation on time, a display of skill, or a play on perception. Which is best supported, and which is speculative?",
+      "culture": "How does the picture relate to the market for illusionistic still lifes and to ideas of domestic culture in late nineteenth-century America?",
+      "technique": "What does the painting suggest about the working methods and aims of a specialist in trompe l'oeil?",
+      "personal": "How does your own relationship to music and books shape the meaning you assign to the objects?",
+      "critical": "Given how little Harnett wrote about his intentions, what standards of evidence should govern interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Musical Instruments, Books, Music, Still Life), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The tags indicate inanimate objects only. Because the image file itself was not visually inspected in this build, individual objects are described only in general terms. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1888 by William Michael Harnett, who specialized in trompe l'oeil still lifes. The Met record lists musical instruments, books and music as tags.",
+    "vocabulary": [
+      "still life",
+      "trompe l'oeil",
+      "illusion",
+      "texture",
+      "highlight",
+      "composition"
+    ],
+    "directions": [
+      "Have students draw one small object with cast shadows and discuss how shadow adds realism.",
+      "Ask pairs to describe the painting aloud without naming the objects, while the partner draws.",
+      "Discuss the difference between a realistic painting and a photograph, and what each offers."
+    ]
+  }
+}

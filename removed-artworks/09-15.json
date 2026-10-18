@@ -1,0 +1,151 @@
+{
+  "id": "met-503517",
+  "day": "09-15",
+  "title": "ex \"Kurtz\" Violin",
+  "artist": "Andrea Amati",
+  "date": "ca. 1560",
+  "medium": "Spruce, maple, ebony, paint, gilding",
+  "region": "Italy (Cremona)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302645.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP302645.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Robert Alonzo Lehman Bequest, 1999",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An early violin with a curved wooden body, two curving sound holes, a neck ending in a scroll, and strings stretched over a bridge. Traces of paint and gilding are listed in the materials.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503517",
+    "objectId": "503517",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, maker, date, medium (spruce, maple, ebony, paint, gilding), culture (Italian, Cremona), public-domain flag, creditLine, and image URLs read from the record; the record's classification field says Chordophone-Lute-plucked, which does not match a bowed violin and was not used"
+  },
+  "context": "Andrea Amati of Cremona, Italy, is widely regarded as a founder of the Cremonese violin-making tradition that later included the Guarneri and Stradivari families. The Met dates this violin to about 1560 and lists spruce, maple, ebony, paint and gilding as materials. Violins from the 1500s have often been altered over the centuries, so details of its present condition should be checked against the Met's own description.",
+  "descriptions": {
+    "k": "This is a very old violin from Italy. It has a curved wooden body, two curly holes, and a swirly top called a scroll. A player rubs a bow across the strings. Can you find the scroll at the top?",
+    "g12": "This violin was made in Italy about 460 years ago by Andrea Amati. It has a curved body, two holes shaped like the letter f, and a curl at the top of the neck. Some paint and gold were added, too. Which part do you like best?",
+    "g35": "Andrea Amati made this violin in Cremona, Italy, around 1560. He is known as one of the first great violin makers. The body is spruce and maple, with ebony, paint and gilding, which means thin gold decoration. Look at the curved body, the sound holes and the scroll. How do these parts show that the violin is made for both sound and beauty?",
+    "g68": "This violin by Andrea Amati, made in Cremona around 1560, comes from the early years of the violin. Amati is widely regarded as a founder of the Cremonese tradition that later produced makers like Stradivari. The Met lists spruce, maple, ebony, paint and gilding, which suggests a decorated instrument. The curving outline, sound holes and scroll are part of a design that makers still follow. How does this early violin balance tradition and decoration?",
+    "g910": "Andrea Amati's violin of about 1560 stands near the beginning of a design that has lasted for centuries. In Cremona he helped establish the proportions, curved plates and carved scroll that later makers refined. The Met lists paint and gilding along with spruce, maple and ebony, indicating an instrument meant to be seen as well as heard, though the extent of the decoration should be checked in the image. Consider how an object can stay recognizable across centuries and still carry the marks of its own time.",
+    "g1112": "Attributed to Andrea Amati and dated ca. 1560, this violin belongs to the first generations of the instrument as we know it. Cremona's later reputation, built on Amati, Guarneri and Stradivari, can make the earliest examples seem inevitable, but the violin's form emerged from earlier bowed instruments and from workshop experiment. The listed paint and gilding suggest a prestigious commission or decorative program, yet the object's present state reflects centuries of use, repair and alteration, which complicates any claim about how it looked or sounded originally."
+  },
+  "questions": {
+    "k": {
+      "daily": "This violin has a swirly scroll at the top. Can you trace its curl with your finger?",
+      "emotion": "Does this old violin look fancy or plain? What do you see that tells you?",
+      "observation": "Find the body, the two sound holes and the neck. Can you point to each?",
+      "analysis": "Where do your eyes look first on the violin? Where do they go next?",
+      "line": "The sides of the violin curve in the middle. Trace that curve in the air.",
+      "shape": "The sound holes look like the letter f. Can you find both?",
+      "color": "What colors do you see in the wood? Do you see any gold?",
+      "texture": "If you touched the violin, which parts would feel smooth?",
+      "space": "The violin is hollow inside. What do you imagine is in that space?",
+      "light": "Where does the wood look shiny? Where does it look darker?",
+      "meaning": "Why might a violin maker add gold and paint?",
+      "culture": "This violin was made in Italy. What other things do you know that come from Italy?",
+      "technique": "A maker carved the scroll by hand. What tool might they have used?",
+      "personal": "What song would you like to play on a violin, fast or slow?",
+      "critical": "This violin is very old. What makes it look different from violins you have seen?"
+    },
+    "g12": {
+      "daily": "Look at the scroll, the curved body and the f-shaped holes. Which part shows the maker's skill the most?",
+      "emotion": "What feeling does this old, decorated violin give you? Point to what makes you feel it.",
+      "observation": "Describe the body, the neck and the scroll. What do you notice about each?",
+      "analysis": "How do the curves of the body lead your eyes to the neck?",
+      "line": "Find curved lines and straight lines. Where do you see each?",
+      "shape": "The violin body has curves in and out. How is that different from a box?",
+      "color": "The record lists wood, paint and gold. Where on the violin do you think each might be?",
+      "texture": "Which parts of the violin look smooth and shiny?",
+      "space": "The violin is hollow, and the sound holes let the sound out. Why might the holes have a curved shape?",
+      "light": "Look for places where light shines on the wood. What does it tell you about the surface?",
+      "meaning": "Why might an owner want a violin with gold and paint?",
+      "culture": "Andrea Amati worked in Cremona, Italy, around 1560. How is a violin from long ago like violins today?",
+      "technique": "The body is made of curved wood. Why might that be hard to make?",
+      "personal": "If you owned a very old violin, how would you take care of it?",
+      "critical": "We cannot hear this violin in a picture. What do we still learn by looking?"
+    },
+    "g35": {
+      "daily": "The Met lists paint and gilding on this violin. How might decoration change the way you see an instrument made for sound?",
+      "emotion": "What mood does this old, elegant violin create, and which details cause it?",
+      "observation": "Describe the violin from the scroll down to the bottom of the body. What details do you find?",
+      "analysis": "How do the scroll, neck, body and sound holes work together as one design?",
+      "line": "How do the smooth curves of the body contrast with the straight lines of the neck and strings?",
+      "shape": "The body curves inward at its waist. How does this shape help make the violin look balanced?",
+      "color": "The record lists spruce, maple, ebony, paint and gilding. How do these materials add different colors?",
+      "texture": "Which parts of the violin might feel the smoothest, and which might feel carved?",
+      "space": "The violin is hollow, and the f-shaped holes open the inside to the air. How does the outside shape hint at that?",
+      "light": "How does light on the curved wood show the shape of the violin?",
+      "meaning": "Why might a wealthy owner have wanted an instrument that was also a work of art?",
+      "culture": "Cremona became famous for violins. Why might a place become known for one craft?",
+      "technique": "Shaping a curved wooden body from flat wood takes great skill. What might go wrong?",
+      "personal": "Have you ever taken care of something old and fragile? How did you do it?",
+      "critical": "Old violins are often repaired. How could repairs change what we see today?"
+    },
+    "g68": {
+      "daily": "How does this violin balance an inherited design, curves, f-holes and scroll, with the decoration the record lists?",
+      "emotion": "What tone does the elegant outline set? Support your answer with details.",
+      "observation": "List what you see from the scroll to the bottom edge. Which details did you nearly miss?",
+      "analysis": "How does the violin's design lead the eye from the scroll through the neck to the body?",
+      "line": "How do the strong curves of the body contrast with the straight strings?",
+      "shape": "How do the shapes of the body, f-holes and scroll echo each other?",
+      "color": "How might paint and gilding work with the natural wood to create focus?",
+      "texture": "How do the contrasts of wood, ebony and decorative surfaces create variety?",
+      "space": "How does the hollow body, open to the air through the sound holes, make the violin different from a solid object?",
+      "light": "How does reflected light on the curved body show the shape of the instrument?",
+      "meaning": "What might a decorated early violin say about its owner? Why should we avoid being certain?",
+      "culture": "How did the Cremonese tradition begun by makers like Amati influence violins around the world?",
+      "technique": "What skills might be needed to carve a scroll and shape curved plates?",
+      "personal": "What do you value more in a tool, tradition or improvement? How does this violin connect to that?",
+      "critical": "How can we judge an instrument's original look when it is hundreds of years old?"
+    },
+    "g910": {
+      "daily": "How does the violin's enduring form, seen here in an early example, compare with the decorative layer the record describes?",
+      "emotion": "What atmosphere do the sweeping curves and precise details create, and how does the instrument's age affect it?",
+      "observation": "Describe the violin's visual hierarchy: scroll, body, sound holes, strings. What commands attention first?",
+      "analysis": "How do the proportions of the violin show a system of design, not just a single decision?",
+      "line": "How does the interplay of curve and straight line express both grace and engineering?",
+      "shape": "How do the repeating curves in the body, f-holes and scroll give the instrument a unified silhouette?",
+      "color": "How do natural wood tones and applied decoration create a layered visual identity?",
+      "texture": "How might varnish, paint and carved detail combine to produce a complex surface?",
+      "space": "How does the relation between the closed body and the sound holes shape the violin's acoustic and visual presence?",
+      "light": "How does a curved, polished body respond to gallery lighting, and what does that reveal about its construction?",
+      "meaning": "What does it suggest about status and taste that an instrument was decorated in paint and gold?",
+      "culture": "How did Cremona become a center for violin making, and what does Amati's role show about workshop traditions?",
+      "technique": "How do makers join craft knowledge with acoustic experience to refine a design?",
+      "personal": "What object in your life keeps a traditional form while updating its materials or uses?",
+      "critical": "How do centuries of use and repair complicate the idea of an original violin?"
+    },
+    "g1112": {
+      "daily": "What can this single early violin support as evidence about the instrument's beginnings, and what must remain open?",
+      "emotion": "How do beauty and antiquity shape our response to an instrument we cannot hear, and how might that response bias interpretation?",
+      "observation": "Separate what the image shows from what the record reports. Which details of paint and gilding can you verify?",
+      "analysis": "How do structure, ornament and material together define the object's identity as an early violin?",
+      "line": "How do continuous curves and rigid straight elements express two kinds of order within one object?",
+      "shape": "How does the violin form reflect centuries of experiment, and how can later success obscure earlier uncertainty?",
+      "color": "How might applied color and gilding have signaled prestige, and how might loss or restoration alter our reading?",
+      "texture": "How do varnish, wear and repair complicate any judgment about the original surface?",
+      "space": "How does a museum display, which usually silences the instrument, shape our idea of what a violin is?",
+      "light": "How does photography translate a glossy, curved object, and what might it hide?",
+      "meaning": "How might the violin's early identity as a court or dance instrument differ from its later concert image?",
+      "culture": "How does the later fame of Cremona influence how we value earlier makers like Amati?",
+      "technique": "What does the history of the violin suggest about how craft traditions develop through refinement rather than single inventions?",
+      "personal": "How does your own relationship to music shape what you look for in a historical instrument?",
+      "critical": "What does the discrepancy between this record's classification and the object's apparent identity suggest about museum data, and how should researchers handle it?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, maker, medium (spruce, maple, ebony, paint, gilding), culture, and tags (none listed) checked against the museum record; no figural or sensitive subject is listed, though the image should be confirmed in case painted decoration includes figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A violin by Andrea Amati of Cremona, dated about 1560, with paint and gilding listed among its materials. The Met's classification field for this record reads plucked lute, which looks like a data error; the violin is bowed. Check the Met's own page for current details.",
+    "vocabulary": ["violin", "scroll", "f-hole", "gilding", "Cremona", "workshop tradition"],
+    "directions": [
+      "Compare the violin with a guitar: how are the body, neck and strings different?",
+      "Discuss why designs can last for centuries.",
+      "Look at how the f-holes and scroll repeat curves found in the body."
+    ]
+  }
+}

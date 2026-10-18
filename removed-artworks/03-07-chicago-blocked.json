@@ -1,0 +1,158 @@
+{
+  "id": "artic-111062",
+  "day": "03-07",
+  "title": "Te raau rahi (The Big Tree)",
+  "artist": "Paul Gauguin",
+  "date": "1891",
+  "medium": "Oil on jute canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/916405d1-1407-d90e-1be8-f8c77f26f546/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Kate L. Brewster",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A landscape painting of a thick-trunked tree and other tropical trees, with a few small buildings, a person cracking a coconut, a resting family and a dog in the foreground. The canvas has a coarse, visible woven texture.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/111062",
+    "objectId": "111062",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist (French, 1848-1903), date, medium (oil on jute canvas), dimensions (72.5 x 91.5 cm), credit line, style (Post-Impressionism), subject terms (landscapes, animals, building, bushes, clouds, dog, figures, foliage, man, roof, sky, trees, woman, woman with children), short description, description, is_public_domain true and image_id read from the record. Place of origin in the record is listed as France."
+  },
+  "context": "Paul Gauguin painted this landscape in 1891, during his first months in Tahiti. The Art Institute notes that he was overwhelmed by the landscape and describes fruit trees including a thick-trunked violet hotu, mango, coconut and banana plants. The museum also points out that the visible weave of the jute canvas gives the surface a rough, natural texture.",
+  "descriptions": {
+    "k": "Look at this big tree! Its trunk is thick. Other trees and leaves fill the picture. A man cracks open a coconut. A family rests with a dog. What colors do you see in the tree?",
+    "g12": "This painting shows trees in Tahiti, an island far from France. The biggest tree has a thick trunk. In front, a man opens a coconut and a family rests with a dog. The painter used bold colors, and you can see the rough cloth under the paint. Which tree do you like best?",
+    "g35": "Paul Gauguin painted this in 1891, soon after he moved to the island of Tahiti. The museum says the landscape overwhelmed him. Look for the thick trunk of the violet hotu tree, plus mango, coconut, and banana plants. In front, a man cracks a coconut while a family rests with a dog. The canvas is jute, and you can see its rough weave. How do the colors make you feel like you are there?",
+    "g68": "Gauguin painted this Tahitian scene in 1891 during his first months on the island. The Art Institute notes his overwhelmed response to the landscape and lists trees such as a thick-trunked violet hotu, mango, coconut, and banana. Figures in the foreground, a coconut cracker and a resting family, give a sense of daily life. He painted on jute, whose weave is visible. How do bold color and flattened forms shape what you see, and whose view of the island is this?",
+    "g910": "Painted in 1891, soon after Gauguin arrived in Tahiti, this canvas features a massive trunk, tropical foliage, and small figures at rest. The Art Institute emphasizes how overwhelmed he was by the landscape. Bold color and simplified shapes are typical of Post-Impressionism, and the coarse jute weave shows through the paint. As you look, consider whose perspective shapes this depiction of Tahiti and how the artist's position as a European visitor might affect it.",
+    "g1112": "Te raau rahi comes from the earliest phase of Gauguin's time in Tahiti, when the Art Institute notes he was overwhelmed by the landscape. Its dense foliage, simplified forms, and rough jute weave reflect a move from naturalistic description toward expressive color. Scholars have debated how Gauguin's Tahitian work reflects, romanticizes, or distorts a place he entered as a French outsider during colonial rule. How can you balance appreciation of the painting's formal achievement with those critical questions?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Find the big tree with the thick trunk. What colors do you see in it?",
+      "emotion": "Does this place feel hot and sleepy, or cool and busy? What tells you?",
+      "observation": "Find a person, a dog, and a coconut. Where are they?",
+      "analysis": "Which is bigger, the tree or the people? What does that tell you?",
+      "line": "Follow a curvy line with your finger. What is it part of?",
+      "shape": "Look at the shapes of the leaves and the trunk. Which are big and round, and which are long?",
+      "color": "Which color do you see the most? Point to where it shows up in different places.",
+      "texture": "The cloth under the paint is rough. What do you think it feels like?",
+      "space": "Who is in front, and what is far behind? How do you know?",
+      "light": "Find a place that looks bright and a place that looks shady.",
+      "meaning": "A man cracks a coconut. What do you think he will do next?",
+      "culture": "This island is far from where the painter lived. What do you see that looks very different from your town?",
+      "technique": "The painter used thick, flat colors. Pretend you are painting a tree. How would you move your brush?",
+      "personal": "What tree or plant do you love most? Tell a partner why.",
+      "critical": "If you could step into this painting, where would you go first?"
+    },
+    "g12": {
+      "daily": "Look at the thick tree trunk and the leaves around it. What do you notice about their colors and shapes?",
+      "emotion": "How does this warm island make you feel? Point to something that gives you that feeling.",
+      "observation": "Name the plants, people, and animals you can find in this painting.",
+      "analysis": "How does the painter make the big tree the most important thing in the picture?",
+      "line": "Find a line that goes up and down and a line that curves. Where do you see each?",
+      "shape": "How are the shapes of the trunk and the leaves different?",
+      "color": "The painter used purple, orange, and green. How do these colors make the island look special?",
+      "texture": "You can see the rough weave of the cloth through the paint. How does that change how the picture feels?",
+      "space": "Why do the family and the dog look small next to the tree?",
+      "light": "Where do you see bright sunlight, and where do you see shade? How does the painter show it?",
+      "meaning": "What do you think the family is talking about while they rest by the trees?",
+      "culture": "The painter traveled to Tahiti from France. What do you think was new and exciting to him?",
+      "technique": "The painter painted on rough cloth called jute. How might that be different from paper?",
+      "personal": "What would you do if you lived near a big tree like this one?",
+      "critical": "Why might an artist paint plants and trees from a place that is new to him?"
+    },
+    "g35": {
+      "daily": "Which parts of this painting do your eyes visit first, and what choices by Gauguin lead them there?",
+      "emotion": "What mood do the colors and the shady trees create? Use details to explain.",
+      "observation": "Look slowly across the whole canvas. What small detail do you notice late, in the bottom or the corners?",
+      "analysis": "How does Gauguin arrange the trunk, the buildings, and the people so the picture feels balanced?",
+      "line": "How do the shapes of branches, leaves, and the trunk create direction and movement in the painting?",
+      "shape": "How do the rounded, flat shapes of the leaves and trunk differ from realistic, detailed trees?",
+      "color": "The colors in the trunk are not what you might expect. How does that choice change the mood?",
+      "texture": "How does the rough jute weave showing through make the painting feel different from a smooth canvas?",
+      "space": "How does Gauguin show the difference between the foreground and the background without very deep perspective?",
+      "light": "How does the painter suggest sunlight and shade among the trees?",
+      "meaning": "A man cracks a coconut and a family rests. What might their day be like?",
+      "culture": "Gauguin had just arrived in Tahiti when he painted this. What do you think it was like for him to see this landscape for the first time?",
+      "technique": "Why might an artist choose rough jute to paint on? What does it add?",
+      "personal": "Think of a plant or tree you know well. How would you paint it using bold colors?",
+      "critical": "Gauguin was a visitor to Tahiti, not a local. How might that affect how he painted it?"
+    },
+    "g68": {
+      "daily": "How do the scale of the great trunk and the small figures shape your sense of the importance of nature in this scene?",
+      "emotion": "How do the warm, rich colors and shady setting create an atmosphere of calm or abundance?",
+      "observation": "What can you actually see in the foreground, and what do you assume about the people's lives? Separate evidence from guess.",
+      "analysis": "How does Gauguin organize the dense foliage, trunk, and buildings to guide the viewer from foreground to background?",
+      "line": "How do the curving outlines of trunks and branches give rhythm to the composition?",
+      "shape": "How does Gauguin simplify forms such as leaves and trunks, and how does that differ from realistic painting?",
+      "color": "How does unnatural color, such as a violet trunk, convey feeling rather than literal appearance?",
+      "texture": "How does the visible jute weave affect the surface of the painting and how you read the paint?",
+      "space": "How does Gauguin flatten space while still suggesting that some elements are nearer than others?",
+      "light": "How does the contrast between light patches and shaded areas set the mood of the grove?",
+      "meaning": "What daily activities does the painting suggest, and what might be left out of this portrayal of Tahiti?",
+      "culture": "Gauguin was a Frenchman in a place under French colonial control. How might this have shaped the way he saw and painted the island?",
+      "technique": "Why might Gauguin have been drawn to coarse canvas and bold, simplified color rather than refined detail?",
+      "personal": "How does your own experience of a new place influence how you notice its plants and people?",
+      "critical": "How would you evaluate whether this painting shows Tahiti as it was or as one visitor imagined it?"
+    },
+    "g910": {
+      "daily": "How do Gauguin's choices about color, scale, and viewpoint shape your first impression of this Tahitian landscape?",
+      "emotion": "How do the saturated colors and enclosed, leafy space create a mood that is more felt than observed?",
+      "observation": "Analyze the visual hierarchy: how does the monumental trunk dominate, and how do the small figures relate to it?",
+      "analysis": "How do the diagonal and vertical elements of trunk, branches, and rooftops structure the composition?",
+      "line": "How do bold contours and curving lines emphasize pattern over naturalistic depiction?",
+      "shape": "How does the simplification of leaf and trunk forms reflect the shift toward Post-Impressionist expression?",
+      "color": "In what ways does non-naturalistic color function symbolically or emotionally rather than descriptively?",
+      "texture": "What does the visible weave of the jute add to the painting's rough, direct character?",
+      "space": "How does Gauguin compress space so that foreground and background seem to rise together on the picture plane?",
+      "light": "How does filtered light under the canopy create variation in color without dramatic shadow?",
+      "meaning": "What might the juxtaposition of a monumental tree and small domestic figures suggest, and what interpretations remain uncertain?",
+      "culture": "How does the work reflect the context of a French artist working in colonial Tahiti, and what questions does that raise about perspective?",
+      "technique": "How does the choice of coarse jute canvas relate to Gauguin's interest in rawness and departure from academic finish?",
+      "personal": "How does your reaction to an outsider's depiction of a place compare with how you would want your own community portrayed?",
+      "critical": "To what extent can this painting be both a formal achievement and an example of the colonial gaze? Cite visual evidence."
+    },
+    "g1112": {
+      "daily": "What argument does the painting make about nature and human presence, and how does formal evidence support it?",
+      "emotion": "How do the dense, enclosed foliage and the heightened palette make the mood hard to reduce to a single label?",
+      "observation": "Describe the painting precisely, then separate observation from the stories we tend to attach to Tahiti.",
+      "analysis": "Analyze how the monumental trunk anchors the composition and how the smaller scenes of rest and labor relate to it.",
+      "line": "How does the emphasis on flowing contour and patterned surface reflect Gauguin's departure from Impressionist method?",
+      "shape": "How does simplification and flattening of form function as expression rather than as lack of skill?",
+      "color": "Consider how color operates here as an autonomous expressive system rather than a record of observed light.",
+      "texture": "How does the exposed weave of the jute become part of the picture's meaning, and how does it complicate a smooth illusion?",
+      "space": "How does Gauguin's compressed spatial structure anticipate later modernist approaches to the picture plane?",
+      "light": "How do filtered light and absence of cast shadows contribute to a sense of timelessness?",
+      "meaning": "Evaluate readings of the painting as an idealized paradise, as a document of daily life, or as a European fantasy, and weigh each against the evidence.",
+      "culture": "How should viewers consider Gauguin's position within French colonial power when assessing his Tahitian work?",
+      "technique": "How does Gauguin's choice of material reflect broader artistic attitudes toward the primitive, the authentic, and the modern?",
+      "personal": "How do your own assumptions about distant places influence what you expect to see in this canvas?",
+      "critical": "What sources beyond the image would help you judge how accurately and ethically this scene represents the people and place?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, subject terms (landscapes, animals, building, bushes, clouds, dog, figures, foliage, man, roof, sky, trees, woman, woman with children), classification and medium checked against the Art Institute of Chicago record; none of the terms are concerning. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted in 1891, soon after Gauguin arrived in Tahiti. The Art Institute notes the fruit trees and the figures in the foreground, and the jute canvas with its visible weave. Handle the context of French colonial Tahiti with care.",
+    "vocabulary": [
+      "Post-Impressionism",
+      "jute",
+      "foliage",
+      "foreground",
+      "colonialism",
+      "expressive color"
+    ],
+    "directions": [
+      "Have students paint a favorite tree using non-natural colors chosen for mood, then explain their choices.",
+      "Discuss how a visitor and a resident might paint the same place differently, and what each might include or leave out.",
+      "Ask students to identify the plants named in the museum record and research where each grows."
+    ]
+  }
+}

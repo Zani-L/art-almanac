@@ -1,0 +1,152 @@
+{
+  "id": "met-39919",
+  "day": "01-08",
+  "title": "Poem Written in a Boat on the Wu River",
+  "artist": "Mi Fu",
+  "date": "ca. 1095",
+  "medium": "Handscroll; ink on paper",
+  "movement": "Northern Song dynasty calligraphy",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP118649_CRD.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP118649_CRD.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of John M. Crawford Jr., in honor of Professor Wen Fong, 1984",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A section of a handscroll showing Chinese writing in black ink on pale paper. The brush strokes vary from thick and dark to thin and light, and the characters are arranged in vertical lines.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/39919",
+    "objectId": "39919",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, classification (Calligraphy), period (Northern Song dynasty), culture, public-domain flag, credit line and image URLs read from the record"
+  },
+  "context": "A handscroll of calligraphy by Mi Fu, a scholar and calligrapher of the Northern Song dynasty, which the Met dates to about 1095. As its title says, it is a poem written in a boat on the Wu River. In China, fine handwriting has long been admired as a major art form.",
+  "descriptions": {
+    "k": "This is a poem written with a brush and black ink. The writing goes in lines down the paper. Some marks are thick and some are thin. Can you see where the brush pressed hard? Move your finger in the air like the brush.",
+    "g12": "Mi Fu made this scroll more than 900 years ago in China. It is a poem, but it is also a picture of brush movement. Look at the black ink on light paper. Some marks are bold and some are light. Some characters are big and some are small. Does the writing look quick, slow, or like dancing?",
+    "g35": "Mi Fu was a Chinese scholar and calligrapher who lived during the Northern Song dynasty. This handscroll holds a poem written with a brush and ink, and its title says he wrote it in a boat on the Wu River. Chinese characters are written in vertical lines. Look closely at how the ink changes from dark and heavy to light and thin. How does the writing show movement and energy?",
+    "g68": "In China, calligraphy has long been ranked beside painting as a major art, and Mi Fu (1051 to 1107) is remembered as one of the most admired calligraphers of the Northern Song dynasty. You do not need to read Chinese to notice rhythm here: thick and thin strokes, tight and open spacing, characters that lean and sway. The title says the poem was written in a boat. What might the brush movement suggest about the writer's mood or the moment?",
+    "g910": "This handscroll shows why calligraphy was valued in Chinese culture as a visible trace of a person's training and character. Mi Fu, a Northern Song scholar, is often praised for lively, confident brushwork, and the Met dates this poem to about 1095. Study how stroke weight, ink tone, character size, and spacing create rhythm along the scroll. How do these formal choices communicate energy, and why might later collectors have treasured handwriting like this?",
+    "g1112": "Calligraphy invites viewers who cannot read the text to see writing as gesture, structure, and rhythm, while readers of Chinese also meet the poem's words. Mi Fu's reputation rests on his study of earlier masters and on a personal, spirited style. The idea that handwriting reveals character is itself a cultural convention, not a proven fact. Consider how a handscroll is viewed gradually, section by section, and how that slow pace shapes your reading of the brushwork."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at this long scroll of writing. Which mark looks thickest, and which looks thinnest?",
+      "emotion": "Does this writing feel fast and busy, or slow and calm? Show with your hands how it feels.",
+      "observation": "Count how many lines of writing you can find in the picture. Point to where one line ends.",
+      "analysis": "Which black marks look biggest on this scroll? Where do your eyes stop first?",
+      "line": "Trace one long brush line from this poem with your finger. Does it curve, bend, or go straight?",
+      "shape": "Find one writing mark with a hook or a curve. Draw its shape in the air.",
+      "color": "This poem uses black ink on light paper. How does that help you see the marks?",
+      "texture": "Look for ink that looks darker and ink that looks lighter. What is different about them?",
+      "space": "Where is there empty paper around the writing? Where do the marks sit close together?",
+      "light": "Where does the dark ink stand out the most against the light paper?",
+      "meaning": "The title says this poem was written in a boat. What might the writer see and hear on the river?",
+      "culture": "Long ago in China, people loved beautiful handwriting as much as pictures. Why might someone keep a scroll like this?",
+      "technique": "The writer used a soft brush, not a pencil. How could a brush make both thick and thin marks?",
+      "personal": "Write your name slowly, then write it fast. How do the two look different?",
+      "critical": "You can enjoy this writing without reading it. What can you learn just by looking?"
+    },
+    "g12": {
+      "daily": "Pick one spot on this scroll where the brush seems to move fastest. What do you see that tells you?",
+      "emotion": "If this handwriting were a feeling, what would it be? Point to marks that help you decide.",
+      "observation": "Describe five different kinds of marks you can find in the writing, from thick to thin.",
+      "analysis": "Why do some characters look larger than the ones near them? How does that change the way you look along the scroll?",
+      "line": "Find a long, flowing stroke and a short, quick one. How are they different?",
+      "shape": "Some characters lean and some stand up straight. Which ones seem to move, and which seem steady?",
+      "color": "Only black ink and pale paper are used here. How can one color still look rich and varied?",
+      "texture": "Look for places where the ink looks heavy and wet and places where it looks light. What do you notice?",
+      "space": "How much empty paper is left between lines of writing? What does the space do for the poem?",
+      "light": "Which parts of the writing look darkest? How do they make the paper around them seem brighter?",
+      "meaning": "A poem can tell about a trip, a feeling, or a view. What kind of poem do you think a person writes on a river boat?",
+      "culture": "Chinese writing is made with a brush, and the same tools were used for painting. Why might writing and painting be thought of as close relatives?",
+      "technique": "Mi Fu held a brush full of ink. Where in the scroll can you tell he pressed down, and where he lifted?",
+      "personal": "Have you ever written something quickly because you were excited? How might that look on paper?",
+      "critical": "Is it fair to call handwriting art? Tell your reasons using what you see on this scroll."
+    },
+    "g35": {
+      "daily": "Choose one section of this scroll and describe how the brush strokes change from the start of a line to its end.",
+      "emotion": "Some people say they can feel a writer's energy in calligraphy. What mood do you feel in Mi Fu's brushwork, and which strokes create it?",
+      "observation": "Spend a minute studying one column of characters. What details about ink, size, and spacing did you not notice at first?",
+      "analysis": "How does Mi Fu keep the eye moving along the scroll even though it shows only black ink on paper?",
+      "line": "Compare thick, heavy strokes with thin, hairlike ones in this poem. How do they work together to make rhythm?",
+      "shape": "Notice the overall shape of each character and of each column. Which shapes feel balanced, and which feel surprising?",
+      "color": "Ink can be dark black or soft gray depending on how much water is on the brush. Where do you see different tones in this poem?",
+      "texture": "How does the brush leave traces of its movement, such as thin edges or lighter streaks, within the strokes?",
+      "space": "Where did Mi Fu leave gaps and where did he fill space tightly? How do these choices affect the feeling of the scroll?",
+      "light": "Calligraphy has no shadows, yet some strokes look heavy and others airy. How does the contrast between ink and paper create that effect?",
+      "meaning": "Its title says the poem was written on a boat on the Wu River. How could the place and the movement of a boat influence what we imagine?",
+      "culture": "In Song dynasty China, educated people practiced writing as a serious art. What does a handscroll of poetry suggest about what they valued?",
+      "technique": "A handscroll is unrolled a little at a time and read right to left. How does that way of viewing affect how you experience the writing?",
+      "personal": "Think of your own handwriting. What does it say about you, and what do you notice about Mi Fu's by comparison?",
+      "critical": "If you cannot read a language, how much can you still understand about a piece of writing? What does this scroll let you judge, and what does it hide?"
+    },
+    "g68": {
+      "daily": "What does Mi Fu's handwriting show that a plain printed copy of the same poem could not?",
+      "emotion": "How do the changes in stroke speed and pressure in this scroll create a feeling of energy, calm, or surprise? Point to specific places.",
+      "observation": "Scan the scroll slowly from one end of the visible section to the other. Which brush movements repeat, and which stand out as different?",
+      "analysis": "How do size, spacing, and ink tone give the poem a rhythm, much as music uses loud and soft, long and short?",
+      "line": "In running script, strokes often connect and flow into one another. Where do you see lines that seem to link characters or carry momentum?",
+      "shape": "Compare the overall shapes of characters that lean, stretch, or sit wide. How does this variety keep a long poem from feeling mechanical?",
+      "color": "With only one ink, how does Mi Fu build contrast between wet, dark strokes and drier, paler ones?",
+      "texture": "Where can you detect the hairs of the brush in the stroke edges or in streaks of dry ink? What does that tell you about speed and pressure?",
+      "space": "Chinese calligraphers think carefully about the empty areas between and around characters. How does Mi Fu use blank paper in this scroll?",
+      "light": "Although this is only ink on paper, some strokes seem to glow forward while others recede. What creates that illusion of depth and weight?",
+      "meaning": "A poem written in a boat may be about travel, friendship, or scenery. How might the visual character of the handwriting support or complicate such guesses?",
+      "culture": "Calligraphy was practiced by scholar-officials and later collected and admired by connoisseurs. What does this tell you about how Chinese society valued handwriting?",
+      "technique": "Calligraphers cannot easily erase ink on paper, so each stroke is final. How might that shape the confidence and risk visible in Mi Fu's brushwork?",
+      "personal": "What would your handwriting reveal about you if someone studied it as an art form? What would you want it to show?",
+      "critical": "Does knowing the title and the maker's reputation change how you look at the writing? Give an example of how context steers your response."
+    },
+    "g910": {
+      "daily": "Which single passage on this scroll best shows Mi Fu's approach to brushwork, and what formal evidence supports your choice?",
+      "emotion": "How does the variation in ink density and stroke speed create an emotional atmosphere without any imagery?",
+      "observation": "Describe the visual hierarchy of the scroll. Which characters or strokes attract attention first, and what devices of size, darkness, or isolation cause that?",
+      "analysis": "Analyze how Mi Fu balances regularity and surprise across columns. Where does the rhythm hold steady and where does it break?",
+      "line": "How does the interplay of heavy, pressed strokes and thin, lifted ones give each character structure and momentum?",
+      "shape": "How do the characters' varying widths, tilts, and internal proportions create an overall pattern across the scroll's surface?",
+      "color": "With monochrome ink as the only color, how are gradations of wetness and dryness used to model emphasis?",
+      "texture": "How does the visible trace of the brush and paper surface convey physical action and give the scroll a sense of presence?",
+      "space": "Examine the negative space between characters and columns. How does it function as part of the composition rather than as leftover background?",
+      "light": "How does the contrast between inked and blank areas produce a play of weight and lightness that substitutes for light and shadow?",
+      "meaning": "A poem composed on a river journey could be about travel, nature, or companionship. How does the visual character of the writing contribute to meaning independent of the words?",
+      "culture": "Why did Northern Song scholar-officials treat calligraphy as an expression of personal cultivation, and how might that explain the survival of a scroll like this?",
+      "technique": "How do the demands of brush, ink, and absorbent paper limit revision and make calligraphy a record of a performance?",
+      "personal": "When you write by hand, how conscious are you of the shapes you make? How might Mi Fu's attention to form change how you think about writing?",
+      "critical": "What are the risks of judging calligraphy by its look alone when most viewers cannot read it? How might readers of Chinese see the work differently?"
+    },
+    "g1112": {
+      "daily": "What claims about Mi Fu's style can be supported by visible evidence in this scroll, and which depend on outside knowledge?",
+      "emotion": "How does the visible energy of the handwriting complicate the idea that it expresses a single mood? What does the viewer add?",
+      "observation": "Describe the scroll's brushwork as precisely as you can. At what point does careful description begin to imply an interpretation?",
+      "analysis": "Analyze how variation in scale, tilt, and pressure produces a rhythm that unifies the scroll while resisting uniformity.",
+      "line": "How does the continuous, sometimes linked movement of the brush in running script blur the boundary between drawing and writing?",
+      "shape": "How do the proportions of individual characters negotiate between legibility and expressive distortion?",
+      "color": "In a monochrome medium, how does the modulation of ink tone substitute for color, and what might fading or aging mean for what we see today?",
+      "texture": "How does the evidence of paper absorbency and brush hair shape our sense of the scroll as the record of an actual bodily act?",
+      "space": "How does the handscroll format and its spacing of columns determine a viewer's temporal experience of the poem?",
+      "light": "How does the tension between inked and blank paper create a sense of visual weight that works much like light and shadow in other traditions?",
+      "meaning": "How do viewers weigh the poem's words, the title's mention of a boat, and the handwriting's style when constructing meaning? Which sources of meaning are most reliable?",
+      "culture": "How does the elevation of calligraphy in Song-era literati culture shape what counts as artistic value, and how does that compare with ideas in other traditions?",
+      "technique": "What does the tension between improvisation and years of disciplined training suggest about the nature of skill in calligraphy?",
+      "personal": "How does your own relationship to written language, including whether you read Chinese, shape how you approach this scroll as an object of looking?",
+      "critical": "Is the claim that handwriting reveals character persuasive, or is it a cultural convention? What would count as evidence either way?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Calligraphy), medium, period and the absence of any tags in the Met record were checked; the work is a handwritten poem. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Mi Fu (1051 to 1107) is counted among the great calligraphers of the Northern Song dynasty. Students do not need to read Chinese to discuss the brushwork; treat the poem as writing to be looked at.",
+    "vocabulary": ["calligraphy", "handscroll", "running script", "brushwork", "ink tone", "Northern Song dynasty"],
+    "directions": [
+      "Have students write one line of any text with a brush pen, once slowly and once quickly, and compare.",
+      "Ask students to describe the scroll's rhythm as if it were music, using words such as loud, soft, and fast.",
+      "Discuss why a society might value handwriting as an art form, and compare with how we use writing today."
+    ]
+  }
+}

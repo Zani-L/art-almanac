@@ -1,0 +1,159 @@
+{
+  "id": "cma-143278",
+  "day": "10-03",
+  "title": "Composition with Red, Yellow, and Blue",
+  "artist": "Piet Mondrian",
+  "date": "1927",
+  "medium": "oil on canvas",
+  "movement": "De Stijl",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
+    "credit": "The Cleveland Museum of Art, Contemporary Collection of The Cleveland Museum of Art",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A square abstract painting made of straight black horizontal and vertical lines that divide the canvas into rectangles. Most rectangles are white, and a few are filled with red, yellow, and blue.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1967.215",
+    "objectId": "143278",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, artist, date, technique, culture, credit line, measurements, CC0 license status, description and web/print image URLs read from the record"
+  },
+  "context": "Piet Mondrian, a Dutch artist, painted this square canvas in 1927. The Cleveland Museum of Art explains that it uses only horizontal and vertical lines, the primary colors, black, and white, and notes that the thin gray strip around the edge is Mondrian's original frame.",
+  "descriptions": {
+    "k": "Black lines cross the square. They make boxes. Most boxes are white. A few are red, yellow, or blue. Can you find the biggest box? Which color box do you like best?",
+    "g12": "Piet Mondrian painted this picture using only straight lines. Black lines go up and down and side to side, making boxes. Most boxes are white, and a few are red, yellow, or blue. Why do you think he left so much white? Which box catches your eye first?",
+    "g35": "Piet Mondrian, a Dutch painter, made this square painting in 1927 using only horizontal and vertical lines, the three primary colors, black, and white. There are no people, trees, or objects, just rectangles. Find the places where the colors sit and where the lines are thick or thin. How does Mondrian make a picture with so few parts feel balanced?",
+    "g68": "In 1927 Mondrian reduced painting to a grid of black horizontal and vertical lines with rectangles of red, yellow, blue, and white. The Cleveland Museum explains that he used only these elements and believed such abstract work could help build a more harmonious society after World War I. Notice how sizes, positions, and colors are weighed against one another rather than arranged symmetrically, so the balance has to be felt by the eye.",
+    "g910": "Composition with Red, Yellow, and Blue is a mature example of Mondrian's abstract grid: only horizontal and vertical lines, primary colors, black, and white. The museum notes that he believed this kind of abstraction could support a more harmonious society after World War I. Instead of symmetry, he balances unequal rectangles and colors, which makes the painting a study in tension and equilibrium. The thin gray strip at the edge is his original frame, a reminder that even the boundary was considered part of the work.",
+    "g1112": "Mondrian's 1927 canvas belongs to the De Stijl-related phase in which he limited painting to orthogonal black lines, primary colors, and white. The Cleveland Museum records his belief that such abstraction could contribute to social harmony after World War I, a hope that scholars and viewers continue to debate. Rather than depicting the world, the painting proposes a visual order based on asymmetrical balance. Its austerity can be read as utopian, rational, or spiritual, and the original frame invites attention to the painting as an object as well as an image."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which colored box would you jump into first? Why that one?",
+      "emotion": "Do the straight lines and bright boxes feel calm or busy to you? Tell why.",
+      "observation": "Count the colored boxes you can find. Which colors are they?",
+      "analysis": "Where do your eyes go first, to a color or to a line? Why?",
+      "line": "Trace one black line with your finger. Does it go up and down or side to side?",
+      "shape": "Which box is the biggest? Which is the smallest?",
+      "color": "Red, yellow, and blue are very bright. Where do you see the most white next to them?",
+      "texture": "The painting is smooth and flat. How would it feel if you touched it?",
+      "space": "Does this picture show a room, a field, or neither? What makes you say so?",
+      "light": "White is the lightest part. Where are the biggest white places?",
+      "meaning": "If this were a map of a tiny town, what would the colored boxes be?",
+      "culture": "The painter lived in the Netherlands. Look at a window or a floor near you. What lines and boxes do you see?",
+      "technique": "The black lines are straight and sharp. How do you think the painter kept them so straight?",
+      "personal": "If you could add one more colored box, what color and where would it go?",
+      "critical": "There is no tree or person in this picture. Is it still a good picture? Why?"
+    },
+    "g12": {
+      "daily": "Which part of this painting feels most important to you, a color box, a thick line, or a big white space? Why?",
+      "emotion": "Does this painting make you feel calm, excited, or something else? Point to what causes it.",
+      "observation": "Tell about three things you see: the lines, the colors, and the white boxes.",
+      "analysis": "How does Mondrian make the colored boxes balance the white ones without making both sides match?",
+      "line": "Compare the thick black lines and the thin ones. How does each change the picture?",
+      "shape": "Mondrian used rectangles of different sizes. How does that make the painting interesting?",
+      "color": "Why do you think red, yellow, and blue stand out so much against white and black?",
+      "texture": "The paint looks flat and neat. What clues show how the artist wanted it to look?",
+      "space": "Is the space in this painting deep or flat? What shows you?",
+      "light": "White is bright and black is dark. How do they work together in this picture?",
+      "meaning": "Mondrian hoped simple shapes could help people live peacefully together. How could shapes do that?",
+      "culture": "Mondrian was Dutch and painted in 1927. Many city buildings then used straight lines. How could that connect to his painting?",
+      "technique": "Mondrian used only straight lines and three colors plus black and white. Why might limits help an artist?",
+      "personal": "Make a rule for your own painting, like only straight lines. What would you create?",
+      "critical": "Some people say this is art. Others say anyone could make it. What do you think, and what evidence would you give?"
+    },
+    "g35": {
+      "daily": "How does Mondrian create a feeling of balance when the rectangles are all different sizes? Point to examples.",
+      "emotion": "What mood does a grid of straight lines and bold color give the painting?",
+      "observation": "Take a minute to scan the painting. Which line or box did you notice last?",
+      "analysis": "How do the positions of the red, yellow, and blue rectangles lead your eyes around the canvas?",
+      "line": "How do thicker and thinner black lines change the way the rectangles feel?",
+      "shape": "All of the shapes are rectangles. How does Mondrian still make them different and interesting?",
+      "color": "Why might Mondrian use only primary colors with black and white? What happens to each color next to white?",
+      "texture": "The surface is meant to look smooth and flat. How does that choice support the painting's calm, simple look?",
+      "space": "Without objects or perspective, how does Mondrian make the canvas feel like a space?",
+      "light": "How do the white rectangles act like light compared with the black lines and colored areas?",
+      "meaning": "The museum says Mondrian believed abstract work could help create a more harmonious society. How might straight lines and balance connect to that idea?",
+      "culture": "Mondrian was Dutch and worked in Europe after World War I. Why might artists of that time want new, simple ideas?",
+      "technique": "The thin gray strip around the edge is Mondrian's original frame. Why might the frame matter to the artist?",
+      "personal": "Think of a place that feels organized to you. How is it like or unlike this painting?",
+      "critical": "Is a painting with no recognizable objects still telling us something? Use evidence from this painting."
+    },
+    "g68": {
+      "daily": "How does Mondrian create a picture that is balanced but not symmetrical? Use specific parts of the painting.",
+      "emotion": "How can a grid of lines and flat color produce an emotional response? Which choices create it for you?",
+      "observation": "Describe the painting from left to right. Which rectangles and lines seem most carefully placed?",
+      "analysis": "How do the sizes and positions of the colored rectangles create a visual hierarchy?",
+      "line": "How does the variation in thickness of the black lines influence where your eye rests?",
+      "shape": "How does Mondrian use unequal rectangles to create tension and balance at the same time?",
+      "color": "Why might the three primary colors be placed in small amounts against a lot of white? What happens if you imagine more color?",
+      "texture": "The surface is smooth and flat. How does limited texture keep attention on line and color?",
+      "space": "How does the painting suggest space without perspective, shading, or objects?",
+      "light": "How does the large amount of white give the painting an airy or bright quality?",
+      "meaning": "The museum notes that Mondrian thought abstraction could support harmony after World War I. How does the painting express order and balance?",
+      "culture": "Mondrian's Dutch background and early twentieth-century Europe shaped his ideas. Why might clear, simple forms appeal then?",
+      "technique": "What does the original gray frame tell us about how Mondrian thought of the painting as an object?",
+      "personal": "Which decisions in this painting could you imagine making yourself? Which seem difficult?",
+      "critical": "Does abstract art like this ask more of the viewer than realistic art? Give your reasoning."
+    },
+    "g910": {
+      "daily": "How does Mondrian achieve equilibrium with unequal elements, and why might that matter more than depicting something recognizable?",
+      "emotion": "How do restraint and precision create an emotional tone, such as calm, tension, or austerity?",
+      "observation": "Describe the visual hierarchy of lines, colors, and white areas, and the devices that produce it.",
+      "analysis": "Analyze how asymmetrical placement of colored rectangles organizes movement across the canvas.",
+      "line": "How do the black lines function as both dividers and structure, and how does varying their thickness affect balance?",
+      "shape": "How does the interplay between large white rectangles and small colored ones create rhythm?",
+      "color": "How does the limited palette of primary colors, black, and white focus attention on relationships rather than description?",
+      "texture": "How does the relatively smooth surface reinforce the idea that this is a constructed order rather than a record of nature?",
+      "space": "How does the painting create a sense of space that is neither illusionistic nor purely flat?",
+      "light": "How do white areas serve as light and as space, and how do black lines counter them?",
+      "meaning": "The museum notes Mondrian's belief in abstraction as a path toward social harmony. How convincing is that idea in the painting itself?",
+      "culture": "How does a painting like this reflect broader European interest in order, geometry, and modern design after World War I?",
+      "technique": "What does the careful handling of line and edge suggest about the discipline and decisions behind the painting?",
+      "personal": "How does your own sense of order and clutter affect how you respond to the painting?",
+      "critical": "Can purely abstract art carry social or moral ideas? Use evidence from Mondrian's painting to argue your view."
+    },
+    "g1112": {
+      "daily": "What does Composition with Red, Yellow, and Blue propose about the possibility of visual order, and how far does the painting support that claim?",
+      "emotion": "How does the painting's austerity support multiple affective readings, such as serenity, tension, or detachment?",
+      "observation": "Describe the painting's structure precisely. Where does description become interpretation?",
+      "analysis": "Analyze how asymmetry, scale, and weight of color produce dynamic equilibrium in a rigidly orthogonal system.",
+      "line": "How does the thickness and placement of black lines negotiate between boundary and structure in a way that avoids static symmetry?",
+      "shape": "How does the relationship among large neutral areas and small chromatic ones create a hierarchy without representation?",
+      "color": "How does limiting color to primaries plus black and white shift attention from description to relationship, and what is lost in that shift?",
+      "texture": "How does the handling of the surface relate to ideas of purity, and where might that idea be challenged by the material reality of oil paint?",
+      "space": "How does the painting's space operate between flat surface and implied extension beyond its edges, and what role does the original frame play?",
+      "light": "In what ways do white and black operate as both color and light, and what does that imply for abstract painting?",
+      "meaning": "The museum records Mondrian's belief that abstraction could support social harmony. Evaluate that claim against competing readings, such as spiritual, rational, or utopian.",
+      "culture": "How does the painting participate in the interwar European search for new visual languages, and what are the limits of reading it only as a product of that moment?",
+      "technique": "What does the existence of an original frame suggest about the painting as an object, and how does that affect how we judge its surface and edges?",
+      "personal": "How do your own assumptions about what art should show influence your judgment of this painting, and how might that shift?",
+      "critical": "How should we weigh an artist's stated utopian aims against the experience of the painting itself?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, type (painting), technique (oil on canvas) and the museum's description (abstract grid of horizontal and vertical lines in primary colors, black, and white) checked against the Cleveland Museum of Art record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1927 by Piet Mondrian. The Cleveland Museum notes that the thin gray strip around the edge is the artist's original frame.",
+    "vocabulary": [
+      "abstraction",
+      "grid",
+      "primary colors",
+      "asymmetry",
+      "De Stijl",
+      "equilibrium"
+    ],
+    "directions": [
+      "Have students make their own composition with only straight black lines and one or two color blocks, then compare how balance changes.",
+      "Ask students to find the grid in a building, a map, or a window and describe it in Mondrian's terms.",
+      "Hold a short debate on whether a painting without a recognizable subject can still communicate ideas."
+    ]
+  }
+}

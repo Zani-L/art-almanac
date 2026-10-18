@@ -1,0 +1,159 @@
+{
+  "id": "met-11745",
+  "day": "12-09",
+  "title": "The Raymond Children",
+  "artist": "Robert Peckham",
+  "date": "ca. 1838",
+  "medium": "Oil on canvas",
+  "movement": "American folk painting",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap66.242.27.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap66.242.27.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A group portrait of the Raymond children, boys and girls, shown with dolls and toys. The figures are painted in a clear, simple folk style.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/11745",
+    "objectId": "11745",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, credit line, tags (Boys, Girls, Dolls, Toys) and image URLs read from the record"
+  },
+  "context": "A group portrait of children painted in oil around 1838 by Robert Peckham, a New England painter of the early nineteenth century. Portraits like this were made for families who wanted a lasting picture of their children, and the toys and dolls are part of how the children are presented.",
+  "descriptions": {
+    "k": "Some children pose together for a portrait. There are boys and girls. They have dolls and toys. What toy would you pick? Which child would you want to play with?",
+    "g12": "Robert Peckham painted these children almost two hundred years ago. Boys and girls pose together with dolls and toys. The painter used clear shapes and simple colors. Look at the toys. What do they tell you about the children? What game would you play with them?",
+    "g35": "Robert Peckham painted The Raymond Children around 1838. The boys and girls pose with dolls and toys, which show what childhood looked like then. Folk painters like Peckham often used clear outlines and simple shapes. Look at how the children are placed and what they hold. Why do you think a family wanted this picture, and what do the toys tell you?",
+    "g68": "Robert Peckham worked in New England and painted portraits for families who could not afford, or did not seek, academy-trained artists. The Raymond Children shows young sitters with dolls and toys, props that suggest what childhood meant to their family. The painter's clear, direct style is often called folk, a label that describes training and manner rather than quality. What might the choice of toys tell us about how adults imagined children?",
+    "g910": "In The Raymond Children, Peckham presents young sitters with dolls and toys, using clear contours and direct color typical of American folk portraiture of the 1830s. The props signal ideas about childhood, play, and family aspiration, though their exact meaning for these sitters is not recorded. The label folk can obscure the painter's deliberate choices, and modern viewers are invited to look closely at composition, pose, and detail instead of assuming simplicity.",
+    "g1112": "Robert Peckham's portrait of the Raymond children, painted around 1838, belongs to the large body of American vernacular portraiture made for families outside the academic system. The dolls and toys are likely more than decoration; they communicate ideals of childhood, gender, and domestic life, but without family records, their precise meaning remains uncertain. Terms such as folk or naive can imply a lack of skill that the painting's controlled design contradicts. The work invites readers to consider who made images of ordinary families, who preserved them, and what the surviving portraits leave out."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which toy or doll would you play with first? Why?",
+      "emotion": "Do the children look shy, proud, or happy? Show me with your face.",
+      "observation": "Count the children in the picture. Then find a doll or a toy.",
+      "analysis": "Which child do you look at first? Why?",
+      "line": "Can you trace around one child with your finger? Is the edge smooth?",
+      "shape": "Which shapes do you see in the children's faces and clothes?",
+      "color": "What colors are the children wearing? Which color do you like best?",
+      "texture": "How do you think the dolls would feel? Soft or hard?",
+      "space": "Which child is near the front? Which child is standing behind?",
+      "light": "Do the faces look bright? Where is the brightest part?",
+      "meaning": "Why do you think the children are holding toys for their picture?",
+      "culture": "These children lived long ago. How are their toys like or unlike yours?",
+      "technique": "The painter used oil paint and clear outlines. Where do you see outlines?",
+      "personal": "What toy or game is your favorite? Would you hold it in a portrait?",
+      "critical": "Why would a family want a painting of their children before cameras were common?"
+    },
+    "g12": {
+      "daily": "What do the toys tell you about the children? Use the picture to explain.",
+      "emotion": "What feelings do the children's faces show? Point to what makes you think so.",
+      "observation": "List five things you see in the children's clothes, toys, and faces.",
+      "analysis": "How are the children arranged? Who stands out first?",
+      "line": "Look at the clear outlines around the children. How do they make the figures stand out?",
+      "shape": "Find the round shapes of the heads and the toys. What other shapes repeat?",
+      "color": "Which colors in the children's clothing are strongest? How do they work together?",
+      "texture": "Which things look soft, like clothes, and which look hard, like toys? How can you tell?",
+      "space": "Does the picture feel deep or flat? What helps you decide?",
+      "light": "Where is the light brightest on the children? How does it help you see their faces?",
+      "meaning": "Why might the painter include toys in a portrait of children?",
+      "culture": "Children long ago had dolls and toys. What might their play have been like?",
+      "technique": "Peckham used simple shapes and clear colors. Where do you notice his careful choices?",
+      "personal": "If you were painted with your favorite thing, what would you hold?",
+      "critical": "We know the children's family name but little else. What more would you want to know?"
+    },
+    "g35": {
+      "daily": "What do you learn about these children from how they are posed and what they hold?",
+      "emotion": "What mood do the children's expressions and poses create? Which details support your view?",
+      "observation": "After one minute of silent looking, what small details in the clothing, toys, and faces do you notice?",
+      "analysis": "How does Peckham arrange the children so that the portrait feels balanced?",
+      "line": "How do firm outlines affect how flat or solid the children seem?",
+      "shape": "How do repeated rounded shapes help connect the children and their toys?",
+      "color": "How does Peckham use color to separate each child and to draw attention to the toys?",
+      "texture": "How does the painter show cloth, skin, and toys differently? Which seems most detailed?",
+      "space": "This painting does not look very deep. How does that affect how you view the children?",
+      "light": "How does even light help make the faces and objects clear and easy to read?",
+      "meaning": "What might the dolls and toys say about how adults viewed children in the 1830s?",
+      "culture": "In the 1830s, families often hired local painters for portraits. What might this portrait have meant to the Raymond family?",
+      "technique": "Peckham was not trained in an academy. How might that explain the simple shapes and clear outlines?",
+      "personal": "How would you want your own childhood to be shown in a portrait?",
+      "critical": "Why do you think the museum calls this folk painting? What might that label hide or help us see?"
+    },
+    "g68": {
+      "daily": "How do the pose, props, and painting style combine to present these children?",
+      "emotion": "How do the children's expressions and stance create a feeling of formality or play?",
+      "observation": "Scan from one child to the next. Which details are most carefully worked?",
+      "analysis": "How does the composition group the children and link them to the objects they hold?",
+      "line": "How do strong outlines and flat areas of color shape the figures?",
+      "shape": "How do the repeated forms of heads, shoulders, and toys create a rhythm?",
+      "color": "Which colors are strongest, and how do they direct the eye to certain children or toys?",
+      "texture": "How does the painter suggest different surfaces with a simple technique?",
+      "space": "How does the shallow space present the children frontally, as if for display?",
+      "light": "How does even lighting affect how we read the children's faces and relationships?",
+      "meaning": "What ideas about childhood, gender, and play might the toys and dolls reflect?",
+      "culture": "How did traveling and local portrait painters serve families in early nineteenth-century New England?",
+      "technique": "How is folk painting different from academic painting, and what choices of Peckham's show that difference?",
+      "personal": "How is posing for a portrait today like or unlike this scene?",
+      "critical": "Why might labels such as folk or naive be unfair to a painter, and who decides?"
+    },
+    "g910": {
+      "daily": "How do the children's poses, props, and style present an image of childhood and family aspiration?",
+      "emotion": "How does formal presentation shape the emotional distance between the children and the viewer?",
+      "observation": "Describe the visual hierarchy: which figures, objects, or colors dominate and why?",
+      "analysis": "Analyze how the arrangement of the children establishes relationships among them.",
+      "line": "How does the use of firm contour create a graphic, flattened sense of form?",
+      "shape": "How do simplified geometric forms give the figures a strong visual presence?",
+      "color": "How does local color define each child and the surrounding objects?",
+      "texture": "How does the painter indicate varied materials without deep illusionistic modeling?",
+      "space": "How does the limited depth emphasize the posed, public nature of the portrait?",
+      "light": "How does uniform lighting serve the aim of clearly recording appearance?",
+      "meaning": "How might dolls and toys signal ideas about gender, play, and family hopes, and where is that reading speculative?",
+      "culture": "How do vernacular portraits like this broaden our sense of who made and bought art in early America?",
+      "technique": "How might a painter outside an academy have solved problems of anatomy and arrangement here?",
+      "personal": "How does your idea of childhood influence the way you interpret the children's poses?",
+      "critical": "What are the risks of using the term folk, and what does it reveal about our assumptions?"
+    },
+    "g1112": {
+      "daily": "What claims about this family and their world can be supported by the visual evidence, and which are assumptions?",
+      "emotion": "How does the formality of the portrait complicate any reading of the children's inner lives?",
+      "observation": "Record each child's position, clothing, and toy exactly as shown. Which details in your record already hint at an interpretation of the family?",
+      "analysis": "Analyze how the arrangement of figures and props constructs a family image.",
+      "line": "How does reliance on contour and flat color challenge assumptions about skill and sophistication?",
+      "shape": "How do repeated, simplified forms create unity while individualizing the sitters?",
+      "color": "How may color choices reflect pigments, taste, and decisions, and how might age affect what we see?",
+      "texture": "How does the treatment of dress and toys signal status or affection even without detailed illusion?",
+      "space": "How does the shallow, frontal space define the viewer's role as an audience for presented children?",
+      "light": "In what ways does even illumination serve a documentary or commemorative function?",
+      "meaning": "Evaluate readings of the toys as signs of play, of gender roles, or of status. Which are best supported, and which are speculative?",
+      "culture": "How do terms such as folk, naive, and vernacular shape the value we assign to regional painters?",
+      "technique": "What does the portrait suggest about the economics and training of regional painters in 1830s New England?",
+      "personal": "How does your own family history shape what you expect from a portrait of children?",
+      "critical": "Given the limited documentation of the sitters and the painter's intentions, what standards of evidence should govern interpretation?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Boys, Girls, Dolls, Toys), medium and credit line checked against the museum record for nudity, violence or frightening content; none found. The tags indicate a clothed portrait of children with toys.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Robert Peckham painted this group portrait around 1838. Folk or vernacular portraits like this one were often made by regional painters for ordinary families, and the toys give clues about childhood in the period.",
+    "vocabulary": [
+      "portrait",
+      "folk painting",
+      "prop",
+      "contour",
+      "composition",
+      "vernacular"
+    ],
+    "directions": [
+      "Ask students to choose one object to represent themselves in a portrait and explain the choice.",
+      "Compare the toys in the painting with toys today and discuss what changed and what stayed the same.",
+      "Discuss why some children were painted and others were not, and what that reveals about who could commission portraits."
+    ]
+  }
+}

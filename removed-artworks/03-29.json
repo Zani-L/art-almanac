@@ -1,0 +1,158 @@
+{
+  "id": "met-447384",
+  "day": "03-29",
+  "title": "Cover",
+  "artist": "Artist unknown",
+  "date": "early 19th century",
+  "medium": "Silk on linen; embroidered",
+  "region": "Present-day Uzbekistan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP107287.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/is/original/DP107287.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of Lily S. Place, 1921",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "An embroidered cloth cover worked in silk thread on linen. Flowers are part of its stitched design.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/447384",
+    "objectId": "447384",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, country, classification, public-domain flag, tags, credit line, and image URLs read from the record"
+  },
+  "context": "An embroidered cover made in what is now Uzbekistan in the early 19th century, with silk thread stitched on a linen ground. The Met's record lists flowers among its imagery. Central Asian embroidered textiles were often made for use in homes.",
+  "descriptions": {
+    "k": "This cloth is covered with stitches. The thread is silk. It was made in a place we now call Uzbekistan. Look for the flowers. What colors do you see in them?",
+    "g12": "This cover was stitched with silk thread on linen cloth in what is now Uzbekistan, a long time ago. Flowers fill the design. Each petal is made of tiny stitches. Choose your favorite flower. What colors and shapes did the stitcher use to make it?",
+    "g35": "This embroidered cover was made in the early 1800s in what is now Uzbekistan in Central Asia. The stitcher used shiny silk thread on linen to create flowers. Textiles like this were made for homes, where they could be used or displayed. Look at how the flowers are arranged on the cloth. Why might someone fill a cover with flowers?",
+    "g68": "Made in the early 19th century in present-day Uzbekistan, this cover is silk embroidery on a linen ground, and flowers are central to its imagery. Central Asian embroidered textiles were often made for households and could mark important occasions, though the Met's record does not say how this one was used. Notice how thread colors turn plain linen into flowers. How might a stitcher plan a design this large before beginning?",
+    "g910": "This early 19th-century cover from present-day Uzbekistan combines silk embroidery with a linen foundation, building floral forms from thread. Floral imagery is a major tradition in Central Asian textiles, and it could be shaped by trade connections with Persian, Indian, and Chinese designs. Look at how color and spacing give the flowers energy and order. The maker is unnamed, but the choices of motif, scale, and arrangement still speak. What might those choices suggest?",
+    "g1112": "A cover embroidered in silk on linen in what is now Uzbekistan in the early 19th century, this object belongs to a rich Central Asian tradition of floral textiles whose makers are rarely named. Its imagery sits within wider exchanges along trade routes, and the Met's record does not identify its function or the specific workshop, so any claims about use or meaning should be tentative. Close looking at color, stitch, and arrangement can still ground interpretation of how nature is abstracted into pattern."
+  },
+  "questions": {
+    "k": {
+      "daily": "Pick one flower on this cover. What color is its middle? What color are its petals?",
+      "emotion": "Do the stitched flowers make you feel happy or quiet? Which flowers do that?",
+      "observation": "Count how many flowers you can find in one small part of the cover.",
+      "analysis": "Which stitched flower on this cover do your eyes land on first? What made it stand out?",
+      "line": "Stitches make tiny lines. Can you find a curvy line in a flower stem or petal?",
+      "shape": "What shapes make up the flowers? Look for circles and curved leaf shapes.",
+      "color": "Which color of thread do you like best on this cover?",
+      "texture": "Silk thread is smooth and the linen is plain. How would each feel to touch?",
+      "space": "Are the flowers close together, or is there plain cloth between them? Show us.",
+      "light": "Silk thread can shine. Where do you see a shiny part of the cover?",
+      "meaning": "Why do you think the stitcher chose flowers for this cloth?",
+      "culture": "This cover came from Uzbekistan, in Central Asia. What flowers grow near where you live?",
+      "technique": "The flowers were made with a needle and silk thread. How might the stitcher begin?",
+      "personal": "What would you stitch on a cloth to keep for a long time?",
+      "critical": "The stitcher chose flowers and silk for this cover. What clue shows that someone took great care?"
+    },
+    "g12": {
+      "daily": "How did the stitcher turn thread into flowers on this linen cover? Show a petal that helps you decide.",
+      "emotion": "Is this cover cheerful, calm, or something else? Which colors or flowers make you feel that?",
+      "observation": "Describe two flowers on the cover. What is the same, and what is different?",
+      "analysis": "How are the flowers placed on the cover so your eyes can travel across it?",
+      "line": "Find curved and straight lines in the stitching. Which kind appears more in the flowers?",
+      "shape": "Look at one flower and break it into simple shapes. What shapes do you find?",
+      "color": "Which thread colors stand out against the linen? Why do you think they pop?",
+      "texture": "How do the stitched flowers make the cloth look different from a flat painted flower?",
+      "space": "Where did the stitcher leave plain linen? How does it help the flowers show?",
+      "light": "Silk thread catches light differently from linen. Where does the cover look shiniest?",
+      "meaning": "Flowers can stand for many things, like spring or beauty. What might they mean here?",
+      "culture": "People in Central Asia made embroidered covers for their homes. What cloth things do you see at home that are decorated?",
+      "technique": "Embroidery uses a needle to add thread to cloth. Why must the stitcher keep stitches small?",
+      "personal": "Think of a flower you love. How would you stitch it?",
+      "critical": "We do not know who stitched this cover. What can we still learn about the maker from the cloth?"
+    },
+    "g35": {
+      "daily": "How does the stitcher make flowers look lively using only silk thread? Point to details that help you decide.",
+      "emotion": "What mood do the stitched flowers create together? Which colors and shapes add to it?",
+      "observation": "Spend a minute looking at one small area. What details in the stitches or colors do you notice that you missed at first?",
+      "analysis": "How does the arrangement of flowers lead your eye around the cover?",
+      "line": "How do the stitches create outlines and details inside the flowers? Compare outer shapes and inner marks.",
+      "shape": "How do round flower shapes and pointed leaf or petal shapes work together on the cover?",
+      "color": "How do the silk colors look against the plain linen? What would change with a darker background?",
+      "texture": "How do the raised stitches make this cover different from a printed cloth with the same flowers?",
+      "space": "Look at how much of the linen is covered. How does that affect the feeling of richness?",
+      "light": "Silk reflects light in a soft shine. How might the cover change in a bright room versus a dim one?",
+      "meaning": "People often decorate their homes with images of nature. What might flowers add to a room?",
+      "culture": "Uzbekistan lay along trade routes in Central Asia. How might designs travel from place to place?",
+      "technique": "The Met says this cover is silk on linen. Why do you think a stitcher would choose silk for the design?",
+      "personal": "What patterns or flowers do you see around your home or school? How are they like these?",
+      "critical": "The maker of this cover is unknown. Why might many textile makers go unrecorded?"
+    },
+    "g68": {
+      "daily": "How does the stitcher transform thread into flowers, and what choices of color and spacing make the design effective?",
+      "emotion": "How does the floral design shape the emotional atmosphere of the cover? Support your answer with specific areas.",
+      "observation": "List the kinds of flower, leaf, or stem shapes you can see. Which are easy to overlook?",
+      "analysis": "How does the designer balance repetition and variety across the cover?",
+      "line": "In embroidery, stitched lines both outline and fill. Where do you see each on the flowers?",
+      "shape": "How are real flowers simplified into pattern here? What details have been kept, and which are dropped?",
+      "color": "How do contrasts between silk thread colors and plain linen direct attention?",
+      "texture": "How does the silk's slight sheen against the linen's weave create a layered surface?",
+      "space": "Compare the stitched flowers with the cloth around them. How does the design use both busy and quiet areas?",
+      "light": "Silk catches light differently depending on the stitch direction. How could that matter for how we see the flowers?",
+      "meaning": "Floral motifs have appeared in many cultures. What might they signify here, and what might we be unable to know?",
+      "culture": "How might trade routes across Central Asia have influenced the flowers stitched on this cover?",
+      "technique": "How does embroidery differ from weaving or painting as a way to make flowers? Discuss the advantages and limits.",
+      "personal": "What flower patterns appear in your own life, and how do they connect to your culture or family?",
+      "critical": "The Met does not say how this cover was used. What possible uses could the object suggest, and what would you need to know?"
+    },
+    "g910": {
+      "daily": "How does the embroiderer abstract flowers into a design, and what does that abstraction reveal about the cover's purpose?",
+      "emotion": "How do color, density, and the soft sheen of silk establish an emotional tone?",
+      "observation": "Describe the cover's visual hierarchy. Which flowers or areas dominate, and how is emphasis created?",
+      "analysis": "Analyze how repetition, scale, and spacing organize the flowers into a unified surface.",
+      "line": "How does outline stitching differ from filling stitches in defining the flowers?",
+      "shape": "How do stylized floral shapes balance naturalism and ornament?",
+      "color": "How does the palette of dyed silk against undyed linen build contrast and cohesion?",
+      "texture": "How does embroidery create a hybrid surface that is both image and cloth?",
+      "space": "What is the role of the plain linen in the composition, and how does it give the flowers presence?",
+      "light": "How does silk's reflective quality add a dimension to color that a painted surface might not achieve?",
+      "meaning": "How might floral imagery on a household textile signal ideals of prosperity or beauty, and where does that remain speculative?",
+      "culture": "How do Central Asian floral textiles connect to wider trade and design exchanges, and what does an anonymous cover let us say?",
+      "technique": "What skill and planning does silk embroidery on linen require, and how is that visible in the finished design?",
+      "personal": "How do your own associations with flowers and decoration shape your response to this cover?",
+      "critical": "Why do historians often struggle to name the makers of textiles, and how does that shape what we know about them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the cover's imagery, and what must remain uncertain without more information on its use and maker?",
+      "emotion": "How can ornamental floral design create a feeling of abundance or comfort, and what are the dangers of assuming universal responses?",
+      "observation": "Describe the cover's surface carefully. Where does description require outside knowledge, such as stitch names, to be accurate?",
+      "analysis": "Analyze how the all-over arrangement of flowers constructs a field that is both decorative and symbolic in potential.",
+      "line": "How does the logic of the stitch define line differently from drawing, and what effect does this have on floral forms?",
+      "shape": "How does stylization of flowers reflect both observation of nature and inherited design conventions?",
+      "color": "How might the aging of dyes and fibers have altered the cover's present palette, and how should we account for that?",
+      "texture": "How does the material pairing of silk and linen carry social or economic meaning in addition to visual effect?",
+      "space": "How does the cover's organization of surface compare with pictorial space in European painting of the same period?",
+      "light": "How does the object's shifting appearance under different light complicate its documentation in photographs?",
+      "meaning": "What competing readings of a floral household textile are possible (decorative, auspicious, status-marking), and what evidence would separate them?",
+      "culture": "How does a Central Asian embroidered textile complicate national labels such as Uzbek when produced in earlier political contexts?",
+      "technique": "What does silk embroidery on linen suggest about access to materials and trade in early 19th-century Central Asia?",
+      "personal": "How does your cultural background shape the meanings you assign to flowers and ornament?",
+      "critical": "What are the ethical and intellectual consequences of presenting an anonymous textile primarily as a beautiful object?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Textiles-Embroidered), medium, country, and tags (Flowers) checked against the museum record; no flagged terms. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "An early 19th-century embroidered cover from present-day Uzbekistan. The Met's record calls it simply 'Cover' and does not say how it was used or where in Uzbekistan it was made.",
+    "vocabulary": [
+      "embroidery",
+      "silk",
+      "linen",
+      "motif",
+      "Central Asia",
+      "trade routes"
+    ],
+    "directions": [
+      "Have students find Uzbekistan on a map and discuss how designs and goods can travel along trade routes.",
+      "Ask students to design a flower using only simple stitch-like marks (dashes and lines) on paper.",
+      "Discuss why many textile makers are unnamed and how we can honor them."
+    ]
+  }
+}

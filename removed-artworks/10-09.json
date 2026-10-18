@@ -1,0 +1,151 @@
+{
+  "id": "met-502040",
+  "day": "10-09",
+  "title": "Saùng-Gauk",
+  "artist": "Artist unknown (Burmese)",
+  "date": "19th century",
+  "medium": "Wood, deerskin, paint, cotton cord, metal, glass",
+  "region": "Myanmar (formerly Burma)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302678.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP302678.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A curved Burmese harp with a boat-like wooden body and a neck that rises in a long arch. The body is decorated and strings run from the body up to the neck.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/502040",
+    "objectId": "502040",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture (Burmese), country, classification (Chordophone-Harp), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "The saùng-gauk is an arched harp from Burma, now Myanmar, and is widely described as one of the country's most important traditional instruments. The Met dates this example to the 19th century and lists wood, deerskin, paint, cotton cord, metal and glass. Because the record is brief, the details of its decoration and strings should be read from the image.",
+  "descriptions": {
+    "k": "This is a harp from Myanmar. It has a curved neck and a body like a little boat. The body is covered with skin and decorated. Strings stretch from the body up to the neck. Can you find the curve?",
+    "g12": "This is a saùng-gauk, a harp from Myanmar, which used to be called Burma. It has a boat-shaped body and a long curved neck. The record says it has wood, deerskin, paint, cotton cord, metal and glass. What shapes do you notice?",
+    "g35": "The saùng-gauk is an arched harp from Burma, now called Myanmar. This one was made in the 19th century. It has a boat-like body covered with deerskin and a neck that curves up in a long arch. The Met also lists paint, cotton cord, metal and glass. Look at how the strings reach from the body to the neck. How do the curves make this harp different from a European harp?",
+    "g68": "This saùng-gauk, made in 19th-century Burma, is an arched harp, a type with a neck that sweeps up from a boat-shaped body. The Met lists wood, deerskin, paint, cotton cord, metal and glass, a mix that points to both structure and decoration. Unlike a European pedal harp, it has no frame with a column. How does its curved design show a different approach to the same idea, strings stretched to make music?",
+    "g910": "This saùng-gauk, dated to the 19th century, shows the arched harp form as developed in Burma. A boat-like body covered in deerskin supports a neck that curves upward, and strings of cotton cord, according to the record, connect the two. The record also lists paint, metal and glass, suggesting decoration, though the exact placement should be confirmed in the image. The instrument invites comparison with harps elsewhere in the world and reflects the importance of the saùng-gauk in Burmese music and court culture.",
+    "g1112": "Catalogued as Burmese and dated to the 19th century, this saùng-gauk belongs to a harp tradition in which a curved neck rises from a boat-shaped soundbox. The Met's materials list, wood, deerskin, paint, cotton cord, metal and glass, points to a layered object that is both instrument and craft piece. The record gives no maker, owner or context, so claims about its decoration or use should be hedged. Comparing the saùng-gauk with the European pedal harp shows that the idea of a harp is realized in very different structures and traditions, and not as a single linear development."
+  },
+  "questions": {
+    "k": {
+      "daily": "This harp has a body like a little boat. Can you find where the strings go?",
+      "emotion": "Does this harp look gentle or bold? What do you see that tells you?",
+      "observation": "Find the curved neck and the boat-shaped body. Can you point to each?",
+      "analysis": "Where do your eyes look first on the harp? Where do they go next?",
+      "line": "Trace the big curve of the neck in the air. Where does it begin and end?",
+      "shape": "What shapes do you see in the body and the neck?",
+      "color": "What colors do you see on the harp?",
+      "texture": "The body is covered with skin. How do you think it would feel?",
+      "space": "The neck curves up and away. What space does it make under the curve?",
+      "light": "Where does the harp look shiny or bright?",
+      "meaning": "Why might someone decorate a harp with paint and glass?",
+      "culture": "This harp comes from Myanmar. What other instruments from other places do you know?",
+      "technique": "Strings are tied to the neck with cord. Why do you think cord is used?",
+      "personal": "If this harp could play a tune, would it be soft or lively? Tell why.",
+      "critical": "This harp looks different from other harps you may have seen. What differences do you notice?"
+    },
+    "g12": {
+      "daily": "The neck of this harp curves like a big arch. How does that shape change the way the strings are arranged?",
+      "emotion": "What feeling does this decorated harp give you? Point to what makes you feel it.",
+      "observation": "Describe the neck, the body and the strings. What do you notice about each?",
+      "analysis": "How does the curve of the neck guide your eyes from the strings to the top?",
+      "line": "Find the long curved line of the neck. Where else do you see curves?",
+      "shape": "The body looks like a boat. How is that different from a box?",
+      "color": "The record lists paint, metal and glass. Where in the picture do you see color or shine?",
+      "texture": "The body is covered with deerskin. How might the skin look different from the wood?",
+      "space": "The arch of the neck leaves open space. How does it make the harp look light?",
+      "light": "Where does the harp catch the light? What might make it shine?",
+      "meaning": "Why would a player want a harp that looks beautiful?",
+      "culture": "The saùng-gauk is from Burma, now Myanmar. What can the decoration tell you about what people liked to see?",
+      "technique": "The strings are tied to the neck. Why might that be useful for tuning?",
+      "personal": "How would you decorate a harp of your own?",
+      "critical": "How is this harp different from a harp with a straight column? What do you see?"
+    },
+    "g35": {
+      "daily": "A saùng-gauk is an arched harp. How does the curve of the neck make it different from a harp with a straight frame?",
+      "emotion": "What mood does the harp's graceful curve and decoration create? Which details cause it?",
+      "observation": "Describe the harp from the top of the neck to the bottom of the body. What details do you find?",
+      "analysis": "How do the neck, strings and body work together in the design?",
+      "line": "How does the sweeping curve of the neck contrast with the straight lines of the strings?",
+      "shape": "The body looks like a boat. How does that shape help you imagine the hollow space inside?",
+      "color": "The Met lists paint, metal and glass. How might these materials add color and sparkle?",
+      "texture": "Deerskin, wood, cord, metal and glass each have a different surface. Which can you pick out in the image?",
+      "space": "The arch makes an open curve. How does the harp use empty space as part of its shape?",
+      "light": "How might shiny glass and metal catch light on this harp?",
+      "meaning": "Why might musicians and makers in Burma decorate the saùng-gauk so much?",
+      "culture": "Harps appear in many places around the world. What does it tell us that the saùng-gauk has its own special form?",
+      "technique": "Cotton cord is used in the instrument. How might cord be used in tuning or attaching strings?",
+      "personal": "Do you have an object you decorate to make it your own? How does it compare?",
+      "critical": "The Met does not name a maker. What do you think can still be learned from the instrument?"
+    },
+    "g68": {
+      "daily": "How does the curved neck of this saùng-gauk create a different visual rhythm from a frame harp?",
+      "emotion": "What tone does the sweeping curve and decoration create? Support your answer with details.",
+      "observation": "List the parts of the harp you can see, from the neck to the body, before interpreting.",
+      "analysis": "How does the curve of the neck lead your eye through the composition?",
+      "line": "How do the parallel strings contrast with the single big arc of the neck?",
+      "shape": "How does the boat-shaped body balance the tall arch of the neck?",
+      "color": "How might paint, glass and metal be used to emphasize certain parts of the harp?",
+      "texture": "How do deerskin, wood and cord create a mix of surfaces?",
+      "space": "How does the curved neck create an open space that is part of the harp's design?",
+      "light": "How does light on glass or metal create points of emphasis?",
+      "meaning": "Why might a harp be treated as a decorated object as well as a musical instrument?",
+      "culture": "How does a harp from Burma show that instruments of the same family can look very different around the world?",
+      "technique": "What skills are needed to shape a curved neck and cover a soundbox with skin?",
+      "personal": "What is something in your life that is both useful and beautiful?",
+      "critical": "How might comparing this harp with a European pedal harp challenge the idea that one form is more advanced?"
+    },
+    "g910": {
+      "daily": "How does the saùng-gauk's arched structure shape its visual character and its relation to the player?",
+      "emotion": "What atmosphere do the harp's curves and decoration create, and how might it differ in performance?",
+      "observation": "Describe the visual hierarchy of the harp. What draws the eye first, and what rewards close attention?",
+      "analysis": "How do the neck, body and strings establish a balance of tension and curve?",
+      "line": "How does the single sweeping curve organize the parallel strings and the decoration?",
+      "shape": "How does the boat-like body anchor the composition against the lift of the arch?",
+      "color": "How do applied color and reflective materials such as glass and metal create accents?",
+      "texture": "How does the contrast between skin-covered and wooden surfaces express both function and craft?",
+      "space": "How does the open curve of the neck make the harp look both delicate and monumental?",
+      "light": "How might the reflective elements change in appearance under different lighting?",
+      "meaning": "What does the harp's decoration suggest about the place of music in Burmese court or social life, and what remains uncertain?",
+      "culture": "How does the saùng-gauk illustrate that the harp is not a single instrument but a family with many regional forms?",
+      "technique": "How does using cotton cord to attach strings affect tuning and maintenance?",
+      "personal": "How does comparing something familiar with something unfamiliar change your sense of what is normal?",
+      "critical": "How do museum labels that use English and older place names shape how we think about the instrument's origins?"
+    },
+    "g1112": {
+      "daily": "What can this saùng-gauk support as evidence of Burmese craftsmanship in the 19th century, and what remains uncertain?",
+      "emotion": "How do the harp's curves and decoration shape emotional responses, and how do cultural expectations color them?",
+      "observation": "Separate what the image shows from what the record states. Which decorative details can you verify?",
+      "analysis": "How do structure and decoration interact to give the harp both function and character?",
+      "line": "How does the arc of the neck organize the object, and how do the parallel strings answer it?",
+      "shape": "How does the arched harp form complicate a narrative in which European harps appear as the standard?",
+      "color": "How might paint, glass and metal signal prestige, and what other readings are possible?",
+      "texture": "How do the combined textures of skin, wood, cord and glass reveal a multi-material craft?",
+      "space": "How does the museum presentation of a strongly curved object alter our sense of how it sits in a performer's space?",
+      "light": "How does photography handle reflective details, and how might that alter our impression?",
+      "meaning": "How can the decoration be read as sign of status, devotion or aesthetics, and what evidence would support each reading?",
+      "culture": "How do changing names for the country, Burma and Myanmar, show the effects of history on museum records?",
+      "technique": "How do the technical properties of skin, cord and wood define the instrument's tuning, sound and care?",
+      "personal": "How does your own experience of music shape how you imagine this instrument in use?",
+      "critical": "How should museums present instruments collected in the 19th century when little is known about their makers and communities?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Harp), medium, culture, and tags (none listed) checked against the museum record; the record does not mention figures, though the image should be confirmed in case the neck or body carries carved or painted figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A 19th-century Burmese arched harp (saùng-gauk) with deerskin, cotton cord, paint, metal and glass in its materials. The record names no maker. This is a different object and culture from the arched harp used elsewhere in the calendar.",
+    "vocabulary": ["arched harp", "saùng-gauk", "soundbox", "tuning", "Myanmar", "deerskin"],
+    "directions": [
+      "Compare this harp with the French pedal harp: what is the same and what is different?",
+      "Find Myanmar on a map and discuss why the museum record also says Burma.",
+      "Draw the harp's curve and discuss how it affects the length of the strings."
+    ]
+  }
+}

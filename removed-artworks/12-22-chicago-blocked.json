@@ -1,0 +1,158 @@
+{
+  "id": "artic-20556",
+  "day": "12-22",
+  "title": "Young Girl with Hat",
+  "artist": "Berthe Morisot",
+  "date": "1892",
+  "medium": "Oil on canvas",
+  "movement": "Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://www.artic.edu/iiif/2/12731595-67a3-dc3c-efa8-29d75b9cd315/full/843,/0/default.jpg",
+    "credit": "Art Institute of Chicago, Gift of Mrs. Frederic C. Bartlett",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Art Institute of Chicago's Open Access program",
+    "licenseUrl": "https://www.artic.edu/open-access/open-access-images"
+  },
+  "altText": "A young girl in a hat sits on a chair, with flowers and a basket nearby, painted in light, loose strokes with lots of white and soft greens.",
+  "source": {
+    "museum": "Art Institute of Chicago",
+    "url": "https://www.artic.edu/artworks/20556",
+    "objectId": "20556",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Art Institute of Chicago API record: title, artist, date, medium, credit line, place of origin, subjects (girl, youth, white (color), portraits: female subject, hat, green, flowers, chair, basket), is_public_domain true and image_id read from the record"
+  },
+  "context": "An oil painting by the French artist Berthe Morisot, dated 1892. The Art Institute's subject terms list a girl, a hat, white, flowers, a chair and a basket. Morisot was a founding Impressionist who often painted women and children in everyday settings.",
+  "descriptions": {
+    "k": "A young girl wears a hat. She sits on a chair. There are flowers and a basket near her. Lots of white and soft green. The paint looks light and quick. What do you think she is thinking?",
+    "g12": "Berthe Morisot painted a young girl in a hat sitting near flowers and a basket. The colors are soft: lots of white and green. The brushstrokes are quick and light. Look at her face and hands. What kind of day do you think it is?",
+    "g35": "Berthe Morisot painted Young Girl with Hat in 1892. A girl sits in a chair wearing a hat, with flowers and a basket nearby. Morisot used light, quick brushstrokes and many whites and greens. Her style is called Impressionism. Look at the girl's expression and pose. What might she be thinking, and how do you know?",
+    "g68": "Morisot painted Young Girl with Hat in 1892, near the end of her career. The museum lists a girl, hat, flowers, a chair, a basket, and lots of white. Her loose, feathery strokes keep the painting from looking fully finished, which was an Impressionist habit. How do the brushwork and soft colors shape the mood, and what does the painting say about childhood?",
+    "g910": "Young Girl with Hat (1892) belongs to Morisot's late work, in which fluid brushwork and a light palette dissolve boundaries between figure and setting. The subject, a girl with a hat, flowers, and basket, falls within the intimate scenes of women and children she often painted. How does the handling of paint affect your sense of the sitter's presence, and why might Morisot choose suggestion over detail?",
+    "g1112": "In Young Girl with Hat (1892), Morisot's late style privileges evanescent brushwork and a pale, luminous palette, treating the sitter as a presence emerging from paint rather than a fully described portrait. As a woman Impressionist, Morisot found her subjects in domestic and garden spaces. How does the balance between sketch and finish shape the painting's meaning, and how might your reading differ if the work were more detailed?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the girl's hat. What color is it?",
+      "emotion": "Does she look happy, shy, or sleepy? What shows you?",
+      "observation": "Find the chair, the flowers, and the basket. Which is hardest to see?",
+      "analysis": "How close are we to her?",
+      "line": "Brushstrokes can look like light scribbles. Where do you see them?",
+      "shape": "The hat makes a round shape. What other round shapes do you see?",
+      "color": "Which colors do you see the most? Point to white and green.",
+      "texture": "Does the paint look thick or thin? Tell us how it looks.",
+      "space": "What do you think is behind her?",
+      "light": "Where does the light touch her face and dress?",
+      "meaning": "What do you think she is looking at?",
+      "culture": "Morisot painted in France. What do children wear in your town on sunny days?",
+      "technique": "Morisot painted fast and loose. How might that be hard or fun?",
+      "personal": "If you were painted, what would you hold in your hands?",
+      "critical": "What would you ask her if you met her?"
+    },
+    "g12": {
+      "daily": "Look at the girl's face and her hands. How does she seem to feel?",
+      "emotion": "Is the painting bright and quiet, or dark and loud? Show us what tells you.",
+      "observation": "List five things you see: hat, flowers, chair, and more.",
+      "analysis": "How does Morisot make the girl stand out from the background?",
+      "line": "Which strokes are quick and light, and which are slower?",
+      "shape": "How do the round shapes of the hat and the basket go together?",
+      "color": "How do all the whites and soft greens change how the painting feels?",
+      "texture": "How can you tell her hat from her dress by how the paint looks?",
+      "space": "Does the painting feel crowded or airy? Why?",
+      "light": "Where does light seem to come from?",
+      "meaning": "Why might Morisot paint a child in a simple moment?",
+      "culture": "Morisot was a mother and painted her family. Why might she paint what she knew well?",
+      "technique": "Why might quick strokes help show a child who moves around?",
+      "personal": "How would you pose for a portrait so it feels like you?",
+      "critical": "Does a painting need to show every detail of a face? Explain."
+    },
+    "g35": {
+      "daily": "What does her pose and expression tell you about her? What can't you tell?",
+      "emotion": "What feeling does the pale, airy painting give you, and which colors and strokes cause it?",
+      "observation": "Look slowly across the painting. What small details did you notice last?",
+      "analysis": "How does Morisot arrange the girl, the chair, and the flowers so your eye finds her?",
+      "line": "How do the quick, loose lines suggest movement?",
+      "shape": "How do the shapes of the hat and body fit with the shapes of the flowers?",
+      "color": "How do the many whites and greens create a gentle color scheme?",
+      "texture": "How does the thin, feathery paint make the painting look unfinished or fresh?",
+      "space": "How does Morisot show where the girl sits without careful perspective?",
+      "light": "How does soft light shape her face?",
+      "meaning": "Why might the painter use loose strokes for a portrait?",
+      "culture": "What does the painting say about childhood in France in the 1890s?",
+      "technique": "How is Morisot's style like or unlike other Impressionists?",
+      "personal": "What small, quiet moment would you paint?",
+      "critical": "Is a painting less valuable if it looks unfinished? Explain."
+    },
+    "g68": {
+      "daily": "What do pose, hat, and expression suggest about the girl, and what do you still not know?",
+      "emotion": "What mood do the soft whites and greens create, and what colors would change it?",
+      "observation": "Describe the girl, the chair, and the flowers in order. Which detail seems least clear?",
+      "analysis": "How does Morisot guide your eye to the girl's face using the surrounding colors?",
+      "line": "How do the loose strokes of the dress and background create movement?",
+      "shape": "How do repeated curves link hat, chair, and basket?",
+      "color": "How does the pale palette give the painting a light, airy feel?",
+      "texture": "How does the unfinished look change how real the girl seems?",
+      "space": "How does the lack of strong perspective flatten the space?",
+      "light": "How does the soft light shape the mood?",
+      "meaning": "Why might Morisot leave parts of the painting suggestive instead of exact?",
+      "culture": "How might Morisot's life as a mother and painter have shaped her subjects?",
+      "technique": "How does this painting reflect the Impressionist idea of capturing a moment?",
+      "personal": "How would you paint a child so that they feel natural, not posed?",
+      "critical": "How would you decide whether the painting is a portrait or a study of a moment?"
+    },
+    "g910": {
+      "daily": "How do the pose and expression give the girl presence despite loose handling?",
+      "emotion": "How do the pale tonalities and soft strokes create tenderness, and might they also suggest fragility?",
+      "observation": "Examine the transition between resolved and sketched areas. What do they reveal about priorities?",
+      "analysis": "Analyze how the composition focuses on the girl while keeping the setting open.",
+      "line": "How does the fluid brushwork convey movement and light?",
+      "shape": "How do the repeated curves unify figure and objects?",
+      "color": "Evaluate how the near-monochrome harmony of whites and greens shapes atmosphere.",
+      "texture": "What does the visible handling suggest about Morisot's late technique?",
+      "space": "How does the shallow, unclear space emphasize surface over illusion?",
+      "light": "How is light rendered through color and touch rather than shadow?",
+      "meaning": "How did women Impressionists navigate subject matter that society deemed appropriate?",
+      "culture": "How does Morisot's late style compare with her earlier work?",
+      "technique": "How does the painting's apparent informality reflect deliberate artistic choice?",
+      "personal": "How does your response change when you read the painting as a portrait of a particular person versus a type?",
+      "critical": "What does the unfinished look add to or take from your appreciation?"
+    },
+    "g1112": {
+      "daily": "How does the dissolution of form complicate the portrait's claim to depict an individual?",
+      "emotion": "To what degree does the pale harmony produce tenderness, and how might that conflict with the work's evanescence?",
+      "observation": "Analyze how areas of resolution and suggestion create hierarchy within the sitter's image.",
+      "analysis": "How does the composition distribute attention between figure and incidental objects?",
+      "line": "How does the brushwork function as both description and a record of process?",
+      "shape": "How do recurring curves mediate between portrait and still-life elements?",
+      "color": "Assess how close-valued whites and greens produce luminosity without strong contrast.",
+      "texture": "What does the facture suggest about Morisot's relationship to finish and to Impressionist critiques of academic practice?",
+      "space": "How does the ambiguous spatial field challenge naturalism and affirm the picture plane?",
+      "light": "How does light appear as an atmospheric field rather than a source?",
+      "meaning": "How have feminist art histories reframed Morisot's attention to women and children?",
+      "culture": "How does late Morisot relate to later modernist interest in suggestion and abstraction?",
+      "technique": "How should one weigh the biographical context of motherhood and domestic space without reducing the painting to it?",
+      "personal": "How does your own taste for finish or sketchiness affect your evaluation?",
+      "critical": "What might it mean to treat an apparently unfinished surface as fully realized?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (painting) and subject terms (girl, youth, white (color), portraits: female subject, hat, green, flowers, chair, basket) checked against the Art Institute of Chicago record; no concerning terms (no nudity, violence, death or frightening imagery). The image file itself was not visually inspected; a person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "Painted 1892 by Berthe Morisot, in oil on canvas. The museum record lists a girl, hat, white, flowers, chair and basket; the sitter is not named in the record, so none is named here. Image not visually reviewed.",
+    "vocabulary": [
+      "Impressionism",
+      "brushwork",
+      "portrait",
+      "palette",
+      "suggestion",
+      "unfinished look"
+    ],
+    "directions": [
+      "Have students paint a portrait using only whites and one other color, with loose strokes.",
+      "Ask students to compare areas that feel finished with areas that feel sketched in the painting.",
+      "Discuss why many Impressionists painted family and friends rather than famous people."
+    ]
+  }
+}

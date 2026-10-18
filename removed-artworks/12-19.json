@@ -1,0 +1,158 @@
+{
+  "id": "met-501123",
+  "day": "12-19",
+  "title": "Drum",
+  "artist": "Artist unknown (Congolese)",
+  "date": "late 19th century",
+  "medium": "Metal, skin, shells",
+  "region": "Congo district (Congolese)",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.506top.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.506top.jpg",
+    "credit": "The Metropolitan Museum of Art, The Crosby Brown Collection of Musical Instruments, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A shallow, bowl-shaped drum with a skin stretched across its top and shells as part of its decoration, shown against a plain background.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/501123",
+    "objectId": "501123",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, region, classification, public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "A single-headed kettle drum from the Congo region, made in the late 19th century from metal, skin, and shells. The record labels the culture only as Congolese and the place as the Congo district. It is shallow, about 10 centimeters tall and 32 centimeters across. The museum acquired it in 1889 as part of the Crosby Brown Collection of Musical Instruments.",
+  "descriptions": {
+    "k": "This is a drum shaped like a bowl. A skin is stretched across the top. Shells are part of it too. It was made in Central Africa long ago. It is as wide as a big dinner plate. What sound do you think it makes?",
+    "g12": "This drum looks like a wide, shallow bowl with skin stretched across the top. It is made of metal, skin, and shells. It came from the Congo region in Central Africa. Hit the skin and it makes a sound! Where would you tap it? What do you think it would sound like?",
+    "g35": "This is a kettle drum, which means it is shaped like a bowl with one skin stretched across the top. It was made in the Congo region of Central Africa in the late 1800s from metal, skin, and shells. It is about 32 centimeters across, wider than it is tall. Look at how the parts fit together. Why might a maker add shells to a drum?",
+    "g68": "A kettle drum has a bowl-shaped body and one drumhead, and this example, from the Congo region, is made of metal, skin, and shells. It is wider than it is tall, about 32 centimeters across and 10 centimeters high. The record dates it to the late 19th century and labels it only as Congolese, a broad term that does not name the maker's community. What does the combination of metal, skin, and shells tell you about materials available to the maker?",
+    "g910": "This single-headed kettle drum from the Congo region unites three materials: a metal body, a skin head, and shell decoration. Its shallow form, about 32 centimeters across, suggests a drum meant to be played close at hand. The museum label gives only 'Congolese' and 'Congo district,' which reveals how little was recorded about makers when the drum was collected for the Crosby Brown Collection in 1889. How do the instrument's materials and proportions suggest its sound, and what might the broad label hide?",
+    "g1112": "A drum like this one shows how museum categories can both organize and flatten. It is described as Congolese and from the 'Congo district,' labels that cover an immense region and many communities. Its physical evidence, a shallow metal body, a skin head, and shells, points to specific choices by a maker whose name and community the record does not give. The drum entered the museum in 1889 within a collection organized by instrument type. How do such typological collections shape our understanding of the instruments, and how might we recover what they leave out?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Where would you tap this drum? Point to the spot.",
+      "emotion": "Does this drum look loud or soft? Why?",
+      "observation": "What parts of the drum can you find? Point to the skin and the shells.",
+      "analysis": "Which part of the drum do you notice first, the skin or the shells? What made you look there?",
+      "line": "Can you find a round line around the drum? Trace it in the air.",
+      "shape": "This drum is wide and low like a bowl. What round shapes can you find?",
+      "color": "What colors do you see? Which one do you see the most?",
+      "texture": "The drum has metal, skin, and shells. Which part do you think feels smooth, and which feels bumpy?",
+      "space": "The drum is wide and low. Show its size with your hands.",
+      "light": "Which parts of the drum look bright and which look dark?",
+      "meaning": "Imagine a group playing this drum. What might they be celebrating?",
+      "culture": "This drum came from the Congo region in Central Africa. What instruments do you hear in your community?",
+      "technique": "The skin is stretched tight across the drum. What do you think happens if you tap it?",
+      "personal": "What rhythm would you play on this drum?",
+      "critical": "How can you tell this drum was made to be played?"
+    },
+    "g12": {
+      "daily": "How do the metal, skin, and shells work together to make a drum? Point to details.",
+      "emotion": "Does this wide, low drum feel lively, calm, or something else? Point to what makes you think so.",
+      "observation": "Describe three parts of the drum, from the skin to the body to the shells.",
+      "analysis": "How do the skin on top and the bowl underneath fit together? What do you see where they meet?",
+      "line": "Follow the edge of the drum with your finger. What shape does it make?",
+      "shape": "The drum is shaped like a bowl. What other shapes do you see?",
+      "color": "What colors do you see in the metal, skin, and shells? How do they look together?",
+      "texture": "Compare the metal, the skin, and the shells. Which would feel coolest or bumpiest to touch?",
+      "space": "This drum is wider than it is tall. How does that wide shape change how you would play it?",
+      "light": "Metal and shells can shine. Where on this drum might you see a bright spot?",
+      "meaning": "Why might someone decorate a drum with shells? Share your idea.",
+      "culture": "Drums are played in many places in Africa. Why do you think people everywhere like rhythm?",
+      "technique": "The skin has to be pulled tight to make a sound. Why might the maker use metal for the bowl?",
+      "personal": "If you could add something to this drum, what would it be and why?",
+      "critical": "This drum has only one skin. How is that different from a drum with two?"
+    },
+    "g35": {
+      "daily": "What do the metal bowl, the skin head, and the shells each add to this drum? Use details to explain.",
+      "emotion": "What feeling does this wide, shallow drum give you, and which details lead you to that feeling?",
+      "observation": "Look carefully for one minute. What small details do you notice that you missed at first?",
+      "analysis": "How do the shells and the drumhead relate to the shape of the body?",
+      "line": "How does the round edge of the drum contrast with other lines you see?",
+      "shape": "Describe the drum's overall shape. How do the round skin and the bowl-shaped body fit together?",
+      "color": "How do the colors of metal, skin, and shells make the drum look?",
+      "texture": "How do the skin, metal, and shells look different from each other?",
+      "space": "The drum is wide and shallow. How might that shape affect how a player sits or holds it?",
+      "light": "Metal, skin, and shells reflect light differently. How might each one look in sunlight?",
+      "meaning": "The museum does not say who played this drum. What could you learn from the drum itself?",
+      "culture": "The label says only 'Congolese.' Why might a more exact label be useful?",
+      "technique": "How might a maker decide which materials to use for a drum?",
+      "personal": "If you could ask a player of this drum one question, what would you ask?",
+      "critical": "The drum was collected in 1889. What might the person who collected it have wanted to show?"
+    },
+    "g68": {
+      "daily": "How do metal, skin, and shell work together here, and which one do you think matters most to the sound?",
+      "emotion": "What mood does the drum's low, wide form suggest, and what visual evidence supports your answer?",
+      "observation": "Describe the drum's structure from the head to the body. What details are easy to overlook?",
+      "analysis": "How do the head, body, and shells relate to one another in the drum's design?",
+      "line": "How does the circular edge shape the drum's design, and what other lines break it up?",
+      "shape": "How do the circular head and bowl-shaped body create a balance of shapes?",
+      "color": "What do the colors and tones tell you about the materials and how they have aged?",
+      "texture": "How do the different textures of skin, metal, and shells show the maker's choices?",
+      "space": "How does the hollow interior shape the drum's sound, and how can you tell from the outside?",
+      "light": "How might the shine of metal differ from the matte surface of skin?",
+      "meaning": "What can the materials of this drum tell us, and what can only the player or maker tell us?",
+      "culture": "What does the use of metal, skin, and shells suggest about materials and trade in the region?",
+      "technique": "What skills would a maker need to prepare skin and attach it to a metal body?",
+      "personal": "Think of a time when rhythm brought people together. How would you describe the role of a drum there?",
+      "critical": "The label says only 'Congolese.' What more would you want to know before you could say who made this drum?"
+    },
+    "g910": {
+      "daily": "How do the drum's wide, low proportions and its three materials shape what we imagine of its sound?",
+      "emotion": "What feeling can a silent, wide-headed drum convey, and how do its materials contribute?",
+      "observation": "Describe how the metal, skin, and shells are arranged. Which element do you read first, and why?",
+      "analysis": "Analyze how the proportion of the drum, wide and shallow, relates to the way it might be played.",
+      "line": "How does the circular edge of the head define the drum's character?",
+      "shape": "How does the bowl form balance with the flat disc of the drumhead?",
+      "color": "How do the metal, skin, and shells create a contrast of tones?",
+      "texture": "How do contrasts among metal, skin, and shell create a layered surface?",
+      "space": "How does the hollow interior make the drum both an object and a resonating chamber?",
+      "light": "How would changing light reveal the texture of the skin and the shine of the metal?",
+      "meaning": "What does the drum's low, wide form suggest about how it may have been played, and what cautions are needed?",
+      "culture": "How do broad labels like 'Congolese' limit what we can learn from an object?",
+      "technique": "How does the combination of metal and skin influence the sound and durability of the drum?",
+      "personal": "Think about a rhythm that belongs to a group you are part of. How does it hold the group together?",
+      "critical": "How does a label such as 'Congo district' help and limit our understanding of an object?"
+    },
+    "g1112": {
+      "daily": "What can this drum's materials and proportions suggest about its sound, and what do you need to know before claiming more?",
+      "emotion": "How does the pairing of shell decoration and a metal body shape your sense of the drum's character?",
+      "observation": "Describe the drum precisely: material, form, and attachment. Which details would you need to see in person?",
+      "analysis": "Analyze how the wide, shallow body and single head work together as an acoustic and visual structure.",
+      "line": "How do edges and attachments form a linear structure that supports the drum's function?",
+      "shape": "How does the drum's shallow bowl form differ from a tall or barrel-shaped drum, and what might that imply?",
+      "color": "How might the contrast among metal, skin, and shell have changed with age, and what would that mean for how we judge its original look?",
+      "texture": "How do material qualities of metal, skin, and shell contribute to both sound and surface?",
+      "space": "How does the hollow body turn empty space into an essential element of the instrument?",
+      "light": "How might museum lighting distort the perception of materials that have aged?",
+      "meaning": "How should we interpret an instrument that was collected as a type rather than documented as an individual's tool?",
+      "culture": "How does the label 'Congolese' reflect 19th-century collecting habits, and what would a more precise label require?",
+      "technique": "What does the combination of metal and skin suggest about the materials and trade networks available to the maker?",
+      "personal": "How do your own memories of percussion, from school bands to celebrations, shape your reading of this drum?",
+      "critical": "How might collaborating with musicians and scholars from the region change how museums present such instruments?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title (Drum), classification (Membranophone-single-headed / kettle drum), medium (metal, skin, shells), and the absence of tags checked against the museum record (title, classification, object name, medium, tags). The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A single-headed kettle drum from the Congo region, late 19th century, made of metal, skin, and shells and collected by 1889. The record labels it only as Congolese, so avoid assigning it to a specific community.",
+    "vocabulary": [
+      "kettle drum",
+      "drumhead",
+      "membranophone",
+      "percussion",
+      "resonance",
+      "rhythm"
+    ],
+    "directions": [
+      "Stretch a balloon over a bowl and tap it to hear how a bowl-shaped drum makes sound.",
+      "Have students create a short rhythm pattern and discuss how rhythm connects people in groups.",
+      "Discuss the limits of a label like 'Congolese' and ask what more specific information a museum might add."
+    ]
+  }
+}

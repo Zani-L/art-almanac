@@ -1,0 +1,159 @@
+{
+  "id": "met-437881",
+  "day": "10-15",
+  "title": "Young Woman with a Water Pitcher",
+  "artist": "Johannes Vermeer",
+  "date": "ca. 1662",
+  "medium": "Oil on canvas",
+  "movement": "Dutch Golden Age",
+  "region": "Netherlands",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353257.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP353257.jpg",
+    "credit": "The Metropolitan Museum of Art, Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A young woman in a white head covering stands beside an open window, one hand on the window frame and the other resting on a pitcher. Soft daylight falls across her face and the pale wall, where a map hangs behind her.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/437881",
+    "objectId": "437881",
+    "verifiedOn": "2026-10-16",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting by Johannes Vermeer of Delft, made around 1662 during the Dutch Golden Age. It shows a woman at an open window with a pitcher, in a room lit by soft daylight, with a map on the wall.",
+  "descriptions": {
+    "k": "A woman stands by an open window. Soft light falls on her face and the wall. She has a pitcher in her hand. What do you think she is about to do?",
+    "g12": "Johannes Vermeer painted this quiet moment in the Netherlands long ago. A woman opens a window and rests her hand on a pitcher. Light from the window makes her white head cloth glow. A map hangs on the wall behind her. What do you think she is thinking about?",
+    "g35": "Johannes Vermeer lived in Delft, in the Netherlands, and painted calm moments from everyday life. Here a young woman pauses at an open window with a pitcher, and soft daylight brightens her face, her white head covering, and the wall. Look for the map behind her and the folds of the cloth on the table. Why do you think Vermeer chose such a quiet moment to paint?",
+    "g68": "Vermeer painted this around 1662 in Delft, during the Dutch Golden Age, when many households bought paintings of everyday life. The scene seems simple, but every part is carefully arranged: the woman's pose forms a calm triangle, light from the window softly models her face and clothing, and the map on the wall may hint at Dutch trade and travel. Vermeer painted slowly and produced few works, which is part of why each one is treasured.",
+    "g910": "In this painting of about 1662, Vermeer turns a domestic gesture into a study of light, stillness, and balance. The woman's head, arms, and the pitcher create a stable, nearly triangular form, while the window anchors the left side and the map gives the space depth and context. Soft daylight and subtle gradations of tone replace strong outlines. Scholars debate whether the scene carries a moral or symbolic message; its power may lie in how deliberately it withholds a clear story.",
+    "g1112": "Vermeer's Young Woman with a Water Pitcher invites both close formal analysis and cautious interpretation. The controlled light, the quiet geometry of figure and window, and the map on the wall create a space that feels intimate yet carefully constructed. Interpretations vary: some read the scene as a celebration of domestic order, others as an image of private reflection, and some stress its link to the Dutch world of trade, suggested by the map. Because Vermeer left little documentation about his intentions, the painting rewards evidence-based readings that stay open to doubt."
+  },
+  "questions": {
+    "k": {
+      "daily": "What do you think the woman is about to do?",
+      "emotion": "Does this room feel loud or quiet? What do you see that tells you?",
+      "observation": "What can you find in this room? Point to three things.",
+      "analysis": "Where do your eyes go first? Why do you think so?",
+      "line": "Can you find straight lines in the window and the wall? Trace one in the air.",
+      "shape": "What shapes do you see in this room? Look at the window and the map.",
+      "color": "What colors do you see? Which one do you like best?",
+      "texture": "How do you think her white head cloth would feel to touch?",
+      "space": "What is close to you in this room? What is farther away?",
+      "light": "Where is the light coming from? What parts does it touch?",
+      "meaning": "What story could you tell about this woman and her day?",
+      "culture": "This picture was painted in the Netherlands long ago. What things in the room look like things you use today?",
+      "technique": "This is a painting made with oil paint. How did the artist make the light look so soft?",
+      "personal": "What do you like to do in a quiet moment? Tell about it.",
+      "critical": "What clues in the picture tell you what time of day it might be?"
+    },
+    "g12": {
+      "daily": "What is the woman doing? What clues in the picture help you decide?",
+      "emotion": "What feeling does this quiet room give you? Which parts help you feel that way?",
+      "observation": "Describe five things you see in the room, from the woman to the wall.",
+      "analysis": "How does the artist guide your eyes from the window to the woman to the wall?",
+      "line": "Find the straight lines in this painting. How do they make the room feel steady?",
+      "shape": "Look at the woman's head, shoulders, and arms. What big shape do they make together?",
+      "color": "Which colors are bright and which are soft? How do they make the room feel?",
+      "texture": "Which things look soft and which look hard or shiny? Show how you can tell.",
+      "space": "How can you tell the woman is closer to you than the map? What shows it?",
+      "light": "Follow the light from the window. Where is it brightest? Where is it softest?",
+      "meaning": "What do you think is on the woman's mind? Use something you see to explain.",
+      "culture": "Maps like this were a common sight in homes in the Netherlands then. What might a map tell us about their world?",
+      "technique": "Painters used oil paint to make soft light. Where does the light look soft in this painting?",
+      "personal": "What is your favorite quiet place? How is it like or different from this room?",
+      "critical": "Is the woman opening the window or closing it? What clues could support each idea?"
+    },
+    "g35": {
+      "daily": "What do you think is happening in this moment, and what details in the painting support your idea?",
+      "emotion": "How would you describe the mood of this room? What choices by the artist create that mood?",
+      "observation": "Take one minute of silent looking. What small details do you notice that you missed at first?",
+      "analysis": "How does Vermeer use the window, the woman, and the map to organize the picture?",
+      "line": "How do the straight lines of the window and map compare with the soft curves of the cloth and the woman's pose?",
+      "shape": "The woman's body forms a large, steady shape. How does that shape make the painting feel calm?",
+      "color": "How do the bright, glowing areas and the darker areas work together to set the mood?",
+      "texture": "How does Vermeer make the pitcher, the cloth, and the wall look different from each other?",
+      "space": "How does the artist make the room look deep? Look at overlapping, size, and the position of objects.",
+      "light": "Where does the light come from, and how does it change the way the objects look?",
+      "meaning": "A map, a pitcher, and an open window are all in this painting. What might they tell us about the woman's life?",
+      "culture": "Vermeer lived in the Netherlands in the 1600s. What does this painting suggest about home life at that time?",
+      "technique": "Vermeer painted slowly, adding thin layers of paint. How might that help him create such soft light?",
+      "personal": "Think of a moment when you paused and noticed something small. How is that like or unlike this painting?",
+      "critical": "Why might Vermeer have chosen to paint such a quiet moment instead of a dramatic scene? What other explanations are possible?"
+    },
+    "g68": {
+      "daily": "How does Vermeer turn an ordinary moment into something worth looking at closely?",
+      "emotion": "How does the painting create a feeling of calm or stillness? Point to the choices that create it.",
+      "observation": "List what you see from left to right. Which details seem most carefully placed?",
+      "analysis": "How does the composition balance the window on one side with the figure and the wall?",
+      "line": "How do vertical and horizontal lines create order in this room? Where do softer lines break that order?",
+      "shape": "How does the pyramid-like shape of the figure add stability? What would change if she leaned or stood differently?",
+      "color": "Which colors are most saturated, and which are muted? How does this affect where you look?",
+      "texture": "How does Vermeer paint different surfaces such as metal, cloth, and skin? Which looks most convincing and why?",
+      "space": "How do overlapping, scale, and the angle of the window create depth in this small room?",
+      "light": "How does the soft light from the window shape forms and mood? How is it different from strong, dramatic light?",
+      "meaning": "The map and window suggest the world outside the room. How might they connect the woman's private moment to something larger?",
+      "culture": "Why might Dutch households in the 1600s have wanted paintings of everyday life instead of only religious or mythological scenes?",
+      "technique": "Vermeer used oil paint in thin, glowing layers. How might the medium help him paint soft light?",
+      "personal": "What does a quiet moment in your daily life look like? How could an artist show it?",
+      "critical": "Is it clear what the woman is doing? What alternative explanations fit the details?"
+    },
+    "g910": {
+      "daily": "How do the painting's formal choices, such as light, geometry, and restraint, shape what we think the woman is feeling?",
+      "emotion": "How does Vermeer create emotional atmosphere without dramatic action or an obvious expression?",
+      "observation": "Describe the visual hierarchy: what draws attention first, and which devices produce that effect?",
+      "analysis": "Analyze how the vertical and horizontal structure of the room supports the figure's central role.",
+      "line": "How does the near absence of hard outlines affect the picture's sense of softness and atmosphere?",
+      "shape": "How does the stable, triangular silhouette of the figure interact with the rectangles of window, map, and table?",
+      "color": "How does Vermeer use a restrained palette and subtle color contrasts to organize attention?",
+      "texture": "How does Vermeer differentiate materials such as metal, linen, and wall through tone and highlight rather than line?",
+      "space": "How does the shallow interior space combine clarity and intimacy? What devices produce depth?",
+      "light": "How does the gradation of daylight across wall, figure, and objects produce atmosphere and structure?",
+      "meaning": "How might the map, window, and pitcher be read as symbols, and where does that interpretation become uncertain?",
+      "culture": "How does this painting reflect the values and economy of the Dutch Republic in the 1660s?",
+      "technique": "How do glazing and delicate tonal transitions contribute to the painting's illusion of light?",
+      "personal": "How does the painting's treatment of private, quiet time connect to your own experience of attention and privacy?",
+      "critical": "What assumptions do viewers bring to a painting of a woman at a window, and how does the painting support or resist them?"
+    },
+    "g1112": {
+      "daily": "What can be argued from the evidence in the painting about its meaning, and what remains uncertain?",
+      "emotion": "How does the painting's emotional restraint complicate attempts to name a single feeling? What does that ambiguity do for the viewer?",
+      "observation": "Describe the picture's formal construction with precision. Where does careful description already begin to interpret?",
+      "analysis": "Analyze how Vermeer's construction of light, geometry, and interval produces both order and intimacy.",
+      "line": "How does the painting's subordination of linear contour to tonal modeling define its approach to form?",
+      "shape": "How does the interplay of rectilinear architecture and the figure's softer geometry produce visual tension and stability?",
+      "color": "How do harmonies and restrained contrasts of color structure the painting's atmosphere, and how might the work's age affect what we see today?",
+      "texture": "How does Vermeer's handling of paint simulate diverse materials, and what does this say about the status of illusion in Dutch painting?",
+      "space": "How does the painting's controlled, shallow space shape the viewer's position relative to the figure? Where do we stand, and why does it matter?",
+      "light": "In what ways does the painting treat light as both a physical phenomenon and an expressive structure?",
+      "meaning": "Evaluate competing readings of the painting, such as domestic order, private reflection, or a link to global trade. Which is best supported, and which is speculative?",
+      "culture": "How does the painting's imagery, including the map and household objects, situate it within the culture of Dutch commerce and domesticity?",
+      "technique": "What does the painting's technique suggest about Vermeer's working methods and the economics of slow, small-scale production?",
+      "personal": "How does your own context shape your sense of what a quiet domestic scene means? Where might that limit your reading?",
+      "critical": "Given how little documentation survives about Vermeer's intentions, what standards of evidence should govern interpretations of this work?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, and tags (Interiors, Women, Maps, Pitchers) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Delft around 1662. Vermeer is known for a small number of quiet interior scenes, and scholars still debate their intended meanings.",
+    "vocabulary": [
+      "Dutch Golden Age",
+      "genre painting",
+      "oil paint",
+      "glaze",
+      "composition",
+      "light source"
+    ],
+    "directions": [
+      "Ask students to sketch the main shapes (triangle, rectangles) before discussing meaning.",
+      "Have pairs argue for two different explanations of what the woman is doing, citing details.",
+      "Compare the quiet mood with a busy scene from another artwork in the archive."
+    ]
+  }
+}

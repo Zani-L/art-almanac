@@ -1,0 +1,151 @@
+{
+  "id": "met-316728",
+  "day": "04-21",
+  "title": "Bird Pendant",
+  "artist": "Artist unknown (Muisca)",
+  "date": "10th–16th century",
+  "medium": "Gold (cast)",
+  "region": "Muisca culture, Colombia",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6877.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ao/original/DT6877.jpg",
+    "credit": "The Metropolitan Museum of Art, Purchase, Gifts in memory of Alice K. Bache, and Rogers Fund, 1992",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tiny pendant of cast gold in the shape of a bird. It measures only about four centimeters across, smaller than a matchbox.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/316728",
+    "objectId": "316728",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, credit line, classification (Metal-Ornaments), objectName (Pendant), tag (Birds), dimensions, public-domain flag, and image URLs read from the record"
+  },
+  "context": "A small pendant of cast gold in the form of a bird, made by Muisca artists in the highlands of present-day Colombia between the 10th and 16th centuries. It measures about 4.1 by 3.5 centimeters. Colombian goldsmiths cast many such objects using the lost-wax method.",
+  "descriptions": {
+    "k": "This is a tiny bird made of gold. It is smaller than your hand. People wore it as a pendant, which hangs from a string. Muisca artists in Colombia made it long ago. What do you notice about the bird?",
+    "g12": "A Muisca artist in Colombia made this tiny gold bird. It is a pendant, a small piece of jewelry that hangs from a cord. It is only about four centimeters wide, smaller than a matchbox. Gold shines. How does the bird shine in the picture?",
+    "g35": "This bird pendant was made by Muisca artists in Colombia between the 10th and 16th centuries. It is cast gold, which means melted metal was poured into a mold. The bird is tiny, about four centimeters across, yet it has clear shapes and details. Look for how the artist turned a small bird into simple, strong forms. Why might someone wear a bird?",
+    "g68": "Muisca goldsmiths of the Colombian highlands made small cast-gold objects like this bird pendant, which measures about four centimeters. Many such pieces were made by the lost-wax method: a model was shaped in wax, covered in clay, heated so the wax melted away, and then filled with molten gold. The result shows how a tiny object can hold bold, simplified forms. Scholars are cautious about saying exactly what these birds meant to their makers.",
+    "g910": "This cast-gold bird pendant, made between the 10th and 16th centuries by Muisca artists, shows how skilled metalworkers used simplified forms to give a small object strong presence. Colombian goldsmiths commonly used lost-wax casting, which allows fine detail to be modeled in wax first. The pendant's size, only about four centimeters, means it was meant to be worn or held close. Interpretations of bird imagery in Andean and Colombian gold range widely, so claims about symbolism should stay tentative.",
+    "g1112": "A Muisca bird pendant of cast gold, dated broadly from the 10th to the 16th century, this object's long date range already signals how much about it remains uncertain. Its small scale concentrates attention on silhouette and surface, and gold's brilliance would have been part of its meaning for viewers then and now. Scholars discuss Colombian goldwork in terms of technology, identity, and belief, but the record does not specify use or context. How can we appreciate the object's craft without overstating what we know?"
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the tiny gold bird. What is the first thing you notice about it?",
+      "emotion": "Does the gold bird feel proud, quiet, or something else? What makes you think so?",
+      "observation": "What parts of the bird can you find? Point to the head and the wings or tail.",
+      "analysis": "Which part of the bird do your eyes look at first? Why?",
+      "line": "Can you find any lines or edges that go around the bird's shape? Trace one in the air.",
+      "shape": "What shapes make up the bird: triangles, circles, or curves? Name two.",
+      "color": "The bird is made of gold. What other things do you know that are the color of gold?",
+      "texture": "How do you think the bird would feel if you could hold it? Smooth, bumpy, or cold?",
+      "space": "This bird is smaller than a matchbox. Show with your fingers how small it is.",
+      "light": "Gold shines when light hits it. Which parts of the bird look the brightest?",
+      "meaning": "Why do you think someone wanted a bird to wear around their neck?",
+      "culture": "Muisca artists in Colombia made this bird long ago. What birds do you see where you live?",
+      "technique": "The artist made this by pouring melted gold into a mold. Why might that be tricky for something so small?",
+      "personal": "If you could wear a tiny animal, which one would you pick?",
+      "critical": "How can something so tiny still look important?"
+    },
+    "g12": {
+      "daily": "What makes this tiny gold bird special to look at? Point to the details that help you decide.",
+      "emotion": "Does the bird feel powerful, gentle, or something else? Which part helps you feel that?",
+      "observation": "Describe the bird from top to bottom. What parts can you name?",
+      "analysis": "How does the artist make a simple shape clearly look like a bird?",
+      "line": "Look at the edges of the bird. Are they smooth, sharp, or both? Show an example.",
+      "shape": "Which shapes did the artist use for the head, the body, and the wings or tail?",
+      "color": "Gold has a warm yellow glow. How does that glow make the bird look?",
+      "texture": "Which parts look smooth and which look carved or bumpy? How can you tell?",
+      "space": "The pendant is only about four centimeters wide. How does knowing its size change how you look at it?",
+      "light": "Gold reflects light. Imagine moving the pendant in your hand. How would the shine change?",
+      "meaning": "Why might a bird be a good thing to turn into jewelry?",
+      "culture": "The Muisca lived in the mountains of Colombia. Why might they have admired birds that fly?",
+      "technique": "Cast means melted metal was poured into a mold. Why would a mold help make a small bird?",
+      "personal": "What small thing do you keep that reminds you of an animal or place?",
+      "critical": "We do not know exactly what this bird meant to its maker. What can we say, and what is a guess?"
+    },
+    "g35": {
+      "daily": "How does the artist give such a small bird so much character? Give evidence from the shape.",
+      "emotion": "What feeling does the golden bird give you? Which details lead to that feeling?",
+      "observation": "Study the pendant for one minute. List every part and detail you can find.",
+      "analysis": "How does the artist simplify the bird's body into a few clear forms?",
+      "line": "How do the outlines and any raised lines on the bird help you recognize it?",
+      "shape": "How does the contrast between larger and smaller shapes make the pendant easy to read from far away?",
+      "color": "Gold keeps its color and does not rust. Why might that make it a good material for an object meant to last?",
+      "texture": "How might the surface of a cast gold bird feel different from a real bird's feathers?",
+      "space": "Why might a pendant this small need clear, simple shapes instead of tiny details?",
+      "light": "How might light moving across the metal make the bird seem to change?",
+      "meaning": "The record does not explain what this bird means. What might a bird mean to people who watch the sky?",
+      "culture": "Gold work was important in what is now Colombia. What can a small pendant tell us about the skills of the Muisca?",
+      "technique": "Lost-wax casting starts with a model in wax. Why might making a wax model first be useful?",
+      "personal": "What would you want an object you wear every day to say about you?",
+      "critical": "The date range runs from the 10th to the 16th century. What problems does such a long range cause for understanding the pendant?"
+    },
+    "g68": {
+      "daily": "How do silhouette and scale give this pendant its impact despite its small size?",
+      "emotion": "What impression of the bird, such as alert, calm, or fierce, do the forms create? Support it with specifics.",
+      "observation": "List the visible features of the bird from head to tail. Which are easiest to identify and which are ambiguous?",
+      "analysis": "How does the artist balance symmetry and variation in the bird's shape?",
+      "line": "How do edges and incised or raised lines, if you see them, shape the character of the bird?",
+      "shape": "How do geometric simplifications make the bird both abstract and recognizable?",
+      "color": "How does the natural color of gold affect how the bird is seen compared with painted ceramics or textiles?",
+      "texture": "How might surface finish, shiny or matte, change our sense of the bird's form?",
+      "space": "At about four centimeters, how does the pendant's scale shape how it would be worn and seen?",
+      "light": "Why might gold have been valued for the way it reflects light?",
+      "meaning": "Birds appear in many arts of the Americas. What might be risky about assuming they all mean the same thing?",
+      "culture": "How might a pendant show a person's connection to their community or beliefs, and what do we need to know before claiming that?",
+      "technique": "How does lost-wax casting let a goldsmith repeat or vary a design?",
+      "personal": "How do the objects you wear or carry communicate who you are to others?",
+      "critical": "How does knowing the pendant survived for centuries change the way you look at it, and what might you overlook?"
+    },
+    "g910": {
+      "daily": "How does the pendant balance abstraction and recognizability, and which formal choices achieve this?",
+      "emotion": "How do brilliance and small scale combine to create the pendant's emotional effect?",
+      "observation": "Describe the pendant's visual hierarchy, identifying which elements read first and which only on close inspection.",
+      "analysis": "Analyze how symmetry, edge, and mass organize the bird form.",
+      "line": "How does contour define the bird, and how might any surface linework add to or complicate it?",
+      "shape": "How does the geometric treatment of natural form reflect decisions about what to emphasize?",
+      "color": "How does gold's reflective, unchanging surface relate to ideas of permanence and value?",
+      "texture": "How does a cast surface preserve the traces of its wax model, and what can that reveal about process?",
+      "space": "How does a small, wearable object address its viewer differently from a monument or painting?",
+      "light": "How might movement of the wearer animate the reflective surface of the pendant?",
+      "meaning": "What kinds of evidence would be needed to claim that this bird had a specific symbolic or religious meaning?",
+      "culture": "How do Colombian gold objects challenge assumptions about which materials and forms define Andean art?",
+      "technique": "What does lost-wax casting reveal about planning, material control, and specialist knowledge?",
+      "personal": "How does the idea of wearing an image of an animal connect with ways people today use jewelry or symbols?",
+      "critical": "Many gold objects were taken from their original contexts. How does that affect what we can know, and how should museums respond?"
+    },
+    "g1112": {
+      "daily": "What can this pendant tell us about its makers, and what limits does the record place on that knowledge?",
+      "emotion": "How might the pendant's glimmer and tiny scale produce an intimate emotional response, and is that response universal?",
+      "observation": "Describe the pendant's formal structure precisely. Where do you notice yourself importing meaning into description?",
+      "analysis": "Analyze how the pendant's silhouette functions as image and ornament simultaneously.",
+      "line": "How does the interplay of contour and surface detail define a visual language that may differ from naturalistic bird portrayal?",
+      "shape": "How might stylization in Muisca gold be interpreted as a deliberate system rather than a simplification?",
+      "color": "How might the cultural valuation of gold's color and shine differ across Muisca, Spanish, and modern museum contexts?",
+      "texture": "How does casting inscribe both the artist's modeling and the metal's behavior in the surface?",
+      "space": "How does an object designed to hang from a person's body create meaning through position and movement?",
+      "light": "How do museum lighting conditions affect our reading of a surface designed to catch and reflect light?",
+      "meaning": "Compare possible readings of bird imagery, such as nature, status, or belief. How should one weigh competing explanations without texts?",
+      "culture": "How have outside perceptions of Colombian gold shaped how Muisca work is displayed and understood?",
+      "technique": "What does the scale of a lost-wax cast like this suggest about workshop organization and transmitted knowledge?",
+      "personal": "How do your associations with gold, such as wealth or beauty, affect your reading, and how might they differ for the Muisca?",
+      "critical": "What responsibilities do museums have when displaying gold objects with limited provenance and contested histories?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Metal-Ornaments), objectName (Pendant), medium, and tag (Birds) read from the museum record; no sacred or restricted flag, human remains, nudity, or weapons indicated. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "The Muisca lived in the highlands of present-day Colombia and are known for cast gold objects. This pendant is about 4 cm across and the record gives a broad date range (10th–16th century).",
+    "vocabulary": ["Muisca", "pendant", "cast", "lost-wax casting", "silhouette", "gold"],
+    "directions": [
+      "Have students draw a bird using only three or four simple shapes, then compare it to the pendant.",
+      "Ask students to explain lost-wax casting in their own words using a wax or clay model.",
+      "Discuss why a long date range (10th–16th century) makes dating an object uncertain."
+    ]
+  }
+}

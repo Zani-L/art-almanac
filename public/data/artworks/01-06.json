@@ -1,0 +1,159 @@
+{
+  "id": "met-9480",
+  "day": "01-06",
+  "title": "Vase",
+  "artist": "Louis C. Tiffany",
+  "date": "1893–96",
+  "medium": "Favrile glass",
+  "movement": "Art Nouveau",
+  "region": "United States",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT190.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT190.jpg",
+    "credit": "The Metropolitan Museum of Art, Gift of H. O. Havemeyer, 1896",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A glass vase with a shimmering, rainbow-like surface and a swelling, curved shape, decorated with a feather-like pattern in colors that seem to shift with the light.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/9480",
+    "objectId": "9480",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, culture, country, public-domain flag, tag (Feathers), credit line and image URLs read from the record"
+  },
+  "context": "A vase of Favrile glass made by Louis Comfort Tiffany in the United States, dated 1893 to 1896. Favrile was Tiffany's name for his hand-made, shimmering art glass. The Met's record tags this object with the subject Feathers.",
+  "descriptions": {
+    "k": "This vase is made of glass. It shines like a rainbow, and the colors seem to change as you move. Look for a pattern like feathers. What colors do you see? Would you like to hold it carefully?",
+    "g12": "Louis Tiffany made this glass vase in the United States more than 125 years ago. The glass shimmers, a bit like a soap bubble, and its colors seem to change in the light. The Met says the design shows feathers. Can you find the feather pattern? Which colors look the brightest?",
+    "g35": "Louis Comfort Tiffany named his shimmering, hand-made glass Favrile. Here the surface glows with colors that seem to shift as light moves across it, and the Met lists feathers as the subject. Instead of painting a picture on the vase, the glassmaker works the pattern into the glass itself. Look at the curves of the vase and the colors in the feather design. How do shape and pattern work together?",
+    "g68": "Tiffany made this vase between 1893 and 1896, when many designers wanted objects inspired by nature's curves and patterns. Favrile glass has a shimmering, iridescent surface created by treating the glass while it is hot, and the feather design sits within the glass rather than on top of it. Notice how the color seems to change with the light, and how the swelling form and the pattern echo each other. Why might a maker choose a feather, something light and delicate, to decorate a heavy-seeming object?",
+    "g910": "This Favrile glass vase shows how Louis C. Tiffany treated glass as a fine-art medium rather than a purely practical one. The Met tags the subject as feathers, a motif well suited to the iridescent, shifting color that Tiffany's glass is known for. The organic curve of the form and the flowing pattern reflect Art Nouveau interests in natural forms and in unifying shape and decoration. Consider how the glass changes its look as light moves around it: does an object that changes with viewing conditions ask us to look differently than a painting does?",
+    "g1112": "Dated 1893 to 1896, this Favrile vase belongs to Tiffany's early campaign to make American art glass a rival to European and Asian traditions. Iridescent glass of this kind tied a luxury craft to nature-based ornament, here feathers according to the Met's tags, and to the wider Aesthetic and Art Nouveau movements. Scholars discuss how much of such work should be credited to Tiffany as designer and how much to the skilled glassworkers who produced it. Photographs flatten the shimmer that defined these objects, so this image is a partial witness at best."
+  },
+  "questions": {
+    "k": {
+      "daily": "This glass shines like a rainbow. Which colors can you find on the vase?",
+      "emotion": "Does this vase feel gentle or loud to you? What makes you say so?",
+      "observation": "What can you find on this vase? Point to the shape and to the feather pattern.",
+      "analysis": "Where do your eyes go first on the vase? What do they look at next?",
+      "line": "Trace the curved edge of the vase with your finger in the air. Where does it bend most?",
+      "shape": "What shape does the vase make? Is it round, tall, or wide at the bottom?",
+      "color": "Which color on the vase is your favorite? Where do you see it?",
+      "texture": "Glass is smooth and cool. How would this shiny vase feel in your hands?",
+      "space": "This vase is a real object you can walk around. What would you see if you looked at its back?",
+      "light": "Where does the vase look brightest? What do you think the light is doing to the glass?",
+      "meaning": "Feathers are light and soft. Why might a maker put them on a glass vase?",
+      "culture": "People have used vases for a long time. What might someone put in a vase like this?",
+      "technique": "This glass was made by hand, not by a machine. What do you think a glassmaker needs to be careful about?",
+      "personal": "What shiny or shimmering thing do you like to look at? Tell about it.",
+      "critical": "Is this vase for using or for looking at? What clues help you decide?"
+    },
+    "g12": {
+      "daily": "How do the colors of the glass seem to change? Look for the places where they shimmer most.",
+      "emotion": "What feeling does the glowing glass give you? Which part of the vase helps you feel it?",
+      "observation": "Look slowly all around the vase. List four things you notice about its shape, pattern, and colors.",
+      "analysis": "How does the feather pattern help your eyes move around the vase?",
+      "line": "Find flowing, curved lines on the vase. What do they remind you of?",
+      "shape": "Describe the whole shape of the vase. Which parts are narrow and which parts are wide?",
+      "color": "Name the colors you see on the glass. Which ones look like they glow?",
+      "texture": "The vase is smooth glass. How does the shimmer make it look different from plain glass?",
+      "space": "A vase has an inside and an outside. How can you tell where the glass begins and ends in the photo?",
+      "light": "Where does light seem to bounce off the glass? How does that make the colors look?",
+      "meaning": "The Met says the design shows feathers. What do feathers make you think of?",
+      "culture": "Tiffany lived in New York City over a hundred years ago. Why might people then have wanted fancy glass for their homes?",
+      "technique": "Tiffany's glass was made by hand, with heat. Why might making glass need so much care?",
+      "personal": "Do you have a favorite object that shines or changes color? Tell how it is like this vase.",
+      "critical": "Is this a work of art or just a vase? Share one reason for your answer."
+    },
+    "g35": {
+      "daily": "How does Tiffany make a glass object look as light and delicate as a feather?",
+      "emotion": "What mood does the glowing, shimmering surface create, and what in the vase supports your idea?",
+      "observation": "Take one minute to look closely at the feather pattern. What details do you notice that you missed at first?",
+      "analysis": "How do the shape of the vase and the pattern on its surface work together to create one overall design?",
+      "line": "How do the curved lines in the feather design compare to the outline of the vase itself?",
+      "shape": "The form swells and narrows. How does that shape give the vase a feeling of growth, as in a plant or flower?",
+      "color": "The colors seem to shift across the surface. Where do you see the greatest change, and why does it keep your eyes moving?",
+      "texture": "The surface is smooth, yet it looks rich and layered. How does Tiffany make glass look like something more than plain, clear glass?",
+      "space": "A vase is a three-dimensional object. How would the shimmer change if you walked around it?",
+      "light": "Tiffany's glass reflects light so that colors seem to move. How would the vase look in a dim room compared to a sunny window?",
+      "meaning": "The Met lists feathers as the subject. Why might a designer choose natural patterns for a household object?",
+      "culture": "Tiffany was an American designer working in the 1890s, when handmade crafts were admired. What might this vase say about what people valued then?",
+      "technique": "Tiffany called this glass Favrile and made it by hand. Why might a handmade glass object be valued differently from one made in a factory?",
+      "personal": "Think of an object in your home that you handle with extra care. How is your feeling about it like or unlike how you might feel about this vase?",
+      "critical": "Should an everyday object like a vase be displayed in an art museum? Use details from this vase to support your view."
+    },
+    "g68": {
+      "daily": "How does the iridescent surface of this vase turn a simple glass container into something people stop and study?",
+      "emotion": "What atmosphere do the glow and the soft color changes create? Which design choices produce it?",
+      "observation": "Describe the vase from top to bottom. Which area holds the most pattern, and which is simplest?",
+      "analysis": "How do the vase's silhouette and the feather pattern relate? Does the pattern follow the form or fight it?",
+      "line": "How do the flowing lines in the feather design connect with the curved outline of the vase?",
+      "shape": "How does the swelling, plant-like form of the vase echo ideas in natural growth? Where might you see a stem, bulb, or flower in its shape?",
+      "color": "How does shifting, iridescent color differ from the flat color of paint on canvas? What does it do to your sense of the surface?",
+      "texture": "Smooth glass can look soft or metallic depending on light. How does that surface affect the look of the feather design?",
+      "space": "Because this is a three-dimensional object, how is looking at a photo of it different from seeing it in person?",
+      "light": "The vase responds to light more than most objects do. How might its appearance change in different rooms or times of day?",
+      "meaning": "The Met tags feathers as the subject. What associations do feathers carry, such as lightness, flight, or beauty, and which fit this vase best?",
+      "culture": "Why might upper-class American households in the 1890s have wanted handmade art glass like this? What might that tell us about taste then?",
+      "technique": "Tiffany's Favrile glass has color worked into the glass itself rather than painted on the surface. How might that affect how the vase looks and lasts?",
+      "personal": "What kind of objects make you want to look more closely, and what do they have in common with this vase?",
+      "critical": "A photograph cannot capture how this glass moves in light. What are the limits of judging a three-dimensional object from an image?"
+    },
+    "g910": {
+      "daily": "How do form, surface, and ornament combine in this vase to express an Art Nouveau interest in natural beauty?",
+      "emotion": "How does the shimmering surface create a mood of luxury or quiet wonder, and what formal choices support that effect?",
+      "observation": "Describe the vase's visual hierarchy. What draws attention first, the overall form or the feather pattern, and why?",
+      "analysis": "Analyze how the vase unites structure and decoration so that the pattern seems to grow from the form rather than sit on top of it.",
+      "line": "How does the fluid, curving line of the vase's contour relate to the curves inside the feather pattern?",
+      "shape": "How do the vase's swelling volumes and narrowing neck create a rhythm that feels organic rather than geometric?",
+      "color": "How does iridescent color, which shifts with viewpoint, differ in effect from the fixed colors of a painted object?",
+      "texture": "How does the polished, shimmering surface complicate the usual difference between a smooth object and a visually rich one?",
+      "space": "How does the vase occupy space as a sculptural object, and what do we lose when it appears only in a flat image?",
+      "light": "In what ways is light itself an essential material in the vase, rather than only a condition for seeing it?",
+      "meaning": "Feathers can suggest lightness, flight, or display. Which associations seem most relevant to a heavy, luxurious glass object, and where is interpretation uncertain?",
+      "culture": "How does this vase reflect the late-19th-century belief that craft and decorative arts could be fine art, and who might have had access to such objects?",
+      "technique": "What does the combination of hand production and a trademarked glass name such as Favrile suggest about the relationship between craft, brand, and artistic identity?",
+      "personal": "How does your response to an object change when you know it was made by hand rather than machine?",
+      "critical": "Should credit for such a work go primarily to the designer whose name it bears or to the glassworkers who made it? What evidence would you need?"
+    },
+    "g1112": {
+      "daily": "What can be argued from this vase's surface and form about how Tiffany understood glass as an artistic medium, and what remains uncertain from a photograph?",
+      "emotion": "How does the vase's shimmer produce an affective response that is hard to separate from its luxury status? Where does appreciation shade into consumption?",
+      "observation": "Describe the vase's formal construction with precision. At what point does close description already begin to interpret?",
+      "analysis": "Analyze how the vase fuses contour, ornament, and optical effect into a single design, and what that fusion suggests about Art Nouveau principles.",
+      "line": "How does the sinuous line, often considered central to Art Nouveau, operate here at the scale of both silhouette and surface pattern?",
+      "shape": "How does the vase's organic form engage nature as a model rather than only as a subject? Consider the difference between depicting a feather and behaving like one.",
+      "color": "How does iridescent color, produced by the surface of the material rather than applied pigment, challenge the notion of color as an attribute added to form?",
+      "texture": "What does the vase's surface suggest about the tension between handmade variation and the polished finish demanded by a luxury market?",
+      "space": "How does the vase, as an object meant to be seen in the round, resist reproduction in a single photograph, and how does that affect the museum image as evidence?",
+      "light": "How might one argue that light is a constituent material of this vase, and what does that do to the traditional distinction between object and viewing conditions?",
+      "meaning": "Evaluate possible readings of the feather motif, such as natural beauty, display, or fashion, and weigh them against the limits of what the object itself tells us.",
+      "culture": "How does the vase fit within the Aesthetic and Art Nouveau movements and the commercial culture of late-19th-century America, including who made and who purchased such objects?",
+      "technique": "How does attribution to Tiffany's name complicate understanding of the vase's production, given that skilled workers carried out much of the hand labor in his studios? What would evidence for each contribution look like?",
+      "personal": "How do your own tastes and your idea of what counts as art shape your reading of an object designed for decoration?",
+      "critical": "What standards should govern the display of decorative arts alongside paintings and sculpture, and does this vase make a strong case for equal treatment?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, classification and tag (Feathers) read from the Met record; the object is a decorative glass vase.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Louis Comfort Tiffany developed Favrile glass in the 1890s. The Met record dates this vase 1893 to 1896 and tags its subject as feathers; check the museum image for the specific pattern.",
+    "vocabulary": [
+      "Favrile glass",
+      "iridescent",
+      "Art Nouveau",
+      "organic form",
+      "decorative arts",
+      "motif"
+    ],
+    "directions": [
+      "Hold a shiny object, such as a CD or a soap bubble, under moving light and compare the shifting color to this vase.",
+      "Ask students to sketch the vase's outline, then add a nature-inspired pattern that follows its curves.",
+      "Debate whether objects made for use, like vases, belong in art museums."
+    ]
+  }
+}

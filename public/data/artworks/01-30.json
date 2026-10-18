@@ -1,0 +1,159 @@
+{
+  "id": "cma-93239",
+  "day": "01-30",
+  "title": "Still Life",
+  "artist": "Preston Dickinson",
+  "date": "c. 1924",
+  "medium": "oil on canvas",
+  "movement": "Precisionism",
+  "region": "America",
+  "image": {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.1664/1926.1664_web.jpg",
+    "fullUrl": "https://openaccess-cdn.clevelandart.org/1926.1664/1926.1664_print.jpg",
+    "credit": "The Cleveland Museum of Art, Hinman B. Hurlbut Collection",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Cleveland Museum of Art's Open Access program",
+    "licenseUrl": "https://www.clevelandart.org/open-access"
+  },
+  "altText": "A tabletop still life of eggplants and lemons with a bowl, a knife and napkins. A bottle with a loose cork stands at the left, and a lightly sketched chair back appears against an otherwise empty background.",
+  "source": {
+    "museum": "The Cleveland Museum of Art",
+    "url": "https://clevelandart.org/art/1926.1664",
+    "objectId": "93239",
+    "verifiedBy": "Cleveland Museum of Art Open Access API record: title, creator (Preston Dickinson, American, 1891-1930), date, technique, culture, type, department, description (eggplants, lemons, bowl, knife, napkins, loosely corked bottle, sketched chairback), did-you-know note, credit line, accession number 1926.1664, CC0 license status and web/print image URLs read from the record",
+    "verifiedOn": "2026-10-17"
+  },
+  "context": "Preston Dickinson, an American artist (1891-1930), painted this oil still life around 1924. The Cleveland Museum of Art describes eggplants and lemons on a tabletop with a bowl, knife and napkins, a loosely corked bottle at the left, and a lightly sketched chairback. The museum notes that eggplants are technically berries.",
+  "descriptions": {
+    "k": "Look at the table. There are lemons and eggplants. Can you find the bowl, the knife, and the bottle? The bottle has a cork. What would you eat first?",
+    "g12": "Preston Dickinson painted eggplants and lemons on a table. A bowl, a knife, and some napkins sit nearby. A bottle stands at the left. The background is almost empty. Why might a painter pick plain things like these?",
+    "g35": "Around 1924, American artist Preston Dickinson painted this tabletop. Eggplants and lemons are spread out with a bowl, a knife, and napkins, and a bottle with a loose cork stands at the left. Behind it, a chair is only lightly sketched. Look for how the objects overlap. Why might the painter leave most of the background empty?",
+    "g68": "In this oil painting from about 1924, Dickinson arranges eggplants, lemons, a bowl, a knife, and napkins on a tabletop, with a loosely corked bottle at the left and a faintly sketched chair behind. The casual arrangement and empty background push attention onto the shapes of the objects. How does leaving part of the scene unfinished change what you notice first?",
+    "g910": "Preston Dickinson's Still Life (c. 1924) sets eggplants, lemons, a bowl, a knife, and napkins on a table beside a loosely corked bottle, while a chairback appears only as a light sketch. Dickinson is often associated with Precisionism, which favored clear, simplified forms. How do the casual arrangement and unfinished background balance precision against spontaneity?",
+    "g1112": "Dickinson's Still Life (c. 1924) offers an apparently casual arrangement: eggplants, lemons, a bowl, knife, napkins, and a loosely corked bottle, set before a lightly sketched chairback and an otherwise empty ground. Artists linked to Precisionism often pursued crisp, simplified forms. How does this work negotiate between deliberate design and the look of a moment caught in passing, and what does the unfinished chair imply about finish itself?"
+  },
+  "questions": {
+    "k": {
+      "daily": "How many lemons can you count? Where are they?",
+      "emotion": "Does this table feel quiet or messy to you? What shows you?",
+      "observation": "Find the knife and the bottle. Which one is taller?",
+      "analysis": "What do you think was happening here before the picture was painted?",
+      "line": "Point your finger along the edge of the table. Is it straight or curved?",
+      "shape": "The lemons are round. What other shapes can you find?",
+      "color": "Which colors do you see on the eggplants and lemons? Are they warm or cool?",
+      "texture": "Do the napkins look soft or stiff? Tell us how you know.",
+      "space": "Which thing is closest to you? Which is farthest back?",
+      "light": "Where does the light seem to touch the lemons?",
+      "meaning": "Why might an artist paint food that is sitting still?",
+      "culture": "People all over the world cook with vegetables. What do you like to eat?",
+      "technique": "The painter used oil paint. Does it look thick or thin to you?",
+      "personal": "If you set a table of your favorite foods, what would go on it?",
+      "critical": "What would you move or change on this table? Why?"
+    },
+    "g12": {
+      "daily": "Which part of this table looks neat, and which part looks a little messy?",
+      "emotion": "Does this tabletop feel calm or a little messy? Point to what makes you feel that.",
+      "observation": "List the things on the table from left to right.",
+      "analysis": "Why does your eye go to the lemons and eggplants first?",
+      "line": "Follow the knife with your finger. What direction does it point?",
+      "shape": "How do the round lemons look next to the tall bottle?",
+      "color": "How do the deep purple eggplants stand out next to the bright lemons?",
+      "texture": "How can you tell the napkins are cloth and the bowl is hard?",
+      "space": "How did the painter make some things seem close and others far away?",
+      "light": "Where do you see bright spots and dark spots on the eggplants?",
+      "meaning": "Why might a painter leave the chair only half drawn?",
+      "culture": "What does a table like this tell us about a meal long ago?",
+      "technique": "How can you tell the painter simplified the shapes?",
+      "personal": "How would you arrange fruit and a bottle so a picture looks interesting?",
+      "critical": "Is it okay for part of a painting to look unfinished? Use details to explain."
+    },
+    "g35": {
+      "daily": "Which objects feel carefully placed, and which feel as if someone just set them down?",
+      "emotion": "What mood does this tabletop have, and which choices create it?",
+      "observation": "Look closely at the loosely corked bottle. What does that small detail suggest?",
+      "analysis": "How does Dickinson arrange the objects so your eye travels across the table?",
+      "line": "How do the edges of the bowl, the knife, and the table create lines that guide you?",
+      "shape": "How do the smooth, rounded eggplants contrast with the sharper outline of the knife?",
+      "color": "How does the purple of the eggplants work with the yellow of the lemons?",
+      "texture": "How does the painter show the difference between fabric napkins, a hard bowl, and fruit skin?",
+      "space": "What does the empty background do to the space around the objects?",
+      "light": "How does light help the lemons and eggplants look solid?",
+      "meaning": "Why might Dickinson choose ordinary food instead of a grand subject?",
+      "culture": "What might a table like this tell us about American life in the 1920s?",
+      "technique": "What do you think the sketchy chair adds that a finished chair might not?",
+      "personal": "What everyday objects would you choose to paint, and what would you want to find out?",
+      "critical": "The chair is only lightly drawn. Is that a flaw or a choice? Defend your view."
+    },
+    "g68": {
+      "daily": "Which parts of the arrangement look planned, and which look accidental? What details tell you?",
+      "emotion": "What mood does the empty background give the objects on the table?",
+      "observation": "Describe the bottle, the bowl, and the knife. Which detail do you notice only on a second look?",
+      "analysis": "How does the overlap of objects lead your eye through the picture?",
+      "line": "How do the straight edges of the knife and table contrast with the curves of the fruit?",
+      "shape": "How does Dickinson simplify the eggplants and lemons into bold, solid forms?",
+      "color": "How do the cool purples and warm yellows make each other look brighter?",
+      "texture": "How does the artist suggest different surfaces, such as cloth, metal, and skin?",
+      "space": "How does the faint chair behind the table affect your sense of how deep the room is?",
+      "light": "Where does light fall on the fruit, and what does it do for their weight?",
+      "meaning": "What might the artist be exploring by painting everyday food instead of a story?",
+      "culture": "How does a still life like this reflect modern American interest in everyday objects in the 1920s?",
+      "technique": "What does the lightly sketched chair suggest about how the painting was made?",
+      "personal": "What would you want to study closely if you painted one table in your home?",
+      "critical": "Is an unfinished background a weakness or a strategy? Argue one side with evidence."
+    },
+    "g910": {
+      "daily": "How do the loose cork and casual placement affect the sense that this table has been recently used?",
+      "emotion": "How does the muted emptiness around the objects create a mood of stillness or suspense?",
+      "observation": "Examine the knife, bowl, and napkins. What does their arrangement suggest about a meal that is only just interrupted?",
+      "analysis": "Analyze how overlapping forms and the tilted tabletop organize this composition.",
+      "line": "How do the crisp edges of the knife and bowl contrast with the softer outlines of the fruit?",
+      "shape": "How does simplifying fruit into solid, almost sculptural volumes connect to the Precisionist interest in clear forms?",
+      "color": "How does the limited, saturated palette of purple and yellow create emphasis without a busy background?",
+      "texture": "What does the painted handling of cloth, fruit, and metal reveal about the artist's control of surface?",
+      "space": "How does the sketched chairback open or flatten the space, and what is gained by leaving it unresolved?",
+      "light": "How does the handling of light define the lemons' roundness, and why might it be restrained?",
+      "meaning": "What might Dickinson's choice of humble food suggest about how modern artists treated everyday subjects?",
+      "culture": "How does the work reflect an American, post-war interest in modern, simplified design?",
+      "technique": "What does the deliberate contrast of finished and unfinished areas tell you about the painter's priorities?",
+      "personal": "What does this painting make you question about how you normally look at kitchen objects?",
+      "critical": "Should a still life be valued for its accuracy or for how it reorganizes the familiar? Support your answer."
+    },
+    "g1112": {
+      "daily": "How does the casual arrangement complicate the stillness we expect from a still life?",
+      "emotion": "Does the emptiness behind the objects read as calm or as unsettling, and how might different viewers respond?",
+      "observation": "Examine the loosely corked bottle and the scattered napkins. Do you read them as narrative clues or as formal devices?",
+      "analysis": "Analyze how overlap, tilted planes, and the sparse ground structure the composition.",
+      "line": "How do the hard edges of the knife and bowl set up a rhythm against the rounded fruit?",
+      "shape": "How does the reduction of eggplants and lemons to dense, simple volumes relate to Precisionist ideals?",
+      "color": "Evaluate how the saturated, limited palette creates unity without relying on a detailed setting.",
+      "texture": "What does the contrast between smooth fruit, cloth, and metal reveal about painting as a record of touch?",
+      "space": "How does the half-drawn chair function as an argument about completion and process?",
+      "light": "How might the handling of light serve structure more than atmosphere, and what follows from that choice?",
+      "meaning": "What does choosing a modest subject say about modern artists' departure from grand themes?",
+      "culture": "How does this work reflect the interwar American appetite for clarity, order, and the look of the modern?",
+      "technique": "How does the visible contrast between finished and sketched areas challenge the idea that a painting must be uniformly resolved?",
+      "personal": "How does this painting alter your sense of whether an object's meaning comes from its type or its arrangement?",
+      "critical": "What criteria would you use to defend this painting's interest to someone who finds it plain?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, type and department checked against the Cleveland Museum of Art Open Access record; no concerning terms or imagery in the record fields read.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "A still life painted around 1924 by American artist Preston Dickinson in oil on canvas. The museum describes eggplants and lemons with a bowl, knife and napkins, a loosely corked bottle, and a lightly sketched chairback. Dickinson is often linked with Precisionism.",
+    "vocabulary": [
+      "still life",
+      "composition",
+      "Precisionism",
+      "overlap",
+      "background",
+      "brushwork"
+    ],
+    "directions": [
+      "Arrange two or three kitchen objects on a table and have students draw only the big shapes first, then add details.",
+      "Ask students to decide which part of the painting looks finished and which looks sketched, and discuss why an artist might do both.",
+      "Compare this with a photograph of the same arrangement and talk about what the painter chose to simplify."
+    ]
+  }
+}

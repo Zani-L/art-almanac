@@ -1,0 +1,158 @@
+{
+  "id": "met-250672",
+  "day": "07-23",
+  "title": "Gold earrings",
+  "artist": "Artist unknown",
+  "date": "4th–early 3rd century BCE",
+  "medium": "Gold",
+  "region": "Etruscan",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP257485-1810312.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP257485-1810312.jpg",
+    "credit": "The Metropolitan Museum of Art, Funds from various donors, 1918",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A pair of ancient gold earrings, small pieces of jewelry made to hang from the ears. They are made entirely of gold and show careful goldsmith work.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/250672",
+    "objectId": "250672",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, culture, date, medium, classification, tags (none listed), public-domain flag, credit line, and image URLs read from the record"
+  },
+  "context": "A pair of gold earrings made by Etruscan craftspeople in Italy in the 4th to early 3rd century BCE. Etruscan goldsmiths were renowned in the ancient world for the fineness of their work.",
+  "descriptions": {
+    "k": "These are gold earrings from long ago. People in Italy wore them. They are very small and shiny. Look for tiny parts. How would you feel wearing earrings like these?",
+    "g12": "These shiny earrings are made of gold. The Etruscans, who lived in Italy long ago, made them more than 2,200 years ago. Etruscan goldsmiths were famous for tiny, careful work. Look closely for small shapes and fine details. Why would someone wear gold earrings every day or save them for a special day?",
+    "g35": "The Etruscans lived in central Italy before the Romans took over, and they were known for their gold jewelry. These earrings were made between the 4th and early 3rd century BCE. A goldsmith shaped each tiny part by hand. Look closely at the shapes, lines, and details. How might a goldsmith have made something so small without modern tools?",
+    "g68": "Etruscan goldsmiths worked with very fine techniques, including making tiny wires and decorating surfaces with small gold beads. These earrings, from the 4th to early 3rd century BCE, show how jewelry could combine beauty with skill. Gold does not rust or tarnish, which is part of why it survives and why it was so valued. Look for how the design balances the two earrings as a pair. What does wearing gold say about a person in any age?",
+    "g910": "Gold earrings from Etruria demonstrate how a small object can concentrate technical skill and social meaning. Gold's resistance to corrosion preserved these ornaments, and its value signaled wealth, while the delicate shapes show goldsmithing at a high level. Etruscan women in particular are often associated with elaborate jewelry in funerary art, though this record does not say who owned this pair. Consider how a pair of earrings, designed to move and catch light, differs from a static object in a case.",
+    "g1112": "These Etruscan gold earrings invite attention to craftsmanship, display, and the afterlife of ancient objects. Etruscan goldwork is renowned for fine decorative techniques, but attribution of a given pair to a workshop or period depends on comparison and context that the record does not fully specify. Earrings are made to move and reflect light, a quality that museum display largely suppresses. Consider how jewelry mediates between body and society, and how survival in a museum case alters the meaning of an object once worn."
+  },
+  "questions": {
+    "k": {
+      "daily": "Who do you think wore these earrings?",
+      "emotion": "How would you feel wearing earrings like these? Why?",
+      "observation": "What do you see in these earrings? Point to three things.",
+      "analysis": "Where do your eyes go first on the earrings?",
+      "line": "Can you find a curving line or a circle? Trace it in the air.",
+      "shape": "What shapes do you see? Look for round and pointy shapes.",
+      "color": "What color are the earrings? What else is that color?",
+      "texture": "How do you think gold would feel on your fingers? Smooth or bumpy?",
+      "space": "These earrings are tiny. How would they look next to your hand?",
+      "light": "Where do the earrings shine the most?",
+      "meaning": "If the earrings could tell a story, what would they say?",
+      "culture": "People in Italy wore these long ago. What do people wear today to look special?",
+      "technique": "A goldsmith made these by hand. What tools do you think were needed?",
+      "personal": "If you could design an earring, what shapes would you use?",
+      "critical": "Why would someone want gold earrings?"
+    },
+    "g12": {
+      "daily": "How do you think these earrings were worn? What clues help you decide?",
+      "emotion": "What feeling do shiny gold earrings give you? Which part makes you feel that way?",
+      "observation": "Describe the earrings to a friend who cannot see them. What parts do you name?",
+      "analysis": "How does the design make you look closely at each part of the earring?",
+      "line": "Find curved lines and straight lines in the earrings. Where do they meet?",
+      "shape": "Which shapes repeat? Can you count them?",
+      "color": "Why might gold have been a favorite metal for jewelry?",
+      "texture": "Which parts look smooth and which look bumpy or detailed?",
+      "space": "How can you tell the earrings are tiny? What would you compare them to?",
+      "light": "Where does the gold look brightest? Why?",
+      "meaning": "Why might people long ago have worn gold earrings?",
+      "culture": "The Etruscans lived in Italy before Rome ruled. What do the earrings tell you about their skills?",
+      "technique": "A goldsmith made small parts by hand. Why might that be hard?",
+      "personal": "If you made earrings for a friend, what would they look like?",
+      "critical": "Why do you think the earrings are a pair, and not just one?"
+    },
+    "g35": {
+      "daily": "What details show the earrings were made with great care?",
+      "emotion": "What mood do the earrings create, elegant or playful? Which details support your answer?",
+      "observation": "Take a minute of quiet looking. What tiny details do you find?",
+      "analysis": "How does the goldsmith arrange the parts so the earring looks balanced?",
+      "line": "How do the curves and straight lines in the earrings work together?",
+      "shape": "How do repeated shapes create a pattern in the design?",
+      "color": "Gold stays shiny for thousands of years. How might that change how we see these earrings today?",
+      "texture": "How might the goldsmith make smooth and rough areas in the metal look different?",
+      "space": "A pair of earrings hangs from the ears. How might that affect how they are designed?",
+      "light": "Gold reflects light strongly. How would moving make these earrings look different?",
+      "meaning": "Why might gold earrings show that someone was important or wealthy?",
+      "culture": "What can these earrings tell us about the Etruscans and their way of life?",
+      "technique": "A goldsmith worked with gold wire and shapes. What kinds of problems might they have had to solve?",
+      "personal": "Which of your own belongings is special to you and small like these earrings?",
+      "critical": "Why do you think a pair of earrings was saved for more than two thousand years?"
+    },
+    "g68": {
+      "daily": "How does the goldsmith turn a small piece of metal into an object worth looking at closely?",
+      "emotion": "What mood do the earrings create, and which details support your idea?",
+      "observation": "List what you see from the top of the earring to the bottom. Which details seem most carefully made?",
+      "analysis": "How does the design balance the earring as a whole, and how do the two work as a pair?",
+      "line": "How do the curves and lines create rhythm in the design?",
+      "shape": "How do repeated or contrasting shapes organize the earring?",
+      "color": "How does the warm color of gold shape the way these earrings look?",
+      "texture": "How might fine detail create a different texture from smooth, polished areas?",
+      "space": "Earrings must hang on the body. How does that shape the three-dimensional design?",
+      "light": "How would movement and changing light make gold earrings look different from a photo?",
+      "meaning": "What might gold jewelry have communicated about the wearer in Etruscan society?",
+      "culture": "How might Etruscan trade and contact with Greece have influenced the style of jewelry?",
+      "technique": "What skills, such as wire making and soldering, might a goldsmith need for such small work?",
+      "personal": "What do people wear today to show who they are? Compare it with these earrings.",
+      "critical": "What can we say with confidence about these earrings, and what questions about their owner remain open?"
+    },
+    "g910": {
+      "daily": "How does the goldsmith combine technical precision and ornament in a small pair of earrings?",
+      "emotion": "What social or emotional effect might gold earrings have had on wearer and viewer?",
+      "observation": "Describe the visual hierarchy of each earring: what do you see first, and which design choices create that order?",
+      "analysis": "Analyze how the design coordinates repeated and varied elements into a coherent whole.",
+      "line": "How do fine lines and edges define forms at such a small scale?",
+      "shape": "How do the shapes within the earrings relate to the overall silhouette?",
+      "color": "How does gold's warm color and shine shape the object's meaning compared with silver or bronze?",
+      "texture": "How do surface treatments, such as polish or fine detail, make small gold objects read at close range?",
+      "space": "How does designing for the human ear shape the earring's weight, shape, and balance?",
+      "light": "How does the way gold catches moving light differ from the way stone or clay does?",
+      "meaning": "What might gold jewelry signal about status, family, or ritual in Etruscan society, and how certain can we be?",
+      "culture": "How does Etruscan jewelry show both local identity and contact with Greek and wider Mediterranean styles?",
+      "technique": "What technical challenges does a goldsmith face when joining tiny parts without modern tools?",
+      "personal": "How do modern jewelry and ancient jewelry both communicate identity? Where do they differ?",
+      "critical": "What evidence could connect these earrings to a specific workshop, place, or wearer?"
+    },
+    "g1112": {
+      "daily": "What can be argued about these earrings from their form and material alone, and what goes beyond the evidence?",
+      "emotion": "How does jewelry mediate between private feeling and public status, and how can we reason about that for an ancient culture?",
+      "observation": "Describe the earrings' formal organization precisely. Where does description depend on assumption?",
+      "analysis": "Analyze how the design integrates technical constraints, such as weight and attachment, with decorative ambition.",
+      "line": "How does fine linear detail operate as both structure and ornament in a small gold object?",
+      "shape": "How do the earrings' internal shapes negotiate between symmetry and variation?",
+      "color": "How does gold's cultural value interact with its visual qualities in shaping the earrings' meaning?",
+      "texture": "How does surface detail at this scale reward close looking, and how does museum photography change that experience?",
+      "space": "How does the design for an ear, a moving part of the body, shape the work's relationship to space?",
+      "light": "How might moving light have been part of these earrings' original effect, and what is lost in static display?",
+      "meaning": "How might funerary and burial contexts, if relevant, shape both survival and meaning of Etruscan jewelry? What would we need to know?",
+      "culture": "How do these earrings complicate narratives that treat Etruscan art as derivative of Greek art?",
+      "technique": "What do the technical demands of the work suggest about training, specialization, and workshops?",
+      "personal": "How does the museum category of gold and silver shape how we value jewelry compared with sculpture?",
+      "critical": "How should scholars treat unrecorded owners and makers when writing about ancient adornment?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, objectName, classification, medium and tags (none listed) checked against the museum record: no nudity, violence, death, war, or other risk terms. The subject is a pair of gold earrings; the record lists no figures. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A pair of Etruscan gold earrings of the 4th to early 3rd century BCE. The Etruscans of central Italy were famous goldsmiths who traded widely in the Mediterranean.",
+    "vocabulary": [
+      "Etruscan",
+      "goldsmith",
+      "ornament",
+      "jewelry",
+      "symmetry",
+      "craftsmanship"
+    ],
+    "directions": [
+      "Ask students to design a pair of earrings using only simple shapes and then explain what each shape adds.",
+      "Discuss why gold survives so well underground and what that means for what museums can show.",
+      "Compare these earrings with modern jewelry, noting scale, material, and design."
+    ]
+  }
+}

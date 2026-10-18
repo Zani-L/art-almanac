@@ -1,0 +1,159 @@
+{
+  "id": "met-438551",
+  "day": "11-14",
+  "title": "On the Beach, Sunset",
+  "artist": "Eugène Boudin",
+  "date": "1865",
+  "medium": "Oil on wood",
+  "movement": "Realism and early Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1031.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1031.jpg",
+    "credit": "The Metropolitan Museum of Art, The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A small painting of a wide, flat beach at the end of the day, with a few figures standing near the water's edge. Most of the picture is a huge sky of clouds glowing with sunset color.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/438551",
+    "objectId": "438551",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, tags (Men, Women, Beaches), dimensions (15 x 23 in.), credit line, and image URLs read from the record"
+  },
+  "context": "Eugène Boudin was a French painter of the Normandy coast who made small oil paintings of beaches, skies, and visitors outdoors. This sunset beach scene dates to 1865. Boudin is remembered as an early encourager of Claude Monet's outdoor painting.",
+  "descriptions": {
+    "k": "The sun is going down at the beach. Soft clouds fill the big sky. A few people stand on the sand. It feels quiet. What sounds do you hear at the beach at sunset?",
+    "g12": "Eugène Boudin painted this beach at sunset. The sky is huge and full of soft clouds. Small people stand on the wide, flat sand. The colors are gentle and warm. The painting is small, but the sky feels enormous. What do you think the people are looking at?",
+    "g35": "Eugène Boudin, a French painter, loved to paint skies and beaches. Here, the sun sets over the sea, and most of the picture is sky. A few small figures on the sand show how big the world is. The painting is small, painted on wood. Why might Boudin give so much of the picture to the sky?",
+    "g68": "In 1865, Boudin painted this beach scene on a small wooden panel, as he often did, working quickly to catch changing light. The sky fills most of the space, while small figures on the sand give scale. His skies influenced Monet, who credited him with teaching him to paint outdoors. How does the balance of sky and sand create mood, and what does a small panel suggest about working outdoors?",
+    "g910": "Boudin specialized in skies and coastal light, painting small outdoor panels like this one to record weather and time of day. The low horizon gives the sky dominance, and the small figures create scale and a sense of leisure. His work was an important model for Monet and the young Impressionists. Consider how a small, quick painting can seem expansive, and how the title directs attention to a specific moment.",
+    "g1112": "On the Beach, Sunset exemplifies Boudin's practice of recording atmospheric effects directly on small panels, a method that influenced the next generation of landscape painters. The low horizon, dominant sky, and tiny figures shift the weight of the picture from human narrative to weather and time. Scholars often place Boudin between Realism and Impressionism. How does the painting's modest scale and rapid facture complicate distinctions between sketch and finished work?"
+  },
+  "questions": {
+    "k": {
+      "daily": "What sounds would you hear at this beach at sunset?",
+      "emotion": "Does the beach feel calm, lonely, or happy? Why do you think so?",
+      "observation": "Find the sky, the sand, and the people. Which part is biggest?",
+      "analysis": "Why do you think the painter made the sky so large?",
+      "line": "Follow the line where the sea meets the sky. Is it high or low in the picture?",
+      "shape": "The clouds have soft shapes. What do they look like to you?",
+      "color": "Find the sunset colors. Which one is your favorite?",
+      "texture": "How would the sand feel under your feet? How would the clouds feel if you could touch them?",
+      "space": "Who is close to you on the beach and who is far away? How can you tell?",
+      "light": "Where is the light brightest in the sky? What does it touch?",
+      "meaning": "What do you think the people are looking at or talking about?",
+      "culture": "People in France enjoyed the beach long ago. What do you like to do at the beach?",
+      "technique": "This painting is small. Why might a painter use a small board when painting outside?",
+      "personal": "What is your favorite time of day to be outside? What does it look like?",
+      "critical": "Would this picture feel the same if the people were bigger? What would change?"
+    },
+    "g12": {
+      "daily": "What do you think the people on the beach are looking at, and what clues help you decide?",
+      "emotion": "How does the end of the day feel in this picture? Which parts give you that feeling?",
+      "observation": "List five things you see, from the clouds to the sand.",
+      "analysis": "How does the huge sky change what you notice about the tiny people?",
+      "line": "The horizon is a long, flat line. How does it make the beach feel wide and calm?",
+      "shape": "Compare the soft cloud shapes with the flat shape of the sand. How are they different?",
+      "color": "Which colors in the sky are warm and which are cool? How do they work together?",
+      "texture": "Which parts of the painting look soft and fluffy? Which look flat and smooth?",
+      "space": "How can you tell the beach goes on for a long way?",
+      "light": "Where does the sunset light seem to land on the sand?",
+      "meaning": "The people are very small. What might the artist want you to feel about nature?",
+      "culture": "Beaches in France became popular places to visit in the 1800s. What does this picture show about how people enjoyed them?",
+      "technique": "Boudin painted quickly to catch the changing sky. Where can you see quick strokes?",
+      "personal": "Describe a sunset you remember. How would you paint it?",
+      "critical": "Is this picture more about the people or the sky? Explain."
+    },
+    "g35": {
+      "daily": "Imagine standing among the figures on the beach. What would you notice about the sky, the air, and the sounds, and which details support your ideas?",
+      "emotion": "How would you describe the mood of the end of day in this painting? Use two details as evidence.",
+      "observation": "After one minute of quiet looking, what small details on the beach did you not notice at first?",
+      "analysis": "How does Boudin balance the large sky with the narrow strip of sand and sea?",
+      "line": "How does the low, straight horizon affect the feeling of the scene?",
+      "shape": "How do the soft, irregular cloud shapes contrast with the small, upright figures?",
+      "color": "How does Boudin blend warm sunset colors with cooler tones in the sky to create a glowing effect?",
+      "texture": "How does he suggest the softness of clouds and the dampness of sand without painting every detail?",
+      "space": "How does the size of the people help you understand the size of the beach and sky?",
+      "light": "How does the sunset change the colors of the sand and sea below?",
+      "meaning": "Why might an artist choose to show people as small figures under a great sky?",
+      "culture": "Boudin painted the Normandy coast, where visitors from Paris came to enjoy the seaside. What might that tell you about changes in everyday life?",
+      "technique": "Boudin often painted on small wood panels outdoors. How might a small size help with painting changing light?",
+      "personal": "Think of a time you watched the sky change. How would you capture it in paint?",
+      "critical": "Is a small painting less important than a large one? Use this picture to support your view."
+    },
+    "g68": {
+      "daily": "How does Boudin make a small panel feel as wide as the sky itself?",
+      "emotion": "How does the painting evoke quiet at the end of a day through composition and color?",
+      "observation": "Describe the proportions of sky, sea, and sand. What does the balance tell you about the artist's priorities?",
+      "analysis": "How does the placement of the small figures anchor a composition dominated by sky?",
+      "line": "How does the strong horizontal line of the horizon contribute to stability, while the clouds add movement?",
+      "shape": "How do the large cloud masses and small human forms create a contrast of scale?",
+      "color": "How does Boudin use subtle shifts among warm and cool colors to show the changing light of sunset?",
+      "texture": "How does thin, quick paint create the impression of moving air and wet sand?",
+      "space": "How does the wide, flat beach lead the eye back to the horizon?",
+      "light": "How does the low sun color the clouds and the ground differently?",
+      "meaning": "Some viewers see small figures under a vast sky as a statement about people and nature. What details support or challenge that idea?",
+      "culture": "How might the arrival of railways and seaside holidays have changed the subjects available to painters like Boudin?",
+      "technique": "Monet credited Boudin with teaching him to paint outdoors. What features of this painting show the value of outdoor study?",
+      "personal": "What everyday scene would you try to capture quickly before the light changed, and why?",
+      "critical": "Is a quick outdoor sketch as valuable as a carefully finished studio painting? Defend your view."
+    },
+    "g910": {
+      "daily": "How does Boudin convert a modest beach view into a study of atmosphere?",
+      "emotion": "How does the painting generate mood through sky and light rather than through figures or action?",
+      "observation": "Analyze the visual hierarchy: what dominates, what recedes, and which devices produce that order?",
+      "analysis": "Analyze how the proportion of sky to land shapes the meaning of the scene.",
+      "line": "How does the low horizon interact with the irregular forms of clouds to balance calm and movement?",
+      "shape": "How do small, upright figures register scale against the broad, soft masses of cloud?",
+      "color": "How does a restrained but luminous palette convey the transition of daylight at sunset?",
+      "texture": "How do thin, rapid strokes communicate the transience of weather and the damp surface of the beach?",
+      "space": "How does the painting create a sense of vast space on a small support?",
+      "light": "How does Boudin render light as atmosphere, and how does that foreshadow Impressionism?",
+      "meaning": "What does the choice of tiny figures and a dominant sky suggest about the relation between people and nature, and where does interpretation become speculation?",
+      "culture": "How does the picture reflect the development of the Normandy coast as a leisure destination in the 1860s?",
+      "technique": "How does the small wooden support shape the portability and immediacy of the painting process?",
+      "personal": "How does the painting's modest scale affect your sense of intimacy compared with a large landscape?",
+      "critical": "Boudin is sometimes overshadowed by the artists he influenced. How should we value teachers and precursors in art history?"
+    },
+    "g1112": {
+      "daily": "What claims does a small, rapid study of sky and beach make about what painting should attend to?",
+      "emotion": "How does the painting sustain a quiet emotional register through atmosphere, and what does that ask of the viewer?",
+      "observation": "Describe the painting's formal structure precisely, then identify which parts of your description already interpret.",
+      "analysis": "How does the shift of weight from figures to sky challenge the conventions of narrative landscape painting?",
+      "line": "How does the painting subordinate contour to tonal and chromatic gradation, and what does that imply about perception?",
+      "shape": "How do the diminutive figures operate as both documentary notation and compositional punctuation?",
+      "color": "How does the painting's chromatic subtlety anticipate Impressionist concerns while remaining tied to earlier tonal traditions?",
+      "texture": "How does the thin, rapid facture complicate the distinction between sketch and finished picture?",
+      "space": "How does a compact support produce an experience of expansive space, and what is the role of the low horizon?",
+      "light": "In what ways does the painting treat light as time and weather, and how does the title frame it as a specific moment?",
+      "meaning": "Evaluate readings of the picture as a document of seaside leisure, a meditation on scale, and a study of atmosphere. What evidence supports each?",
+      "culture": "How does a painting of fashionable coastal leisure intersect with 19th-century ideas of modernity and nature?",
+      "technique": "What can small-scale outdoor painting teach us about the material conditions of early Impressionist practice?",
+      "personal": "How do your own associations with beaches and sunsets shape whether you read this picture as sentimental or observed?",
+      "critical": "How should art history weigh Boudin's influence on others against his achievement on his own terms?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, tags (Men, Women, Beaches), classification (Paintings), and medium checked against the museum record. The subject is a beach at sunset with small clothed figures.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in 1865 on a small wood panel. Boudin painted skies and Normandy beaches outdoors and encouraged the young Monet to work outdoors as well.",
+    "vocabulary": [
+      "horizon",
+      "atmosphere",
+      "oil on wood",
+      "en plein air",
+      "scale",
+      "sunset"
+    ],
+    "directions": [
+      "Ask students to divide a paper into sky and ground, then decide how much of each they want and why.",
+      "Have students paint a quick 10-minute sky study with just three colors.",
+      "Discuss how changing the size of the figures would change the meaning of the picture."
+    ]
+  }
+}

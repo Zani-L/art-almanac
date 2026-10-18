@@ -1,0 +1,158 @@
+{
+  "id": "met-436524",
+  "day": "10-17",
+  "title": "Sunflowers",
+  "artist": "Vincent van Gogh",
+  "date": "1887",
+  "medium": "Oil on canvas",
+  "movement": "Post-Impressionism",
+  "region": "France",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-41223-001.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-41223-001.jpg",
+    "credit": "The Metropolitan Museum of Art, Rogers Fund, 1949",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "Several sunflower heads, some bright and open and others drooping and fading, lie against a deep blue-green background. They are painted with thick, visible brushstrokes in yellows, oranges, and greens.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/436524",
+    "objectId": "436524",
+    "verifiedOn": "2026-10-16",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, public-domain flag, and image URLs read from the record"
+  },
+  "context": "An oil painting by Vincent van Gogh dated 1887, made during his time in Paris. It shows cut sunflowers lying against a blue-green background, painted with thick, directional brushstrokes.",
+  "descriptions": {
+    "k": "These are sunflowers. Some are bright and yellow. Some are drooping. The paint looks thick and bumpy. Vincent van Gogh painted them. What colors can you see?",
+    "g12": "Vincent van Gogh painted these sunflowers in Paris. The flowers are not in a vase. They lie down against a blue-green background. Look at the thick, swirly paint. Some flowers are bright, and some are old and droopy. How does each flower seem different?",
+    "g35": "In 1887 Vincent van Gogh was living in Paris and learning from other artists. He painted these cut sunflowers lying against a blue-green background, using thick strokes of yellow, orange, and green. Some blooms are fresh and others are fading. Look for the direction of the brushstrokes. How do they help the flowers seem alive?",
+    "g68": "Van Gogh painted Sunflowers in Paris in 1887, a year after he arrived from the Netherlands and met artists experimenting with color, including the Impressionists. Instead of arranging the flowers in a vase, he let them lie against a blue-green ground, studying how yellows, oranges, and greens vibrate against that cool background. The thick, directional brushstrokes, called impasto, give each petal and seed head a physical presence. The wilting flowers also remind viewers that beauty changes over time.",
+    "g910": "Painted in Paris in 1887, this Sunflowers shows Van Gogh absorbing lessons from Impressionism and from Neo-Impressionist color theory while developing his own expressive touch. The blooms lie against a cool teal ground, so the warm yellows and oranges gain intensity through contrast. Visible, directional strokes build form and rhythm, and the mix of fresh and withered heads introduces ideas of life and decay. Sunflowers later became central to his famous 1888 Arles series, but this earlier canvas treats the subject as an experiment in color and paint.",
+    "g1112": "Sunflowers (1887) belongs to Van Gogh's Paris period, when exposure to Impressionism, Japanese prints, and Neo-Impressionist color theory pushed his palette brighter. Here the flower heads lie on a teal ground rather than standing in a vase, an unusual choice that turns a still life into a study of color relations and paint application. Directional impasto gives the work a restless energy, and the juxtaposition of full and fading blooms invites readings about vitality and decay, though the picture alone does not settle what he intended."
+  },
+  "questions": {
+    "k": {
+      "daily": "Which sunflower do you like best? What do you like about it?",
+      "emotion": "Do these flowers make you feel happy, sleepy, or something else? Why?",
+      "observation": "What do you see? Count how many sunflowers you can find.",
+      "analysis": "Which flower do your eyes find first? What helps it stand out?",
+      "line": "Can you find short, curvy lines in the petals? Trace one in the air.",
+      "shape": "What shapes do you see in the flowers? Look for circles and pointy shapes.",
+      "color": "Which colors do you see? Which color is the brightest?",
+      "texture": "The paint looks thick and bumpy. How do you think it would feel to touch?",
+      "space": "Which flowers are in front? Which flowers are behind others?",
+      "light": "Which parts of the flowers look bright? Which look darker?",
+      "meaning": "These flowers are cut and lying down. What do you think happened to them?",
+      "culture": "Van Gogh came from the Netherlands and painted these in France. What flowers grow near where you live?",
+      "technique": "The artist used lots of paint and a brush. How do you think he made the petals?",
+      "personal": "What is your favorite flower or plant? Tell about it.",
+      "critical": "Some flowers look fresh and some look old. How can you tell the difference?"
+    },
+    "g12": {
+      "daily": "How are the sunflowers different from each other? Show details that help you tell.",
+      "emotion": "What feeling do the bright flowers give you? Does the blue-green background change the feeling?",
+      "observation": "Describe three different flowers. What do their petals and centers look like?",
+      "analysis": "How did the artist make some flowers stand out more than others?",
+      "line": "Look at the brushstrokes. Which way do they go? How do they make the flowers feel alive?",
+      "shape": "Find round shapes and pointy shapes. Where do they meet?",
+      "color": "Yellow and orange are warm colors. How does the cool blue-green behind them change how they look?",
+      "texture": "How can you tell the paint is thick? What would it feel like to touch?",
+      "space": "Which flowers are in front, and which are behind? How can you tell?",
+      "light": "Where does the painting look brightest? How does that bright spot make you feel?",
+      "meaning": "Some flowers are bright and some are drooping. What might the artist want us to think about?",
+      "culture": "Vincent van Gogh made this painting in France. Where do you see flowers in your own city or town?",
+      "technique": "Van Gogh used thick oil paint. What might be fun about painting with it?",
+      "personal": "If you could plant sunflowers, where would you put them? Why?",
+      "critical": "Why might an artist paint flowers lying down instead of in a vase?"
+    },
+    "g35": {
+      "daily": "How does Van Gogh's use of color and brushstrokes make these sunflowers feel alive?",
+      "emotion": "What mood do the warm flowers and cool background create together?",
+      "observation": "Look closely at three flowers. What differences in color, shape, and brushwork do you notice?",
+      "analysis": "How does Van Gogh arrange the flowers so your eyes move around the whole canvas?",
+      "line": "How do the direction and length of the brushstrokes in the petals compare with those in the background?",
+      "shape": "How do the circular flower centers contrast with the pointed petals? Where does this contrast create energy?",
+      "color": "How do the warm yellows and oranges look against the cool blue-green? What might happen with a different background?",
+      "texture": "Van Gogh used thick paint. How does this add to the feeling of texture in the petals and seeds?",
+      "space": "The flowers lie across much of the canvas with little empty background. How does that affect how close you feel to them?",
+      "light": "Where do the brightest yellows appear? How do the darker colors help them glow?",
+      "meaning": "The flowers range from fresh to wilting. What ideas about time or change might the painting suggest?",
+      "culture": "In 1887 Van Gogh was living in Paris and seeing new art. How might that explain the bright colors in this painting?",
+      "technique": "Van Gogh built up thick layers of paint with visible strokes. Why might an artist want viewers to see the brushwork?",
+      "personal": "When have you noticed beauty in something that was fading or imperfect?",
+      "critical": "Is this painting mostly about flowers, or about color and paint? What evidence supports your choice?"
+    },
+    "g68": {
+      "daily": "How does Van Gogh use color contrast and brushwork to turn simple flowers into something intense?",
+      "emotion": "Is the overall feeling joyful, uneasy, or both? Use specific visual evidence.",
+      "observation": "Describe the range of conditions, from fresh to withered, that you see among the flowers. Which details show each?",
+      "analysis": "How does the arrangement of flower heads across the canvas affect where you look first and where you look next?",
+      "line": "How do the directional brushstrokes create rhythm? Where does the rhythm change?",
+      "shape": "How does Van Gogh simplify the flowers into repeated circles and spikes? How does repetition affect the picture?",
+      "color": "How do contrasting colors, such as orange-yellow against blue-green, make each other look more intense?",
+      "texture": "How does impasto, or thick paint, make the flowers physical as well as visual?",
+      "space": "With no table edge or vase, how does the painting define the space the flowers occupy?",
+      "light": "How does the artist suggest light and shadow through color alone?",
+      "meaning": "Why might Van Gogh include flowers in different states of life? What interpretations does that open up?",
+      "culture": "How might the artistic scene in Paris in 1887 have influenced Van Gogh's choices of color and subject?",
+      "technique": "Compare thick strokes in the petals with thinner areas. How does varying paint thickness add expression?",
+      "personal": "How do you notice change or decay in your daily life, and how might you show it visually?",
+      "critical": "Van Gogh later painted famous sunflowers in vases. What might this earlier version tell us that those do not?"
+    },
+    "g910": {
+      "daily": "How does Van Gogh's treatment of color and touch transform a conventional still-life subject?",
+      "emotion": "How do contrast, energy of touch, and the fading blooms combine to create emotional tension?",
+      "observation": "Catalog the painting's visual features: color, brushwork, arrangement. Which feature seems most distinctive, and why?",
+      "analysis": "How do repetition, variation, and placement of the flower heads organize the composition?",
+      "line": "How does directional brushwork function as line, defining form and movement without outlines?",
+      "shape": "How do the simplified circular and radiating forms create rhythm across the canvas?",
+      "color": "How do warm and cool contrasts, and the influence of color theory, heighten the intensity of the yellows?",
+      "texture": "How does the physical thickness of the paint make the painting both an image and an object?",
+      "space": "How does the shallow, tilted space of the flowers against a flat ground reflect ideas about modern painting?",
+      "light": "How does Van Gogh suggest luminosity through color relationships rather than conventional shading?",
+      "meaning": "To what extent can the contrast between fresh and withered flowers be read symbolically, and what are the limits of that reading?",
+      "culture": "How did the Paris art world of the mid-1880s, with Impressionism and Neo-Impressionism, shape this painting?",
+      "technique": "How does Van Gogh's technique here differ from the smooth, blended surfaces of earlier academic painting?",
+      "personal": "How does your own experience of color shape how you respond to this painting? Where might that influence your interpretation?",
+      "critical": "How does knowing Van Gogh's later reputation change how we look at this earlier canvas? How might it distort it?"
+    },
+    "g1112": {
+      "daily": "How does this canvas balance observation of a natural subject with the expressive possibilities of paint?",
+      "emotion": "How does the painting generate emotional intensity through material means, and what risks arise in reading that intensity biographically?",
+      "observation": "Describe the surface in detail. Which features support or complicate your first impression?",
+      "analysis": "Analyze how the painting's all-over composition challenges traditional hierarchies of still life.",
+      "line": "How does touch function as both description and gesture here? Where does it shift between them?",
+      "shape": "How does the abstraction of the flower heads into radiating patterns relate to later developments in modern painting?",
+      "color": "How might Van Gogh's engagement with color theory inform the relationships here, and where do they exceed theory?",
+      "texture": "How does the painting's materiality complicate the distinction between representation and abstraction?",
+      "space": "How does the painting's flattened, tilted space differ from the perspectival conventions of earlier still life?",
+      "light": "How does color do the work usually done by light and shadow, and what does that imply about the painting's priorities?",
+      "meaning": "Evaluate competing readings of the fading flowers: vanitas, formal experiment, or expressive self-projection. What evidence supports each?",
+      "culture": "How do the cultural exchanges of 1880s Paris, including Impressionism and Japanese prints, complicate describing this as a purely individual vision?",
+      "technique": "What can the visible handling of paint reveal about the speed, decision-making, and process of painting?",
+      "personal": "How do popular myths about Van Gogh shape your expectations when you look at this painting? How might you set them aside?",
+      "critical": "What evidence would you need to claim that this canvas anticipates his later Arles sunflowers, and what would count against that claim?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Subject, title, classification, and tags (Sunflowers, Still Life) checked against the museum record.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Painted in Paris in 1887, before Van Gogh moved to Arles and made his better-known sunflowers-in-a-vase paintings in 1888.",
+    "vocabulary": [
+      "still life",
+      "impasto",
+      "brushstroke",
+      "warm and cool colors",
+      "Post-Impressionism"
+    ],
+    "directions": [
+      "Have students trace the direction of three brushstrokes with a finger and describe the movement.",
+      "Ask students to mix or choose warm colors that would look strong against a cool background.",
+      "Discuss how an artist can show that time passes in a still life."
+    ]
+  }
+}

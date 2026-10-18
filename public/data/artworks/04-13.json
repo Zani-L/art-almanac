@@ -1,0 +1,159 @@
+{
+  "id": "met-40080",
+  "day": "04-13",
+  "title": "Fragrant Snow at Broken Bridge",
+  "artist": "Wang Mian",
+  "date": "14th century",
+  "medium": "Hanging scroll; ink on silk",
+  "movement": "Yuan dynasty ink painting",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP258037.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/as/original/DP258037.jpg",
+    "credit": "The Metropolitan Museum of Art, Ex coll.: C. C. Wang Family, Purchase, Gift of J. Pierpont Morgan, by exchange, 1973",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A tall hanging scroll painted in black ink on silk showing branches of a flowering plum tree. Pale blossoms are set against dark, curving branches.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/40080",
+    "objectId": "40080",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, artist, date, medium, period (Yuan dynasty), tag (Trees), public-domain flag, credit line and image URLs read from the record. The plum-blossom subject is inferred from the title and the artist's well-known specialty, not read from a description."
+  },
+  "context": "A hanging scroll in ink on silk by Wang Mian, a painter of the Yuan dynasty who is especially remembered for his paintings of plum blossoms. The Met dates it to the 14th century. In Chinese art, plum trees that flower in late winter are admired for their endurance.",
+  "descriptions": {
+    "k": "This tall picture shows a plum tree with flowers. The branches are dark and curvy. The flowers are pale and small. Plum trees bloom when it is still cold. Can you trace one branch with your finger?",
+    "g12": "Wang Mian painted this plum tree in China long ago. He used black ink on silk. The dark branches bend and twist, and the flowers look pale and light. Plum trees bloom while winter is still here, so people have admired them for being strong. Which branch do you like best?",
+    "g35": "Wang Mian lived in the Yuan dynasty and became famous for painting plum blossoms. Here he uses black ink on silk to show branches and pale flowers. The title mentions fragrant snow, which may point to the white blossoms. In China, the plum is admired because it blooms in the cold. How do the dark branches and light blossoms work together?",
+    "g68": "Plum blossoms bloom in late winter, so in Chinese culture they became a symbol of perseverance and purity. Wang Mian was one of the painters most associated with the subject. Using only ink on silk, he contrasts dark, bending branches with delicate flowers. The poetic title suggests scent and snow, though the picture itself is silent. What might the painter want us to feel about a plant that blooms in the cold?",
+    "g910": "Wang Mian's hanging scroll reflects a tradition in which plum blossoms stood for endurance, integrity, and quiet beauty, qualities scholars admired. In the Yuan dynasty, many scholar-artists turned to such subjects, though the record does not tell us Wang Mian's exact intentions here. Notice how ink alone defines branch, bloom, and rhythm on the vertical format. How can a plain subject carry moral and poetic meaning?",
+    "g1112": "In Yuan painting, the plum blossom often functions as an emblem of resilience and moral clarity. Wang Mian is closely linked with ink plum, but readings of his work as political commentary or personal expression remain interpretive, not documented. The title, Fragrant Snow at Broken Bridge, evokes scent and place that the silent image can only imply. Consider how the vertical scroll format, ink contrast, and branch rhythm construct meaning, and how much belongs to the viewer."
+  },
+  "questions": {
+    "k": {
+      "daily": "Look at the plum tree branches. Which branch goes up, and which one bends down?",
+      "emotion": "Does this tree look strong, gentle, or both? What makes you think so?",
+      "observation": "Find the flowers on the tree. Can you count some of them?",
+      "analysis": "Where do your eyes go first, to the branches or the flowers? Why?",
+      "line": "Trace a branch with your finger. Is it straight, curvy, or zigzag?",
+      "shape": "The flowers are tiny round shapes. Where do you see them gather together?",
+      "color": "The painting is mostly black and white. Which parts are dark, and which are light?",
+      "texture": "Would the branches feel smooth or rough? What tells you?",
+      "space": "Is there more tree or more empty space in this picture? How does that feel?",
+      "light": "Which part of the picture looks the brightest? Why does it stand out?",
+      "meaning": "Plum trees bloom in the cold. What might the tree be telling us?",
+      "culture": "People in China have loved plum blossoms for hundreds of years. What do you love to see when winter ends?",
+      "technique": "The painter used a brush with black ink. How did he make the branches thick in some places and thin in others?",
+      "personal": "Think of something you do even when it is hard. How is it like this tree?",
+      "critical": "Why might a painter choose only a branch instead of a whole garden?"
+    },
+    "g12": {
+      "daily": "Look at how the branches curve and cross. Which part of the tree seems to move the most?",
+      "emotion": "What feeling does this plum tree give you, quiet, brave, or sad? Show where you see it.",
+      "observation": "Describe the branches and the blossoms. Which are bigger, and which are smaller?",
+      "analysis": "How does the painter lead your eye along the branches from one place to another?",
+      "line": "Compare thick branch lines with thin twigs. How do they make the tree feel alive?",
+      "shape": "Find round flowers and long branches. How do these shapes make a pattern together?",
+      "color": "The picture uses ink on silk. How does the painter make the flowers look pale next to dark branches?",
+      "texture": "Which parts look rough and old, and which look soft and new?",
+      "space": "How does the empty space around the branches help us see them?",
+      "light": "The flowers seem to glow against the dark branches. How did the painter do that?",
+      "meaning": "The plum blooms in winter. Why might that make people admire it?",
+      "culture": "The title talks about snow and a bridge. What might a place with a broken bridge in winter look like?",
+      "technique": "Wang Mian painted on silk with ink. What would be hard about painting thin twigs with a soft brush?",
+      "personal": "What is your favorite flower or tree in winter or spring? How would you paint it?",
+      "critical": "Do you think a painting of a plant can have a big meaning? Explain with something you see."
+    },
+    "g35": {
+      "daily": "What details make this plum tree feel alive even though it is painted only in ink?",
+      "emotion": "How does the contrast between dark, bending branches and pale blossoms create a quiet or hopeful mood?",
+      "observation": "Look for one full minute. What small details about the branches, buds, or blossoms did you notice late?",
+      "analysis": "How does the vertical shape of the scroll help the painter show the way the branch grows?",
+      "line": "How does the painter use thick and thin lines to show age and new growth in the plum branches?",
+      "shape": "How do the repeated small shapes of the blossoms create a pattern across the branches?",
+      "color": "How does the painter make the blossoms seem like snow using the same ink as the branches?",
+      "texture": "How does the painter suggest the rough bark of old branches compared with the soft blossoms?",
+      "space": "Why might Wang Mian leave much of the silk empty? What does the empty space do for the branches?",
+      "light": "How does the painting suggest cold, bright winter air without using bright colors?",
+      "meaning": "In China, plum blossoms stand for courage in hard times. How could you see that idea in the way Wang Mian paints the tree?",
+      "culture": "Wang Mian lived in the Yuan dynasty and became known for plums. Why might a painter specialize in one subject?",
+      "technique": "Painting on silk with ink takes planning because strokes are hard to fix. Which strokes seem the most confident to you?",
+      "personal": "What kinds of things in your life are like the plum, strong when conditions are hard? Share an example.",
+      "critical": "Is it better to see a plum painting as a pretty picture or as a message? Explain your thinking."
+    },
+    "g68": {
+      "daily": "How does Wang Mian turn a branch with small flowers into something that feels worth long looking?",
+      "emotion": "How do rhythm and contrast in the branches create a feeling of quiet strength?",
+      "observation": "Describe the path your eye takes along the branches. Where does it pause, and why?",
+      "analysis": "How does the placement of the blossoms along the branches build the composition?",
+      "line": "How do bending and angled branch lines create tension and movement within a mostly empty scroll?",
+      "shape": "How do the clusters of blossoms and the long lines of branches balance each other?",
+      "color": "With only ink, how does the painter use value, the contrast of dark and light, to make the blossoms stand out?",
+      "texture": "Where do you see rough brushwork and where do you see delicate touches? What does each suggest?",
+      "space": "How does empty silk work like snow or air in this painting? What might it add to the mood?",
+      "light": "How does the contrast between pale flowers and dark branches create a sense of cold, clear light?",
+      "meaning": "Plum blossoms were linked with perseverance and purity. What other meanings might a viewer find in the painting?",
+      "culture": "Why might scholars in the Yuan dynasty have admired paintings of plants as expressions of character?",
+      "technique": "Ink painters often relied on loose, quick brushwork. Where do you see evidence of speed or care in the branches?",
+      "personal": "Think of an object or plant that stands for a personal quality you admire. How could you paint it?",
+      "critical": "Can an image of a plant fairly stand for human qualities such as courage? What are the strengths and limits of that idea?"
+    },
+    "g910": {
+      "daily": "Which brush decision in this scroll most clearly shows Wang Mian's approach to plum painting, and why?",
+      "emotion": "How does the painting evoke quiet fortitude through line and contrast rather than through narrative?",
+      "observation": "Describe the visual hierarchy of branch, blossom, and empty ground. Which devices guide attention?",
+      "analysis": "Analyze how the vertical format and curved branch paths create rhythm and movement.",
+      "line": "How do variations of line weight and direction convey growth, age, and tension in the branches?",
+      "shape": "How do repeated small blossom forms contrast with the long, angular branch lines to create unity and variety?",
+      "color": "How does tonal contrast stand in for color, and how does the blossoms' lightness define the mood?",
+      "texture": "How does the brushwork differentiate old wood from tender growth and delicate petals?",
+      "space": "How does the generous emptiness around the branches create atmosphere and suggest cold, still air?",
+      "light": "How is a sense of crisp winter light implied through tone alone?",
+      "meaning": "How might the plum's association with endurance and integrity inform a reading of this scroll, and where does that reading become speculative?",
+      "culture": "How did the painting of ink plum become tied to scholar-artist ideals during and after the Yuan dynasty?",
+      "technique": "What does ink on silk demand of the painter, and how do the visible brushmarks show control?",
+      "personal": "What qualities do you value in a person who stays steady in difficult times, and how does a plum painting express them?",
+      "critical": "The title evokes scent and a place that the image cannot show. How does that gap between title and picture affect interpretation?"
+    },
+    "g1112": {
+      "daily": "What claims about meaning can be supported by this scroll's visible form, and which depend on cultural context outside the image?",
+      "emotion": "How does the restraint of a monochrome plum painting complicate the attribution of a single mood to the work?",
+      "observation": "Describe the scroll's structure with precise language. At what point does description begin to imply a symbolic reading?",
+      "analysis": "Analyze how branch rhythm, blossom placement, and void together produce unity in a vertical format.",
+      "line": "How does the interplay of calligraphic line and descriptive line blur the boundary between writing and painting?",
+      "shape": "How do abstract qualities of the branch and blossom forms produce expressive effects independent of botanical accuracy?",
+      "color": "How might the aging of silk and ink alter the contrast we see today, and how does that affect interpretation?",
+      "texture": "How does the evidence of brush speed and pressure suggest the painter's bodily involvement in the image?",
+      "space": "How does the emptiness around the branches operate as pictorial space, atmosphere, and potential symbol?",
+      "light": "How does the monochrome treatment evoke winter light, and how does it compare with other traditions of showing cold seasons?",
+      "meaning": "How do readings of the plum as moral emblem, seasonal emblem, or personal self-image differ, and what evidence supports each?",
+      "culture": "How does the Yuan dynasty context, including debates over scholars' roles under Mongol rule, shape interpretations of plum painting, and how far can we trust those readings?",
+      "technique": "What does the combination of speed and control in ink-plum painting suggest about the relation between training and spontaneity?",
+      "personal": "How does your own understanding of endurance or resilience shape your reading of a plant that blooms in winter?",
+      "critical": "How should we evaluate claims that a plum painting expresses political or personal resistance when the artist left little explicit statement?"
+    }
+  },
+  "safety": {
+    "status": "approved",
+    "method": "Image viewed and approved by the site owner (visual review) on 2026-10-18. Earlier metadata screening: Title, medium, period and tag (Trees) in the Met record were checked; the subject is understood to be a flowering plum, a peaceful botanical theme.",
+    "reviewedOn": "2026-10-18"
+  },
+  "teacherNote": {
+    "context": "Wang Mian (1287 to 1359) is among the painters best known for ink plum. The subject here is inferred from the title and the artist's reputation, so invite students to confirm what they see in the image before discussing symbolism.",
+    "vocabulary": [
+      "hanging scroll",
+      "ink painting",
+      "plum blossom",
+      "symbol",
+      "Yuan dynasty",
+      "negative space"
+    ],
+    "directions": [
+      "Ask students to paint a branch with black ink or marker, varying line thickness, then add small dots for flowers.",
+      "Discuss the idea of using a plant to stand for a human quality, and invite students to choose their own.",
+      "Compare this scroll with the plum painting from another day in the Chinese painting set."
+    ]
+  }
+}

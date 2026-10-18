@@ -1,0 +1,151 @@
+{
+  "id": "met-503651",
+  "day": "04-24",
+  "title": "Pipa (琵琶 )",
+  "artist": "Artist unknown (Chinese)",
+  "date": "late 16th–early 17th century",
+  "medium": "Wood, ivory, bone, silk",
+  "region": "China",
+  "image": {
+    "url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP319739.jpg",
+    "fullUrl": "https://images.metmuseum.org/CRDImages/mi/original/DP319739.jpg",
+    "credit": "The Metropolitan Museum of Art, Bequest of Mary Stillman Harkness, 1950",
+    "license": "Public domain. Released under Creative Commons Zero (CC0) through the Met's Open Access program",
+    "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+  },
+  "altText": "A Chinese pipa, a pear-shaped stringed instrument with a short body and a long neck that bends back at the top. Decorated panels carry small scenes, and the record mentions birds, animals, flowers and men.",
+  "source": {
+    "museum": "The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/art/collection/search/503651",
+    "objectId": "503651",
+    "verifiedOn": "2026-10-17",
+    "verifiedBy": "Met Collection API object record: title, date, medium, culture, country, classification, tags (Animals, Birds, Men, Flowers), public-domain flag, creditLine, and image URLs read from the record"
+  },
+  "context": "The pipa is a plucked Chinese lute with a pear-shaped body, and instruments of the type have been played in China for many centuries. The Met dates this example to the late 16th to early 17th century, and lists wood, ivory, bone and silk as its materials. The record tags the object with Animals, Birds, Men and Flowers, which suggests decoration, though the exact scenes should be checked in the image.",
+  "descriptions": {
+    "k": "This is a pipa, a music maker from China. It has a round body like a pear. It has a long neck and strings. Look for pictures on it! The Met says there are birds, flowers and animals. Which one can you find?",
+    "g12": "This pipa is a Chinese instrument shaped a bit like a pear. The player plucks the strings with their fingers. It was made more than 400 years ago. The Met says it shows birds, flowers, animals, and people. What do you think the tiny pictures are doing?",
+    "g35": "The pipa is a Chinese stringed instrument with a pear-shaped body and a long neck. This one was made in the late 1500s or early 1600s from wood, bone, silk and ivory. The Met lists birds, flowers, animals and men as subjects. Look for decoration on the body and neck. How might these pictures help tell a story or add beauty?",
+    "g68": "This pipa from China, made in the late 16th to early 17th century, has the pear-shaped body and bent-back head that make the type easy to recognize. Players pluck its strings, and a pipa is usually held upright. The Met lists wood, ivory, bone and silk, and tags it with Animals, Birds, Men and Flowers. Look for how decoration may be arranged along the body and neck. What might a maker want a viewer to notice first, and why?",
+    "g910": "This Chinese pipa dates from the late 16th to early 17th century. The pear-shaped plucked lute is a long-lasting form in Chinese music, and this example is distinguished by surface decoration that the Met's tags describe as animals, birds, men and flowers. The materials include wood, bone, silk and ivory. As with many decorated instruments, the object invites you to ask how its imagery relates to storytelling, auspicious symbols and the status of an owner, though the specific meaning of the scenes is not stated in the record.",
+    "g1112": "This pipa, assigned to the late 16th–early 17th century, belongs to a long tradition of Chinese plucked lutes. The Met's tags, Animals, Birds, Men and Flowers, point to figural and natural motifs, but the record does not tell us whether they illustrate a particular story, convey auspicious meanings, or primarily show decorative skill. Its mix of wood, bone, silk and ivory also invites reflection on how makers, patrons and museums have thought about luxury materials. Scholars debate how much surface decoration on instruments reflects their musical identity as opposed to their role as prestige objects."
+  },
+  "questions": {
+    "k": {
+      "daily": "The Met says this pipa has birds, flowers and animals. Which one can you find first?",
+      "emotion": "Does this instrument look calm or busy? What do you see that makes you think so?",
+      "observation": "Find the round body and the long neck. What else do you see on the pipa?",
+      "analysis": "Where do your eyes look first on the pipa? Where do they look next?",
+      "line": "Can you find a long line along the neck? Trace it in the air.",
+      "shape": "The body is shaped like a pear. Where else can you find rounded shapes?",
+      "color": "What colors do you see on the pipa? Which color shows up the most?",
+      "texture": "Some parts might feel smooth and some might feel carved. Which parts do you think feel which way?",
+      "space": "The neck bends at the top. What do you think that bent part does?",
+      "light": "Where does the pipa look lightest? Where does it look darker?",
+      "meaning": "Why might someone put birds and flowers on an instrument? Tell what you think.",
+      "culture": "This pipa comes from China. What music or instruments from different countries do you know?",
+      "technique": "Someone made tiny pictures on this pipa. What small tools might they have used?",
+      "personal": "If you could put a picture on an instrument, what would you choose?",
+      "critical": "This instrument is for playing music, but it is full of pictures. Why do you think the maker added so many?"
+    },
+    "g12": {
+      "daily": "Look for the birds, flowers, animals and people the Met mentions. Where on the pipa do you find them?",
+      "emotion": "What feeling does the decorated pipa give you? Point to a detail that causes that feeling.",
+      "observation": "Describe the body, the neck and the top of the pipa. What do you notice about each part?",
+      "analysis": "How does the shape of the pipa help you see where the player would hold it?",
+      "line": "Find straight lines and curved lines. Where does each appear on the pipa?",
+      "shape": "A pipa looks like a pear with a long handle. How is this different from a round drum?",
+      "color": "Which parts of the pipa look light and which look dark? How do the colors work together?",
+      "texture": "The record lists wood, bone, silk and ivory. How might each one feel different if you touched it?",
+      "space": "The body is hollow. Why might an instrument be hollow?",
+      "light": "Where do you see shiny places on the pipa? What might make them shine?",
+      "meaning": "Birds and flowers are often pictured in art. Why might people like to see them on an instrument?",
+      "culture": "Pipas are played in China. What can the decoration tell you about what people liked to look at?",
+      "technique": "Different materials were used for different parts. Why do you think the maker did not use only wood?",
+      "personal": "Which animal or flower would you want on your own instrument? Tell why.",
+      "critical": "Do the pictures help the pipa make music, or do they just make it beautiful? What do you think?"
+    },
+    "g35": {
+      "daily": "The Met lists birds, flowers, animals and men as subjects. How can you tell which parts of the pipa show these, and what do they add?",
+      "emotion": "What mood does the decoration create, lively, graceful or something else? Point to evidence.",
+      "observation": "Look from the top of the neck to the bottom of the body. What do you notice at each level?",
+      "analysis": "How does the pear-shaped body combine with the long neck to form one balanced shape?",
+      "line": "How do long lines of the neck and strings differ from the curved lines of the body?",
+      "shape": "How does the pear shape of the body make the pipa easy to recognize?",
+      "color": "The materials include dark wood and lighter bone or ivory. How does contrast help you see the details?",
+      "texture": "Silk strings, bone and wood each feel different. Which textures can you imagine from the image?",
+      "space": "The pipa has a hollow body and a neck that bends back. How does its shape use space differently from a flat object?",
+      "light": "How does light help you pick out small pictures on the surface?",
+      "meaning": "Birds, animals and flowers often have special meanings in art. Why might the maker choose them instead of plain decoration?",
+      "culture": "The pipa has a long history in China. Why might makers decorate an instrument that many people played?",
+      "technique": "A maker had to shape the body, the neck and the decoration. Which job do you think needed the most careful skill?",
+      "personal": "What object do you take care of because it is both useful and decorated? How is it like the pipa?",
+      "critical": "The record lists ivory among the materials. How might people today and people in the 1500s have thought about that differently?"
+    },
+    "g68": {
+      "daily": "How might the decoration on this pipa have been meant to attract attention, and where does it concentrate your gaze?",
+      "emotion": "What tone does the busy surface decoration set? Support your answer with two details.",
+      "observation": "List what you can see, from the top of the head to the base of the body, before deciding what it means.",
+      "analysis": "How does the decoration relate to the structure of the pipa, the body, neck and head?",
+      "line": "Compare the strong lines of the neck with finer lines in the decoration. How do they create variety?",
+      "shape": "The pear-shaped body is the key to the pipa's identity. How does the maker work decoration around that shape?",
+      "color": "How does color contrast among the woods, bone and other materials help organize the design?",
+      "texture": "How might silk, wood, bone and ivory give the pipa a mixture of surfaces?",
+      "space": "How does the bend of the pipa's head affect the way the instrument occupies space?",
+      "light": "How does the way light falls on the pipa help you see the small details?",
+      "meaning": "The record tags Animals, Birds, Men and Flowers. What stories or symbols might those subjects stand for, and what should we avoid assuming?",
+      "culture": "How does the pipa show that instruments can carry cultural identity as well as sound?",
+      "technique": "How might combining wood, bone and silk require different crafting skills in one object?",
+      "personal": "Where do you see decoration in your own life that has meaning beyond looks?",
+      "critical": "How might a museum balance admiration for a decorated instrument with questions about its materials?"
+    },
+    "g910": {
+      "daily": "How do the figural and natural motifs on this pipa work with its pear-shaped form to create a unified design?",
+      "emotion": "What emotional atmosphere do you perceive, and how does the density of decoration contribute?",
+      "observation": "Describe the pipa's visual hierarchy: body, neck, head and any small scenes. Which area commands attention?",
+      "analysis": "How does the arrangement of decorated areas respond to the instrument's structure?",
+      "line": "How do the straight lines of the neck contrast with the smaller, more varied lines of the decoration?",
+      "shape": "In what ways does the pear shape give the pipa both recognizability and a surface for imagery?",
+      "color": "How do different materials create natural contrasts that organize the object's surface?",
+      "texture": "How do bone, ivory, wood and silk combine to give the instrument a layered tactile and visual character?",
+      "space": "How does the back-bent head and the hollow body shape the pipa's presence as a three-dimensional form?",
+      "light": "How might the reflective qualities of different materials affect the way details appear in a gallery?",
+      "meaning": "What kinds of meanings can animals, birds, flowers and figures carry in East Asian art, and why is it hard to assign one meaning here?",
+      "culture": "How does the pipa's long history in China add depth to the way we read this particular example?",
+      "technique": "What does the combination of woodworking, carving and stringing suggest about the collaboration needed to make this instrument?",
+      "personal": "What role do symbols or imagery play in objects you use every day?",
+      "critical": "How should viewers weigh admiration for craft against concerns about materials such as ivory?"
+    },
+    "g1112": {
+      "daily": "What can the decorated surface of this pipa support as evidence of an owner's taste or status, and what must remain speculative?",
+      "emotion": "How does density of ornament affect the viewer's emotional response, and how might that response differ across cultures or periods?",
+      "observation": "Distinguish what the image clearly shows from what the record tags suggest. Which motifs can you verify?",
+      "analysis": "How do structure, decoration and material together shape the pipa's identity as an object?",
+      "line": "How do the pipa's structural lines and decorative lines interact, and which dominates?",
+      "shape": "How does the standard pear-shaped form constrain and enable the maker's decorative choices?",
+      "color": "How do the contrasts of material and tone in this pipa signal craft skill and perhaps wealth?",
+      "texture": "How does variety of material complicate the idea that the pipa is a single, unified surface?",
+      "space": "How do museum displays affect our understanding of an instrument traditionally held upright and played?",
+      "light": "How does the photographic record shape our access to fine surface detail in objects like this one?",
+      "meaning": "How might scenes of animals, birds, flowers and men have been read by the original owner, and what evidence would be needed?",
+      "culture": "How does the pipa's long and sometimes cross-cultural history complicate any simple label for this instrument?",
+      "technique": "How does combining carved and inlaid elements with a playable structure shape the compromises a maker must make?",
+      "personal": "How does your own familiarity with musical instruments affect what you expect to see in a historical example?",
+      "critical": "What responsibilities do institutions have when they exhibit objects made with ivory, and how can that be explained to students?"
+    }
+  },
+  "safety": {
+    "status": "metadata-screened",
+    "method": "Title, classification (Chordophone-Lute-plucked-fretted), medium (includes ivory, noted neutrally), culture, and tags (Animals, Birds, Men, Flowers) checked against the museum record; the tag Men suggests small figures, which should be confirmed in the image as clothed and non-violent. The image file itself was not visually inspected in this build. A person should confirm it in the review tool before release.",
+    "reviewedOn": "2026-10-17"
+  },
+  "teacherNote": {
+    "context": "A Chinese pipa of the late 16th to early 17th century. The record tags it with Animals, Birds, Men and Flowers, but does not explain the scenes, so students should describe what they see rather than assume a story.",
+    "vocabulary": ["pipa", "lute", "plucked instrument", "motif", "inlay", "silk strings"],
+    "directions": [
+      "Compare the pipa with a guitar or a lute: what is the same and different?",
+      "Ask students to invent a short story for the figures and animals they find, and then discuss what evidence supports it.",
+      "Discuss how decoration can show both skill and status."
+    ]
+  }
+}
