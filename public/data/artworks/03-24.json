@@ -175,36 +175,36 @@
       "fashionable"
     ],
     "g35": [
-      "pattern",
+      "robe",
+      "toy",
+      "face",
       "outline",
-      "detail",
-      "background",
-      "mood",
-      "design"
+      "pose",
+      "glass"
     ],
     "g68": [
-      "woodblock",
-      "ukiyo-e",
-      "series",
-      "expression",
-      "gesture",
-      "pattern"
+      "gentle",
+      "playful",
+      "patterned",
+      "close up",
+      "curious",
+      "quiet"
     ],
     "g910": [
-      "physiognomy",
-      "contour",
-      "line",
-      "close-up",
-      "type",
-      "composition"
+      "playful",
+      "pattern",
+      "expression",
+      "fashion",
+      "character",
+      "gentle"
     ],
     "g1112": [
-      "idealization",
-      "Edo market",
-      "convention",
-      "individual",
-      "caution",
-      "classification"
+      "fashion",
+      "character",
+      "playful",
+      "real people",
+      "types",
+      "expression"
     ]
   }
 }

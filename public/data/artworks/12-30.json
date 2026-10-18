@@ -174,36 +174,36 @@
       "soft"
     ],
     "g35": [
-      "interior",
-      "satin",
-      "cloth",
-      "clues",
+      "women",
+      "dog",
+      "letter",
+      "room",
       "secret",
-      "faces"
+      "shiny cloth"
     ],
     "g68": [
-      "genre painting",
-      "gesture",
-      "highlight",
-      "textile",
-      "suggestion",
-      "curiosity"
+      "quiet",
+      "mysterious",
+      "soft",
+      "shiny",
+      "curious",
+      "indoor"
     ],
     "g910": [
-      "implication",
-      "intrigue",
-      "privacy",
-      "texture",
-      "stillness",
-      "subtlety"
+      "secret",
+      "curious",
+      "mood",
+      "quiet",
+      "story",
+      "private"
     ],
     "g1112": [
-      "ambiguity",
-      "narrative",
+      "secret",
+      "curiosity",
+      "story",
       "private life",
-      "moral commentary",
-      "sympathy",
-      "title"
+      "mystery",
+      "clues"
     ]
   }
 }

@@ -172,36 +172,36 @@
       "soft"
     ],
     "g35": [
-      "interior",
-      "easel",
-      "mood",
-      "soft light",
-      "doorways",
-      "stillness"
+      "room",
+      "door",
+      "empty",
+      "quiet",
+      "gray",
+      "easel"
     ],
     "g68": [
-      "empty space",
-      "quiet mood",
-      "light",
-      "geometry",
-      "simplicity",
-      "neutral"
+      "peaceful",
+      "still",
+      "plain",
+      "lonely",
+      "soft light",
+      "mood"
     ],
     "g910": [
-      "austere",
-      "restraint",
+      "mood",
+      "silence",
+      "peaceful",
       "absence",
-      "diffused light",
-      "muted palette",
-      "composition"
+      "simple",
+      "thoughtful"
     ],
     "g1112": [
-      "emptiness",
-      "restraint",
-      "presence",
-      "austerity",
-      "ambiguity",
-      "implied absence"
+      "silence",
+      "loneliness",
+      "calm",
+      "meaning",
+      "mood",
+      "viewpoint"
     ]
   }
 }

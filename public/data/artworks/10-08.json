@@ -174,35 +174,35 @@
     ],
     "g35": [
       "square",
-      "arcade",
-      "bell tower",
-      "detail",
-      "city",
-      "distance"
+      "tiny people",
+      "tower",
+      "buildings",
+      "church",
+      "busy"
     ],
     "g68": [
-      "perspective",
-      "scale",
-      "architecture",
-      "realistic",
-      "accurate",
-      "viewpoint"
+      "crowded",
+      "detailed",
+      "wide",
+      "busy",
+      "far away",
+      "sunny"
     ],
     "g910": [
-      "topography",
-      "monumentality",
-      "rhythm",
-      "staffage",
-      "vanishing point",
-      "documentation"
+      "city life",
+      "travel",
+      "realistic",
+      "lines",
+      "depth",
+      "visitors"
     ],
     "g1112": [
-      "vedutismo",
-      "pictorial order",
-      "Grand Tour",
-      "collecting culture",
-      "topographical accuracy",
-      "staffage"
+      "city",
+      "realistic",
+      "travel",
+      "memory",
+      "society",
+      "order"
     ]
   }
 }

@@ -174,36 +174,36 @@
       "rich"
     ],
     "g35": [
-      "family",
-      "home",
-      "interior",
-      "poses",
-      "furniture",
-      "scene"
+      "mother",
+      "father",
+      "baby",
+      "doll",
+      "room",
+      "furniture"
     ],
     "g68": [
-      "genre painting",
-      "domestic",
-      "narrative",
-      "composition",
-      "sentiment",
-      "interior"
+      "cozy",
+      "warm",
+      "busy",
+      "family",
+      "homey",
+      "rich"
     ],
     "g910": [
-      "domesticity",
-      "informal portrait",
+      "family life",
+      "home",
+      "caring",
       "humor",
-      "observation",
-      "social ideals",
-      "everyday life"
+      "traditional",
+      "poses"
     ],
     "g1112": [
-      "domestic ideals",
+      "family life",
+      "home",
+      "tradition",
+      "humor",
       "women artists",
-      "conversation piece",
-      "popular sentiment",
-      "tentative reading",
-      "gentle subversion"
+      "daily life"
     ]
   }
 }

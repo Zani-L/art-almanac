@@ -173,35 +173,35 @@
       "crown"
     ],
     "g35": [
-      "sculpture",
-      "detail",
-      "pattern",
-      "shape",
-      "texture",
-      "polished"
+      "head",
+      "king",
+      "brass",
+      "shiny",
+      "smooth",
+      "face"
     ],
     "g68": [
-      "brass",
-      "casting",
-      "guild",
-      "king",
-      "altar",
-      "detail"
+      "golden",
+      "shiny",
+      "proud",
+      "important",
+      "calm",
+      "king"
     ],
     "g910": [
-      "ornament",
-      "permanence",
-      "craftsmanship",
+      "respect",
+      "power",
       "tradition",
-      "ritual",
-      "authority"
+      "leader",
+      "honor",
+      "memory"
     ],
     "g1112": [
-      "restitution",
-      "provenance",
-      "office",
-      "commemoration",
-      "lost-wax casting",
+      "respect",
+      "power",
+      "tradition",
+      "memory",
+      "history",
       "ownership"
     ]
   }

@@ -174,36 +174,36 @@
       "cozy"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "mood",
-      "detail",
-      "pattern",
-      "light"
+      "room",
+      "people",
+      "window",
+      "floor",
+      "light",
+      "visit"
     ],
     "g68": [
-      "genre painting",
-      "interior",
-      "architecture",
-      "relationships",
-      "clues",
-      "perspective"
+      "bright",
+      "cozy",
+      "quiet",
+      "friendly",
+      "daylight",
+      "home"
     ],
     "g910": [
-      "domestic",
-      "composition",
-      "narrative",
-      "social",
-      "interplay",
-      "Dutch Golden Age"
+      "everyday life",
+      "home",
+      "story",
+      "calm",
+      "light",
+      "family"
     ],
     "g1112": [
-      "moral commentary",
-      "idealized",
-      "market",
-      "ambiguity",
-      "evidence",
-      "interpretation"
+      "everyday life",
+      "home",
+      "mood",
+      "relationships",
+      "story",
+      "wealth"
     ]
   }
 }

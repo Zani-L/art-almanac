@@ -172,36 +172,36 @@
       "sprig"
     ],
     "g35": [
-      "pattern",
-      "detail",
-      "background",
-      "texture",
-      "delicate",
-      "outline"
+      "plants",
+      "beetle",
+      "petals",
+      "leaves",
+      "tiny",
+      "careful"
     ],
     "g68": [
-      "specimen",
-      "watercolor",
-      "gouache",
-      "veins",
-      "naturalist",
-      "observation"
+      "delicate",
+      "detailed",
+      "tiny",
+      "careful",
+      "colorful",
+      "fine lines"
     ],
     "g910": [
-      "vellum",
-      "natural history",
-      "accuracy",
+      "careful",
+      "science",
+      "nature",
       "detail",
-      "scientific",
-      "study"
+      "study",
+      "patient"
     ],
     "g1112": [
-      "life cycle",
-      "gender",
-      "access",
-      "empiricism",
-      "specimens",
-      "beauty"
+      "science",
+      "careful",
+      "nature",
+      "beauty",
+      "learning",
+      "patient"
     ]
   }
 }

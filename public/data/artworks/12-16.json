@@ -174,36 +174,36 @@
       "shady"
     ],
     "g35": [
-      "woodland",
-      "foliage",
       "road",
       "trees",
-      "sunlight",
-      "countryside"
+      "woods",
+      "leaves",
+      "sky",
+      "path"
     ],
     "g68": [
-      "composition",
-      "foreground",
-      "framing",
-      "filtered light",
-      "background",
-      "tone"
+      "shady",
+      "winding",
+      "leafy",
+      "sunny",
+      "thick",
+      "quiet"
     ],
     "g910": [
-      "depth",
-      "perspective",
+      "peaceful",
       "light",
-      "contrast",
-      "rhythm",
-      "serenity"
+      "nature",
+      "path",
+      "shadows",
+      "countryside"
     ],
     "g1112": [
-      "convention",
-      "authenticity",
-      "constructed",
-      "observed",
-      "depth",
-      "Dutch landscape"
+      "nature",
+      "light",
+      "imagined",
+      "peaceful",
+      "path",
+      "feeling"
     ]
   }
 }

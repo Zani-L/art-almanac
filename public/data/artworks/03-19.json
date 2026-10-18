@@ -174,36 +174,36 @@
       "gentle"
     ],
     "g35": [
-      "portrait",
-      "background",
-      "texture",
-      "detail",
-      "mood",
-      "shadow"
+      "dog",
+      "ears",
+      "fur",
+      "face",
+      "hound",
+      "portrait"
     ],
     "g68": [
-      "portrait",
-      "character",
-      "coat",
-      "detail",
-      "expression",
-      "lifelike"
+      "gentle",
+      "alert",
+      "furry",
+      "lifelike",
+      "proud",
+      "detailed"
     ],
     "g910": [
-      "anatomy",
-      "Realism",
-      "modeling",
-      "observation",
-      "breed",
-      "fidelity"
+      "loyal",
+      "alert",
+      "lifelike",
+      "character",
+      "feelings",
+      "animal"
     ],
     "g1112": [
-      "working animal",
-      "anthropomorphism",
-      "19th century",
-      "evidence",
-      "scale",
-      "value"
+      "feelings",
+      "character",
+      "loyal",
+      "lifelike",
+      "working dog",
+      "personality"
     ]
   }
 }

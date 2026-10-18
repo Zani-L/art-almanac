@@ -174,36 +174,36 @@
       "calm"
     ],
     "g35": [
-      "portrait",
-      "background",
-      "expression",
-      "detail",
-      "pose",
-      "clothing"
+      "father",
+      "son",
+      "boy",
+      "face",
+      "serious",
+      "portrait"
     ],
     "g68": [
-      "portrait",
-      "profile",
-      "pose",
-      "expression",
-      "Renaissance",
-      "family"
+      "old man",
+      "young boy",
+      "side view",
+      "thoughtful",
+      "family",
+      "serious"
     ],
     "g910": [
+      "family",
+      "age",
+      "pride",
       "contrast",
-      "generation",
-      "convention",
-      "status",
-      "composition",
-      "gaze"
+      "wealth",
+      "thoughtful"
     ],
     "g1112": [
-      "patronage",
-      "lineage",
-      "restoration",
-      "overpainting",
-      "dynasty",
-      "portraiture"
+      "family",
+      "wealth",
+      "hope",
+      "age",
+      "cleaning",
+      "expression"
     ]
   }
 }

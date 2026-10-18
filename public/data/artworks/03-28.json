@@ -175,36 +175,36 @@
       "steep"
     ],
     "g35": [
-      "pattern",
-      "distance",
-      "detail",
-      "background",
-      "foreground",
-      "texture"
+      "mountains",
+      "valley",
+      "lines",
+      "rocks",
+      "high",
+      "far"
     ],
     "g68": [
-      "viewpoint",
-      "distance",
-      "engraving",
-      "etching",
-      "lines",
-      "Alps"
+      "tiny lines",
+      "high up",
+      "deep",
+      "wide",
+      "faraway",
+      "rocky"
     ],
     "g910": [
-      "hatching",
-      "panorama",
-      "perspective",
-      "plate",
-      "reproduction",
-      "Northern Renaissance"
+      "distance",
+      "high view",
+      "careful",
+      "wide",
+      "rocky",
+      "lines"
     ],
     "g1112": [
-      "authorship",
-      "mediation",
-      "state",
-      "ideal landscape",
-      "workshop",
-      "publishing"
+      "faraway places",
+      "hard work",
+      "copies",
+      "high view",
+      "nature",
+      "teamwork"
     ]
   }
 }

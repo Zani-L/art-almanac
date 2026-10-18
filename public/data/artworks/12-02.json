@@ -174,36 +174,36 @@
       "precious"
     ],
     "g35": [
-      "portrait",
-      "miniature",
+      "tiny",
+      "round",
+      "man",
+      "face",
       "copper",
-      "Cremona",
-      "keepsake",
-      "detail"
+      "portrait"
     ],
     "g68": [
-      "likeness",
-      "attribution",
-      "Renaissance",
-      "intimacy",
-      "portability",
-      "oil paint"
+      "small",
+      "metal",
+      "precious",
+      "careful",
+      "treasured",
+      "keepsake"
     ],
     "g910": [
-      "small scale",
-      "closeness",
-      "status",
+      "keepsake",
       "treasured",
-      "sentiment",
-      "precision"
+      "close",
+      "personal",
+      "detail",
+      "unknown man"
     ],
     "g1112": [
-      "provisional",
-      "absence",
-      "scholarship",
-      "elite",
-      "recognition",
-      "handling"
+      "keepsake",
+      "memory",
+      "unknown",
+      "woman artist",
+      "personal",
+      "maker"
     ]
   }
 }

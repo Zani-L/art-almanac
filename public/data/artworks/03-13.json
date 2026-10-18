@@ -174,36 +174,36 @@
       "patterned"
     ],
     "g35": [
-      "pattern",
-      "texture",
-      "detail",
-      "outline",
-      "shading",
-      "background"
+      "rhinoceros",
+      "horn",
+      "lines",
+      "armor",
+      "thick skin",
+      "heavy"
     ],
     "g68": [
-      "woodcut",
-      "hatching",
-      "pattern",
-      "detail",
-      "impression",
-      "Renaissance"
+      "tough",
+      "heavy",
+      "armor",
+      "gray",
+      "detailed",
+      "lines"
     ],
     "g910": [
-      "inherited expectation",
-      "ornament",
-      "print",
-      "accuracy",
-      "circulation",
-      "description"
+      "imagination",
+      "guess",
+      "copies",
+      "amazing",
+      "armor",
+      "animal"
     ],
     "g1112": [
-      "authority",
-      "invention",
-      "natural history",
-      "evidence",
-      "translation",
-      "early modern"
+      "imagination",
+      "guess",
+      "spread",
+      "real animal",
+      "belief",
+      "copies"
     ]
   }
 }

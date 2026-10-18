@@ -174,36 +174,36 @@
       "tiny"
     ],
     "g35": [
-      "parchment",
-      "gold",
+      "page",
       "prayer book",
-      "decoration",
-      "text",
-      "angels"
+      "angels",
+      "gold",
+      "writing",
+      "Mary"
     ],
     "g68": [
-      "illumination",
-      "Book of Hours",
-      "shell gold",
-      "devotional",
-      "tempera",
-      "border"
+      "tiny",
+      "golden",
+      "detailed",
+      "decorated",
+      "old",
+      "handwritten"
     ],
     "g910": [
-      "manuscript",
-      "luminous surface",
-      "text block",
-      "medieval",
-      "devotional image",
-      "leaf"
+      "prayer",
+      "faith",
+      "decoration",
+      "handmade",
+      "treasure",
+      "close look"
     ],
     "g1112": [
+      "faith",
+      "tradition",
+      "daily prayer",
+      "handmade",
       "lost context",
-      "fragment",
-      "lay devotion",
-      "close viewing",
-      "patron",
-      "late medieval manuscript culture"
+      "treasure"
     ]
   }
 }

@@ -173,36 +173,36 @@
       "important"
     ],
     "g35": [
-      "consort",
-      "portrait",
-      "court",
-      "rank",
+      "woman",
       "clothing",
-      "pose"
+      "pose",
+      "face",
+      "silk",
+      "standing"
     ],
     "g68": [
-      "Qing dynasty",
-      "court painting",
-      "status",
-      "likeness",
       "formal",
-      "hanging scroll"
+      "proud",
+      "still",
+      "rich",
+      "neat",
+      "important"
     ],
     "g910": [
+      "rank",
       "dignity",
-      "hierarchy",
-      "idealization",
-      "cross-cultural",
-      "convention",
-      "authority"
+      "respect",
+      "palace",
+      "tradition",
+      "power"
     ],
     "g1112": [
-      "imperial court",
-      "expectation",
-      "background",
-      "East-West exchange",
-      "evidence",
-      "representation"
+      "status",
+      "royal life",
+      "dignity",
+      "culture",
+      "respect",
+      "viewpoint"
     ]
   }
 }

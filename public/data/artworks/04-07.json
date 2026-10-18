@@ -174,36 +174,36 @@
       "printed"
     ],
     "g35": [
-      "etching",
-      "canal",
       "cottage",
-      "hatching",
-      "plate",
-      "village"
+      "boat",
+      "trees",
+      "water",
+      "lines",
+      "no color"
     ],
     "g68": [
-      "drypoint",
-      "impression",
-      "line weight",
-      "landscape",
-      "contrast",
-      "printmaking"
+      "crowded lines",
+      "thick",
+      "thin",
+      "countryside",
+      "quiet",
+      "scratched"
     ],
     "g910": [
-      "economy",
-      "tone",
+      "contrast",
+      "shadows",
+      "simple",
+      "peaceful",
       "observation",
-      "medium",
-      "emptiness",
-      "composed"
+      "weather"
     ],
     "g1112": [
-      "invention",
-      "Golden Age",
-      "economy",
-      "weather",
-      "tonality",
-      "intimacy"
+      "real place",
+      "mood",
+      "daytime",
+      "skill",
+      "everyday life",
+      "viewpoint"
     ]
   }
 }

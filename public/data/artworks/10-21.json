@@ -173,36 +173,36 @@
       "busy"
     ],
     "g35": [
-      "studio",
-      "model",
+      "curtain",
       "easel",
-      "invitation",
-      "checkered floor",
-      "objects"
+      "studio",
+      "map",
+      "floor",
+      "painter"
     ],
     "g68": [
-      "interior",
-      "perspective",
-      "symbolism",
-      "costume",
-      "viewer",
-      "composition"
+      "bright",
+      "detailed",
+      "busy",
+      "warm",
+      "quiet",
+      "neat"
     ],
     "g910": [
-      "witness",
-      "self-reflection",
-      "meta-painting",
-      "illusion",
-      "narrative",
-      "depth"
+      "studio",
+      "hard work",
+      "viewpoint",
+      "symbol",
+      "skill",
+      "mood"
     ],
     "g1112": [
-      "viewer witness",
-      "symbolic debate",
-      "quiet scene",
-      "self-reflection",
-      "supporting evidence",
-      "reading"
+      "viewpoint",
+      "symbol",
+      "skill",
+      "meaning",
+      "pride",
+      "hidden story"
     ]
   }
 }

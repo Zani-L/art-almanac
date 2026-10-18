@@ -173,36 +173,36 @@
       "patterned"
     ],
     "g35": [
-      "portrait",
-      "background",
+      "girl",
+      "hands",
+      "hair",
       "pattern",
-      "mood",
-      "detail",
-      "brushstrokes"
+      "brushstrokes",
+      "portrait"
     ],
     "g68": [
-      "portrait",
-      "gesture",
-      "brushstrokes",
-      "everyday",
-      "background",
-      "expression"
+      "quiet",
+      "soft",
+      "close up",
+      "loose strokes",
+      "gentle",
+      "natural"
     ],
     "g910": [
-      "viewpoint",
-      "Impressionism",
-      "candid",
-      "composition",
-      "spontaneity",
-      "informal"
+      "everyday",
+      "quiet",
+      "natural",
+      "private",
+      "gentle",
+      "real"
     ],
     "g1112": [
-      "modernity",
-      "design",
-      "representation",
-      "sitter",
-      "intimacy",
-      "unposed"
+      "everyday life",
+      "private moment",
+      "natural",
+      "real",
+      "planned",
+      "girlhood"
     ]
   }
 }

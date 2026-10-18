@@ -174,36 +174,36 @@
       "pierced"
     ],
     "g35": [
-      "astrolabe",
-      "time",
+      "brass",
+      "round",
+      "ring",
+      "lines",
       "stars",
-      "lettering",
-      "decoration",
-      "tool"
+      "sky"
     ],
     "g68": [
-      "brass",
-      "pierced",
-      "calligraphy",
-      "engraved",
-      "scale",
-      "portable"
+      "lacy",
+      "shiny",
+      "detailed",
+      "careful",
+      "tool",
+      "engraved"
     ],
     "g910": [
-      "celestial",
-      "geometry",
-      "Safavid",
-      "function",
-      "analog",
-      "astronomy"
+      "science",
+      "time",
+      "skill",
+      "tool",
+      "beauty",
+      "stars"
     ],
     "g1112": [
-      "analog computing",
-      "knowledge",
-      "astrology",
-      "faceplate",
-      "timekeeping",
-      "devotion"
+      "science",
+      "telling time",
+      "skill",
+      "usefulness",
+      "history",
+      "meaning"
     ]
   }
 }

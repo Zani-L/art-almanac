@@ -174,36 +174,36 @@
       "homey"
     ],
     "g35": [
-      "household",
-      "servant",
-      "objects",
-      "meal",
-      "Dutch",
-      "texture"
+      "kitchen",
+      "woman",
+      "fish",
+      "cat",
+      "food",
+      "pots"
     ],
     "g68": [
-      "genre painting",
-      "still life",
-      "domestic",
-      "abundance",
-      "detail",
-      "interior"
+      "busy",
+      "warm",
+      "cozy",
+      "detailed",
+      "crowded",
+      "homey"
     ],
     "g910": [
-      "housekeeping",
-      "description",
-      "labor",
-      "moral lessons",
-      "rhythm",
-      "observation"
+      "daily life",
+      "work",
+      "home",
+      "family",
+      "detail",
+      "realistic"
     ],
     "g1112": [
-      "genre painting",
-      "domestic work",
-      "moral lessons",
-      "servant labor",
-      "description",
-      "competing readings"
+      "daily life",
+      "hard work",
+      "home",
+      "tradition",
+      "realistic",
+      "society"
     ]
   }
 }

@@ -173,36 +173,36 @@
       "peaceful"
     ],
     "g35": [
-      "interior",
+      "reading",
+      "room",
+      "patterns",
       "fabric",
-      "objects",
-      "details",
-      "holy book",
-      "ornament"
+      "book",
+      "quiet"
     ],
     "g68": [
-      "academic",
-      "realism",
-      "perspective",
-      "ornament",
-      "Ottoman",
-      "tradition"
+      "peaceful",
+      "detailed",
+      "rich",
+      "careful",
+      "decorated",
+      "calm"
     ],
     "g910": [
-      "devotion",
-      "documentary",
-      "representation",
-      "exacting",
-      "craftsmanship",
-      "culture"
+      "faith",
+      "tradition",
+      "respect",
+      "culture",
+      "prayer",
+      "mood"
     ],
     "g1112": [
-      "Ottoman identity",
-      "devotional reading",
-      "debate",
-      "academic style",
-      "evidence",
-      "representation"
+      "faith",
+      "culture",
+      "real life",
+      "image",
+      "tradition",
+      "viewpoint"
     ]
   }
 }

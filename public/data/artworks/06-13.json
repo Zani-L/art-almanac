@@ -172,36 +172,36 @@
       "airy"
     ],
     "g35": [
-      "watercolor",
-      "bodycolor",
-      "mist",
-      "glow",
-      "atmosphere",
-      "distance"
+      "lake",
+      "boats",
+      "sky",
+      "water",
+      "mountains",
+      "mist"
     ],
     "g68": [
-      "shimmer",
-      "blurred",
-      "soft edges",
-      "depth",
-      "translucent",
-      "horizon"
+      "misty",
+      "glowing",
+      "soft",
+      "dreamy",
+      "faraway",
+      "blended"
     ],
     "g910": [
-      "wash",
-      "aerial perspective",
-      "reductive technique",
-      "luminosity",
       "mood",
-      "scale"
+      "light",
+      "dreamy",
+      "peaceful",
+      "nature",
+      "soft"
     ],
     "g1112": [
-      "transparency",
-      "experiment",
-      "unfinished",
-      "late style",
-      "light as subject",
-      "place and mood"
+      "mood",
+      "light",
+      "dreamy",
+      "nature",
+      "emotion",
+      "viewpoint"
     ]
   }
 }

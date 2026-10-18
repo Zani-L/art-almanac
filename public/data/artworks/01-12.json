@@ -173,36 +173,36 @@
       "wide-eyed"
     ],
     "g35": [
-      "portrait",
-      "expression",
-      "self-portrait",
-      "feeling",
-      "strong emotion",
-      "face"
+      "face",
+      "wide eyes",
+      "mouth",
+      "surprise",
+      "fright",
+      "portrait"
     ],
     "g68": [
-      "framing",
-      "exaggeration",
-      "humor",
-      "likeness",
-      "oil painting",
-      "mood"
+      "startled",
+      "dramatic",
+      "shocked",
+      "strong feeling",
+      "close up",
+      "expression"
     ],
     "g910": [
-      "Rococo",
-      "facial expression",
-      "performance",
-      "theatrical",
       "emotion",
-      "close-up"
+      "fear",
+      "expression",
+      "self-portrait",
+      "dramatic",
+      "reaction"
     ],
     "g1112": [
-      "scientific observation",
-      "eighteenth-century curiosity",
-      "comedy",
-      "performance",
-      "evidence",
-      "likeness"
+      "emotion",
+      "reaction",
+      "fear",
+      "self-portrait",
+      "acting",
+      "exaggerated"
     ]
   }
 }

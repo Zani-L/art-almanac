@@ -173,36 +173,36 @@
       "baked"
     ],
     "g35": [
-      "sculpture",
-      "shape",
-      "texture",
-      "detail",
-      "handmade",
-      "simple"
+      "frog",
+      "clay",
+      "pot",
+      "round",
+      "smooth",
+      "animal"
     ],
     "g68": [
-      "vessel",
-      "sculpture",
-      "animal",
-      "container",
-      "ceramic",
-      "silhouette"
+      "smooth",
+      "round",
+      "frog",
+      "simple",
+      "handmade",
+      "small"
     ],
     "g910": [
-      "effigy",
-      "massing",
-      "form",
-      "tradition",
-      "Mesoamerica",
-      "function"
+      "simple",
+      "animal",
+      "useful",
+      "old",
+      "shape",
+      "tradition"
     ],
     "g1112": [
-      "funerary",
-      "interpretation",
-      "uncertainty",
-      "surface",
-      "Colima",
-      "evidence"
+      "animal",
+      "everyday use",
+      "old",
+      "shape",
+      "simple",
+      "mystery"
     ]
   }
 }

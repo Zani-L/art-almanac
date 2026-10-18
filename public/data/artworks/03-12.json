@@ -175,36 +175,36 @@
       "gusty"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "pattern",
-      "mood",
-      "motion",
-      "detail"
+      "wind",
+      "hats",
+      "papers",
+      "trees",
+      "road",
+      "travelers"
     ],
     "g68": [
-      "woodblock",
-      "diagonal",
-      "series",
-      "Fuji",
-      "foreground",
-      "weather"
+      "windy",
+      "busy",
+      "funny",
+      "bending",
+      "flying",
+      "Mount Fuji"
     ],
     "g910": [
-      "ukiyo-e",
       "energy",
       "humor",
-      "scale",
-      "permanence",
-      "line"
+      "wind",
+      "travel",
+      "movement",
+      "small mountain"
     ],
     "g1112": [
-      "Edo period",
-      "perception",
-      "counterweight",
-      "landmark",
-      "reading",
-      "process"
+      "humor",
+      "daily life",
+      "wind",
+      "movement",
+      "travel",
+      "nature"
     ]
   }
 }

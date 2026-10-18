@@ -173,36 +173,36 @@
       "careful"
     ],
     "g35": [
-      "costume",
-      "pattern",
-      "stance",
-      "detail",
-      "surface",
-      "job"
+      "guard",
+      "clothes",
+      "patterns",
+      "door",
+      "standing",
+      "tiles"
     ],
     "g68": [
-      "Orientalism",
-      "ornament",
-      "precision",
-      "stance",
-      "texture",
-      "finish"
+      "detailed",
+      "fancy",
+      "proud",
+      "serious",
+      "colorful",
+      "careful"
     ],
     "g910": [
-      "idealization",
-      "representation",
-      "documentary effect",
-      "viewpoint",
-      "staging",
-      "fine finish"
+      "duty",
+      "strong",
+      "proud",
+      "costume",
+      "realistic",
+      "details"
     ],
     "g1112": [
-      "Orientalist gaze",
-      "exoticism",
-      "cultural critique",
-      "artifice",
-      "verisimilitude",
-      "stereotype"
+      "duty",
+      "pride",
+      "realistic",
+      "power",
+      "viewpoint",
+      "outsider's view"
     ]
   }
 }

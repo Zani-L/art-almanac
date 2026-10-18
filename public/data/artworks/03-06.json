@@ -173,36 +173,36 @@
       "hidden"
     ],
     "g35": [
-      "pattern",
       "shapes",
-      "background",
-      "color blocks",
-      "mood",
-      "design"
+      "blocks",
+      "rectangles",
+      "colors",
+      "flat",
+      "game"
     ],
     "g68": [
-      "rectangles",
-      "abstract",
-      "geometry",
-      "flat color",
-      "subject",
-      "title"
+      "flat",
+      "blocky",
+      "bold",
+      "shapes",
+      "hidden",
+      "playful"
     ],
     "g910": [
-      "abstraction",
-      "grid",
-      "De Stijl",
-      "reduction",
-      "rhythm",
-      "structure"
+      "shapes",
+      "bold",
+      "simple",
+      "modern",
+      "hidden",
+      "pattern"
     ],
     "g1112": [
-      "likeness",
-      "modernism",
-      "rectilinear",
-      "passage",
-      "vocabulary",
-      "claim"
+      "shapes",
+      "modern",
+      "simple",
+      "hidden",
+      "message",
+      "new ideas"
     ]
   }
 }

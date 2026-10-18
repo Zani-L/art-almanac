@@ -173,36 +173,36 @@
       "herd"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "mood",
-      "detail",
-      "distance",
-      "pattern"
+      "cows",
+      "farm",
+      "people",
+      "sky",
+      "field",
+      "boys"
     ],
     "g68": [
-      "pastoral",
-      "landscape",
-      "foreground",
-      "middle ground",
-      "farmland",
-      "arrangement"
+      "peaceful",
+      "warm",
+      "rural",
+      "evening",
+      "busy",
+      "gentle"
     ],
     "g910": [
-      "idealized",
-      "atmosphere",
-      "harmony",
-      "rural life",
-      "patrons",
-      "composition"
+      "peaceful",
+      "farm life",
+      "calm",
+      "work",
+      "country",
+      "tradition"
     ],
     "g1112": [
-      "nostalgia",
-      "sympathy",
-      "urban patrons",
-      "leaves out",
-      "perspective",
-      "labor"
+      "farm life",
+      "calm",
+      "hard work",
+      "past",
+      "perfect",
+      "country life"
     ]
   }
 }

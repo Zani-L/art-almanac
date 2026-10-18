@@ -174,36 +174,36 @@
       "floating"
     ],
     "g35": [
-      "landscape",
       "castle",
+      "river",
+      "boats",
       "sky",
-      "waterway",
-      "mood",
-      "horizon"
+      "brown",
+      "gray"
     ],
     "g68": [
-      "tonal",
-      "palette",
-      "atmosphere",
-      "restraint",
-      "river landscape",
-      "Golden Age"
+      "calm",
+      "misty",
+      "quiet",
+      "soft",
+      "wide sky",
+      "peaceful"
     ],
     "g910": [
-      "subdued",
-      "serenity",
-      "expanse",
-      "reflection",
-      "proportion",
-      "simplicity"
+      "calm",
+      "mood",
+      "soft colors",
+      "big sky",
+      "simple",
+      "waterways"
     ],
     "g1112": [
-      "market",
-      "specific location",
-      "celebration",
-      "spatial openness",
-      "subtlety",
-      "Dutch Republic"
+      "calm",
+      "mood",
+      "simple",
+      "landscape",
+      "feeling",
+      "imagination"
     ]
   }
 }

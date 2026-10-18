@@ -174,36 +174,36 @@
       "rounded"
     ],
     "g35": [
-      "pattern",
+      "mask",
+      "wood",
+      "eyes",
+      "round",
       "carving",
-      "detail",
-      "texture",
-      "shape",
-      "mood"
+      "holes"
     ],
     "g68": [
-      "symmetry",
-      "carving",
-      "performance",
-      "fibers",
-      "community",
-      "tradition"
+      "carved",
+      "smooth",
+      "round eyes",
+      "mysterious",
+      "simple",
+      "serious"
     ],
     "g910": [
+      "tradition",
       "identity",
-      "function",
+      "hidden",
+      "community",
       "costume",
-      "ritual",
-      "stylization",
-      "Dan"
+      "serious"
     ],
     "g1112": [
-      "context",
-      "alteration",
-      "attribution",
-      "display",
-      "performance",
-      "community role"
+      "tradition",
+      "identity",
+      "community",
+      "costume",
+      "hidden",
+      "meaning"
     ]
   }
 }

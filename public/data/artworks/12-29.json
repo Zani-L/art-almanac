@@ -174,36 +174,36 @@
       "quiet"
     ],
     "g35": [
-      "portrait",
       "monk",
+      "beard",
+      "fly",
       "frame",
-      "lifelike",
-      "inscription",
-      "gaze"
+      "room",
+      "portrait"
     ],
     "g68": [
-      "illusionism",
-      "detail",
-      "Carthusian",
-      "oil paint",
-      "Bruges",
-      "warm light"
+      "serious",
+      "lifelike",
+      "intense",
+      "warm",
+      "quiet",
+      "detailed"
     ],
     "g910": [
       "lifelike",
-      "intensity",
-      "scrutiny",
-      "trompe l'oeil",
-      "texture",
-      "stillness"
+      "serious",
+      "quiet",
+      "detail",
+      "skill",
+      "faith"
     ],
     "g1112": [
-      "Early Netherlandish",
-      "authorship",
-      "observation",
-      "presence",
+      "lifelike",
+      "faith",
+      "skill",
       "realism",
-      "self-assertion"
+      "symbol",
+      "unknown man"
     ]
   }
 }

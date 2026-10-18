@@ -175,36 +175,36 @@
       "wide"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "mood",
-      "contrast",
-      "distance",
+      "storm",
+      "river",
+      "farm",
+      "hill",
+      "clouds",
       "tiny"
     ],
     "g68": [
-      "oxbow",
-      "foreground",
-      "contrast",
-      "wilderness",
-      "viewpoint",
-      "weather"
+      "wild",
+      "stormy",
+      "sunny",
+      "peaceful",
+      "wide",
+      "tiny painter"
     ],
     "g910": [
-      "pastoral",
-      "drama",
-      "juxtaposition",
-      "vantage point",
-      "Hudson River School",
-      "symbolism"
+      "nature",
+      "wild land",
+      "farms",
+      "contrast",
+      "change",
+      "viewpoint"
     ],
     "g1112": [
-      "elegy",
-      "settlement",
-      "nationalism",
-      "sublime",
-      "observation",
-      "ideal"
+      "nature",
+      "change",
+      "farms",
+      "wild land",
+      "two sides",
+      "viewpoint"
     ]
   }
 }

@@ -173,36 +173,36 @@
       "dramatic"
     ],
     "g35": [
-      "portrait",
-      "self-portrait",
-      "expression",
-      "feeling",
-      "gesture",
-      "framing"
+      "eyes",
+      "hands",
+      "face",
+      "dark",
+      "wide",
+      "hair"
     ],
     "g68": [
-      "Realism",
-      "emotion",
-      "exaggerated",
-      "pose",
-      "Romantic",
-      "drama"
+      "scared",
+      "wild",
+      "shocked",
+      "dramatic",
+      "bold",
+      "intense"
     ],
     "g910": [
-      "confession",
-      "performance",
-      "theatricality",
-      "intensity",
-      "persona",
-      "ambiguity"
+      "emotion",
+      "fear",
+      "drama",
+      "self-portrait",
+      "intense",
+      "feeling"
     ],
     "g1112": [
-      "sincere confession",
-      "staged performance",
-      "attention-seeking",
-      "Romantic emotion",
-      "close observation",
-      "evidence limits"
+      "emotion",
+      "fear",
+      "drama",
+      "honest",
+      "self-portrait",
+      "meaning"
     ]
   }
 }

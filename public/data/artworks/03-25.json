@@ -173,36 +173,36 @@
       "overlapping"
     ],
     "g35": [
-      "mood",
-      "pattern",
-      "background",
+      "fog",
       "shapes",
-      "overlapping",
-      "texture"
+      "gray",
+      "blue",
+      "thick",
+      "overlapping"
     ],
     "g68": [
-      "monochrome",
-      "tone",
-      "edge",
-      "overlap",
-      "sensation",
-      "dense"
+      "heavy",
+      "foggy",
+      "gloomy",
+      "thick",
+      "blurry",
+      "cool"
     ],
     "g910": [
-      "Futurism",
-      "perception",
-      "solidity",
-      "structure",
-      "atmosphere",
-      "abstraction"
+      "heavy",
+      "mystery",
+      "city",
+      "feeling",
+      "gloomy",
+      "new ideas"
     ],
     "g1112": [
-      "modernity",
-      "intangible",
-      "tonal structure",
+      "feeling",
+      "mystery",
+      "heavy",
+      "city life",
       "experiment",
-      "limits",
-      "urban"
+      "modern"
     ]
   }
 }

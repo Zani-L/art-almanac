@@ -173,36 +173,36 @@
       "quiet"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "mood",
-      "distance",
-      "detail",
-      "pattern"
+      "grass",
+      "trees",
+      "cows",
+      "sky",
+      "lake",
+      "clouds"
     ],
     "g68": [
-      "landscape",
-      "distance",
-      "foreground",
+      "peaceful",
+      "wide",
+      "green",
       "calm",
-      "park",
-      "wide sky"
+      "cloudy",
+      "quiet"
     ],
     "g910": [
-      "atmosphere",
-      "Romanticism",
-      "composition",
-      "observation",
-      "cultivated",
-      "light"
+      "calm",
+      "nature",
+      "peaceful",
+      "wide",
+      "real",
+      "farm"
     ],
     "g1112": [
-      "managed land",
-      "sense of place",
-      "omission",
-      "estate",
-      "naturalism",
-      "idealization"
+      "peaceful",
+      "nature",
+      "wealth",
+      "land",
+      "real life",
+      "viewpoint"
     ]
   }
 }

@@ -176,34 +176,34 @@
     "g35": [
       "halo",
       "bronze",
-      "island",
+      "metal",
+      "circle",
       "statue",
-      "peg",
-      "radiance"
+      "missing"
     ],
     "g68": [
-      "prabha",
-      "aureole",
-      "casting",
-      "fragment",
-      "Buddhist",
-      "sacred"
+      "shiny",
+      "round",
+      "old",
+      "glowing",
+      "special",
+      "empty"
     ],
     "g910": [
-      "radiance",
-      "holiness",
-      "symbolism",
-      "assembled sculpture",
-      "absence",
-      "ensemble"
+      "holy",
+      "glow",
+      "missing piece",
+      "old",
+      "sacred",
+      "shape"
     ],
     "g1112": [
-      "part and whole",
-      "fragment display",
-      "original ensemble",
-      "cautious attribution",
-      "sacred iconography",
-      "museum framing"
+      "holiness",
+      "missing piece",
+      "glow",
+      "faith",
+      "history",
+      "display"
     ]
   }
 }

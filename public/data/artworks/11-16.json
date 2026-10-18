@@ -174,36 +174,36 @@
       "hollow"
     ],
     "g35": [
-      "vessel",
-      "Remojadas",
-      "figure",
-      "asphalt",
-      "Mexico",
-      "Gulf Coast"
+      "clay",
+      "person",
+      "container",
+      "dark",
+      "shape",
+      "hands"
     ],
     "g68": [
-      "ceramic",
-      "Mesoamerica",
-      "pigment",
-      "modeling",
-      "tradition",
-      "artifact"
+      "old",
+      "handmade",
+      "smooth",
+      "dark",
+      "sturdy",
+      "simple"
     ],
     "g910": [
-      "attribution",
-      "ritual",
-      "archaeology",
-      "exchange",
-      "function",
-      "portrait"
+      "culture",
+      "tradition",
+      "skill",
+      "ancient",
+      "use",
+      "symbol"
     ],
     "g1112": [
-      "figure vessel",
-      "archaeological context",
-      "uncertain use",
-      "attribution",
-      "technical choices",
-      "textless meaning"
+      "culture",
+      "tradition",
+      "ancient",
+      "skill",
+      "everyday use",
+      "meaning"
     ]
   }
 }

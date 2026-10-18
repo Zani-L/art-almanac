@@ -174,36 +174,36 @@
       "cloudy"
     ],
     "g35": [
-      "waves",
+      "ships",
       "sails",
-      "background",
-      "calm",
-      "sunlit",
-      "detail"
+      "sea",
+      "wind",
+      "sky",
+      "boats"
     ],
     "g68": [
-      "mast",
-      "horizon",
-      "reflection",
-      "port",
-      "detail",
-      "realistic"
+      "busy",
+      "calm water",
+      "tall ships",
+      "harbor",
+      "realistic",
+      "detailed"
     ],
     "g910": [
-      "rigging",
-      "composition",
-      "accuracy",
-      "seascape",
       "trade",
-      "atmosphere"
+      "pride",
+      "skill",
+      "calm",
+      "detail",
+      "power"
     ],
     "g1112": [
-      "maritime",
-      "prosperity",
-      "craftsmanship",
-      "colonialism",
-      "description",
-      "national pride"
+      "trade",
+      "money",
+      "pride",
+      "hard work",
+      "the sea",
+      "real life"
     ]
   }
 }

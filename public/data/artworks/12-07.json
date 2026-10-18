@@ -173,36 +173,36 @@
       "water"
     ],
     "g35": [
-      "obelisk",
-      "minstrel",
-      "monument",
+      "musicians",
       "fountain",
-      "scale",
-      "architecture"
+      "stone",
+      "tall",
+      "tiny people",
+      "monument"
     ],
     "g68": [
-      "contrast",
-      "transient",
-      "foreground",
-      "grandeur",
-      "composition",
+      "grand",
+      "huge",
+      "old",
+      "tiny",
+      "stone",
       "mood"
     ],
     "g910": [
-      "scale",
+      "mood",
       "contrast",
-      "ruin",
-      "nostalgia",
-      "monumental",
-      "human presence"
+      "time",
+      "grand",
+      "ordinary people",
+      "ruins"
     ],
     "g1112": [
-      "juxtaposition",
-      "permanence",
-      "picturesque",
       "time",
-      "enduring",
-      "fleeting"
+      "contrast",
+      "mood",
+      "change",
+      "ordinary life",
+      "imagination"
     ]
   }
 }

@@ -174,35 +174,35 @@
     ],
     "g35": [
       "portrait",
-      "sitter",
-      "pose",
+      "man",
+      "face",
       "clothing",
-      "clues",
-      "character"
+      "pose",
+      "serious"
     ],
     "g68": [
-      "likeness",
-      "dignity",
-      "oil painting",
-      "identity",
-      "presence",
+      "formal",
+      "serious",
+      "proud",
+      "dignified",
+      "careful",
       "New Zealand"
     ],
     "g910": [
-      "formality",
-      "self-presentation",
-      "heritage",
-      "context",
-      "tone",
-      "dignity"
+      "dignity",
+      "pride",
+      "character",
+      "tradition",
+      "formal",
+      "respect"
     ],
     "g1112": [
-      "colonial",
-      "representation",
-      "cultural record",
-      "commission",
-      "perspective",
-      "named individual"
+      "identity",
+      "culture",
+      "history",
+      "viewpoint",
+      "respect",
+      "real person"
     ]
   }
 }

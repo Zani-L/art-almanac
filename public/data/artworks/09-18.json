@@ -173,36 +173,36 @@
       "crown"
     ],
     "g35": [
-      "steel",
       "helmet",
-      "metalwork",
-      "strong",
-      "decoration",
-      "silhouette"
+      "steel",
+      "gold",
+      "metal",
+      "shiny",
+      "round"
     ],
     "g68": [
-      "craftsmanship",
-      "armorer",
-      "contrasting finishes",
-      "rank",
-      "form",
-      "refinement"
+      "strong",
+      "heavy",
+      "shiny",
+      "fancy",
+      "hard",
+      "protective"
     ],
     "g910": [
-      "courtly display",
-      "protective function",
-      "status symbol",
-      "ornament",
-      "copper alloy",
-      "design"
+      "protection",
+      "rank",
+      "craft",
+      "shiny",
+      "strength",
+      "decoration"
     ],
     "g1112": [
-      "rank and display",
-      "decontextualization",
-      "functional versus aesthetic",
-      "material contrast",
-      "wearer's absence",
-      "armorer's skill"
+      "protection",
+      "status",
+      "craftsmanship",
+      "history",
+      "pride",
+      "display"
     ]
   }
 }

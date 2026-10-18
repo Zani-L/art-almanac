@@ -173,36 +173,36 @@
       "decorated"
     ],
     "g35": [
-      "copper",
-      "hammer",
-      "engrave",
-      "pattern",
+      "helmet",
       "gold",
-      "metalworker"
+      "shiny",
+      "metal",
+      "round",
+      "dots"
     ],
     "g68": [
-      "embossing",
-      "engraving",
-      "stippling",
-      "gilding",
-      "dome",
-      "craftsmanship"
+      "patterned",
+      "decorated",
+      "hammered",
+      "fancy",
+      "detailed",
+      "head"
     ],
     "g910": [
-      "ornament",
+      "skill",
+      "craft",
+      "protection",
       "display",
-      "workshop",
-      "technique",
-      "surface",
-      "skill"
+      "pride",
+      "tradition"
     ],
     "g1112": [
-      "patronage",
-      "ceremonial",
-      "documentation",
-      "provenance",
-      "craft",
-      "boundary"
+      "power",
+      "wealth",
+      "hard work",
+      "usefulness",
+      "status",
+      "meaning"
     ]
   }
 }

@@ -174,36 +174,36 @@
       "hazy"
     ],
     "g35": [
-      "foreground",
-      "background",
-      "distance",
-      "mood",
-      "detail",
-      "texture"
+      "trees",
+      "garden",
+      "town",
+      "sky",
+      "leaves",
+      "grass"
     ],
     "g68": [
-      "brushstrokes",
-      "foreground",
-      "distance",
-      "Impressionism",
-      "light",
-      "background"
+      "sunny",
+      "quick strokes",
+      "distant",
+      "soft",
+      "peaceful",
+      "wide"
     ],
     "g910": [
-      "atmospheric perspective",
-      "sensation",
-      "fragmented",
-      "structure",
-      "palette",
-      "spontaneity"
+      "light",
+      "calm",
+      "distance",
+      "mood",
+      "quick",
+      "nature"
     ],
     "g1112": [
-      "transience",
-      "undervalued",
-      "modest",
-      "observation",
-      "narrative",
-      "en plein air"
+      "light",
+      "calm",
+      "moment",
+      "planned",
+      "nature",
+      "feeling"
     ]
   }
 }
