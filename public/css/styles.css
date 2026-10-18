@@ -198,7 +198,11 @@ dialog#archive::backdrop { background: rgba(26, 26, 26, 0.5); }
 img.no-thumb { background: var(--wall); }
 
 /* Footer */
-.site-footer { border-top: 1px solid var(--line); padding: 1.5rem var(--gutter) 2.5rem; display: grid; gap: 0.75rem; font-size: 0.875rem; color: var(--gray); }
+.site-footer { border-top: 1px solid var(--line); padding: 1.5rem var(--gutter) 2.5rem; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem 2rem; font-size: 0.875rem; color: var(--gray); }
+.footer-text { display: grid; gap: 0.75rem; }
+.puzzle-link { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; white-space: nowrap; height: 3.75rem; padding: 0 2.4rem; font-size: 1.3rem; font-family: var(--display); box-shadow: 0 3px 10px rgba(255,115,80,.35); }
+.puzzle-link:hover { box-shadow: 0 5px 14px rgba(255,115,80,.45); }
+@media (max-width: 47.99rem) { .puzzle-link { width: 100%; } }
 .site-footer p { max-width: 62ch; }
 .site-footer select { margin-left: 0.25rem; color: var(--ink); min-height: 2.75rem; }
 

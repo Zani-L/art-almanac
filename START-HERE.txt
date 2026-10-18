@@ -1,10 +1,10 @@
-ART ALMANAC v14 - 354 of 366 days filled, all approved.
+ART ALMANAC v16 - 354 of 366 days filled, all approved. NEW: Artwork puzzle page.
+
+If your public/images folder already has the pictures from before, you do NOT need to download them again.
 1. Unzip and copy everything into your project folder, replacing old files.
-2. Empty public/images (keep the folder).
-3. node scripts/fetch-images.mjs   (on your own computer)
-4. node scripts/build-index.mjs
-5. node scripts/validate.mjs       (says INCOMPLETE: 12 days still empty, expected)
-6. node scripts/serve.mjs, open http://localhost:3000
-7. Commit everything incl. public/images, push to GitHub; Vercel deploys.
-NEW in v14: classroom view magnifier (hover over the artwork; scroll wheel changes zoom).
-NEW in v14: Helpful words in classroom view are now written per grade level (about 6 words each).
+2. Open a terminal in the project folder and run:  node scripts/build-index.mjs
+3. (Optional) preview: node scripts/serve.mjs, open http://localhost:3000, scroll to the bottom and click "Artwork puzzle".
+4. In GitHub Desktop: type a summary (for example "Add artwork puzzle"), click Commit to main, then Push origin.
+5. Vercel republishes by itself. Wait for "Ready" on vercel.com, then test the live site.
+
+Still empty days: Jul 26, 28, 29, 31; Aug 11, 16, 19, 22, 23, 25, 29, 31.

@@ -473,6 +473,9 @@ async function show(key, push) {
     state.key = key;
     state.followingToday = key === keyFromParts(today());
     renderDateLabel();
+    const puzzleLink = document.getElementById("puzzle-link");
+    if (puzzleLink)
+        puzzleLink.setAttribute("href", `/puzzle/?d=${key}`);
     const art = await loadArtwork(key);
     // The user may have navigated again while this request was in flight.
     if (state.key !== key)
