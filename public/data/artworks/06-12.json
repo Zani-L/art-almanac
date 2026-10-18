@@ -154,5 +154,55 @@
       "Ask students to compare this print with a photograph of a lake and list what each shows best.",
       "Discuss how a quiet scene can still be interesting to look at."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "lake",
+      "man",
+      "fish",
+      "water",
+      "trees"
+    ],
+    "g12": [
+      "fishing",
+      "dark",
+      "fine",
+      "calm",
+      "outdoors",
+      "hills"
+    ],
+    "g35": [
+      "etching",
+      "fly fishing",
+      "lake",
+      "lines",
+      "foreground",
+      "background"
+    ],
+    "g68": [
+      "fine lines",
+      "calm mood",
+      "empty space",
+      "light",
+      "detail",
+      "balance"
+    ],
+    "g910": [
+      "reserved paper",
+      "composition",
+      "light and weather",
+      "line",
+      "tone",
+      "recreation"
+    ],
+    "g1112": [
+      "tourism",
+      "Adirondacks",
+      "leisure",
+      "unsentimental",
+      "economy of line",
+      "observation"
+    ]
   }
 }

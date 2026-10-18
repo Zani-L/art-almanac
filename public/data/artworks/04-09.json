@@ -155,5 +155,55 @@
       "Ask students to find the smallest figure in the painting and discuss how scale affects what feels important.",
       "Compare with a sharp-focus landscape from another day and ask which one feels closer to a memory."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "mist",
+      "green",
+      "tiny",
+      "silver",
+      "sky"
+    ],
+    "g12": [
+      "hazy",
+      "misty",
+      "feathery",
+      "quiet",
+      "blurry",
+      "gentle"
+    ],
+    "g35": [
+      "soft",
+      "hazy",
+      "blurred",
+      "silvery",
+      "peaceful",
+      "village"
+    ],
+    "g68": [
+      "atmosphere",
+      "foliage",
+      "tonal",
+      "mood",
+      "landscape",
+      "Barbizon"
+    ],
+    "g910": [
+      "depth",
+      "tonality",
+      "poetic",
+      "scale",
+      "Romantic",
+      "topography"
+    ],
+    "g1112": [
+      "studio composition",
+      "memory",
+      "Impressionism",
+      "modernism",
+      "mood",
+      "transition"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to step back from the print and describe how colors seem to mix, then step close and describe what they see.",
       "Compare this print with a harbor painting and discuss how the medium changes the look."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "dots",
+      "sea",
+      "bright",
+      "blue",
+      "town"
+    ],
+    "g12": [
+      "tiny",
+      "dotted",
+      "seaside",
+      "sunny",
+      "colorful",
+      "sparkling"
+    ],
+    "g35": [
+      "port",
+      "dots",
+      "lithograph",
+      "print",
+      "Pointillism",
+      "touches"
+    ],
+    "g68": [
+      "Neo-Impressionism",
+      "color theory",
+      "layers",
+      "printmaking",
+      "technique",
+      "complementary colors"
+    ],
+    "g910": [
+      "optical effect",
+      "vibrancy",
+      "process",
+      "layering",
+      "harmony",
+      "contrast"
+    ],
+    "g1112": [
+      "translation",
+      "medium",
+      "method",
+      "optical mixing",
+      "Seurat",
+      "luminosity"
+    ]
   }
 }

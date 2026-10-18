@@ -155,5 +155,55 @@
       "Ask students to draw one animal first by outline and then with shading, and compare.",
       "Discuss how ideas and techniques travel between cultures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horse",
+      "grass",
+      "tree",
+      "many",
+      "long",
+      "round"
+    ],
+    "g12": [
+      "scroll",
+      "resting",
+      "grazing",
+      "crowd",
+      "long",
+      "shadow"
+    ],
+    "g35": [
+      "handscroll",
+      "shadow",
+      "crowd",
+      "landscape",
+      "court painter",
+      "story"
+    ],
+    "g68": [
+      "modeling",
+      "volume",
+      "court painting",
+      "Jesuit",
+      "composition",
+      "cross-cultural"
+    ],
+    "g910": [
+      "hybrid style",
+      "European technique",
+      "pacing",
+      "imperial abundance",
+      "format",
+      "animal study"
+    ],
+    "g1112": [
+      "cross-cultural synthesis",
+      "viewing sequence",
+      "imperial court",
+      "tentative reading",
+      "handscroll format",
+      "Jesuit missionary"
+    ]
   }
 }

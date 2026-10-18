@@ -8,11 +8,10 @@
   "movement": "Expressionism",
   "region": "Norway",
   "image": {
-    "url": "/images/ahp-the-scream-1893.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11985/edvard-munch-the-scream-1893-1893-trivium-art-history.jpg",
     "credit": "National Gallery, Oslo; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/edvard-munch/the-scream-1893/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11985/edvard-munch-the-scream-1893-1893-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/edvard-munch/the-scream-1893/"
   },
   "altText": "A swirling landscape of wavy orange, red and blue bands with a bridge or path, and a figure in the foreground holding its hands to its face.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students use only lines and colors to draw a feeling (not a scene), then compare and discuss.",
       "Ask students to describe what helps them when they have a big feeling, linking to school supports as appropriate.",
       "Discuss how artists turn inner feelings into pictures; check in gently with students who find the topic hard."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sky",
+      "wavy",
+      "orange",
+      "red",
+      "blue",
+      "hands"
+    ],
+    "g12": [
+      "swirling",
+      "curvy",
+      "bridge",
+      "scared",
+      "wavy",
+      "bold"
+    ],
+    "g35": [
+      "swirls",
+      "feeling",
+      "emotion",
+      "curved lines",
+      "movement",
+      "foreground"
+    ],
+    "g68": [
+      "Expressionism",
+      "distortion",
+      "diagonal",
+      "emotion",
+      "perspective",
+      "symbolic"
+    ],
+    "g910": [
+      "anxiety",
+      "rhythm",
+      "sharp perspective",
+      "allegory",
+      "universal symbol",
+      "psychological"
+    ],
+    "g1112": [
+      "modern unease",
+      "personal confession",
+      "formal experiment",
+      "Symbolism",
+      "categorization",
+      "evidence"
     ]
   }
 }

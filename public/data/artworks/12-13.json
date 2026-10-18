@@ -154,5 +154,55 @@
       "Ask students to imagine and sketch the dancer in full color, then compare their ideas.",
       "Discuss how artists show movement in still works and find examples in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dance",
+      "lady",
+      "clay",
+      "tall",
+      "soft",
+      "dress"
+    ],
+    "g12": [
+      "dancer",
+      "graceful",
+      "pale",
+      "moving",
+      "gentle",
+      "slender"
+    ],
+    "g35": [
+      "earthenware",
+      "pose",
+      "clothing",
+      "pigment",
+      "tomb",
+      "figure"
+    ],
+    "g68": [
+      "gesture",
+      "silhouette",
+      "Tang dynasty",
+      "movement",
+      "tomb pottery",
+      "elegance"
+    ],
+    "g910": [
+      "grace",
+      "rhythm",
+      "posture",
+      "drapery",
+      "movement",
+      "symbolism"
+    ],
+    "g1112": [
+      "status",
+      "afterlife",
+      "burial",
+      "entertainer",
+      "stillness",
+      "performance"
+    ]
   }
 }

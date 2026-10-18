@@ -8,11 +8,10 @@
   "movement": "Expressionism",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-young-girl-with-peonies.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/34978/alexej_von_jawlensky-young_girl_with_peonies-1909-obelisk-art-history.jpg",
     "credit": "Von der Heydt Museum, Germany; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/alexej-von-jawlensky/young-girl-with-peonies/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/34978/alexej_von_jawlensky-young_girl_with_peonies-1909-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/alexej-von-jawlensky/young-girl-with-peonies/"
   },
   "altText": "A portrait of a young woman facing the viewer, with a broad face outlined in dark lines and painted in strong, flat colors. Large pink and red peony flowers fill the space beside and below her.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a self-portrait using at least three colors that are not true to life but match a mood, then explain their choices.",
       "Ask students to compare this portrait with a photograph of a young person and list what each shows best.",
       "Discuss how colors can express feelings without words and invite students to name one color-feeling pairing from the painting."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "face",
+      "pink",
+      "red",
+      "flowers",
+      "big"
+    ],
+    "g12": [
+      "portrait",
+      "flat",
+      "bold",
+      "peonies",
+      "thick",
+      "strong"
+    ],
+    "g35": [
+      "Expressionism",
+      "outlines",
+      "bold color",
+      "flowers",
+      "flat",
+      "feeling"
+    ],
+    "g68": [
+      "contour",
+      "saturated",
+      "flat planes",
+      "portrait",
+      "emotion",
+      "stylized"
+    ],
+    "g910": [
+      "chromatic energy",
+      "non-naturalistic",
+      "modeling",
+      "expressive color",
+      "distortion",
+      "formal reduction"
+    ],
+    "g1112": [
+      "redefining portraiture",
+      "face as color field",
+      "early modernism",
+      "emotion and form",
+      "rejection of modeling",
+      "gain and loss"
     ]
   }
 }

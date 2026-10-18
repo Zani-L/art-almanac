@@ -155,5 +155,55 @@
       "Ask students to arrange a few real or paper flowers and draw them very close up, filling the page.",
       "Compare the energy of this still life with the quiet still life by Cézanne in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flower",
+      "blue",
+      "green",
+      "leaf",
+      "bend",
+      "purple"
+    ],
+    "g12": [
+      "curvy",
+      "bending",
+      "leaves",
+      "crowded",
+      "thick",
+      "lively"
+    ],
+    "g35": [
+      "irises",
+      "brushstrokes",
+      "blue-violet",
+      "curved",
+      "energy",
+      "bouquet"
+    ],
+    "g68": [
+      "impasto",
+      "rhythm",
+      "pattern",
+      "cropping",
+      "still life",
+      "Post-Impressionism"
+    ],
+    "g910": [
+      "dynamism",
+      "abstraction",
+      "saturation",
+      "curvilinear",
+      "crowded",
+      "emotion"
+    ],
+    "g1112": [
+      "vitality",
+      "expressive color",
+      "flattened space",
+      "restlessness",
+      "Japanese prints",
+      "interpretation"
+    ]
   }
 }

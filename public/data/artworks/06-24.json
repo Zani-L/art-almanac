@@ -155,5 +155,55 @@
       "Discuss everyday objects that could also be works of art.",
       "Compare black ink on gold with black ink on white paper using sample sheets."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bird",
+      "gold",
+      "fan",
+      "branch",
+      "flowers",
+      "black"
+    ],
+    "g12": [
+      "golden",
+      "perched",
+      "shiny",
+      "shape",
+      "ink",
+      "small"
+    ],
+    "g35": [
+      "ink",
+      "fan shape",
+      "album leaf",
+      "gold paper",
+      "branch",
+      "arrangement"
+    ],
+    "g68": [
+      "gold ground",
+      "elegant",
+      "negative space",
+      "fine lines",
+      "balance",
+      "delicate"
+    ],
+    "g910": [
+      "bird-and-flower",
+      "contrast",
+      "format",
+      "Ming dynasty",
+      "ground",
+      "composition"
+    ],
+    "g1112": [
+      "auspicious wishes",
+      "remounting",
+      "collectible",
+      "material",
+      "format",
+      "function"
+    ]
   }
 }

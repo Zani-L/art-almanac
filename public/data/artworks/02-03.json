@@ -155,5 +155,55 @@
       "Discuss how camels and caravans connected distant places in the medieval world; locate Iraq on a map.",
       "Tilt a shiny object under a lamp to explore how luster-like surfaces change with the light."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bowl",
+      "camels",
+      "white",
+      "round",
+      "shiny",
+      "gold"
+    ],
+    "g12": [
+      "shimmering",
+      "circling",
+      "repeating",
+      "shallow",
+      "glazed",
+      "sparkling"
+    ],
+    "g35": [
+      "luster",
+      "caravan",
+      "palanquin",
+      "camels",
+      "glaze",
+      "repeating"
+    ],
+    "g68": [
+      "Abbasid",
+      "medallion",
+      "earthenware",
+      "metallic sheen",
+      "composition",
+      "repetition"
+    ],
+    "g910": [
+      "prestige ceramics",
+      "circular design",
+      "trade imagery",
+      "rare subject",
+      "decoration",
+      "procession"
+    ],
+    "g1112": [
+      "metallic sheen",
+      "pilgrimage",
+      "potter's invention",
+      "repertoire",
+      "ceremonial procession",
+      "travel"
+    ]
   }
 }

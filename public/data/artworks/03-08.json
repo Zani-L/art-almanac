@@ -8,11 +8,10 @@
   "movement": "Romanticism",
   "region": "England",
   "image": {
-    "url": "/images/ahp-wivenhoe-park-essex.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/12191/john_constable-wivenhoe_park-_essex-1816-obelisk-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/john-constable/wivenhoe-park-essex/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/12191/john_constable-wivenhoe_park-_essex-1816-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/john-constable/wivenhoe-park-essex/"
   },
   "altText": "A wide English parkland scene with grass, trees and water, grazing cows and a large sky filled with clouds. The view is calm and open, painted in soft greens and blues.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a local outdoor place with a large sky and a smaller land area, and discuss how the proportion changes the mood.",
       "Ask students to describe the sky using five different words and compare responses.",
       "Discuss what a painting can show about how land was used and who looked after it."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cows",
+      "grass",
+      "sky",
+      "trees",
+      "green",
+      "blue"
+    ],
+    "g12": [
+      "lake",
+      "clouds",
+      "peaceful",
+      "grazing",
+      "open",
+      "quiet"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "mood",
+      "distance",
+      "detail",
+      "pattern"
+    ],
+    "g68": [
+      "landscape",
+      "distance",
+      "foreground",
+      "calm",
+      "park",
+      "wide sky"
+    ],
+    "g910": [
+      "atmosphere",
+      "Romanticism",
+      "composition",
+      "observation",
+      "cultivated",
+      "light"
+    ],
+    "g1112": [
+      "managed land",
+      "sense of place",
+      "omission",
+      "estate",
+      "naturalism",
+      "idealization"
     ]
   }
 }

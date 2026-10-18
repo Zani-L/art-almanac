@@ -154,5 +154,55 @@
       "Shine a flashlight on gold paper at different angles to see how light changes the surface.",
       "Ask students to find the smallest detail in the screens and describe how scale affects mood."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "hills",
+      "trees",
+      "river",
+      "tiny",
+      "big"
+    ],
+    "g12": [
+      "shiny",
+      "glowing",
+      "folded",
+      "huge",
+      "autumn",
+      "wide"
+    ],
+    "g35": [
+      "folding screen",
+      "donkeys",
+      "gold paper",
+      "mountains",
+      "autumn",
+      "candlelight"
+    ],
+    "g68": [
+      "panels",
+      "landscape",
+      "atmosphere",
+      "scale",
+      "gilded",
+      "tradition"
+    ],
+    "g910": [
+      "flatness",
+      "depth",
+      "seasonal",
+      "emotion",
+      "function",
+      "reflectivity"
+    ],
+    "g1112": [
+      "East Asian",
+      "gilded ground",
+      "pictorial depth",
+      "seasonal themes",
+      "literary meaning",
+      "interior function"
+    ]
   }
 }

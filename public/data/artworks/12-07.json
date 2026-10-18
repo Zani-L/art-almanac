@@ -154,5 +154,55 @@
       "Have students write a short scene describing what the minstrels play and who stops to listen.",
       "Discuss why artists place small figures next to large monuments."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "music",
+      "stone",
+      "tiny",
+      "big",
+      "fountain",
+      "tall"
+    ],
+    "g12": [
+      "tall",
+      "musicians",
+      "grand",
+      "traveling",
+      "stone",
+      "water"
+    ],
+    "g35": [
+      "obelisk",
+      "minstrel",
+      "monument",
+      "fountain",
+      "scale",
+      "architecture"
+    ],
+    "g68": [
+      "contrast",
+      "transient",
+      "foreground",
+      "grandeur",
+      "composition",
+      "mood"
+    ],
+    "g910": [
+      "scale",
+      "contrast",
+      "ruin",
+      "nostalgia",
+      "monumental",
+      "human presence"
+    ],
+    "g1112": [
+      "juxtaposition",
+      "permanence",
+      "picturesque",
+      "time",
+      "enduring",
+      "fleeting"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Orientalism",
   "region": "Austria",
   "image": {
-    "url": "/images/ahp-the-palace-guard.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/30383/ludwig_deutsch-the_palace_guard-1892-trivium-art-history-1.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/ludwig-deutsch/the-palace-guard/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/30383/ludwig_deutsch-the_palace_guard-1892-trivium-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/ludwig-deutsch/the-palace-guard/"
   },
   "altText": "A small, finely detailed painting of a guard in elaborate clothing, shown in a carefully painted setting, in the polished style of nineteenth-century Orientalist painting.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a pattern from the guard's clothing or setting and explain how they would paint tiny details.",
       "Ask students to list what the painting shows and what it cannot show about a real place, and discuss why.",
       "Discuss how an artist's own viewpoint shapes what they show about other people; keep the tone respectful and curious."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tall",
+      "fancy",
+      "guard",
+      "small",
+      "clothes",
+      "stand"
+    ],
+    "g12": [
+      "costume",
+      "patterns",
+      "detailed",
+      "proud",
+      "shiny",
+      "careful"
+    ],
+    "g35": [
+      "costume",
+      "pattern",
+      "stance",
+      "detail",
+      "surface",
+      "job"
+    ],
+    "g68": [
+      "Orientalism",
+      "ornament",
+      "precision",
+      "stance",
+      "texture",
+      "finish"
+    ],
+    "g910": [
+      "idealization",
+      "representation",
+      "documentary effect",
+      "viewpoint",
+      "staging",
+      "fine finish"
+    ],
+    "g1112": [
+      "Orientalist gaze",
+      "exoticism",
+      "cultural critique",
+      "artifice",
+      "verisimilitude",
+      "stereotype"
     ]
   }
 }

@@ -155,5 +155,55 @@
       "Have students compare how a gaze toward the viewer changes the feeling of a portrait.",
       "Discuss how a religious image can be studied for its art as well as its meaning."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "baby",
+      "mother",
+      "cloth",
+      "hills",
+      "close",
+      "soft"
+    ],
+    "g12": [
+      "gentle",
+      "holding",
+      "distant",
+      "warm",
+      "ledge",
+      "tender"
+    ],
+    "g35": [
+      "Madonna",
+      "ledge",
+      "landscape",
+      "gaze",
+      "season",
+      "background"
+    ],
+    "g68": [
+      "depth",
+      "foreground",
+      "warm tone",
+      "closeness",
+      "eye contact",
+      "realistic"
+    ],
+    "g910": [
+      "parapet",
+      "naturalism",
+      "layered space",
+      "asymmetry",
+      "devotion",
+      "threshold"
+    ],
+    "g1112": [
+      "cloth of honor",
+      "Venetian synthesis",
+      "seasonal rhythm",
+      "rebirth",
+      "asymmetrical composition",
+      "devotional naturalism"
+    ]
   }
 }

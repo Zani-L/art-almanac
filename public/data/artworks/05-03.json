@@ -155,5 +155,55 @@
       "Ask students to sketch a relaxed moment with friends or family using loose, quick marks.",
       "Compare Manet's casual approach with a formal portrait from another day in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mom",
+      "child",
+      "flowers",
+      "sun",
+      "grass",
+      "house"
+    ],
+    "g12": [
+      "sunny",
+      "bright",
+      "family",
+      "loose",
+      "leafy",
+      "relaxed"
+    ],
+    "g35": [
+      "garden",
+      "brushstrokes",
+      "casual",
+      "summer",
+      "close",
+      "apart"
+    ],
+    "g68": [
+      "Impressionism",
+      "genre scene",
+      "brushwork",
+      "composition",
+      "leisure",
+      "outdoors"
+    ],
+    "g910": [
+      "spacing",
+      "gaze",
+      "modern life",
+      "intimacy",
+      "portraiture",
+      "color"
+    ],
+    "g1112": [
+      "ambiguity",
+      "psychological study",
+      "family record",
+      "Realism",
+      "claims",
+      "sunlit color"
+    ]
   }
 }

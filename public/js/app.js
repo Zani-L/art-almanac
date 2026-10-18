@@ -318,22 +318,24 @@ function renderLearning() {
         return;
     const description = pickByBand(art.descriptions, state.grade) ?? art.context;
     el("description").textContent = description;
+    renderVocab(art, true);
     el("question").textContent = questionFor(art, state.grade, state.category);
     const band = taxonomy.gradeBands.find((b) => b.id === state.grade);
     el("cue").textContent = band?.cue ?? "";
 }
-function renderVocab(art) {
+function renderVocab(art, keepOpen = false) {
     const box = el("vocab");
     const list = el("vocab-list");
     list.replaceChildren();
-    const words = art.teacherNote?.vocabulary ?? [];
+    const words = pickByBand(art.helpfulWords, state.grade) ?? art.teacherNote?.vocabulary ?? [];
     for (const w of words) {
         const li = document.createElement("li");
         li.textContent = w;
         list.append(li);
     }
     box.hidden = words.length === 0;
-    box.open = false;
+    if (!keepOpen)
+        box.open = false;
 }
 function renderTeacher(art) {
     renderVocab(art);

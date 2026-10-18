@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/artic-111436.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11516/paul_cezanne-the_basket_of_apples-1894-obelisk-art-history.jpg",
     "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection; image via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-cezanne/the-basket-of-apples/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11516/paul_cezanne-the_basket_of_apples-1894-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-cezanne/the-basket-of-apples/"
   },
   "altText": "A still life on a table covered with a rumpled white cloth, with a basket of apples tipped toward the viewer, a bottle, and more fruit and bread. The table edges and objects look slightly tilted, as if seen from more than one place.",
   "source": {
@@ -154,6 +153,56 @@
       "Set up a table with a cloth and fruit, and have students draw it from two positions, then combine them in one picture.",
       "Ask students to find every place where the table edge or basket seems to bend the rules of perspective and discuss why.",
       "Compare this with a photograph of a similar arrangement and discuss what a painter can show that a camera cannot."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "apple",
+      "table",
+      "bread",
+      "bottle",
+      "round",
+      "cloth"
+    ],
+    "g12": [
+      "basket",
+      "fruit",
+      "tilted",
+      "crumpled",
+      "wobbly",
+      "still"
+    ],
+    "g35": [
+      "still life",
+      "viewpoint",
+      "tilted",
+      "cloth",
+      "arrangement",
+      "perspective"
+    ],
+    "g68": [
+      "composition",
+      "geometric",
+      "multiple viewpoints",
+      "distortion",
+      "Post-Impressionism",
+      "brushstroke"
+    ],
+    "g910": [
+      "shifting perspective",
+      "simplification",
+      "spatial ambiguity",
+      "modulated color",
+      "experiment",
+      "Cubism"
+    ],
+    "g1112": [
+      "perception",
+      "visual inconsistency",
+      "reconstruction",
+      "formal analysis",
+      "influence on Cubism",
+      "deliberate distortion"
     ]
   }
 }

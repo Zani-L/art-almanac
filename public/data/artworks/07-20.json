@@ -154,5 +154,55 @@
       "Ask older students to compare this winter view with a summer coastal painting and discuss how season changes mood.",
       "Discuss how living in a place year-round might change the way an artist sees it."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "snow",
+      "sea",
+      "sky",
+      "window",
+      "rocks",
+      "cold"
+    ],
+    "g12": [
+      "wintry",
+      "windy",
+      "distant",
+      "rugged",
+      "chilly",
+      "quiet"
+    ],
+    "g35": [
+      "landscape",
+      "winter",
+      "season",
+      "studio window",
+      "foreground",
+      "coast"
+    ],
+    "g68": [
+      "horizon",
+      "view",
+      "rugged",
+      "remote",
+      "atmosphere",
+      "composition"
+    ],
+    "g910": [
+      "frame",
+      "solitude",
+      "seasonal",
+      "residence",
+      "Monhegan",
+      "relationship to place"
+    ],
+    "g1112": [
+      "artist and landscape",
+      "isolation",
+      "framing",
+      "year-round residence",
+      "remoteness",
+      "subjectivity"
+    ]
   }
 }

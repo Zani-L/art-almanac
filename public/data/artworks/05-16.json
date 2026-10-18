@@ -8,11 +8,10 @@
   "movement": "Barbizon School",
   "region": "France",
   "image": {
-    "url": "/images/ahp-potato-planters.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16993/jean-francois-millet-potato-planters-1861-obelisk-art-history.jpg",
     "credit": "Museum of Fine Arts, Boston; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/jean-francois-millet/potato-planters/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16993/jean-francois-millet-potato-planters-1861-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/jean-francois-millet/potato-planters/"
   },
   "altText": "Two farm workers, a man and a woman, bend over in a wide field to plant potatoes. A broad, glowing sky stretches above them, with the land fading into a distant horizon.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to act out the poses of the two workers and discuss what the posture communicates.",
       "Have students sketch a form of work they see in their own community in a simple, large way.",
       "Discuss why artists might choose ordinary work as a subject and who it was made for."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "field",
+      "sky",
+      "farm",
+      "bend",
+      "potatoes",
+      "plant"
+    ],
+    "g12": [
+      "workers",
+      "horizon",
+      "farmland",
+      "wide",
+      "bending",
+      "rural"
+    ],
+    "g35": [
+      "labor",
+      "peasant",
+      "landscape",
+      "composition",
+      "earth tones",
+      "glowing sky"
+    ],
+    "g68": [
+      "earthy",
+      "stooped",
+      "space",
+      "silhouette",
+      "daily work",
+      "mood"
+    ],
+    "g910": [
+      "monumentality",
+      "rural life",
+      "idealization",
+      "dignity",
+      "perspective",
+      "timelessness"
+    ],
+    "g1112": [
+      "social commentary",
+      "nostalgia",
+      "peasant labor",
+      "idealization",
+      "observation",
+      "reception"
     ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask students to write what happens next, then discuss which visual evidence they used.",
       "Compare with a colorful work from the archive and discuss what color adds or removes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "walk",
+      "brown",
+      "lines",
+      "man",
+      "woman",
+      "print"
+    ],
+    "g12": [
+      "country",
+      "crisscross",
+      "farm",
+      "ink",
+      "paper",
+      "together"
+    ],
+    "g35": [
+      "etching",
+      "hatching",
+      "brown ink",
+      "dark and light",
+      "farm workers",
+      "rural"
+    ],
+    "g68": [
+      "shading",
+      "crosshatching",
+      "distance",
+      "journey",
+      "texture",
+      "detail"
+    ],
+    "g910": [
+      "line density",
+      "tone",
+      "state",
+      "labor",
+      "plate",
+      "viewpoint"
+    ],
+    "g1112": [
+      "rural labor",
+      "sentimentality",
+      "reception",
+      "refinement",
+      "final state",
+      "buyers"
+    ]
   }
 }

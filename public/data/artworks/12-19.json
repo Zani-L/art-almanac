@@ -154,5 +154,55 @@
       "Have students sketch a portrait of a friend looking at something and describe what their gaze says.",
       "Discuss what it meant for a woman to be a professional painter in the 1700s."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "mirror",
+      "soft",
+      "glow",
+      "face",
+      "hair"
+    ],
+    "g12": [
+      "reflection",
+      "gentle",
+      "young",
+      "glowing",
+      "smooth",
+      "looking"
+    ],
+    "g35": [
+      "portrait",
+      "mirror",
+      "reflection",
+      "daughter",
+      "oil paint",
+      "soft light"
+    ],
+    "g68": [
+      "intimacy",
+      "soft focus",
+      "self-image",
+      "gaze",
+      "informality",
+      "likeness"
+    ],
+    "g910": [
+      "self-perception",
+      "tenderness",
+      "narrative",
+      "softness",
+      "identity",
+      "mood"
+    ],
+    "g1112": [
+      "vanity",
+      "self-knowledge",
+      "private",
+      "public display",
+      "seeing",
+      "affection"
+    ]
   }
 }

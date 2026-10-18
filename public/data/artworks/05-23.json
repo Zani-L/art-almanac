@@ -154,5 +154,55 @@
       "Have students debate whether the painting honors work or romanticizes it, using visual evidence.",
       "Compare with another work in the archive that shows labor and discuss who the picture was made for."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "hands",
+      "yarn",
+      "knit",
+      "face",
+      "calm"
+    ],
+    "g12": [
+      "knitting",
+      "busy",
+      "needles",
+      "quiet",
+      "focused",
+      "country"
+    ],
+    "g35": [
+      "countryside",
+      "posture",
+      "mood",
+      "ordinary",
+      "detail",
+      "handwork"
+    ],
+    "g68": [
+      "focus",
+      "expression",
+      "realistic",
+      "calm mood",
+      "close focus",
+      "everyday"
+    ],
+    "g910": [
+      "genre painting",
+      "labor",
+      "idealize",
+      "modeling",
+      "rural",
+      "pose"
+    ],
+    "g1112": [
+      "academic painting",
+      "nostalgia",
+      "patrons",
+      "handling",
+      "respect for labor",
+      "rural vogue"
+    ]
   }
 }

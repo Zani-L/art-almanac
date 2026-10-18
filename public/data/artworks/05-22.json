@@ -7,11 +7,10 @@
   "medium": "Oil on canvas",
   "region": "Denmark",
   "image": {
-    "url": "/images/ahp-interior-with-the-artists-easel.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37772/vilhelm-hammershoi-interior-with-the-artists-easel-1910-obelisk-art-history.jpg",
     "credit": "Statens Museum for Kunst, Denmark; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vilhelm-hammershoi/interior-with-the-artists-easel/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37772/vilhelm-hammershoi-interior-with-the-artists-easel-1910-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vilhelm-hammershoi/interior-with-the-artists-easel/"
   },
   "altText": "A quiet, sparsely furnished room painted in muted grays and whites, with an artist's easel as a main object. Doorways and plain walls create a calm, hushed space with no people in view.",
   "source": {
@@ -153,6 +152,56 @@
       "Have students draw a room they know with no people in it and discuss what the objects say about who uses it.",
       "Ask students to describe the sounds and temperature of the room to practice evidence-based interpretation.",
       "Discuss how an empty space can feel calm for some viewers and lonely for others."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "room",
+      "door",
+      "wall",
+      "empty",
+      "quiet",
+      "gray"
+    ],
+    "g12": [
+      "calm",
+      "still",
+      "plain",
+      "hushed",
+      "white",
+      "soft"
+    ],
+    "g35": [
+      "interior",
+      "easel",
+      "mood",
+      "soft light",
+      "doorways",
+      "stillness"
+    ],
+    "g68": [
+      "empty space",
+      "quiet mood",
+      "light",
+      "geometry",
+      "simplicity",
+      "neutral"
+    ],
+    "g910": [
+      "austere",
+      "restraint",
+      "absence",
+      "diffused light",
+      "muted palette",
+      "composition"
+    ],
+    "g1112": [
+      "emptiness",
+      "restraint",
+      "presence",
+      "austerity",
+      "ambiguity",
+      "implied absence"
     ]
   }
 }

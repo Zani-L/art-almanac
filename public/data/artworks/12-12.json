@@ -155,5 +155,55 @@
       "Discuss how an artist can honor a tradition and still make something personal.",
       "Compare this scroll's mood with the Ming handscroll from another day in the series."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hill",
+      "rock",
+      "mountain",
+      "long",
+      "ink",
+      "path"
+    ],
+    "g12": [
+      "scroll",
+      "misty",
+      "winding",
+      "peaks",
+      "rolling",
+      "gray"
+    ],
+    "g35": [
+      "handscroll",
+      "landscape",
+      "mountains",
+      "journey",
+      "ink",
+      "sections"
+    ],
+    "g68": [
+      "sequence",
+      "unrolling",
+      "texture stroke",
+      "Qing dynasty",
+      "horizontal",
+      "composition"
+    ],
+    "g910": [
+      "horizontal",
+      "flow",
+      "perspective",
+      "brushwork",
+      "panorama",
+      "atmosphere"
+    ],
+    "g1112": [
+      "tradition",
+      "continuity",
+      "format",
+      "late Qing",
+      "movement",
+      "viewer"
+    ]
   }
 }

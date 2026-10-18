@@ -8,11 +8,10 @@
   "movement": "Fauvism",
   "region": "Canada",
   "image": {
-    "url": "/images/ahp-war-canoes.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/13106/emily_carr-war_canoes-_alert_bay-1912-trivium-art-history-1.jpg",
     "credit": "Audain Art Museum, Canada; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/emily-carr/war-canoes/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/13106/emily_carr-war_canoes-_alert_bay-1912-trivium-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/emily-carr/war-canoes/"
   },
   "altText": "Long canoes sit on the water or shore in a coastal scene painted with bold, bright colors and simplified shapes. The brushwork is loose, and sky, water and land are shown in strong color areas.",
   "source": {
@@ -154,6 +153,56 @@
       "Invite students to paint a place they know using color that shows how it feels, rather than how it looks exactly.",
       "Have students research, with community-sourced materials where possible, how the relevant Indigenous community describes its own canoes and traditions, and compare that with the painting.",
       "Discuss how an artist from outside a community can make respectful choices, and what questions the artist should ask first."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "sea",
+      "sky",
+      "bright",
+      "long",
+      "water"
+    ],
+    "g12": [
+      "canoes",
+      "coast",
+      "simple",
+      "colorful",
+      "bold",
+      "shore"
+    ],
+    "g35": [
+      "coast",
+      "brushwork",
+      "bold",
+      "shapes",
+      "Alert Bay",
+      "British Columbia"
+    ],
+    "g68": [
+      "Fauvism",
+      "saturated",
+      "simplified",
+      "perspective",
+      "composition",
+      "energy"
+    ],
+    "g910": [
+      "bold color",
+      "distortion",
+      "simplification",
+      "expressive",
+      "rhythm",
+      "setting"
+    ],
+    "g1112": [
+      "Indigenous",
+      "representation",
+      "critique",
+      "formal innovation",
+      "outsider",
+      "community"
     ]
   }
 }

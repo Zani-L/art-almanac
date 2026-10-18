@@ -154,5 +154,55 @@
       "Have students paint a rainy night or a loud sound using watercolor, thinking about how to show something you hear.",
       "Ask older students to discuss how an artist can use memory and feeling to paint something that is not visible, such as a sound."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "rain",
+      "night",
+      "house",
+      "tall",
+      "wet",
+      "dark"
+    ],
+    "g12": [
+      "church",
+      "spire",
+      "bells",
+      "stormy",
+      "winter",
+      "gloomy"
+    ],
+    "g35": [
+      "mood",
+      "sound",
+      "rainy",
+      "watercolor",
+      "spire",
+      "memory"
+    ],
+    "g68": [
+      "atmosphere",
+      "gouache",
+      "expressive",
+      "synesthesia",
+      "silhouette",
+      "emotion"
+    ],
+    "g910": [
+      "visual sound",
+      "childhood memory",
+      "subjective experience",
+      "stylization",
+      "rhythm",
+      "American modernism"
+    ],
+    "g1112": [
+      "private memory",
+      "synesthetic imagery",
+      "emotional resonance",
+      "loss",
+      "expressive distortion",
+      "golden year"
+    ]
   }
 }

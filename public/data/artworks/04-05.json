@@ -156,5 +156,55 @@
       "Ask students to trace two lines of a robe and describe how line alone suggests cloth.",
       "Compare the way this print and another artwork in the archive suggest outdoor space."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "boy",
+      "flower",
+      "long",
+      "stream",
+      "robe"
+    ],
+    "g12": [
+      "flowing",
+      "patterned",
+      "gathered",
+      "outdoors",
+      "elegant",
+      "tall"
+    ],
+    "g35": [
+      "woodblock",
+      "triptych",
+      "pattern",
+      "robes",
+      "grouped",
+      "wisteria"
+    ],
+    "g68": [
+      "ukiyo-e",
+      "contour line",
+      "composition",
+      "fashion",
+      "elegance",
+      "print"
+    ],
+    "g910": [
+      "idealized",
+      "leisure",
+      "format",
+      "sheet",
+      "Edo",
+      "market"
+    ],
+    "g1112": [
+      "fashionable life",
+      "incompleteness",
+      "celebration",
+      "record",
+      "Edo-period culture",
+      "assumption"
+    ]
   }
 }

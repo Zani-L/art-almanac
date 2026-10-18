@@ -155,5 +155,55 @@
       "Ask students to research another woman artist from the 1500s and compare her opportunities with Lucia's.",
       "Discuss how and why a museum might change who it credits for an artwork."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tiny",
+      "round",
+      "man",
+      "face",
+      "brown",
+      "metal"
+    ],
+    "g12": [
+      "small",
+      "disk",
+      "metal",
+      "treasured",
+      "careful",
+      "precious"
+    ],
+    "g35": [
+      "portrait",
+      "miniature",
+      "copper",
+      "Cremona",
+      "keepsake",
+      "detail"
+    ],
+    "g68": [
+      "likeness",
+      "attribution",
+      "Renaissance",
+      "intimacy",
+      "portability",
+      "oil paint"
+    ],
+    "g910": [
+      "small scale",
+      "closeness",
+      "status",
+      "treasured",
+      "sentiment",
+      "precision"
+    ],
+    "g1112": [
+      "provisional",
+      "absence",
+      "scholarship",
+      "elite",
+      "recognition",
+      "handling"
+    ]
   }
 }

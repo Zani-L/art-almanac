@@ -154,5 +154,55 @@
       "Have students sketch a moment from a sport or game, thinking about where to place the viewer and how to show movement.",
       "Ask older students to discuss how a preparatory sketch can help an artist plan space and what that says about realism."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "water",
+      "row",
+      "men",
+      "fast",
+      "strong"
+    ],
+    "g12": [
+      "rowing",
+      "river",
+      "race",
+      "splashing",
+      "teamwork",
+      "racing"
+    ],
+    "g35": [
+      "movement",
+      "strength",
+      "rowing",
+      "river",
+      "race",
+      "oars"
+    ],
+    "g68": [
+      "realism",
+      "perspective",
+      "action",
+      "observation",
+      "spectator sport",
+      "composition"
+    ],
+    "g910": [
+      "immediacy",
+      "depth",
+      "contemporary subject",
+      "preparatory study",
+      "precision",
+      "athleticism"
+    ],
+    "g1112": [
+      "empirical observation",
+      "structured space",
+      "modern life",
+      "spectatorship",
+      "scientific approach",
+      "masculinity"
+    ]
   }
 }

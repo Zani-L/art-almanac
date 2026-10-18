@@ -154,5 +154,55 @@
       "Ask students to sketch the path of their eyes through the picture, from front to back.",
       "Connect to science or geography: what crops grow in your region, and when are they harvested?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "golden",
+      "wheat",
+      "tree",
+      "hill",
+      "sun",
+      "busy"
+    ],
+    "g12": [
+      "summer",
+      "field",
+      "harvest",
+      "distant",
+      "resting",
+      "village"
+    ],
+    "g35": [
+      "landscape",
+      "foreground",
+      "farm workers",
+      "hazy distance",
+      "season",
+      "warm day"
+    ],
+    "g68": [
+      "composition",
+      "depth",
+      "atmospheric perspective",
+      "balance",
+      "rural life",
+      "realistic"
+    ],
+    "g910": [
+      "elevated viewpoint",
+      "recession",
+      "labor",
+      "seasonal cycle",
+      "naturalistic",
+      "narrative"
+    ],
+    "g1112": [
+      "Netherlandish tradition",
+      "social commentary",
+      "monumental",
+      "observation",
+      "ambiguity",
+      "visual evidence"
+    ]
   }
 }

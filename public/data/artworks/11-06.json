@@ -154,5 +154,55 @@
       "Ask students to compare this portrait with the other Cameron portrait in the archive.",
       "Connect to science: Herschel helped name 'photography' and used light-sensitive chemistry; discuss how art and science overlap."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "face",
+      "light",
+      "dark",
+      "old",
+      "gray"
+    ],
+    "g12": [
+      "serious",
+      "close",
+      "strong",
+      "shadowy",
+      "powerful",
+      "deep"
+    ],
+    "g35": [
+      "portrait",
+      "scientist",
+      "lighting",
+      "carbon print",
+      "sitter",
+      "friend"
+    ],
+    "g68": [
+      "contrast",
+      "cropping",
+      "tonal range",
+      "exposure",
+      "close-up",
+      "expressive"
+    ],
+    "g910": [
+      "authority",
+      "monumentality",
+      "framing",
+      "dramatic",
+      "flattery",
+      "intellect"
+    ],
+    "g1112": [
+      "intellectual authority",
+      "dramatic light",
+      "close framing",
+      "tonal range",
+      "early photography",
+      "flattery"
+    ]
   }
 }

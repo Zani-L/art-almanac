@@ -155,5 +155,55 @@
       "Ask students to argue whether the unicorn is captive or at rest, citing visible details.",
       "Compare with The Unicorn Purifies Water in the archive and discuss how each scene organizes its space."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "unicorn",
+      "white",
+      "fence",
+      "flowers",
+      "tree",
+      "field"
+    ],
+    "g12": [
+      "fenced",
+      "woven",
+      "fluffy",
+      "flowery",
+      "gentle",
+      "peaceful"
+    ],
+    "g35": [
+      "tapestry",
+      "weaving",
+      "plants",
+      "millefleurs",
+      "fence",
+      "detail"
+    ],
+    "g68": [
+      "wool and silk",
+      "allegory",
+      "symbolic",
+      "Gothic",
+      "luxury",
+      "background"
+    ],
+    "g910": [
+      "captivity",
+      "Christian allegory",
+      "marriage symbolism",
+      "patron",
+      "flatness",
+      "decorative"
+    ],
+    "g1112": [
+      "ambiguity",
+      "commission",
+      "symbolic reading",
+      "luxury object",
+      "interpretation",
+      "iconography"
+    ]
   }
 }

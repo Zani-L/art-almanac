@@ -154,5 +154,55 @@
       "Discuss why people keep tiny images of loved ones and how photography changed that tradition.",
       "Compare this miniature with a large portrait in the archive and discuss intimacy versus display."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lady",
+      "face",
+      "tiny",
+      "soft",
+      "dress",
+      "hold"
+    ],
+    "g12": [
+      "delicate",
+      "glowing",
+      "smooth",
+      "little",
+      "neat",
+      "gentle"
+    ],
+    "g35": [
+      "miniature",
+      "ivory",
+      "portrait",
+      "keepsake",
+      "detail",
+      "close-up"
+    ],
+    "g68": [
+      "watercolor",
+      "likeness",
+      "luminous",
+      "fine detail",
+      "intimate",
+      "scale"
+    ],
+    "g910": [
+      "convention",
+      "remembrance",
+      "intimacy",
+      "craft",
+      "anonymity",
+      "constraint"
+    ],
+    "g1112": [
+      "portrait miniature",
+      "private exchange",
+      "unnamed sitter",
+      "likeness",
+      "intimacy",
+      "craft"
+    ]
   }
 }

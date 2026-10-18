@@ -155,5 +155,55 @@
       "Have students sketch the wave shape with three or four bold lines before discussing color.",
       "Compare this painting with a photograph of the ocean and discuss what paint can show that a photo cannot."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sea",
+      "waves",
+      "foam",
+      "rock",
+      "blue",
+      "green"
+    ],
+    "g12": [
+      "stormy",
+      "rolling",
+      "foamy",
+      "heavy",
+      "swirling",
+      "splashing"
+    ],
+    "g35": [
+      "seascape",
+      "swell",
+      "foam",
+      "layers",
+      "powerful",
+      "ocean"
+    ],
+    "g68": [
+      "realism",
+      "brushstroke",
+      "horizon",
+      "expressive",
+      "wave motion",
+      "composition"
+    ],
+    "g910": [
+      "sublime",
+      "natural force",
+      "painted surface",
+      "empty seascape",
+      "mass",
+      "emphasis"
+    ],
+    "g1112": [
+      "painted surface",
+      "isolation",
+      "biographical speculation",
+      "engagement",
+      "autonomous subject",
+      "restraint"
+    ]
   }
 }

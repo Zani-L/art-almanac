@@ -8,11 +8,10 @@
   "movement": "Orphism",
   "region": "France (artist's nationality; place of making not stated on the page)",
   "image": {
-    "url": "/images/ahp-portuguese-woman.jpg",
+    "url": "https://arthistoryproject.com/site/assets/files/37865/robert-delaunay-portuguese-woman-1916-obelisk-art-history.jpg",
     "credit": "Thyssen-Bornemisza Museum, Spain; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/robert-delaunay/portuguese-woman/",
-    "remoteUrl": "https://arthistoryproject.com/site/assets/files/37865/robert-delaunay-portuguese-woman-1916-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/robert-delaunay/portuguese-woman/"
   },
   "altText": "A very large abstract painting made of patches and bands of color. The title says it shows a woman, but the image is built mainly from shapes and color rather than a detailed portrait.",
   "source": {
@@ -154,6 +153,56 @@
       "Show students that a title can guide viewing. Ask them to search the painting for the woman and then explain how they decided.",
       "Have students make a collage from colored paper in which a person or place is suggested only by patches of color.",
       "Ask older students to compare this painting with Delaunay's Eiffel Tower with Trees and discuss how his treatment of a figure differs from his treatment of a landmark."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "colors",
+      "patches",
+      "big",
+      "bright",
+      "shapes"
+    ],
+    "g12": [
+      "blocky",
+      "stripes",
+      "colorful",
+      "large",
+      "bold",
+      "swirling"
+    ],
+    "g35": [
+      "color",
+      "patches",
+      "abstract",
+      "scale",
+      "contrast",
+      "shapes"
+    ],
+    "g68": [
+      "Orphism",
+      "color contrast",
+      "abstraction",
+      "figure",
+      "bands",
+      "rhythm"
+    ],
+    "g910": [
+      "simultaneity",
+      "portrait",
+      "color relationships",
+      "structure",
+      "De Stijl",
+      "resists description"
+    ],
+    "g1112": [
+      "negotiation",
+      "tension",
+      "title",
+      "classification",
+      "human subject",
+      "abstraction"
     ]
   }
 }

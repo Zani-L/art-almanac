@@ -155,5 +155,55 @@
       "Map how a porcelain bowl might travel from China to the Netherlands in the 1600s.",
       "Discuss why people collect and display valuable objects, then and now."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fruit",
+      "lemon",
+      "bowl",
+      "dark",
+      "shiny",
+      "round"
+    ],
+    "g12": [
+      "glass",
+      "sparkling",
+      "arranged",
+      "glossy",
+      "porcelain",
+      "reflection"
+    ],
+    "g35": [
+      "still life",
+      "porcelain",
+      "highlight",
+      "shadow",
+      "treasure",
+      "realistic"
+    ],
+    "g68": [
+      "contrast",
+      "light",
+      "texture",
+      "arrangement",
+      "luxury",
+      "detail"
+    ],
+    "g910": [
+      "chiaroscuro",
+      "global trade",
+      "display",
+      "craftsmanship",
+      "vanitas",
+      "illusion"
+    ],
+    "g1112": [
+      "Golden Age",
+      "material culture",
+      "export porcelain",
+      "ostentation",
+      "possession",
+      "interpretation"
+    ]
   }
 }

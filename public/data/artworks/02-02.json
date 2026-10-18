@@ -154,5 +154,55 @@
       "Discuss how archaeologists learn about people who left no writing, using objects as evidence.",
       "Compare this jar with a modern decorated bowl or cup and list what each tells us about its maker."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "jar",
+      "clay",
+      "swirl",
+      "round",
+      "brown",
+      "spiral"
+    ],
+    "g12": [
+      "painted",
+      "curvy",
+      "earthy",
+      "handmade",
+      "spinning",
+      "dark"
+    ],
+    "g35": [
+      "Neolithic",
+      "spirals",
+      "pigment",
+      "handmade",
+      "round shape",
+      "pattern"
+    ],
+    "g68": [
+      "Majiayao",
+      "earthenware",
+      "motif",
+      "rotation",
+      "curve",
+      "rhythm"
+    ],
+    "g910": [
+      "Machang type",
+      "abstract rhythm",
+      "water motif",
+      "formal analysis",
+      "vessel shape",
+      "function"
+    ],
+    "g1112": [
+      "burial use",
+      "unproven meaning",
+      "late Neolithic",
+      "no writing",
+      "intention",
+      "formal analysis"
+    ]
   }
 }

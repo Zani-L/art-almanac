@@ -154,5 +154,55 @@
       "Ask older students to read the museum's description and list what is stated about the mask's use versus what is not stated.",
       "Discuss why it matters to learn about the community tradition a mask comes from, and not only how it looks."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horns",
+      "mask",
+      "wood",
+      "animal",
+      "strong",
+      "big"
+    ],
+    "g12": [
+      "carved",
+      "powerful",
+      "curved",
+      "horned",
+      "painted",
+      "tough"
+    ],
+    "g35": [
+      "mask",
+      "horns",
+      "muzzle",
+      "sculpture",
+      "bush buffalo",
+      "carving"
+    ],
+    "g68": [
+      "Bwa",
+      "spirit",
+      "tradition",
+      "performance",
+      "repair",
+      "protective"
+    ],
+    "g910": [
+      "performance tradition",
+      "symbolism",
+      "bush spirits",
+      "community",
+      "abstraction",
+      "ritual"
+    ],
+    "g1112": [
+      "sculpture and ritual",
+      "valued object",
+      "repair history",
+      "context",
+      "cultural meaning",
+      "function"
+    ]
   }
 }

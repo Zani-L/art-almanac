@@ -155,5 +155,55 @@
       "Discuss the word attributed and why museums use it when authorship is not certain.",
       "Compare this elephant with another animal in the archive, noting how each artist shows size and character."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "elephant",
+      "man",
+      "big",
+      "gold",
+      "gray",
+      "paper"
+    ],
+    "g12": [
+      "huge",
+      "wrinkly",
+      "named",
+      "royal",
+      "standing",
+      "careful"
+    ],
+    "g35": [
+      "portrait",
+      "detail",
+      "background",
+      "texture",
+      "pattern",
+      "outline"
+    ],
+    "g68": [
+      "portrait",
+      "profile",
+      "Mughal",
+      "court",
+      "detail",
+      "skin texture"
+    ],
+    "g910": [
+      "naturalism",
+      "attribution",
+      "formality",
+      "convention",
+      "courtly",
+      "observation"
+    ],
+    "g1112": [
+      "patron",
+      "Persian tradition",
+      "provisional",
+      "status",
+      "lifelike description",
+      "commission"
+    ]
   }
 }

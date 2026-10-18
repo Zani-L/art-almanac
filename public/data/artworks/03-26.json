@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-woman-with-a-parasol-madame-monet-and-her-son.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/34080/claude_monet-woman_with_a_parasol-_madame_monet_and_her_son-1875-obelisk-art-history-1.jpg",
     "credit": "National Gallery of Art, Washington; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/woman-with-a-parasol-madame-monet-and-her-son/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/34080/claude_monet-woman_with_a_parasol-_madame_monet_and_her_son-1875-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/woman-with-a-parasol-madame-monet-and-her-son/"
   },
   "altText": "A woman in a long pale dress holding a parasol stands on a grassy hill, seen from below against a bright sky with soft clouds. A smaller figure stands lower in the grass nearby, and the dress and grass look as if they are moving in the wind.",
   "source": {
@@ -154,6 +153,56 @@
       "Take students outside on a breezy day and have them sketch grass or clouds with quick strokes in two minutes.",
       "Ask students to describe where the viewer stands in the picture and what would change from a higher viewpoint.",
       "Discuss how a painter can show wind without drawing it."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "boy",
+      "hill",
+      "sky",
+      "grass",
+      "dress"
+    ],
+    "g12": [
+      "parasol",
+      "windy",
+      "sunny",
+      "breezy",
+      "tall",
+      "fluttering"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "mood",
+      "movement",
+      "detail",
+      "brushstrokes"
+    ],
+    "g68": [
+      "low viewpoint",
+      "brushstroke",
+      "clouds",
+      "Impressionism",
+      "silhouette",
+      "movement"
+    ],
+    "g910": [
+      "plein air",
+      "atmosphere",
+      "viewpoint",
+      "contour",
+      "composition",
+      "loose"
+    ],
+    "g1112": [
+      "facture",
+      "portraiture",
+      "tension",
+      "weather",
+      "family",
+      "transience"
     ]
   }
 }

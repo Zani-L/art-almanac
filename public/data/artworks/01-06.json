@@ -155,5 +155,55 @@
       "Ask students to sketch the vase's outline, then add a nature-inspired pattern that follows its curves.",
       "Debate whether objects made for use, like vases, belong in art museums."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "vase",
+      "shiny",
+      "curve",
+      "glass",
+      "feather",
+      "round"
+    ],
+    "g12": [
+      "rainbow",
+      "shimmering",
+      "swelling",
+      "smooth",
+      "glowing",
+      "pattern"
+    ],
+    "g35": [
+      "iridescent",
+      "hand-made",
+      "feather design",
+      "shape",
+      "surface",
+      "glassmaker"
+    ],
+    "g68": [
+      "Favrile glass",
+      "Art Nouveau",
+      "organic form",
+      "motif",
+      "decorative",
+      "craftsmanship"
+    ],
+    "g910": [
+      "luxury craft",
+      "nature-based ornament",
+      "art glass",
+      "shifting color",
+      "design",
+      "workmanship"
+    ],
+    "g1112": [
+      "Aesthetic movement",
+      "attribution",
+      "collaborative craft",
+      "decorative arts",
+      "ornament",
+      "partial witness"
+    ]
   }
 }

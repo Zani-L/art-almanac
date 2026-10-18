@@ -155,5 +155,55 @@
       "Ask groups to compare how animals are shown in this painting and in another animal artwork in the archive.",
       "Discuss why artists study their subjects in person before painting, and have students try observational drawing of a pet or classroom object."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horses",
+      "men",
+      "trees",
+      "sky",
+      "big",
+      "brown"
+    ],
+    "g12": [
+      "muscular",
+      "strong",
+      "crowded",
+      "moving",
+      "tossing",
+      "huge"
+    ],
+    "g35": [
+      "horse market",
+      "muscles",
+      "motion",
+      "life-size",
+      "handlers",
+      "crowd"
+    ],
+    "g68": [
+      "Realism",
+      "anatomy",
+      "diagonal",
+      "frieze",
+      "scale",
+      "composition"
+    ],
+    "g910": [
+      "history painting",
+      "monumental",
+      "processional rhythm",
+      "characterization",
+      "human-animal relationship",
+      "energy"
+    ],
+    "g1112": [
+      "prestige",
+      "Realist subject",
+      "women artists",
+      "classical frieze",
+      "reputation",
+      "visual evidence"
+    ]
   }
 }

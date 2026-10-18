@@ -154,5 +154,55 @@
       "Ask students to sketch a corridor or gym with lines that meet at a point to practice perspective.",
       "Discuss how a single building can change its purpose over centuries and what that shows about how places are used."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "big",
+      "tall",
+      "round",
+      "people",
+      "tiny",
+      "old"
+    ],
+    "g12": [
+      "dome",
+      "huge",
+      "crowded",
+      "ancient",
+      "church",
+      "columns"
+    ],
+    "g35": [
+      "architecture",
+      "dome",
+      "enormous",
+      "temple",
+      "figures",
+      "scale"
+    ],
+    "g68": [
+      "perspective",
+      "view painting",
+      "monument",
+      "grandeur",
+      "proportion",
+      "composition"
+    ],
+    "g910": [
+      "veduta",
+      "Grand Tour",
+      "spatial depth",
+      "antiquity",
+      "juxtaposition",
+      "vantage point"
+    ],
+    "g1112": [
+      "patronage",
+      "classical revival",
+      "souvenir culture",
+      "historical layering",
+      "contemporary life",
+      "monumentality"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-almond-blossom.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/6973/vincent_van_gogh-almond_blossom-1890-trivium-art-history.jpg",
     "credit": "Van Gogh Museum, Netherlands; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/almond-blossom/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/6973/vincent_van_gogh-almond_blossom-1890-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/almond-blossom/"
   },
   "altText": "Branches covered in white and pale pink blossoms stretch across a bright blue sky, painted with thick, outlined strokes.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a branch or plant close up, letting the edges of the paper crop it, and discuss how that changes the picture.",
       "Ask students to compare bold outlines with soft blended edges in two quick sketches.",
       "Discuss why spring blossoms are used in many cultures as a symbol of new beginnings."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "branch",
+      "white",
+      "pink",
+      "blue",
+      "sky"
+    ],
+    "g12": [
+      "blossoming",
+      "bright",
+      "close",
+      "spring",
+      "blooming",
+      "outlined"
+    ],
+    "g35": [
+      "blossom",
+      "outline",
+      "close-up",
+      "new life",
+      "spring",
+      "branches"
+    ],
+    "g68": [
+      "contour",
+      "cropping",
+      "Post-Impressionism",
+      "saturated color",
+      "Japanese print",
+      "composition"
+    ],
+    "g910": [
+      "graphic clarity",
+      "flat space",
+      "renewal",
+      "bold delicacy",
+      "influence",
+      "formal structure"
+    ],
+    "g1112": [
+      "Japonisme",
+      "biographical reduction",
+      "priorities",
+      "flattened sky",
+      "visual language",
+      "renewal"
     ]
   }
 }

@@ -154,5 +154,55 @@
       "Compare this dog with another animal figure from the archive and discuss what each shows about its culture.",
       "Discuss why people place objects with a person who has died, and how customs differ around the world."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dog",
+      "green",
+      "shiny",
+      "small",
+      "legs",
+      "clay"
+    ],
+    "g12": [
+      "glossy",
+      "standing",
+      "smooth",
+      "baked",
+      "tiny",
+      "glazed"
+    ],
+    "g35": [
+      "pottery",
+      "shape",
+      "detail",
+      "pattern",
+      "handmade",
+      "sculpture"
+    ],
+    "g68": [
+      "glaze",
+      "pottery",
+      "kiln",
+      "stance",
+      "earthenware",
+      "shape"
+    ],
+    "g910": [
+      "stylization",
+      "modeling",
+      "simplification",
+      "Han dynasty",
+      "silhouette",
+      "form"
+    ],
+    "g1112": [
+      "funerary",
+      "inference",
+      "guardianship",
+      "belief",
+      "material culture",
+      "attribution"
+    ]
   }
 }

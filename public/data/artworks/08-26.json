@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-young-girl-in-a-ball-gown.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/6585/berthe_morisot-young_girl_in_a_ball_gown-1879-obelisk-art-history.jpg",
     "credit": "Collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/berthe-morisot/young-girl-in-a-ball-gown/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/6585/berthe_morisot-young_girl_in_a_ball_gown-1879-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/berthe-morisot/young-girl-in-a-ball-gown/"
   },
   "altText": "A young girl in a formal ball gown, painted in oil with loose, visible brushstrokes in the Impressionist style.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students describe the girl's dress using only what they can see, then list what they cannot know, such as her name or her thoughts.",
       "Ask students to try the Impressionist approach: paint or draw a figure in clothing using quick, visible strokes and no outlines.",
       "With older students, discuss how much a painted surface can tell us about a sitter's feelings, and how Morisot's role among the Impressionists may shape the way the painting is discussed."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "dress",
+      "soft",
+      "pretty",
+      "paint",
+      "dance"
+    ],
+    "g12": [
+      "gown",
+      "young",
+      "fancy",
+      "loose",
+      "sparkly",
+      "brushy"
+    ],
+    "g35": [
+      "brushstrokes",
+      "Impressionist",
+      "formal",
+      "gown",
+      "quick",
+      "fresh"
+    ],
+    "g68": [
+      "Impressionism",
+      "loose brushwork",
+      "posture",
+      "informal",
+      "formality",
+      "interpretation"
+    ],
+    "g910": [
+      "visible brushwork",
+      "tension",
+      "private life",
+      "women artists",
+      "gesture",
+      "spontaneity"
+    ],
+    "g1112": [
+      "subjectivity",
+      "visual evidence",
+      "responsible inference",
+      "gendered subjects",
+      "surface",
+      "open-endedness"
     ]
   }
 }

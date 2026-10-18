@@ -154,5 +154,55 @@
       "Discuss why painting under a glaze helps protect a design.",
       "Compare how this vase and another ceramic in the archive combine function with decoration."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "butterfly",
+      "vase",
+      "blue",
+      "pink",
+      "white",
+      "shiny"
+    ],
+    "g12": [
+      "curved",
+      "wrapping",
+      "flying",
+      "fluttering",
+      "painted",
+      "delicate"
+    ],
+    "g35": [
+      "porcelain",
+      "glaze",
+      "cobalt blue",
+      "pattern",
+      "surface",
+      "fired"
+    ],
+    "g68": [
+      "underglaze",
+      "motif",
+      "vessel",
+      "decoration",
+      "craftsmanship",
+      "collected"
+    ],
+    "g910": [
+      "symmetry",
+      "elegance",
+      "decorative",
+      "ornamental",
+      "rhythm",
+      "craft"
+    ],
+    "g1112": [
+      "collecting",
+      "association",
+      "durability",
+      "technique",
+      "exhibition",
+      "East Asian"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Have students pick a tiny group of figures and write what they are doing, then compare how others read the same group.",
       "Compare with another winter scene in the archive and discuss how each artist handles scale."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "ice",
+      "sky",
+      "river",
+      "tiny",
+      "cold",
+      "people"
+    ],
+    "g12": [
+      "frozen",
+      "wintry",
+      "skating",
+      "wide",
+      "evening",
+      "crowded"
+    ],
+    "g35": [
+      "sky",
+      "background",
+      "mood",
+      "distance",
+      "sunset",
+      "foreground"
+    ],
+    "g68": [
+      "horizon",
+      "scale",
+      "distance",
+      "sunset",
+      "outdoors",
+      "landscape"
+    ],
+    "g910": [
+      "atmosphere",
+      "vantage point",
+      "communal",
+      "proportion",
+      "leisure",
+      "tradition"
+    ],
+    "g1112": [
+      "human scale",
+      "Dutch Golden Age",
+      "competing readings",
+      "daily life",
+      "format",
+      "sublime"
+    ]
   }
 }

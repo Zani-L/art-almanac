@@ -8,11 +8,10 @@
   "movement": "Ukiyo-e (Edo period)",
   "region": "Japan",
   "image": {
-    "url": "/images/ahp-the-great-wave-off-kanagawa.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37184/katsushika-hokusai-the-great-wave-off-kanagawa-1832-obelisk-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/hokusai/the-great-wave-off-kanagawa/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37184/katsushika-hokusai-the-great-wave-off-kanagawa-1832-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/hokusai/the-great-wave-off-kanagawa/"
   },
   "altText": "A huge curling wave with foamy, claw-like tips rises over small boats on a dark blue sea. Mount Fuji appears small and distant in the background under a pale sky.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students make a simple relief print with a foam sheet or potato and compare it with a drawing.",
       "Ask students to sketch the wave and mountain with a pencil, then change the sizes and discuss how the mood changes.",
       "Discuss how a print can be copied many times and what that means for who can see art."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wave",
+      "boat",
+      "sea",
+      "blue",
+      "big",
+      "foam"
+    ],
+    "g12": [
+      "curling",
+      "giant",
+      "tiny",
+      "distant",
+      "towering",
+      "ocean"
+    ],
+    "g35": [
+      "woodblock",
+      "curved",
+      "Mount Fuji",
+      "foam",
+      "distance",
+      "print"
+    ],
+    "g68": [
+      "ukiyo-e",
+      "scale",
+      "contrast",
+      "tension",
+      "composition",
+      "Edo period"
+    ],
+    "g910": [
+      "dynamism",
+      "drama",
+      "asymmetry",
+      "perspective",
+      "foreground",
+      "emphasis"
+    ],
+    "g1112": [
+      "design",
+      "reproduction",
+      "fame",
+      "influence",
+      "flat color",
+      "circulation"
     ]
   }
 }

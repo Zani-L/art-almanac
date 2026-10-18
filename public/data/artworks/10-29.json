@@ -8,11 +8,10 @@
   "movement": "Realism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-desperate-man.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/10671/gustav_courbet_-_the_desperate_man_1844-45_45x55cm_pc.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/gustave-courbet/the-desperate-man/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10671/gustav_courbet_-_the_desperate_man_1844-45_45x55cm_pc.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/gustave-courbet/the-desperate-man/"
   },
   "altText": "A close portrait of a young man with wide, staring eyes and hands pulled against his head, set against a dark background.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students use mirrors to study a strong feeling, draw only eyes and hands, then compare how gestures change the feeling.",
       "Ask students to write one caption for the painting and discuss how different captions change how we read the face.",
       "Discuss why artists study and stage emotions and how a picture can show a feeling without telling the whole story."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "eyes",
+      "hands",
+      "scared",
+      "dark",
+      "face"
+    ],
+    "g12": [
+      "wide-eyed",
+      "shocked",
+      "staring",
+      "startled",
+      "close",
+      "dramatic"
+    ],
+    "g35": [
+      "portrait",
+      "self-portrait",
+      "expression",
+      "feeling",
+      "gesture",
+      "framing"
+    ],
+    "g68": [
+      "Realism",
+      "emotion",
+      "exaggerated",
+      "pose",
+      "Romantic",
+      "drama"
+    ],
+    "g910": [
+      "confession",
+      "performance",
+      "theatricality",
+      "intensity",
+      "persona",
+      "ambiguity"
+    ],
+    "g1112": [
+      "sincere confession",
+      "staged performance",
+      "attention-seeking",
+      "Romantic emotion",
+      "close observation",
+      "evidence limits"
     ]
   }
 }

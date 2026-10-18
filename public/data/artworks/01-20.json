@@ -154,5 +154,55 @@
       "Ask students to write a caption for the view from the point of view of a visitor in the 1870s, then from someone who has always lived nearby.",
       "Discuss what a photographer chooses to include or leave out when showing a place to people far away."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mountain",
+      "rock",
+      "valley",
+      "brown",
+      "gray",
+      "big"
+    ],
+    "g12": [
+      "tall",
+      "huge",
+      "steep",
+      "faraway",
+      "soft",
+      "misty"
+    ],
+    "g35": [
+      "photograph",
+      "albumen print",
+      "glass negative",
+      "valley",
+      "closest",
+      "farthest"
+    ],
+    "g68": [
+      "landscape",
+      "viewpoint",
+      "depth",
+      "framing",
+      "tonal range",
+      "grandeur"
+    ],
+    "g910": [
+      "document",
+      "scale",
+      "perspective",
+      "early photography",
+      "composition",
+      "wilderness"
+    ],
+    "g1112": [
+      "American West",
+      "Native presence",
+      "nineteenth-century viewers",
+      "selective framing",
+      "preservation",
+      "historical context"
+    ]
   }
 }

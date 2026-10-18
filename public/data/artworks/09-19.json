@@ -155,5 +155,55 @@
       "Discuss how the empty space in the print affects what viewers notice.",
       "Compare this quiet image with the busier city scenes in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bird",
+      "branch",
+      "small",
+      "flower",
+      "tree",
+      "print"
+    ],
+    "g12": [
+      "plum",
+      "perched",
+      "outline",
+      "peaceful",
+      "simple",
+      "spring"
+    ],
+    "g35": [
+      "woodblock",
+      "blossom",
+      "outline",
+      "peaceful",
+      "branch",
+      "space"
+    ],
+    "g68": [
+      "ukiyo-e",
+      "negative space",
+      "composition",
+      "seasonal",
+      "Edo period",
+      "printing"
+    ],
+    "g910": [
+      "bird-and-flower",
+      "poetic reading",
+      "flat color",
+      "balance",
+      "tradition",
+      "carver"
+    ],
+    "g1112": [
+      "seasonal association",
+      "division of labor",
+      "authorship",
+      "East Asian convention",
+      "poetic allusion",
+      "technique and meaning"
+    ]
   }
 }

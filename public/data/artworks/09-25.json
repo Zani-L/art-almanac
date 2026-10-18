@@ -155,5 +155,55 @@
       "Have students discuss the difference between a place as scenery and a place as someone's home.",
       "Compare this painting with a modern photograph of Yosemite and note what each version emphasizes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "river",
+      "cliffs",
+      "trees",
+      "tall",
+      "big",
+      "gold"
+    ],
+    "g12": [
+      "valley",
+      "winding",
+      "huge",
+      "mountains",
+      "glowing",
+      "grand"
+    ],
+    "g35": [
+      "valley",
+      "foreground",
+      "background",
+      "glowing",
+      "winding",
+      "cliffs"
+    ],
+    "g68": [
+      "luminous",
+      "atmospheric perspective",
+      "idealize",
+      "Hudson River School",
+      "scale",
+      "landscape"
+    ],
+    "g910": [
+      "staged composition",
+      "spectacle",
+      "national pride",
+      "framing",
+      "idealization",
+      "sublime"
+    ],
+    "g1112": [
+      "cultural document",
+      "absent presence",
+      "Manifest Destiny",
+      "tourism",
+      "western expansion",
+      "idealized wilderness"
+    ]
   }
 }

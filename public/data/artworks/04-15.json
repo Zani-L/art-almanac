@@ -155,5 +155,55 @@
       "Discuss how people can both value and care for animals, and how attitudes have changed over time.",
       "Compare the focus on a single animal here with an artwork in the archive that shows a crowded scene."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "elephant",
+      "leaf",
+      "trunk",
+      "baby",
+      "gray",
+      "eat"
+    ],
+    "g12": [
+      "chewing",
+      "curled",
+      "young",
+      "gentle",
+      "chained",
+      "cloth"
+    ],
+    "g35": [
+      "trunk",
+      "cane",
+      "chain",
+      "personality",
+      "proportions",
+      "court"
+    ],
+    "g68": [
+      "Mughal",
+      "proportion",
+      "observation",
+      "study",
+      "naturalism",
+      "court painting"
+    ],
+    "g910": [
+      "royal power",
+      "symbol",
+      "individual",
+      "tame",
+      "wealth",
+      "quiet moment"
+    ],
+    "g1112": [
+      "humanize",
+      "celebrate",
+      "record",
+      "tension",
+      "association",
+      "court ideal"
+    ]
   }
 }

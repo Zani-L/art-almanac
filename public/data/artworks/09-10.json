@@ -155,5 +155,55 @@
       "Ask students to list jobs women could and could not do in the 1850s and compare them with Spencer's career.",
       "Discuss what the painting shows about family life and what it leaves out."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "baby",
+      "doll",
+      "mom",
+      "dad",
+      "home",
+      "chair"
+    ],
+    "g12": [
+      "family",
+      "cozy",
+      "furniture",
+      "parents",
+      "indoors",
+      "rich"
+    ],
+    "g35": [
+      "family",
+      "home",
+      "interior",
+      "poses",
+      "furniture",
+      "scene"
+    ],
+    "g68": [
+      "genre painting",
+      "domestic",
+      "narrative",
+      "composition",
+      "sentiment",
+      "interior"
+    ],
+    "g910": [
+      "domesticity",
+      "informal portrait",
+      "humor",
+      "observation",
+      "social ideals",
+      "everyday life"
+    ],
+    "g1112": [
+      "domestic ideals",
+      "women artists",
+      "conversation piece",
+      "popular sentiment",
+      "tentative reading",
+      "gentle subversion"
+    ]
   }
 }

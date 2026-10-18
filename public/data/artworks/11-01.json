@@ -154,5 +154,55 @@
       "Ask students to design a memorial object for someone they admire and choose one animal or shape to include, explaining why.",
       "Discuss the difference between an object made to be used in a court setting and an object seen in a museum case."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bird",
+      "metal",
+      "tall",
+      "thin",
+      "gold",
+      "shiny"
+    ],
+    "g12": [
+      "slender",
+      "pointed",
+      "carved",
+      "smooth",
+      "golden",
+      "graceful"
+    ],
+    "g35": [
+      "asen",
+      "brass",
+      "bird",
+      "metalworkers",
+      "memory",
+      "guild"
+    ],
+    "g68": [
+      "commemorate",
+      "Dahomey",
+      "kingdom",
+      "sculpture",
+      "tradition",
+      "craftsmanship"
+    ],
+    "g910": [
+      "memory",
+      "ancestors",
+      "court",
+      "context",
+      "display",
+      "symbolism"
+    ],
+    "g1112": [
+      "royal memory",
+      "Fon kingdom",
+      "guild artists",
+      "tentative interpretation",
+      "museum display",
+      "sculpture"
+    ]
   }
 }

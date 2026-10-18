@@ -154,5 +154,55 @@
       "Ask students to discuss the difference between a container, a sculpture, and both at once.",
       "Connect to science: where do frogs live and how do their bodies suit those places?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "frog",
+      "clay",
+      "round",
+      "small",
+      "smooth",
+      "brown"
+    ],
+    "g12": [
+      "hollow",
+      "curved",
+      "pottery",
+      "froggy",
+      "hand-sized",
+      "baked"
+    ],
+    "g35": [
+      "sculpture",
+      "shape",
+      "texture",
+      "detail",
+      "handmade",
+      "simple"
+    ],
+    "g68": [
+      "vessel",
+      "sculpture",
+      "animal",
+      "container",
+      "ceramic",
+      "silhouette"
+    ],
+    "g910": [
+      "effigy",
+      "massing",
+      "form",
+      "tradition",
+      "Mesoamerica",
+      "function"
+    ],
+    "g1112": [
+      "funerary",
+      "interpretation",
+      "uncertainty",
+      "surface",
+      "Colima",
+      "evidence"
+    ]
   }
 }

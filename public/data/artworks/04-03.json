@@ -154,5 +154,55 @@
       "Discuss the difference between objects made to be used and objects made to be admired.",
       "Have students design a ceremonial hat or helmet using patterns from nature or their own culture."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "round",
+      "shiny",
+      "metal",
+      "dots",
+      "hat"
+    ],
+    "g12": [
+      "golden",
+      "patterned",
+      "curved",
+      "polished",
+      "lines",
+      "decorated"
+    ],
+    "g35": [
+      "copper",
+      "hammer",
+      "engrave",
+      "pattern",
+      "gold",
+      "metalworker"
+    ],
+    "g68": [
+      "embossing",
+      "engraving",
+      "stippling",
+      "gilding",
+      "dome",
+      "craftsmanship"
+    ],
+    "g910": [
+      "ornament",
+      "display",
+      "workshop",
+      "technique",
+      "surface",
+      "skill"
+    ],
+    "g1112": [
+      "patronage",
+      "ceremonial",
+      "documentation",
+      "provenance",
+      "craft",
+      "boundary"
+    ]
   }
 }

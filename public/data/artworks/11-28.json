@@ -154,5 +154,55 @@
       "Ask students to sketch a showpiece for their school or town and say what it should communicate.",
       "Discuss the difference between objects made to be used and objects made to be admired."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cup",
+      "big",
+      "shiny",
+      "white",
+      "tall",
+      "base"
+    ],
+    "g12": [
+      "glossy",
+      "wide",
+      "smooth",
+      "huge",
+      "round",
+      "fancy"
+    ],
+    "g35": [
+      "porcelain",
+      "factory",
+      "glaze",
+      "Sèvres",
+      "bowl",
+      "pedestal"
+    ],
+    "g68": [
+      "showpiece",
+      "manufactory",
+      "craftsmanship",
+      "display",
+      "prestige",
+      "scale"
+    ],
+    "g910": [
+      "opulence",
+      "status",
+      "artistry",
+      "monumental",
+      "symmetry",
+      "design"
+    ],
+    "g1112": [
+      "patronage",
+      "hard-paste",
+      "national ambition",
+      "ceremonial",
+      "cultural display",
+      "technical skill"
+    ]
   }
 }

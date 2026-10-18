@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-still-life-with-teapot-and-fruit.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/8281/paul_gauguin-still_life_with_teapot_and_fruit-1896-obelisk-art-history.jpg",
     "credit": "Metropolitan Museum of Art, New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-gauguin/still-life-with-teapot-and-fruit/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/8281/paul_gauguin-still_life_with_teapot_and_fruit-1896-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-gauguin/still-life-with-teapot-and-fruit/"
   },
   "altText": "A still life of a teapot and pieces of fruit arranged on a table, painted with rich, flat patches of color and dark outlines. The objects sit close together in a shallow space.",
   "source": {
@@ -154,6 +153,56 @@
       "Set up a small group of objects and have students sketch them using only flat shapes of color and a dark outline.",
       "Ask students to move one object in the group and discuss how the picture changes.",
       "Compare this still life with a photograph of the same objects and talk about what the painter chose to change."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "pot",
+      "fruit",
+      "table",
+      "round",
+      "flat",
+      "lines"
+    ],
+    "g12": [
+      "teapot",
+      "dark",
+      "close",
+      "colorful",
+      "shapes",
+      "arranged"
+    ],
+    "g35": [
+      "still life",
+      "outlines",
+      "everyday",
+      "shapes",
+      "objects",
+      "grouped"
+    ],
+    "g68": [
+      "composition",
+      "contour",
+      "palette",
+      "flattening",
+      "Post-Impressionism",
+      "design"
+    ],
+    "g910": [
+      "arrangement",
+      "saturation",
+      "stylized",
+      "flattened",
+      "viewpoint",
+      "simplified"
+    ],
+    "g1112": [
+      "genre",
+      "illusion",
+      "convention",
+      "invented arrangement",
+      "humble motif",
+      "experiment"
     ]
   }
 }

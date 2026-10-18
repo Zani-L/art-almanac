@@ -154,5 +154,55 @@
       "Ask students to act out the tree's pose and then find which lines in the painting match their movement.",
       "Discuss why artists travel and how a new place can change what they paint."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "palm",
+      "tree",
+      "wind",
+      "white",
+      "green",
+      "paper"
+    ],
+    "g12": [
+      "breezy",
+      "bright",
+      "sweeping",
+      "bending",
+      "sunny",
+      "loose"
+    ],
+    "g35": [
+      "watercolor",
+      "palm",
+      "fronds",
+      "white paper",
+      "wind",
+      "pencil"
+    ],
+    "g68": [
+      "wash",
+      "graphite",
+      "underdrawing",
+      "reserved paper",
+      "tropical",
+      "loose"
+    ],
+    "g910": [
+      "daring technique",
+      "economy",
+      "transparent washes",
+      "direct observation",
+      "heat",
+      "travel"
+    ],
+    "g1112": [
+      "Caribbean setting",
+      "constructed picture",
+      "observation",
+      "travel",
+      "medium",
+      "close reading"
+    ]
   }
 }

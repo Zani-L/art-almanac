@@ -155,5 +155,55 @@
       "Have students draw the statue's silhouette from the front and predict how it looks from the side.",
       "Compare this figure with a seated or standing Buddha from another day in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "walk",
+      "small",
+      "tall",
+      "dark",
+      "robe"
+    ],
+    "g12": [
+      "slender",
+      "calm",
+      "walking",
+      "metal",
+      "thin",
+      "balanced"
+    ],
+    "g35": [
+      "Buddha",
+      "bronze",
+      "pose",
+      "robe",
+      "balance",
+      "statue"
+    ],
+    "g68": [
+      "drapery",
+      "silhouette",
+      "sculptural",
+      "casting",
+      "proportion",
+      "mindfulness"
+    ],
+    "g910": [
+      "contemplation",
+      "restraint",
+      "motion",
+      "rhythm",
+      "Thai",
+      "imagery"
+    ],
+    "g1112": [
+      "provisional",
+      "stylistic lineage",
+      "formal challenge",
+      "regional tradition",
+      "contemplative effect",
+      "evidence"
+    ]
   }
 }

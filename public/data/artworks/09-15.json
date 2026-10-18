@@ -8,11 +8,10 @@
   "movement": "Expressionism",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-yellow-cow.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37237/franz-marc-yellow-cow-1911-obelisk-art-history.jpg",
     "credit": "Solomon R. Guggenheim Museum, New York, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/franz-marc/yellow-cow/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37237/franz-marc-yellow-cow-1911-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/franz-marc/yellow-cow/"
   },
   "altText": "A bright yellow cow with a curved back and raised legs appears to leap or twirl in a landscape of bold blue, red and green shapes, with sky and hills painted in flat, vivid colors.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a familiar animal using colors that express a feeling instead of its real colors, then explain their choices.",
       "Ask students to compare this painting with a realistic photo of a cow and list what each shows best.",
       "Discuss why artists in the early 1900s began to use color for feeling instead of copying nature."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cow",
+      "yellow",
+      "blue",
+      "red",
+      "green",
+      "jump"
+    ],
+    "g12": [
+      "dancing",
+      "curved",
+      "leaping",
+      "bold",
+      "hills",
+      "bright"
+    ],
+    "g35": [
+      "curved",
+      "bold",
+      "color",
+      "shapes",
+      "dance",
+      "feeling"
+    ],
+    "g68": [
+      "Expressionism",
+      "contour",
+      "non-naturalistic",
+      "emotion",
+      "landscape",
+      "abstraction"
+    ],
+    "g910": [
+      "symbolic color",
+      "rhythm",
+      "planes",
+      "harmony",
+      "Der Blaue Reiter",
+      "simplification"
+    ],
+    "g1112": [
+      "emotional meaning",
+      "natural appearance",
+      "spiritual ideals",
+      "interlocking planes",
+      "perception",
+      "limits of claims"
     ]
   }
 }

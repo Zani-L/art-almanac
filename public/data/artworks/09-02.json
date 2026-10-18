@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism (naive art)",
   "region": "France",
   "image": {
-    "url": "/images/ahp-a-carnival-evening.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/10443/henri_rousseau-a_carnival_evening-1885-obelisk-art-history-1.jpg",
     "credit": "Philadelphia Museum of Art, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-rousseau/a-carnival-evening/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10443/henri_rousseau-a_carnival_evening-1885-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-rousseau/a-carnival-evening/"
   },
   "altText": "Two costumed figures stand together in a dark forest clearing beneath a bright moon. Bare trees with thin branches rise around them, and the sky glows with pale light at the horizon.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a night scene using only a few colors and one bright light, then talk about the mood.",
       "Ask students to write a short story that explains why the two figures are in the forest.",
       "Discuss why an artist might choose to paint a quiet scene about a festive occasion."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "moon",
+      "night",
+      "trees",
+      "two",
+      "dark",
+      "bright"
+    ],
+    "g12": [
+      "forest",
+      "costumes",
+      "moonlight",
+      "glowing",
+      "quiet",
+      "bare"
+    ],
+    "g35": [
+      "moonlit",
+      "dreamlike",
+      "costumes",
+      "strange",
+      "silhouette",
+      "branches"
+    ],
+    "g68": [
+      "naive art",
+      "mood",
+      "flattened",
+      "contrast",
+      "atmosphere",
+      "fantasy"
+    ],
+    "g910": [
+      "incongruity",
+      "self-taught",
+      "juxtaposition",
+      "ambiguity",
+      "stylization",
+      "uncanny"
+    ],
+    "g1112": [
+      "naive label",
+      "avant-garde reception",
+      "festive and eerie",
+      "resisting interpretation",
+      "autodidact",
+      "formal flatness"
     ]
   }
 }

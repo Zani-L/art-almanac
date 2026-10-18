@@ -155,5 +155,55 @@
       "Ask students to write a one-sentence label they would want next to a portrait of someone they admire.",
       "Discuss why communities create portraits of founders."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "old",
+      "plain",
+      "dress",
+      "face",
+      "writing"
+    ],
+    "g12": [
+      "modest",
+      "serious",
+      "quiet",
+      "simple",
+      "wrinkled",
+      "honest"
+    ],
+    "g35": [
+      "portrait",
+      "label",
+      "Latin",
+      "convent",
+      "unidealized",
+      "real"
+    ],
+    "g68": [
+      "naturalism",
+      "cartouche",
+      "inscription",
+      "devotion",
+      "modest",
+      "commemorative"
+    ],
+    "g910": [
+      "piety",
+      "convention",
+      "constructed",
+      "lineage",
+      "restraint",
+      "authenticity"
+    ],
+    "g1112": [
+      "unidealized face",
+      "convent founder",
+      "spiritual devotion",
+      "Latin cartouche",
+      "naturalism",
+      "constructed piety"
+    ]
   }
 }

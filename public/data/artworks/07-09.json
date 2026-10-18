@@ -8,11 +8,10 @@
   "movement": "Cubism (Irish abstract art)",
   "region": "Ireland",
   "image": {
-    "url": "/images/ahp-decoration.png",
+    "url": "https://arthistoryproject.com/site/assets/files/28429/mainie_jellett-decoration-1923-obelisk-art-history.png",
     "credit": "National Gallery of Ireland, Ireland; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/mainie-jellett/decoration/",
-    "remoteUrl": "https://arthistoryproject.com/site/assets/files/28429/mainie_jellett-decoration-1923-obelisk-art-history.png"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/mainie-jellett/decoration/"
   },
   "altText": "An abstract, geometric painting on a tall wooden panel. It is made of shapes rather than recognizable objects, and its outline follows the shape of a traditional altarpiece.",
   "source": {
@@ -154,6 +153,56 @@
       "Have younger students cut out paper shapes, arrange them in a tall frame and describe the pattern they made.",
       "Ask students to draw an abstract composition in which repeated shapes create rhythm, then explain which shapes and colors they repeated.",
       "Invite older students to discuss why an artist might combine modern abstraction with a traditional altarpiece form."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "shapes",
+      "tall",
+      "wood",
+      "blue",
+      "red",
+      "lines"
+    ],
+    "g12": [
+      "geometric",
+      "overlapping",
+      "flat",
+      "bright",
+      "angular",
+      "repeating"
+    ],
+    "g35": [
+      "abstract",
+      "pattern",
+      "repeat",
+      "overlap",
+      "panel",
+      "altarpiece"
+    ],
+    "g68": [
+      "geometric",
+      "tempera",
+      "composition",
+      "rhythm",
+      "devotional",
+      "modern"
+    ],
+    "g910": [
+      "fragmentation",
+      "Cubism",
+      "abstraction",
+      "devotional format",
+      "translation",
+      "non-objective"
+    ],
+    "g1112": [
+      "modernism",
+      "sacred and secular",
+      "tradition",
+      "pure abstraction",
+      "Irish modernism",
+      "format"
     ]
   }
 }

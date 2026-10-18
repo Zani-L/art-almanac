@@ -155,5 +155,55 @@
       "Discuss the difference between hue (color) and value (light and dark) using this painting.",
       "Talk about why artists choose to limit their colors."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "oysters",
+      "lemons",
+      "glass",
+      "dish",
+      "table",
+      "shiny"
+    ],
+    "g12": [
+      "silvery",
+      "reflection",
+      "wet",
+      "smooth",
+      "brown",
+      "gleaming"
+    ],
+    "g35": [
+      "still life",
+      "tazza",
+      "highlight",
+      "reflection",
+      "texture",
+      "silvery tones"
+    ],
+    "g68": [
+      "grouping",
+      "shine",
+      "realistic",
+      "muted palette",
+      "contrast",
+      "surface"
+    ],
+    "g910": [
+      "tonal range",
+      "realism",
+      "transience",
+      "banquet piece",
+      "skill",
+      "arrangement"
+    ],
+    "g1112": [
+      "prosperity",
+      "vanitas",
+      "moral weight",
+      "virtuosity",
+      "transience",
+      "calculated disorder"
+    ]
   }
 }

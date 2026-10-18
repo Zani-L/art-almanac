@@ -8,11 +8,10 @@
   "movement": "American Realism",
   "region": "Prouts Neck",
   "image": {
-    "url": "/images/artic-25865.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16961/winslow-homer-the-herring-net-1885-trivium-art-history.jpg",
     "credit": "Art Institute of Chicago, Mr. and Mrs. Martin A. Ryerson Collection; image via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/winslow-homer/the-herring-net/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16961/winslow-homer-the-herring-net-1885-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/winslow-homer/the-herring-net/"
   },
   "altText": "Fishermen in a small boat on a gray-blue sea work with a net heavy with fish, under a hazy sky. The sea fills much of the picture, and the men's work is the focus.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a seascape using only three shades of gray-blue to explore mood.",
       "Ask students to discuss how the size of the boat compared to the sea affects the feeling of the painting.",
       "Connect with local jobs: have students research one kind of work and think about how they would show it in a painting."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "sea",
+      "men",
+      "fish",
+      "net",
+      "gray"
+    ],
+    "g12": [
+      "rolling",
+      "cloudy",
+      "hazy",
+      "heavy",
+      "wet",
+      "hardworking"
+    ],
+    "g35": [
+      "fishermen",
+      "waves",
+      "net",
+      "sky",
+      "working life",
+      "boat"
+    ],
+    "g68": [
+      "Realism",
+      "marine painting",
+      "horizon",
+      "atmosphere",
+      "labor",
+      "scale"
+    ],
+    "g910": [
+      "labor",
+      "risk",
+      "indifference",
+      "heroic",
+      "meditation",
+      "genre painting"
+    ],
+    "g1112": [
+      "realism",
+      "nature's indifference",
+      "overreach",
+      "evidence",
+      "meditation on labor",
+      "critical reading"
     ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Early Modernism",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-farm-near-duivendrecht.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/18778/piet-mondrian-farm-near-duivendrecht-1916-obelisk-art-history.jpg",
     "credit": "Art Institute of Chicago, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/piet-mondrian/farm-near-duivendrecht/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/18778/piet-mondrian-farm-near-duivendrecht-1916-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/piet-mondrian/farm-near-duivendrecht/"
   },
   "altText": "A farm scene in the countryside, with farm buildings and trees simplified into bold shapes and strong color rather than fine detail.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a familiar place in three versions: realistic, simplified, and made only from lines and blocks of color.",
       "Ask students to identify which parts of the painting still read as a farm and which parts read as pattern, then discuss where the line falls.",
       "Discuss why an artist might gradually move from realistic to abstract work instead of switching suddenly."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "farm",
+      "trees",
+      "color",
+      "house",
+      "shapes",
+      "bold"
+    ],
+    "g12": [
+      "simple",
+      "blocks",
+      "bright",
+      "country",
+      "flat",
+      "barn"
+    ],
+    "g35": [
+      "simplified shapes",
+      "bold color",
+      "farm",
+      "landscape",
+      "detail",
+      "Dutch"
+    ],
+    "g68": [
+      "flat color",
+      "angular",
+      "repetition",
+      "reduced",
+      "order",
+      "outline"
+    ],
+    "g910": [
+      "abstraction",
+      "geometric",
+      "structure",
+      "modernism",
+      "rhythm",
+      "simplification"
+    ],
+    "g1112": [
+      "transitional moment",
+      "observation",
+      "internal logic",
+      "tension",
+      "abstraction",
+      "description"
     ]
   }
 }

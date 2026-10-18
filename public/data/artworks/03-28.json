@@ -156,5 +156,55 @@
       "Discuss the roles of designer, printmaker, and publisher, and compare with teamwork in a modern project.",
       "Compare this print with a satellite or aerial photograph of mountains."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hills",
+      "lines",
+      "tiny",
+      "black",
+      "white",
+      "high"
+    ],
+    "g12": [
+      "mountains",
+      "valley",
+      "rocky",
+      "deep",
+      "faraway",
+      "steep"
+    ],
+    "g35": [
+      "pattern",
+      "distance",
+      "detail",
+      "background",
+      "foreground",
+      "texture"
+    ],
+    "g68": [
+      "viewpoint",
+      "distance",
+      "engraving",
+      "etching",
+      "lines",
+      "Alps"
+    ],
+    "g910": [
+      "hatching",
+      "panorama",
+      "perspective",
+      "plate",
+      "reproduction",
+      "Northern Renaissance"
+    ],
+    "g1112": [
+      "authorship",
+      "mediation",
+      "state",
+      "ideal landscape",
+      "workshop",
+      "publishing"
+    ]
   }
 }

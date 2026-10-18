@@ -154,5 +154,55 @@
       "Ask older students to compare how Hopper shows light on buildings in this watercolor with how light appears in a photograph of buildings.",
       "Discuss why an artist might return to the same place more than once and how a second visit changes the work."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "house",
+      "grass",
+      "tall",
+      "paint",
+      "water",
+      "bright"
+    ],
+    "g12": [
+      "lighthouse",
+      "village",
+      "green",
+      "quiet",
+      "buildings",
+      "painted"
+    ],
+    "g35": [
+      "watercolor",
+      "tone",
+      "detail",
+      "grass",
+      "shade",
+      "coastal"
+    ],
+    "g68": [
+      "reflected light",
+      "observation",
+      "restrained",
+      "subtle",
+      "graphite",
+      "realism"
+    ],
+    "g910": [
+      "tonal variation",
+      "modest subject",
+      "luminosity",
+      "understatement",
+      "scraping",
+      "regionalism"
+    ],
+    "g1112": [
+      "sustained inquiry",
+      "plein air",
+      "tonal nuance",
+      "austerity",
+      "observational approach",
+      "American Scene"
+    ]
   }
 }

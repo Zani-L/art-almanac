@@ -155,5 +155,55 @@
       "Have pairs argue for two different explanations of what the woman is doing, citing details.",
       "Compare the quiet mood with a busy scene from another artwork in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "window",
+      "map",
+      "pitcher",
+      "cloth",
+      "light"
+    ],
+    "g12": [
+      "calm",
+      "quiet",
+      "sunny",
+      "pale",
+      "peaceful",
+      "still"
+    ],
+    "g35": [
+      "daylight",
+      "folds",
+      "head covering",
+      "everyday life",
+      "geometry",
+      "table"
+    ],
+    "g68": [
+      "composition",
+      "genre painting",
+      "intimate",
+      "domestic",
+      "light source",
+      "glaze"
+    ],
+    "g910": [
+      "private reflection",
+      "geometry",
+      "domestic order",
+      "trade",
+      "ambiguity",
+      "intention"
+    ],
+    "g1112": [
+      "domestic order",
+      "Dutch trade",
+      "formal analysis",
+      "cautious interpretation",
+      "private reflection",
+      "documentation"
+    ]
   }
 }

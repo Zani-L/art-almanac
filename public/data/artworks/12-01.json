@@ -153,5 +153,55 @@
       "Ask students to find where the picture shows the most and the least detail and explain why.",
       "Discuss why travelers brought home pictures of places they visited and how people do that today."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hill",
+      "soft",
+      "blue",
+      "green",
+      "house",
+      "hazy"
+    ],
+    "g12": [
+      "misty",
+      "gentle",
+      "faded",
+      "distant",
+      "watery",
+      "wide"
+    ],
+    "g35": [
+      "watercolor",
+      "haze",
+      "wash",
+      "landscape",
+      "villa",
+      "distance"
+    ],
+    "g68": [
+      "atmosphere",
+      "layered",
+      "depth",
+      "delicate",
+      "light",
+      "recession"
+    ],
+    "g910": [
+      "transparency",
+      "translucent",
+      "mood",
+      "romantic",
+      "luminous",
+      "subtle"
+    ],
+    "g1112": [
+      "picturesque",
+      "sensibility",
+      "Grand Tour",
+      "spatial depth",
+      "travel view",
+      "minimal drawing"
+    ]
   }
 }

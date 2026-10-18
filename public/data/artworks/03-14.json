@@ -155,5 +155,55 @@
       "Sketch a floor plan of the room as best as can be seen and discuss what perspective hides.",
       "Compare with a modern photograph of a family gathering: what is staged and what is spontaneous?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "room",
+      "people",
+      "house",
+      "light",
+      "floor",
+      "door"
+    ],
+    "g12": [
+      "indoors",
+      "visiting",
+      "daylight",
+      "friendly",
+      "tidy",
+      "cozy"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "mood",
+      "detail",
+      "pattern",
+      "light"
+    ],
+    "g68": [
+      "genre painting",
+      "interior",
+      "architecture",
+      "relationships",
+      "clues",
+      "perspective"
+    ],
+    "g910": [
+      "domestic",
+      "composition",
+      "narrative",
+      "social",
+      "interplay",
+      "Dutch Golden Age"
+    ],
+    "g1112": [
+      "moral commentary",
+      "idealized",
+      "market",
+      "ambiguity",
+      "evidence",
+      "interpretation"
+    ]
   }
 }

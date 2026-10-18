@@ -155,5 +155,55 @@
       "Discuss why artists have painted flowers and fruit for centuries and what a painting preserves that real flowers cannot.",
       "Compare this quiet still life with the intense flowers in another artwork in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fruit",
+      "flowers",
+      "soft",
+      "round",
+      "petals",
+      "leaves"
+    ],
+    "g12": [
+      "gentle",
+      "quiet",
+      "peaceful",
+      "ripe",
+      "fresh",
+      "smooth"
+    ],
+    "g35": [
+      "still life",
+      "arrangement",
+      "vase",
+      "blossoms",
+      "texture",
+      "gentle light"
+    ],
+    "g68": [
+      "Realism",
+      "composition",
+      "tonal",
+      "contemplative",
+      "lifelike",
+      "modeling"
+    ],
+    "g910": [
+      "transience",
+      "abundance",
+      "restraint",
+      "observation",
+      "symbolism",
+      "brushwork"
+    ],
+    "g1112": [
+      "Realist observation",
+      "tonal transitions",
+      "contemplative mood",
+      "transience",
+      "abundance",
+      "interpretive symbolism"
+    ]
   }
 }

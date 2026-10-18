@@ -154,5 +154,55 @@
       "Ask students to paint a quick scene of a place they know using only short dabs of color and no outlines.",
       "Compare this painting with another Monet seaside view. What stays the same and what changes with the place and weather?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sea",
+      "cliff",
+      "sand",
+      "sky",
+      "beach",
+      "waves"
+    ],
+    "g12": [
+      "windy",
+      "sandy",
+      "seaside",
+      "wide",
+      "breezy",
+      "open"
+    ],
+    "g35": [
+      "brushstrokes",
+      "beach",
+      "cliffs",
+      "landscape",
+      "fishing village",
+      "horizon"
+    ],
+    "g68": [
+      "Impressionism",
+      "short strokes",
+      "atmosphere",
+      "light",
+      "composition",
+      "coastal"
+    ],
+    "g910": [
+      "fleeting moment",
+      "plein air",
+      "economy",
+      "optical effect",
+      "tidal",
+      "spontaneity"
+    ],
+    "g1112": [
+      "passing moment",
+      "pictorial economy",
+      "brushwork",
+      "specific place",
+      "equal treatment",
+      "perception"
+    ]
   }
 }

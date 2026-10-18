@@ -155,5 +155,55 @@
       "Have students draw an animal from a spoken description given by a partner, then compare results.",
       "Discuss how copying and sharing images can spread mistakes as well as knowledge."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horn",
+      "black",
+      "big",
+      "skin",
+      "lines",
+      "plates"
+    ],
+    "g12": [
+      "armor",
+      "heavy",
+      "tough",
+      "striped",
+      "thick",
+      "patterned"
+    ],
+    "g35": [
+      "pattern",
+      "texture",
+      "detail",
+      "outline",
+      "shading",
+      "background"
+    ],
+    "g68": [
+      "woodcut",
+      "hatching",
+      "pattern",
+      "detail",
+      "impression",
+      "Renaissance"
+    ],
+    "g910": [
+      "inherited expectation",
+      "ornament",
+      "print",
+      "accuracy",
+      "circulation",
+      "description"
+    ],
+    "g1112": [
+      "authority",
+      "invention",
+      "natural history",
+      "evidence",
+      "translation",
+      "early modern"
+    ]
   }
 }

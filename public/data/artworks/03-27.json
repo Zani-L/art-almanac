@@ -155,5 +155,55 @@
       "Discuss how an object made to be worn and used looks different when displayed on a museum wall.",
       "Compare this mask's smooth, calm face with another mask from a different culture, talking about shape and expression."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mask",
+      "face",
+      "eyes",
+      "round",
+      "wood",
+      "brown"
+    ],
+    "g12": [
+      "carved",
+      "wooden",
+      "holes",
+      "smooth",
+      "symmetrical",
+      "rounded"
+    ],
+    "g35": [
+      "pattern",
+      "carving",
+      "detail",
+      "texture",
+      "shape",
+      "mood"
+    ],
+    "g68": [
+      "symmetry",
+      "carving",
+      "performance",
+      "fibers",
+      "community",
+      "tradition"
+    ],
+    "g910": [
+      "identity",
+      "function",
+      "costume",
+      "ritual",
+      "stylization",
+      "Dan"
+    ],
+    "g1112": [
+      "context",
+      "alteration",
+      "attribution",
+      "display",
+      "performance",
+      "community role"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to list the objects in the painting and brainstorm what each might say about her life, separating guesses from evidence.",
       "Discuss how daily-life paintings can serve as historical clues."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lady",
+      "window",
+      "map",
+      "music",
+      "quiet",
+      "soft"
+    ],
+    "g12": [
+      "peaceful",
+      "gentle",
+      "sunny",
+      "musical",
+      "still",
+      "cozy"
+    ],
+    "g35": [
+      "lute",
+      "daylight",
+      "interior",
+      "instrument",
+      "mood",
+      "calm"
+    ],
+    "g68": [
+      "composition",
+      "atmosphere",
+      "symbolic",
+      "restrained",
+      "domestic",
+      "Dutch"
+    ],
+    "g910": [
+      "perspective",
+      "symbolism",
+      "ambiguity",
+      "stillness",
+      "narrative",
+      "illumination"
+    ],
+    "g1112": [
+      "Golden Age",
+      "controlled light",
+      "symbolic reading",
+      "global trade",
+      "domestic interior",
+      "ambiguity"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Use a flashlight and a piece of gold paper to show how a gold surface changes as light moves.",
       "Discuss why people kept small books for private use and what students keep for the same reason."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "page",
+      "angels",
+      "paper",
+      "small",
+      "frame"
+    ],
+    "g12": [
+      "prayer",
+      "writing",
+      "painted",
+      "decorated",
+      "handwritten",
+      "tiny"
+    ],
+    "g35": [
+      "parchment",
+      "gold",
+      "prayer book",
+      "decoration",
+      "text",
+      "angels"
+    ],
+    "g68": [
+      "illumination",
+      "Book of Hours",
+      "shell gold",
+      "devotional",
+      "tempera",
+      "border"
+    ],
+    "g910": [
+      "manuscript",
+      "luminous surface",
+      "text block",
+      "medieval",
+      "devotional image",
+      "leaf"
+    ],
+    "g1112": [
+      "lost context",
+      "fragment",
+      "lay devotion",
+      "close viewing",
+      "patron",
+      "late medieval manuscript culture"
+    ]
   }
 }

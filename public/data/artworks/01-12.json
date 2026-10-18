@@ -8,11 +8,10 @@
   "movement": "Rococo",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-surprise-in-terror.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/32732/joseph_ducreux-the_surprise_in_terror-1790-trivium-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-ducreux/the-surprise-in-terror/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/32732/joseph_ducreux-the_surprise_in_terror-1790-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-ducreux/the-surprise-in-terror/"
   },
   "altText": "A close portrait of a man with wide-open eyes and a startled, dramatic expression, shown in the style of late eighteenth-century French portraiture.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students use hand mirrors to study a 'surprise' face and draw only the eyes, brows and mouth, then compare how lines change feeling.",
       "Ask students to caption the painting in three different ways and discuss how each caption changes the mood.",
       "Discuss why artists study facial expressions and how portraits can show feelings, not just appearance."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "face",
+      "eyes",
+      "wide",
+      "big",
+      "mouth"
+    ],
+    "g12": [
+      "startled",
+      "surprised",
+      "dramatic",
+      "open",
+      "shocked",
+      "wide-eyed"
+    ],
+    "g35": [
+      "portrait",
+      "expression",
+      "self-portrait",
+      "feeling",
+      "strong emotion",
+      "face"
+    ],
+    "g68": [
+      "framing",
+      "exaggeration",
+      "humor",
+      "likeness",
+      "oil painting",
+      "mood"
+    ],
+    "g910": [
+      "Rococo",
+      "facial expression",
+      "performance",
+      "theatrical",
+      "emotion",
+      "close-up"
+    ],
+    "g1112": [
+      "scientific observation",
+      "eighteenth-century curiosity",
+      "comedy",
+      "performance",
+      "evidence",
+      "likeness"
     ]
   }
 }

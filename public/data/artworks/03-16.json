@@ -155,5 +155,55 @@
       "Take students outside for ten minutes to make a quick color sketch of one view, then compare their rushed marks with Sisley's.",
       "Compare this quiet view with a dramatic scene from another day: what does each ask a viewer to notice?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "town",
+      "sky",
+      "trees",
+      "green",
+      "small",
+      "blue"
+    ],
+    "g12": [
+      "dabs",
+      "distant",
+      "sunlit",
+      "leafy",
+      "gardens",
+      "hazy"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "distance",
+      "mood",
+      "detail",
+      "texture"
+    ],
+    "g68": [
+      "brushstrokes",
+      "foreground",
+      "distance",
+      "Impressionism",
+      "light",
+      "background"
+    ],
+    "g910": [
+      "atmospheric perspective",
+      "sensation",
+      "fragmented",
+      "structure",
+      "palette",
+      "spontaneity"
+    ],
+    "g1112": [
+      "transience",
+      "undervalued",
+      "modest",
+      "observation",
+      "narrative",
+      "en plein air"
+    ]
   }
 }

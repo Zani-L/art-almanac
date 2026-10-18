@@ -154,5 +154,55 @@
       "Discuss what a niche or marker for direction does in a building, and invite students to share special places in their own communities respectfully.",
       "Ask older students to discuss how scientific testing and style evidence can both help date an object, and why the museum gives a range."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tiles",
+      "arch",
+      "tall",
+      "blue",
+      "shape",
+      "flower"
+    ],
+    "g12": [
+      "pattern",
+      "tiles",
+      "curved",
+      "pointed",
+      "decorated",
+      "writing"
+    ],
+    "g35": [
+      "mihrab",
+      "calligraphy",
+      "pattern",
+      "mosaic",
+      "mosque",
+      "tiles"
+    ],
+    "g68": [
+      "Safavid",
+      "ornament",
+      "symmetry",
+      "geometric",
+      "sacred",
+      "focal point"
+    ],
+    "g910": [
+      "arabesque",
+      "prayer niche",
+      "ceramic mosaic",
+      "authenticity",
+      "devotion",
+      "intricacy"
+    ],
+    "g1112": [
+      "thermoluminescence",
+      "revival style",
+      "iconography",
+      "sacred space",
+      "originality",
+      "provenance"
+    ]
   }
 }

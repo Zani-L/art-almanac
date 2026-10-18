@@ -154,5 +154,55 @@
       "Ask older students to list what the painting shows and what it does not tell us about the sitter, then discuss how portraits shape our understanding of people.",
       "Compare the spectacles with modern glasses and discuss how everyday objects change over time."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "glasses",
+      "face",
+      "round",
+      "small",
+      "paint",
+      "eyes"
+    ],
+    "g12": [
+      "portrait",
+      "spectacles",
+      "person",
+      "lenses",
+      "strange",
+      "serious"
+    ],
+    "g35": [
+      "portrait",
+      "sitter",
+      "spectacles",
+      "oil paint",
+      "accessory",
+      "unusual"
+    ],
+    "g68": [
+      "likeness",
+      "character",
+      "1830s",
+      "protective",
+      "detail",
+      "representation"
+    ],
+    "g910": [
+      "identity",
+      "self-presentation",
+      "attribute",
+      "portraiture",
+      "artist's career",
+      "social status"
+    ],
+    "g1112": [
+      "biographical context",
+      "sitter's identity",
+      "material culture",
+      "amateur painter",
+      "personal image",
+      "historical record"
+    ]
   }
 }

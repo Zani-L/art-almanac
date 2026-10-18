@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-poster-for-the-cafe-concert-le-divan-japonais.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16362/henri_de_toulouse-lautrec-poster_for_le_divan_japonais-1893-trivium-art-history.jpg",
     "credit": "Van Gogh Museum, Netherlands; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-de-toulouse-lautrec/poster-for-the-cafe-concert-le-divan-japonais/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16362/henri_de_toulouse-lautrec-poster_for_le_divan_japonais-1893-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-de-toulouse-lautrec/poster-for-the-cafe-concert-le-divan-japonais/"
   },
   "altText": "A colorful poster made of flat shapes of color and bold black outlines, with dark-clad figures and large hats in the foreground and a stage scene behind them. Lettering for the name of the cafe appears as part of the design.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students design a poster for a school event using only flat shapes, three colors and one dark outline.",
       "Ask students to cover part of the poster and say which shapes still carry the message.",
       "Discuss the difference between art made to be sold and art made for a museum."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hat",
+      "poster",
+      "black",
+      "show",
+      "big",
+      "stage"
+    ],
+    "g12": [
+      "bold",
+      "outlined",
+      "colorful",
+      "flat",
+      "loud",
+      "cafe"
+    ],
+    "g35": [
+      "poster",
+      "lithograph",
+      "outlines",
+      "cafe",
+      "cropped",
+      "flat color"
+    ],
+    "g68": [
+      "contour",
+      "silhouette",
+      "cropping",
+      "advertising",
+      "Japanese prints",
+      "composition"
+    ],
+    "g910": [
+      "graphic design",
+      "bold",
+      "simplification",
+      "attention",
+      "silhouette",
+      "asymmetry"
+    ],
+    "g1112": [
+      "passer-by",
+      "commercial art",
+      "fine art",
+      "viewer",
+      "emphasis",
+      "Post-Impressionism"
     ]
   }
 }

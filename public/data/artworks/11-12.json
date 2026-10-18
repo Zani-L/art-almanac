@@ -155,5 +155,55 @@
       "Discuss which household jobs are shown in art and which are usually left out.",
       "Compare with a photograph of a modern kitchen and note what has changed."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cat",
+      "fish",
+      "food",
+      "woman",
+      "pots",
+      "kitchen"
+    ],
+    "g12": [
+      "warm",
+      "busy",
+      "cozy",
+      "messy",
+      "tasty",
+      "homey"
+    ],
+    "g35": [
+      "household",
+      "servant",
+      "objects",
+      "meal",
+      "Dutch",
+      "texture"
+    ],
+    "g68": [
+      "genre painting",
+      "still life",
+      "domestic",
+      "abundance",
+      "detail",
+      "interior"
+    ],
+    "g910": [
+      "housekeeping",
+      "description",
+      "labor",
+      "moral lessons",
+      "rhythm",
+      "observation"
+    ],
+    "g1112": [
+      "genre painting",
+      "domestic work",
+      "moral lessons",
+      "servant labor",
+      "description",
+      "competing readings"
+    ]
   }
 }

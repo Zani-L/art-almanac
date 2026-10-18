@@ -153,5 +153,55 @@
       "Ask students to choose a feeling and a matching bouquet of colors, then explain choices.",
       "Discuss how a picture can be about a feeling as well as a thing."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "vase",
+      "bright",
+      "soft",
+      "pink",
+      "glow"
+    ],
+    "g12": [
+      "powdery",
+      "blurry",
+      "glowing",
+      "rich",
+      "fuzzy",
+      "blended"
+    ],
+    "g35": [
+      "pastel",
+      "bouquet",
+      "chalk",
+      "blending",
+      "still life",
+      "background"
+    ],
+    "g68": [
+      "saturated",
+      "contour",
+      "color relationships",
+      "delicate",
+      "layered",
+      "expressive"
+    ],
+    "g910": [
+      "symbolism",
+      "inner states",
+      "dissolve",
+      "evocation",
+      "tonality",
+      "luminosity"
+    ],
+    "g1112": [
+      "Symbolism",
+      "color relationships",
+      "dissolved contour",
+      "evocation",
+      "still life",
+      "inner states"
+    ]
   }
 }

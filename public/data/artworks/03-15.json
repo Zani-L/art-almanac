@@ -154,5 +154,55 @@
       "Ask groups to list what a farm worker might notice that a city painter might leave out.",
       "Compare this farm with the harbor and ruin scenes by other artists in the archive to see how landscapes tell different stories."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cows",
+      "farm",
+      "green",
+      "people",
+      "hills",
+      "boy"
+    ],
+    "g12": [
+      "country",
+      "rural",
+      "soft",
+      "gentle",
+      "walking",
+      "herd"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "mood",
+      "detail",
+      "distance",
+      "pattern"
+    ],
+    "g68": [
+      "pastoral",
+      "landscape",
+      "foreground",
+      "middle ground",
+      "farmland",
+      "arrangement"
+    ],
+    "g910": [
+      "idealized",
+      "atmosphere",
+      "harmony",
+      "rural life",
+      "patrons",
+      "composition"
+    ],
+    "g1112": [
+      "nostalgia",
+      "sympathy",
+      "urban patrons",
+      "leaves out",
+      "perspective",
+      "labor"
+    ]
   }
 }

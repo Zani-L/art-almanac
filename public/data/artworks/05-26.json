@@ -154,5 +154,55 @@
       "Ask students to design a portrait of themselves with an object or pet and explain what it says about them.",
       "Discuss the idea that a portrait can be both a likeness and a staged image."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dog",
+      "boy",
+      "ears",
+      "fur",
+      "soft",
+      "pet"
+    ],
+    "g12": [
+      "furry",
+      "smooth",
+      "friend",
+      "clothes",
+      "pets",
+      "portrait"
+    ],
+    "g35": [
+      "portrait",
+      "spaniel",
+      "companion",
+      "texture",
+      "elegant",
+      "fur"
+    ],
+    "g68": [
+      "affectionate",
+      "expression",
+      "smooth finish",
+      "delicate",
+      "companionship",
+      "formal"
+    ],
+    "g910": [
+      "likeness",
+      "Rococo",
+      "contrast",
+      "polish",
+      "intimacy",
+      "affection"
+    ],
+    "g1112": [
+      "childhood",
+      "loyalty",
+      "clientele",
+      "convention",
+      "staging",
+      "sentiment"
+    ]
   }
 }

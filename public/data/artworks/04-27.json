@@ -154,5 +154,55 @@
       "Discuss how a signature on one part of an object can tell only part of its story.",
       "Compare this watch with a modern phone case or watch face and discuss what we decorate and why."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "watch",
+      "round",
+      "tiny",
+      "song",
+      "tree"
+    ],
+    "g12": [
+      "golden",
+      "painted",
+      "musical",
+      "countryside",
+      "numbers",
+      "fancy"
+    ],
+    "g35": [
+      "enamel",
+      "pastoral",
+      "dial",
+      "case",
+      "diamonds",
+      "country life"
+    ],
+    "g68": [
+      "movement",
+      "dial",
+      "pastoral",
+      "composite object",
+      "hands",
+      "craftsmanship"
+    ],
+    "g910": [
+      "idealized",
+      "courtly",
+      "rural life",
+      "hybrid",
+      "assembly",
+      "marks"
+    ],
+    "g1112": [
+      "authorship",
+      "authenticity",
+      "national label",
+      "guarantee mark",
+      "provenance",
+      "later handling"
+    ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask older students to research what Egyptian funerary art symbols meant and compare their findings with what they can see on this coffin.",
       "Discuss how museums can display objects made for another culture's funeral customs respectfully, and why that matters."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wood",
+      "painted",
+      "big",
+      "old",
+      "white",
+      "lines"
+    ],
+    "g12": [
+      "smooth",
+      "ancient",
+      "painted",
+      "decorated",
+      "tall",
+      "careful"
+    ],
+    "g35": [
+      "gesso",
+      "sycamore fig",
+      "designs",
+      "painted wood",
+      "ancient Egypt",
+      "Thebes"
+    ],
+    "g68": [
+      "priests",
+      "outer layer",
+      "funerary art",
+      "craftsmanship",
+      "tradition",
+      "ancient"
+    ],
+    "g910": [
+      "Third Intermediate Period",
+      "iconography",
+      "nested set",
+      "ritual",
+      "design",
+      "symbolism"
+    ],
+    "g1112": [
+      "designed object",
+      "relic",
+      "ritual function",
+      "religious belief",
+      "painted surface",
+      "artistic skill"
+    ]
   }
 }

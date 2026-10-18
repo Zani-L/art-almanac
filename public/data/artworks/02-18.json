@@ -155,5 +155,55 @@
       "Ask students to design a portrait showing their family that tells viewers something about its values.",
       "Discuss how a painting can change over time because of damage and repair."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "boy",
+      "face",
+      "old",
+      "young",
+      "side"
+    ],
+    "g12": [
+      "father",
+      "son",
+      "serious",
+      "thoughtful",
+      "facing",
+      "calm"
+    ],
+    "g35": [
+      "portrait",
+      "background",
+      "expression",
+      "detail",
+      "pose",
+      "clothing"
+    ],
+    "g68": [
+      "portrait",
+      "profile",
+      "pose",
+      "expression",
+      "Renaissance",
+      "family"
+    ],
+    "g910": [
+      "contrast",
+      "generation",
+      "convention",
+      "status",
+      "composition",
+      "gaze"
+    ],
+    "g1112": [
+      "patronage",
+      "lineage",
+      "restoration",
+      "overpainting",
+      "dynasty",
+      "portraiture"
+    ]
   }
 }

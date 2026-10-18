@@ -155,5 +155,55 @@
       "Discuss how a painter could show wind without drawing it.",
       "Research how goods traveled by ship in the 1600s and what they carried."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "ship",
+      "water",
+      "sky",
+      "sail",
+      "wind"
+    ],
+    "g12": [
+      "harbor",
+      "sailing",
+      "calm",
+      "busy",
+      "floating",
+      "cloudy"
+    ],
+    "g35": [
+      "waves",
+      "sails",
+      "background",
+      "calm",
+      "sunlit",
+      "detail"
+    ],
+    "g68": [
+      "mast",
+      "horizon",
+      "reflection",
+      "port",
+      "detail",
+      "realistic"
+    ],
+    "g910": [
+      "rigging",
+      "composition",
+      "accuracy",
+      "seascape",
+      "trade",
+      "atmosphere"
+    ],
+    "g1112": [
+      "maritime",
+      "prosperity",
+      "craftsmanship",
+      "colonialism",
+      "description",
+      "national pride"
+    ]
   }
 }

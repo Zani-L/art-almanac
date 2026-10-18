@@ -155,5 +155,55 @@
       "Ask students to describe the scroll aloud from bottom to top as if guiding a traveler.",
       "Discuss the difference between learning from a master and copying."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "ink",
+      "black",
+      "gray",
+      "tall",
+      "hills",
+      "brush"
+    ],
+    "g12": [
+      "soft",
+      "dark",
+      "pale",
+      "misty",
+      "layered",
+      "paper"
+    ],
+    "g35": [
+      "scroll",
+      "brushwork",
+      "tones",
+      "depth",
+      "strokes",
+      "vertical"
+    ],
+    "g68": [
+      "monochrome",
+      "texture strokes",
+      "atmosphere",
+      "composition",
+      "tonal variation",
+      "hanging scroll"
+    ],
+    "g910": [
+      "synthesis",
+      "brush handling",
+      "quotation",
+      "modulation",
+      "invention",
+      "tradition"
+    ],
+    "g1112": [
+      "Qing practice",
+      "personal synthesis",
+      "tonal modulation",
+      "quotation",
+      "invention",
+      "individuality"
+    ]
   }
 }

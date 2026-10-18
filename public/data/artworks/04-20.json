@@ -155,5 +155,55 @@
       "Discuss what we can and cannot know about an object that has no label or writing from its makers.",
       "Compare with another figure in the archive and discuss how scale changes a sculpture's effect."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "clay",
+      "man",
+      "head",
+      "old",
+      "brown",
+      "small"
+    ],
+    "g12": [
+      "earthy",
+      "modeled",
+      "ancient",
+      "rounded",
+      "plain",
+      "handmade"
+    ],
+    "g35": [
+      "figure",
+      "Maya",
+      "ancient",
+      "surface",
+      "culture",
+      "sculpture"
+    ],
+    "g68": [
+      "Mesoamerica",
+      "modeling",
+      "proportion",
+      "ceramic",
+      "posture",
+      "attribution"
+    ],
+    "g910": [
+      "archaeology",
+      "context",
+      "function",
+      "depiction",
+      "ritual",
+      "form"
+    ],
+    "g1112": [
+      "acquisition",
+      "cultural attribution",
+      "provenance",
+      "formal analysis",
+      "gaps",
+      "interpretation"
+    ]
   }
 }

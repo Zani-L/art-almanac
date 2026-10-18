@@ -154,5 +154,55 @@
       "Ask students to compare this sheet with Sargent's Sunset in the archive and describe how each captures change.",
       "Discuss how an artist can make a picture of motion without any people."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "water",
+      "rock",
+      "white",
+      "fast",
+      "splash",
+      "wet"
+    ],
+    "g12": [
+      "rushing",
+      "splashing",
+      "quick",
+      "loose",
+      "cool",
+      "foamy"
+    ],
+    "g35": [
+      "brook",
+      "watercolor",
+      "gouache",
+      "foam",
+      "speed",
+      "pencil"
+    ],
+    "g68": [
+      "gesture",
+      "cropping",
+      "reserved paper",
+      "graphite",
+      "fluid",
+      "rocks"
+    ],
+    "g910": [
+      "transparency",
+      "spontaneity",
+      "energy",
+      "contrast",
+      "movement",
+      "economy"
+    ],
+    "g1112": [
+      "suggestion",
+      "spontaneity",
+      "immediacy",
+      "nature",
+      "tight view",
+      "texture"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to design a portrait of themselves using three objects and one short quotation.",
       "Discuss how a portrait made for the sitter might differ from a candid photograph."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "book",
+      "table",
+      "green",
+      "gold",
+      "paper"
+    ],
+    "g12": [
+      "young",
+      "serious",
+      "golden",
+      "letters",
+      "cloth",
+      "quiet"
+    ],
+    "g35": [
+      "portrait",
+      "background",
+      "detail",
+      "merchant",
+      "lettering",
+      "clues"
+    ],
+    "g68": [
+      "realistic",
+      "inscription",
+      "composition",
+      "symbolic",
+      "status",
+      "Renaissance"
+    ],
+    "g910": [
+      "likeness",
+      "symbolism",
+      "social status",
+      "Northern Renaissance",
+      "attribute",
+      "juxtaposition"
+    ],
+    "g1112": [
+      "self-presentation",
+      "ambiguity",
+      "identification",
+      "humanist",
+      "text and image",
+      "Tudor court"
+    ]
   }
 }

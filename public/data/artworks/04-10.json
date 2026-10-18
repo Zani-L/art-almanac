@@ -155,5 +155,55 @@
       "Have students write three questions they would ask the painter or the family if they could.",
       "Discuss why some artists' names are remembered and others are lost, and whose work museums have collected."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "family",
+      "sofa",
+      "four",
+      "flat",
+      "sit",
+      "dress"
+    ],
+    "g12": [
+      "seated",
+      "stiff",
+      "simple",
+      "painted",
+      "formal",
+      "proud"
+    ],
+    "g35": [
+      "portrait",
+      "folk painting",
+      "outline",
+      "furniture",
+      "clothing",
+      "arrangement"
+    ],
+    "g68": [
+      "composition",
+      "flat",
+      "anonymous",
+      "style",
+      "commission",
+      "status"
+    ],
+    "g910": [
+      "vernacular",
+      "middle class",
+      "domestic life",
+      "posed",
+      "convention",
+      "identity"
+    ],
+    "g1112": [
+      "folk",
+      "naive",
+      "provisional",
+      "training",
+      "category",
+      "documentation"
+    ]
   }
 }

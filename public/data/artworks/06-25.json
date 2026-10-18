@@ -154,5 +154,55 @@
       "Discuss how objects like this can be used as evidence about a society and what questions they cannot answer.",
       "Compare this horse with the Han dynasty dog in the archive and discuss changes in glaze and style."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horse",
+      "woman",
+      "clay",
+      "glossy",
+      "legs",
+      "base"
+    ],
+    "g12": [
+      "glazed",
+      "shiny",
+      "riding",
+      "mixed",
+      "pottery",
+      "standing"
+    ],
+    "g35": [
+      "sancai",
+      "Tang dynasty",
+      "glaze",
+      "kiln",
+      "rider",
+      "pottery"
+    ],
+    "g68": [
+      "motion",
+      "posture",
+      "lustrous",
+      "blended color",
+      "realistic",
+      "proportion"
+    ],
+    "g910": [
+      "tomb figure",
+      "earthenware",
+      "status",
+      "movement",
+      "modeled form",
+      "lead glaze"
+    ],
+    "g1112": [
+      "elite culture",
+      "funerary context",
+      "gender",
+      "inference",
+      "representation",
+      "restraint and flow"
+    ]
   }
 }

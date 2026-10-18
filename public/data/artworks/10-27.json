@@ -8,11 +8,10 @@
   "movement": "American folk art",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-noahs-ark.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/22657/edward-hicks-noah-1039-s-ark-1846-trivium-art-history.jpg",
     "credit": "Philadelphia Museum of Art; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/edward-hicks/noahs-ark/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/22657/edward-hicks-noah-1039-s-ark-1846-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/edward-hicks/noahs-ark/"
   },
   "altText": "A painting of many animals walking in pairs across a landscape toward a large boat, painted in a clear, simple folk-art style.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw an animal pair in a simple, clear outline style and compare how outlines help a story read quickly.",
       "Ask students to tell the story of the painting in order using only what they see.",
       "Discuss how artists and communities pass stories down through pictures."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "animals",
+      "boat",
+      "pairs",
+      "walk",
+      "big",
+      "line"
+    ],
+    "g12": [
+      "parade",
+      "simple",
+      "tidy",
+      "clear",
+      "lined-up",
+      "flat"
+    ],
+    "g35": [
+      "Noah",
+      "folk art",
+      "procession",
+      "story",
+      "outlines",
+      "animals"
+    ],
+    "g68": [
+      "narrative",
+      "folk painting",
+      "outline",
+      "arrangement",
+      "biblical",
+      "self-taught"
+    ],
+    "g910": [
+      "devotion",
+      "harmony",
+      "lesson",
+      "training",
+      "canon",
+      "sequence"
+    ],
+    "g1112": [
+      "biblical narrative",
+      "American folk",
+      "Outsider Art",
+      "training",
+      "canon",
+      "devotion"
     ]
   }
 }

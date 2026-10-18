@@ -155,5 +155,55 @@
       "Have students count and sort the figures by activity and discuss the pattern they create.",
       "Discuss what is gained and lost when figures are simplified into shapes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "park",
+      "grass",
+      "trees",
+      "people",
+      "sun",
+      "shade"
+    ],
+    "g12": [
+      "riverside",
+      "tiny",
+      "stiff",
+      "stroll",
+      "relax",
+      "dots"
+    ],
+    "g35": [
+      "study",
+      "figures",
+      "silhouette",
+      "light and shade",
+      "leisure",
+      "small marks"
+    ],
+    "g68": [
+      "outlines",
+      "stiff pose",
+      "pattern",
+      "tiny marks",
+      "shadow",
+      "planning"
+    ],
+    "g910": [
+      "composition",
+      "Post-Impressionism",
+      "structure",
+      "rhythm",
+      "preparatory work",
+      "modern life"
+    ],
+    "g1112": [
+      "testing composition",
+      "critique",
+      "spontaneity",
+      "structure",
+      "preparatory stage",
+      "leisure"
+    ]
   }
 }

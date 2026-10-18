@@ -155,5 +155,55 @@
       "Ask students to decide what the objects tell us about the person who owned them and what they might not tell us.",
       "Discuss how objects from far away, like Chinese porcelain in the Netherlands, show connections between cultures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fruit",
+      "glass",
+      "bowl",
+      "cup",
+      "dark",
+      "shiny"
+    ],
+    "g12": [
+      "crowded",
+      "fancy",
+      "rumpled",
+      "sparkling",
+      "table",
+      "real"
+    ],
+    "g35": [
+      "still life",
+      "porcelain",
+      "silverware",
+      "highlight",
+      "luxury",
+      "dark background"
+    ],
+    "g68": [
+      "overlap",
+      "richness",
+      "dark ground",
+      "realistic",
+      "rich",
+      "packed"
+    ],
+    "g910": [
+      "pronkstilleven",
+      "wealth",
+      "abundance",
+      "composition",
+      "trade",
+      "realism"
+    ],
+    "g1112": [
+      "global trade",
+      "display",
+      "virtuosity",
+      "conspicuous luxury",
+      "material culture",
+      "abundance"
+    ]
   }
 }

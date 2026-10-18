@@ -267,6 +267,23 @@ await test("classroom magnifier follows the mouse over the artwork only", async 
   await context.close();
 });
 
+await test("classroom helpful words change with the grade level", async () => {
+  const { page, context } = await open({ viewport: { width: 1920, height: 1080 } });
+  await pickGrade(page, "k");
+  await page.click("#toggle-classroom");
+  await page.click("#vocab summary");
+  const young = await page.locator("#vocab-list li").allTextContents();
+  eq(young.length, 6);
+  await page.keyboard.press("Escape");
+  await pickGrade(page, "g1112");
+  await page.click("#toggle-classroom");
+  await page.click("#vocab summary");
+  const older = await page.locator("#vocab-list li").allTextContents();
+  eq(older.length, 6);
+  eq(JSON.stringify(young) !== JSON.stringify(older), true);
+  await context.close();
+});
+
 await test("saving an artwork persists across reloads on the same device", async () => {
   const { page, context } = await open();
   await page.click("#save-btn");

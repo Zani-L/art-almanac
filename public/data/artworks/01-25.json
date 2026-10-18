@@ -155,5 +155,55 @@
       "Ask students to paint or describe their own town in weather that matches a mood.",
       "Discuss when it is fine for art to be 'less accurate' than a photograph."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "city",
+      "hill",
+      "clouds",
+      "green",
+      "towers",
+      "dark"
+    ],
+    "g12": [
+      "stormy",
+      "dreamy",
+      "crowded",
+      "glowing",
+      "swirling",
+      "tall"
+    ],
+    "g35": [
+      "emotional view",
+      "stormy sky",
+      "towers",
+      "hilltop",
+      "cathedral",
+      "dream"
+    ],
+    "g68": [
+      "Mannerism",
+      "distortion",
+      "atmosphere",
+      "brushwork",
+      "landscape",
+      "expressive"
+    ],
+    "g910": [
+      "topographical record",
+      "relocated cathedral",
+      "dramatic sky",
+      "emotion",
+      "subjective",
+      "tension"
+    ],
+    "g1112": [
+      "emotional landscape",
+      "reception history",
+      "Rilke",
+      "spiritual interpretation",
+      "authorial intent",
+      "modern sensibility"
+    ]
   }
 }

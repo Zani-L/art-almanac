@@ -154,5 +154,55 @@
       "Ask students to compare how line and tone each suggest the woods.",
       "Discuss why an artist might revise a work many times."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "trees",
+      "gray",
+      "dark",
+      "soft",
+      "light",
+      "lines"
+    ],
+    "g12": [
+      "woods",
+      "shady",
+      "grainy",
+      "misty",
+      "quiet",
+      "layered"
+    ],
+    "g35": [
+      "forest",
+      "pattern",
+      "shadow",
+      "texture",
+      "gray tones",
+      "detail"
+    ],
+    "g68": [
+      "texture",
+      "tone",
+      "shadow",
+      "print",
+      "detail",
+      "landscape"
+    ],
+    "g910": [
+      "contrast",
+      "printmaking",
+      "atmosphere",
+      "layering",
+      "mood",
+      "tonal range"
+    ],
+    "g1112": [
+      "experimentation",
+      "revision",
+      "process",
+      "Impressionism",
+      "finished work",
+      "medium"
+    ]
   }
 }

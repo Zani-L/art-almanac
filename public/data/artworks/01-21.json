@@ -153,5 +153,55 @@
       "Ask students to compare how a fast watercolor and a slow oil painting from the archive might feel different.",
       "Discuss why the Met record gives no place name and what we can say about a work without that information."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sky",
+      "orange",
+      "sunset",
+      "paper",
+      "land",
+      "dark"
+    ],
+    "g12": [
+      "glowing",
+      "quick",
+      "loose",
+      "warm",
+      "bright",
+      "fading"
+    ],
+    "g35": [
+      "watercolor",
+      "gouache",
+      "warm colors",
+      "pencil",
+      "quick strokes",
+      "sunset"
+    ],
+    "g68": [
+      "wash",
+      "atmosphere",
+      "spontaneity",
+      "transparent",
+      "graphite",
+      "reserved paper"
+    ],
+    "g910": [
+      "light effects",
+      "suggestion",
+      "fleeting moment",
+      "medium",
+      "tonal contrast",
+      "immediacy"
+    ],
+    "g1112": [
+      "spontaneity",
+      "impression",
+      "watercolor tradition",
+      "museum object",
+      "unnamed place",
+      "later career"
+    ]
   }
 }

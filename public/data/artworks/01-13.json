@@ -8,11 +8,10 @@
   "movement": "Nihonga (bijin-ga)",
   "region": "Japan",
   "image": {
-    "url": "/images/ahp-yang-guifei.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/32985/uemura_sh_en-yang_guifei-1922-trivium-art-history-1.jpg",
     "credit": "Shōhaku Art Museum, Japan; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/uemura-shoen/yang-guifei/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/32985/uemura_sh_en-yang_guifei-1922-trivium-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/uemura-shoen/yang-guifei/"
   },
   "altText": "A tall Japanese painting on silk of a woman in layered, richly patterned robes, painted in soft, delicate colors with fine, flowing lines.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students list three patterns they find in the robes and sketch one, then discuss how repeated patterns guide the eye.",
       "Ask students to compare drawing a figure on paper with a pencil and painting one on a smooth surface, and discuss what changes.",
       "Invite a discussion of why painters return to older stories and how retelling can change them."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "silk",
+      "robe",
+      "soft",
+      "lines",
+      "pattern"
+    ],
+    "g12": [
+      "delicate",
+      "flowing",
+      "layered",
+      "tall",
+      "patterned",
+      "gentle"
+    ],
+    "g35": [
+      "bijin-ga",
+      "fine lines",
+      "silk",
+      "robes",
+      "patience",
+      "watercolor"
+    ],
+    "g68": [
+      "Nihonga",
+      "contour",
+      "pattern",
+      "opaque watercolor",
+      "tradition",
+      "elegance"
+    ],
+    "g910": [
+      "Tang-dynasty figure",
+      "linear precision",
+      "tradition",
+      "ornament",
+      "grace",
+      "legend"
+    ],
+    "g1112": [
+      "artistic identity",
+      "Western influence",
+      "women artists",
+      "gender roles",
+      "bijin-ga",
+      "portrait"
     ]
   }
 }

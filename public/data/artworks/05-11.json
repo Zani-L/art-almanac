@@ -8,11 +8,10 @@
   "movement": "Romanticism",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-the-wanderer-above-the-sea-of-fog.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/15801/caspar-david-friedrich-the-wanderer-above-the-sea-of-fog-1818-obelisk-art-history.jpg",
     "credit": "Kunsthalle Hamburg, Germany; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/caspar-david-friedrich/the-wanderer-above-the-sea-of-fog/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15801/caspar-david-friedrich-the-wanderer-above-the-sea-of-fog-1818-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/caspar-david-friedrich/the-wanderer-above-the-sea-of-fog/"
   },
   "altText": "A man in a dark coat stands on a rocky outcrop with his back to the viewer, looking out over a sea of fog. Rocky peaks and distant mountains rise out of the mist beneath a pale sky.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a person from behind looking at a big view, then discuss how the view changes the feeling.",
       "Ask students to write what the wanderer might be thinking, then compare different interpretations.",
       "Discuss what artists gain by hiding a figure's face."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fog",
+      "man",
+      "hill",
+      "rock",
+      "back",
+      "coat"
+    ],
+    "g12": [
+      "misty",
+      "rocky",
+      "lonely",
+      "pale",
+      "standing",
+      "distant"
+    ],
+    "g35": [
+      "wanderer",
+      "peak",
+      "valley",
+      "viewpoint",
+      "fog",
+      "vista"
+    ],
+    "g68": [
+      "Romanticism",
+      "sublime",
+      "layers",
+      "depth",
+      "foreground",
+      "composition"
+    ],
+    "g910": [
+      "solitude",
+      "awe",
+      "contemplation",
+      "Rückenfigur",
+      "uncertainty",
+      "ambition"
+    ],
+    "g1112": [
+      "witness",
+      "uncertainty",
+      "staging",
+      "emblem",
+      "debate",
+      "interpretation"
     ]
   }
 }

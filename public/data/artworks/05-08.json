@@ -8,11 +8,10 @@
   "movement": "Suprematism",
   "region": "Russia",
   "image": {
-    "url": "/images/ahp-non-objective-composition-flight-of-an-airplane.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16113/olga_rozanova-non-objective_composition_flight_of_an_airplane_-1916-trivium-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/olga-rozanova/non-objective-composition-flight-of-an-airplane/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16113/olga_rozanova-non-objective_composition_flight_of_an_airplane_-1916-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/olga-rozanova/non-objective-composition-flight-of-an-airplane/"
   },
   "altText": "An abstract painting of flat geometric shapes in several colors, arranged across a light background so that they seem to move and fly.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students cut colored paper shapes and arrange them to suggest flight, then compare arrangements.",
       "Ask students to give the painting a different title and discuss how the new title changes what they see.",
       "Discuss how an artist can show an experience, such as flying, without showing its usual objects."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "shape",
+      "color",
+      "fly",
+      "line",
+      "light",
+      "angle"
+    ],
+    "g12": [
+      "geometric",
+      "flat",
+      "floating",
+      "flying",
+      "pointed",
+      "crossing"
+    ],
+    "g35": [
+      "non-objective",
+      "abstract",
+      "flight",
+      "shapes",
+      "direction",
+      "movement"
+    ],
+    "g68": [
+      "Suprematism",
+      "geometric",
+      "diagonal",
+      "composition",
+      "avant-garde",
+      "abstract"
+    ],
+    "g910": [
+      "perception",
+      "technology",
+      "modernity",
+      "dynamism",
+      "form",
+      "rhythm"
+    ],
+    "g1112": [
+      "non-objective",
+      "women artists",
+      "abstraction",
+      "technology",
+      "perception",
+      "avant-garde"
     ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to copy a small detail of a work they admire, then discuss what they changed.",
       "Discuss why an artist might give a small painting as a gift and how that might shape the work."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lotus",
+      "rocks",
+      "plant",
+      "leaf",
+      "ink",
+      "small"
+    ],
+    "g12": [
+      "quiet",
+      "delicate",
+      "silky",
+      "gentle",
+      "pond",
+      "simple"
+    ],
+    "g35": [
+      "album leaf",
+      "silk",
+      "inscription",
+      "friend",
+      "copy",
+      "older artist"
+    ],
+    "g68": [
+      "tradition",
+      "homage",
+      "composition",
+      "format",
+      "tone",
+      "calligraphic"
+    ],
+    "g910": [
+      "originality",
+      "influence",
+      "quirky",
+      "intimacy",
+      "lineage",
+      "summation"
+    ],
+    "g1112": [
+      "painting after",
+      "originality",
+      "quirky art",
+      "friendship",
+      "small format",
+      "inscription"
+    ]
   }
 }

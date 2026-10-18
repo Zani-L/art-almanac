@@ -155,5 +155,55 @@
       "Discuss how objects can be both useful and beautiful, and ask students to find examples in their own school.",
       "Compare this lamp's use of writing as decoration with another lettered object in the archive, such as the bowl from Central Asia."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lamp",
+      "glass",
+      "blue",
+      "gold",
+      "round",
+      "hang"
+    ],
+    "g12": [
+      "shiny",
+      "glowing",
+      "fancy",
+      "painted",
+      "curvy",
+      "decorated"
+    ],
+    "g35": [
+      "pattern",
+      "detail",
+      "design",
+      "decorated",
+      "shine",
+      "background"
+    ],
+    "g68": [
+      "enamel",
+      "gilded",
+      "inscription",
+      "Arabic",
+      "rings",
+      "glassmaker"
+    ],
+    "g910": [
+      "Mamluk",
+      "ornament",
+      "calligraphy",
+      "blown glass",
+      "reserved",
+      "suspension"
+    ],
+    "g1112": [
+      "patronage",
+      "anonymity",
+      "dedication",
+      "emblem",
+      "light",
+      "space"
+    ]
   }
 }

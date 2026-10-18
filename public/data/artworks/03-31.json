@@ -8,11 +8,10 @@
   "movement": "Cubism-influenced early modernism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-eiffel-tower-with-trees.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37861/robert-delaunay-eiffel-tower-with-trees-1910-obelisk-art-history.jpg",
     "credit": "Solomon R. Guggenheim Museum, New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/robert-delaunay/eiffel-tower-with-trees/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37861/robert-delaunay-eiffel-tower-with-trees-1910-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/robert-delaunay/eiffel-tower-with-trees/"
   },
   "altText": "The Eiffel Tower in Paris painted in broken, tilting pieces, with trees in the foreground. The tower looks as if it is sliding and bending rather than standing straight.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a local landmark from two positions and combine the views into one drawing.",
       "Compare this with a photograph of the Eiffel Tower and list what each shows that the other cannot.",
       "Discuss why artists in the early 1900s were drawn to engineering structures as subjects."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tall",
+      "tower",
+      "trees",
+      "bent",
+      "tilted",
+      "big"
+    ],
+    "g12": [
+      "broken",
+      "tilting",
+      "crooked",
+      "famous",
+      "leafy",
+      "pointed"
+    ],
+    "g35": [
+      "landmark",
+      "pieces",
+      "foreground",
+      "viewpoint",
+      "Paris",
+      "unusual"
+    ],
+    "g68": [
+      "fragmentation",
+      "composition",
+      "modern",
+      "rhythm",
+      "perspective",
+      "Cubism"
+    ],
+    "g910": [
+      "abstraction",
+      "modernity",
+      "dynamism",
+      "distortion",
+      "monument",
+      "movement"
+    ],
+    "g1112": [
+      "instability",
+      "engineering",
+      "visual evidence",
+      "celebration",
+      "Cubist influence",
+      "interpretation"
     ]
   }
 }

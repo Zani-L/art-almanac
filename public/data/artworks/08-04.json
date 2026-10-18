@@ -154,5 +154,55 @@
       "Have students design a guardian for a place they care about, choosing a pose, expression and materials, and explain their choices.",
       "With older students, discuss how an object made for a temple group changes meaning when shown alone in a museum."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wood",
+      "gold",
+      "eyes",
+      "tall",
+      "strong",
+      "stand"
+    ],
+    "g12": [
+      "carved",
+      "shiny",
+      "fierce",
+      "watchful",
+      "standing",
+      "sparkling"
+    ],
+    "g35": [
+      "guardian",
+      "carving",
+      "lacquer",
+      "crystal eyes",
+      "general",
+      "expression"
+    ],
+    "g68": [
+      "Kamakura",
+      "Buddhist",
+      "sculpture",
+      "lifelike",
+      "protective",
+      "pose"
+    ],
+    "g910": [
+      "lifelike presence",
+      "devotional",
+      "ritual function",
+      "inlay",
+      "realism",
+      "armor"
+    ],
+    "g1112": [
+      "original setting",
+      "ritual purpose",
+      "Medicine Buddha",
+      "religious context",
+      "craftsmanship",
+      "Chinese style"
+    ]
   }
 }

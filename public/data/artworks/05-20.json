@@ -153,5 +153,55 @@
       "Ask students to compare this drawing with a color photograph of a peony and list what each shows best.",
       "Discuss why some subjects, like flowers, were once considered less important and who decides."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "petals",
+      "stems",
+      "leaves",
+      "gray",
+      "soft"
+    ],
+    "g12": [
+      "ruffled",
+      "layered",
+      "delicate",
+      "drawing",
+      "bloom",
+      "fine"
+    ],
+    "g35": [
+      "peonies",
+      "still life",
+      "wash",
+      "shading",
+      "detail",
+      "monochrome"
+    ],
+    "g68": [
+      "light and dark",
+      "delicate lines",
+      "realistic",
+      "softness",
+      "layers",
+      "sketchy"
+    ],
+    "g910": [
+      "tonal range",
+      "value",
+      "contour",
+      "modeling",
+      "underdrawing",
+      "ink wash"
+    ],
+    "g1112": [
+      "monochrome",
+      "academic training",
+      "study",
+      "hue",
+      "tonal modeling",
+      "recognition"
+    ]
   }
 }

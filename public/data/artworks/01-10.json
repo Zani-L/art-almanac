@@ -155,5 +155,55 @@
       "Invite students who read Arabic or other scripts to share how they would read the lettering, and discuss reading direction.",
       "Compare this bowl with another artwork in the archive that uses pattern but no pictures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bowl",
+      "writing",
+      "clay",
+      "round",
+      "pattern",
+      "ring"
+    ],
+    "g12": [
+      "shallow",
+      "curved",
+      "letters",
+      "circle",
+      "knot",
+      "decorated"
+    ],
+    "g35": [
+      "Arabic writing",
+      "calligraphy",
+      "good wishes",
+      "lettering",
+      "interlace",
+      "design"
+    ],
+    "g68": [
+      "epigraphic",
+      "harmony",
+      "rhythm",
+      "slip",
+      "glaze",
+      "ornament"
+    ],
+    "g910": [
+      "blessing",
+      "elongated verticals",
+      "script ornament",
+      "medium exchange",
+      "legibility",
+      "Samanid-era"
+    ],
+    "g1112": [
+      "script",
+      "patronage",
+      "trade",
+      "cultural exchange",
+      "convention",
+      "provenance"
+    ]
   }
 }

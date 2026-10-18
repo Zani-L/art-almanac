@@ -8,11 +8,10 @@
   "movement": "Qing dynasty court painting",
   "region": "China (Qing dynasty court)",
   "image": {
-    "url": "/images/ahp-portrait-of-consort-chunhui.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16055/giuseppe-castiglione-portrait-of-consort-chunhui-1760-obelisk-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/giuseppe-castiglione/portrait-of-consort-chunhui/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16055/giuseppe-castiglione-portrait-of-consort-chunhui-1760-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/giuseppe-castiglione/portrait-of-consort-chunhui/"
   },
   "altText": "A formal full-length portrait of a woman of the Qing imperial court, painted on a tall hanging scroll of silk. The figure is the focus and is shown in an upright, dignified pose.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students choose clothing or objects they would include in a portrait to show a person's role.",
       "Discuss what a portrait can and cannot tell us about a person's real life.",
       "Explore how artists from different countries worked together at courts, using only evidence students can support."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "silk",
+      "tall",
+      "robe",
+      "face",
+      "still"
+    ],
+    "g12": [
+      "formal",
+      "dignified",
+      "upright",
+      "royal",
+      "painted",
+      "important"
+    ],
+    "g35": [
+      "consort",
+      "portrait",
+      "court",
+      "rank",
+      "clothing",
+      "pose"
+    ],
+    "g68": [
+      "Qing dynasty",
+      "court painting",
+      "status",
+      "likeness",
+      "formal",
+      "hanging scroll"
+    ],
+    "g910": [
+      "dignity",
+      "hierarchy",
+      "idealization",
+      "cross-cultural",
+      "convention",
+      "authority"
+    ],
+    "g1112": [
+      "imperial court",
+      "expectation",
+      "background",
+      "East-West exchange",
+      "evidence",
+      "representation"
     ]
   }
 }

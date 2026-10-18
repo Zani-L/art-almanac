@@ -155,5 +155,55 @@
       "Ask students to list every color they can find in the water and compare lists in pairs.",
       "Compare with a calm seascape elsewhere in the archive and discuss how artists show weather."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wave",
+      "rocks",
+      "sea",
+      "white",
+      "gray",
+      "wet"
+    ],
+    "g12": [
+      "foamy",
+      "splashing",
+      "stormy",
+      "rough",
+      "cloudy",
+      "heavy"
+    ],
+    "g35": [
+      "foam",
+      "spray",
+      "shadow",
+      "mood",
+      "background",
+      "texture"
+    ],
+    "g68": [
+      "spray",
+      "foam",
+      "seascape",
+      "power",
+      "realism",
+      "brushwork"
+    ],
+    "g910": [
+      "tension",
+      "mass",
+      "scale",
+      "composition",
+      "indifference",
+      "physicality"
+    ],
+    "g1112": [
+      "grandeur",
+      "solitude",
+      "witness",
+      "human control",
+      "transience",
+      "American Realism"
+    ]
   }
 }

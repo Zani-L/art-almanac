@@ -155,5 +155,55 @@
       "Discuss the difference between a picture that is funny and a picture that teaches a lesson.",
       "Compare with a photograph of a modern family gathering."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "party",
+      "food",
+      "dog",
+      "kids",
+      "toys",
+      "music"
+    ],
+    "g12": [
+      "busy",
+      "cheerful",
+      "lively",
+      "crowded",
+      "noisy",
+      "playful"
+    ],
+    "g35": [
+      "pattern",
+      "background",
+      "detail",
+      "mood",
+      "foreground",
+      "story"
+    ],
+    "g68": [
+      "genre painting",
+      "gesture",
+      "story",
+      "details",
+      "gathering",
+      "terrace"
+    ],
+    "g910": [
+      "composition",
+      "narrative",
+      "comedy",
+      "disorder",
+      "moral lesson",
+      "everyday life"
+    ],
+    "g1112": [
+      "moral commentary",
+      "household",
+      "affectionate",
+      "satire",
+      "orchestration",
+      "Dutch Golden Age"
+    ]
   }
 }

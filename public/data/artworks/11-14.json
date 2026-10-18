@@ -155,5 +155,55 @@
       "Have students paint a quick 10-minute sky study with just three colors.",
       "Discuss how changing the size of the figures would change the meaning of the picture."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sky",
+      "beach",
+      "sand",
+      "sea",
+      "sun",
+      "clouds"
+    ],
+    "g12": [
+      "sunset",
+      "wide",
+      "glowing",
+      "flat",
+      "quiet",
+      "tiny"
+    ],
+    "g35": [
+      "beach",
+      "sunset",
+      "figures",
+      "horizon",
+      "small painting",
+      "wood"
+    ],
+    "g68": [
+      "atmosphere",
+      "scale",
+      "plein air",
+      "low horizon",
+      "weather",
+      "dominant sky"
+    ],
+    "g910": [
+      "impression",
+      "transience",
+      "sketch",
+      "time",
+      "facture",
+      "influence"
+    ],
+    "g1112": [
+      "atmospheric effects",
+      "low horizon",
+      "Impressionism",
+      "rapid facture",
+      "sketch finish",
+      "modest scale"
+    ]
   }
 }

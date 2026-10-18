@@ -155,5 +155,55 @@
       "Ask students to design a mark that could stand for a family farm or a classroom, then explain their choice of animal or shape.",
       "Discuss why museums display both an ancient object and a modern copy of its impression."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stone",
+      "goats",
+      "clay",
+      "tiny",
+      "two",
+      "walk"
+    ],
+    "g12": [
+      "carved",
+      "little",
+      "striding",
+      "rolled",
+      "repeated",
+      "pressed"
+    ],
+    "g35": [
+      "cylinder seal",
+      "Mesopotamia",
+      "impression",
+      "wet clay",
+      "carved",
+      "ownership"
+    ],
+    "g68": [
+      "Early Dynastic",
+      "serpentine",
+      "intaglio",
+      "frieze",
+      "pattern",
+      "repetition"
+    ],
+    "g910": [
+      "function",
+      "mirrored image",
+      "personal mark",
+      "continuous frieze",
+      "animal imagery",
+      "scale"
+    ],
+    "g1112": [
+      "institutional identity",
+      "survival",
+      "lost meaning",
+      "seal impression",
+      "decoration",
+      "ancient practice"
+    ]
   }
 }

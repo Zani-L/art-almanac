@@ -154,5 +154,55 @@
       "Ask older students to discuss how an object can be both useful and decorative, using this bell push as evidence.",
       "Discuss why the museum's list of materials matters and what questions it leaves open, such as which part is made of which material."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "turtle",
+      "shiny",
+      "small",
+      "gold",
+      "hard",
+      "gem"
+    ],
+    "g12": [
+      "sparkling",
+      "jewels",
+      "precious",
+      "tiny",
+      "stone",
+      "button"
+    ],
+    "g35": [
+      "agate",
+      "gems",
+      "craftsmanship",
+      "luxury",
+      "bell",
+      "delicate"
+    ],
+    "g68": [
+      "hardstone",
+      "decorative art",
+      "ornate",
+      "function",
+      "Fabergé",
+      "contrast"
+    ],
+    "g910": [
+      "opulence",
+      "precious materials",
+      "utilitarian object",
+      "aristocracy",
+      "virtuosity",
+      "novelty"
+    ],
+    "g1112": [
+      "conspicuous consumption",
+      "court culture",
+      "humble function",
+      "material value",
+      "imperial patronage",
+      "servant economy"
+    ]
   }
 }

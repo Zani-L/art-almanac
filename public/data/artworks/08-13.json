@@ -154,5 +154,55 @@
       "Ask older students to choose one object that hints at a person's future and explain how the artist uses it in a portrait.",
       "Compare this work with Homer's other pictures in the calendar and discuss how he treats the sea and people who live by it."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boy",
+      "anchor",
+      "sky",
+      "blue",
+      "big",
+      "paint"
+    ],
+    "g12": [
+      "speckled",
+      "grainy",
+      "thin",
+      "sandy",
+      "young",
+      "splotchy"
+    ],
+    "g35": [
+      "watercolor",
+      "anchor",
+      "layers",
+      "texture",
+      "fishing town",
+      "blotting"
+    ],
+    "g68": [
+      "Realism",
+      "wash",
+      "gouache",
+      "symbol",
+      "maritime",
+      "texture"
+    ],
+    "g910": [
+      "maritime economy",
+      "layered washes",
+      "childhood",
+      "suggestion",
+      "portrait",
+      "medium"
+    ],
+    "g1112": [
+      "social setting",
+      "serious medium",
+      "future at sea",
+      "childhood",
+      "evidence",
+      "subtle narrative"
+    ]
   }
 }

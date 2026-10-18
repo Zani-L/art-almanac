@@ -155,5 +155,55 @@
       "Ask students to describe the shape of the vase from three different angles and discuss how it changes.",
       "Discuss why a maker might put effort into the look of an everyday object."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "vase",
+      "white",
+      "round",
+      "shiny",
+      "leaf",
+      "clay"
+    ],
+    "g12": [
+      "layered",
+      "smooth",
+      "glazed",
+      "curved",
+      "bumpy",
+      "pointed"
+    ],
+    "g35": [
+      "artichoke",
+      "glaze",
+      "pottery",
+      "design",
+      "nature",
+      "layers"
+    ],
+    "g68": [
+      "art pottery",
+      "ornament",
+      "form",
+      "inspired",
+      "studio",
+      "function"
+    ],
+    "g910": [
+      "stylization",
+      "abstraction",
+      "craft",
+      "naturalism",
+      "modeling",
+      "decoration"
+    ],
+    "g1112": [
+      "Arts Crafts",
+      "art pottery",
+      "ornament",
+      "everyday objects",
+      "stylization",
+      "function"
+    ]
   }
 }

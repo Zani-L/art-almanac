@@ -8,11 +8,10 @@
   "movement": "Baroque",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-girl-with-a-pearl-earring.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/15397/johannes-vermeer-girl-with-a-pearl-earring-1665-obelisk-art-history.jpg",
     "credit": "Mauritshuis, The Hague; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/johannes-vermeer/girl-with-a-pearl-earring/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15397/johannes-vermeer-girl-with-a-pearl-earring-1665-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/johannes-vermeer/girl-with-a-pearl-earring/"
   },
   "altText": "A young person against a plain dark background, turned over one shoulder to look toward the viewer. They wear a blue and yellow head wrap and a large pearl earring that glows in the light.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students photograph or sketch a partner looking over a shoulder against a plain dark sheet and discuss what the background changes.",
       "Ask students to write what the girl might be about to say, then discuss why the picture does not decide for us.",
       "Compare a tronie with a commissioned portrait and discuss how purpose changes the picture."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "pearl",
+      "blue",
+      "yellow",
+      "dark",
+      "face"
+    ],
+    "g12": [
+      "glowing",
+      "turned",
+      "shiny",
+      "gazing",
+      "plain",
+      "bright"
+    ],
+    "g35": [
+      "tronie",
+      "pearl",
+      "soft light",
+      "dark background",
+      "glance",
+      "expression"
+    ],
+    "g68": [
+      "Baroque",
+      "highlight",
+      "contrast",
+      "restrained palette",
+      "portrait",
+      "modeling"
+    ],
+    "g910": [
+      "character study",
+      "ambiguity",
+      "immediacy",
+      "chiaroscuro",
+      "identity",
+      "construction"
+    ],
+    "g1112": [
+      "tronie",
+      "intention",
+      "constructed image",
+      "narrative absence",
+      "identity debate",
+      "restrained palette"
     ]
   }
 }

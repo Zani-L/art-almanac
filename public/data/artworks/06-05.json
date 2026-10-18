@@ -155,5 +155,55 @@
       "Ask students to describe the feeling of the landscape using three words and point to the visual evidence.",
       "Compare this print with a realistic landscape painting and discuss what each emphasizes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sand",
+      "bay",
+      "curve",
+      "print",
+      "wood",
+      "lines"
+    ],
+    "g12": [
+      "carved",
+      "bold",
+      "simple",
+      "beach",
+      "block",
+      "shapes"
+    ],
+    "g35": [
+      "woodcut",
+      "printmaking",
+      "dunes",
+      "simplified shapes",
+      "contrast",
+      "carved lines"
+    ],
+    "g68": [
+      "bold lines",
+      "light and dark",
+      "rhythm",
+      "flat shapes",
+      "black and white",
+      "rough"
+    ],
+    "g910": [
+      "Expressionism",
+      "rawness",
+      "bold line",
+      "landscape",
+      "medium",
+      "simplification"
+    ],
+    "g1112": [
+      "German Expressionism",
+      "directness",
+      "emotional expression",
+      "seascape",
+      "polish",
+      "compression"
+    ]
   }
 }

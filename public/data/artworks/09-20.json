@@ -154,5 +154,55 @@
       "Have students compare this music scene with another gathering scene in the archive.",
       "Invite students to listen to a short recording of an instrument and match it to a shape in the painting."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "river",
+      "music",
+      "sit",
+      "gold",
+      "men",
+      "paper"
+    ],
+    "g12": [
+      "musicians",
+      "terrace",
+      "peaceful",
+      "together",
+      "instruments",
+      "golden"
+    ],
+    "g35": [
+      "musicians",
+      "instruments",
+      "terrace",
+      "gold",
+      "river",
+      "together"
+    ],
+    "g68": [
+      "opaque color",
+      "courtly",
+      "leisure",
+      "layered space",
+      "arrangement",
+      "tradition"
+    ],
+    "g910": [
+      "patronage",
+      "cultivated pleasure",
+      "album painting",
+      "contour",
+      "idealized",
+      "workshop"
+    ],
+    "g1112": [
+      "courtly refinement",
+      "collecting practice",
+      "attribution",
+      "ideal of leisure",
+      "evidence limits",
+      "decorative composition"
+    ]
   }
 }

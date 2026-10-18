@@ -8,11 +8,10 @@
   "movement": "Polish history painting (Romanticism)",
   "region": "Poland",
   "image": {
-    "url": "/images/ahp-stanczyk.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37155/jan-matejko-stanczyk-1862-obelisk-art-history.jpg",
     "credit": "National Museum, Warsaw; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/jan-matejko/stanczyk/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37155/jan-matejko-stanczyk-1862-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/jan-matejko/stanczyk/"
   },
   "altText": "A man in a jester's costume sits apart from a lively party in a grand room, looking serious and thoughtful. In the background, other people dance and celebrate.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to write the thoughts Stanczyk might have, using clues from the picture.",
       "Discuss the difference between telling jokes and noticing what is going on around you.",
       "Compare how a painter and a photographer might show a person who feels apart from a crowd."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "clown",
+      "hat",
+      "party",
+      "sad",
+      "alone",
+      "room"
+    ],
+    "g12": [
+      "thoughtful",
+      "serious",
+      "lonely",
+      "lively",
+      "costume",
+      "grand"
+    ],
+    "g35": [
+      "jester",
+      "court",
+      "costume",
+      "celebration",
+      "contrast",
+      "thoughtful"
+    ],
+    "g68": [
+      "foreground",
+      "background",
+      "history painting",
+      "solitary",
+      "Romantic",
+      "contrast"
+    ],
+    "g910": [
+      "awareness",
+      "duty",
+      "isolation",
+      "irony",
+      "spatial arrangement",
+      "burden"
+    ],
+    "g1112": [
+      "national memory",
+      "insight",
+      "solitary jester",
+      "festive backdrop",
+      "spatial contrast",
+      "multiple readings"
     ]
   }
 }

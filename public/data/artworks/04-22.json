@@ -8,11 +8,10 @@
   "movement": "Art Nouveau and Symbolism",
   "region": "Austria",
   "image": {
-    "url": "/images/ahp-the-kiss.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/9101/gustav_klimt_-_the_kiss_1907-1908_180x180cm_austrian_gallery_belvedere_small.jpg",
     "credit": "Belvedere Palace and Museum, Vienna; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/gustav-klimt/the-kiss/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/9101/gustav_klimt_-_the_kiss_1907-1908_180x180cm_austrian_gallery_belvedere_small.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/gustav-klimt/the-kiss/"
   },
   "altText": "Two figures in long, richly patterned golden robes embrace and lean together, their heads close. They kneel on a patch of flowers against a shimmering gold background, and the robes are covered in rectangles, circles and spirals.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students design a patterned robe using only three shape families and explain what each shape could stand for.",
       "Ask students to compare the detail in the faces with the detail in the robes and discuss why artists choose where to focus.",
       "Explore how artists across cultures have used gold in artworks and what it might signal."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "flowers",
+      "square",
+      "circle",
+      "two",
+      "robe"
+    ],
+    "g12": [
+      "golden",
+      "shimmering",
+      "patterned",
+      "swirling",
+      "sparkling",
+      "decorated"
+    ],
+    "g35": [
+      "gold leaf",
+      "spiral",
+      "pattern",
+      "embrace",
+      "special",
+      "blend"
+    ],
+    "g68": [
+      "ornament",
+      "silhouette",
+      "flat",
+      "Art Nouveau",
+      "decorative",
+      "symbol"
+    ],
+    "g910": [
+      "Symbolism",
+      "union",
+      "intimacy",
+      "flatness",
+      "surface",
+      "Vienna"
+    ],
+    "g1112": [
+      "individuality",
+      "competing views",
+      "decoration",
+      "fusion",
+      "values",
+      "Symbolist"
     ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask students to try drawing the same subject on white and on colored paper and describe the difference.",
       "Discuss why artists make small prints as well as large paintings."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cat",
+      "fur",
+      "blue",
+      "pet",
+      "lines",
+      "paper"
+    ],
+    "g12": [
+      "furry",
+      "sketchy",
+      "tiny",
+      "pale",
+      "curled",
+      "printed"
+    ],
+    "g35": [
+      "etching",
+      "ink",
+      "metal plate",
+      "print",
+      "body shape",
+      "blue paper"
+    ],
+    "g68": [
+      "contour",
+      "line quality",
+      "state",
+      "printmaking",
+      "observation",
+      "sketchlike"
+    ],
+    "g910": [
+      "spontaneity",
+      "economy",
+      "medium",
+      "fashionable subject",
+      "single state",
+      "narrative"
+    ],
+    "g1112": [
+      "printmaking",
+      "social circle",
+      "intention",
+      "economy",
+      "medium",
+      "observation"
+    ]
   }
 }

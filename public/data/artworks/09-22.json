@@ -155,5 +155,55 @@
       "Design a simple formal garden plan on grid paper using symmetry.",
       "Discuss whether a very detailed picture is the same as a true picture."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "house",
+      "garden",
+      "path",
+      "plants",
+      "tiny",
+      "neat"
+    ],
+    "g12": [
+      "formal",
+      "windows",
+      "neat",
+      "tidy",
+      "detailed",
+      "large"
+    ],
+    "g35": [
+      "formal garden",
+      "pattern",
+      "windows",
+      "detail",
+      "paths",
+      "neat"
+    ],
+    "g68": [
+      "symmetry",
+      "perspective",
+      "architecture",
+      "precision",
+      "harmony",
+      "panel"
+    ],
+    "g910": [
+      "idealization",
+      "order",
+      "meticulous finish",
+      "near-documentary",
+      "viewpoint",
+      "princely estate"
+    ],
+    "g1112": [
+      "cultural ideal",
+      "nature ordered",
+      "accuracy versus idealization",
+      "Dutch Golden Age",
+      "point of view",
+      "composed effect"
+    ]
   }
 }

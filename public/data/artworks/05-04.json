@@ -155,5 +155,55 @@
       "Ask students to compare a photograph of a real mountain with this painting and discuss what a composite can do that a photo cannot.",
       "Discuss who lived in the Andes region and whose voices the painting does not include."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "falls",
+      "snow",
+      "big",
+      "river",
+      "hill"
+    ],
+    "g12": [
+      "tropical",
+      "glowing",
+      "huge",
+      "lush",
+      "distant",
+      "towering"
+    ],
+    "g35": [
+      "waterfall",
+      "valley",
+      "snowy",
+      "foreground",
+      "detail",
+      "mountains"
+    ],
+    "g68": [
+      "depth",
+      "sublime",
+      "composite",
+      "botanical",
+      "scale",
+      "Romantic landscape"
+    ],
+    "g910": [
+      "spectacle",
+      "precision",
+      "natural science",
+      "theatrical",
+      "exhibition",
+      "Humboldt"
+    ],
+    "g1112": [
+      "empiricism",
+      "spectacle",
+      "nature",
+      "distance",
+      "exhibition",
+      "composite"
+    ]
   }
 }

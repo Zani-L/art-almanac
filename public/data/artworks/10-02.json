@@ -155,5 +155,55 @@
       "Ask students to compare the stillness of this painting with a photograph of a circus and discuss what each shows.",
       "Discuss why an artist might choose the free show outside the circus rather than the main performance."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dots",
+      "night",
+      "crowd",
+      "stage",
+      "glow",
+      "small"
+    ],
+    "g12": [
+      "musicians",
+      "lamplight",
+      "dotted",
+      "circus",
+      "still",
+      "evening"
+    ],
+    "g35": [
+      "dots",
+      "Pointillism",
+      "glow",
+      "musicians",
+      "crowd",
+      "evening"
+    ],
+    "g68": [
+      "Pointillism",
+      "silhouette",
+      "complementary colors",
+      "composition",
+      "entertainment",
+      "blending"
+    ],
+    "g910": [
+      "optical mixing",
+      "color theory",
+      "methodical",
+      "modern life",
+      "stillness",
+      "urban leisure"
+    ],
+    "g1112": [
+      "popular spectacle",
+      "scientific technique",
+      "urban leisure",
+      "simplified figures",
+      "Neo-Impressionism",
+      "detached observation"
+    ]
   }
 }

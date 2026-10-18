@@ -155,5 +155,55 @@
       "Discuss what a painting can show about farm work and what it can leave out.",
       "Connect to the history of dairy farming in the Netherlands."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cow",
+      "sun",
+      "field",
+      "sky",
+      "boy",
+      "gold"
+    ],
+    "g12": [
+      "golden",
+      "glowing",
+      "wide",
+      "warm",
+      "grassy",
+      "peaceful"
+    ],
+    "g35": [
+      "light",
+      "herder",
+      "horizon",
+      "evening light",
+      "countryside",
+      "shadow"
+    ],
+    "g68": [
+      "pastoral",
+      "atmosphere",
+      "foreground",
+      "idealized",
+      "diffused light",
+      "landscape"
+    ],
+    "g910": [
+      "luminous",
+      "rural life",
+      "collectors",
+      "scale",
+      "urban buyers",
+      "vision"
+    ],
+    "g1112": [
+      "omission",
+      "hard work",
+      "construction",
+      "mature work",
+      "warm light",
+      "idealization"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Baroque",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-the-art-of-painting.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/15357/johannes-vermeer-the-art-of-painting-1668-trivium-art-history.jpg",
     "credit": "Kunsthistorisches Museum, Vienna; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/johannes-vermeer/the-art-of-painting/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15357/johannes-vermeer-the-art-of-painting-1668-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/johannes-vermeer/the-art-of-painting/"
   },
   "altText": "A painter seen from behind sits at an easel in a bright room, facing a young woman model; a large curtain hangs at the side, a map covers the back wall and a checkered floor spreads across the room.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a corner of their classroom using a tiled-floor perspective grid, then compare how lines create depth.",
       "Ask students to list what the objects in the room might say about the painter and what they cannot say.",
       "Discuss why an artist might paint the act of painting."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "painter",
+      "curtain",
+      "map",
+      "floor",
+      "easel",
+      "room"
+    ],
+    "g12": [
+      "checkered",
+      "bright",
+      "heavy",
+      "quiet",
+      "model",
+      "busy"
+    ],
+    "g35": [
+      "studio",
+      "model",
+      "easel",
+      "invitation",
+      "checkered floor",
+      "objects"
+    ],
+    "g68": [
+      "interior",
+      "perspective",
+      "symbolism",
+      "costume",
+      "viewer",
+      "composition"
+    ],
+    "g910": [
+      "witness",
+      "self-reflection",
+      "meta-painting",
+      "illusion",
+      "narrative",
+      "depth"
+    ],
+    "g1112": [
+      "viewer witness",
+      "symbolic debate",
+      "quiet scene",
+      "self-reflection",
+      "supporting evidence",
+      "reading"
     ]
   }
 }

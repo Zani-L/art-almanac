@@ -154,5 +154,55 @@
       "Have students sketch a person doing a quiet task using only quick, loose strokes.",
       "Compare this painting with a formal portrait from the archive and discuss how brushwork changes the feeling."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "writing",
+      "room",
+      "bed",
+      "soft",
+      "quick"
+    ],
+    "g12": [
+      "bedroom",
+      "loose",
+      "fast",
+      "paint",
+      "quiet",
+      "busy"
+    ],
+    "g35": [
+      "brushwork",
+      "portrait",
+      "informal",
+      "clues",
+      "soft light",
+      "priest"
+    ],
+    "g68": [
+      "relaxed",
+      "energy",
+      "casual",
+      "sketchy",
+      "light",
+      "moment"
+    ],
+    "g910": [
+      "gestural",
+      "spontaneity",
+      "sketch quality",
+      "tone",
+      "concentration",
+      "composition"
+    ],
+    "g1112": [
+      "painterly freedom",
+      "unfinished look",
+      "society portraiture",
+      "encounter",
+      "loose handling",
+      "sitter"
+    ]
   }
 }

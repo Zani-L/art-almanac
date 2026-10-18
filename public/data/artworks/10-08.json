@@ -8,11 +8,10 @@
   "movement": "Vedutismo (Italian view painting)",
   "region": "Italy",
   "image": {
-    "url": "/images/ahp-the-piazza-san-marco-in-venice.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/27721/canaletto-the-piazza-san-marco-in-venice-1724-obelisk-art-history.jpg",
     "credit": "Thyssen-Bornemisza Museum, Spain; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/canaletto/the-piazza-san-marco-in-venice/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/27721/canaletto-the-piazza-san-marco-in-venice-1724-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/canaletto/the-piazza-san-marco-in-venice/"
   },
   "altText": "A wide city square in Venice seen from one end, lined with long arcaded buildings and crowded with many tiny people. A tall bell tower and a grand church rise at the far side under a pale sky.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a street or yard seen from one end, using lines that meet in the distance, and compare how perspective creates depth.",
       "Ask students to count and describe the groups of people in the square and imagine what each group is doing.",
       "Discuss how a city view can serve as a memory, a souvenir or a document."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "people",
+      "tall",
+      "big",
+      "tiny",
+      "town",
+      "sky"
+    ],
+    "g12": [
+      "crowded",
+      "wide",
+      "busy",
+      "pale",
+      "huge",
+      "faraway"
+    ],
+    "g35": [
+      "square",
+      "arcade",
+      "bell tower",
+      "detail",
+      "city",
+      "distance"
+    ],
+    "g68": [
+      "perspective",
+      "scale",
+      "architecture",
+      "realistic",
+      "accurate",
+      "viewpoint"
+    ],
+    "g910": [
+      "topography",
+      "monumentality",
+      "rhythm",
+      "staffage",
+      "vanishing point",
+      "documentation"
+    ],
+    "g1112": [
+      "vedutismo",
+      "pictorial order",
+      "Grand Tour",
+      "collecting culture",
+      "topographical accuracy",
+      "staffage"
     ]
   }
 }

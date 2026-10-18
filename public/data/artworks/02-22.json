@@ -156,5 +156,55 @@
       "Have students find the tiny painter and discuss why an artist might include himself in a landscape.",
       "Discuss whose perspectives landscape paintings of this period may leave out, such as the Native peoples who lived in the region."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hill",
+      "storm",
+      "river",
+      "farm",
+      "green",
+      "dark"
+    ],
+    "g12": [
+      "wild",
+      "sunny",
+      "curving",
+      "distant",
+      "cloudy",
+      "wide"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "mood",
+      "contrast",
+      "distance",
+      "tiny"
+    ],
+    "g68": [
+      "oxbow",
+      "foreground",
+      "contrast",
+      "wilderness",
+      "viewpoint",
+      "weather"
+    ],
+    "g910": [
+      "pastoral",
+      "drama",
+      "juxtaposition",
+      "vantage point",
+      "Hudson River School",
+      "symbolism"
+    ],
+    "g1112": [
+      "elegy",
+      "settlement",
+      "nationalism",
+      "sublime",
+      "observation",
+      "ideal"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Romanticism",
   "region": "England",
   "image": {
-    "url": "/images/ahp-the-fighting-temeraire.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11518/joseph_mallord_william_turner-the_fighting_temeraire-1839-obelisk-art-history.jpg",
     "credit": "National Gallery, London; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-mallord-william-turner/the-fighting-temeraire/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11518/joseph_mallord_william_turner-the_fighting_temeraire-1839-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-mallord-william-turner/the-fighting-temeraire/"
   },
   "altText": "A tall, pale sailing warship is towed along a river by a small dark steam tug at sunset. The sky blazes with orange, gold and soft blue, reflected in the calm water.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a sunset using only warm colors for the sky and one dark shape against it.",
       "Ask students to discuss what 'old and new' might mean in the picture and to cite evidence.",
       "Compare the idea of 'fighting' in the title with what is actually shown, and discuss how a title shapes expectations."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "ship",
+      "sunset",
+      "orange",
+      "river",
+      "water",
+      "boat"
+    ],
+    "g12": [
+      "glowing",
+      "golden",
+      "misty",
+      "calm",
+      "tiny",
+      "pale"
+    ],
+    "g35": [
+      "tugboat",
+      "sunset",
+      "glowing sky",
+      "reflection",
+      "old ship",
+      "mood"
+    ],
+    "g68": [
+      "Romanticism",
+      "atmosphere",
+      "silhouette",
+      "color temperature",
+      "horizon",
+      "contrast"
+    ],
+    "g910": [
+      "elegy",
+      "past",
+      "ghostly",
+      "emotional commentary",
+      "steam age",
+      "light"
+    ],
+    "g1112": [
+      "sailing era",
+      "historical commentary",
+      "Romantic landscape",
+      "nostalgia",
+      "single interpretation",
+      "symbolism"
     ]
   }
 }

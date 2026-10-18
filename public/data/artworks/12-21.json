@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "Canada",
   "image": {
-    "url": "/images/ahp-totem-poles-kitseukla.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/13078/emily-carr-totem-poles-kitseukla-1912-trivium-art-history.jpg",
     "credit": "Vancouver Art Gallery, Canada; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/emily-carr/totem-poles-kitseukla/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/13078/emily-carr-totem-poles-kitseukla-1912-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/emily-carr/totem-poles-kitseukla/"
   },
   "altText": "Tall carved poles stand upright in an outdoor setting, painted with strong colors and simplified, rounded shapes. Trees and sky surround them, and the brushwork is loose and energetic.",
   "source": {
@@ -154,6 +153,56 @@
       "Invite students to design a tall banner that tells a story about their own family or community using simple shapes, and share what the symbols mean to them.",
       "Have students look for materials made by the relevant Indigenous community or by Indigenous museums to learn how the community describes these poles.",
       "Discuss what it means to depict something that belongs to another culture respectfully, and what an artist might do first."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "pole",
+      "tall",
+      "tree",
+      "sky",
+      "green",
+      "carved"
+    ],
+    "g12": [
+      "upright",
+      "strong",
+      "rounded",
+      "outdoors",
+      "loose",
+      "powerful"
+    ],
+    "g35": [
+      "totem poles",
+      "carved",
+      "vertical",
+      "Northwest Coast",
+      "brushwork",
+      "British Columbia"
+    ],
+    "g68": [
+      "monumental",
+      "simplified",
+      "presence",
+      "Post-Impressionism",
+      "Indigenous",
+      "form"
+    ],
+    "g910": [
+      "verticality",
+      "scale",
+      "bold color",
+      "simplification",
+      "power",
+      "rhythm"
+    ],
+    "g1112": [
+      "representation",
+      "outsider",
+      "critique",
+      "community",
+      "cultural works",
+      "achievement"
     ]
   }
 }

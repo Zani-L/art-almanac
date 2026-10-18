@@ -156,5 +156,55 @@
       "Ask students to draw a close-up of someone absorbed in a small activity, using fine line and flat color.",
       "Discuss whether a single gesture can reveal character, using this print and another portrait in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "toy",
+      "glass",
+      "face",
+      "lips",
+      "robe"
+    ],
+    "g12": [
+      "blowing",
+      "patterned",
+      "popping",
+      "close",
+      "curved",
+      "fashionable"
+    ],
+    "g35": [
+      "pattern",
+      "outline",
+      "detail",
+      "background",
+      "mood",
+      "design"
+    ],
+    "g68": [
+      "woodblock",
+      "ukiyo-e",
+      "series",
+      "expression",
+      "gesture",
+      "pattern"
+    ],
+    "g910": [
+      "physiognomy",
+      "contour",
+      "line",
+      "close-up",
+      "type",
+      "composition"
+    ],
+    "g1112": [
+      "idealization",
+      "Edo market",
+      "convention",
+      "individual",
+      "caution",
+      "classification"
+    ]
   }
 }

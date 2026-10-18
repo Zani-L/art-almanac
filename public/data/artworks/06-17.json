@@ -155,5 +155,55 @@
       "Have students design a sleeve or badge with one word that represents a value, as in the embroidered 'lealta'.",
       "Discuss how people today mark milestones with images and what those images say about status."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dress",
+      "window",
+      "woman",
+      "man",
+      "room",
+      "jewels"
+    ],
+    "g12": [
+      "profile",
+      "fancy",
+      "fur",
+      "elegant",
+      "embroidered",
+      "inside"
+    ],
+    "g35": [
+      "double portrait",
+      "profile",
+      "casement",
+      "embroidery",
+      "status",
+      "landscape view"
+    ],
+    "g68": [
+      "jewelry",
+      "clothing",
+      "detail",
+      "balance",
+      "indoors",
+      "outdoors"
+    ],
+    "g910": [
+      "tempera",
+      "fidelity",
+      "patron",
+      "threshold",
+      "marriage",
+      "symbolism"
+    ],
+    "g1112": [
+      "embroidered motto",
+      "trophy",
+      "status",
+      "identification",
+      "innovation",
+      "domestic setting"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Natural history illustration",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-snowy-owl.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/18443/john-james-audubon-snowy-owl-1838-obelisk-art-history.jpg",
     "credit": "Watkinson Library, Trinity College, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/john-james-audubon/snowy-owl/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/18443/john-james-audubon-snowy-owl-1838-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/john-james-audubon/snowy-owl/"
   },
   "altText": "A large white owl with dark flecks and bars across its feathers perches with its round head turned toward the viewer. Its eyes are bright and its feet are covered in thick feathers.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a feather using only short lines and dots, then compare how mark direction changes the look of softness.",
       "Ask students to describe the owl's gaze in three different ways and discuss what in the print supports each reading.",
       "Discuss how an illustrator decides what to include and leave out when drawing an animal for science."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "owl",
+      "white",
+      "eyes",
+      "round",
+      "feathers",
+      "bird"
+    ],
+    "g12": [
+      "fluffy",
+      "staring",
+      "perched",
+      "speckled",
+      "fierce",
+      "watching"
+    ],
+    "g35": [
+      "engraving",
+      "feathers",
+      "overlap",
+      "careful study",
+      "scientist",
+      "marks"
+    ],
+    "g68": [
+      "plumage",
+      "natural history",
+      "contrast",
+      "print",
+      "accuracy",
+      "texture"
+    ],
+    "g910": [
+      "scientific illustration",
+      "direct gaze",
+      "pictorial design",
+      "observation",
+      "authority",
+      "pose"
+    ],
+    "g1112": [
+      "evidence",
+      "crafted appearance",
+      "critical discussion",
+      "representation",
+      "engraving technique",
+      "natural history"
     ]
   }
 }

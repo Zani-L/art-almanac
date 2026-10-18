@@ -155,5 +155,55 @@
       "Ask students to write a short poem of two or three lines that the scholar might have thought of at this spot.",
       "Compare with a Western landscape painting that fills the whole canvas, and discuss what each choice emphasizes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "water",
+      "rocks",
+      "trees",
+      "silk",
+      "mist"
+    ],
+    "g12": [
+      "misty",
+      "quiet",
+      "tiny",
+      "falling",
+      "open",
+      "peaceful"
+    ],
+    "g35": [
+      "album leaf",
+      "scholar",
+      "waterfall",
+      "silk",
+      "open space",
+      "small figure"
+    ],
+    "g68": [
+      "Song dynasty",
+      "composition",
+      "negative space",
+      "asymmetry",
+      "ink",
+      "harmony"
+    ],
+    "g910": [
+      "contemplation",
+      "nature's scale",
+      "courtly taste",
+      "refined poetry",
+      "human figure",
+      "atmosphere"
+    ],
+    "g1112": [
+      "Daoist ideas",
+      "Chan-inflected",
+      "cultivated leisure",
+      "close looking",
+      "tradition",
+      "labels"
+    ]
   }
 }

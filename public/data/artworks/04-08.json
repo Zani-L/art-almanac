@@ -154,5 +154,55 @@
       "Ask students to discuss why an artist and buyers in 1753 might value careful nature observation.",
       "Compare this quiet animal scene with a busier landscape in the archive and talk about how mood changes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "duck",
+      "sun",
+      "rest",
+      "feathers",
+      "warm",
+      "pond"
+    ],
+    "g12": [
+      "glowing",
+      "calm",
+      "fluffy",
+      "sunny",
+      "group",
+      "relaxed"
+    ],
+    "g35": [
+      "sunlight",
+      "shadow",
+      "plumage",
+      "outdoors",
+      "comfortable",
+      "glow"
+    ],
+    "g68": [
+      "naturalism",
+      "overlap",
+      "chiaroscuro",
+      "value",
+      "composition",
+      "animal subject"
+    ],
+    "g910": [
+      "texture",
+      "elegance",
+      "rest",
+      "patron",
+      "decorative",
+      "observation"
+    ],
+    "g1112": [
+      "genre hierarchy",
+      "craft",
+      "attention",
+      "naturalism",
+      "patronage",
+      "tapestry design"
+    ]
   }
 }

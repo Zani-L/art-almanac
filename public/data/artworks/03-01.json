@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-impression-sunrise.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/9237/claude-monet-impression-sunrise-1872-obelisk-art-history.jpg",
     "credit": "Musée Marmottan Monet, Paris; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/9237/claude-monet-impression-sunrise-1872-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/"
   },
   "altText": "A hazy harbor scene at dawn with a small bright orange sun low in a grey-blue sky. Its orange light shimmers in short strokes on the water, where a few dark boats float and distant shapes fade into the mist.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a quick 5-minute sunrise or sunset with only three colors and compare how much detail they included.",
       "Ask students to cover the orange with a finger and describe how the mood changes.",
       "Discuss why a quick sketch-like painting can still be a finished artwork."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sun",
+      "boats",
+      "orange",
+      "water",
+      "gray",
+      "blue"
+    ],
+    "g12": [
+      "hazy",
+      "misty",
+      "glowing",
+      "shimmering",
+      "dawn",
+      "harbor"
+    ],
+    "g35": [
+      "background",
+      "mood",
+      "shimmer",
+      "mist",
+      "foreground",
+      "detail"
+    ],
+    "g68": [
+      "reflection",
+      "brushstroke",
+      "mist",
+      "warm and cool",
+      "atmosphere",
+      "sunrise"
+    ],
+    "g910": [
+      "impression",
+      "light",
+      "transience",
+      "hue",
+      "sketch-like",
+      "Impressionism"
+    ],
+    "g1112": [
+      "finish",
+      "sensation",
+      "movement",
+      "outline",
+      "perception",
+      "durability"
     ]
   }
 }

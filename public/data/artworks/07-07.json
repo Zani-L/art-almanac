@@ -8,11 +8,10 @@
   "movement": "Qing dynasty devotional portrait",
   "region": "China",
   "image": {
-    "url": "/images/ahp-emperor-guan.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16063/qing-dynasty-emperor-guan-1700-obelisk-art-history.jpg",
     "credit": "Metropolitan Museum of Art, New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/timeline/age-of-discovery/qing-dynasty/emperor-guan/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16063/qing-dynasty-emperor-guan-1700-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/timeline/age-of-discovery/qing-dynasty/emperor-guan/"
   },
   "altText": "A portrait of a figure shown as an emperor, with clouds around him, made with ink and gold leaf on silk. The image is a vivid, otherworldly portrait.",
   "source": {
@@ -154,6 +153,56 @@
       "Have younger students find the clouds and the shiny parts and describe how the artist makes the figure look special.",
       "Ask students to design a portrait of someone they honor, using a shiny material or color to make the person stand out, and explain their choices.",
       "Invite older students to discuss how portraits of historical figures can carry political and religious meanings, using the page's note about Manchu shrines."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "clouds",
+      "gold",
+      "silk",
+      "face",
+      "hat"
+    ],
+    "g12": [
+      "golden",
+      "floating",
+      "cloudy",
+      "robe",
+      "magical",
+      "shiny"
+    ],
+    "g35": [
+      "clouds",
+      "portrait",
+      "gold leaf",
+      "emperor",
+      "silk",
+      "heaven"
+    ],
+    "g68": [
+      "venerate",
+      "dynasty",
+      "devotional",
+      "symbolic",
+      "courage",
+      "hierarchy"
+    ],
+    "g910": [
+      "devotion",
+      "imperial authority",
+      "pose",
+      "reverence",
+      "Qing dynasty",
+      "iconography"
+    ],
+    "g1112": [
+      "political meaning",
+      "syncretism",
+      "patronage",
+      "Manchu rulers",
+      "anonymity",
+      "visual evidence"
     ]
   }
 }

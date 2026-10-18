@@ -155,5 +155,55 @@
       "Ask students to compare this ideal outdoor gathering with a real photograph of a concert in the park.",
       "Discuss who would have paid for a painting like this and what it shows about their world."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "music",
+      "children",
+      "trees",
+      "play",
+      "soft",
+      "happy"
+    ],
+    "g12": [
+      "dreamy",
+      "leafy",
+      "musical",
+      "pleasant",
+      "sunny",
+      "friendly"
+    ],
+    "g35": [
+      "countryside",
+      "musicians",
+      "instruments",
+      "outdoors",
+      "afternoon",
+      "listening"
+    ],
+    "g68": [
+      "Rococo",
+      "idealized",
+      "atmosphere",
+      "leisure",
+      "fête galante",
+      "composition"
+    ],
+    "g910": [
+      "lightness",
+      "inequality",
+      "evasion",
+      "audience",
+      "idealization",
+      "harmony"
+    ],
+    "g1112": [
+      "fête galante",
+      "social reality",
+      "Rococo lightness",
+      "evasive charm",
+      "prosperous audience",
+      "idealization"
+    ]
   }
 }

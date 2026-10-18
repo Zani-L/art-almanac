@@ -154,5 +154,55 @@
       "Ask students to point out where the artist used the paper color as part of the picture.",
       "Discuss whether it matters if a landscape is real or imagined, using evidence from the drawing."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "hill",
+      "rock",
+      "house",
+      "small",
+      "gray",
+      "blue"
+    ],
+    "g12": [
+      "rocky",
+      "soft",
+      "tiny",
+      "smudgy",
+      "chalky",
+      "distant"
+    ],
+    "g35": [
+      "chalk",
+      "stumping",
+      "mountains",
+      "white",
+      "buildings",
+      "light"
+    ],
+    "g68": [
+      "toned paper",
+      "value",
+      "atmosphere",
+      "scale",
+      "mass",
+      "contrast"
+    ],
+    "g910": [
+      "exploration",
+      "invention",
+      "economy",
+      "landscape status",
+      "unfinished",
+      "narrative"
+    ],
+    "g1112": [
+      "private exploration",
+      "toned ground",
+      "invention",
+      "interpretation",
+      "portraiture",
+      "suggestion"
+    ]
   }
 }

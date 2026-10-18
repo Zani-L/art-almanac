@@ -153,5 +153,55 @@
       "Ask students to compare how clear and how misty parts of the picture make them feel.",
       "Discuss how travel affects what artists paint and how outsiders see places."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lake",
+      "boats",
+      "sky",
+      "water",
+      "hills",
+      "mist"
+    ],
+    "g12": [
+      "misty",
+      "glowing",
+      "soft",
+      "blended",
+      "mountains",
+      "airy"
+    ],
+    "g35": [
+      "watercolor",
+      "bodycolor",
+      "mist",
+      "glow",
+      "atmosphere",
+      "distance"
+    ],
+    "g68": [
+      "shimmer",
+      "blurred",
+      "soft edges",
+      "depth",
+      "translucent",
+      "horizon"
+    ],
+    "g910": [
+      "wash",
+      "aerial perspective",
+      "reductive technique",
+      "luminosity",
+      "mood",
+      "scale"
+    ],
+    "g1112": [
+      "transparency",
+      "experiment",
+      "unfinished",
+      "late style",
+      "light as subject",
+      "place and mood"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to decide whether the arrangement looks real or staged and defend their view with details.",
       "Discuss what treats from home would show about their own culture if painted as a still life."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "nuts",
+      "glass",
+      "box",
+      "table",
+      "bottle",
+      "sweet"
+    ],
+    "g12": [
+      "delicate",
+      "wooden",
+      "dark",
+      "tasty",
+      "shiny",
+      "smooth"
+    ],
+    "g35": [
+      "walnuts",
+      "texture",
+      "arranged",
+      "honey",
+      "treats",
+      "still life"
+    ],
+    "g68": [
+      "contrast",
+      "highlight",
+      "composition",
+      "Baroque",
+      "staged",
+      "shape"
+    ],
+    "g910": [
+      "display",
+      "skill",
+      "desire",
+      "symbolism",
+      "surface",
+      "staging"
+    ],
+    "g1112": [
+      "desire",
+      "changing views",
+      "virtuosity",
+      "court painting",
+      "materiality",
+      "artifice"
+    ]
   }
 }

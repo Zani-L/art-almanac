@@ -154,5 +154,55 @@
       "Ask students to compare this print with Wooded Landscape at L'Hermitage (the other Pissarro print in the archive).",
       "Discuss everyday routines that rarely appear in art."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "well",
+      "water",
+      "lines",
+      "gray",
+      "dark"
+    ],
+    "g12": [
+      "country",
+      "fine",
+      "thin",
+      "soft",
+      "rural",
+      "shaded"
+    ],
+    "g35": [
+      "etching",
+      "aquatint",
+      "well",
+      "rural",
+      "lines",
+      "country life"
+    ],
+    "g68": [
+      "tone",
+      "state",
+      "composition",
+      "contrast",
+      "plate",
+      "labor"
+    ],
+    "g910": [
+      "hatching",
+      "contrast",
+      "texture",
+      "labor",
+      "tonal range",
+      "rural life"
+    ],
+    "g1112": [
+      "narrative",
+      "mood",
+      "linear structure",
+      "atmospheric tone",
+      "community",
+      "rural work"
+    ]
   }
 }

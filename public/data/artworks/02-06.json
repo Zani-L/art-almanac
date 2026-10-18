@@ -8,11 +8,10 @@
   "movement": "Symbolism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-cube.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/15625/odilon_redon-the_cube-1880-trivium-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/odilon-redon/the-cube/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15625/odilon_redon-the_cube-1880-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/odilon-redon/the-cube/"
   },
   "altText": "A dark charcoal drawing built around a cube-like form, with soft, smoky shading and deep shadows that make the shape seem to emerge from the darkness.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a simple object in charcoal or soft pencil, then smudge the background to place it in the dark, and compare moods.",
       "Ask students to write three different titles for the drawing and discuss how each changes what they notice.",
       "Discuss why an artist might want a picture to feel mysterious rather than clear."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cube",
+      "black",
+      "gray",
+      "dark",
+      "shape",
+      "smoke"
+    ],
+    "g12": [
+      "smoky",
+      "shadowy",
+      "mysterious",
+      "soft",
+      "deep",
+      "hidden"
+    ],
+    "g35": [
+      "charcoal",
+      "shading",
+      "mystery",
+      "shadow",
+      "cube",
+      "monochrome"
+    ],
+    "g68": [
+      "Symbolism",
+      "tone",
+      "contrast",
+      "mood",
+      "geometric form",
+      "dreamlike"
+    ],
+    "g910": [
+      "ambiguity",
+      "emergence",
+      "tension",
+      "the unseen",
+      "atmosphere",
+      "subjective"
+    ],
+    "g1112": [
+      "dreamlike",
+      "Symbolist critics",
+      "geometric solid",
+      "interpretation",
+      "mysticism",
+      "tonal field"
     ]
   }
 }

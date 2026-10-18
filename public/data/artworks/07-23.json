@@ -155,5 +155,55 @@
       "Have students paint or draw a local event in their own community from the viewpoint of someone watching.",
       "Ask older students to discuss how an artist visiting a region may show its customs and what choices that involves."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "river",
+      "water",
+      "women",
+      "boat",
+      "hats",
+      "summer"
+    ],
+    "g12": [
+      "watery",
+      "festive",
+      "traditional",
+      "blue",
+      "watching",
+      "sunny"
+    ],
+    "g35": [
+      "yacht",
+      "headdress",
+      "riverbank",
+      "Brittany",
+      "special event",
+      "ceremony"
+    ],
+    "g68": [
+      "Post-Impressionism",
+      "composition",
+      "tradition",
+      "decorative",
+      "observer",
+      "vacation"
+    ],
+    "g910": [
+      "decorative",
+      "mural",
+      "flattened",
+      "local custom",
+      "designed surface",
+      "Nabi"
+    ],
+    "g1112": [
+      "observed event",
+      "designed surface",
+      "regional identity",
+      "tourism",
+      "church decoration",
+      "balance"
+    ]
   }
 }

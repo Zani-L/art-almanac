@@ -155,5 +155,55 @@
       "Ask students to compare painting on a surface with building color into a material like glass.",
       "Discuss how a studio might share work among many hands while using one famous name."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "vase",
+      "bird",
+      "glass",
+      "smooth",
+      "curvy",
+      "shiny"
+    ],
+    "g12": [
+      "curved",
+      "polished",
+      "decorated",
+      "nature",
+      "small",
+      "clear"
+    ],
+    "g35": [
+      "art glass",
+      "Art Nouveau",
+      "bird motif",
+      "curves",
+      "studio",
+      "design"
+    ],
+    "g68": [
+      "curvature",
+      "sleek",
+      "elegant",
+      "natural forms",
+      "decorative",
+      "fragile"
+    ],
+    "g910": [
+      "organic form",
+      "motif",
+      "translucent",
+      "decorative art",
+      "nature",
+      "craftsmanship"
+    ],
+    "g1112": [
+      "commercial ambition",
+      "studio production",
+      "decorative arts",
+      "individual artistry",
+      "collectors",
+      "material"
+    ]
   }
 }

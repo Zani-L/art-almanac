@@ -153,5 +153,55 @@
       "Discuss how art and science both depend on careful looking.",
       "Compare a photograph of a plant with this painting and list what each shows best."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bug",
+      "leaf",
+      "flower",
+      "tiny",
+      "green",
+      "pale"
+    ],
+    "g12": [
+      "beetle",
+      "delicate",
+      "careful",
+      "petals",
+      "fine",
+      "sprig"
+    ],
+    "g35": [
+      "pattern",
+      "detail",
+      "background",
+      "texture",
+      "delicate",
+      "outline"
+    ],
+    "g68": [
+      "specimen",
+      "watercolor",
+      "gouache",
+      "veins",
+      "naturalist",
+      "observation"
+    ],
+    "g910": [
+      "vellum",
+      "natural history",
+      "accuracy",
+      "detail",
+      "scientific",
+      "study"
+    ],
+    "g1112": [
+      "life cycle",
+      "gender",
+      "access",
+      "empiricism",
+      "specimens",
+      "beauty"
+    ]
   }
 }

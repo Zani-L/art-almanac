@@ -155,5 +155,55 @@
       "Ask students why an artist might paint the same subject more than once and what each version could reveal.",
       "Discuss how a very small painting asks viewers to look differently than a large one."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cup",
+      "pot",
+      "table",
+      "small",
+      "brown",
+      "quiet"
+    ],
+    "g12": [
+      "teapot",
+      "tiny",
+      "muted",
+      "soft",
+      "empty",
+      "still"
+    ],
+    "g35": [
+      "interior",
+      "brown betty",
+      "table",
+      "quiet",
+      "story",
+      "objects"
+    ],
+    "g68": [
+      "still life",
+      "muted palette",
+      "scale",
+      "restraint",
+      "repetition",
+      "domestic"
+    ],
+    "g910": [
+      "minimalism",
+      "solitude",
+      "subtlety",
+      "domesticity",
+      "serenity",
+      "tonality"
+    ],
+    "g1112": [
+      "modest",
+      "anecdote",
+      "intimacy",
+      "mood",
+      "stillness",
+      "simplicity"
+    ]
   }
 }

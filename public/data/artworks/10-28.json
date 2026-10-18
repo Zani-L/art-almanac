@@ -154,5 +154,55 @@
       "Ask students to compare this view with a modern photo of a harbor and list what has changed.",
       "Discuss how photographs of towns can serve both as records and as advertisements."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "water",
+      "town",
+      "brown",
+      "gray",
+      "men"
+    ],
+    "g12": [
+      "old",
+      "calm",
+      "wide",
+      "distant",
+      "busy",
+      "harbor"
+    ],
+    "g35": [
+      "wharf",
+      "photograph",
+      "ships",
+      "viewpoint",
+      "California",
+      "direction"
+    ],
+    "g68": [
+      "albumen print",
+      "glass negative",
+      "documentary",
+      "horizon",
+      "tones",
+      "clarity"
+    ],
+    "g910": [
+      "documentation",
+      "commercial",
+      "civic",
+      "purpose",
+      "field note",
+      "audience"
+    ],
+    "g1112": [
+      "documentary photography",
+      "commercial use",
+      "changing California",
+      "field note",
+      "limited record",
+      "audience"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to find the grid in a building, a map, or a window and describe it in Mondrian's terms.",
       "Hold a short debate on whether a painting without a recognizable subject can still communicate ideas."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "red",
+      "yellow",
+      "blue",
+      "white",
+      "square",
+      "lines"
+    ],
+    "g12": [
+      "straight",
+      "rectangles",
+      "black",
+      "thick",
+      "thin",
+      "balanced"
+    ],
+    "g35": [
+      "primary colors",
+      "balance",
+      "rectangles",
+      "horizontal",
+      "vertical",
+      "grid"
+    ],
+    "g68": [
+      "abstraction",
+      "asymmetry",
+      "De Stijl",
+      "grid",
+      "equilibrium",
+      "geometric"
+    ],
+    "g910": [
+      "orthogonal",
+      "visual order",
+      "non-representational",
+      "reduction",
+      "harmony",
+      "austerity"
+    ],
+    "g1112": [
+      "utopian ideal",
+      "social harmony",
+      "asymmetrical balance",
+      "rationalism",
+      "painting as object",
+      "postwar hope"
+    ]
   }
 }

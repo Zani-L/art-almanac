@@ -8,11 +8,10 @@
   "movement": "Mughal painting (Deccan court, Bijapur)",
   "region": "India (Deccan)",
   "image": {
-    "url": "/images/ahp-sultan-ibrahim-adil-shah-ii-khan-hunting-with-a-hawk.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11401/farrukh-beg-sultan-ibrahim-adil-shah-ii-khan-hunting-with-a-hawk-1595-obelisk-art-history.jpg",
     "credit": "Collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/farrukh-beg/sultan-ibrahim-adil-shah-ii-khan-hunting-with-a-hawk/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11401/farrukh-beg-sultan-ibrahim-adil-shah-ii-khan-hunting-with-a-hawk-1595-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/farrukh-beg/sultan-ibrahim-adil-shah-ii-khan-hunting-with-a-hawk/"
   },
   "altText": "A small, detailed painting of a ruler on horseback holding a hunting hawk on his hand. The horse and rider are the main subject of the picture.",
   "source": {
@@ -154,6 +153,56 @@
       "Have younger students draw a rider and an animal companion, adding as many small details as they can, then explain what the animal does.",
       "Ask older students to list visual clues that signal status (horse, hawk, pose) and compare them with how leaders are shown in photographs today.",
       "Discuss how an artist can move between courts and how a style can change when it travels. Note which points come from the page and which are general history."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horse",
+      "man",
+      "bird",
+      "hat",
+      "hand",
+      "small"
+    ],
+    "g12": [
+      "royal",
+      "galloping",
+      "tiny",
+      "detailed",
+      "fancy",
+      "decorated"
+    ],
+    "g35": [
+      "miniature",
+      "hawk",
+      "rider",
+      "horseback",
+      "hunting",
+      "contour"
+    ],
+    "g68": [
+      "Mughal",
+      "court painter",
+      "portrait",
+      "detail",
+      "ruler",
+      "delicate"
+    ],
+    "g910": [
+      "royal image",
+      "mastery",
+      "pose",
+      "court portrait",
+      "line",
+      "identity"
+    ],
+    "g1112": [
+      "royal identity",
+      "visual conventions",
+      "cross-court travel",
+      "omission",
+      "Deccan",
+      "patronage"
     ]
   }
 }

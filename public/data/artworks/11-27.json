@@ -8,11 +8,10 @@
   "movement": "Expressionism",
   "region": "Europe",
   "image": {
-    "url": "/images/ahp-in-the-theatre-i.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/33720/marianne_von_werefkin-in_the_theatre_i-1906-obelisk-art-history-1.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/marianne-von-werefkin/in-the-theatre-i/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/33720/marianne_von_werefkin-in_the_theatre_i-1906-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/marianne-von-werefkin/in-the-theatre-i/"
   },
   "altText": "A painting titled In the Theatre I, showing a scene in a theater or similar public gathering place, with figures and large areas of strong, flat color rather than fine realistic detail.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a crowded place using only flat areas of color with no outlines, then discuss the mood created.",
       "Ask students to compare matte paint and glossy paint and say which suits a theater scene better.",
       "Discuss why some artists' work is better known than others and how teachers and students can look at lesser-known artists."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stage",
+      "bold",
+      "flat",
+      "dark",
+      "crowd",
+      "color"
+    ],
+    "g12": [
+      "theater",
+      "strong",
+      "simple",
+      "people",
+      "painted",
+      "dramatic"
+    ],
+    "g35": [
+      "mood",
+      "tempera",
+      "gouache",
+      "matte",
+      "Expressionism",
+      "feeling"
+    ],
+    "g68": [
+      "atmosphere",
+      "simplification",
+      "emotion",
+      "composition",
+      "public space",
+      "expressive"
+    ],
+    "g910": [
+      "distortion",
+      "intensity",
+      "ambience",
+      "spectator",
+      "simplified",
+      "emotional"
+    ],
+    "g1112": [
+      "description",
+      "reputation",
+      "visibility",
+      "intensity",
+      "modernism",
+      "woman artist"
     ]
   }
 }

@@ -153,5 +153,55 @@
       "Ask students to explain the difference between a decorative motif and a symbol.",
       "Compare this watch with the pastoral enamel watch in the archive and discuss how two makers decorated small round cases."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "tiny",
+      "round",
+      "shiny",
+      "flower",
+      "butterfly"
+    ],
+    "g12": [
+      "sparkling",
+      "fancy",
+      "leafy",
+      "pretty",
+      "delicate",
+      "hand-sized"
+    ],
+    "g35": [
+      "watch",
+      "enamel",
+      "roses",
+      "ornament",
+      "miniature",
+      "decoration"
+    ],
+    "g68": [
+      "motif",
+      "floral",
+      "jeweler",
+      "craftsmanship",
+      "design",
+      "fragile"
+    ],
+    "g910": [
+      "transience",
+      "ornament",
+      "fragility",
+      "convention",
+      "utilitarian",
+      "suggestion"
+    ],
+    "g1112": [
+      "floral tradition",
+      "symbolic suggestion",
+      "conventional ornament",
+      "fragility",
+      "utilitarian",
+      "decorative object"
+    ]
   }
 }

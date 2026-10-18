@@ -155,5 +155,55 @@
       "Cover the title and ask what changes in how students read the picture.",
       "Bring in a piece of satin or other shiny fabric and sketch its folds and highlights."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dog",
+      "woman",
+      "room",
+      "letter",
+      "dress",
+      "shiny"
+    ],
+    "g12": [
+      "women",
+      "secret",
+      "indoor",
+      "quiet",
+      "curious",
+      "soft"
+    ],
+    "g35": [
+      "interior",
+      "satin",
+      "cloth",
+      "clues",
+      "secret",
+      "faces"
+    ],
+    "g68": [
+      "genre painting",
+      "gesture",
+      "highlight",
+      "textile",
+      "suggestion",
+      "curiosity"
+    ],
+    "g910": [
+      "implication",
+      "intrigue",
+      "privacy",
+      "texture",
+      "stillness",
+      "subtlety"
+    ],
+    "g1112": [
+      "ambiguity",
+      "narrative",
+      "private life",
+      "moral commentary",
+      "sympathy",
+      "title"
+    ]
   }
 }

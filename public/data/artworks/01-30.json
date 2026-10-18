@@ -155,5 +155,55 @@
       "Ask students to decide which part of the painting looks finished and which looks sketched, and discuss why an artist might do both.",
       "Compare this with a photograph of the same arrangement and talk about what the painter chose to simplify."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lemons",
+      "bowl",
+      "knife",
+      "purple",
+      "bottle",
+      "table"
+    ],
+    "g12": [
+      "shiny",
+      "smooth",
+      "arranged",
+      "simple",
+      "sketched",
+      "empty"
+    ],
+    "g35": [
+      "still life",
+      "eggplants",
+      "overlap",
+      "background",
+      "tabletop",
+      "lightly sketched"
+    ],
+    "g68": [
+      "Precisionism",
+      "composition",
+      "simplified forms",
+      "negative space",
+      "unfinished",
+      "arrangement"
+    ],
+    "g910": [
+      "crisp form",
+      "casual arrangement",
+      "deliberate design",
+      "ground",
+      "finish",
+      "geometry"
+    ],
+    "g1112": [
+      "apparent casualness",
+      "chairback",
+      "negative space",
+      "unfinished",
+      "modern America",
+      "design"
+    ]
   }
 }

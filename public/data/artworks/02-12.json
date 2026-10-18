@@ -8,11 +8,10 @@
   "movement": "Northern Renaissance",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-young-flute-player.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/12707/judith_leyster-young_flute_player-1630-obelisk-art-history-1.jpg",
     "credit": "Nationalmuseum, Stockholm; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/judith-leyster/young-flute-player/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/12707/judith_leyster-young_flute_player-1630-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/judith-leyster/young-flute-player/"
   },
   "altText": "A young person plays a flute, shown close up against a dark background. Warm light falls on the face while the rest of the scene stays in shadow.",
   "source": {
@@ -154,6 +153,56 @@
       "Play a short recording of a flute and ask students to draw what they imagine, then compare with Leyster's choices.",
       "Ask students to describe how light directs attention, then sketch a classmate with a single lamp.",
       "Discuss how women artists worked and were recognized in the 1600s, using only evidence students can support."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flute",
+      "face",
+      "light",
+      "dark",
+      "music",
+      "boy"
+    ],
+    "g12": [
+      "glowing",
+      "playing",
+      "shadowy",
+      "close",
+      "warm",
+      "musical"
+    ],
+    "g35": [
+      "music",
+      "portrait",
+      "light",
+      "face",
+      "close-up",
+      "everyday life"
+    ],
+    "g68": [
+      "genre scene",
+      "contrast",
+      "dramatic light",
+      "framing",
+      "brushwork",
+      "expression"
+    ],
+    "g910": [
+      "performance",
+      "immediacy",
+      "informal figure",
+      "tight framing",
+      "tradition",
+      "mood"
+    ],
+    "g1112": [
+      "Dutch Republic",
+      "woman professional",
+      "genre scene",
+      "emphasis",
+      "contrasted lighting",
+      "immediacy"
     ]
   }
 }

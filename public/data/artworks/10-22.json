@@ -155,5 +155,55 @@
       "Ask students to design a postcard of a favorite local place at sunset.",
       "Discuss why artists traveled to Italy and what travelers wanted to bring home."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "church",
+      "sky",
+      "water",
+      "sun",
+      "glow"
+    ],
+    "g12": [
+      "sunset",
+      "calm",
+      "golden",
+      "shiny",
+      "sparkling",
+      "peaceful"
+    ],
+    "g35": [
+      "dome",
+      "reflection",
+      "Venice",
+      "canal",
+      "light",
+      "sunset colors"
+    ],
+    "g68": [
+      "atmosphere",
+      "horizon",
+      "landmark",
+      "baroque",
+      "mood",
+      "picturesque"
+    ],
+    "g910": [
+      "Grand Tour",
+      "romanticism",
+      "reflection",
+      "expatriate",
+      "tourism",
+      "luminosity"
+    ],
+    "g1112": [
+      "picturesque landmark",
+      "Grand Tour",
+      "American expatriate",
+      "romantic Venice",
+      "tentative interpretation",
+      "atmosphere"
+    ]
   }
 }

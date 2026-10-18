@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/artic-14655.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/6745/pierre-auguste_renoir-the_two_sisters_on_the_terrace-1881-obelisk-art-history-1.jpg",
     "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection; image via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/pierre-auguste-renoir/the-two-sisters-on-the-terrace/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/6745/pierre-auguste_renoir-the_two_sisters_on_the_terrace-1881-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/pierre-auguste-renoir/the-two-sisters-on-the-terrace/"
   },
   "altText": "Two girls in bright clothing sit together on a terrace beside the water, one in a hat trimmed with flowers, with a basket and leafy plants near them. Red and blue dabs of paint stand out against the green and water behind.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students use dabs of red and green paint side by side and look at them from far away to see how the colors interact.",
       "Ask students to invent a short story for the two sisters using at least three visual details.",
       "Discuss how a painting of everyday leisure compares with a formal portrait."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girls",
+      "hat",
+      "basket",
+      "red",
+      "blue",
+      "water"
+    ],
+    "g12": [
+      "leafy",
+      "lively",
+      "sunny",
+      "bright",
+      "dabs",
+      "sitting"
+    ],
+    "g35": [
+      "terrace",
+      "brushstrokes",
+      "red and blue",
+      "outdoors",
+      "lively",
+      "foliage"
+    ],
+    "g68": [
+      "complementary colors",
+      "palette",
+      "Impressionism",
+      "contrast",
+      "leisure",
+      "genre scene"
+    ],
+    "g910": [
+      "saturated",
+      "figural",
+      "sculpted",
+      "shimmering",
+      "leisure",
+      "portrait or genre"
+    ],
+    "g1112": [
+      "early 1880s",
+      "ambiguity",
+      "study of color",
+      "viewer response",
+      "open narrative",
+      "sculpted figures"
     ]
   }
 }

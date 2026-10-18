@@ -155,5 +155,55 @@
       "Ask students to identify what the painting does not tell us about the sitter, and what clues they would need.",
       "Discuss how background and setting change how we read a portrait."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "sea",
+      "soft",
+      "sun",
+      "blue",
+      "green"
+    ],
+    "g12": [
+      "seaside",
+      "sunny",
+      "feathery",
+      "relaxed",
+      "warm",
+      "outdoors"
+    ],
+    "g35": [
+      "warm colors",
+      "cool colors",
+      "brushstrokes",
+      "glowing",
+      "casual",
+      "seaside"
+    ],
+    "g68": [
+      "Impressionism",
+      "atmosphere",
+      "informal",
+      "brushwork",
+      "portrait",
+      "palette"
+    ],
+    "g910": [
+      "dissolving brushwork",
+      "leisure",
+      "idealization",
+      "sensuous surface",
+      "sitter and setting",
+      "modern life"
+    ],
+    "g1112": [
+      "gendered gaze",
+      "idealizing tendency",
+      "portrait convention",
+      "anonymity of sitter",
+      "charm",
+      "construction of leisure"
+    ]
   }
 }

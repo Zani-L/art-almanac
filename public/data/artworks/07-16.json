@@ -154,5 +154,55 @@
       "Have students paint the same small object (a leaf or cup) twice in different light and discuss what changed.",
       "Discuss why Monet might paint the same pond hundreds of times. What can repetition teach an artist?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "water",
+      "lily",
+      "pond",
+      "blue",
+      "green",
+      "big"
+    ],
+    "g12": [
+      "wide",
+      "floating",
+      "sparkling",
+      "shimmering",
+      "huge",
+      "peaceful"
+    ],
+    "g35": [
+      "reflection",
+      "horizon",
+      "sunlight",
+      "pond",
+      "brushstrokes",
+      "light"
+    ],
+    "g68": [
+      "Impressionism",
+      "monumental",
+      "atmosphere",
+      "series",
+      "abstract",
+      "fleeting"
+    ],
+    "g910": [
+      "limitless",
+      "representation",
+      "abstraction",
+      "ephemeral",
+      "wide format",
+      "immersive"
+    ],
+    "g1112": [
+      "late style",
+      "blurring",
+      "perception",
+      "momentary effects",
+      "scale",
+      "fleeting experience"
+    ]
   }
 }

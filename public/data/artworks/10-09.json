@@ -8,11 +8,10 @@
   "movement": "Realism",
   "region": "United States / Britain",
   "image": {
-    "url": "/images/ahp-arrangement-in-grey-and-black-no.1.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/29015/james-mcneill-whistler-arrangement-in-grey-and-black-no-1-1871-obelisk-art-history.jpg",
     "credit": "Musee d'Orsay, Paris; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/james-mcneill-whistler/arrangement-in-grey-and-black-no.1/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/29015/james-mcneill-whistler-arrangement-in-grey-and-black-no-1-1871-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/james-mcneill-whistler/arrangement-in-grey-and-black-no.1/"
   },
   "altText": "A woman in a black dress and white cap sits in profile, facing left, in a plain grey room. A framed picture and a curtain on the wall are arranged in calm, balanced shapes.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to sketch the painting using only rectangles and one curved shape to see its structure.",
       "Discuss why an artist might title a portrait like a piece of music.",
       "Have students photograph or draw a calm portrait of someone in a plain room and compare."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "chair",
+      "gray",
+      "black",
+      "plain",
+      "woman",
+      "wall"
+    ],
+    "g12": [
+      "calm",
+      "quiet",
+      "still",
+      "balanced",
+      "sideways",
+      "dark"
+    ],
+    "g35": [
+      "profile",
+      "palette",
+      "shapes",
+      "arrangement",
+      "title",
+      "side view"
+    ],
+    "g68": [
+      "composition",
+      "tonal",
+      "harmony",
+      "restrained",
+      "geometry",
+      "portrait"
+    ],
+    "g910": [
+      "verticals",
+      "horizontals",
+      "formal design",
+      "musicality",
+      "abstraction",
+      "grid"
+    ],
+    "g1112": [
+      "tonal arrangement",
+      "formal experiment",
+      "limited palette",
+      "musical analogy",
+      "depiction",
+      "portraiture"
     ]
   }
 }

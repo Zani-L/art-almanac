@@ -154,5 +154,55 @@
       "Ask students to explain why red and green stones might look strong against gold.",
       "Compare jewelry from different places in the archive to discuss what different cultures value in adornment."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "red",
+      "green",
+      "shiny",
+      "heavy",
+      "stone"
+    ],
+    "g12": [
+      "jewels",
+      "sparkling",
+      "decorative",
+      "glittering",
+      "hanging",
+      "fancy"
+    ],
+    "g35": [
+      "pattern",
+      "detail",
+      "design",
+      "texture",
+      "decorated",
+      "shape"
+    ],
+    "g68": [
+      "pendant",
+      "ruby",
+      "emerald",
+      "setting",
+      "goldsmith",
+      "gems"
+    ],
+    "g910": [
+      "complementary colors",
+      "craft",
+      "display",
+      "adornment",
+      "value",
+      "luxury"
+    ],
+    "g1112": [
+      "trade",
+      "status",
+      "provenance",
+      "caution",
+      "regional style",
+      "materiality"
+    ]
   }
 }

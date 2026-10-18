@@ -154,5 +154,55 @@
       "Discuss what we can and cannot know about a culture from its objects alone.",
       "Compare this animal-shaped vessel with another vessel in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cat",
+      "bottle",
+      "clay",
+      "handle",
+      "pour",
+      "animal"
+    ],
+    "g12": [
+      "looped",
+      "curved",
+      "painted",
+      "clever",
+      "hollow",
+      "ancient"
+    ],
+    "g35": [
+      "stirrup spout",
+      "Moche",
+      "slip",
+      "vessel",
+      "pattern",
+      "Peru"
+    ],
+    "g68": [
+      "ceramic",
+      "modeling",
+      "sculptural",
+      "feline",
+      "tradition",
+      "function"
+    ],
+    "g910": [
+      "symbolism",
+      "iconography",
+      "context",
+      "pouring",
+      "comparison",
+      "form"
+    ],
+    "g1112": [
+      "Moche ceramics",
+      "undeciphered writing",
+      "archaeological context",
+      "broad dating",
+      "form function",
+      "open questions"
+    ]
   }
 }

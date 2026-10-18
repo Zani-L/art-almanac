@@ -156,5 +156,55 @@
       "Have students compare how this painting and a Western sports scene show speed.",
       "Invite students to tell the story of a game they know as a single illustrated page."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "horse",
+      "ride",
+      "game",
+      "fast",
+      "gold",
+      "crowd"
+    ],
+    "g12": [
+      "galloping",
+      "colorful",
+      "busy",
+      "shiny",
+      "lively",
+      "exciting"
+    ],
+    "g35": [
+      "polo",
+      "mallet",
+      "Shahnama",
+      "epic poem",
+      "riders",
+      "action"
+    ],
+    "g68": [
+      "miniature",
+      "manuscript",
+      "illustration",
+      "courtly",
+      "decorative",
+      "narrative"
+    ],
+    "g910": [
+      "spectacle",
+      "workshop",
+      "patronage",
+      "folio",
+      "detail",
+      "movement"
+    ],
+    "g1112": [
+      "royal manuscript",
+      "attribution",
+      "courtly sport",
+      "spectacle",
+      "workshop collaboration",
+      "royal taste"
+    ]
   }
 }

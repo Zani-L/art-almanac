@@ -8,11 +8,10 @@
   "movement": "Baroque (Dutch Golden Age)",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-still-life-with-flowers-and-a-cricket.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/14366/rachel-ruysch-still-life-with-flowers-and-a-cricket-1700-trivium-art-history.jpg",
     "credit": "Mauritshuis, The Hague; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/rachel-ruysch/still-life-with-flowers-and-a-cricket/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/14366/rachel-ruysch-still-life-with-flowers-and-a-cricket-1700-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/rachel-ruysch/still-life-with-flowers-and-a-cricket/"
   },
   "altText": "A still life of a bouquet of many flowers, with small details of insect life among them, set against a dark background. The blooms are painted with great delicacy and carefully varied color.",
   "source": {
@@ -154,6 +153,56 @@
       "Give students a flower to study for five minutes and have them list every detail they see before drawing it.",
       "Ask students to hunt for the smallest creature in the picture and invent a story for it.",
       "Discuss how a still life can be beautiful and also quietly remind us that time passes."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "bug",
+      "petals",
+      "leaves",
+      "dark",
+      "bright"
+    ],
+    "g12": [
+      "tiny",
+      "delicate",
+      "colorful",
+      "detailed",
+      "fancy",
+      "fresh"
+    ],
+    "g35": [
+      "bouquet",
+      "cricket",
+      "insects",
+      "blooms",
+      "still life",
+      "realism"
+    ],
+    "g68": [
+      "composition",
+      "detail",
+      "abundance",
+      "botanical",
+      "contrast",
+      "transience"
+    ],
+    "g910": [
+      "vanitas",
+      "decay",
+      "luxury",
+      "observation",
+      "symbolism",
+      "delicacy"
+    ],
+    "g1112": [
+      "flower painting",
+      "luxury",
+      "beauty",
+      "decay",
+      "abundance",
+      "transience"
     ]
   }
 }

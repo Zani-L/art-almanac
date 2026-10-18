@@ -155,5 +155,55 @@
       "Compare this seal with the deer stamp seal and the cylinder seals in the archive.",
       "Discuss how people choose symbols for identity and what those symbols can and cannot say."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stone",
+      "cone",
+      "bull",
+      "tiny",
+      "stripe",
+      "press"
+    ],
+    "g12": [
+      "carved",
+      "striped",
+      "pressed",
+      "stamp",
+      "printed",
+      "banded"
+    ],
+    "g35": [
+      "seal",
+      "chalcedony",
+      "carving",
+      "symbols",
+      "Mesopotamia",
+      "quartz"
+    ],
+    "g68": [
+      "conoid",
+      "intaglio",
+      "divine symbol",
+      "emblem",
+      "Neo-Assyrian",
+      "pattern"
+    ],
+    "g910": [
+      "miniature",
+      "symbolism",
+      "stamp",
+      "craftsmanship",
+      "motif",
+      "impression"
+    ],
+    "g1112": [
+      "Neo-Babylonian",
+      "devotion",
+      "protection",
+      "inscription",
+      "natural pattern",
+      "bull imagery"
+    ]
   }
 }

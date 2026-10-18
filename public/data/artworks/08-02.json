@@ -8,11 +8,10 @@
   "movement": "Pointillism",
   "region": "France",
   "image": {
-    "url": "/images/artic-27992.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11809/georges-seurat-a-sunday-on-la-grande-jatte-1886-obelisk-art-history.jpg",
     "credit": "Art Institute of Chicago, Helen Birch Bartlett Memorial Collection; image via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/georges-seurat/a-sunday-on-la-grande-jatte/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11809/georges-seurat-a-sunday-on-la-grande-jatte-1886-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/georges-seurat/a-sunday-on-la-grande-jatte/"
   },
   "altText": "A huge, calm painting of people relaxing in a park beside a river. Men, women and children stand, sit and stroll under trees, with a dog, a small monkey and sailboats on the water. The surface is made of tiny dots of color.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students make a small picture from dots of only three or four colors, then view it from across the room to see the colors blend.",
       "Ask students to count and categorize the activities in the park (sitting, walking, fishing, looking) and describe the overall rhythm.",
       "Discuss why an artist might spend two years on one painting and how long a modern photo takes by comparison."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "park",
+      "dots",
+      "river",
+      "trees",
+      "dog",
+      "boats"
+    ],
+    "g12": [
+      "dotted",
+      "still",
+      "calm",
+      "sunny",
+      "quiet",
+      "tiny"
+    ],
+    "g35": [
+      "Pointillism",
+      "dots",
+      "park",
+      "optical mixing",
+      "quiet",
+      "weather"
+    ],
+    "g68": [
+      "Neo-Impressionism",
+      "color theory",
+      "complementary colors",
+      "frieze",
+      "profile",
+      "leisure"
+    ],
+    "g910": [
+      "optical mixing",
+      "monumental scale",
+      "formal experiment",
+      "social observation",
+      "stillness",
+      "method"
+    ],
+    "g1112": [
+      "manifesto",
+      "modern life",
+      "permanence",
+      "reworking",
+      "urban leisure",
+      "history painting"
     ]
   }
 }

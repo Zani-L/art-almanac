@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism (naive art)",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-sleeping-gypsy.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/10432/henri_rousseau_-_the_sleeping_gypsy_-_la_zingara_addormentata_1897_moma_129_5x200_7cm_646_1939.jpg",
     "credit": "MOMA, Museum of Modern Art in New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-rousseau/the-sleeping-gypsy/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10432/henri_rousseau_-_the_sleeping_gypsy_-_la_zingara_addormentata_1897_moma_129_5x200_7cm_646_1939.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/henri-rousseau/the-sleeping-gypsy/"
   },
   "altText": "A woman in a striped robe lies asleep on sand at night, with a stringed instrument and a jug beside her. A lion stands nearby under a large pale moon, with a calm river and distant hills behind.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a quiet dream scene using only a few colors and one clear light source, and discuss how the mood changes with each color choice.",
       "Discuss why museums sometimes keep historical titles even when the words are now considered outdated, and how a classroom can talk about this respectfully.",
       "Ask students to give the painting a new title and explain what in the picture supports their choice."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "moon",
+      "sleep",
+      "lion",
+      "night",
+      "sand",
+      "quiet"
+    ],
+    "g12": [
+      "sleeping",
+      "desert",
+      "dreamy",
+      "still",
+      "stripes",
+      "peaceful"
+    ],
+    "g35": [
+      "dreamlike",
+      "moonlit",
+      "still",
+      "lion",
+      "horizon",
+      "desert"
+    ],
+    "g68": [
+      "naive art",
+      "contour",
+      "mood",
+      "composition",
+      "moonlight",
+      "fantasy"
+    ],
+    "g910": [
+      "ambiguity",
+      "suspension",
+      "simplified forms",
+      "fable",
+      "hard-edged",
+      "uncanny"
+    ],
+    "g1112": [
+      "outdated title",
+      "avant-garde admiration",
+      "narrative resistance",
+      "naming and meaning",
+      "dream or fable",
+      "sustained ambiguity"
     ]
   }
 }

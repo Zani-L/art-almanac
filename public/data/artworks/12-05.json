@@ -155,5 +155,55 @@
       "Have students try making a drawing using only lines (no shading by smudging) and compare it with Dürer's approach.",
       "Discuss the difference between a detail that is observed and a detail that is symbolic."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bug",
+      "lines",
+      "plant",
+      "tiny",
+      "black",
+      "white"
+    ],
+    "g12": [
+      "detailed",
+      "thin",
+      "printed",
+      "small",
+      "careful",
+      "fine"
+    ],
+    "g35": [
+      "engraving",
+      "copper plate",
+      "dragonfly",
+      "detail",
+      "ink",
+      "copies"
+    ],
+    "g68": [
+      "burin",
+      "hatching",
+      "naturalism",
+      "impression",
+      "Northern Renaissance",
+      "observation"
+    ],
+    "g910": [
+      "linearity",
+      "precision",
+      "symbolism",
+      "detail",
+      "texture",
+      "contrast"
+    ],
+    "g1112": [
+      "devotional",
+      "symbolism",
+      "circulation",
+      "gradation",
+      "convention",
+      "technique"
+    ]
   }
 }

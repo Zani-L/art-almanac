@@ -155,5 +155,55 @@
       "Discuss the difference between a place that is observed and one that is composed.",
       "Compare with Ruisdael's Wheat Fields, which gives the sky more space."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "road",
+      "tall",
+      "green",
+      "leaf",
+      "sky"
+    ],
+    "g12": [
+      "woods",
+      "leafy",
+      "winding",
+      "thick",
+      "sunny",
+      "shady"
+    ],
+    "g35": [
+      "woodland",
+      "foliage",
+      "road",
+      "trees",
+      "sunlight",
+      "countryside"
+    ],
+    "g68": [
+      "composition",
+      "foreground",
+      "framing",
+      "filtered light",
+      "background",
+      "tone"
+    ],
+    "g910": [
+      "depth",
+      "perspective",
+      "light",
+      "contrast",
+      "rhythm",
+      "serenity"
+    ],
+    "g1112": [
+      "convention",
+      "authenticity",
+      "constructed",
+      "observed",
+      "depth",
+      "Dutch landscape"
+    ]
   }
 }

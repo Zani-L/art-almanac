@@ -154,5 +154,55 @@
       "Ask students to model a clay animal and attach it to a small cup.",
       "Discuss the difference between describing what we see and guessing what it means."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "snake",
+      "bottle",
+      "long",
+      "clay",
+      "round",
+      "tall"
+    ],
+    "g12": [
+      "curvy",
+      "winding",
+      "ceramic",
+      "animal",
+      "rounded",
+      "slithering"
+    ],
+    "g35": [
+      "Moche",
+      "ceramic",
+      "vessel",
+      "Peru",
+      "snake",
+      "body"
+    ],
+    "g68": [
+      "modeled",
+      "sculpture",
+      "contour",
+      "tradition",
+      "symbolic",
+      "coastal"
+    ],
+    "g910": [
+      "form",
+      "texture",
+      "stylization",
+      "animal",
+      "function",
+      "craftsmanship"
+    ],
+    "g1112": [
+      "flowing line",
+      "animal imagery",
+      "observation",
+      "symbol",
+      "craft",
+      "culture"
+    ]
   }
 }

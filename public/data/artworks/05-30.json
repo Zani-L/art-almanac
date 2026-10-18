@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "Spain",
   "image": {
-    "url": "/images/ahp-summer.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37203/joaquin-sorolla-summer-1904-obelisk-art-history.jpg",
     "credit": "National Museum of Fine Arts of Havana, Cuba; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/joaquin-sorolla/summer/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37203/joaquin-sorolla-summer-1904-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/joaquin-sorolla/summer/"
   },
   "altText": "A bright, sunlit beach scene with children near the water, painted with loose, quick brushstrokes and glowing light. The picture is wide, so the shore seems to stretch across it.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch the same simple scene twice, once slowly with outlines and once quickly with color dabs, then compare the feeling of each.",
       "Ask students to sort the colors in the painting into warm and cool groups and discuss how they work together to suggest sunlight.",
       "Discuss how artists show weather or temperature without writing words."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "beach",
+      "sun",
+      "kids",
+      "sand",
+      "water",
+      "hot"
+    ],
+    "g12": [
+      "sunny",
+      "bright",
+      "sparkling",
+      "warm",
+      "shore",
+      "flickering"
+    ],
+    "g35": [
+      "sunlight",
+      "brushstrokes",
+      "beach",
+      "warm colors",
+      "cool colors",
+      "leisure"
+    ],
+    "g68": [
+      "energy",
+      "glare",
+      "shadow",
+      "movement",
+      "everyday scene",
+      "vivid"
+    ],
+    "g910": [
+      "Impressionism",
+      "plein air",
+      "contrast",
+      "light effects",
+      "wide format",
+      "atmosphere"
+    ],
+    "g1112": [
+      "Mediterranean light",
+      "everyday leisure",
+      "observation",
+      "invention",
+      "grand scale",
+      "spontaneity"
     ]
   }
 }

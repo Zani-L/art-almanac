@@ -154,5 +154,55 @@
       "Ask students to test why spreading legs outward helps a chair stay steady, using a stool or a model.",
       "Discuss why an object made by an unknown maker can still be worth studying."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "chair",
+      "wood",
+      "seat",
+      "legs",
+      "arms",
+      "tall"
+    ],
+    "g12": [
+      "spindles",
+      "sturdy",
+      "slender",
+      "curved",
+      "handmade",
+      "sitting"
+    ],
+    "g35": [
+      "Windsor chair",
+      "spindle back",
+      "splayed legs",
+      "turned wood",
+      "joinery",
+      "craftsmanship"
+    ],
+    "g68": [
+      "balance",
+      "structure",
+      "proportion",
+      "rhythm",
+      "comfort",
+      "handcrafted"
+    ],
+    "g910": [
+      "function",
+      "form",
+      "durability",
+      "construction",
+      "design",
+      "regional craft"
+    ],
+    "g1112": [
+      "anonymous craft",
+      "efficiency",
+      "market",
+      "vernacular design",
+      "legible construction",
+      "material culture"
+    ]
   }
 }

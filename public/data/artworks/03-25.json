@@ -8,11 +8,10 @@
   "movement": "Futurism",
   "region": "Italy",
   "image": {
-    "url": "/images/ahp-solidity-of-fog.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/14804/luigi_russolo-solidity_of_fog-1912-trivium-art-history.jpg",
     "credit": "Peggy Guggenheim Collection, Venice; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/luigi-russolo/solidity-of-fog/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/14804/luigi_russolo-solidity_of_fog-1912-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/luigi-russolo/solidity-of-fog/"
   },
   "altText": "A hazy, mostly single-color painting in cool tones, with dense, overlapping shapes that suggest thick fog rather than a clear scene.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint or draw fog using only one color plus white, and compare how density is shown.",
       "Ask students to describe the painting without using the word fog and discuss what changes.",
       "Discuss how an artist can show a feeling or sensation rather than an object."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gray",
+      "blue",
+      "fog",
+      "cold",
+      "shapes",
+      "thick"
+    ],
+    "g12": [
+      "hazy",
+      "heavy",
+      "cloudy",
+      "misty",
+      "dense",
+      "overlapping"
+    ],
+    "g35": [
+      "mood",
+      "pattern",
+      "background",
+      "shapes",
+      "overlapping",
+      "texture"
+    ],
+    "g68": [
+      "monochrome",
+      "tone",
+      "edge",
+      "overlap",
+      "sensation",
+      "dense"
+    ],
+    "g910": [
+      "Futurism",
+      "perception",
+      "solidity",
+      "structure",
+      "atmosphere",
+      "abstraction"
+    ],
+    "g1112": [
+      "modernity",
+      "intangible",
+      "tonal structure",
+      "experiment",
+      "limits",
+      "urban"
     ]
   }
 }

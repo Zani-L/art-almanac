@@ -155,5 +155,55 @@
       "Ask students to find where the painting is brightest and discuss how the dots help create that glow.",
       "Compare this with a smoothly blended sunset painting and discuss how technique changes the mood."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "pink",
+      "cloud",
+      "dots",
+      "tree",
+      "sky",
+      "garden"
+    ],
+    "g12": [
+      "sunset",
+      "glowing",
+      "sparkling",
+      "dotted",
+      "tall",
+      "warm"
+    ],
+    "g35": [
+      "pattern",
+      "background",
+      "mood",
+      "glow",
+      "detail",
+      "foreground"
+    ],
+    "g68": [
+      "Pointillism",
+      "cypress",
+      "complementary",
+      "landscape",
+      "small dots",
+      "evening"
+    ],
+    "g910": [
+      "optical mixing",
+      "technique",
+      "Neo-Impressionism",
+      "horizon",
+      "lyrical",
+      "color theory"
+    ],
+    "g1112": [
+      "sensation",
+      "arrangement",
+      "science",
+      "vision",
+      "harmony",
+      "Saint-Clair"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to design a small painting of their own good wishes using three symbols.",
       "Discuss why people might hang pictures of good fortune in their homes, and compare traditions from different cultures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "rooster",
+      "hen",
+      "sun",
+      "waves",
+      "rock",
+      "red"
+    ],
+    "g12": [
+      "golden",
+      "colorful",
+      "bright",
+      "tall",
+      "lively",
+      "splashing"
+    ],
+    "g35": [
+      "hanging scroll",
+      "symbols",
+      "long life",
+      "mushrooms",
+      "folk painting",
+      "tree"
+    ],
+    "g68": [
+      "Joseon dynasty",
+      "symbolism",
+      "longevity",
+      "genre",
+      "scroll",
+      "tradition"
+    ],
+    "g910": [
+      "auspicious",
+      "ten symbols",
+      "folk style",
+      "good fortune",
+      "birds-and-flowers",
+      "motif"
+    ],
+    "g1112": [
+      "late Joseon",
+      "social classes",
+      "iconography",
+      "genre blending",
+      "anonymous artist",
+      "interpretation"
+    ]
   }
 }

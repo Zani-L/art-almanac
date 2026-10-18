@@ -8,11 +8,10 @@
   "movement": "Futurism",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-coney-island.png",
+    "url": "https://www.arthistoryproject.com/site/assets/files/37593/joseph-stella-coney-island-1914-obelisk-art-history.png",
     "credit": "Metropolitan Museum of Art, New York (as stated on source page); via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-stella/coney-island/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/37593/joseph-stella-coney-island-1914-obelisk-art-history.png"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-stella/coney-island/"
   },
   "altText": "A round painting filled with bright, energetic shapes and colors that suggest the movement and excitement of an amusement park rather than a clear view of it.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a busy place such as a cafeteria, playground or fair using only shapes, lines and bright colors to show movement.",
       "Ask older students to research Futurism and discuss how Stella's painting does or does not match the movement's interest in speed and machines.",
       "Discuss why the round shape of a tondo might suit a subject like a ride or a crowd."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "round",
+      "bright",
+      "park",
+      "colors",
+      "fun",
+      "moving"
+    ],
+    "g12": [
+      "circular",
+      "energetic",
+      "spinning",
+      "lively",
+      "exciting",
+      "colorful"
+    ],
+    "g35": [
+      "tondo",
+      "energy",
+      "round",
+      "moving shapes",
+      "amusement park",
+      "bright"
+    ],
+    "g68": [
+      "Futurism",
+      "abstraction",
+      "fragmentation",
+      "movement",
+      "modern",
+      "excitement"
+    ],
+    "g910": [
+      "urban energy",
+      "modernity",
+      "speed",
+      "mass leisure",
+      "fragmented form",
+      "dynamism"
+    ],
+    "g1112": [
+      "modernity",
+      "celebration or critique",
+      "machinery",
+      "ambivalence",
+      "description",
+      "spectacle"
     ]
   }
 }

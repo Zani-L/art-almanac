@@ -154,5 +154,55 @@
       "Ask students to list what a portrait can show about a person and what it cannot.",
       "Discuss why fragile works like pastels are kept away from strong light."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "face",
+      "soft",
+      "blue",
+      "eyes",
+      "chalk"
+    ],
+    "g12": [
+      "powdery",
+      "velvety",
+      "gentle",
+      "smooth",
+      "pale",
+      "delicate"
+    ],
+    "g35": [
+      "pastel",
+      "portrait",
+      "chalk",
+      "blue-gray",
+      "personality",
+      "paper"
+    ],
+    "g68": [
+      "toned paper",
+      "blending",
+      "likeness",
+      "modeling",
+      "ground",
+      "texture"
+    ],
+    "g910": [
+      "softness",
+      "delicacy",
+      "texture",
+      "character",
+      "subtle",
+      "intimacy"
+    ],
+    "g1112": [
+      "immediacy",
+      "surface",
+      "individuality",
+      "sitter",
+      "medium",
+      "rival"
+    ]
   }
 }

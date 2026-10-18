@@ -8,11 +8,10 @@
   "movement": "Medieval manuscript illumination",
   "region": "Germany (Rhineland, where Hildegard lived)",
   "image": {
-    "url": "/images/ahp-scivias-i.6-the-choirs-of-angels.jpg",
+    "url": "https://arthistoryproject.com/site/assets/files/12481/hildegard-von-bingen-scivias-i-6-the-choirs-of-angels-1150-obelisk-art-history.jpg",
     "credit": "Collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/hildegard-von-bingen/scivias-i.6-the-choirs-of-angels/",
-    "remoteUrl": "https://arthistoryproject.com/site/assets/files/12481/hildegard-von-bingen-scivias-i-6-the-choirs-of-angels-1150-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/hildegard-von-bingen/scivias-i.6-the-choirs-of-angels/"
   },
   "altText": "A medieval drawing in ink and gold leaf that illustrates a religious vision of groups of angels, called choirs. The figures and gold are arranged in an ordered, flat, symbolic way rather than a realistic scene.",
   "source": {
@@ -154,6 +153,56 @@
       "Explain that this was a handmade book illustration, and invite students to discuss how the care taken with materials shows the value placed on the book.",
       "Have students draw a group, such as a team or choir, in ordered rows or circles to show relationships, adding a metallic marker or crayon for emphasis.",
       "Remind students to describe religious art respectfully, focusing on what the artist made and how, and ask older students to compare how different cultures show sacred figures."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "angels",
+      "circles",
+      "flat",
+      "lines",
+      "ink"
+    ],
+    "g12": [
+      "golden",
+      "glowing",
+      "flat",
+      "ordered",
+      "ancient",
+      "winged"
+    ],
+    "g35": [
+      "gold leaf",
+      "angels",
+      "groups",
+      "manuscript",
+      "vision",
+      "arrangement"
+    ],
+    "g68": [
+      "medieval",
+      "illumination",
+      "symbolic",
+      "hierarchy",
+      "ink",
+      "ordered"
+    ],
+    "g910": [
+      "visionary",
+      "flat space",
+      "spiritual",
+      "symbolic structure",
+      "choirs",
+      "non-naturalistic"
+    ],
+    "g1112": [
+      "visionary text",
+      "salvation",
+      "crafted object",
+      "status of gold",
+      "translation",
+      "medieval devotion"
     ]
   }
 }

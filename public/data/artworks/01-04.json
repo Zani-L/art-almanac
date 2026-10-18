@@ -155,5 +155,55 @@
       "Ask pairs to cover the sky, then the trees, and discuss how the mood changes each time.",
       "Compare this landscape with the Bruegel landscape from earlier in the archive: how do two artists show a working countryside differently?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wheat",
+      "swirl",
+      "tree",
+      "sky",
+      "hills",
+      "thick"
+    ],
+    "g12": [
+      "golden",
+      "curly",
+      "wavy",
+      "tall",
+      "rippling",
+      "cloudy"
+    ],
+    "g35": [
+      "brushstroke",
+      "thick paint",
+      "rhythm",
+      "cypress",
+      "direction",
+      "summer scene"
+    ],
+    "g68": [
+      "impasto",
+      "expressive",
+      "movement",
+      "landscape",
+      "color contrast",
+      "texture"
+    ],
+    "g910": [
+      "Post-Impressionism",
+      "directional marks",
+      "vivid color",
+      "sensation",
+      "pattern",
+      "emotion"
+    ],
+    "g1112": [
+      "subjective expression",
+      "biographical reading",
+      "formal concerns",
+      "surface",
+      "mortality",
+      "interpretation"
+    ]
   }
 }

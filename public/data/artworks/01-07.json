@@ -155,5 +155,55 @@
       "Ask pairs to describe the print using only evidence they can see, then compare their ideas about mood.",
       "Compare with the Great Wave print in the archive: how do the two artists use scale and weather differently?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "snow",
+      "white",
+      "tall",
+      "boats",
+      "river",
+      "tree"
+    ],
+    "g12": [
+      "winter",
+      "quiet",
+      "peaceful",
+      "cold",
+      "bare",
+      "snowy"
+    ],
+    "g35": [
+      "woodblock print",
+      "carver",
+      "printer",
+      "tall shape",
+      "peaceful",
+      "season"
+    ],
+    "g68": [
+      "ukiyo-e",
+      "composition",
+      "vertical format",
+      "atmosphere",
+      "Edo period",
+      "weather"
+    ],
+    "g910": [
+      "human scale",
+      "tranquility",
+      "collaboration",
+      "open space",
+      "impression",
+      "contemplative"
+    ],
+    "g1112": [
+      "commercial production",
+      "Edo-area setting",
+      "formal restraint",
+      "influence",
+      "mood",
+      "tentative reading"
+    ]
   }
 }

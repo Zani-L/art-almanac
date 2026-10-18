@@ -153,5 +153,55 @@
       "Have students compare the sky today with the cloud study and describe three differences.",
       "Discuss what a study is for, and whether it can be a finished artwork."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cloud",
+      "sky",
+      "gray",
+      "blue",
+      "white",
+      "wet"
+    ],
+    "g12": [
+      "soft",
+      "fluffy",
+      "cloudy",
+      "stormy",
+      "windy",
+      "misty"
+    ],
+    "g35": [
+      "watercolor",
+      "study",
+      "weather",
+      "graphite",
+      "shadow",
+      "sky"
+    ],
+    "g68": [
+      "wash",
+      "atmosphere",
+      "tone",
+      "observation",
+      "meteorology",
+      "sketch"
+    ],
+    "g910": [
+      "tonality",
+      "transition",
+      "mood",
+      "independence",
+      "scientific",
+      "fleeting"
+    ],
+    "g1112": [
+      "cloud study",
+      "scientific attention",
+      "tonal transitions",
+      "meteorology",
+      "independent work",
+      "observation"
+    ]
   }
 }

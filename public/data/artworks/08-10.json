@@ -154,5 +154,55 @@
       "Ask pairs to describe one small section in detail and then guess what could come next.",
       "Compare how scrolls, prints, and photographs show crowds differently."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "crowd",
+      "bridge",
+      "street",
+      "people",
+      "ink",
+      "lines"
+    ],
+    "g12": [
+      "long",
+      "busy",
+      "crowded",
+      "inky",
+      "unrolling",
+      "tiny"
+    ],
+    "g35": [
+      "handscroll",
+      "unrolling",
+      "story",
+      "crowds",
+      "ink",
+      "seasons"
+    ],
+    "g68": [
+      "Kyoto",
+      "naturalism",
+      "narrative",
+      "sequence",
+      "ink wash",
+      "composition"
+    ],
+    "g910": [
+      "temporal",
+      "observation",
+      "tone",
+      "gesture",
+      "line",
+      "leisure"
+    ],
+    "g1112": [
+      "social record",
+      "constructed image",
+      "convention",
+      "selectivity",
+      "Edo period",
+      "sequence"
+    ]
   }
 }

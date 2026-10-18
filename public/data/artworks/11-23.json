@@ -8,11 +8,10 @@
   "movement": "Realism",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-cleaning-fish.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/21679/george_bellows-cleaning_fish-1913-obelisk-art-history.jpg",
     "credit": "Nelson-Atkins Museum of Art, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/george-bellows/cleaning-fish/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/21679/george_bellows-cleaning_fish-1913-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/george-bellows/cleaning-fish/"
   },
   "altText": "A few workers bend over their task of preparing fish, painted with broad, rough brushstrokes in earthy and bright colors. The figures are shown as simple, solid shapes in an outdoor or working setting.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students act out a pose from the painting and then draw it with quick, thick lines to see how gesture shows effort.",
       "Ask students to interview a family member or community member about their work and make a quick painting or drawing that honors it.",
       "Discuss why artists might choose ordinary jobs as subjects and how that choice shapes what viewers think about work."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fish",
+      "work",
+      "busy",
+      "rough",
+      "people",
+      "bend"
+    ],
+    "g12": [
+      "workers",
+      "loose",
+      "solid",
+      "outdoor",
+      "bending",
+      "earthy"
+    ],
+    "g35": [
+      "brushstrokes",
+      "effort",
+      "oil paint",
+      "panel",
+      "figures",
+      "energy"
+    ],
+    "g68": [
+      "realism",
+      "labor",
+      "gesture",
+      "weight",
+      "composition",
+      "everyday life"
+    ],
+    "g910": [
+      "urban realism",
+      "spontaneity",
+      "movement",
+      "dignity",
+      "emphasis",
+      "energy"
+    ],
+    "g1112": [
+      "immediacy",
+      "perspective",
+      "romanticize",
+      "representation",
+      "paint handling",
+      "documentation"
     ]
   }
 }

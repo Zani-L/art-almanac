@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-girl-arranging-her-hair.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/6709/mary-cassatt-girl-arranging-her-hair-1886-obelisk-art-history.jpg",
     "credit": "National Gallery of Art, Washington, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/mary-cassatt/girl-arranging-her-hair/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/6709/mary-cassatt-girl-arranging-her-hair-1886-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/mary-cassatt/girl-arranging-her-hair/"
   },
   "altText": "A young girl sits with her hands raised to her hair, wearing a pale, loosely painted garment. She is shown close up against a patterned background, with soft, visible brushstrokes.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a classmate doing an ordinary action, using quick, loose lines rather than careful outlines.",
       "Ask students to describe what the girl might be thinking and to separate evidence from guesses.",
       "Discuss why artists chose everyday moments as subjects during the Impressionist period."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "hands",
+      "hair",
+      "pink",
+      "soft",
+      "pale"
+    ],
+    "g12": [
+      "brushing",
+      "loose",
+      "quiet",
+      "close",
+      "sitting",
+      "patterned"
+    ],
+    "g35": [
+      "portrait",
+      "background",
+      "pattern",
+      "mood",
+      "detail",
+      "brushstrokes"
+    ],
+    "g68": [
+      "portrait",
+      "gesture",
+      "brushstrokes",
+      "everyday",
+      "background",
+      "expression"
+    ],
+    "g910": [
+      "viewpoint",
+      "Impressionism",
+      "candid",
+      "composition",
+      "spontaneity",
+      "informal"
+    ],
+    "g1112": [
+      "modernity",
+      "design",
+      "representation",
+      "sitter",
+      "intimacy",
+      "unposed"
     ]
   }
 }

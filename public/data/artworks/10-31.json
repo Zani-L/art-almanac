@@ -153,5 +153,55 @@
       "Ask students to talk about how perspective makes a flat page feel deep.",
       "Discuss how visitors and locals may see the same landmark differently."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "castle",
+      "walls",
+      "tower",
+      "lines",
+      "brown",
+      "gray"
+    ],
+    "g12": [
+      "solid",
+      "tall",
+      "shaded",
+      "stony",
+      "fine",
+      "huge"
+    ],
+    "g35": [
+      "drawing",
+      "pen",
+      "wash",
+      "shadow",
+      "stone",
+      "England"
+    ],
+    "g68": [
+      "hatching",
+      "structure",
+      "perspective",
+      "landmark",
+      "topography",
+      "shading"
+    ],
+    "g910": [
+      "economy",
+      "topography",
+      "interpretation",
+      "patronage",
+      "outsider",
+      "rendering"
+    ],
+    "g1112": [
+      "view painter",
+      "topographical accuracy",
+      "foreign eye",
+      "national landmark",
+      "English patrons",
+      "wash drawing"
+    ]
   }
 }

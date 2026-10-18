@@ -8,11 +8,10 @@
   "movement": "Scientific illustration",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-art-forms-in-nature-plate-49-actiniae.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16617/ernst_haeckel-art_forms_in_nature-_plate_49-_actiniae-1904-obelisk-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/ernst-haeckel/art-forms-in-nature-plate-49-actiniae/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16617/ernst_haeckel-art_forms_in_nature-_plate_49-_actiniae-1904-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/ernst-haeckel/art-forms-in-nature-plate-49-actiniae/"
   },
   "altText": "Many sea anemones are arranged together on one page, each with a soft body and rings of tentacles that spread outward like flower petals. The shapes repeat in different sizes and poses, forming a patterned, almost decorative design.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch one anemone by starting with a central circle and adding repeating tentacles, then compare how the radial pattern looks in different drawings.",
       "Ask students to sort what they see on the plate into 'looks like science' and 'looks like design' and discuss where the two overlap.",
       "Compare this plate with a modern photograph of a sea anemone and discuss what each kind of image can and cannot show."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "round",
+      "soft",
+      "pink",
+      "shape",
+      "page",
+      "flower"
+    ],
+    "g12": [
+      "curved",
+      "spreading",
+      "patterned",
+      "repeated",
+      "delicate",
+      "crowded"
+    ],
+    "g35": [
+      "pattern",
+      "tentacles",
+      "repeat",
+      "sea anemone",
+      "print",
+      "arrangement"
+    ],
+    "g68": [
+      "symmetry",
+      "composition",
+      "scientific illustration",
+      "ornamental",
+      "lithograph",
+      "organic"
+    ],
+    "g910": [
+      "radial symmetry",
+      "natural history",
+      "rhythm",
+      "stylization",
+      "design",
+      "repetition"
+    ],
+    "g1112": [
+      "objectivity",
+      "visual culture",
+      "documentary",
+      "ornament",
+      "representation",
+      "scientific illustration"
     ]
   }
 }

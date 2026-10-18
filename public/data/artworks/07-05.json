@@ -154,5 +154,55 @@
       "Ask students how symbols can mean different things in different cultures.",
       "Discuss the difference between an image that represents and an object believed to act."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "eye",
+      "small",
+      "flat",
+      "animals",
+      "line",
+      "blue"
+    ],
+    "g12": [
+      "tiny",
+      "curling",
+      "carved",
+      "stylized",
+      "ancient",
+      "bold"
+    ],
+    "g35": [
+      "amulet",
+      "symbol",
+      "protection",
+      "ancient Egypt",
+      "faience",
+      "healing"
+    ],
+    "g68": [
+      "wedjat",
+      "ceramic",
+      "symbolic",
+      "ritual",
+      "belief",
+      "hieroglyphic"
+    ],
+    "g910": [
+      "apotropaic",
+      "iconography",
+      "wholeness",
+      "votive",
+      "religious belief",
+      "function"
+    ],
+    "g1112": [
+      "agency of images",
+      "belief",
+      "reconstruction",
+      "context",
+      "visual culture",
+      "symbolic program"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to name a personal object they would pass down and what it says about them.",
       "Discuss how an object that was once used daily looks different in a museum case."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wood",
+      "small",
+      "brown",
+      "smooth",
+      "old",
+      "curved"
+    ],
+    "g12": [
+      "carved",
+      "sturdy",
+      "polished",
+      "dark",
+      "simple",
+      "useful"
+    ],
+    "g35": [
+      "headrest",
+      "carving",
+      "pillow",
+      "braided hair",
+      "family",
+      "handmade"
+    ],
+    "g68": [
+      "function",
+      "sculpture",
+      "heirloom",
+      "patina",
+      "craftsmanship",
+      "tradition"
+    ],
+    "g910": [
+      "utility",
+      "symbolism",
+      "ritual",
+      "inheritance",
+      "form",
+      "status"
+    ],
+    "g1112": [
+      "material culture",
+      "funerary use",
+      "gender symbolism",
+      "scholarly reinterpretation",
+      "patina",
+      "heirloom"
+    ]
   }
 }

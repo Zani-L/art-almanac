@@ -154,5 +154,55 @@
       "Ask students to discuss what a museum can and cannot know about an object's meaning.",
       "Invite students to find Yup'ik community or tribal sources to learn more about the living tradition."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mask",
+      "wood",
+      "tall",
+      "paint",
+      "carved",
+      "plant"
+    ],
+    "g12": [
+      "carved",
+      "painted",
+      "fibers",
+      "unusual",
+      "shapes",
+      "handmade"
+    ],
+    "g35": [
+      "carving",
+      "pigment",
+      "fiber",
+      "wood",
+      "mask",
+      "shape"
+    ],
+    "g68": [
+      "construction",
+      "materials",
+      "scale",
+      "Alaska Native",
+      "tradition",
+      "craftsmanship"
+    ],
+    "g910": [
+      "cultural context",
+      "collection history",
+      "sculptural form",
+      "handmade",
+      "material culture",
+      "provenance"
+    ],
+    "g1112": [
+      "cultural authority",
+      "museum collecting",
+      "outsider interpretation",
+      "Indigenous knowledge",
+      "original context",
+      "limits of evidence"
+    ]
   }
 }

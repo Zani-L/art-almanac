@@ -8,11 +8,10 @@
   "movement": "Romantic",
   "region": "England (scene set in Rome, Italy)",
   "image": {
-    "url": "/images/ahp-the-annual-girandola-at-the-castel-santangelo-rome.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/27988/joseph-wright-of-derby-the-annual-girandola-at-the-castel-santangelo-rome-1776-obelisk-art-history.jpg",
     "credit": "Walker Art Gallery, England; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-wright-of-derby/the-annual-girandola-at-the-castel-santangelo-rome/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/27988/joseph-wright-of-derby-the-annual-girandola-at-the-castel-santangelo-rome-1776-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/joseph-wright-of-derby/the-annual-girandola-at-the-castel-santangelo-rome/"
   },
   "altText": "A night scene of a large fortress beside a river, with bright fireworks bursting from the top and lighting the sky. Glowing reflections spread across the water, and small dark figures stand along the foreground.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint or draw a night scene with one glowing light source and discuss how it changes the other colors.",
       "Ask students to find where the darkest and lightest parts meet and describe how the painter keeps both from looking flat.",
       "Discuss how a painting of a public celebration records what people enjoyed in the past."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "night",
+      "fire",
+      "bright",
+      "sky",
+      "water",
+      "castle"
+    ],
+    "g12": [
+      "fireworks",
+      "glowing",
+      "dark",
+      "river",
+      "sparkling",
+      "exploding"
+    ],
+    "g35": [
+      "fireworks",
+      "reflection",
+      "night",
+      "fortress",
+      "shadow",
+      "mysterious"
+    ],
+    "g68": [
+      "chiaroscuro",
+      "light source",
+      "contrast",
+      "spectacle",
+      "Romantic",
+      "dramatic"
+    ],
+    "g910": [
+      "sublime",
+      "scale",
+      "wonder",
+      "tenebrism",
+      "spectacle",
+      "observed place"
+    ],
+    "g1112": [
+      "Romantic sensibility",
+      "artistic effect",
+      "public spectacle",
+      "Enlightenment interest",
+      "theatricality",
+      "specific locale"
     ]
   }
 }

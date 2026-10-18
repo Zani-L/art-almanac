@@ -155,5 +155,55 @@
       "Ask students to write short drawing instructions for the page as if teaching a classmate.",
       "Discuss the roles of designer, carver, and printer in producing one page."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "house",
+      "tree",
+      "lines",
+      "book",
+      "rock",
+      "print"
+    ],
+    "g12": [
+      "printed",
+      "carved",
+      "landscape",
+      "buildings",
+      "copies",
+      "fine"
+    ],
+    "g35": [
+      "woodblock",
+      "manual",
+      "carver",
+      "print",
+      "landscape",
+      "outline"
+    ],
+    "g68": [
+      "reproduction",
+      "instructional",
+      "Qing dynasty",
+      "brushwork",
+      "ink",
+      "process"
+    ],
+    "g910": [
+      "print culture",
+      "model",
+      "translation of line",
+      "collaboration",
+      "accessibility",
+      "convention"
+    ],
+    "g1112": [
+      "art and instruction",
+      "late imperial China",
+      "mediation",
+      "artistic canon",
+      "double process",
+      "wide audience"
+    ]
   }
 }

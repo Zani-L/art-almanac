@@ -155,5 +155,55 @@
       "Ask students to compare a quick phone photo of their arrangement with this painting, looking at light and detail.",
       "Note that the painting includes a glass of wine as one of the objects, and decide in advance how your class will discuss it."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cake",
+      "fruit",
+      "glass",
+      "grapes",
+      "table",
+      "sweet"
+    ],
+    "g12": [
+      "shiny",
+      "round",
+      "juicy",
+      "tasty",
+      "fancy",
+      "smooth"
+    ],
+    "g35": [
+      "background",
+      "shine",
+      "texture",
+      "detail",
+      "pattern",
+      "shadow"
+    ],
+    "g68": [
+      "still life",
+      "texture",
+      "highlight",
+      "arrangement",
+      "shine",
+      "table"
+    ],
+    "g910": [
+      "composition",
+      "illusion",
+      "material",
+      "genre",
+      "abundance",
+      "skill"
+    ],
+    "g1112": [
+      "transience",
+      "domesticity",
+      "market",
+      "restraint",
+      "close looking",
+      "American"
+    ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask students to describe only one section aloud and see if others can guess the rest.",
       "Discuss why artists painted earlier eras and compare with another artwork that looks to the past."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cats",
+      "birds",
+      "garden",
+      "roll",
+      "long",
+      "silk"
+    ],
+    "g12": [
+      "scroll",
+      "spring",
+      "plants",
+      "play",
+      "painted",
+      "leisure"
+    ],
+    "g35": [
+      "handscroll",
+      "silk",
+      "Tang dynasty",
+      "sequence",
+      "garden",
+      "unrolling"
+    ],
+    "g68": [
+      "rhythm",
+      "flow",
+      "left to right",
+      "detail",
+      "gentle mood",
+      "storytelling"
+    ],
+    "g910": [
+      "format",
+      "Qing dynasty",
+      "leisure",
+      "elegance",
+      "narrative",
+      "pacing"
+    ],
+    "g1112": [
+      "attribution",
+      "workshop practice",
+      "refinement",
+      "nostalgia",
+      "viewing sequence",
+      "market"
+    ]
   }
 }

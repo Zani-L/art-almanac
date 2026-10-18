@@ -155,5 +155,55 @@
       "Have students sketch a circular design that tells a story with only three figures and one important gesture.",
       "Discuss why leaders in different times have used images of chosen or special rulers."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "plate",
+      "silver",
+      "round",
+      "man",
+      "shiny",
+      "heavy"
+    ],
+    "g12": [
+      "metal",
+      "raised",
+      "carved",
+      "royal",
+      "shining",
+      "crowded"
+    ],
+    "g35": [
+      "pattern",
+      "detail",
+      "background",
+      "pose",
+      "sculpture",
+      "scene"
+    ],
+    "g68": [
+      "relief",
+      "Bible",
+      "prophet",
+      "pose",
+      "ceremony",
+      "silverwork"
+    ],
+    "g910": [
+      "Byzantine",
+      "narrative",
+      "hierarchy",
+      "classicizing",
+      "composition",
+      "tradition"
+    ],
+    "g1112": [
+      "imperial ideology",
+      "iconography",
+      "selection",
+      "continuity",
+      "stamps",
+      "political context"
+    ]
   }
 }

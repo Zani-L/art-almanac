@@ -155,5 +155,55 @@
       "Hold a transparency or tracing paper to a window to discuss how transmitted light differs from reflected light.",
       "Discuss how stories of travel and shelter appear in different cultures and times."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "round",
+      "donkey",
+      "baby",
+      "man",
+      "glass",
+      "yellow"
+    ],
+    "g12": [
+      "clear",
+      "traveling",
+      "journey",
+      "family",
+      "painted",
+      "tiny"
+    ],
+    "g35": [
+      "roundel",
+      "silver stain",
+      "detail",
+      "figures",
+      "story",
+      "window glass"
+    ],
+    "g68": [
+      "transparent",
+      "outline",
+      "scene",
+      "travelers",
+      "tone",
+      "small scale"
+    ],
+    "g910": [
+      "narrative",
+      "devotional image",
+      "craftsmanship",
+      "vitreous paint",
+      "medieval",
+      "intimate scale"
+    ],
+    "g1112": [
+      "domestic devotion",
+      "technique",
+      "late Gothic",
+      "patronage",
+      "close viewing",
+      "iconography"
+    ]
   }
 }

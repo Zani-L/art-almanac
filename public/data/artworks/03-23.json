@@ -155,5 +155,55 @@
       "Compare how this painting suggests sound with how a student's drawing of their favorite song does.",
       "Discuss how seasons and festivals appear in art and music from students' own cultures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "king",
+      "music",
+      "tree",
+      "palace",
+      "small",
+      "gold"
+    ],
+    "g12": [
+      "musicians",
+      "jeweled",
+      "seated",
+      "tiny",
+      "flowering",
+      "painted"
+    ],
+    "g35": [
+      "pattern",
+      "background",
+      "detail",
+      "mood",
+      "design",
+      "foreground"
+    ],
+    "g68": [
+      "miniature",
+      "raga",
+      "harvest",
+      "architecture",
+      "instrument",
+      "festival"
+    ],
+    "g910": [
+      "Rajput",
+      "ragamala",
+      "mood",
+      "sound",
+      "detail",
+      "Bundi style"
+    ],
+    "g1112": [
+      "patronage",
+      "flattery",
+      "illustration",
+      "evidence",
+      "season",
+      "interpretation"
+    ]
   }
 }

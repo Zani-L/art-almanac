@@ -8,11 +8,10 @@
   "movement": "Mannerism",
   "region": "Italy",
   "image": {
-    "url": "/images/ahp-summer-arcimboldo.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11193/giuseppe_arcimboldo-summer-1563-trivium-art-history.jpg",
     "credit": "Kunsthistorisches Museum, Vienna; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/giuseppe-arcimboldo/summer/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11193/giuseppe_arcimboldo-summer-1563-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/giuseppe-arcimboldo/summer/"
   },
   "altText": "A side-view portrait of a face and shoulders built entirely from summer fruits, vegetables and grains, so that ears, cheeks and clothing are made of produce.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a profile and fill it with fruits, vegetables or objects of their choice, then trade and guess the features.",
       "Ask students to find five foods and name the face part each one forms, then discuss what the painter noticed about shapes.",
       "Discuss whether the painting is funny, serious or both, and what evidence supports each view."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "face",
+      "fruit",
+      "food",
+      "corn",
+      "nose",
+      "funny"
+    ],
+    "g12": [
+      "grains",
+      "vegetables",
+      "harvest",
+      "season",
+      "tricky",
+      "hidden"
+    ],
+    "g35": [
+      "portrait",
+      "seasons",
+      "summer",
+      "produce",
+      "puzzle",
+      "detail"
+    ],
+    "g68": [
+      "trick",
+      "hidden images",
+      "humor",
+      "texture",
+      "plenty",
+      "clever"
+    ],
+    "g910": [
+      "composite portrait",
+      "profile",
+      "allegory",
+      "wit",
+      "Mannerism",
+      "still life"
+    ],
+    "g1112": [
+      "visual puzzle",
+      "abundance",
+      "learned joke",
+      "illusion",
+      "observation",
+      "double reading"
     ]
   }
 }

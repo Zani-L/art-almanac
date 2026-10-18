@@ -8,11 +8,10 @@
   "movement": "Italian Renaissance",
   "region": "Italy",
   "image": {
-    "url": "/images/ahp-mona-lisa.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/29024/leonardo_da_vinci-mona_lisa-1506-obelisk-art-history-1.jpg",
     "credit": "Musée du Louvre, Paris; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/leonardo-da-vinci/mona-lisa/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/29024/leonardo_da_vinci-mona_lisa-1506-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/leonardo-da-vinci/mona-lisa/"
   },
   "altText": "A half-length portrait of a woman seated and turned slightly toward the viewer, with dark hair, a dark dress and folded hands. Behind her a hazy landscape of paths, water and distant mountains fades into soft blue-green tones.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students sketch a face with a hard outline, then redo it by blending edges with a finger or soft pencil, and compare.",
       "Ask students to write three different descriptions of her expression and discuss why the images allow so many readings.",
       "Compare the detail in the face and the landscape, and discuss how the artist guides attention."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "woman",
+      "hands",
+      "dark",
+      "hair",
+      "hills",
+      "water"
+    ],
+    "g12": [
+      "calm",
+      "hazy",
+      "mysterious",
+      "seated",
+      "soft",
+      "smiling"
+    ],
+    "g35": [
+      "portrait",
+      "sfumato",
+      "soft edges",
+      "panel",
+      "landscape",
+      "expression"
+    ],
+    "g68": [
+      "Renaissance",
+      "atmospheric perspective",
+      "contour",
+      "composition",
+      "blending",
+      "background"
+    ],
+    "g910": [
+      "sitter",
+      "ambiguity",
+      "invented setting",
+      "oil technique",
+      "naturalism",
+      "gaze"
+    ],
+    "g1112": [
+      "fame",
+      "reputation",
+      "contour",
+      "interpretation",
+      "portraiture",
+      "fresh looking"
     ]
   }
 }

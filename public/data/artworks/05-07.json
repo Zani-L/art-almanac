@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-mont-sainte-victoire-with-large-pine.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11966/paul-cezanne-mont-sainte-victoire-with-large-pine-1887-trivium-art-history.jpg",
     "credit": "The Courtauld Gallery, London; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-cezanne/mont-sainte-victoire-with-large-pine/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11966/paul-cezanne-mont-sainte-victoire-with-large-pine-1887-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-cezanne/mont-sainte-victoire-with-large-pine/"
   },
   "altText": "A large pine tree with spreading branches frames the top of a landscape, with a long mountain rising in the distance above patchwork fields. The brushstrokes are small and visible, in greens, blues and warm earth colors.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a hill or building using only small patches of color without outlines, then step back to see the form.",
       "Ask students to choose a nearby view and draw it with a large foreground object framing a distant one.",
       "Discuss why an artist might paint the same view many times."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "mountain",
+      "green",
+      "blue",
+      "big",
+      "far"
+    ],
+    "g12": [
+      "tall",
+      "spreading",
+      "distant",
+      "patchy",
+      "leafy",
+      "earthy"
+    ],
+    "g35": [
+      "pine",
+      "patches",
+      "fields",
+      "frame",
+      "distance",
+      "brushstrokes"
+    ],
+    "g68": [
+      "Post-Impressionism",
+      "composition",
+      "landscape",
+      "frame",
+      "depth",
+      "form"
+    ],
+    "g910": [
+      "analytic",
+      "directional strokes",
+      "flattening",
+      "construction",
+      "surface",
+      "space"
+    ],
+    "g1112": [
+      "construction",
+      "surface",
+      "classification",
+      "modeling",
+      "modernity",
+      "analysis"
     ]
   }
 }

@@ -155,5 +155,55 @@
       "Compare this cover with a modern book jacket and discuss what both communicate about the content.",
       "Discuss how objects can survive without the things they once protected."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wood",
+      "long",
+      "red",
+      "book",
+      "three",
+      "old"
+    ],
+    "g12": [
+      "carved",
+      "narrow",
+      "cover",
+      "paint",
+      "faded",
+      "thin"
+    ],
+    "g35": [
+      "carved",
+      "wood",
+      "cover",
+      "attendants",
+      "narrow",
+      "book"
+    ],
+    "g68": [
+      "relief carving",
+      "manuscript",
+      "palm leaf",
+      "Buddhist",
+      "symmetry",
+      "format"
+    ],
+    "g910": [
+      "horizontal format",
+      "bodhisattva",
+      "devotional",
+      "utilitarian object",
+      "narrow space",
+      "sacred image"
+    ],
+    "g1112": [
+      "format constraint",
+      "text and image",
+      "survival without book",
+      "sacred and utilitarian",
+      "palm-leaf descent",
+      "Tibetan Buddhism"
+    ]
   }
 }

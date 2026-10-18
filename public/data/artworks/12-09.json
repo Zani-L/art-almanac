@@ -155,5 +155,55 @@
       "Compare the toys in the painting with toys today and discuss what changed and what stayed the same.",
       "Discuss why some children were painted and others were not, and what that reveals about who could commission portraits."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "kids",
+      "doll",
+      "toy",
+      "girl",
+      "boy",
+      "family"
+    ],
+    "g12": [
+      "children",
+      "posed",
+      "simple",
+      "dolls",
+      "together",
+      "clear"
+    ],
+    "g35": [
+      "portrait",
+      "toys",
+      "folk",
+      "outlines",
+      "childhood",
+      "pose"
+    ],
+    "g68": [
+      "folk painting",
+      "prop",
+      "contour",
+      "composition",
+      "domestic",
+      "simplified"
+    ],
+    "g910": [
+      "stylization",
+      "flatness",
+      "symbolism",
+      "hierarchy",
+      "innocence",
+      "detail"
+    ],
+    "g1112": [
+      "vernacular",
+      "ideals",
+      "gender",
+      "domestic life",
+      "naive",
+      "skill"
+    ]
   }
 }

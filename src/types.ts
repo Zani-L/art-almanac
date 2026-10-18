@@ -105,6 +105,8 @@ export interface Artwork {
   descriptions: Record<GradeBandId, string>;
   questions: Record<GradeBandId, Record<CategoryId, string>>;
   safety: SafetyReview;
+  /** About six discussion words per grade band, shown under the question in classroom view. */
+  helpfulWords?: Record<GradeBandId, string[]>;
   teacherNote?: TeacherNote;
 }
 

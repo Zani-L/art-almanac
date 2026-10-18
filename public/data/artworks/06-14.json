@@ -154,5 +154,55 @@
       "Discuss which objects people carry today as both tools and fashion statements.",
       "Compare how shimmering materials look in motion versus in a still photograph."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fan",
+      "shell",
+      "paper",
+      "open",
+      "people",
+      "shiny"
+    ],
+    "g12": [
+      "folding",
+      "shimmering",
+      "painted",
+      "pale",
+      "rounded",
+      "delicate"
+    ],
+    "g35": [
+      "mother-of-pearl",
+      "gouache",
+      "sticks",
+      "leaf",
+      "folding fan",
+      "detail"
+    ],
+    "g68": [
+      "elegance",
+      "decoration",
+      "fine work",
+      "fine craft",
+      "fashion",
+      "shimmer"
+    ],
+    "g910": [
+      "iridescent",
+      "accessory",
+      "luxury craft",
+      "sociability",
+      "motion",
+      "scene"
+    ],
+    "g1112": [
+      "self-presentation",
+      "gender",
+      "sociability",
+      "luxury",
+      "close viewing",
+      "eighteenth-century"
+    ]
   }
 }

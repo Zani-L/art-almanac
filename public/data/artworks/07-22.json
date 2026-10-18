@@ -8,11 +8,10 @@
   "movement": "Orientalist painting",
   "region": "Egypt",
   "image": {
-    "url": "/images/ahp-egypt-banks-of-the-nile.jpg",
+    "url": "https://arthistoryproject.com/site/assets/files/26164/augustus_osborne_lamplough-egypt-_banks_of_the_nile-1900-obelisk-art-history.jpg",
     "credit": "Wellcome Library, London; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://arthistoryproject.com/artists/a-o-lamplough/egypt-banks-of-the-nile/",
-    "remoteUrl": "https://arthistoryproject.com/site/assets/files/26164/augustus_osborne_lamplough-egypt-_banks_of_the_nile-1900-obelisk-art-history.jpg"
+    "licenseUrl": "https://arthistoryproject.com/artists/a-o-lamplough/egypt-banks-of-the-nile/"
   },
   "altText": "A watercolor landscape of the banks of the Nile in Egypt, tagged as a river bank scene at sunrise or sunset. A river and its edge are the main subjects.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a quick watercolor wash of a sky, working wet-into-wet to see colors blend.",
       "Ask students to locate Egypt and the Nile on a map and discuss why rivers matter to communities.",
       "With older students, discuss who made the picture and for whom, and how an outsider's view can differ from a local one."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "river",
+      "sky",
+      "sun",
+      "water",
+      "boat",
+      "warm"
+    ],
+    "g12": [
+      "glowing",
+      "calm",
+      "reflecting",
+      "misty",
+      "golden",
+      "peaceful"
+    ],
+    "g35": [
+      "watercolor",
+      "riverbank",
+      "wash",
+      "sunset",
+      "sunrise",
+      "time of day"
+    ],
+    "g68": [
+      "atmosphere",
+      "transparent",
+      "Orientalism",
+      "landscape",
+      "horizon",
+      "light"
+    ],
+    "g910": [
+      "washes",
+      "Orientalism",
+      "mood",
+      "perspective",
+      "outsider view",
+      "formal choices"
+    ],
+    "g1112": [
+      "exoticism",
+      "Western gaze",
+      "audience",
+      "critical lens",
+      "beauty and mood",
+      "power of framing"
     ]
   }
 }

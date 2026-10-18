@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-starry-night.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11573/vincent-van-gogh-the-starry-night-1889-trivium-art-history.jpg",
     "credit": "Museum of Modern Art (MoMA), New York, United States; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/the-starry-night/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11573/vincent-van-gogh-the-starry-night-1889-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/the-starry-night/"
   },
   "altText": "A night sky filled with swirling, curling blue and yellow lines, bright stars with glowing halos and a crescent moon, above a small village with a tall dark tree in the foreground and rolling hills behind.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint or draw a night sky using only short, directional strokes and discuss how the strokes change the mood.",
       "Ask students to describe the painting to a partner without naming it, then compare which details each person chose.",
       "Discuss why people may read the same painting in different emotional ways."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stars",
+      "moon",
+      "swirl",
+      "night",
+      "blue",
+      "village"
+    ],
+    "g12": [
+      "glowing",
+      "curly",
+      "twinkling",
+      "dark",
+      "quiet",
+      "shining"
+    ],
+    "g35": [
+      "night sky",
+      "brushstroke",
+      "curling lines",
+      "village",
+      "contrast",
+      "mood"
+    ],
+    "g68": [
+      "Post-Impressionism",
+      "expressive",
+      "rhythm",
+      "complementary colors",
+      "composition",
+      "impasto"
+    ],
+    "g910": [
+      "turbulence",
+      "subjective expression",
+      "scale",
+      "spiritual yearning",
+      "symbolism",
+      "contrast"
+    ],
+    "g1112": [
+      "biographical readings",
+      "deliberate design",
+      "expressive intensity",
+      "fame",
+      "rhythmic brushwork",
+      "naturalistic description"
     ]
   }
 }

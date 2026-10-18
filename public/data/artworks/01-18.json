@@ -155,5 +155,55 @@
       "Ask pairs to list the features they would add to make it fancy, then discuss what would be lost.",
       "Compare this chair with a decorated chair elsewhere in the archive and debate which is better suited to daily life."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "chair",
+      "wood",
+      "tall",
+      "plain",
+      "curved",
+      "rockers"
+    ],
+    "g12": [
+      "simple",
+      "smooth",
+      "sturdy",
+      "rocking",
+      "useful",
+      "straight"
+    ],
+    "g35": [
+      "Shakers",
+      "rocker",
+      "turned post",
+      "useful",
+      "handmade",
+      "maple"
+    ],
+    "g68": [
+      "proportion",
+      "utility",
+      "joinery",
+      "function",
+      "simplicity",
+      "craftsmanship"
+    ],
+    "g910": [
+      "minimalism",
+      "communal life",
+      "function",
+      "restraint",
+      "construction",
+      "elegance"
+    ],
+    "g1112": [
+      "religious community",
+      "functional design",
+      "projection",
+      "collectors",
+      "museum setting",
+      "formal elegance"
+    ]
   }
 }

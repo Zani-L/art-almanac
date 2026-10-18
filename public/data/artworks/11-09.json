@@ -155,5 +155,55 @@
       "Discuss how an artist's biography can help or limit interpretation of an artwork.",
       "Compare how the empty space is used here and in another East Asian artwork in the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bird",
+      "pond",
+      "ink",
+      "black",
+      "leaf",
+      "long"
+    ],
+    "g12": [
+      "bold",
+      "flowing",
+      "thin",
+      "thick",
+      "fluid",
+      "lively"
+    ],
+    "g35": [
+      "handscroll",
+      "satin",
+      "brush strokes",
+      "lotus",
+      "Zhu Da",
+      "ink"
+    ],
+    "g68": [
+      "calligraphic",
+      "negative space",
+      "ink tone",
+      "economy",
+      "expressive",
+      "Qing dynasty"
+    ],
+    "g910": [
+      "tonality",
+      "biography",
+      "space",
+      "brushwork",
+      "speculation",
+      "gesture"
+    ],
+    "g1112": [
+      "calligraphic approach",
+      "brush economy",
+      "Ming descendant",
+      "ink-only palette",
+      "satin support",
+      "debated biography"
+    ]
   }
 }

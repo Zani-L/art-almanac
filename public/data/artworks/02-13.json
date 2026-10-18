@@ -154,5 +154,55 @@
       "Ask pairs to compare this print with a color painting of a river scene and discuss what each medium can and cannot show.",
       "Discuss why an artist might revise a plate and print it again."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boats",
+      "men",
+      "river",
+      "lines",
+      "black",
+      "white"
+    ],
+    "g12": [
+      "busy",
+      "scratchy",
+      "crowded",
+      "dark",
+      "working",
+      "thin"
+    ],
+    "g35": [
+      "etching",
+      "line variety",
+      "wharf",
+      "plate",
+      "riverside",
+      "working place"
+    ],
+    "g68": [
+      "hatching",
+      "tone",
+      "depth",
+      "state",
+      "contrast",
+      "line"
+    ],
+    "g910": [
+      "Thames series",
+      "commercial riverfront",
+      "atmosphere",
+      "successive states",
+      "revision",
+      "line"
+    ],
+    "g1112": [
+      "arrangement",
+      "close observation",
+      "working life",
+      "printmaking process",
+      "mood",
+      "final state"
+    ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "German Expressionism (Der Blaue Reiter)",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-the-foxes.jpg",
+    "url": "https://arthistoryproject.com/site/assets/files/37225/franz-marc-the-foxes-1913-obelisk-art-history.jpg",
     "credit": "Private collection; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/franz-marc/the-foxes/",
-    "remoteUrl": "https://arthistoryproject.com/site/assets/files/37225/franz-marc-the-foxes-1913-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/franz-marc/the-foxes/"
   },
   "altText": "A painting of foxes, the animals named in the title, shown in an expressive, simplified style. The artwork is an oil painting on a canvas taller than it is wide.",
   "source": {
@@ -154,6 +153,56 @@
       "Have younger students find and name the shapes that make up a fox, then draw an animal using only simple shapes.",
       "Ask students to choose a feeling and paint an animal with colors that express it, then explain their color choices.",
       "Invite older students to debate whether the painting is better described as Cubist or Expressionist, using visual evidence."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fox",
+      "bold",
+      "shape",
+      "red",
+      "animal",
+      "big"
+    ],
+    "g12": [
+      "angular",
+      "overlapping",
+      "curvy",
+      "bold",
+      "lively",
+      "colorful"
+    ],
+    "g35": [
+      "simplified",
+      "overlap",
+      "bold",
+      "animals",
+      "shapes",
+      "expressive"
+    ],
+    "g68": [
+      "expressionism",
+      "abstraction",
+      "fragmented",
+      "composition",
+      "emotion",
+      "form"
+    ],
+    "g910": [
+      "Cubism",
+      "modernism",
+      "symbolism",
+      "fragmentation",
+      "nature",
+      "geometric"
+    ],
+    "g1112": [
+      "Expressionism",
+      "Der Blaue Reiter",
+      "avant-garde",
+      "abstraction",
+      "spiritual",
+      "visual evidence"
     ]
   }
 }

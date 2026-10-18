@@ -8,11 +8,10 @@
   "movement": "Dutch Golden Age (vanitas still life)",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-still-life-with-books-and-manuscripts-and-a-skull.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/33994/edwaert_collier-still_life_with_books_and_manuscripts_and_a_skull-1663-obelisk-art-history-1.jpg",
     "credit": "National Museum of Western Art, Tokyo; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/edwaert-collier/still-life-with-books-and-manuscripts-and-a-skull/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/33994/edwaert_collier-still_life_with_books_and_manuscripts_and_a_skull-1663-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/edwaert-collier/still-life-with-books-and-manuscripts-and-a-skull/"
   },
   "altText": "A table or shelf holds a crowded group of objects: stacked books, loose papers and manuscripts, and a human skull among them. The objects are painted in muted browns, creams and golds against a dark background.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students arrange five objects from the classroom, draw them as a still life and then explain what the objects say about their interests.",
       "Ask older students to list the objects they can identify and discuss what each could symbolize, noting where scholars might disagree.",
       "Discuss the vanitas idea of impermanence and how it appears in other art or stories students know."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "books",
+      "paper",
+      "brown",
+      "old",
+      "stack",
+      "dark"
+    ],
+    "g12": [
+      "crowded",
+      "muted",
+      "golden",
+      "cream",
+      "messy",
+      "heavy"
+    ],
+    "g35": [
+      "still life",
+      "manuscripts",
+      "covers",
+      "edges",
+      "leather",
+      "texture"
+    ],
+    "g68": [
+      "vanitas",
+      "symbol",
+      "realism",
+      "arrangement",
+      "lighting",
+      "muted"
+    ],
+    "g910": [
+      "mortality",
+      "impermanence",
+      "ambition",
+      "tension",
+      "virtuosity",
+      "moral"
+    ],
+    "g1112": [
+      "vanitas",
+      "technical skill",
+      "moral meditation",
+      "symbolic reading",
+      "mortality",
+      "impermanence"
     ]
   }
 }

@@ -8,11 +8,10 @@
   "movement": "Symbolism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-portrait-of-a-young-woman-vaite-jeanne-goupil.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/8272/paul_gauguin_-_portrait_of_a_young_woman_vaite_jeanne_goupil_1896_2nd_tahiti_period_ordrupgaard_collection_copenhagen.jpg",
     "credit": "Ordrupgaard Collection, Denmark; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-gauguin/portrait-of-a-young-woman-vaite-jeanne-goupil/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/8272/paul_gauguin_-_portrait_of_a_young_woman_vaite_jeanne_goupil_1896_2nd_tahiti_period_ordrupgaard_collection_copenhagen.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-gauguin/portrait-of-a-young-woman-vaite-jeanne-goupil/"
   },
   "altText": "A portrait of a young woman painted with broad, flat areas of color and clear dark outlines rather than soft shading. Her face and clothing are simplified into bold shapes against a colorful background.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students outline a self-portrait in flat patches of color with a dark line between them, then compare it with a shaded portrait.",
       "Ask students to describe the mood of the colors alone, without talking about the face, and share different responses.",
       "Discuss how a portrait can suggest a person without showing every detail."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "flat",
+      "bold",
+      "colorful",
+      "face",
+      "lines"
+    ],
+    "g12": [
+      "outlined",
+      "simple",
+      "young",
+      "calm",
+      "patch",
+      "decorated"
+    ],
+    "g35": [
+      "outline",
+      "stained glass",
+      "enamel",
+      "flat color",
+      "portrait",
+      "background"
+    ],
+    "g68": [
+      "Symbolism",
+      "Cloisonnism",
+      "contour",
+      "pattern",
+      "simplified",
+      "design"
+    ],
+    "g910": [
+      "flatness",
+      "simplification",
+      "symbolic",
+      "outline",
+      "stained glass",
+      "abstraction"
+    ],
+    "g1112": [
+      "suggestion",
+      "naturalism",
+      "illusion",
+      "sitter",
+      "stylization",
+      "individual"
     ]
   }
 }

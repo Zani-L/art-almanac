@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-portrait-of-joseph-roulin.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/10484/vincent_van_gogh_-_portrait_of_joseph_roulin_1889_65x54cm_kroller-muller_museum_small.jpg",
     "credit": "Kröller-Müller Museum, Netherlands; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/portrait-of-joseph-roulin/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10484/vincent_van_gogh_-_portrait_of_joseph_roulin_1889_65x54cm_kroller-muller_museum_small.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/portrait-of-joseph-roulin/"
   },
   "altText": "A portrait of a bearded man shown from about the chest up, painted in thick, energetic brushstrokes with bold, saturated color. The background is lively rather than plain.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a beard or hair with short directional strokes, using thick paint or crayon pressure to show texture.",
       "Ask students to describe the sitter using only visual evidence and then list what they cannot know.",
       "Discuss how a portrait can be true to a person without looking like a photograph."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "beard",
+      "thick",
+      "bright",
+      "man",
+      "strong",
+      "swirly"
+    ],
+    "g12": [
+      "bold",
+      "lively",
+      "painted",
+      "energetic",
+      "colorful",
+      "alive"
+    ],
+    "g35": [
+      "brushstroke",
+      "portrait",
+      "background",
+      "texture",
+      "direction",
+      "detail"
+    ],
+    "g68": [
+      "impasto",
+      "expression",
+      "emotion",
+      "saturated",
+      "rhythm",
+      "likeness"
+    ],
+    "g910": [
+      "portraiture",
+      "brushwork",
+      "saturated",
+      "distortion",
+      "energy",
+      "vitality"
+    ],
+    "g1112": [
+      "subjectivity",
+      "sitter",
+      "presence",
+      "expressive color",
+      "intensity",
+      "portraiture"
     ]
   }
 }

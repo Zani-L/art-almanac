@@ -154,5 +154,55 @@
       "Ask students to explain how the paper color helps the drawing and what would change on white paper.",
       "Discuss the difference between a study and a finished artwork."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dog",
+      "head",
+      "brown",
+      "black",
+      "white",
+      "fur"
+    ],
+    "g12": [
+      "furry",
+      "alert",
+      "curious",
+      "sketchy",
+      "watching",
+      "gentle"
+    ],
+    "g35": [
+      "drawing",
+      "chalk",
+      "graphite",
+      "highlights",
+      "pose",
+      "animal"
+    ],
+    "g68": [
+      "toned paper",
+      "contour",
+      "study",
+      "observation",
+      "mood",
+      "shading"
+    ],
+    "g910": [
+      "discipline",
+      "attention",
+      "economy",
+      "decorative",
+      "modesty",
+      "turn"
+    ],
+    "g1112": [
+      "toned paper",
+      "direct observation",
+      "living attention",
+      "textile designs",
+      "modest study",
+      "minimal means"
+    ]
   }
 }

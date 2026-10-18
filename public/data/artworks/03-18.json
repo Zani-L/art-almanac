@@ -155,5 +155,55 @@
       "Discuss why museums collect everyday handmade objects as well as paintings.",
       "Compare with another vase in the archive and discuss how material changes the look of a design."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "vase",
+      "flowers",
+      "clay",
+      "round",
+      "curvy",
+      "pot"
+    ],
+    "g12": [
+      "painted",
+      "wrapped",
+      "leafy",
+      "matte",
+      "handmade",
+      "floral"
+    ],
+    "g35": [
+      "pattern",
+      "detail",
+      "design",
+      "texture",
+      "decorated",
+      "shape"
+    ],
+    "g68": [
+      "earthenware",
+      "kiln",
+      "motif",
+      "design",
+      "curved",
+      "craft"
+    ],
+    "g910": [
+      "Arts and Crafts",
+      "decorative",
+      "nature",
+      "handwork",
+      "pattern",
+      "surface"
+    ],
+    "g1112": [
+      "regional flora",
+      "craft",
+      "labor",
+      "enterprise",
+      "market",
+      "boundaries"
+    ]
   }
 }

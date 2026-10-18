@@ -155,5 +155,55 @@
       "Try a simple print: scratch a design into foam and press it onto paper.",
       "Compare this print with a color landscape painting from the same century."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "house",
+      "boat",
+      "trees",
+      "lines",
+      "black",
+      "water"
+    ],
+    "g12": [
+      "crowded",
+      "thin",
+      "thick",
+      "scratched",
+      "countryside",
+      "printed"
+    ],
+    "g35": [
+      "etching",
+      "canal",
+      "cottage",
+      "hatching",
+      "plate",
+      "village"
+    ],
+    "g68": [
+      "drypoint",
+      "impression",
+      "line weight",
+      "landscape",
+      "contrast",
+      "printmaking"
+    ],
+    "g910": [
+      "economy",
+      "tone",
+      "observation",
+      "medium",
+      "emptiness",
+      "composed"
+    ],
+    "g1112": [
+      "invention",
+      "Golden Age",
+      "economy",
+      "weather",
+      "tonality",
+      "intimacy"
+    ]
   }
 }

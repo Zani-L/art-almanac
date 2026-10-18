@@ -154,5 +154,55 @@
       "Ask students to paint or draw a shady place they know using bold, invented colors, and explain why they chose them.",
       "With older students, discuss whose point of view a painting shows. Ask what a European visitor might include or leave out about a place, and why historians and Tahitians critique such images."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "women",
+      "roof",
+      "pink",
+      "green",
+      "hot"
+    ],
+    "g12": [
+      "shady",
+      "leafy",
+      "tropical",
+      "bold",
+      "flat",
+      "hot"
+    ],
+    "g35": [
+      "frieze",
+      "thatch",
+      "shade",
+      "bold colors",
+      "row",
+      "pattern"
+    ],
+    "g68": [
+      "symbolic",
+      "stylized",
+      "color harmony",
+      "Post-Impressionism",
+      "flattened",
+      "rhythm"
+    ],
+    "g910": [
+      "symbolism",
+      "primitivism",
+      "exoticism",
+      "color harmony",
+      "synthesis",
+      "Tahiti"
+    ],
+    "g1112": [
+      "colonial gaze",
+      "projection",
+      "representation",
+      "subjective color",
+      "European tradition",
+      "critique"
+    ]
   }
 }

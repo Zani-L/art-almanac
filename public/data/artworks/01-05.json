@@ -155,5 +155,55 @@
       "Ask pairs to list what the picture shows about a country school day and what it leaves out.",
       "Compare this painting with a modern photograph of children playing and discuss what each medium captures best."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boys",
+      "run",
+      "hand",
+      "grass",
+      "hills",
+      "red"
+    ],
+    "g12": [
+      "barefoot",
+      "sunny",
+      "meadow",
+      "speeding",
+      "curving",
+      "playing"
+    ],
+    "g35": [
+      "game",
+      "schoolhouse",
+      "curve",
+      "summer",
+      "motion",
+      "hills"
+    ],
+    "g68": [
+      "genre painting",
+      "composition",
+      "diagonal",
+      "horizon line",
+      "movement",
+      "rural"
+    ],
+    "g910": [
+      "kinetic energy",
+      "nostalgia",
+      "American realism",
+      "stability",
+      "risk",
+      "illustrator"
+    ],
+    "g1112": [
+      "idealization",
+      "postwar hopes",
+      "rural childhood",
+      "national identity",
+      "interpretation",
+      "sunlit surface"
+    ]
   }
 }

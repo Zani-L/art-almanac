@@ -156,5 +156,55 @@
       "Have students compare how this painting and a Western landscape show distance.",
       "Invite students to design a miniature of a favorite gathering using bright, flat color."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "garden",
+      "gold",
+      "music",
+      "small",
+      "ladder"
+    ],
+    "g12": [
+      "musicians",
+      "bright",
+      "crowded",
+      "leafy",
+      "tiny",
+      "gathering"
+    ],
+    "g35": [
+      "manuscript",
+      "miniature",
+      "poems",
+      "opaque",
+      "details",
+      "trees"
+    ],
+    "g68": [
+      "folio",
+      "courtly",
+      "calligraphy",
+      "ornament",
+      "Persian",
+      "refinement"
+    ],
+    "g910": [
+      "decorative",
+      "density",
+      "intricate",
+      "narrative",
+      "perspective",
+      "poetry"
+    ],
+    "g1112": [
+      "patronage",
+      "illustrated",
+      "flattened space",
+      "workshop",
+      "convention",
+      "ideal"
+    ]
   }
 }

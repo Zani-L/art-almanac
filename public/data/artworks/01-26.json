@@ -155,5 +155,55 @@
       "Connect to science: observe real clouds and name their types.",
       "Discuss why artists might stage or rearrange a real place."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "road",
+      "wheat",
+      "sky",
+      "clouds",
+      "gold",
+      "field"
+    ],
+    "g12": [
+      "wide",
+      "cloudy",
+      "sunny",
+      "breezy",
+      "shadowy",
+      "distant"
+    ],
+    "g35": [
+      "landscape",
+      "road",
+      "horizon",
+      "light",
+      "cloudscape",
+      "crop"
+    ],
+    "g68": [
+      "foreground",
+      "middle ground",
+      "atmosphere",
+      "perspective",
+      "composition",
+      "sky"
+    ],
+    "g910": [
+      "observed nature",
+      "regional identity",
+      "balance",
+      "depth",
+      "light",
+      "cloud"
+    ],
+    "g1112": [
+      "commercial genre",
+      "moral meaning",
+      "Dutch landscape",
+      "influence",
+      "unresolved reading",
+      "light effects"
+    ]
   }
 }

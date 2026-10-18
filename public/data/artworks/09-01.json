@@ -155,5 +155,55 @@
       "Have students sketch what they think happens one minute later and compare their ideas.",
       "Discuss how the word Luminism was applied to artists after they worked, and why labels like this can change over time."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sky",
+      "boats",
+      "water",
+      "dark",
+      "cloud",
+      "still"
+    ],
+    "g12": [
+      "storm",
+      "calm",
+      "clouds",
+      "waiting",
+      "heavy",
+      "quiet"
+    ],
+    "g35": [
+      "thunderstorm",
+      "stillness",
+      "mood",
+      "clouds",
+      "horizon",
+      "calm"
+    ],
+    "g68": [
+      "atmosphere",
+      "contrast",
+      "anticipation",
+      "Luminism",
+      "tension",
+      "horizon line"
+    ],
+    "g910": [
+      "foreboding",
+      "scale",
+      "light-struck",
+      "charged moment",
+      "suspense",
+      "tonal contrast"
+    ],
+    "g1112": [
+      "national anxiety",
+      "interpretive claim",
+      "Luminism",
+      "sublime",
+      "hushed surface",
+      "implied threat"
+    ]
   }
 }

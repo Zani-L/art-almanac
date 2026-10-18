@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "United States / France (American artist active in Paris)",
   "image": {
-    "url": "/images/ahp-young-mother-sewing.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/22038/mary-cassatt-young-mother-sewing-1900-obelisk-art-history.jpg",
     "credit": "Metropolitan Museum of Art, New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/mary-cassatt/young-mother-sewing/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/22038/mary-cassatt-young-mother-sewing-1900-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/mary-cassatt/young-mother-sewing/"
   },
   "altText": "A woman sits sewing while a small child leans against her. Flowers are part of the scene. The figures are painted in the loose, visible brushwork of Impressionism.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students retell the scene from the point of view of the mother, then from the child, and compare what each might be thinking.",
       "Ask older students to discuss the fact that Cassatt used hired models: how does a staged scene differ from a record of real life?",
       "Invite students to draw or photograph a quiet, everyday moment at home or school and explain why it deserves attention."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mother",
+      "child",
+      "flowers",
+      "sew",
+      "soft",
+      "smile"
+    ],
+    "g12": [
+      "gentle",
+      "leaning",
+      "sewing",
+      "cozy",
+      "loose",
+      "warm"
+    ],
+    "g35": [
+      "brushwork",
+      "family",
+      "flowers",
+      "placement",
+      "ordinary moment",
+      "Impressionism"
+    ],
+    "g68": [
+      "domestic",
+      "model",
+      "composition",
+      "intimacy",
+      "loose",
+      "everyday"
+    ],
+    "g910": [
+      "maternal",
+      "staged",
+      "intimacy",
+      "domestic labor",
+      "Impressionism",
+      "gesture"
+    ],
+    "g1112": [
+      "constructed intimacy",
+      "models",
+      "women artists",
+      "domestic subject",
+      "authenticity",
+      "genre scene"
     ]
   }
 }

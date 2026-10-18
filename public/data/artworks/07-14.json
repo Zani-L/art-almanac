@@ -8,11 +8,10 @@
   "movement": "Dutch animal painting (cat painting)",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-making-music.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/36337/henriette_ronner-knip-making_music-1900-obelisk-art-history-1.jpg",
     "credit": "Private collection (as stated on source page); via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/henriette-ronner-knip/making-music/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/36337/henriette_ronner-knip-making_music-1900-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/henriette-ronner-knip/making-music/"
   },
   "altText": "A small oil painting on panel with cats as its subject, titled Making Music. The title suggests the cats are part of a musical scene.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to look for ten details of the cats before they say what they think the painting shows.",
       "Invite younger students to draw their own pet or an animal making music, using soft strokes for fur.",
       "Ask older students to discuss why artists give animals human activities and how a title guides what we see."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cats",
+      "fur",
+      "eyes",
+      "ears",
+      "soft",
+      "small"
+    ],
+    "g12": [
+      "fluffy",
+      "furry",
+      "whiskers",
+      "cute",
+      "playful",
+      "tiny"
+    ],
+    "g35": [
+      "fur",
+      "texture",
+      "detail",
+      "observation",
+      "cats",
+      "small painting"
+    ],
+    "g68": [
+      "anthropomorphic",
+      "humor",
+      "domestic",
+      "genre painting",
+      "naturalistic",
+      "sentimental"
+    ],
+    "g910": [
+      "anthropomorphism",
+      "sincerity",
+      "popular taste",
+      "observation",
+      "narrative",
+      "pets"
+    ],
+    "g1112": [
+      "private collection",
+      "domestic painting",
+      "humor",
+      "audience",
+      "title and image",
+      "popular culture"
     ]
   }
 }

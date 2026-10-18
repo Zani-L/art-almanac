@@ -155,5 +155,55 @@
       "Discuss how gestures show feelings in pictures without faces, using the elephant family.",
       "Compare with the Young Elephant Eating painting in the archive, noting the difference between a single study and a family scene."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "elephant",
+      "king",
+      "gold",
+      "tall",
+      "family",
+      "baby"
+    ],
+    "g12": [
+      "trunk",
+      "gentle",
+      "royal",
+      "caring",
+      "standing",
+      "together"
+    ],
+    "g35": [
+      "emperor",
+      "courtier",
+      "album",
+      "calf",
+      "Mughal",
+      "reaching"
+    ],
+    "g68": [
+      "composite",
+      "juxtaposition",
+      "gesture",
+      "emotion",
+      "Deccan",
+      "opaque watercolor"
+    ],
+    "g910": [
+      "hierarchy",
+      "gesture",
+      "nuance",
+      "pairing",
+      "courtly",
+      "observation"
+    ],
+    "g1112": [
+      "imperial portrait",
+      "care",
+      "tradition",
+      "attribution",
+      "compilation",
+      "individuality"
+    ]
   }
 }

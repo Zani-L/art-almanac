@@ -8,11 +8,10 @@
   "movement": "Academic art",
   "region": "Turkey",
   "image": {
-    "url": "/images/ahp-reciting-the-quran-kuran-tilaveti.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/23382/osman_hamdi_bey-reciting_the_quran_kuran_tilaveti_-1910-trivium-art-history-1.jpg",
     "credit": "Sakıp Sabancı Museum, Turkey; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/osman-hamdi-bey/reciting-the-quran-kuran-tilaveti/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/23382/osman_hamdi_bey-reciting_the_quran_kuran_tilaveti_-1910-trivium-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/osman-hamdi-bey/reciting-the-quran-kuran-tilaveti/"
   },
   "altText": "A detailed academic-style painting of a person reading in a richly decorated interior, with carefully painted textiles, objects and surfaces.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a quiet reading corner with at least three textures, then compare how they show different materials.",
       "Ask students to list what the room's objects tell us and what they cannot tell us, and discuss the difference.",
       "Invite respectful discussion about how art shows quiet daily practices; teachers may consult the relevant community for background."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "room",
+      "book",
+      "rug",
+      "rich",
+      "quiet",
+      "reading"
+    ],
+    "g12": [
+      "patterned",
+      "decorated",
+      "fancy",
+      "careful",
+      "textiles",
+      "peaceful"
+    ],
+    "g35": [
+      "interior",
+      "fabric",
+      "objects",
+      "details",
+      "holy book",
+      "ornament"
+    ],
+    "g68": [
+      "academic",
+      "realism",
+      "perspective",
+      "ornament",
+      "Ottoman",
+      "tradition"
+    ],
+    "g910": [
+      "devotion",
+      "documentary",
+      "representation",
+      "exacting",
+      "craftsmanship",
+      "culture"
+    ],
+    "g1112": [
+      "Ottoman identity",
+      "devotional reading",
+      "debate",
+      "academic style",
+      "evidence",
+      "representation"
     ]
   }
 }

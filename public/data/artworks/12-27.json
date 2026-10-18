@@ -154,5 +154,55 @@
       "Discuss how turtles are used as symbols in different cultures, noting that meanings vary.",
       "Compare this anonymous object with a signed artwork in the archive and talk about what we learn from each."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "turtle",
+      "shell",
+      "metal",
+      "hand",
+      "small",
+      "head"
+    ],
+    "g12": [
+      "copper",
+      "patterned",
+      "shiny",
+      "animal",
+      "tiny",
+      "legs"
+    ],
+    "g35": [
+      "turtle",
+      "copper alloy",
+      "shell",
+      "sculpture",
+      "pattern",
+      "Japan"
+    ],
+    "g68": [
+      "Meiji period",
+      "ornament",
+      "patina",
+      "metalwork",
+      "craftsmanship",
+      "form"
+    ],
+    "g910": [
+      "naturalism",
+      "texture",
+      "detail",
+      "stylization",
+      "miniature",
+      "surface"
+    ],
+    "g1112": [
+      "longevity",
+      "tradition",
+      "market",
+      "international trade",
+      "association",
+      "surface"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to sketch the floor lines first, then discuss how they create depth.",
       "Discuss with sensitivity how artists show young people at work, and what makes an image respectful."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dance",
+      "floor",
+      "girls",
+      "window",
+      "pink",
+      "room"
+    ],
+    "g12": [
+      "ballet",
+      "resting",
+      "stretching",
+      "waiting",
+      "polished",
+      "tall"
+    ],
+    "g35": [
+      "pattern",
+      "background",
+      "light",
+      "mood",
+      "detail",
+      "sash"
+    ],
+    "g68": [
+      "rehearsal",
+      "pose",
+      "candid",
+      "light",
+      "slanted",
+      "behind the scenes"
+    ],
+    "g910": [
+      "perspective",
+      "asymmetry",
+      "cropping",
+      "viewpoint",
+      "observation",
+      "spontaneity"
+    ],
+    "g1112": [
+      "voyeurism",
+      "discipline",
+      "modernity",
+      "urban life",
+      "labor",
+      "detachment"
+    ]
   }
 }

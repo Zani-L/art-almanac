@@ -154,5 +154,55 @@
       "Have students list things a painted view can show and things a map cannot.",
       "Compare this view with a harbor view by another artist in the archive and discuss how each uses the sky."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "river",
+      "boats",
+      "town",
+      "sky",
+      "water",
+      "houses"
+    ],
+    "g12": [
+      "buildings",
+      "wide",
+      "bank",
+      "broad",
+      "clear",
+      "view"
+    ],
+    "g35": [
+      "view painting",
+      "river",
+      "foreground",
+      "horizon",
+      "town",
+      "viewpoint"
+    ],
+    "g68": [
+      "calm mood",
+      "distance",
+      "reflection",
+      "clarity",
+      "space",
+      "detail"
+    ],
+    "g910": [
+      "veduta",
+      "topographical",
+      "perspective",
+      "precision",
+      "composition",
+      "light"
+    ],
+    "g1112": [
+      "topography",
+      "patronage",
+      "observation",
+      "construction",
+      "record of place",
+      "territory"
+    ]
   }
 }

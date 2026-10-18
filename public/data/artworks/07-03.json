@@ -154,5 +154,55 @@
       "Have older students compare this painting with a news photograph or illustration of the Civil War and discuss what each chooses to show.",
       "Discuss why an artist might choose a calm subject during a difficult time, using details from the painting as evidence."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "men",
+      "pipe",
+      "wood",
+      "hat",
+      "blue",
+      "hands"
+    ],
+    "g12": [
+      "relaxed",
+      "resting",
+      "carving",
+      "uniform",
+      "quiet",
+      "calm"
+    ],
+    "g35": [
+      "uniform",
+      "whittle",
+      "volunteer",
+      "soldiers",
+      "relaxing",
+      "genre painting"
+    ],
+    "g68": [
+      "Realism",
+      "genre scene",
+      "narrative",
+      "expression",
+      "wartime",
+      "detail"
+    ],
+    "g910": [
+      "idleness",
+      "Civil War",
+      "illustration",
+      "observation",
+      "narrative",
+      "human cost"
+    ],
+    "g1112": [
+      "public image",
+      "reportage",
+      "irony",
+      "wartime life",
+      "complicate",
+      "Harper's Weekly"
+    ]
   }
 }

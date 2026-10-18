@@ -155,5 +155,55 @@
       "Ask students to sketch the framing arch of trees and explain how it directs attention.",
       "Compare a calm sky from another day's artwork with this stormy one and discuss the effect on feeling."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cow",
+      "tree",
+      "church",
+      "sky",
+      "dark",
+      "grass"
+    ],
+    "g12": [
+      "cloudy",
+      "tall",
+      "stormy",
+      "grazing",
+      "shady",
+      "stone"
+    ],
+    "g35": [
+      "spire",
+      "cathedral",
+      "frame",
+      "countryside",
+      "moody",
+      "clouds"
+    ],
+    "g68": [
+      "Romanticism",
+      "pastoral",
+      "atmosphere",
+      "framing",
+      "contrast",
+      "composition"
+    ],
+    "g910": [
+      "permanence",
+      "change",
+      "unsettled",
+      "emotion",
+      "observation",
+      "tension"
+    ],
+    "g1112": [
+      "Romantic expression",
+      "biography",
+      "interpretation",
+      "permanence",
+      "evidence",
+      "order"
+    ]
   }
 }

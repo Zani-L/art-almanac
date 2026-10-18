@@ -155,5 +155,55 @@
       "Discuss the difference between a portrait of a person and a portrait of an animal.",
       "Pair this with another Bonheur work in the archive and compare how she treats a single animal versus a crowd."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "dog",
+      "ears",
+      "brown",
+      "fur",
+      "nose",
+      "eyes"
+    ],
+    "g12": [
+      "hound",
+      "fluffy",
+      "loyal",
+      "alert",
+      "furry",
+      "gentle"
+    ],
+    "g35": [
+      "portrait",
+      "background",
+      "texture",
+      "detail",
+      "mood",
+      "shadow"
+    ],
+    "g68": [
+      "portrait",
+      "character",
+      "coat",
+      "detail",
+      "expression",
+      "lifelike"
+    ],
+    "g910": [
+      "anatomy",
+      "Realism",
+      "modeling",
+      "observation",
+      "breed",
+      "fidelity"
+    ],
+    "g1112": [
+      "working animal",
+      "anthropomorphism",
+      "19th century",
+      "evidence",
+      "scale",
+      "value"
+    ]
   }
 }

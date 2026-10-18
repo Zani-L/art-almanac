@@ -154,5 +154,55 @@
       "Ask students to discuss why a material that came from far away might be valued so highly.",
       "Compare this teapot with a modern mug and list which features signal use and which signal display."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "teapot",
+      "white",
+      "spout",
+      "handle",
+      "tree",
+      "round"
+    ],
+    "g12": [
+      "glossy",
+      "tiny",
+      "painted",
+      "curved",
+      "fancy",
+      "smooth"
+    ],
+    "g35": [
+      "porcelain",
+      "landscape",
+      "spout",
+      "factory",
+      "glaze",
+      "tea"
+    ],
+    "g68": [
+      "hard-paste",
+      "manufactory",
+      "luxury",
+      "decoration",
+      "craftsmanship",
+      "miniature"
+    ],
+    "g910": [
+      "technical secret",
+      "prestige",
+      "tea ritual",
+      "workshop",
+      "display",
+      "import"
+    ],
+    "g1112": [
+      "European porcelain",
+      "collaboration",
+      "taste",
+      "Asian imports",
+      "patronage",
+      "usefulness"
+    ]
   }
 }

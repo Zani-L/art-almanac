@@ -154,5 +154,55 @@
       "Ask students to design a toggle for something they carry and explain the function of each part.",
       "Discuss historic ivory objects and why present-day laws restrict ivory trade."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "rats",
+      "small",
+      "smooth",
+      "white",
+      "round",
+      "tiny"
+    ],
+    "g12": [
+      "carved",
+      "pale",
+      "polished",
+      "cuddled",
+      "compact",
+      "shiny"
+    ],
+    "g35": [
+      "carving",
+      "detail",
+      "pattern",
+      "sculpture",
+      "handmade",
+      "tiny"
+    ],
+    "g68": [
+      "netsuke",
+      "sculpture",
+      "kimono",
+      "toggle",
+      "grouping",
+      "compact"
+    ],
+    "g910": [
+      "function",
+      "design",
+      "naturalism",
+      "Edo period",
+      "craftsmanship",
+      "humor"
+    ],
+    "g1112": [
+      "material",
+      "symbolism",
+      "zodiac",
+      "regulation",
+      "genre",
+      "context"
+    ]
   }
 }

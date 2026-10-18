@@ -8,11 +8,10 @@
   "movement": "Portraiture",
   "region": "New Zealand (Aotearoa)",
   "image": {
-    "url": "/images/ahp-portrait-of-ihaka-whanga.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/15562/gottfried-lindauer-portrait-of-ihaka-whanga-1870-obelisk-art-history.jpg",
     "credit": "Auckland Art Gallery; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/gottfried-lindauer/portrait-of-ihaka-whanga/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/15562/gottfried-lindauer-portrait-of-ihaka-whanga-1870-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/gottfried-lindauer/portrait-of-ihaka-whanga/"
   },
   "altText": "A painted portrait of a man named Ihaka Whanga, with the figure as the main focus of the canvas. It is a formal oil portrait made to show the sitter with dignity.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to list what a portrait can tell us and what it cannot.",
       "Discuss why it matters that the sitter is named in the title.",
       "Invite students to research the sitter's community using respectful, reliable sources such as the Auckland Art Gallery."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "face",
+      "dark",
+      "clothes",
+      "paint",
+      "eyes"
+    ],
+    "g12": [
+      "formal",
+      "serious",
+      "proud",
+      "posed",
+      "dignified",
+      "painted"
+    ],
+    "g35": [
+      "portrait",
+      "sitter",
+      "pose",
+      "clothing",
+      "clues",
+      "character"
+    ],
+    "g68": [
+      "likeness",
+      "dignity",
+      "oil painting",
+      "identity",
+      "presence",
+      "New Zealand"
+    ],
+    "g910": [
+      "formality",
+      "self-presentation",
+      "heritage",
+      "context",
+      "tone",
+      "dignity"
+    ],
+    "g1112": [
+      "colonial",
+      "representation",
+      "cultural record",
+      "commission",
+      "perspective",
+      "named individual"
     ]
   }
 }

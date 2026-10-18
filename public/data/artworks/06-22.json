@@ -155,5 +155,55 @@
       "Discuss why museums sometimes use a question mark in an attribution and what that teaches about uncertainty.",
       "Compare with a textile in the archive and consider how metal and cloth could be used together."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fish",
+      "shiny",
+      "metal",
+      "thin",
+      "sea",
+      "small"
+    ],
+    "g12": [
+      "silver",
+      "flat",
+      "outline",
+      "cloth",
+      "sparkling",
+      "coastal"
+    ],
+    "g35": [
+      "ornament",
+      "Chimú",
+      "silhouette",
+      "metalwork",
+      "textile",
+      "fish shape"
+    ],
+    "g68": [
+      "shine",
+      "simple shape",
+      "edge",
+      "reflective",
+      "thin metal",
+      "pattern"
+    ],
+    "g910": [
+      "attribution",
+      "coastal Andes",
+      "status",
+      "craft",
+      "symbolism",
+      "fragment"
+    ],
+    "g1112": [
+      "status",
+      "relationship to sea",
+      "lost context",
+      "stand-alone object",
+      "metalwork and textiles",
+      "uncertain attribution"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Discuss visual puns in everyday life, such as emoji or logos, and compare them to the cat-and-butterfly pairing.",
       "Ask students to compare the use of empty space here with a Western painting that fills the whole canvas."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cat",
+      "butterfly",
+      "flower",
+      "soft",
+      "fur",
+      "wings"
+    ],
+    "g12": [
+      "fluffy",
+      "delicate",
+      "flying",
+      "tall",
+      "hanging",
+      "brushed"
+    ],
+    "g35": [
+      "scroll",
+      "ink",
+      "long life",
+      "fur",
+      "wings",
+      "brushstrokes"
+    ],
+    "g68": [
+      "brushwork",
+      "auspicious",
+      "ink wash",
+      "negative space",
+      "rebus",
+      "motif"
+    ],
+    "g910": [
+      "symbolism",
+      "tradition",
+      "decoration",
+      "composition",
+      "moment",
+      "pun"
+    ],
+    "g1112": [
+      "literati",
+      "expressive brushwork",
+      "context",
+      "motif meaning",
+      "bird-and-flower painting",
+      "evidence"
+    ]
   }
 }

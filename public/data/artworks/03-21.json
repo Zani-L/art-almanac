@@ -155,5 +155,55 @@
       "Ask students to describe the mood of the painting using three words and point to the visual evidence for each.",
       "Discuss why artists have painted flowers for centuries and what a painting keeps that a real bouquet cannot."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "roses",
+      "petals",
+      "vase",
+      "pink",
+      "soft",
+      "round"
+    ],
+    "g12": [
+      "blooming",
+      "fluffy",
+      "delicate",
+      "fragrant",
+      "bunch",
+      "gentle"
+    ],
+    "g35": [
+      "background",
+      "texture",
+      "detail",
+      "mood",
+      "shadow",
+      "soft colors"
+    ],
+    "g68": [
+      "still life",
+      "overlap",
+      "petal",
+      "soft focus",
+      "flowers",
+      "detail"
+    ],
+    "g910": [
+      "restraint",
+      "subtlety",
+      "observation",
+      "texture",
+      "brushstroke",
+      "arrangement"
+    ],
+    "g1112": [
+      "transience",
+      "meditation",
+      "decoration",
+      "reputation",
+      "modesty",
+      "passage of time"
+    ]
   }
 }

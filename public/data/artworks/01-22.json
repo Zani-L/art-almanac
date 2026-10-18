@@ -154,5 +154,55 @@
       "Ask students to design another animal clock and explain what the animal would say about its owner.",
       "Compare a modern digital clock with this one: what is lost and gained when a clock stops being a performance?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lion",
+      "gold",
+      "clock",
+      "shiny",
+      "base",
+      "dark"
+    ],
+    "g12": [
+      "golden",
+      "gleaming",
+      "small",
+      "standing",
+      "proud",
+      "mechanical"
+    ],
+    "g35": [
+      "automaton",
+      "gilded",
+      "ebony",
+      "clock",
+      "machine",
+      "strong pose"
+    ],
+    "g68": [
+      "craftsmanship",
+      "goldsmith",
+      "heraldic",
+      "mechanism",
+      "rampant",
+      "detail"
+    ],
+    "g910": [
+      "early modern",
+      "power",
+      "entertainment",
+      "symbolism",
+      "science",
+      "display"
+    ],
+    "g1112": [
+      "Augsburg",
+      "patronage",
+      "adaptation",
+      "heraldry",
+      "still photograph",
+      "craftsmanship"
+    ]
   }
 }

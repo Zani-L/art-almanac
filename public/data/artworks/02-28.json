@@ -155,5 +155,55 @@
       "Compare how different cultures use flowers as symbols for qualities like purity or kindness.",
       "Discuss respectful ways to look at and talk about sacred objects from another tradition."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "flower",
+      "hand",
+      "shiny",
+      "crown",
+      "pretty"
+    ],
+    "g12": [
+      "jewels",
+      "golden",
+      "gentle",
+      "sparkling",
+      "stones",
+      "lotus"
+    ],
+    "g35": [
+      "statue",
+      "detail",
+      "pattern",
+      "jewelry",
+      "decorated",
+      "sculpture"
+    ],
+    "g68": [
+      "Buddhism",
+      "statue",
+      "lotus",
+      "jewelry",
+      "openwork",
+      "generous"
+    ],
+    "g910": [
+      "iconography",
+      "gilding",
+      "attribute",
+      "devotion",
+      "metalwork",
+      "gesture"
+    ],
+    "g1112": [
+      "convention",
+      "ritual",
+      "function",
+      "craftsmanship",
+      "boon",
+      "identification"
+    ]
   }
 }

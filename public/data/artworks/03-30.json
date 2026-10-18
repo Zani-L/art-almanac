@@ -154,5 +154,55 @@
       "Ask students to discuss why a country that imported porcelain might develop its own tin-glazed pottery.",
       "Compare this dish with another plate or bowl in the archive and discuss how shape affects the picture."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "round",
+      "white",
+      "house",
+      "flat",
+      "smooth",
+      "plate"
+    ],
+    "g12": [
+      "shiny",
+      "painted",
+      "curved",
+      "scene",
+      "ceramic",
+      "shallow"
+    ],
+    "g35": [
+      "glaze",
+      "pottery",
+      "clay",
+      "landscape",
+      "detail",
+      "decorate"
+    ],
+    "g68": [
+      "earthenware",
+      "tin glaze",
+      "Delftware",
+      "composition",
+      "craftsmanship",
+      "everyday use"
+    ],
+    "g910": [
+      "decorative arts",
+      "domestic imagery",
+      "circular format",
+      "trade",
+      "status",
+      "tradition"
+    ],
+    "g1112": [
+      "material culture",
+      "luxury goods",
+      "trading culture",
+      "imitation",
+      "consumption",
+      "circulation"
+    ]
   }
 }

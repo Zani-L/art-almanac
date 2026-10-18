@@ -155,5 +155,55 @@
       "Discuss the difference between imitation as learning and imitation as cheating.",
       "Ask students to design a second leaf in the album and describe what it would show."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "paper",
+      "small",
+      "book",
+      "ink",
+      "page"
+    ],
+    "g12": [
+      "scenery",
+      "soft",
+      "brushwork",
+      "leaf",
+      "album",
+      "nature"
+    ],
+    "g35": [
+      "landscape",
+      "album leaf",
+      "copying",
+      "ink and color",
+      "trees",
+      "scenery"
+    ],
+    "g68": [
+      "imitation",
+      "detail",
+      "openness",
+      "calm",
+      "delicate",
+      "manner"
+    ],
+    "g910": [
+      "Ming dynasty",
+      "tradition",
+      "brushwork",
+      "style",
+      "homage",
+      "space"
+    ],
+    "g1112": [
+      "late Ming",
+      "dialogue with tradition",
+      "innovation",
+      "inheritance",
+      "attribution",
+      "fidelity"
+    ]
   }
 }

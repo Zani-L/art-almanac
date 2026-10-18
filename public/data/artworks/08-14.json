@@ -154,5 +154,55 @@
       "Ask students to sketch a quick outdoor scene on a small piece of card, showing weather without drawing the weather itself.",
       "With older students, discuss who is shown enjoying leisure in this painting and who is not, and how Boudin's place before the Impressionist exhibitions affects the label Impressionist."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "beach",
+      "chair",
+      "dress",
+      "sails",
+      "sand",
+      "wind"
+    ],
+    "g12": [
+      "windy",
+      "sandy",
+      "breezy",
+      "blue",
+      "sunny",
+      "casual"
+    ],
+    "g35": [
+      "foreground",
+      "whitecaps",
+      "resort",
+      "vacationers",
+      "overturned chair",
+      "wind"
+    ],
+    "g68": [
+      "Impressionism",
+      "unposed",
+      "panel",
+      "spontaneity",
+      "seaside",
+      "atmosphere"
+    ],
+    "g910": [
+      "modern leisure",
+      "social class",
+      "casual",
+      "direct painting",
+      "weather",
+      "observation"
+    ],
+    "g1112": [
+      "class and leisure",
+      "spontaneity",
+      "proto-Impressionism",
+      "social observation",
+      "tourism",
+      "white ground"
+    ]
   }
 }

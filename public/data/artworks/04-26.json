@@ -154,5 +154,55 @@
       "Ask students to mark where white paper acts as light and discuss what the picture would lose if it were covered.",
       "Discuss what 'finished' means in art and who decides."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gate",
+      "house",
+      "tree",
+      "paint",
+      "white",
+      "patch"
+    ],
+    "g12": [
+      "loose",
+      "bare",
+      "soft",
+      "leafy",
+      "unfinished",
+      "pencil"
+    ],
+    "g35": [
+      "watercolor",
+      "strokes",
+      "garden",
+      "patches",
+      "unpainted",
+      "pencil"
+    ],
+    "g68": [
+      "plane",
+      "motif",
+      "graphite",
+      "translucent",
+      "space",
+      "color"
+    ],
+    "g910": [
+      "construction",
+      "unfinished",
+      "perception",
+      "modern",
+      "network",
+      "structure"
+    ],
+    "g1112": [
+      "method",
+      "incomplete record",
+      "deliberate approach",
+      "seeing",
+      "modern movements",
+      "planes"
+    ]
   }
 }

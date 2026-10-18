@@ -154,5 +154,55 @@
       "Ask students to compare this print with Black Lion Wharf (the other Whistler print in the archive) and describe which feels busier.",
       "Discuss why an artist might revise a plate seven times."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "bridge",
+      "line",
+      "water",
+      "church",
+      "black"
+    ],
+    "g12": [
+      "thin",
+      "scratchy",
+      "fine",
+      "delicate",
+      "river",
+      "dark"
+    ],
+    "g35": [
+      "etching",
+      "drypoint",
+      "Thames",
+      "sharp point",
+      "printmaking",
+      "plate"
+    ],
+    "g68": [
+      "impression",
+      "line quality",
+      "atmosphere",
+      "state",
+      "composition",
+      "revision"
+    ],
+    "g910": [
+      "linework",
+      "process",
+      "tonality",
+      "negative space",
+      "velvety",
+      "structure"
+    ],
+    "g1112": [
+      "line quality",
+      "fifth state",
+      "open paper",
+      "mature handling",
+      "revision",
+      "mood"
+    ]
   }
 }

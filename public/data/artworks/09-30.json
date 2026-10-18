@@ -8,11 +8,10 @@
   "movement": "Outsider Art",
   "region": "United States",
   "image": {
-    "url": "/images/ahp-the-spark-of-life.png",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16727/charles_dellschau-the_spark_of_life-1900-trivium-art-history.png",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/charles-dellschau/the-spark-of-life/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16727/charles_dellschau-the_spark_of_life-1900-trivium-art-history.png"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/charles-dellschau/the-spark-of-life/"
   },
   "altText": "A collage-style drawing of an airship, a flying machine, with cut-out pieces, bright colors and small notes, in the manner of an outsider artist's notebook page.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students design their own flying machine using cut paper pieces, then explain what each part does.",
       "Ask students to compare a collage with a drawing of the same subject and discuss what each can do.",
       "Discuss what makes someone an artist and why labels like Outsider Art are used."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "paper",
+      "flying",
+      "bright",
+      "small",
+      "glue",
+      "words"
+    ],
+    "g12": [
+      "airship",
+      "cut-out",
+      "notes",
+      "invented",
+      "colorful",
+      "pieces"
+    ],
+    "g35": [
+      "collage",
+      "airship",
+      "layers",
+      "invention",
+      "imagination",
+      "notes"
+    ],
+    "g68": [
+      "Outsider Art",
+      "layering",
+      "composition",
+      "fantasy",
+      "technical",
+      "pieces"
+    ],
+    "g910": [
+      "invention",
+      "self-taught",
+      "technical drawing",
+      "imaginary machine",
+      "archive",
+      "assemblage"
+    ],
+    "g1112": [
+      "outsider label",
+      "personal archive",
+      "who is an artist",
+      "real or imagined",
+      "limited evidence",
+      "obsessive documentation"
     ]
   }
 }

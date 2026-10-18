@@ -8,11 +8,10 @@
   "movement": "Abstract art",
   "region": "Europe",
   "image": {
-    "url": "/images/ahp-yellow-red-blue.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/12062/wassily_kandinsky-yellow_red_blue-1925-obelisk-art-history.jpg",
     "credit": "Musée National d'Art Moderne - Paris in Paris; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/wassily-kandinsky/yellow-red-blue/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/12062/wassily_kandinsky-yellow_red_blue-1925-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/wassily-kandinsky/yellow-red-blue/"
   },
   "altText": "An abstract painting with no recognizable objects. Large areas of yellow, red and blue sit beside one another, crossed by lines, circles, arcs and angular shapes in many sizes.",
   "source": {
@@ -154,6 +153,56 @@
       "Play a short piece of music and have students paint colors and shapes that match what they hear, then compare paintings.",
       "Ask students to find and name three relationships in the painting, such as big and small, curved and straight, warm and cool.",
       "Discuss whether a painting needs a recognizable subject to have meaning."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "yellow",
+      "red",
+      "blue",
+      "circle",
+      "line",
+      "big"
+    ],
+    "g12": [
+      "shapes",
+      "arcs",
+      "music",
+      "angles",
+      "colorful",
+      "crossing"
+    ],
+    "g35": [
+      "abstract",
+      "geometric",
+      "feelings",
+      "color",
+      "rhythm",
+      "shape"
+    ],
+    "g68": [
+      "primary colors",
+      "composition",
+      "balance",
+      "harmony",
+      "contrast",
+      "non-objective"
+    ],
+    "g910": [
+      "rhythm",
+      "geometry",
+      "dynamic",
+      "tension",
+      "synesthesia",
+      "spiritual"
+    ],
+    "g1112": [
+      "representation",
+      "inner experience",
+      "abstraction",
+      "color fields",
+      "meaning",
+      "depiction"
     ]
   }
 }

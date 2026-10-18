@@ -7,11 +7,10 @@
   "medium": "Oil on canvas",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-devotion.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/25457/piet-mondrian-devotion-1908-trivium-art-history.jpg",
     "credit": "Gemeentemuseum Den Haag, The Hague; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/piet-mondrian/devotion/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/25457/piet-mondrian-devotion-1908-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/piet-mondrian/devotion/"
   },
   "altText": "A portrait of a girl or young woman, painted in oil in an expressive, close-up way. The title suggests a quiet, inward mood.",
   "source": {
@@ -153,6 +152,56 @@
       "Have students draw a face that shows one feeling, then change only the colors to show a different feeling.",
       "Discuss how an artist's style can change over a lifetime, comparing this early work with Mondrian's later grids if desired.",
       "Ask students to propose alternative titles and explain how each changes the way we look."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "face",
+      "quiet",
+      "soft",
+      "paint",
+      "eyes"
+    ],
+    "g12": [
+      "portrait",
+      "gentle",
+      "thoughtful",
+      "close-up",
+      "calm",
+      "young"
+    ],
+    "g35": [
+      "portrait",
+      "mood",
+      "expression",
+      "early",
+      "brushwork",
+      "title"
+    ],
+    "g68": [
+      "expression",
+      "brushwork",
+      "mood",
+      "oil paint",
+      "emotion",
+      "abstraction"
+    ],
+    "g910": [
+      "inwardness",
+      "early style",
+      "color and emotion",
+      "continuity",
+      "devotional mood",
+      "intimacy"
+    ],
+    "g1112": [
+      "continuity and rupture",
+      "retrospective bias",
+      "evolving style",
+      "expressive color",
+      "title's demand",
+      "interpretive resistance"
     ]
   }
 }

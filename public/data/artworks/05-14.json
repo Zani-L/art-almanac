@@ -8,11 +8,10 @@
   "movement": "Cubism",
   "region": "Russia",
   "image": {
-    "url": "/images/ahp-jack-of-hearts.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16098/olga-rozanova-jack-of-hearts-1915-trivium-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/olga-rozanova/jack-of-hearts/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16098/olga-rozanova-jack-of-hearts-1915-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/olga-rozanova/jack-of-hearts/"
   },
   "altText": "A colorful, fragmented painting that breaks a playing-card figure into angular shapes and patches of color, in the style of Cubism.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a simple card figure, cut it into angular pieces and reassemble it with small gaps, then compare results.",
       "Ask students to describe how they found the heart or face, and discuss how the brain fills gaps.",
       "Discuss why artists might choose everyday objects like cards as subjects."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "card",
+      "shapes",
+      "bright",
+      "heart",
+      "pieces",
+      "flat"
+    ],
+    "g12": [
+      "angular",
+      "broken",
+      "colorful",
+      "puzzle",
+      "playing",
+      "fragmented"
+    ],
+    "g35": [
+      "Cubism",
+      "playing card",
+      "angles",
+      "pattern",
+      "abstract",
+      "viewpoint"
+    ],
+    "g68": [
+      "collage-like",
+      "overlap",
+      "bold color",
+      "sharp edges",
+      "design",
+      "flat shapes"
+    ],
+    "g910": [
+      "fragmentation",
+      "planes",
+      "avant-garde",
+      "representation",
+      "geometric",
+      "abstraction"
+    ],
+    "g1112": [
+      "Russian avant-garde",
+      "visual idiom",
+      "deconstruction",
+      "ambiguity",
+      "convention",
+      "pictorial play"
     ]
   }
 }

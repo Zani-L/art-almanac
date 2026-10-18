@@ -155,5 +155,55 @@
       "Ask students to compare a painting of an animal made for study with one made for a story and discuss the difference.",
       "Discuss why many artists in historical collections are unnamed and how we can still learn from their work."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bird",
+      "green",
+      "beak",
+      "black",
+      "small",
+      "wings"
+    ],
+    "g12": [
+      "parrot",
+      "bright",
+      "feathers",
+      "colorful",
+      "perched",
+      "careful"
+    ],
+    "g35": [
+      "parrot",
+      "detail",
+      "precise",
+      "beak",
+      "portrait",
+      "vivid"
+    ],
+    "g68": [
+      "natural history",
+      "observation",
+      "accuracy",
+      "patron",
+      "tempera",
+      "realistic"
+    ],
+    "g910": [
+      "scientific illustration",
+      "East India Company",
+      "commission",
+      "narrative tradition",
+      "anonymity",
+      "specimen"
+    ],
+    "g1112": [
+      "Indo-Persian",
+      "cross-cultural exchange",
+      "colonial patronage",
+      "unnamed artist",
+      "Tuti-nama",
+      "empirical observation"
+    ]
   }
 }

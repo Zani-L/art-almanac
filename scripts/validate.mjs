@@ -83,6 +83,10 @@ for (const file of files) {
     const n = words(d);
     if (n < lo || n > hi) warn(day, `description ${b} is ${n} words (expected ${lo}-${hi})`);
   }
+  for (const b of bands) {
+    const hw = art.helpfulWords?.[b];
+    if (!Array.isArray(hw) || hw.length !== 6 || hw.some((w) => typeof w !== "string" || !w.trim()) || new Set(hw.map((w) => w.toLowerCase())).size !== 6) err(day, `helpfulWords.${b} must be 6 different non-empty words`);
+  }
   const descs = bands.map((b) => art.descriptions?.[b]).filter(Boolean);
   if (new Set(descs).size !== descs.length) err(day, "two grade bands share identical description text");
 

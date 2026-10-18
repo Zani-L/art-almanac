@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-the-church-at-auvers.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11623/vincent_van_gogh-the_church_at_auvers-1890-obelisk-art-history.jpg",
     "credit": "Musée d'Orsay, Paris, France; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/the-church-at-auvers/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11623/vincent_van_gogh-the_church_at_auvers-1890-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/the-church-at-auvers/"
   },
   "altText": "A stone church with a tall roof and windows glows against a deep blue sky. Paths curve around it in the foreground, with grass and bushes, and a figure walks on the path.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a familiar building twice: once as accurately as possible and once exaggerating curves to show a feeling.",
       "Ask students to describe how the church looks in words that could not be applied to a photograph.",
       "Discuss how color and line can express feeling about a place."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "church",
+      "sky",
+      "blue",
+      "path",
+      "roof",
+      "windows"
+    ],
+    "g12": [
+      "curvy",
+      "glowing",
+      "bending",
+      "stone",
+      "grass",
+      "walking"
+    ],
+    "g35": [
+      "swirling lines",
+      "bold color",
+      "curved path",
+      "foreground",
+      "stone church",
+      "mood"
+    ],
+    "g68": [
+      "movement",
+      "vibrant",
+      "rhythm",
+      "emphasis",
+      "expression",
+      "brushwork"
+    ],
+    "g910": [
+      "expressive",
+      "distortion",
+      "contour",
+      "saturation",
+      "perspective",
+      "unease"
+    ],
+    "g1112": [
+      "Post-Impressionism",
+      "emotional charge",
+      "reverence",
+      "subjectivity",
+      "formal qualities",
+      "biographical reading"
     ]
   }
 }

@@ -156,5 +156,55 @@
       "Ask students to find three tiny details in the portraits and say what each tells us about the painter's goals.",
       "Discuss why a banker from Florence might want a portrait painted in Bruges."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "woman",
+      "face",
+      "frame",
+      "small",
+      "paint"
+    ],
+    "g12": [
+      "portraits",
+      "wife",
+      "husband",
+      "detailed",
+      "close",
+      "pair"
+    ],
+    "g35": [
+      "portrait",
+      "tiny details",
+      "frame",
+      "oil paint",
+      "close",
+      "realistic"
+    ],
+    "g68": [
+      "likeness",
+      "triptych",
+      "illusion",
+      "patron",
+      "realism",
+      "detail"
+    ],
+    "g910": [
+      "illusionistic frame",
+      "devotional wings",
+      "naturalism",
+      "commission",
+      "merchant class",
+      "viewer's space"
+    ],
+    "g1112": [
+      "transmission of naturalism",
+      "merchant patronage",
+      "devotional context",
+      "Flemish technique",
+      "surface fidelity",
+      "altered reading"
+    ]
   }
 }

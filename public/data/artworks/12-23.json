@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/ahp-snow-boulevard-de-clichy-paris.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/21959/paul_signac-snow-_boulevard_de_clichy-_paris-1886-obelisk-art-history.jpg",
     "credit": "Minneapolis Institute of Art; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-signac/snow-boulevard-de-clichy-paris/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/21959/paul_signac-snow-_boulevard_de_clichy-_paris-1886-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/paul-signac/snow-boulevard-de-clichy-paris/"
   },
   "altText": "A snowy street scene on a wide Paris boulevard, painted in soft whites, greys, and muted colors. The city looks quiet and cold, with buildings lining the street.",
   "source": {
@@ -154,6 +153,56 @@
       "Ask students to list as many colors as they can find in the snow, then try mixing them with paint.",
       "Compare this with a photograph of a snowy street and discuss what the painter emphasizes.",
       "Discuss how weather can change the mood of a place in art."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "snow",
+      "white",
+      "cold",
+      "street",
+      "gray",
+      "town"
+    ],
+    "g12": [
+      "snowy",
+      "quiet",
+      "chilly",
+      "wide",
+      "soft",
+      "wintry"
+    ],
+    "g35": [
+      "boulevard",
+      "shades",
+      "winter",
+      "buildings",
+      "sky",
+      "city"
+    ],
+    "g68": [
+      "palette",
+      "atmosphere",
+      "recession",
+      "brushwork",
+      "tone",
+      "urban winter"
+    ],
+    "g910": [
+      "tonal",
+      "subtlety",
+      "coolness",
+      "stillness",
+      "urban",
+      "light"
+    ],
+    "g1112": [
+      "color study",
+      "whites",
+      "muted",
+      "spatial structure",
+      "mood",
+      "Post-Impressionism"
     ]
   }
 }

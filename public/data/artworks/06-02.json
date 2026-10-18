@@ -155,5 +155,55 @@
       "Discuss why small luxury objects were valued and what materials count as luxurious today.",
       "Locate Córdoba on a map and discuss how objects and ideas moved around the Mediterranean."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "box",
+      "round",
+      "birds",
+      "carved",
+      "cream",
+      "small"
+    ],
+    "g12": [
+      "ivory",
+      "circle",
+      "decorated",
+      "lid",
+      "tiny",
+      "cylinder"
+    ],
+    "g35": [
+      "pyxis",
+      "carving",
+      "decoration",
+      "court",
+      "Córdoba",
+      "ivory"
+    ],
+    "g68": [
+      "repetition",
+      "rhythm",
+      "craft",
+      "luxury",
+      "surface",
+      "pattern"
+    ],
+    "g910": [
+      "relief",
+      "luxury object",
+      "Umayyad",
+      "motif",
+      "cylinder",
+      "display"
+    ],
+    "g1112": [
+      "patronage",
+      "nobility",
+      "Late Antique",
+      "inheritance",
+      "motif",
+      "provenance"
+    ]
   }
 }

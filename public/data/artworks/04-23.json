@@ -154,5 +154,55 @@
       "Ask students to explain how enamel is applied to metal and why it adds color that silver lacks.",
       "Discuss why museums and the public now think carefully about materials such as ivory in older objects."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bowl",
+      "silver",
+      "flower",
+      "lid",
+      "small",
+      "shiny"
+    ],
+    "g12": [
+      "metal",
+      "floral",
+      "fancy",
+      "polished",
+      "wide",
+      "colored"
+    ],
+    "g35": [
+      "enamel",
+      "cover",
+      "silver-gilt",
+      "materials",
+      "tableware",
+      "flowers"
+    ],
+    "g68": [
+      "motif",
+      "Tiffany",
+      "ivory",
+      "craftsmanship",
+      "technique",
+      "contrast"
+    ],
+    "g910": [
+      "Aesthetic movement",
+      "fusion",
+      "variety",
+      "luxury",
+      "ornament",
+      "surface"
+    ],
+    "g1112": [
+      "material ethics",
+      "global trade",
+      "traditions",
+      "negotiation",
+      "natural subjects",
+      "consumption"
+    ]
   }
 }

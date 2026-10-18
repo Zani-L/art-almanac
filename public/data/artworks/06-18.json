@@ -155,5 +155,55 @@
       "Discuss which kinds of work are shown in art and which are rarely shown.",
       "Compare with a photograph of someone working today."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "baby",
+      "lace",
+      "woman",
+      "hands",
+      "room",
+      "home"
+    ],
+    "g12": [
+      "needlework",
+      "thread",
+      "quiet",
+      "busy",
+      "family",
+      "careful"
+    ],
+    "g35": [
+      "genre painting",
+      "lace",
+      "interior",
+      "domestic life",
+      "chiaroscuro",
+      "patience"
+    ],
+    "g68": [
+      "warm light",
+      "concentration",
+      "everyday",
+      "texture",
+      "calm",
+      "focus"
+    ],
+    "g910": [
+      "needlework",
+      "dignity",
+      "composition",
+      "industriousness",
+      "care",
+      "light"
+    ],
+    "g1112": [
+      "virtue",
+      "women's work",
+      "male painters",
+      "market",
+      "construction of ideal",
+      "evidence"
+    ]
   }
 }

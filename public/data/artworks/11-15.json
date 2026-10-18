@@ -155,5 +155,55 @@
       "Ask students to describe the painting in sounds and smells before discussing visual elements.",
       "Compare this soft landscape with a detailed Hudson River School painting from the archive."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sun",
+      "mist",
+      "fuzzy",
+      "soft",
+      "morning",
+      "glow"
+    ],
+    "g12": [
+      "hazy",
+      "misty",
+      "quiet",
+      "blurry",
+      "dawn",
+      "gentle"
+    ],
+    "g35": [
+      "sunrise",
+      "blended",
+      "early light",
+      "calm",
+      "haze",
+      "focal point"
+    ],
+    "g68": [
+      "Tonalism",
+      "atmosphere",
+      "suggestion",
+      "tone",
+      "mood",
+      "glaze"
+    ],
+    "g910": [
+      "suffused",
+      "spirituality",
+      "abstraction",
+      "harmony",
+      "subjectivity",
+      "feeling"
+    ],
+    "g1112": [
+      "late style",
+      "landscape feeling",
+      "suggestion",
+      "tonal harmony",
+      "spiritual reading",
+      "French influence"
+    ]
   }
 }

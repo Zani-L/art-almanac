@@ -154,5 +154,55 @@
       "Ask pairs to argue for a symbolic reading and a plain-moment reading, citing details.",
       "Blow real bubbles and discuss which parts of a bubble catch the light, then look again at the painting."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bubble",
+      "boy",
+      "child",
+      "soft",
+      "light",
+      "round"
+    ],
+    "g12": [
+      "gentle",
+      "quiet",
+      "fragile",
+      "shiny",
+      "watching",
+      "floating"
+    ],
+    "g35": [
+      "genre painting",
+      "see-through",
+      "curved",
+      "focal point",
+      "concentration",
+      "ordinary life"
+    ],
+    "g68": [
+      "translucent",
+      "highlight",
+      "mood",
+      "restrained",
+      "symbolic",
+      "subject matter"
+    ],
+    "g910": [
+      "vanitas",
+      "fleeting life",
+      "tenderness",
+      "juxtaposition",
+      "quiet drama",
+      "symbolism"
+    ],
+    "g1112": [
+      "moralizing",
+      "genre painting",
+      "impermanence",
+      "dignity",
+      "iconography",
+      "tradition"
+    ]
   }
 }

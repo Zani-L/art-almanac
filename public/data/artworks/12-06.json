@@ -155,5 +155,55 @@
       "Discuss how a large sky changes the feeling of a picture.",
       "Locate rivers in the Netherlands and talk about how they were used for travel and trade."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "river",
+      "sky",
+      "castle",
+      "gray",
+      "water"
+    ],
+    "g12": [
+      "calm",
+      "misty",
+      "brown",
+      "wide",
+      "quiet",
+      "floating"
+    ],
+    "g35": [
+      "landscape",
+      "castle",
+      "sky",
+      "waterway",
+      "mood",
+      "horizon"
+    ],
+    "g68": [
+      "tonal",
+      "palette",
+      "atmosphere",
+      "restraint",
+      "river landscape",
+      "Golden Age"
+    ],
+    "g910": [
+      "subdued",
+      "serenity",
+      "expanse",
+      "reflection",
+      "proportion",
+      "simplicity"
+    ],
+    "g1112": [
+      "market",
+      "specific location",
+      "celebration",
+      "spatial openness",
+      "subtlety",
+      "Dutch Republic"
+    ]
   }
 }

@@ -154,5 +154,55 @@
       "Discuss imitation materials: when does a copy have value of its own?",
       "Compare this set with the pendant in the archive and discuss how jewelry shows different values in different places."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "jewelry",
+      "stones",
+      "set",
+      "shiny",
+      "necklace"
+    ],
+    "g12": [
+      "matching",
+      "sparkling",
+      "earrings",
+      "glowing",
+      "pattern",
+      "worn"
+    ],
+    "g35": [
+      "parure",
+      "enamel",
+      "brooch",
+      "glass paste",
+      "choker",
+      "repeated pattern"
+    ],
+    "g68": [
+      "repetition",
+      "unity",
+      "ornament",
+      "craft",
+      "elegance",
+      "sparkle"
+    ],
+    "g910": [
+      "ensemble",
+      "motif",
+      "imitation",
+      "luxury",
+      "fashion",
+      "display"
+    ],
+    "g1112": [
+      "authenticity",
+      "class",
+      "mid-century fashion",
+      "value",
+      "system of design",
+      "imitation gems"
+    ]
   }
 }

@@ -153,5 +153,55 @@
       "Ask students to find where the animals are camouflaged and discuss why artists may hide a subject in its surroundings.",
       "Discuss the difference between a wild forest and a managed one."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "deer",
+      "trees",
+      "green",
+      "brown",
+      "soft",
+      "quiet"
+    ],
+    "g12": [
+      "forest",
+      "shady",
+      "gentle",
+      "peaceful",
+      "woodland",
+      "muted"
+    ],
+    "g35": [
+      "watercolor",
+      "pencil",
+      "layers",
+      "shadow",
+      "landscape",
+      "royal"
+    ],
+    "g68": [
+      "wash",
+      "foliage",
+      "atmosphere",
+      "tone",
+      "graphite",
+      "harmony"
+    ],
+    "g910": [
+      "tonal harmony",
+      "medium",
+      "observation",
+      "naturalism",
+      "setting",
+      "mood"
+    ],
+    "g1112": [
+      "royal forest",
+      "cultural assumptions",
+      "managed landscape",
+      "sublime",
+      "tonality",
+      "restraint"
+    ]
   }
 }

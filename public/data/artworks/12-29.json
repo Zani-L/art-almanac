@@ -155,5 +155,55 @@
       "Have students compare the corner-of-a-room setting with a plain-background portrait and discuss the difference.",
       "Discuss why artists sign and date their work."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fly",
+      "man",
+      "eyes",
+      "beard",
+      "room",
+      "small"
+    ],
+    "g12": [
+      "serious",
+      "real",
+      "careful",
+      "tiny",
+      "wiry",
+      "quiet"
+    ],
+    "g35": [
+      "portrait",
+      "monk",
+      "frame",
+      "lifelike",
+      "inscription",
+      "gaze"
+    ],
+    "g68": [
+      "illusionism",
+      "detail",
+      "Carthusian",
+      "oil paint",
+      "Bruges",
+      "warm light"
+    ],
+    "g910": [
+      "lifelike",
+      "intensity",
+      "scrutiny",
+      "trompe l'oeil",
+      "texture",
+      "stillness"
+    ],
+    "g1112": [
+      "Early Netherlandish",
+      "authorship",
+      "observation",
+      "presence",
+      "realism",
+      "self-assertion"
+    ]
   }
 }

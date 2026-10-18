@@ -153,5 +153,55 @@
       "Discuss how size and shape communicate rank without words.",
       "Invite students to talk about games from their families or cultures and how the pieces are designed."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "game",
+      "chess",
+      "pieces",
+      "tall",
+      "small",
+      "king"
+    ],
+    "g12": [
+      "carved",
+      "ivory",
+      "set",
+      "pawns",
+      "smooth",
+      "pale"
+    ],
+    "g35": [
+      "chessmen",
+      "carving",
+      "silhouette",
+      "scale",
+      "set",
+      "kings and pawns"
+    ],
+    "g68": [
+      "proportion",
+      "variety",
+      "craft",
+      "detail",
+      "usefulness",
+      "identical set"
+    ],
+    "g910": [
+      "hierarchy",
+      "sculptural form",
+      "function",
+      "craftsmanship",
+      "scale",
+      "identification"
+    ],
+    "g1112": [
+      "game logic",
+      "material history",
+      "trade",
+      "attribution",
+      "value",
+      "hierarchy"
+    ]
   }
 }

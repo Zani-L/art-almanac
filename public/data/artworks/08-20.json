@@ -154,5 +154,55 @@
       "Ask students to practice short, directional brushstrokes with paint or markers to show bark and leaves.",
       "For older students, discuss how much an artist's life should influence our reading of a painting. The museum text mentions a psychiatric hospital; treat this respectfully and factually."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "tree",
+      "big",
+      "tiny",
+      "leaves",
+      "road",
+      "work"
+    ],
+    "g12": [
+      "autumn",
+      "tall",
+      "workers",
+      "towering",
+      "busy",
+      "colorful"
+    ],
+    "g35": [
+      "brushstrokes",
+      "landscape",
+      "autumn",
+      "energy",
+      "bold",
+      "workers"
+    ],
+    "g68": [
+      "scale",
+      "energetic",
+      "visible brushwork",
+      "Post-Impressionism",
+      "composition",
+      "contrast"
+    ],
+    "g910": [
+      "expressive line",
+      "repetition",
+      "vertical emphasis",
+      "human scale",
+      "biography",
+      "rhythm"
+    ],
+    "g1112": [
+      "multiple readings",
+      "artist's biography",
+      "expressive intensity",
+      "structural design",
+      "interpretive caution",
+      "versions"
+    ]
   }
 }

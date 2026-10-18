@@ -154,5 +154,55 @@
       "Ask older students to list what the museum says about the stool's use and what it implies about status, separating fact from interpretation.",
       "Compare this stool with the Akan stool in the calendar: what do the materials, decoration and ideas of authority share, and where do they differ?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stool",
+      "beads",
+      "wood",
+      "small",
+      "pattern",
+      "blue"
+    ],
+    "g12": [
+      "beaded",
+      "sparkling",
+      "decorated",
+      "handmade",
+      "glittering",
+      "seat"
+    ],
+    "g35": [
+      "kingdom",
+      "beadwork",
+      "pattern",
+      "royal",
+      "handmade",
+      "decoration"
+    ],
+    "g68": [
+      "regalia",
+      "status",
+      "symbolic",
+      "tradition",
+      "craftsmanship",
+      "ceremonial"
+    ],
+    "g910": [
+      "royal status",
+      "leopard imagery",
+      "cultural meaning",
+      "material culture",
+      "ornament",
+      "power"
+    ],
+    "g1112": [
+      "regalia",
+      "authority",
+      "cultural context",
+      "indigo",
+      "interpretation",
+      "responsible reading"
+    ]
   }
 }

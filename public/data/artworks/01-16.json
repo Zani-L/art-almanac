@@ -154,5 +154,55 @@
       "Ask students to list what we can see versus what we can only guess about the monkeys.",
       "Connect to science: where do tubers such as potatoes originate, and how are they grown?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "monkey",
+      "pot",
+      "clay",
+      "round",
+      "loop",
+      "spout"
+    ],
+    "g12": [
+      "brown",
+      "looped",
+      "curved",
+      "bumpy",
+      "ancient",
+      "hollow"
+    ],
+    "g35": [
+      "Moche",
+      "stirrup spout",
+      "tuber",
+      "ceramic",
+      "modeled",
+      "plant-animal blend"
+    ],
+    "g68": [
+      "slip",
+      "sculpture",
+      "food culture",
+      "Peru",
+      "vessel",
+      "symbolism"
+    ],
+    "g910": [
+      "visual record",
+      "hybrid form",
+      "inference",
+      "iconography",
+      "staple crop",
+      "modeling"
+    ],
+    "g1112": [
+      "oral tradition",
+      "inference",
+      "context",
+      "comparison",
+      "ceramic sculpture",
+      "no writing"
+    ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask groups to trace a Silk Road route on a map and list goods a camel might carry along it.",
       "Discuss why people made objects for burials, inviting respectful comparisons across cultures."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "camel",
+      "clay",
+      "shiny",
+      "long",
+      "neck",
+      "drip"
+    ],
+    "g12": [
+      "glossy",
+      "bumpy",
+      "mottled",
+      "tall",
+      "rounded",
+      "colorful"
+    ],
+    "g35": [
+      "glaze",
+      "sancai",
+      "Silk Road",
+      "potter",
+      "three colors",
+      "dripping"
+    ],
+    "g68": [
+      "Tang dynasty",
+      "earthenware",
+      "kiln",
+      "ceramic",
+      "trade routes",
+      "mottled surface"
+    ],
+    "g910": [
+      "lead glaze",
+      "craftsmanship",
+      "cultural exchange",
+      "funerary",
+      "technology",
+      "emblem"
+    ],
+    "g1112": [
+      "documentary evidence",
+      "burial practice",
+      "unpredictability",
+      "ceramic technology",
+      "network",
+      "belief"
+    ]
   }
 }

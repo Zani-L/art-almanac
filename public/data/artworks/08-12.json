@@ -8,11 +8,10 @@
   "movement": "Impressionism",
   "region": "France",
   "image": {
-    "url": "/images/artic-14620.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11566/claude_monet-cliff_walk_at_pourville-1882-obelisk-art-history.jpg",
     "credit": "Art Institute of Chicago, Mr. and Mrs. Lewis Larned Coburn Memorial Collection; image via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/cliff-walk-at-pourville/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11566/claude_monet-cliff_walk_at_pourville-1882-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/claude-monet/cliff-walk-at-pourville/"
   },
   "altText": "A seaside painting of a grassy cliff above the sea under a blue sky. Two women in long dresses stroll along the cliff top, one holding a parasol, and wind seems to ripple the grass.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint wind using only brushstroke direction on a patch of grass, then compare with Monet's approach.",
       "Ask students to find colors that appear in both the figures and the landscape and discuss why this connects them.",
       "Discuss how X-ray evidence changes our idea of what painting outdoors quickly really involves."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "women",
+      "grass",
+      "sea",
+      "sky",
+      "sun",
+      "hat"
+    ],
+    "g12": [
+      "windy",
+      "grassy",
+      "sunny",
+      "breezy",
+      "open",
+      "blue"
+    ],
+    "g35": [
+      "parasol",
+      "cliff",
+      "brushstrokes",
+      "wind",
+      "sunny colors",
+      "strolling"
+    ],
+    "g68": [
+      "Impressionism",
+      "diagonal",
+      "plein air",
+      "texture",
+      "balance",
+      "composition"
+    ],
+    "g910": [
+      "fusion",
+      "spontaneity",
+      "calculated balance",
+      "figure and landscape",
+      "atmosphere",
+      "texture"
+    ],
+    "g1112": [
+      "biographical context",
+      "trimmed outcrop",
+      "X-ray evidence",
+      "upheaval",
+      "apparent ease",
+      "formal evidence"
     ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask students to mix or choose warm colors that would look strong against a cool background.",
       "Discuss how an artist can show that time passes in a still life."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "yellow",
+      "orange",
+      "green",
+      "thick",
+      "paint"
+    ],
+    "g12": [
+      "bright",
+      "drooping",
+      "fading",
+      "fresh",
+      "bumpy",
+      "lively"
+    ],
+    "g35": [
+      "sunflowers",
+      "brushstrokes",
+      "direction",
+      "background",
+      "cut flowers",
+      "thick paint"
+    ],
+    "g68": [
+      "impasto",
+      "still life",
+      "warm colors",
+      "contrast",
+      "energy",
+      "Post-Impressionism"
+    ],
+    "g910": [
+      "juxtaposition",
+      "vitality",
+      "decay",
+      "color relations",
+      "application",
+      "restlessness"
+    ],
+    "g1112": [
+      "directional impasto",
+      "color theory",
+      "vitality",
+      "decay",
+      "Paris period",
+      "artist intent"
+    ]
   }
 }

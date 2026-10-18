@@ -8,11 +8,10 @@
   "movement": "Post-Impressionism",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-sunflowers.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/11631/vincent_van_gogh-sunflowers-1888-obelisk-art-history.jpg",
     "credit": "Van Gogh Museum, Netherlands; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/sunflowers/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/11631/vincent_van_gogh-sunflowers-1888-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/vincent-van-gogh/sunflowers/"
   },
   "altText": "A vase of sunflowers painted in many shades of yellow and orange, set against a yellow background. The paint is thick, with visible, energetic brushstrokes.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint or draw a flower using only shades of one color and compare their versions.",
       "Ask students to find the flowers at different stages and tell the story of time passing.",
       "Discuss why an artist might paint the same subject more than once."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "yellow",
+      "flowers",
+      "vase",
+      "bright",
+      "thick",
+      "round"
+    ],
+    "g12": [
+      "sunny",
+      "glowing",
+      "golden",
+      "bumpy",
+      "petals",
+      "cheerful"
+    ],
+    "g35": [
+      "background",
+      "shade",
+      "thick paint",
+      "mood",
+      "pattern",
+      "detail"
+    ],
+    "g68": [
+      "brushstroke",
+      "still life",
+      "shade",
+      "mood",
+      "background",
+      "energy"
+    ],
+    "g910": [
+      "impasto",
+      "monochrome",
+      "expression",
+      "motif",
+      "surface",
+      "repetition"
+    ],
+    "g1112": [
+      "painterly presence",
+      "originality",
+      "Post-Impressionism",
+      "subjectivity",
+      "variation",
+      "humble subject"
     ]
   }
 }

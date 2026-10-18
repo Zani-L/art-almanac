@@ -154,5 +154,55 @@
       "Ask students to compare how an artist might show a farm worker in a heroic way versus an everyday way.",
       "Discuss which jobs get shown in art and which do not."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "geese",
+      "lines",
+      "paper",
+      "birds",
+      "soft"
+    ],
+    "g12": [
+      "scratchy",
+      "dark",
+      "pale",
+      "print",
+      "tending",
+      "country"
+    ],
+    "g35": [
+      "drypoint",
+      "velvety lines",
+      "plate",
+      "rural life",
+      "texture",
+      "tone"
+    ],
+    "g68": [
+      "soft lines",
+      "shading",
+      "subject",
+      "everyday life",
+      "handmade",
+      "grainy"
+    ],
+    "g910": [
+      "burr",
+      "contour",
+      "labor",
+      "sentimentality",
+      "idealization",
+      "impression"
+    ],
+    "g1112": [
+      "burr",
+      "rural labor",
+      "sympathy",
+      "technique",
+      "date range",
+      "humane"
+    ]
   }
 }

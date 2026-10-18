@@ -155,5 +155,55 @@
       "Ask students to imagine the story between the cat and the bird, then discuss how the artist hints at it without words.",
       "Discuss why a household might buy an affordable print and how that differs from owning a one-of-a-kind painting."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "cat",
+      "bird",
+      "fruit",
+      "red",
+      "flat",
+      "paper"
+    ],
+    "g12": [
+      "colorful",
+      "printed",
+      "bold",
+      "flat",
+      "tiny",
+      "branch"
+    ],
+    "g35": [
+      "pattern",
+      "background",
+      "detail",
+      "outline",
+      "design",
+      "flat shapes"
+    ],
+    "g68": [
+      "woodblock",
+      "crabapple",
+      "carving",
+      "print",
+      "separate blocks",
+      "color"
+    ],
+    "g910": [
+      "registration",
+      "flatness",
+      "clarity",
+      "technique",
+      "symbol",
+      "narrative"
+    ],
+    "g1112": [
+      "mass production",
+      "commercial",
+      "status",
+      "fine art",
+      "edition",
+      "wall picture"
+    ]
   }
 }

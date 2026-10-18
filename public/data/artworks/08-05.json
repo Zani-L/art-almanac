@@ -155,5 +155,55 @@
       "Move the horizon line on a copy of the picture (with paper strips) to see how the feeling changes.",
       "Discuss why artists might paint quiet scenes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "sea",
+      "sky",
+      "water",
+      "calm",
+      "blue"
+    ],
+    "g12": [
+      "quiet",
+      "smooth",
+      "still",
+      "peaceful",
+      "wide",
+      "cloudy"
+    ],
+    "g35": [
+      "seascape",
+      "horizon",
+      "sky",
+      "calm",
+      "sailboats",
+      "tone"
+    ],
+    "g68": [
+      "Dutch Golden Age",
+      "atmosphere",
+      "composition",
+      "stillness",
+      "marine painting",
+      "light"
+    ],
+    "g910": [
+      "tonal",
+      "restraint",
+      "observation",
+      "trade",
+      "low horizon",
+      "scale"
+    ],
+    "g1112": [
+      "stillness as subject",
+      "nature's power",
+      "small scale",
+      "marine tradition",
+      "interpretation",
+      "ship portraits"
+    ]
   }
 }

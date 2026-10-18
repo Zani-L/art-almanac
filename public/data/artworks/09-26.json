@@ -155,5 +155,55 @@
       "Discuss how halos or glowing shapes appear in art from different cultures and what they signal.",
       "Talk about how museums display parts of larger works and what is lost when pieces are separated."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "metal",
+      "round",
+      "shiny",
+      "old",
+      "small",
+      "peg"
+    ],
+    "g12": [
+      "bronze",
+      "halo",
+      "missing",
+      "glowing",
+      "ancient",
+      "empty"
+    ],
+    "g35": [
+      "halo",
+      "bronze",
+      "island",
+      "statue",
+      "peg",
+      "radiance"
+    ],
+    "g68": [
+      "prabha",
+      "aureole",
+      "casting",
+      "fragment",
+      "Buddhist",
+      "sacred"
+    ],
+    "g910": [
+      "radiance",
+      "holiness",
+      "symbolism",
+      "assembled sculpture",
+      "absence",
+      "ensemble"
+    ],
+    "g1112": [
+      "part and whole",
+      "fragment display",
+      "original ensemble",
+      "cautious attribution",
+      "sacred iconography",
+      "museum framing"
+    ]
   }
 }

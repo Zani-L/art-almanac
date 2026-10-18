@@ -154,5 +154,55 @@
       "Compare dragons in Chinese art with dragons from other cultures and discuss what each stands for.",
       "Discuss why an artist might choose one color only and what it emphasizes."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "blue",
+      "white",
+      "waves",
+      "swirl",
+      "curl",
+      "dragon"
+    ],
+    "g12": [
+      "glossy",
+      "curving",
+      "swirling",
+      "deep",
+      "glazed",
+      "powerful"
+    ],
+    "g35": [
+      "porcelain",
+      "cobalt",
+      "glaze",
+      "movement",
+      "Jingdezhen",
+      "dragon"
+    ],
+    "g68": [
+      "underglaze",
+      "motif",
+      "Ming dynasty",
+      "reign mark",
+      "rhythm",
+      "pigment"
+    ],
+    "g910": [
+      "imperial authority",
+      "circular format",
+      "symbolism",
+      "court taste",
+      "tradition",
+      "depth"
+    ],
+    "g1112": [
+      "authenticity",
+      "inference",
+      "value",
+      "blue-and-white",
+      "reign marks",
+      "dragon"
+    ]
   }
 }

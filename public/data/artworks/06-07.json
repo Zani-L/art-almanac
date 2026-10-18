@@ -154,5 +154,55 @@
       "Have students photograph or sketch a 'general view' of the schoolyard and decide what to include.",
       "Discuss who is missing from a sweeping view of a landscape."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mountain",
+      "brown",
+      "land",
+      "big",
+      "far",
+      "photo"
+    ],
+    "g12": [
+      "wide",
+      "gray",
+      "valley",
+      "tall",
+      "camera",
+      "scene"
+    ],
+    "g35": [
+      "photograph",
+      "landscape",
+      "albumen print",
+      "glass negative",
+      "overview",
+      "tones"
+    ],
+    "g68": [
+      "vastness",
+      "depth",
+      "distance",
+      "monochrome",
+      "scale",
+      "calm"
+    ],
+    "g910": [
+      "tonal gradation",
+      "grandeur",
+      "atmospheric perspective",
+      "breadth",
+      "selection",
+      "monumental"
+    ],
+    "g1112": [
+      "Western myth",
+      "Native presence",
+      "framing",
+      "orientation",
+      "monumentality",
+      "simplification"
+    ]
   }
 }

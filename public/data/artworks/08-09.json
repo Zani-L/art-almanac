@@ -8,11 +8,10 @@
   "movement": "Ancient Egyptian art (First Intermediate Period)",
   "region": "Egypt",
   "image": {
-    "url": "/images/ahp-model-of-egyptian-nile-boat.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/18268/ancient-egypt-model-of-egyptian-nile-boat-2130-obelisk-art-history.jpg",
     "credit": "National Museum of Denmark; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/timeline/the-ancient-world/egypt/model-of-egyptian-nile-boat/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/18268/ancient-egypt-model-of-egyptian-nile-boat-2130-obelisk-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/timeline/the-ancient-world/egypt/model-of-egyptian-nile-boat/"
   },
   "altText": "A small wooden model of a boat from ancient Egypt, with a crew of figures on board. The model is shown as an object on its own.",
   "source": {
@@ -154,6 +153,56 @@
       "Have younger students build a simple boat from paper or craft sticks and decide who would travel on it and why.",
       "Ask older students to compare what a model can and cannot tell us about a real object from the past.",
       "Discuss respectfully how the Egyptians' ideas about tombs and the afterlife shaped the objects they made, noting which points come from the page and which are general history."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "wood",
+      "people",
+      "small",
+      "river",
+      "long"
+    ],
+    "g12": [
+      "wooden",
+      "tiny",
+      "carved",
+      "crowded",
+      "paddling",
+      "ancient"
+    ],
+    "g35": [
+      "model",
+      "Nile",
+      "crew",
+      "hull",
+      "boat",
+      "ancient Egypt"
+    ],
+    "g68": [
+      "craftsmanship",
+      "river economy",
+      "miniature",
+      "everyday",
+      "tradition",
+      "vessel"
+    ],
+    "g910": [
+      "offering",
+      "river trade",
+      "scale model",
+      "symbolism",
+      "inference",
+      "workers"
+    ],
+    "g1112": [
+      "findspot",
+      "inference",
+      "reflection of daily life",
+      "funerary tradition",
+      "evidence limits",
+      "river economy"
     ]
   }
 }

@@ -154,5 +154,55 @@
       "Ask students to design a personal stool or seat and choose one animal or symbol, and explain why they chose it.",
       "Discuss how the same object can be both useful and meaningful, using other everyday objects as examples."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "stool",
+      "wood",
+      "lion",
+      "low",
+      "wide",
+      "brown"
+    ],
+    "g12": [
+      "carved",
+      "wooden",
+      "sturdy",
+      "heavy",
+      "honored",
+      "powerful"
+    ],
+    "g35": [
+      "Akan",
+      "prestige",
+      "carved",
+      "lion",
+      "honor",
+      "wood"
+    ],
+    "g68": [
+      "symbol",
+      "social status",
+      "sculpture",
+      "function",
+      "carving",
+      "lineage"
+    ],
+    "g910": [
+      "political weight",
+      "power",
+      "office",
+      "museum display",
+      "empty seat",
+      "tradition"
+    ],
+    "g1112": [
+      "lineage",
+      "social standing",
+      "possibility",
+      "museum context",
+      "daily use",
+      "authority"
+    ]
   }
 }

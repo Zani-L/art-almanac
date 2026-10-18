@@ -8,11 +8,10 @@
   "movement": "Dutch Golden Age (trompe-l'oeil)",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-letter-rack.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/33986/edwaert_collier-letter_rack-1698-obelisk-art-history-1.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/edwaert-collier/letter-rack/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/33986/edwaert_collier-letter_rack-1698-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/edwaert-collier/letter-rack/"
   },
   "altText": "Papers, letters and small objects appear tucked behind crossing ribbons or straps on a flat board, as if they were real items pinned to a wall. The objects are painted in muted browns, creams and soft colors with careful shadows.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw an ordinary object with a strong cast shadow so it looks like it lifts off the page, then compare tricks used.",
       "Ask students to describe how they would convince a friend a flat picture is real and test the ideas on the painting.",
       "Discuss when it is fun to be fooled by art and when it is not."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "paper",
+      "letters",
+      "board",
+      "flat",
+      "tricks",
+      "fold"
+    ],
+    "g12": [
+      "realistic",
+      "flat",
+      "shadowy",
+      "tucked",
+      "tricky",
+      "neat"
+    ],
+    "g35": [
+      "trompe-l'oeil",
+      "illusion",
+      "straps",
+      "shadows",
+      "papers",
+      "tricks"
+    ],
+    "g68": [
+      "overlap",
+      "cast shadow",
+      "realism",
+      "virtuosity",
+      "still life",
+      "surface"
+    ],
+    "g910": [
+      "representation",
+      "deception",
+      "reality",
+      "perception",
+      "skill",
+      "flatness"
+    ],
+    "g1112": [
+      "illusion",
+      "trust",
+      "representation",
+      "virtuosity",
+      "flat surface",
+      "visual evidence"
     ]
   }
 }

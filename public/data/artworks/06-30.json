@@ -155,5 +155,55 @@
       "Compare a woven face with a drawn or painted face and discuss what each medium makes easy or hard.",
       "Discuss how climate affects what survives from the past."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "face",
+      "round",
+      "thread",
+      "soft",
+      "loops",
+      "cloth"
+    ],
+    "g12": [
+      "woven",
+      "fuzzy",
+      "looped",
+      "thick",
+      "circular",
+      "simple"
+    ],
+    "g35": [
+      "roundel",
+      "weaving",
+      "textile",
+      "pile",
+      "fragment",
+      "thread"
+    ],
+    "g68": [
+      "technique",
+      "linen",
+      "wool",
+      "pattern",
+      "relief",
+      "ornamental"
+    ],
+    "g910": [
+      "relief",
+      "Coptic",
+      "craftsmanship",
+      "stylization",
+      "Byzantine",
+      "portraiture"
+    ],
+    "g1112": [
+      "fragmentation",
+      "cultural exchange",
+      "context",
+      "early Christian",
+      "tentative",
+      "visual culture"
+    ]
   }
 }

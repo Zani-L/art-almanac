@@ -155,5 +155,55 @@
       "Ask students to point out where the perspective seems to tilt and debate whether it is a mistake or a choice.",
       "Pair this painting with a smooth realistic still life from another day and compare how each makes objects look solid."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "apples",
+      "pears",
+      "red",
+      "green",
+      "yellow",
+      "table"
+    ],
+    "g12": [
+      "fruity",
+      "blocky",
+      "colorful",
+      "solid",
+      "tilted",
+      "painted"
+    ],
+    "g35": [
+      "still life",
+      "color patches",
+      "solid shapes",
+      "warm",
+      "edges",
+      "arrangement"
+    ],
+    "g68": [
+      "volume",
+      "perspective",
+      "composition",
+      "brushwork",
+      "color modulation",
+      "form"
+    ],
+    "g910": [
+      "multiple viewpoints",
+      "formal inquiry",
+      "analysis",
+      "construction",
+      "observation",
+      "structure"
+    ],
+    "g1112": [
+      "humble subject",
+      "perception",
+      "Cubism",
+      "single-point perspective",
+      "deliberate construction",
+      "new seeing"
+    ]
   }
 }

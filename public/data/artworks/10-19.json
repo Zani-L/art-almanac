@@ -155,5 +155,55 @@
       "Discuss the difference between a place as someone remembers it and as it is.",
       "Locate Brazil and the Netherlands on a map and discuss why the Dutch traveled there."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "sky",
+      "land",
+      "trees",
+      "plants",
+      "wide",
+      "green"
+    ],
+    "g12": [
+      "calm",
+      "peaceful",
+      "faraway",
+      "sunny",
+      "tropical",
+      "open"
+    ],
+    "g35": [
+      "landscape",
+      "Brazil",
+      "memory",
+      "sketches",
+      "horizon",
+      "viewpoint"
+    ],
+    "g68": [
+      "panorama",
+      "perspective",
+      "colonial",
+      "idealized",
+      "conventions",
+      "vegetation"
+    ],
+    "g910": [
+      "omission",
+      "market",
+      "composed",
+      "exoticism",
+      "panoramic",
+      "perception"
+    ],
+    "g1112": [
+      "colonial picture",
+      "Dutch conventions",
+      "enslaved labor",
+      "omission",
+      "European market",
+      "composed beauty"
+    ]
   }
 }

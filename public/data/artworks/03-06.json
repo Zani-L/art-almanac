@@ -8,11 +8,10 @@
   "movement": "De Stijl",
   "region": "Netherlands",
   "image": {
-    "url": "/images/ahp-the-cardplayers.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/23242/theo_van_doesburg-the_cardplayers-1917-trivium-art-history.jpg",
     "credit": "Gemeentemuseum Den Haag, The Hague; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/theo-van-doesburg/the-cardplayers/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/23242/theo_van_doesburg-the_cardplayers-1917-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/theo-van-doesburg/the-cardplayers/"
   },
   "altText": "An abstract painting made of flat rectangles and blocks of color, in which people playing cards are broken down into geometric shapes.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students cut paper rectangles and arrange them to suggest a game or activity, then compare which shapes help viewers guess the subject.",
       "Ask students to find the biggest and smallest rectangles in the painting and discuss how size creates emphasis.",
       "Discuss when a picture needs to look like its subject and when it can be something more like a pattern."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boxes",
+      "blocks",
+      "squares",
+      "flat",
+      "bright",
+      "lines"
+    ],
+    "g12": [
+      "geometric",
+      "blocky",
+      "straight",
+      "flat",
+      "mixed-up",
+      "hidden"
+    ],
+    "g35": [
+      "pattern",
+      "shapes",
+      "background",
+      "color blocks",
+      "mood",
+      "design"
+    ],
+    "g68": [
+      "rectangles",
+      "abstract",
+      "geometry",
+      "flat color",
+      "subject",
+      "title"
+    ],
+    "g910": [
+      "abstraction",
+      "grid",
+      "De Stijl",
+      "reduction",
+      "rhythm",
+      "structure"
+    ],
+    "g1112": [
+      "likeness",
+      "modernism",
+      "rectilinear",
+      "passage",
+      "vocabulary",
+      "claim"
     ]
   }
 }

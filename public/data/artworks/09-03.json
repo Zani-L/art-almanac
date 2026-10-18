@@ -8,11 +8,10 @@
   "movement": "Symbolism",
   "region": "Russia",
   "image": {
-    "url": "/images/ahp-padma-sambhava.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/14498/nicholas_roerich-padma_sambhava-1924-trivium-art-history.jpg",
     "credit": "Nicholas Roerich Museum, New York; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/nicholas-roerich/padma-sambhava/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/14498/nicholas_roerich-padma_sambhava-1924-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/nicholas-roerich/padma-sambhava/"
   },
   "altText": "A tempera painting of towering mountains and a waterfall in a calm, glowing atmosphere. The landscape feels quiet and spiritual, suggested by the title.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students paint a mountain scene using only a few muted colors and compare how color changes mood.",
       "Discuss how a title changes what we look for in a picture, with a neutral, respectful tone toward the religious subject.",
       "Invite students to describe a place that feels quiet to them, and what colors and shapes they would use for it."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "mountain",
+      "water",
+      "big",
+      "tall",
+      "calm",
+      "glow"
+    ],
+    "g12": [
+      "waterfall",
+      "peaceful",
+      "mountains",
+      "towering",
+      "shining",
+      "special"
+    ],
+    "g35": [
+      "tempera",
+      "matte",
+      "landscape",
+      "waterfall",
+      "spiritual",
+      "peaceful"
+    ],
+    "g68": [
+      "Symbolism",
+      "atmosphere",
+      "scale",
+      "luminous",
+      "sacred",
+      "egg tempera"
+    ],
+    "g910": [
+      "spirituality",
+      "symbolic landscape",
+      "grandeur",
+      "devotion",
+      "Tibetan Buddhism",
+      "transcendence"
+    ],
+    "g1112": [
+      "Orientalism",
+      "cultural perspective",
+      "Symbolist ideal",
+      "sacred geography",
+      "outsider's view",
+      "matte luminosity"
     ]
   }
 }

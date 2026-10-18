@@ -155,5 +155,55 @@
       "Ask pairs to describe the painting aloud without naming the objects, while the partner draws.",
       "Discuss the difference between a realistic painting and a photograph, and what each offers."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "book",
+      "music",
+      "old",
+      "real",
+      "shiny",
+      "table"
+    ],
+    "g12": [
+      "detailed",
+      "worn",
+      "realistic",
+      "musical",
+      "flat",
+      "tricky"
+    ],
+    "g35": [
+      "still life",
+      "illusion",
+      "texture",
+      "highlight",
+      "trompe l'oeil",
+      "instruments"
+    ],
+    "g68": [
+      "composition",
+      "realism",
+      "imitation",
+      "surface",
+      "perception",
+      "detail"
+    ],
+    "g910": [
+      "virtuosity",
+      "illusionism",
+      "silence",
+      "age",
+      "collectors",
+      "perception"
+    ],
+    "g1112": [
+      "mastery",
+      "nostalgia",
+      "playful",
+      "intent",
+      "imitation",
+      "time"
+    ]
   }
 }

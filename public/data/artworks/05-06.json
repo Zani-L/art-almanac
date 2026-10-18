@@ -154,5 +154,55 @@
       "Have students design a good-luck charm for a belt and explain how its shape suits being handled.",
       "Discuss historic ivory objects and why present-day laws restrict ivory trade."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boat",
+      "tiny",
+      "bird",
+      "white",
+      "carve",
+      "small"
+    ],
+    "g12": [
+      "carved",
+      "smooth",
+      "crowded",
+      "pale",
+      "detailed",
+      "lucky"
+    ],
+    "g35": [
+      "netsuke",
+      "ivory",
+      "toggle",
+      "figures",
+      "luck",
+      "sash"
+    ],
+    "g68": [
+      "sculptural",
+      "Edo",
+      "kimono",
+      "treasure ship",
+      "craftsmanship",
+      "scale"
+    ],
+    "g910": [
+      "folk belief",
+      "function",
+      "Shinto",
+      "Buddhist",
+      "new year",
+      "layered"
+    ],
+    "g1112": [
+      "ethics",
+      "culture",
+      "compression",
+      "charm",
+      "context",
+      "fastener"
+    ]
   }
 }

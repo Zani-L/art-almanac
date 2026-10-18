@@ -154,5 +154,55 @@
       "Ask students to compare how different foods in the painting show texture and why that is hard to paint.",
       "Discuss why artists have painted food for centuries and what such pictures tell us about daily life."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "bread",
+      "grapes",
+      "peach",
+      "table",
+      "round",
+      "soft"
+    ],
+    "g12": [
+      "juicy",
+      "smooth",
+      "shiny",
+      "fresh",
+      "ripe",
+      "tasty"
+    ],
+    "g35": [
+      "still life",
+      "texture",
+      "snack",
+      "arrangement",
+      "surface",
+      "light"
+    ],
+    "g68": [
+      "composition",
+      "highlight",
+      "illusion",
+      "realistic",
+      "tradition",
+      "staged"
+    ],
+    "g910": [
+      "verisimilitude",
+      "virtuosity",
+      "genre hierarchy",
+      "humble",
+      "abundance",
+      "clarity"
+    ],
+    "g1112": [
+      "illusionism",
+      "academic hierarchy",
+      "patronage",
+      "everyday",
+      "craftsmanship",
+      "interpretation"
+    ]
   }
 }

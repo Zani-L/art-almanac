@@ -154,5 +154,55 @@
       "Ask students to choose one small scene and describe what is happening using details they can see.",
       "Discuss why an artist might show entertainments from different places and times together."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "dance",
+      "game",
+      "show",
+      "folding",
+      "music"
+    ],
+    "g12": [
+      "festival",
+      "colorful",
+      "busy",
+      "shiny",
+      "golden",
+      "playful"
+    ],
+    "g35": [
+      "screens",
+      "gold leaf",
+      "scenes",
+      "sumo",
+      "theater",
+      "musicians"
+    ],
+    "g68": [
+      "folding screen",
+      "Edo period",
+      "composite",
+      "spectacle",
+      "entertainment",
+      "composition"
+    ],
+    "g910": [
+      "narrative",
+      "multiple scenes",
+      "vibrancy",
+      "leisure",
+      "luxury",
+      "cultural life"
+    ],
+    "g1112": [
+      "public life",
+      "assembly",
+      "curation",
+      "format",
+      "panels",
+      "setting"
+    ]
   }
 }

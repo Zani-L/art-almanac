@@ -155,5 +155,55 @@
       "Discuss why some artists are well documented and others are not, and how researchers learn from paintings.",
       "Have students write a short museum label using only information from the painting and the teacher note."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "girl",
+      "boy",
+      "bird",
+      "berries",
+      "face",
+      "clothes"
+    ],
+    "g12": [
+      "strawberries",
+      "children",
+      "simple",
+      "outline",
+      "clear",
+      "pair"
+    ],
+    "g35": [
+      "portrait",
+      "props",
+      "outlines",
+      "family",
+      "Baltimore",
+      "clothing"
+    ],
+    "g68": [
+      "flat",
+      "careful detail",
+      "symbols",
+      "youth",
+      "pose",
+      "formal"
+    ],
+    "g910": [
+      "commission",
+      "contour",
+      "convention",
+      "nature",
+      "comfort",
+      "composition"
+    ],
+    "g1112": [
+      "primary source",
+      "evidentiary weight",
+      "African American painter",
+      "childhood",
+      "biography",
+      "markers of status"
+    ]
   }
 }

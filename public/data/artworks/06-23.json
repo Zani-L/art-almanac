@@ -8,11 +8,10 @@
   "movement": "Spanish Renaissance",
   "region": "Spain",
   "image": {
-    "url": "/images/ahp-fabula.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/10827/el_greco-fabula-1600-obelisk-art-history-1.jpg",
     "credit": "Museo Nacional del Prado, Spain; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/el-greco/fabula/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/10827/el_greco-fabula-1600-obelisk-art-history-1.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/el-greco/fabula/"
   },
   "altText": "A dark painting lit by a warm glow. A boy blows on a glowing ember, with a monkey beside him and a man next to them. Their faces are bright against a dark background.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students use a flashlight in a darkened room to light a small group of objects and describe how shadows change the mood.",
       "Ask students to write two different short stories for the painting, then point to the visual evidence for each.",
       "Discuss why artists give works titles that suggest a story without telling it."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boy",
+      "monkey",
+      "glow",
+      "dark",
+      "face",
+      "fire"
+    ],
+    "g12": [
+      "ember",
+      "warm",
+      "shadow",
+      "blowing",
+      "bright",
+      "lit"
+    ],
+    "g35": [
+      "chiaroscuro",
+      "light source",
+      "gesture",
+      "fable",
+      "faces",
+      "story"
+    ],
+    "g68": [
+      "drama",
+      "firelight",
+      "darkness",
+      "mood",
+      "drama of light",
+      "expression"
+    ],
+    "g910": [
+      "allegory",
+      "contrast",
+      "gaze",
+      "mystery",
+      "composition",
+      "storytelling"
+    ],
+    "g1112": [
+      "open reading",
+      "ambiguity",
+      "late work",
+      "meaning",
+      "evidence",
+      "narrative"
     ]
   }
 }

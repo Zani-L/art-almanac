@@ -154,5 +154,55 @@
       "Have students sketch a helmet for a modern activity and add one decorative feature that does not harm its function.",
       "Discuss how the weight of an object, here about 2.2 kilograms, changes our imagination of using it."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "helmet",
+      "gold",
+      "round",
+      "hard",
+      "shiny",
+      "metal"
+    ],
+    "g12": [
+      "steel",
+      "polished",
+      "strong",
+      "curved",
+      "heavy",
+      "crown"
+    ],
+    "g35": [
+      "steel",
+      "helmet",
+      "metalwork",
+      "strong",
+      "decoration",
+      "silhouette"
+    ],
+    "g68": [
+      "craftsmanship",
+      "armorer",
+      "contrasting finishes",
+      "rank",
+      "form",
+      "refinement"
+    ],
+    "g910": [
+      "courtly display",
+      "protective function",
+      "status symbol",
+      "ornament",
+      "copper alloy",
+      "design"
+    ],
+    "g1112": [
+      "rank and display",
+      "decontextualization",
+      "functional versus aesthetic",
+      "material contrast",
+      "wearer's absence",
+      "armorer's skill"
+    ]
   }
 }

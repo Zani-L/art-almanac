@@ -155,5 +155,55 @@
       "Have students compare this painting with a photograph of a harbor and list what each one can and cannot show.",
       "Invite students to design a souvenir painting of their own town and decide what to include."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "boats",
+      "water",
+      "sky",
+      "city",
+      "blue",
+      "sails"
+    ],
+    "g12": [
+      "harbor",
+      "wide",
+      "breezy",
+      "shimmering",
+      "busy",
+      "distant"
+    ],
+    "g35": [
+      "Venice",
+      "harbor",
+      "view",
+      "souvenir",
+      "far shore",
+      "boats"
+    ],
+    "g68": [
+      "veduta",
+      "atmosphere",
+      "horizon",
+      "brushwork",
+      "foreground",
+      "tourism"
+    ],
+    "g910": [
+      "loose touch",
+      "dissolved detail",
+      "document",
+      "light",
+      "vista",
+      "souvenir"
+    ],
+    "g1112": [
+      "tourism",
+      "collectors",
+      "personal sensibility",
+      "market demand",
+      "nostalgia",
+      "expressive image"
+    ]
   }
 }

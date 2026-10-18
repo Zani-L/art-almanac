@@ -154,5 +154,55 @@
       "Discuss the difference between a toy, a jewel, and a scientific instrument.",
       "Compare this frog with the lion clock in the archive and discuss how makers surprise viewers with movement."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "frog",
+      "gold",
+      "green",
+      "tiny",
+      "eyes",
+      "shiny"
+    ],
+    "g12": [
+      "jeweled",
+      "golden",
+      "sparkling",
+      "leaping",
+      "glossy",
+      "lifelike"
+    ],
+    "g35": [
+      "detail",
+      "pattern",
+      "sculpture",
+      "shine",
+      "tiny",
+      "design"
+    ],
+    "g68": [
+      "enamel",
+      "ruby",
+      "miniature",
+      "mechanism",
+      "machine",
+      "pearl"
+    ],
+    "g910": [
+      "automaton",
+      "naturalism",
+      "luxury",
+      "craftsmanship",
+      "artificial",
+      "detail"
+    ],
+    "g1112": [
+      "curiosity",
+      "virtuosity",
+      "wealth",
+      "spectacle",
+      "technology",
+      "function"
+    ]
   }
 }

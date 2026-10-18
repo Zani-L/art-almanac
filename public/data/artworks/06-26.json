@@ -155,5 +155,55 @@
       "Have students write and illustrate a short fable in which a small character solves a problem with cleverness.",
       "Compare how a fable and a painting each tell a story using different tools."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "lion",
+      "rabbit",
+      "well",
+      "book",
+      "water",
+      "animals"
+    ],
+    "g12": [
+      "hare",
+      "reflection",
+      "story",
+      "talking",
+      "handwritten",
+      "page"
+    ],
+    "g35": [
+      "fable",
+      "manuscript",
+      "lesson",
+      "reflection",
+      "folio",
+      "illustration"
+    ],
+    "g68": [
+      "teaching",
+      "characters",
+      "symmetry",
+      "decoration",
+      "gilding detail",
+      "small scale"
+    ],
+    "g910": [
+      "personification",
+      "moral",
+      "well",
+      "Persian",
+      "narrative",
+      "gold"
+    ],
+    "g1112": [
+      "political advice",
+      "self-regard",
+      "deception",
+      "textual tradition",
+      "allegory",
+      "folio"
+    ]
   }
 }

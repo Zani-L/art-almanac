@@ -155,5 +155,55 @@
       "Discuss how emblems, seals, and logos communicate authority, then compare with a modern example.",
       "Compare this emblem with the Iznik dish in the archive to see how Ottoman designers used flowers and scrolls in different media."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "gold",
+      "blue",
+      "oval",
+      "flowers",
+      "swirl",
+      "curvy"
+    ],
+    "g12": [
+      "fancy",
+      "royal",
+      "curly",
+      "decorated",
+      "wavy",
+      "flowing"
+    ],
+    "g35": [
+      "signature",
+      "seal",
+      "calligraphy",
+      "sultan",
+      "vines",
+      "loops"
+    ],
+    "g68": [
+      "tughra",
+      "Ottoman",
+      "illumination",
+      "emblem",
+      "scrolling",
+      "ornament"
+    ],
+    "g910": [
+      "ornamentation",
+      "symmetry",
+      "flourish",
+      "status",
+      "elegance",
+      "authority"
+    ],
+    "g1112": [
+      "sovereignty",
+      "lineage",
+      "legitimacy",
+      "script",
+      "standardized",
+      "elaboration"
+    ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to write three questions they would ask the museum about this drawing.",
       "Discuss why we label some artists by the name of a work instead of a personal name."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "face",
+      "small",
+      "head",
+      "gray",
+      "soft",
+      "line"
+    ],
+    "g12": [
+      "tiny",
+      "delicate",
+      "faint",
+      "pale",
+      "sketch",
+      "gentle"
+    ],
+    "g35": [
+      "metalpoint",
+      "fine",
+      "portrait",
+      "careful",
+      "detail",
+      "drawing"
+    ],
+    "g68": [
+      "study",
+      "line weight",
+      "profile",
+      "three-quarter view",
+      "intimate",
+      "Netherlandish"
+    ],
+    "g910": [
+      "attribution",
+      "sustained looking",
+      "preparatory study",
+      "model book",
+      "medium",
+      "evidence"
+    ],
+    "g1112": [
+      "provenance",
+      "documentation",
+      "elusive",
+      "scale",
+      "attribution",
+      "portraiture"
+    ]
   }
 }

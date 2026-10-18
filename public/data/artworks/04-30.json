@@ -155,5 +155,55 @@
       "Have students stage a freeze-frame of a busy market and discuss what the characters might say.",
       "Discuss how a picture can celebrate something and also warn about it."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "fish",
+      "market",
+      "basket",
+      "busy",
+      "sea",
+      "food"
+    ],
+    "g12": [
+      "crowded",
+      "piled",
+      "fresh",
+      "noisy",
+      "shopping",
+      "heaped"
+    ],
+    "g35": [
+      "foreground",
+      "background",
+      "abundance",
+      "trade",
+      "everyday life",
+      "baskets"
+    ],
+    "g68": [
+      "genre painting",
+      "still life",
+      "commerce",
+      "oil paint",
+      "composition",
+      "detail"
+    ],
+    "g910": [
+      "abundance",
+      "moral commentary",
+      "secular",
+      "excess",
+      "city life",
+      "narrative"
+    ],
+    "g1112": [
+      "moral warning",
+      "moralizing",
+      "religious conflict",
+      "Antwerp",
+      "evidence",
+      "ambition"
+    ]
   }
 }

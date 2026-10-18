@@ -154,5 +154,55 @@
       "Ask students to design a commemorative object for someone they admire, choosing a material and explaining why it fits.",
       "Discuss with older students what questions a museum should answer when it displays an object that was made for a different setting."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "head",
+      "gold",
+      "smooth",
+      "shiny",
+      "heavy",
+      "hard"
+    ],
+    "g12": [
+      "metal",
+      "royal",
+      "polished",
+      "solid",
+      "carved",
+      "crown"
+    ],
+    "g35": [
+      "sculpture",
+      "detail",
+      "pattern",
+      "shape",
+      "texture",
+      "polished"
+    ],
+    "g68": [
+      "brass",
+      "casting",
+      "guild",
+      "king",
+      "altar",
+      "detail"
+    ],
+    "g910": [
+      "ornament",
+      "permanence",
+      "craftsmanship",
+      "tradition",
+      "ritual",
+      "authority"
+    ],
+    "g1112": [
+      "restitution",
+      "provenance",
+      "office",
+      "commemoration",
+      "lost-wax casting",
+      "ownership"
+    ]
   }
 }

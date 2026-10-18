@@ -8,11 +8,10 @@
   "movement": "Northern Renaissance",
   "region": "Flanders (today Belgium)",
   "image": {
-    "url": "/images/ahp-hunters-in-the-snow.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/9999/pieter_bruegel_the_elder_-_hunters_in_the_snow_winter_1565_oil_on_wood_117x162cm_kunsthistorisches_museum_small.jpg",
     "credit": "Kunsthistorisches Museum, Vienna; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/pieter-bruegel-the-elder/hunters-in-the-snow/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/9999/pieter_bruegel_the_elder_-_hunters_in_the_snow_winter_1565_oil_on_wood_117x162cm_kunsthistorisches_museum_small.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/pieter-bruegel-the-elder/hunters-in-the-snow/"
   },
   "altText": "A winter landscape in which a group of hunters with dogs walk down a snowy hillside toward the viewer. Below them a village, frozen ponds with tiny skaters, bare trees and distant mountains stretch into the pale distance.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw a winter scene with a dark foreground, a lighter middle ground and a pale distance, and describe how depth is made.",
       "Ask students to find and name the smallest activity in the picture and tell its story.",
       "Discuss how an artist can show ordinary life as worth looking at closely."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "snow",
+      "dog",
+      "cold",
+      "white",
+      "hill",
+      "town"
+    ],
+    "g12": [
+      "winter",
+      "frozen",
+      "village",
+      "skating",
+      "distant",
+      "icy"
+    ],
+    "g35": [
+      "hunters",
+      "landscape",
+      "foreground",
+      "valley",
+      "daily life",
+      "distance"
+    ],
+    "g68": [
+      "diagonal",
+      "silhouette",
+      "middle ground",
+      "depth",
+      "panoramic",
+      "atmosphere"
+    ],
+    "g910": [
+      "perspective",
+      "season",
+      "depth",
+      "contrast",
+      "narrative",
+      "viewpoint"
+    ],
+    "g1112": [
+      "Northern Renaissance",
+      "vista",
+      "everyday life",
+      "narrative",
+      "mood",
+      "viewpoint"
     ]
   }
 }

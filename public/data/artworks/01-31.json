@@ -154,5 +154,55 @@
       "Ask groups to propose and defend three possible uses for the vessel, using visible evidence.",
       "Discuss how archaeologists decide what an object was for when no written record survives."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "pot",
+      "clay",
+      "tall",
+      "brown",
+      "rim",
+      "hand"
+    ],
+    "g12": [
+      "bumpy",
+      "ridged",
+      "rough",
+      "handmade",
+      "tall",
+      "sculpted"
+    ],
+    "g35": [
+      "Jomon",
+      "cord-marked",
+      "handmade",
+      "rim",
+      "earthenware",
+      "vessel"
+    ],
+    "g68": [
+      "coil building",
+      "pattern",
+      "sculptural rim",
+      "hunter-gatherers",
+      "texture",
+      "archaeology"
+    ],
+    "g910": [
+      "ceramic tradition",
+      "decoration",
+      "ritual",
+      "display",
+      "craftsmanship",
+      "function"
+    ],
+    "g1112": [
+      "hunter-gatherers",
+      "museum frameworks",
+      "uncertainty",
+      "art label",
+      "incomplete evidence",
+      "pre-agricultural"
+    ]
   }
 }

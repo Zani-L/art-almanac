@@ -8,11 +8,10 @@
   "movement": "Scientific illustration",
   "region": "Germany",
   "image": {
-    "url": "/images/ahp-art-forms-in-nature-plate-74-orchidae.jpg",
+    "url": "https://www.arthistoryproject.com/site/assets/files/16657/ernst-haeckel-art-forms-in-nature-plate-74-orchidae-1904-trivium-art-history.jpg",
     "credit": "collection not stated on source page; via arthistoryproject.com",
     "license": "Public domain (as stated by arthistoryproject.com)",
-    "licenseUrl": "https://www.arthistoryproject.com/artists/ernst-haeckel/art-forms-in-nature-plate-74-orchidae/",
-    "remoteUrl": "https://www.arthistoryproject.com/site/assets/files/16657/ernst-haeckel-art-forms-in-nature-plate-74-orchidae-1904-trivium-art-history.jpg"
+    "licenseUrl": "https://www.arthistoryproject.com/artists/ernst-haeckel/art-forms-in-nature-plate-74-orchidae/"
   },
   "altText": "Several orchid flowers and buds are arranged on a single page, with ruffled petals, curling lips and stems that bend in different directions. The blossoms vary in shape and size and are set together in a decorative pattern.",
   "source": {
@@ -154,6 +153,56 @@
       "Have students draw one orchid by folding a paper in half and drawing the matching sides, then discuss where symmetry helps and where nature varies.",
       "Ask students to compare two blooms on the plate and write three differences in petal shape.",
       "Discuss why a scientist might choose a drawing over a photograph and what each can show."
+    ]
+  },
+  "helpfulWords": {
+    "k": [
+      "flowers",
+      "petals",
+      "leaves",
+      "stems",
+      "pink",
+      "page"
+    ],
+    "g12": [
+      "ruffled",
+      "curly",
+      "bending",
+      "buds",
+      "blossoms",
+      "bunched"
+    ],
+    "g35": [
+      "orchid",
+      "petals",
+      "buds",
+      "plate",
+      "compare",
+      "symmetry"
+    ],
+    "g68": [
+      "botanical illustration",
+      "lithography",
+      "variation",
+      "arrangement",
+      "delicate",
+      "scientific"
+    ],
+    "g910": [
+      "design",
+      "intricate forms",
+      "repetition",
+      "natural patterns",
+      "specimen",
+      "balance"
+    ],
+    "g1112": [
+      "visual culture",
+      "scientific authority",
+      "credibility",
+      "beauty",
+      "Haeckel's ideas",
+      "botanical study"
     ]
   }
 }

@@ -155,5 +155,55 @@
       "Ask students to design an instrument that is useful and beautiful, labeling which features serve which purpose.",
       "Discuss how science and craft worked together in different cultures, using other scientific objects in the archive if available."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "round",
+      "brass",
+      "ring",
+      "gold",
+      "star",
+      "lines"
+    ],
+    "g12": [
+      "metal",
+      "shiny",
+      "lacy",
+      "engraved",
+      "sky",
+      "pierced"
+    ],
+    "g35": [
+      "astrolabe",
+      "time",
+      "stars",
+      "lettering",
+      "decoration",
+      "tool"
+    ],
+    "g68": [
+      "brass",
+      "pierced",
+      "calligraphy",
+      "engraved",
+      "scale",
+      "portable"
+    ],
+    "g910": [
+      "celestial",
+      "geometry",
+      "Safavid",
+      "function",
+      "analog",
+      "astronomy"
+    ],
+    "g1112": [
+      "analog computing",
+      "knowledge",
+      "astrology",
+      "faceplate",
+      "timekeeping",
+      "devotion"
+    ]
   }
 }

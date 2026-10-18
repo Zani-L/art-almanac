@@ -155,5 +155,55 @@
       "Ask students to list what they would include in a portrait to hint at their personality without showing it directly.",
       "Discuss the idea of a 'mask' in portraits and in everyday life."
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "man",
+      "book",
+      "room",
+      "face",
+      "chair",
+      "table"
+    ],
+    "g12": [
+      "proud",
+      "calm",
+      "elegant",
+      "carved",
+      "serious",
+      "fancy"
+    ],
+    "g35": [
+      "portrait",
+      "pose",
+      "poetry",
+      "grotesques",
+      "Florence",
+      "mystery"
+    ],
+    "g68": [
+      "Mannerism",
+      "cultivated",
+      "composure",
+      "self-presentation",
+      "sitter",
+      "symbolic"
+    ],
+    "g910": [
+      "irony",
+      "mask",
+      "wit",
+      "poise",
+      "display",
+      "restraint"
+    ],
+    "g1112": [
+      "self-presentation",
+      "unidentified sitter",
+      "psychological access",
+      "courtly milieu",
+      "grotesque heads",
+      "controlled surface"
+    ]
   }
 }

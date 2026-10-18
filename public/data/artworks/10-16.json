@@ -156,5 +156,55 @@
       "Compare the print with a photograph of a real wave. What did Hokusai exaggerate?",
       "Connect to science: how do waves form and travel?"
     ]
+  },
+  "helpfulWords": {
+    "k": [
+      "wave",
+      "boat",
+      "blue",
+      "big",
+      "white",
+      "mountain"
+    ],
+    "g12": [
+      "huge",
+      "curling",
+      "tiny",
+      "foamy",
+      "far",
+      "rough"
+    ],
+    "g35": [
+      "woodblock print",
+      "foam",
+      "Mount Fuji",
+      "carved blocks",
+      "scale",
+      "distance"
+    ],
+    "g68": [
+      "composition",
+      "contrast",
+      "outline",
+      "perspective",
+      "Prussian blue",
+      "ukiyo-e"
+    ],
+    "g910": [
+      "impermanence",
+      "juxtaposition",
+      "tension",
+      "energy",
+      "stillness",
+      "impression"
+    ],
+    "g1112": [
+      "impermanence",
+      "flat color",
+      "Western perspective",
+      "differing impressions",
+      "symbolic meaning",
+      "scale"
+    ]
   }
 }
